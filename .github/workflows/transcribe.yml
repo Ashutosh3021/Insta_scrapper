@@ -1,10 +1,11 @@
 # Save this file in your repo as:  .github/workflows/transcribe.yml
 #
 # What it does: whenever reels.txt changes on main (or you press "Run workflow"),
-# it transcribes every link in reels.txt (spoken words + on-screen text) with
-# insta.py and commits the result to main as transcription_<model name>.txt
-# (for example transcription_ggml-large-v3.txt).
-# No login / cookies are used.
+#   1. plan       splits reels.txt into small chunks (8 reels each by default)
+#   2. transcribe runs one job PER CHUNK, all in parallel (each job has its own 6-hour limit,
+#                 so a long list can no longer hit the limit, and each job has its own IP)
+#   3. merge      joins the chunks in order and commits transcription_<model name>.txt to main
+# Uses insta.py. No login / cookies.
 
 name: Transcribe reels
 
@@ -21,6 +22,10 @@ on:
         options:
           - ggml-large-v3
           - ggml-large-v3-turbo
+      chunk_size:
+        description: Reels per parallel job (smaller = faster overall, but more jobs)
+        type: string
+        default: "8"
 
 permissions:
   contents: write
@@ -30,14 +35,49 @@ concurrency:
   group: transcribe
   cancel-in-progress: false
 
+env:
+  WHISPER_MODEL: ${{ inputs.model || 'ggml-large-v3' }}
+  OUTPUT_FILE: transcription_${{ inputs.model || 'ggml-large-v3' }}.txt
+  CHUNK_SIZE: ${{ inputs.chunk_size || '8' }}
+  WHISPER_CPP_REF: v1.7.5
+
 jobs:
+  # ---------------------------------------------------------------- 1. plan
+  plan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+      total: ${{ steps.plan.outputs.total }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Split reels.txt into chunks
+        id: plan
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json, math, os, sys
+          size = max(1, int(os.environ["CHUNK_SIZE"]))
+          if not os.path.exists("reels.txt"):
+              sys.exit("reels.txt not found in the repo root")
+          links = [l.strip() for l in open("reels.txt", encoding="utf-8-sig")
+                   if l.strip() and not l.strip().startswith("#")]
+          if not links:
+              sys.exit("reels.txt has no links")
+          chunks = list(range(math.ceil(len(links) / size)))
+          print("matrix=" + json.dumps({"chunk": chunks}))
+          print(f"total={len(links)}")
+          EOF
+          cat "$GITHUB_OUTPUT"
+
+  # ---------------------------------------------------- 2. transcribe (parallel)
   transcribe:
-    runs-on: ubuntu-latest        # for your own PC's internet connection see "self-hosted" in the notes
-    timeout-minutes: 360
-    env:
-      WHISPER_MODEL: ${{ inputs.model || 'ggml-large-v3' }}
-      OUTPUT_FILE: transcription_${{ inputs.model || 'ggml-large-v3' }}.txt
-      WHISPER_CPP_REF: v1.7.5
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false                      # one bad chunk never stops the others
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
 
     steps:
       - name: Check out repo
@@ -66,7 +106,6 @@ jobs:
           --max-sleep-interval 8
           EOF
           yt-dlp --version
-          yt-dlp --list-impersonate-targets || true
 
       # ---- whisper-cli (built once, then cached) ----
       - name: Restore whisper-cli cache
@@ -86,6 +125,7 @@ jobs:
 
       - name: Save whisper-cli cache
         if: steps.cli-cache.outputs.cache-hit != 'true'
+        continue-on-error: true             # several chunks may try at once; harmless
         uses: actions/cache/save@v4
         with:
           path: whisper.cpp/build/bin/whisper-cli
@@ -114,18 +154,101 @@ jobs:
 
       - name: Save model cache
         if: steps.model-cache.outputs.cache-hit != 'true'
+        continue-on-error: true
         uses: actions/cache/save@v4
         with:
           path: ~/.cache/whisper
           key: whisper-model-${{ env.WHISPER_MODEL }}
 
-      # ---- the actual work ----
-      - name: Transcribe reels.txt
+      # ---- this job's slice of reels.txt ----
+      - name: Pick this job's reels
+        env:
+          CHUNK: ${{ matrix.chunk }}
         run: |
-          test -f reels.txt || { echo "reels.txt not found in the repo root"; exit 1; }
-          python insta.py reels.txt -o "$OUTPUT_FILE" \
+          python3 - <<'EOF'
+          import os
+          size = int(os.environ["CHUNK_SIZE"]); chunk = int(os.environ["CHUNK"])
+          links = [l.strip() for l in open("reels.txt", encoding="utf-8-sig")
+                   if l.strip() and not l.strip().startswith("#")]
+          part = links[chunk * size:(chunk + 1) * size]
+          open("chunk.txt", "w", encoding="utf-8").write("\n".join(part) + "\n")
+          print(f"chunk {chunk}: reels {chunk * size + 1}-{chunk * size + len(part)} of {len(links)}")
+          EOF
+
+      - name: Transcribe this chunk
+        env:
+          CHUNK: ${{ matrix.chunk }}
+          TOTAL: ${{ needs.plan.outputs.total }}
+        run: |
+          mkdir -p parts
+          python insta.py chunk.txt -o "parts/part-$(printf '%04d' "$CHUNK").txt" \
+            --offset "$((CHUNK * CHUNK_SIZE))" --total "$TOTAL" --no-header \
             --model "$HOME/.cache/whisper/${WHISPER_MODEL}.bin" \
             --threads "$(nproc)" --workers "$(nproc)"
+
+      # runs even if the job is cancelled/timed out, so finished reels are never lost
+      - name: Upload this chunk's result
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: part-${{ matrix.chunk }}
+          path: parts/
+          retention-days: 3
+          if-no-files-found: ignore
+
+  # -------------------------------------------------------------- 3. merge
+  merge:
+    needs: [plan, transcribe]
+    if: ${{ !cancelled() && needs.plan.result == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TOTAL: ${{ needs.plan.outputs.total }}
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Download all chunk results
+        uses: actions/download-artifact@v4
+        with:
+          pattern: part-*
+          merge-multiple: true
+          path: parts
+
+      - name: Join the chunks into one file
+        run: |
+          shopt -s nullglob
+          files=(parts/part-*.txt)
+          [ ${#files[@]} -gt 0 ] || { echo "No results were produced"; exit 1; }
+          {
+            echo "Transcripts generated $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo "Model: $WHISPER_MODEL   Source list: reels.txt   Videos: $TOTAL"
+            echo
+            cat "${files[@]}"
+          } > "$OUTPUT_FILE"
+
+          done_count=$(grep -c '^STATUS:' "$OUTPUT_FILE" || true)
+          failed=$(grep -c '^STATUS: FAILED' "$OUTPUT_FILE" || true)
+          missing=$((TOTAL - done_count))
+          echo "$((done_count - failed)) ok, $failed failed, $missing missing (of $TOTAL)"
+
+          {
+            echo "### $((done_count - failed)) ok, $failed failed, $missing missing (of $TOTAL reels)"
+            if [ "$failed" -gt 0 ]; then
+              echo
+              echo "Failed links (paste them into reels.txt to try again):"
+              echo '```'
+              awk '/^\[[0-9]+\] /{u=$2} /^STATUS: FAILED/{print u}' "$OUTPUT_FILE"
+              echo '```'
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          if [ "$failed" -gt 0 ]; then
+            echo "::warning::$failed of $TOTAL reels failed to download or process - see the run summary"
+          fi
+          if [ "$missing" -gt 0 ]; then
+            echo "::warning::$missing reels have no result (a chunk job failed or timed out)"
+          fi
 
       - name: Commit the transcription to main
         run: |
@@ -138,16 +261,4 @@ jobs:
             git commit -m "Update $OUTPUT_FILE"
             git pull --rebase origin main
             git push origin HEAD:main
-          fi
-
-      - name: Report failed reels
-        run: |
-          total=$(grep -c '^STATUS:' "$OUTPUT_FILE" || true)
-          failed=$(grep -c '^STATUS: FAILED' "$OUTPUT_FILE" || true)
-          echo "$failed of $total reels failed"
-          if [ "$failed" -gt 0 ]; then
-            echo "::warning::$failed of $total reels failed to download or process - see $OUTPUT_FILE"
-          fi
-          if [ "$total" -gt 0 ] && [ "$failed" -eq "$total" ]; then
-            exit 1
           fi
