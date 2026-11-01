@@ -15,6 +15,9 @@ Usage:
 links.txt = one link per line (blank lines and lines starting with # are ignored).
 A path to a local video file also works instead of a link.
 
+Each reel gets a live progress bar, e.g.
+  [██████████████░░░░░░░░░░░░░░]  50%  transcribing 63%  (0:41)
+
 One-time setup (on top of the guide's yt-dlp / ffmpeg / whisper-cpp):
   Mac:      brew install tesseract tesseract-lang
   Windows:  install Tesseract from https://github.com/UB-Mannheim/tesseract/wiki
@@ -31,6 +34,8 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import threading
+import time
 import unicodedata
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
@@ -40,6 +45,8 @@ from pathlib import Path
 TS_RE = re.compile(
     r"\[(\d+):(\d+):(\d+)[.,](\d+)\s*-->\s*(\d+):(\d+):(\d+)[.,](\d+)\]\s*(.*)"
 )
+WHISPER_PROGRESS_RE = re.compile(r"progress\s*=\s*(\d+)\s*%")
+PERCENT_RE = re.compile(r"(\d+(?:\.\d+)?)\s*%")
 NOISE_WORDS = {
     "music", "blank_audio", "silence", "applause", "laughter", "noise",
     "inaudible", "singing", "speaking in foreign language", "no speech",
@@ -71,6 +78,39 @@ def run(cmd, env=None):
     )
 
 
+def stream(cmd, watch, on_line):
+    """
+    Run a command and call on_line(line) for every line of the watched stream
+    ("stdout" or "stderr") while it is running. The other stream is collected in
+    a background thread so nothing can block.
+    Returns (returncode, watched_text, other_text).
+    """
+    p = subprocess.Popen(
+        [str(c) for c in cmd],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+    )
+    watched = p.stdout if watch == "stdout" else p.stderr
+    other = p.stderr if watch == "stdout" else p.stdout
+    box = []
+    t = threading.Thread(target=lambda: box.append(other.read()), daemon=True)
+    t.start()
+    seen = []
+    try:
+        for line in watched:
+            seen.append(line)
+            on_line(line)
+        p.wait()
+        t.join()
+    finally:
+        if p.poll() is None:  # Ctrl+C or error: don't leave the tool running
+            p.kill()
+    return p.returncode, "".join(seen), (box[0] if box else "")
+
+
 def fmt_time(sec):
     sec = int(sec)
     h, rem = divmod(sec, 3600)
@@ -83,15 +123,124 @@ def log(msg):
 
 
 # ----------------------------------------------------------------------------
+# live progress bar (one per reel)
+# ----------------------------------------------------------------------------
+def pick_glyphs():
+    enc = getattr(sys.stdout, "encoding", None) or "ascii"
+    try:
+        "█░".encode(enc)
+        return "█", "░"
+    except Exception:
+        return "#", "-"
+
+
+class Bar:
+    """
+    Overall progress is a weighted mix of the stages. Stages that don't apply to a
+    reel (no audio, OCR off, local file) are dropped and the rest is re-scaled.
+    The weights are rough: they make the bar move steadily, not tell the exact time left.
+    """
+
+    LABELS = {
+        "download": "downloading",
+        "audio": "extracting audio",
+        "speech": "transcribing",
+        "frames": "grabbing frames",
+        "ocr": "reading on-screen text",
+    }
+
+    def __init__(self, weights):
+        self.w = dict(weights)
+        self.f = {k: 0.0 for k in weights}
+        self.stage = None
+        self.detail = ""
+        self.shown = 0.0
+        self.t0 = time.monotonic()
+        self.last_draw = 0.0
+        self.tty = sys.stdout.isatty()
+        self.full, self.empty = pick_glyphs()
+        self.width = 28
+        self.prev_len = 0
+        self.last_step = -1
+        self.last_stage = None
+
+    def drop(self, name):
+        self.w.pop(name, None)
+        self.f.pop(name, None)
+
+    def _overall(self):
+        total = sum(self.w.values())
+        if total <= 0:
+            return 1.0
+        return sum(self.w[k] * self.f[k] for k in self.w) / total
+
+    def update(self, name, frac, detail=""):
+        if name not in self.w:
+            return
+        self.f[name] = max(self.f[name], min(1.0, max(0.0, frac)))
+        self.stage = name
+        self.detail = detail
+        self.shown = max(self.shown, self._overall())
+        self._draw()
+
+    def _line(self, text):
+        pct = int(self.shown * 100)
+        filled = int(self.width * self.shown)
+        bar = self.full * filled + self.empty * (self.width - filled)
+        elapsed = fmt_time(time.monotonic() - self.t0)
+        return f"  [{bar}] {pct:3d}%  {text}  ({elapsed})"
+
+    def _stage_text(self):
+        label = self.LABELS.get(self.stage, "working")
+        if self.detail:
+            return f"{label} {self.detail}"
+        if self.stage in self.f:
+            return f"{label} {int(self.f[self.stage] * 100)}%"
+        return label
+
+    def _draw(self, force=False):
+        now = time.monotonic()
+        if not force and now - self.last_draw < 0.1:
+            return
+        self.last_draw = now
+        line = self._line(self._stage_text())
+        if self.tty:
+            cols = shutil.get_terminal_size((100, 20)).columns - 1
+            line = line[:cols]
+            sys.stdout.write("\r" + line.ljust(self.prev_len))
+            sys.stdout.flush()
+            self.prev_len = len(line)
+        else:
+            # output is redirected to a file: print a plain line every 10%
+            step = int(self.shown * 100) // 10
+            if step != self.last_step or self.stage != self.last_stage:
+                print(line, flush=True)
+                self.last_step, self.last_stage = step, self.stage
+
+    def finish(self, ok):
+        if ok:
+            self.shown = 1.0
+        line = self._line("done" if ok else "failed")
+        if self.tty:
+            cols = shutil.get_terminal_size((100, 20)).columns - 1
+            line = line[:cols]
+            sys.stdout.write("\r" + line.ljust(self.prev_len) + "\n")
+            sys.stdout.flush()
+        else:
+            print(line, flush=True)
+
+
+# ----------------------------------------------------------------------------
 # step 1: get the video
 # ----------------------------------------------------------------------------
-def get_video(source, workdir, yt_dlp, cookies_browser):
+def get_video(source, workdir, yt_dlp, cookies_browser, on_progress):
     if os.path.exists(source):
         return Path(source)
 
     out = workdir / "video.%(ext)s"
     cmd = [
         yt_dlp, "--no-playlist", "--no-warnings",
+        "--newline", "--progress", "--progress-template", "download:DLPROG %(progress._percent_str)s",
         "-f", "bv*[height<=720]+ba/b[height<=720]/b",
         "--merge-output-format", "mp4",
         "-o", str(out),
@@ -100,14 +249,20 @@ def get_video(source, workdir, yt_dlp, cookies_browser):
         cmd += ["--cookies-from-browser", cookies_browser]
     cmd.append(source)
 
-    r = run(cmd)
+    def on_line(line):
+        m = PERCENT_RE.search(line)
+        if m:
+            on_progress(float(m.group(1)) / 100)
+
+    rc, _, err = stream(cmd, "stdout", on_line)
     files = [p for p in workdir.glob("video.*") if p.suffix not in (".part", ".ytdl")]
-    if r.returncode != 0 or not files:
-        tail = (r.stderr or r.stdout).strip().splitlines()[-3:]
+    if rc != 0 or not files:
+        tail = err.strip().splitlines()[-3:]
         raise RuntimeError(
             "download failed: " + " | ".join(tail)
             + "  (if it needs a login, re-run with --cookies-from-browser chrome)"
         )
+    on_progress(1.0)
     return files[0]
 
 
@@ -126,13 +281,33 @@ def has_audio(video):
     return "audio" in r.stdout
 
 
+def ffmpeg_run(args, duration, on_progress):
+    """Run ffmpeg and report progress (0..1) using its -progress output."""
+    cmd = ["ffmpeg", "-y", "-nostdin", "-loglevel", "error",
+           "-progress", "pipe:1", "-nostats"] + [str(a) for a in args]
+
+    def on_line(line):
+        key, _, val = line.strip().partition("=")
+        if key in ("out_time_us", "out_time_ms") and duration > 0:
+            try:
+                secs = max(0, int(val)) / 1e6
+            except ValueError:
+                return
+            on_progress(min(1.0, secs / duration))
+
+    rc, _, err = stream(cmd, "stdout", on_line)
+    if rc == 0:
+        on_progress(1.0)
+    return rc, err
+
+
 # ----------------------------------------------------------------------------
 # step 2: spoken words (whisper)
 # ----------------------------------------------------------------------------
-def extract_audio(video, wav):
-    r = run(["ffmpeg", "-y", "-i", video, "-vn", "-ac", "1", "-ar", "16000",
-             "-c:a", "pcm_s16le", wav])
-    return r.returncode == 0 and Path(wav).exists()
+def extract_audio(video, wav, duration, on_progress):
+    rc, _ = ffmpeg_run(["-i", video, "-vn", "-ac", "1", "-ar", "16000",
+                        "-c:a", "pcm_s16le", wav], duration, on_progress)
+    return rc == 0 and Path(wav).exists()
 
 
 def is_silent(wav, threshold_db=-50.0):
@@ -149,14 +324,25 @@ def is_noise(text):
         or stripped in NOISE_WORDS
 
 
-def transcribe(wav, whisper, model, lang, threads):
-    r = run([whisper, "-m", model, "-f", wav, "-l", lang, "-t", threads])
-    if r.returncode != 0:
-        raise RuntimeError("whisper failed: " + (r.stderr or "").strip()[-300:])
+def transcribe(wav, whisper, model, lang, threads, on_progress):
+    base = [whisper, "-m", model, "-f", wav, "-l", lang, "-t", threads]
 
-    detected = re.search(r"auto-detected language:\s*(\w+)", r.stderr or "")
+    def on_line(line):
+        m = WHISPER_PROGRESS_RE.search(line)
+        if m:
+            on_progress(int(m.group(1)) / 100)
+
+    # -pp makes whisper-cli print its progress (to stderr) while it works
+    rc, err, out = stream(base + ["-pp"], "stderr", on_line)
+    if rc != 0 and re.search(r"unknown argument|invalid argument", err, re.I):
+        rc, err, out = stream(base, "stderr", lambda line: None)  # older build: no live progress
+    if rc != 0:
+        raise RuntimeError("whisper failed: " + err.strip()[-300:])
+    on_progress(1.0)
+
+    detected = re.search(r"auto-detected language:\s*(\w+)", err)
     segments = []
-    for line in r.stdout.splitlines():
+    for line in out.splitlines():
         m = TS_RE.match(line.strip())
         if not m:
             continue
@@ -183,12 +369,12 @@ def pick_interval(duration, requested):
     return 10
 
 
-def extract_frames(video, frames_dir, interval):
+def extract_frames(video, frames_dir, interval, duration, on_progress):
     frames_dir.mkdir(exist_ok=True)
-    r = run(["ffmpeg", "-y", "-i", video, "-vf", f"fps=1/{interval}",
-             "-q:v", "2", str(frames_dir / "f_%05d.jpg")])
-    if r.returncode != 0:
-        raise RuntimeError("frame extraction failed")
+    rc, err = ffmpeg_run(["-i", video, "-vf", f"fps=1/{interval}", "-q:v", "2",
+                          str(frames_dir / "f_%05d.jpg")], duration, on_progress)
+    if rc != 0:
+        raise RuntimeError("frame extraction failed: " + err.strip()[-200:])
     return sorted(frames_dir.glob("f_*.jpg"))
 
 
@@ -246,13 +432,18 @@ def merge_ocr(per_frame, interval):
     return entries
 
 
-def ocr_video(video, workdir, tesseract, langs, interval, psm, workers):
-    frames = extract_frames(video, workdir / "frames", interval)
+def ocr_video(video, workdir, tesseract, langs, interval, psm, workers,
+              duration, on_frames, on_ocr):
+    frames = extract_frames(video, workdir / "frames", interval, duration, on_frames)
     if not frames:
+        on_ocr(1, 1)
         return []
     jobs = [(tesseract, f, langs, psm) for f in frames]
+    results = []
     with ThreadPoolExecutor(max_workers=workers) as pool:
-        results = list(pool.map(ocr_frame, jobs))
+        for lines in pool.map(ocr_frame, jobs):
+            results.append(lines)
+            on_ocr(len(results), len(jobs))
     per_frame = [(i * interval, lines) for i, lines in enumerate(results)]
     return merge_ocr(per_frame, interval)
 
@@ -260,37 +451,125 @@ def ocr_video(video, workdir, tesseract, langs, interval, psm, workers):
 # ----------------------------------------------------------------------------
 # per-link pipeline
 # ----------------------------------------------------------------------------
+RATE_LIMIT_RE = re.compile(r"rate.?limit|too many requests|HTTP Error 429", re.I)
+
+
+def get_video_with_retry(source, workdir, yt_dlp, a, bar):
+    """Instagram often rate-limits anonymous access. When that happens, wait and try again."""
+    waits = [0] + list(a.rate_limit_waits)
+    for attempt, wait in enumerate(waits):
+        if wait and not sys.stdout.isatty():
+            log(f"  rate-limited - waiting {wait}s before retry {attempt}/{len(waits) - 1}")
+        for left in range(wait, 0, -1):
+            bar.update("download", 0, f"rate-limited, retry {attempt}/{len(waits) - 1} in {left}s")
+            time.sleep(1)
+        try:
+            return get_video(source, workdir, yt_dlp, a.cookies_from_browser,
+                             lambda f: bar.update("download", f))
+        except RuntimeError as e:
+            if attempt == len(waits) - 1 or not RATE_LIMIT_RE.search(str(e)):
+                raise
+
+
 def process(source, a, tools):
     workdir = Path(tempfile.mkdtemp(prefix="v2t_"))
     result = {"status": "OK", "duration": 0, "lang": "-", "speech": [],
               "speech_note": "", "ocr": [], "ocr_note": "", "interval": None}
+
+    use_ocr = bool(tools["tesseract"]) and not a.no_ocr
+    bar = Bar({"download": 10, "audio": 2, "speech": 43, "frames": 5, "ocr": 40})
+    if os.path.exists(source):
+        bar.drop("download")  # local file: nothing to download
+    if not use_ocr:
+        bar.drop("frames")
+        bar.drop("ocr")
+
+    completed = False
     try:
-        log("  downloading ...")
-        video = get_video(source, workdir, tools["yt_dlp"], a.cookies_from_browser)
+        bar.update("download", 0)
+        video = get_video_with_retry(source, workdir, tools["yt_dlp"], a, bar)
         result["duration"] = probe_duration(video)
+        duration = result["duration"]
 
         # ---- spoken words ----
         if not has_audio(video):
             result["speech_note"] = "[no audio track in this video]"
+            bar.drop("audio")
+            bar.drop("speech")
         else:
             wav = workdir / "audio.wav"
-            if not extract_audio(video, wav):
+            bar.update("audio", 0)
+            if not extract_audio(video, wav, duration, lambda f: bar.update("audio", f)):
                 result["speech_note"] = "[could not extract audio]"
+                bar.drop("speech")
             elif is_silent(wav):
                 result["speech_note"] = "[no speech - audio is silent]"
+                bar.drop("speech")
             else:
-                log("  transcribing ...")
+                bar.update("speech", 0)
                 segs, lang = transcribe(wav, tools["whisper"], a.model, a.language,
-                                        str(a.threads))
+                                        str(a.threads),
+                                        lambda f: bar.update("speech", f))
                 result["lang"] = lang
                 result["speech"] = segs
                 if not segs:
                     result["speech_note"] = "[no speech detected - music or sound only]"
 
         # ---- on-screen text ----
-        if tools["tesseract"] and not a.no_ocr:
-            interval = pick_interval(result["duration"], a.ocr_interval)
+        if use_ocr:
+            interval = pick_interval(duration, a.ocr_interval)
             result["interval"] = interval
+            bar.update("frames", 0)
+            result["ocr"] = ocr_video(
+                video, workdir, tools["tesseract"], tools["ocr_langs"], interval,
+                str(a.psm), a.workers, duration,
+                lambda f: bar.update("frames", f),
+                lambda done, total: bar.update("ocr", done / total, f"{done}/{total} frames"),
+            )
+            if not result["ocr"]:
+                result["ocr_note"] = "[no on-screen text found]"
+        else:
+            result["ocr_note"] = "[OCR skipped]"
+        completed = True
+    except Exception as e:  # keep going with the next link
+        result["status"] = f"FAILED - {e}"
+    finally:
+        bar.finish(completed and result["status"] == "OK")
+        if a.keep_temp:
+            log(f"  (kept temp files in {workdir})")
+        else:
+            shutil.rmtree(workdir, ignore_errors=True)
+    return result
+
+
+def format_block(index, source, r):
+    bar = "=" * 72
+    out = [bar, f"[{index}] {source}", f"STATUS: {r['status']}"]
+    if r["status"] != "OK":
+        out += [bar, ""]
+        return "\n".join(out)
+
+    out.append(f"DURATION: {fmt_time(r['duration'])}   SPOKEN LANGUAGE: {r['lang']}")
+    out += [bar, "", "--- SPOKEN TRANSCRIPT ---"]
+    if r["speech"]:
+        for s, e, text in r["speech"]:
+            out.append(f"[{fmt_time(s)} - {fmt_time(e)}] {text}")
+    else:
+        out.append(r["speech_note"] or "[no speech]")
+
+    out += ["", "--- ON-SCREEN TEXT (OCR, approximate) ---"]
+    if r["ocr"]:
+        for e in r["ocr"]:
+            span = (f"[{fmt_time(e['start'])}]" if e["start"] == e["last"]
+                    else f"[{fmt_time(e['start'])} - {fmt_time(e['last'])}]")
+            out.append(f"{span} {e['text']}")
+    else:
+        out.append(r["ocr_note"] or "[no on-screen text found]")
+    out += ["", ""]
+    return "\n".join(out)
+
+
+# ------------------------------------------------"interval"] = interval
             log(f"  reading on-screen text (1 frame every {interval}s) ...")
             result["ocr"] = ocr_video(video, workdir, tools["tesseract"],
                                       tools["ocr_langs"], interval, str(a.psm), a.workers)
