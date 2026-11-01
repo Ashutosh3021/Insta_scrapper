@@ -1,0 +1,689 @@
+﻿Transcripts generated 2026-11-01 17:57
+Source list: reels.txt   Videos: 98
+
+========================================================================
+[1] https://www.instagram.com/reel/DeTsC8DIpOO/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_68ib68u3/audio.wav' (1394335 samples, 87.1 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[2] https://www.instagram.com/reel/Dcc_ouVoUXE/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_5it4m3s1/audio.wav' (1615017 samples, 100.9 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[3] https://www.instagram.com/reel/DfMZ_JsIWbV/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_bozrp7gj/audio.wav' (269374 samples, 16.8 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[4] https://www.instagram.com/reel/DfJmvAzonTP/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_3wa3ima1/audio.wav' (1085974 samples, 67.9 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[5] https://www.instagram.com/reel/DfH__5uoH3x/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_r2fylpuf/audio.wav' (271603 samples, 17.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[6] https://www.instagram.com/reel/DfHFXTcoI0V/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t__s7564kz/audio.wav' (1655884 samples, 103.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[7] https://www.instagram.com/reel/DfEzwU-ItMl/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_hr5f6_r8/audio.wav' (190612 samples, 11.9 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[8] https://www.instagram.com/reel/DfB7gu-oel3/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_fl053vpz/audio.wav' (1124612 samples, 70.3 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[9] https://www.instagram.com/reel/De8wl3hodMX/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_jwwhy74i/audio.wav' (1154333 samples, 72.1 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[10] https://www.instagram.com/reel/De6sXQSoNTo/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_g22f9vkp/audio.wav' (662442 samples, 41.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[11] https://www.instagram.com/reel/De6lGAaozkO/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_8z4zdk07/audio.wav' (434329 samples, 27.1 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[12] https://www.instagram.com/reel/De6MMaERhe9/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_3iclrhzd/audio.wav' (767210 samples, 48.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[13] https://www.instagram.com/reel/De33EDHoF5B/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_hamy7iip/audio.wav' (215875 samples, 13.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[14] https://www.instagram.com/reel/De1JSUpIB1O/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_i9xn25eo/audio.wav' (1651426 samples, 103.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[15] https://www.instagram.com/reel/Dev69hZo7nr/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_0rmtx945/audio.wav' (1414397 samples, 88.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[16] https://www.instagram.com/reel/DetySNhIiZj/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_nlia8fss/audio.wav' (528695 samples, 33.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[17] https://www.instagram.com/reel/DeqpxJhIbol/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_2s44zqci/audio.wav' (1366842 samples, 85.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[18] https://www.instagram.com/reel/Delrc-3Iu-S/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_5_lnc0dd/audio.wav' (1313343 samples, 82.1 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[19] https://www.instagram.com/reel/Dei4nG2oXnp/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t__2_6ae12/audio.wav' (229250 samples, 14.3 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[20] https://www.instagram.com/reel/DegX3Q9IQif/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_xq9aq_hh/audio.wav' (1664057 samples, 104.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[21] https://www.instagram.com/reel/Ded_qH2Iqmj/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_sqvjakky/audio.wav' (1421084 samples, 88.8 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[22] https://www.instagram.com/reel/DedxRSAxLNJ/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_2ax65gc0/audio.wav' (381573 samples, 23.8 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[23] https://www.instagram.com/reel/DebP6FuI3nr/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_2_rf3ng6/audio.wav' (1542942 samples, 96.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[24] https://www.instagram.com/reel/DeYvnopI1Zd/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_7mdeekse/audio.wav' (1377245 samples, 86.1 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[25] https://www.instagram.com/reel/DeWJES-o0V5/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_tm2l22g_/audio.wav' (1288080 samples, 80.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[26] https://www.instagram.com/reel/DeQ7fago3Ol/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_pgjoqd89/audio.wav' (1002753 samples, 62.7 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[27] https://www.instagram.com/reel/DeObmfNItT5/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_mycq_k3s/audio.wav' (1542199 samples, 96.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[28] https://www.instagram.com/reel/DeJTaX0oXnb/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_g7lw10kl/audio.wav' (350365 samples, 21.9 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[29] https://www.instagram.com/reel/DeJO2RZI2l2/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_qvkhcb2v/audio.wav' (1360155 samples, 85.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[30] https://www.instagram.com/reel/DeGn0MWImPq/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_5nwuanus/audio.wav' (1367585 samples, 85.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[31] https://www.instagram.com/reel/DeBcIH_IFMi/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_3jgstg4j/audio.wav' (802876 samples, 50.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[32] https://www.instagram.com/reel/DeBYgkkIShU/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_wyn2ukok/audio.wav' (1244984 samples, 77.8 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[33] https://www.instagram.com/reel/Dd-21oUIudb/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_l54ccy9q/audio.wav' (1461208 samples, 91.3 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[34] https://www.instagram.com/reel/Dd8R-ehIzW3/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_eiapt6sc/audio.wav' (900957 samples, 56.3 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[35] https://www.instagram.com/reel/Dd8O-9yoCWU/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_d1pr3wrk/audio.wav' (1750993 samples, 109.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[36] https://www.instagram.com/reel/Dd0crFtoQ3n/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t__zyv5y78/audio.wav' (1419598 samples, 88.7 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[37] https://www.instagram.com/reel/Dd0YL3aocZ4/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_tv8xw94q/audio.wav' (1045849 samples, 65.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[38] https://www.instagram.com/reel/DdlD3rooJKl/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_bqeg5y39/audio.wav' (1586781 samples, 99.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[39] https://www.instagram.com/reel/DddLydQoCFf/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_o41h8aqq/audio.wav' (500459 samples, 31.3 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[40] https://www.instagram.com/reel/DdbhGbCoGfy/
+STATUS: FAILED - whisper failed:  = 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_u2ca4fe3/audio.wav' (99961 samples, 6.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[41] https://www.instagram.com/reel/DdbDlYGIMub/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_wa03ie48/audio.wav' (1180339 samples, 73.8 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[42] https://www.instagram.com/reel/DdVsTIeozVM/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_j4lj2tjq/audio.wav' (373400 samples, 23.3 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[43] https://www.instagram.com/reel/DdVgdiwINaB/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_2nbwgkz8/audio.wav' (1505790 samples, 94.1 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[44] https://www.instagram.com/reel/DdTbakGo4qf/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_dro6v2wt/audio.wav' (1144674 samples, 71.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[45] https://www.instagram.com/reel/DdOIbJoInbh/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_78t95h_o/audio.wav' (1427028 samples, 89.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[46] https://www.instagram.com/reel/DdLdqeuoD5a/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_3frg5xlz/audio.wav' (887582 samples, 55.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[47] https://www.instagram.com/reel/DdJWYuFIOkl/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t__8lzcz5m/audio.wav' (1262074 samples, 78.9 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[48] https://www.instagram.com/reel/DdJV8KkoBq1/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_jtbcxbu7/audio.wav' (947768 samples, 59.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[49] https://www.instagram.com/reel/DdGGbKFo21a/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_qu4q0grt/audio.wav' (1330433 samples, 83.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[50] https://www.instagram.com/reel/Dc-XytbIeOm/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_vml1yfgu/audio.wav' (1126098 samples, 70.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[51] https://www.instagram.com/reel/Dc788n8o-KX/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_ddpcjf5h/audio.wav' (1302941 samples, 81.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[52] https://www.instagram.com/reel/Dc50cKWojqz/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_a9abqi2l/audio.wav' (575506 samples, 36.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[53] https://www.instagram.com/reel/Dc2shBzIpMR/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_4j5i4g54/audio.wav' (434329 samples, 27.1 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[54] https://www.instagram.com/reel/Dc0JyR2Ieru/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_3yulm8fp/audio.wav' (1328204 samples, 83.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[55] https://www.instagram.com/reel/Dc0Ii98oXU9/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_skrdy2bz/audio.wav' (979719 samples, 61.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[56] https://www.instagram.com/reel/DcvJn3vInlZ/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_5uv2_li3/audio.wav' (1733160 samples, 108.3 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[57] https://www.instagram.com/reel/DcsaVT-oE2w/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_lyqce06a/audio.wav' (1582323 samples, 98.9 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[58] https://www.instagram.com/reel/DcldPusI8Qu/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_ef5i1uj2/audio.wav' (1510249 samples, 94.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[59] https://www.instagram.com/reel/DciNWWHI7Ak/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_p7m7fweb/audio.wav' (1599413 samples, 100.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[60] https://www.instagram.com/reel/DcaZpvqIcO0/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_tm3d185p/audio.wav' (1097119 samples, 68.6 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[61] https://www.instagram.com/reel/DcaX55SIGLD/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_14z53lo8/audio.wav' (1575636 samples, 98.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[62] https://www.instagram.com/reel/DcaQADtorh7/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_iig8qvnx/audio.wav' (1907774 samples, 119.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[63] https://www.instagram.com/reel/DcVOjqNopGu/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_z83fudtb/audio.wav' (926963 samples, 57.9 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[64] https://www.instagram.com/reel/DcSrxquITo4/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_7tpjpwg1/audio.wav' (1189999 samples, 74.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[65] https://www.instagram.com/reel/DcNnehWIZWM/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_2gmvrbyw/audio.wav' (1776256 samples, 111.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[66] https://www.instagram.com/reel/DcK8eaVoma9/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_7_6joskx/audio.wav' (1171423 samples, 73.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[67] https://www.instagram.com/reel/DcIaR3gItoR/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_nuy2zyx4/audio.wav' (1867650 samples, 116.7 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[68] https://www.instagram.com/reel/DcDWQV-oX_u/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_6v6lamne/audio.wav' (1479784 samples, 92.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[69] https://www.instagram.com/reel/DcAy-GBorIO/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_41k3xww8/audio.wav' (1987279 samples, 124.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[70] https://www.instagram.com/reel/Db-WgTnIovi/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_c554r5eo/audio.wav' (1738361 samples, 108.6 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[71] https://www.instagram.com/reel/Db7mT8_oIBU/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_wps9crho/audio.wav' (1811179 samples, 113.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[72] https://www.instagram.com/reel/Db48dSUIuX-/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_gjvx_x2g/audio.wav' (1786659 samples, 111.7 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[73] https://www.instagram.com/reel/Db2fjXmI7sF/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_y42bvmpt/audio.wav' (161634 samples, 10.1 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[74] https://www.instagram.com/reel/Db2aaCdI1nv/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_gkjv03c5/audio.wav' (1097862 samples, 68.6 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[75] https://www.instagram.com/reel/Dbz5B8ooonz/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_ot2qwq4d/audio.wav' (1659599 samples, 103.7 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[76] https://www.instagram.com/reel/DbxPbqYojEi/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_54v87kux/audio.wav' (1406966 samples, 87.9 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[77] https://www.instagram.com/reel/Dbvl6zeIrsm/
+STATUS: FAILED - whisper failed: = 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_5v3emrt4/audio.wav' (151231 samples, 9.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[78] https://www.instagram.com/reel/DbsBWrKIHwP/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_eanacur8/audio.wav' (550243 samples, 34.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[79] https://www.instagram.com/reel/DbplqsFo2X0/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_swiuhd0_/audio.wav' (2379604 samples, 148.7 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[80] https://www.instagram.com/reel/DblgiH3Irro/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_ij_uk_tb/audio.wav' (1925607 samples, 120.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[81] https://www.instagram.com/reel/Dbi1ZZ_I_ci/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_5dej9z62/audio.wav' (1238296 samples, 77.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[82] https://www.instagram.com/reel/DbgSQIBorRY/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_zra_6eoe/audio.wav' (1821582 samples, 113.8 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[83] https://www.instagram.com/reel/DbbLEK7IKJq/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_bk7sfdwv/audio.wav' (1378731 samples, 86.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[84] https://www.instagram.com/reel/DbXiftho3HD/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_9ck7bht0/audio.wav' (1868393 samples, 116.8 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[85] https://www.instagram.com/reel/DbVDOMDowCJ/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_r8qu1hem/audio.wav' (1143931 samples, 71.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[86] https://www.instagram.com/reel/DbSeW8YIWEB/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_csr443vg/audio.wav' (1509505 samples, 94.3 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[87] https://www.instagram.com/reel/DbNMcW4oCYX/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_6qos2oe4/audio.wav' (1754708 samples, 109.7 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[88] https://www.instagram.com/reel/DbKoqaIoeOk/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_26g6x9iv/audio.wav' (1496131 samples, 93.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[89] https://www.instagram.com/reel/DbIA9R-IP-l/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_an23ohg1/audio.wav' (1253900 samples, 78.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[90] https://www.instagram.com/reel/DbFd7ISojpv/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_z8jpmdk7/audio.wav' (1811179 samples, 113.2 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[91] https://www.instagram.com/reel/DbDH7IuIZzS/
+STATUS: FAILED - whisper failed:  1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_ka5__a7m/audio.wav' (247083 samples, 15.4 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[92] https://www.instagram.com/reel/DbAS79loxSP/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_5xtp33m8/audio.wav' (1600156 samples, 100.0 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[93] https://www.instagram.com/reel/Da-j2Wwoto9/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_hfgw73r_/audio.wav' (1661085 samples, 103.8 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[94] https://www.instagram.com/reel/Da7Pb3Cog-G/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_fzcvh1z8/audio.wav' (1406966 samples, 87.9 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[95] https://www.instagram.com/reel/Da4jD9gIRT0/
+STATUS: FAILED - whisper failed: 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_gfjnnshg/audio.wav' (1591240 samples, 99.5 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[96] https://www.instagram.com/reel/Da2BeMioybe/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_ko0my_3b/audio.wav' (2652299 samples, 165.8 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[97] https://www.instagram.com/reel/DazXFEpIim4/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_5o1dxrap/audio.wav' (1945669 samples, 121.6 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
+========================================================================
+[98] https://www.instagram.com/reel/Dao--0robNO/
+STATUS: FAILED - whisper failed:  | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | OPENMP = 1 | AARCH64_REPACK = 1 | 
+
+main: processing '/tmp/v2t_keri5hm3/audio.wav' (1669259 samples, 104.3 sec), 2 threads, 1 processors, 5 beams + best of 5, lang = auto, task = transcribe, timestamps = 1 ...
+========================================================================
+
