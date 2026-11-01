@@ -2,7 +2,8 @@
 #
 # What it does: whenever reels.txt changes on main (or you press "Run workflow"),
 # it transcribes every link in reels.txt (spoken words + on-screen text) with
-# video_to_text.py and commits the result to main as transcription.txt.
+# insta.py and commits the result to main as transcription_<model name>.txt
+# (for example transcription_ggml-large-v3.txt).
 # No login / cookies are used.
 
 name: Transcribe reels
@@ -24,7 +25,7 @@ on:
 permissions:
   contents: write
 
-# one run at a time, so two runs never fight over transcription.txt
+# one run at a time, so two runs never fight over the output file
 concurrency:
   group: transcribe
   cancel-in-progress: false
@@ -35,6 +36,7 @@ jobs:
     timeout-minutes: 360
     env:
       WHISPER_MODEL: ${{ inputs.model || 'ggml-large-v3' }}
+      OUTPUT_FILE: transcription_${{ inputs.model || 'ggml-large-v3' }}.txt
       WHISPER_CPP_REF: v1.7.5
 
     steps:
@@ -121,30 +123,30 @@ jobs:
       - name: Transcribe reels.txt
         run: |
           test -f reels.txt || { echo "reels.txt not found in the repo root"; exit 1; }
-          python video_to_text.py reels.txt -o transcription.txt \
+          python insta.py reels.txt -o "$OUTPUT_FILE" \
             --model "$HOME/.cache/whisper/${WHISPER_MODEL}.bin" \
             --threads "$(nproc)" --workers "$(nproc)"
 
-      - name: Commit transcription.txt to main
+      - name: Commit the transcription to main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add transcription.txt
+          git add "$OUTPUT_FILE"
           if git diff --cached --quiet; then
-            echo "transcription.txt unchanged - nothing to commit"
+            echo "$OUTPUT_FILE unchanged - nothing to commit"
           else
-            git commit -m "Update transcription.txt"
+            git commit -m "Update $OUTPUT_FILE"
             git pull --rebase origin main
             git push origin HEAD:main
           fi
 
       - name: Report failed reels
         run: |
-          total=$(grep -c '^STATUS:' transcription.txt || true)
-          failed=$(grep -c '^STATUS: FAILED' transcription.txt || true)
+          total=$(grep -c '^STATUS:' "$OUTPUT_FILE" || true)
+          failed=$(grep -c '^STATUS: FAILED' "$OUTPUT_FILE" || true)
           echo "$failed of $total reels failed"
           if [ "$failed" -gt 0 ]; then
-            echo "::warning::$failed of $total reels failed to download or process - see transcription.txt"
+            echo "::warning::$failed of $total reels failed to download or process - see $OUTPUT_FILE"
           fi
           if [ "$total" -gt 0 ] && [ "$failed" -eq "$total" ]; then
             exit 1
