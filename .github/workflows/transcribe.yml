@@ -16,11 +16,12 @@ on:
   workflow_dispatch:
     inputs:
       model:
-        description: Whisper model (large-v3 = best accuracy, turbo = much faster)
+        description: Whisper model (large-v3 = best accuracy; q5_0 = same quality, half the memory; turbo = faster)
         type: choice
         default: ggml-large-v3
         options:
           - ggml-large-v3
+          - ggml-large-v3-q5_0
           - ggml-large-v3-turbo
       chunk_size:
         description: Reels per parallel job (smaller = faster overall, but more jobs)
@@ -83,6 +84,19 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
+      - name: Show this machine, and add 8 GB swap
+        run: |
+          echo "CPUs: $(nproc)"
+          lscpu | grep -m1 'Model name' || true
+          free -h
+          # swap = overflow memory on disk, so a big model slows down instead of being killed
+          sudo swapoff -a || true
+          sudo fallocate -l 8G /mnt/swapfile
+          sudo chmod 600 /mnt/swapfile
+          sudo mkswap /mnt/swapfile
+          sudo swapon /mnt/swapfile
+          free -h | grep -i -E 'mem|swap'
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -113,14 +127,16 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: whisper.cpp/build/bin/whisper-cli
-          key: whisper-cli-${{ runner.os }}-${{ env.WHISPER_CPP_REF }}
+          key: whisper-cli-v2-${{ runner.os }}-${{ env.WHISPER_CPP_REF }}
 
       - name: Build whisper-cli
         if: steps.cli-cache.outputs.cache-hit != 'true'
         run: |
           git clone --depth 1 --branch "$WHISPER_CPP_REF" https://github.com/ggml-org/whisper.cpp
           cd whisper.cpp
-          cmake -B build -DBUILD_SHARED_LIBS=OFF -DCMAKE_BUILD_TYPE=Release
+          # portable build: no CPU-specific instructions, so it runs on any GitHub machine
+          cmake -B build -DBUILD_SHARED_LIBS=OFF -DCMAKE_BUILD_TYPE=Release \
+            -DGGML_NATIVE=OFF -DGGML_AVX=ON -DGGML_AVX2=ON -DGGML_FMA=ON -DGGML_F16C=ON
           cmake --build build -j"$(nproc)" --config Release --target whisper-cli
 
       - name: Save whisper-cli cache
@@ -129,7 +145,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: whisper.cpp/build/bin/whisper-cli
-          key: whisper-cli-${{ runner.os }}-${{ env.WHISPER_CPP_REF }}
+          key: whisper-cli-v2-${{ runner.os }}-${{ env.WHISPER_CPP_REF }}
 
       - name: Put whisper-cli on PATH
         run: |
@@ -185,6 +201,13 @@ jobs:
             --offset "$((CHUNK * CHUNK_SIZE))" --total "$TOTAL" --no-header \
             --model "$HOME/.cache/whisper/${WHISPER_MODEL}.bin" \
             --threads "$(nproc)" --workers "$(nproc)"
+
+      - name: If it failed - was the machine out of memory?
+        if: failure()
+        continue-on-error: true
+        run: |
+          free -h
+          sudo dmesg | grep -i -E 'out of memory|killed process' | tail -5 || true
 
       # runs even if the job is cancelled/timed out, so finished reels are never lost
       - name: Upload this chunk's result
