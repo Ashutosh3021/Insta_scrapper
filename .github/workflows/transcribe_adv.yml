@@ -1,0 +1,429 @@
+# Save this file in your repo as:  .github/workflows/transcribe.yml
+# The repo root also needs:        insta.py   and   state_tool.py   (and your reels file)
+#
+# Start it from the Actions tab -> "Transcribe reels" -> "Run workflow".
+#
+#   New scrape ON  : reads the reels file (default reels.txt), creates state_<id>.txt and pushes it to main
+#   New scrape OFF : continues from the state file you type (for example state_12.txt)
+#
+# The run has 4 parts:
+#   1. start       makes/loads the state file, pushes it to main, splits the unfinished reels into chunks
+#   2. setup       frees disk space, builds whisper-cli once
+#   3. transcribe  one job per chunk, all in parallel, each writes its own chunk_<n>.txt
+#                  (each job stops starting new reels after 5 hours and exits cleanly)
+#   4. end         updates + pushes the state file, saves the finished transcripts to the repo,
+#                  returns one zip with everything, and starts the next run by itself if reels are left
+#
+# state_<id>.txt:  Reel_no,link,status,tries
+#   status 1 = done | 0 = gave up after 2 real failures (never retried) | 2 = not finished
+
+name: Transcribe reels
+
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: Whisper model (large-v3 = best accuracy; q5_0 = same quality, half the memory; turbo = faster)
+        type: choice
+        default: ggml-large-v3
+        options:
+          - ggml-large-v3
+          - ggml-large-v3-q5_0
+          - ggml-large-v3-turbo
+      chunks:
+        description: Number of parallel chunk jobs
+        type: string
+        default: "10"
+      new_scrape:
+        description: "ON = new scrape from the reels file. OFF = continue from a state file"
+        type: boolean
+        default: true
+      reels_file:
+        description: "New scrape ON: the reels file in the repo root"
+        type: string
+        default: reels.txt
+      state_file:
+        description: "New scrape OFF: the state file to continue from, e.g. state_12.txt"
+        type: string
+        default: ""
+      continuation:
+        description: "Leave at 0 (the automatic restarts use it to count themselves)"
+        type: string
+        default: "0"
+
+permissions:
+  contents: write
+
+# one run at a time, so two runs never fight over the same state file
+concurrency:
+  group: transcribe
+  cancel-in-progress: false
+
+env:
+  WHISPER_MODEL: ${{ inputs.model || 'ggml-large-v3' }}
+  CHUNKS: ${{ inputs.chunks || '10' }}
+  CONTINUATION: ${{ inputs.continuation || '0' }}
+  WHISPER_CPP_REF: v1.7.5
+
+jobs:
+  # ======================================================== 1. START
+  start:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      id: ${{ steps.pick.outputs.id }}
+      state_file: ${{ steps.pick.outputs.state_file }}
+      matrix: ${{ steps.plan.outputs.matrix }}
+      todo: ${{ steps.plan.outputs.todo }}
+      total: ${{ steps.plan.outputs.total }}
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Create or load the state file
+        id: pick
+        env:
+          NEW_SCRAPE: ${{ inputs.new_scrape }}
+          REELS_FILE: ${{ inputs.reels_file }}
+          STATE_IN: ${{ inputs.state_file }}
+          RUN_NUMBER: ${{ github.run_number }}
+        run: |
+          set -euo pipefail
+          if [ "$NEW_SCRAPE" = "true" ]; then
+            reels="${REELS_FILE:-reels.txt}"
+            [ -f "$reels" ] || { echo "::error::New scrape is ON but '$reels' was not found in the repo."; exit 1; }
+            id="$RUN_NUMBER"
+            state="state_${id}.txt"
+            if [ -f "$state" ]; then
+              echo "::notice::$state already exists (this is a re-run) - continuing from it"
+            else
+              python3 state_tool.py init --reels "$reels" --state "$state"
+              echo "created=true" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            state="$STATE_IN"
+            if ! [[ "$state" =~ ^state_[A-Za-z0-9_.-]+\.txt$ ]]; then
+              echo "::error::New scrape is OFF: type the state file name, like state_12.txt"; exit 1
+            fi
+            [ -f "$state" ] || { echo "::error::$state was not found in the repo"; exit 1; }
+            id="${state#state_}"
+            id="${id%.txt}"
+          fi
+          echo "id=$id" >> "$GITHUB_OUTPUT"
+          echo "state_file=$state" >> "$GITHUB_OUTPUT"
+
+      # the state file is on main BEFORE any chunk starts
+      - name: Push the new state file to main
+        if: steps.pick.outputs.created == 'true'
+        env:
+          STATE: ${{ steps.pick.outputs.state_file }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$STATE"
+          git commit -m "Create $STATE"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
+
+      - name: Split the unfinished reels into chunks
+        id: plan
+        env:
+          STATE: ${{ steps.pick.outputs.state_file }}
+        run: |
+          python3 state_tool.py plan --state "$STATE" --chunks "$CHUNKS" --out-dir plan >> "$GITHUB_OUTPUT"
+          cat "$GITHUB_OUTPUT"
+
+      - name: Keep the chunk lists for the chunk jobs
+        uses: actions/upload-artifact@v4
+        with:
+          name: plan-inputs
+          path: plan/
+          retention-days: 3
+          if-no-files-found: ignore
+
+  # ======================================================== 2. SETUP
+  setup:
+    needs: start
+    if: needs.start.outputs.todo != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+      actions: write                       # needed to delete old caches
+    steps:
+      - name: Free disk space
+        run: |
+          df -h / | tail -1
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /usr/local/.ghcup \
+            /usr/local/share/powershell /usr/local/share/chromium /usr/share/swift \
+            /opt/hostedtoolcache/CodeQL /usr/local/share/boost
+          sudo docker image prune --all --force > /dev/null 2>&1 || true
+          sudo apt-get clean
+          df -h / | tail -1
+
+      - name: Delete old caches (the broken 4 GB model cache and the old whisper-cli)
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          for prefix in whisper-model- whisper-cli-Linux; do
+            gh cache list --key "$prefix" --limit 100 --json id --jq '.[].id' | while read -r id; do
+              echo "deleting cache $id ($prefix...)"
+              gh cache delete "$id" || true
+            done
+          done
+
+      - name: Restore whisper-cli cache
+        id: cli-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: whisper.cpp/build/bin/whisper-cli
+          key: whisper-cli-v2-${{ runner.os }}-${{ env.WHISPER_CPP_REF }}
+
+      - name: Build whisper-cli (once)
+        if: steps.cli-cache.outputs.cache-hit != 'true'
+        run: |
+          git clone --depth 1 --branch "$WHISPER_CPP_REF" https://github.com/ggml-org/whisper.cpp
+          cd whisper.cpp
+          # portable build: no CPU-specific instructions, so it runs on any GitHub machine
+          cmake -B build -DBUILD_SHARED_LIBS=OFF -DCMAKE_BUILD_TYPE=Release \
+            -DGGML_NATIVE=OFF -DGGML_AVX=ON -DGGML_AVX2=ON -DGGML_FMA=ON -DGGML_F16C=ON
+          cmake --build build -j"$(nproc)" --config Release --target whisper-cli
+
+      - name: Save whisper-cli cache
+        if: steps.cli-cache.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: whisper.cpp/build/bin/whisper-cli
+          key: whisper-cli-v2-${{ runner.os }}-${{ env.WHISPER_CPP_REF }}
+
+      - name: Check that whisper-cli runs
+        run: |
+          ./whisper.cpp/build/bin/whisper-cli -h 2>&1 | head -3
+
+  # ======================================================== 3. CHUNKS (parallel)
+  transcribe:
+    needs: [start, setup]
+    if: needs.start.outputs.todo != '0'
+    runs-on: ubuntu-latest
+    # GitHub itself would kill a job at 6 h with no chance to save anything. We stop
+    # starting new reels after 5 h, and this 5 h 50 min limit is only a safety net:
+    # it cancels the job politely, so the upload step below still runs.
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false                      # one bad chunk never stops the others
+      matrix: ${{ fromJSON(needs.start.outputs.matrix) }}
+
+    steps:
+      - name: Remember when this job started
+        run: echo "JOB_START=$(date +%s)" >> "$GITHUB_ENV"
+
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      # every job is a brand-new machine, so each one cleans its own disk
+      - name: Free disk space, show machine, add 8 GB swap
+        run: |
+          df -h / | tail -1
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /usr/local/.ghcup \
+            /usr/local/share/powershell /usr/local/share/chromium /usr/share/swift \
+            /opt/hostedtoolcache/CodeQL /usr/local/share/boost
+          sudo docker image prune --all --force > /dev/null 2>&1 || true
+          sudo apt-get clean
+          df -h / | tail -1
+          echo "CPUs: $(nproc)"
+          lscpu | grep -m1 'Model name' || true
+          # swap = overflow memory on disk, so a big model slows down instead of being killed
+          sudo swapoff -a || true
+          sudo fallocate -l 8G /mnt/swapfile
+          sudo chmod 600 /mnt/swapfile
+          sudo mkswap /mnt/swapfile
+          sudo swapon /mnt/swapfile
+          free -h | grep -i -E 'mem|swap'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and tesseract (English + Hindi)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg tesseract-ocr tesseract-ocr-eng tesseract-ocr-hin
+
+      - name: Install yt-dlp (latest, with browser impersonation)
+        run: |
+          python -m pip install -U "yt-dlp[default,curl-cffi]"
+          mkdir -p ~/.config/yt-dlp
+          cat > ~/.config/yt-dlp/config <<'EOF'
+          --impersonate chrome
+          --retries 5
+          --extractor-retries 3
+          --sleep-requests 1
+          --sleep-interval 3
+          --max-sleep-interval 8
+          EOF
+          yt-dlp --version
+
+      # whisper-cli was built and cached by the setup job; the build below only runs if the cache vanished
+      - name: Restore whisper-cli cache
+        id: cli-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: whisper.cpp/build/bin/whisper-cli
+          key: whisper-cli-v2-${{ runner.os }}-${{ env.WHISPER_CPP_REF }}
+
+      - name: Build whisper-cli (only if the cache is missing)
+        if: steps.cli-cache.outputs.cache-hit != 'true'
+        run: |
+          git clone --depth 1 --branch "$WHISPER_CPP_REF" https://github.com/ggml-org/whisper.cpp
+          cd whisper.cpp
+          cmake -B build -DBUILD_SHARED_LIBS=OFF -DCMAKE_BUILD_TYPE=Release \
+            -DGGML_NATIVE=OFF -DGGML_AVX=ON -DGGML_AVX2=ON -DGGML_FMA=ON -DGGML_F16C=ON
+          cmake --build build -j"$(nproc)" --config Release --target whisper-cli
+
+      - name: Put whisper-cli on PATH
+        run: |
+          echo "$GITHUB_WORKSPACE/whisper.cpp/build/bin" >> "$GITHUB_PATH"
+
+      # downloaded straight from Hugging Face (a cache would need double the disk space)
+      - name: Download whisper model
+        run: |
+          mkdir -p ~/.cache/whisper
+          curl -L --fail --retry 5 --retry-delay 5 \
+            -o ~/.cache/whisper/${WHISPER_MODEL}.bin \
+            https://huggingface.co/ggerganov/whisper.cpp/resolve/main/${WHISPER_MODEL}.bin
+          ls -lh ~/.cache/whisper
+          size=$(stat -c%s ~/.cache/whisper/${WHISPER_MODEL}.bin)
+          [ "$size" -gt 900000000 ] || { echo "Model file is too small ($size bytes) - download failed"; exit 1; }
+          df -h / | tail -1
+
+      - name: Get this run's chunk lists
+        uses: actions/download-artifact@v4
+        with:
+          name: plan-inputs
+          path: plan
+
+      - name: Transcribe this chunk
+        env:
+          CHUNK: ${{ matrix.chunk }}
+          TOTAL: ${{ needs.start.outputs.total }}
+        run: |
+          mkdir -p out
+          echo "chunk $CHUNK: $(wc -l < "plan/chunk_${CHUNK}_input.txt") reels. Will stop starting new reels at $(date -d "@$((JOB_START + 18000))" '+%H:%M:%S UTC')"
+          python insta.py "plan/chunk_${CHUNK}_input.txt" -o "out/chunk_${CHUNK}.txt" --no-header \
+            --total "$TOTAL" --stop-at "$((JOB_START + 18000))" \
+            --model "$HOME/.cache/whisper/${WHISPER_MODEL}.bin" \
+            --threads "$(nproc)" --workers "$(nproc)" < /dev/null
+
+      - name: If it failed - was the machine out of memory or disk?
+        if: failure()
+        continue-on-error: true
+        run: |
+          free -h
+          df -h /
+          sudo dmesg | grep -i -E 'out of memory|killed process' | tail -5 || true
+
+      # runs even if the job is cancelled/timed out, so finished reels are never lost
+      - name: Upload this chunk's file
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: chunk-${{ matrix.chunk }}
+          path: out/
+          retention-days: 3
+          if-no-files-found: ignore
+
+  # ======================================================== 4. END
+  end:
+    needs: [start, setup, transcribe]
+    if: ${{ !cancelled() && needs.start.result == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      actions: write                        # needed to start the next run
+    env:
+      STATE: ${{ needs.start.outputs.state_file }}
+      ID: ${{ needs.start.outputs.id }}
+    steps:
+      - name: Check out the repo (latest main, with the state file)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Download all chunk files
+        if: needs.start.outputs.todo != '0'
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          pattern: chunk-*
+          merge-multiple: true
+          path: chunks
+
+      - name: Update the state and save the finished transcripts
+        id: apply
+        run: |
+          mkdir -p chunks
+          python3 state_tool.py apply --state "$STATE" --chunks-dir chunks \
+            --transcripts-dir "transcripts_${ID}" --model "$WHISPER_MODEL" \
+            --summary summary.md >> "$GITHUB_OUTPUT"
+          cat summary.md >> "$GITHUB_STEP_SUMMARY"
+          cat "$GITHUB_OUTPUT"
+
+      - name: Push the updated state and transcripts to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$STATE" "transcripts_${ID}"
+          if git diff --cached --quiet; then
+            echo "nothing changed - nothing to push"
+          else
+            git commit -m "Update $STATE and transcripts_${ID}"
+            for attempt in 1 2 3; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && break
+              echo "push failed (attempt $attempt), trying again"; sleep 5
+            done
+          fi
+
+      - name: Build the zip contents (all finished transcripts so far)
+        run: |
+          mkdir -p results/chunks
+          python3 state_tool.py build --state "$STATE" --transcripts-dir "transcripts_${ID}" \
+            --out "results/transcription_${ID}.txt"
+          cp "$STATE" results/
+          cp chunks/chunk_*.txt results/chunks/ 2>/dev/null || true
+          ls -R results
+
+      - name: Return the zip
+        uses: actions/upload-artifact@v4
+        with:
+          name: results-${{ needs.start.outputs.id }}-run${{ github.run_number }}
+          path: results/
+          retention-days: 30
+
+      - name: Start the next run automatically (if reels are left)
+        if: steps.apply.outputs.remaining != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          REMAINING: ${{ steps.apply.outputs.remaining }}
+          PROGRESS: ${{ steps.apply.outputs.progress }}
+        run: |
+          if [ "$PROGRESS" != "true" ]; then
+            echo "::warning::$REMAINING reel(s) are left, but this run made no progress, so it will not restart by itself. Start it by hand: New scrape OFF, state file = $STATE"
+            exit 0
+          fi
+          next=$((CONTINUATION + 1))
+          if [ "$next" -gt 5 ]; then
+            echo "::warning::Reached the limit of 5 automatic restarts. $REMAINING reel(s) are left. Start it by hand: New scrape OFF, state file = $STATE"
+            exit 0
+          fi
+          gh workflow run "$GITHUB_WORKFLOW" --ref "$GITHUB_REF_NAME" \
+            -f model="$WHISPER_MODEL" -f chunks="$CHUNKS" \
+            -f new_scrape=false -f state_file="$STATE" -f continuation="$next" \
+            && echo "Started automatic restart $next of 5 for $STATE" \
+            || echo "::warning::Could not start the next run automatically. Start it by hand: New scrape OFF, state file = $STATE"
