@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[229] https://www.instagram.com/reel/DXgSQoHkZeb/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] pac
+[0:03] iheadsjlongy Medi
+[0:03 - 0:04] iThe\tricep)
+[0:04] Med
+[0:06] al i
+[0:07] nal
+[0:09] 100४४,
+[0:09] der’ !
+[0:09] 4५10७
+[0:09] ५81
+[0:10] Hite
+[0:11] e} ta
+[0:11] Ineed|tojkee,
+[0:11] lupperjarm |i
+[0:11 - 0:12] ffectivel
+[0:12] Tojtrain\the) a
+[0:12] epithe
+[0:12] er 2922 3117 11 place
+[0:12 - 0:14] Ineed|to)
+[0:13 - 0:14] ffect
+[0:13 - 0:14] Tojtrainy)
+[0:15] विधा 5 की हि
+[0:15] Oden
+[0:15] nea
+[0:16] wer
+[0:17] ha r
+[0:17] 2 aa |
+[0:18] ee a

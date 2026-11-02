@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[212] https://www.instagram.com/reel/DYjO8rmxXcb/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] My soldiers do not buckle or yield when faced with the cruelty of this world!
+[0:05 - 0:07] My soldiers push forward!
+[0:07 - 0:09] My soldiers scream out!
+[0:09 - 0:12] My soldiers rage!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] EL ig aN
+[0:00 - 0:11] SBLs dont train hard ~
+[0:01] one
+[0:03] 7 04 a x
+[0:03] पीकर
+[0:04] Kgs
+[0:04] Ey j
+[0:05] SBLs di
+[0:05] hard ~
+[0:05] ji aff
+[0:08] hard ~
+[0:09] i af §
+[0:11] fis ps
+[0:11] श्र
+[0:12] a4 sae
+[0:12] at Me
+[0:12 - 0:23] “Cant be me tho
+[0:13] हा be me tho
+[0:13] LW 23.
+[0:14] wel
+[0:14] ‘fel
+[0:14] ies
+[0:16] 389--2ननननम-+-
+[0:17] i de
+[0:18] fi 7g
+[0:19 - 0:20] ins
+[0:20] ‘fol
+[0:20] | जे 5
+[0:21] Cll
+[0:21] ६ कक |
+[0:21] a Ss
+[0:23] i ee
+[0:23] ait

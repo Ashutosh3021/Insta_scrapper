@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[53] https://www.instagram.com/reel/DeOvo31OjEa/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] No slump and you know what he told me?
+[0:01 - 0:04] Never, never cut your hair because the strength is in the hair.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] है TS
+[0:02] Nig
+[0:02] पका
+[0:04] है Te
+[0:05] a >> ज्ब्डं |
+[0:08] ज्‌ लि

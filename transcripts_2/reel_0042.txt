@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[42] https://www.instagram.com/reel/DegQ-XXT8Ma/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:21] Thank you for watching.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] TNF ty
+[0:00] ici
+[0:01] acl
+[0:01 - 0:02] Holy Brachioradialis: छ
+[0:01 - 0:03] TNF From;tem
+[0:01 - 0:03] __and|brachialis
+[0:01 - 0:03] exercise:
+[0:02] temu
+[0:03] Holy Brachio
+[0:03] radialis
+[0:04] inns
+[0:05] | बहु
+[0:05] हक न
+[0:06] ~ Sig
+[0:06] ES कै
+[0:07] 4q S
+[0:08] ES N
+[0:09] ace
+[0:11] boo
+[0:12] ray
+[0:12] mad
+[0:17] ee sal
+[0:17] ray
+[0:18] ace

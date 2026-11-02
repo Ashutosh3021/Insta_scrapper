@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[27] https://www.instagram.com/reel/DeuY9TeT5aG/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Nani o?
+[0:03 - 0:05] Oga.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Pet
+[0:01] Pers
+[0:02] + 10055
+[0:03] A के
+[0:03] 4 ne
+[0:04] Pet
+[0:04] aoe
+[0:04] Pres
+[0:06] ne fae
+[0:07] खत के

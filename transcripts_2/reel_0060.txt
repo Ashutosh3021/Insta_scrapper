@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[60] https://www.instagram.com/reel/Dd_90hduNxm/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Outro Music.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] mmol
+[0:01] a 4 My
+[0:02] हर है
+[0:04] ao f
+[0:04] vas
+[0:07] ill

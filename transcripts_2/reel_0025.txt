@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[25] https://www.instagram.com/reel/DewDTKAzUm2/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] And look at me and the shitty love story you came in with
+[0:06 - 0:11] Just like that, and if you had to pull your dust, you'd leave a point
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] sito)
+[0:00 - 0:01] |Whatjam)i]
+[0:00 - 0:01] ifiximy
+[0:02] (50670
+[0:02] (0979
+[0:04] ue ly thro
+[0:04] flexion , nev
+[0:04] | et a)
+[0:04] per soins
+[0:04 - 0:05] ining them)
+[0:04 - 0:06] trained them before
+[0:05] Tein
+[0:05] usly seal
+[0:05] train
+[0:05 - 0:06] er spinal]
+[0:05 - 0:06] nm, nev
+[0:06] By he them)
+[0:06] riously throw
+[0:06] 120]
+[0:06] ext
+[0:07] lis
+[0:07] mt es
+[0:07] e {fat in‘m
+[0:07 - 0:09] cuzjijhold relati
+[0:07 - 0:09] fat(obviou:
+[0:07 - 0:09] midsection
+[0:08] (i Losing
+[0:08] aah fat(ob'
+[0:08] hold re
+[0:08] 21० (9! in
+[0:08] ipa’
+[0:09] lis Losing si I
+[0:09] re lfat 1717

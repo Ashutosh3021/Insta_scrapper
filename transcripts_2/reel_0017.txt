@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[17] https://www.instagram.com/reel/De7DmuvT0HR/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] destroyed
+[0:00 - 0:04] it's unreal
+[0:04 - 0:06] how is he generating
+[0:06 - 0:07] that much power
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] _ | 2305
+[0:02] 230
+[0:04] ria
+[0:06] बच्चन
+[0:10] डबल
+[0:11] Sas
+[0:12] “See
+[0:13] whan
+[0:13] ५89
+[0:14] 121
+[0:17] ate
+[0:18] a eB
+[0:20] rial
+[0:21] Nii
+[0:23] fra
+[0:23] lee
+[0:25] aun

@@ -1,0 +1,26 @@
+# model: ggml-large-v3
+========================================================================
+[23] https://www.instagram.com/reel/DexZ6uATws9/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] mal
+[0:00 - 0:02] ‘orearms
+[0:00 - 0:02] Build Juicy,
+[0:01] ६: रखो
+[0:01] aap) |
+[0:03] \ frie
+[0:03 - 0:05] Do this)
+[0:06] yAndladd| Wrist}
+[0:06] 15101]
+[0:06] 117:
+[0:07 - 0:08] 658
+[0:07 - 0:09] seve
+[0:08] श्र
+[0:09] 700.
+[0:09] ETS

@@ -1,0 +1,79 @@
+# model: ggml-large-v3
+========================================================================
+[151] https://www.instagram.com/reel/DakQiCPzCOf/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] edie
+[0:00] ad day x slew
+[0:00 - 0:01] What to/do in the,
+[0:00 - 0:01] 7m,when-you had
+[0:01] id day of ry
+[0:01] wes
+[0:01] alls
+[0:02] है ed 104० in the
+[0:02] ym\when-you,
+[0:02] id day a. sle
+[0:03] ration doe:
+[0:03] AY effe.
+[0:03 - 0:04] ith
+[0:03 - 0:05] Acute'Sleep
+[0:04] ite Sleep
+[0:04] mn does not—>
+[0:04] re effect
+[0:04] प्री
+[0:04] his
+[0:04] 122
+[0:05] a पद
+[0:05] ben
+[0:05] deprivation does not—
+[0:05] | ~ Significantly effe
+[0:05] jus
+[0:05] ५ कप
+[0:05] mek
+[0:05] ४77
+[0:06] and lift like-you do:
+[0:06] q ‘He.
+[0:06] LAS
+[0:06] soe
+[0:06 - 0:08] > Just go to the gym
+[0:07] rou 4,
+[0:08] life lik
+[0:08] ‘ and)
+[0:08] nor
+[0:08] Cited doa
+[0:09] it feel
+[0:09] able tovlift : mucl
+[0:09] id toopit,
+[0:09 - 0:10] you can)
+[0:09 - 0:11] utif you put, Your
+[0:10] ymin too ity a
+[0:10] al feito lift as
+[0:10 - 0:11] > You might feel tire
+[0:11] ०21
+[0:11] प्र हे
+[0:12] a you =>
+[0:12] ictual
+[0:12] EVE)
+[0:12] eSsion} too)
+[0:13] metimes yo
+[0:13] | might
+[0:13] on|too)
+[0:14] eo पी
+[0:14] ‘imes you
+[0:14] act
+[0:14] 107 too)
+[0:14] calle
+[0:14] ise
+[0:15] sil
+[0:15 - 0:17] | iijust rest ~—>
+[0:16] कट —s
+[0:16] ह/ id than just rest -—>
+[0:17] ind. si हि e!
+[0:19] me मी
+[0:19] seit

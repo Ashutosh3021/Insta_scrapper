@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[257] https://www.instagram.com/reel/DWLUx9JDlXt/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Was I born to be, be, be, be, be, be, be
+[0:04 - 0:08] What's wrong with me, me, me, me, me, me, me
+[0:08 - 0:11] My channel looks easy, easy, easy, easy
+[0:11 - 0:14] Who was I born to be, be, be
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Full Arm doy
+[0:00] Sie PF
+[0:01] Arm dey
+[0:01] 2 गा
+[0:02] 4 CE
+[0:02] Pek
+[0:02 - 0:04] SEA
+[0:04] im iG |
+[0:05] aoe
+[0:05] हैः प्र
+[0:05] in iG 7
+[0:05] are
+[0:08] ह » 132 or
+[0:08 - 0:10] S101
+[0:08 - 0:13] : Elbow Ex:
+[0:09] et a 53
+[0:09] re er
+[0:10] Lal
+[0:11] Fae §
+[0:11] #० ७४७
+[0:11 - 0:12] fjension
+[0:12] | bey (
+[0:12] [Peet
+[0:13] श्भ्भ््ल्श
+[0:13] tal
+[0:14] : Elbow exe so!

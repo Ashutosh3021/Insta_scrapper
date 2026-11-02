@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[75] https://www.instagram.com/reel/DdgD2qfz1na/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iz fe are you doing
+[0:00] ६ me,
+[0:00] 72 3624
+[0:00] Fig
+[0:00] 2222८
+[0:00 - 0:04] \ "in the'gym, stick,
+[0:00 - 0:04] » the basics” |
+[0:01] in th!
+[0:01] Igym, stick tomy
+[0:01 - 0:04] ea (Whatfare, you doing
+[0:02] ey ६05८0 »
+[0:03] Gog
+[0:03] Cosco
+[0:03] lie
+[0:03] intthe'g
+[0:03] , stick to
+[0:03] rah
+[0:03 - 0:04] this?
+[0:04] twit
+[0:04] rT a
+[0:04] ZNoron
+[0:04] elbig d
+[0:06] Actions >>
+[0:06] i, ep
+[0:07 - 0:08] /Actionsjyou;want
+[0:07 - 0:09] Justitrainithe Joint,
+[0:08] trainthevoint)
+[0:08] Any
+[0:09] want
+[0:11] 110
+[0:11] things
+[0:11] unconventionally
+[0:11 - 0:13] letlothers) al
+[0:12] letjothersibring
+[0:12] nally
+[0:12] on है
+[0:12 - 0:13] lown from
+[0:12 - 0:13] loing things
+[0:12 - 0:13] unconventi
+[0:13] tionally
+[0:13] ee 4 ग।

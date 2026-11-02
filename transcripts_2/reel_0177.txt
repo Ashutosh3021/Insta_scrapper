@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[177] https://www.instagram.com/reel/DZt52GsRxRy/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: ja
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] ああ、五条悟は俺が殺した
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] nit
+[0:01] ApS
+[0:01] iit
+[0:01] Sid
+[0:02] VWs
+[0:02] SEN
+[0:03] as <i
+[0:05] pe yl

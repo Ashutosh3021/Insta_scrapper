@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[28] https://www.instagram.com/reel/Det56AtJeXk/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Nong
+[0:00] ins your 13835
+[0:00 - 0:01] Delts as effectively,
+[0:00 - 0:02] This trains your
+[0:01] ins your Iats;
+[0:01] हैं.
+[0:02] ave
+[0:02] Delts 35९
+[0:02] ctivelysas;
+[0:02] urjlats)
+[0:03] ase
+[0:03] low NMMI
+[0:03] ‘the rear ४८1६5 have)
+[0:03 - 0:06] best leverage}to)
+[0:03 - 0:06] jperform this}
+[0:04] lif you follow NMM|
+[0:04 - 0:06] ‘the rear delts| have)
+[0:05] ju follow
+[0:05] wit
+[0:06] "oon
+[0:06] be MM
+[0:07] o gf
+[0:07] And
+[0:07] if you
+[0:07] lacti
+[0:07] ion
+[0:07 - 0:10] fatjactivation data\the)
+[0:07 - 0:10] rear, delts have high)
+[0:08 - 0:09] = 1000
+[0:08 - 0:10] And even if you)
+[0:08 - 0:10] activation)
+[0:08 - 0:10] 3500
+[0:08 - 0:10] 45 90 135 180
+[0:08 - 0:10] Joint Position (Degrees) }
+[0:09] llookg
+[0:09] 1500
+[0:09] ag, B
+[0:10] 4०००
+[0:11] JAIL: Saggital plane
+[0:11] Sho
+[0:11] eee!
+[0:11] Kel
+[0:11] lene:
+[0:11] हर rear
+[0:11 - 0:14] वहा, extension)
+[0:11 - 0:15] [So for programming}
+[0:11 - 0:15] | purposes}
+[0:11 - 0:15] [should alsoybe’
+[0:12] Shoulder. extension)
+[0:12] All Saggi
+[0:12] ara
+[0:12 - 0:13] | plane)
+[0:12 - 0:15] ‘considered for rear,
+[0:13] iti
+[0:13] 141 Sag:
+[0:13] Gap
+[0:13] ite
+[0:14] ull
+[0:14] Wes:
+[0:14] Font
+[0:14] con:
+[0:14] Its,
+[0:14] Sate:
+[0:14 - 0:15] ‘Saggital plane)
+[0:15] itt
+[0:15] MAI
+[0:15] Shoulder. extension)

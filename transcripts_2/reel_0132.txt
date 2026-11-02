@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[132] https://www.instagram.com/reel/DbbV4SkTYq1/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] और इसके ऊपर है आपकी muscles और जब आप gym में workout करते हैं तो इसी muscles को इलोंगे और फिर contract करते हैं
+[0:03 - 0:05] and in that process आपकी muscles में develop होते हैं कुछ micro tears
+[0:05 - 0:07] obviously because you are lifting super heavy
+[0:07 - 0:09] micro tears don't exist
+[0:09 - 0:12] I'll link the reel which I have made about this
+[0:12 - 0:15] you can watch it and you can actually understand how muscles are built
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] a sf
+[0:01] aur हु
+[0:01] gyi
+[0:01] 7 मी
+[0:04] * v bd
+[0:04] y on
+[0:06] Because
+[0:08] Microtear:
+[0:08] "4 not
+[0:10] 1 link the +
+[0:11] made
+[0:11] I link thejreel 54 ॥
+[0:12] लक ८८,
+[0:12] Hink a hich ll
+[0:12] made aboutithis}
+[0:13] wan
+[0:13] SSwelgh
+[0:13] Watch a
+[0:15] pag
+[0:15] ००1 ही

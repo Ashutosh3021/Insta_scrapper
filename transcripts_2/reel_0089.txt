@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[89] https://www.instagram.com/reel/Dc_ojBvTg16/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] You'll be falling in love
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] fer
+[0:02] (ey रह
+[0:07] श्र

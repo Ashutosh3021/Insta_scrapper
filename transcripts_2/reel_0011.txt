@@ -1,0 +1,67 @@
+# model: ggml-large-v3
+========================================================================
+[11] https://www.instagram.com/reel/DfC-IO5zACG/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] Strength is in the air.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 1 eS
+[0:00] orn
+[0:00 - 0:08] ‘There's always more to be done ...
+[0:01] Fay:
+[0:01] = ijn
+[0:01] poy
+[0:01] Ach aa
+[0:02] १५७ ae
+[0:02] oii 8०००
+[0:02] notaryaman @
+[0:02] sili
+[0:03] pat
+[0:03 - 0:05] =| Thisis HUWit 9 dane
+[0:04] his is HUWit’s dong) हे
+[0:04] २82
+[0:05] bal
+[0:05] 0! अं
+[0:05] P1222
+[0:05] brah
+[0:05] notaryar
+[0:05 - 0:08] 102
+[0:05 - 0:08] } £1 soli - Sojourn
+[0:06] 232
+[0:06] The
+[0:06] tobe de
+[0:07] us ey
+[0:07] हैः
+[0:07] is how it:
+[0:07] OPTIMALLY
+[0:07 - 0:08] notaryaman
+[0:08] Reels:
+[0:08] श्र
+[0:08] 7८5
+[0:09] yAintJNobody,
+[0:09] Cerul
+[0:09] igimore)
+[0:09] than का
+[0:09] । हि ४
+[0:09] 412
+[0:09 - 0:10] Motor (
+[0:10] ‘cel
+[0:10] rut
+[0:10] more
+[0:10] है | mé
+[0:10] boat j
+[0:11] INobody,
+[0:11] Receruiting/more)
+[0:11] Moto! 128 than 1
+[0:12] aif
+[0:12 - 0:14] atte
+[0:13] iff
+[0:15] Kap
+[0:16] Les
+[0:17] ल्छ
+[0:18] Sai
+[0:18] bat il

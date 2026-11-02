@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[215] https://www.instagram.com/reel/DYeGsbpRIsd/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] ♪ I'm coming for you, I'm coming for you ♪
+[0:03 - 0:10] ♪ Cause all I need is beauty and love ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] कर 4
+[0:01] Lo it
+[0:01] Lee
+[0:02 - 0:04] blll |
+[0:04] Lyf,
+[0:05] kia
+[0:05] nhs
+[0:06] met
+[0:07] cas
+[0:09] Hey
+[0:09] Sag
+[0:09] तहत
+[0:10] Bee
+[0:10] प्र
+[0:10] ses

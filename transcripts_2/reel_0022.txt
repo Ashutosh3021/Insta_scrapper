@@ -1,0 +1,135 @@
+# model: ggml-large-v3
+========================================================================
+[22] https://www.instagram.com/reel/DezZLuzT7JW/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] For breakfast I have coffee with creatine because I am not really hungry in the morning
+[0:07 - 0:11] For lunch I have 200 grams of chicken, 4 rotis and some dal
+[0:11 - 0:13] Here are the macros of this meal
+[0:13 - 0:17] Also I take calcium and vitamin C after this meal because it won't get them from my diet
+[0:17 - 0:23] This is my pre workout meal, 100 grams of stopovers with 1 scoop of unflavoured soy protein isolate
+[0:23 - 0:27] For dinner my meal is the same as lunch plus 200 grams of carrots
+[0:27 - 0:31] After my dinner I take omega 3s and magnesium
+[0:31 - 0:36] These are my macros for the day plus my macronutrients also
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] wy Dayof, ‘
+[0:00 - 0:01] Deficit}
+[0:01] ‘ull Day ofjEatinglon
+[0:03] lo id
+[0:03] ४ “Sl
+[0:03] ace |
+[0:03] \For breakfast, Il have
+[0:03 - 0:05] Breakfast
+[0:03 - 0:05] 4 Packets of Nescafe).
+[0:04] Coffee ~
+[0:04] coffee with creatine
+[0:04 - 0:05] (Nee
+[0:05] Wee,
+[0:05] lam not really hungry
+[0:06] (७४१९,
+[0:06] oat
+[0:06] in the morning
+[0:07] A ge
+[0:07] C5_2
+[0:07 - 0:08] '200/gram)b:
+[0:07 - 0:08] chicken;
+[0:07 - 0:08] roti and’
+[0:07 - 0:09] Lunch
+[0:08] e722
+[0:08] Koulunch have
+[0:09] 200)gram boiled
+[0:09] chicken;.4 roti and__ #
+[0:09] aal ७
+[0:09] gramsof,chicken,
+[0:10] weiter? some dal
+[0:10] EQN
+[0:10] Ry eek P ee
+[0:11] है ire the macros
+[0:11 - 0:13] Energy -758.4/ 2100 Ocal
+[0:11 - 0:13] Protein-753/190.09
+[0:11 - 0:13] Carbs -712/ 245.09
+[0:11 - 0:13] fot 2191/4009 हि
+[0:11 - 0:13] eee STREF! ee
+[0:12] Energy 758412100043
+[0:12] wee STREET v5
+[0:12] a fh
+[0:13] Macronutrient Targets
+[0:13] 5596
+[0:13] _ Also, I take calcium and
+[0:14] Bess
+[0:15] we STR
+[0:15] J do not get
+[0:16] frommy d Rie
+[0:16] न / "राई
+[0:17] isis my pre.
+[0:17] -workout,
+[0:17 - 0:20] Pre Workout Meal~
+[0:17 - 0:20] 1 Scoop.Soy Protein.+
+[0:17 - 0:20] 100 grams of Chocos;
+[0:18] Pre Workout 42,
+[0:18] 100 grams of a
+[0:18] meal, 100 grams.
+[0:19] -&/ 422८ one scoop of.
+[0:20] unflavored
+[0:21] 8३ जन
+[0:21] Soy protein isolate
+[0:21] <1111e >”
+[0:22] | 150 gra
+[0:22] Dinne
+[0:22] roti, daa
+[0:22] O'gram)
+[0:22] | } s0y protein
+[0:22 - 0:24] / carrot:
+[0:23] 150 ean कल,
+[0:23] ००६
+[0:23] #161:
+[0:23] च्श््
+[0:24] 2 chicken,
+[0:24] 200 gram
+[0:24] For dinner,
+[0:25] oT जज
+[0:25] esame!as lunch plus
+[0:25] aon
+[0:26] Macronutrient Targets
+[0:26] & ams of carrots
+[0:26] ats
+[0:26 - 0:27] Energy 8102/2100 0kcal
+[0:26 - 0:28] Protein-755/190.09
+[0:26 - 0:28] Carbs -105 8 / 24505
+[0:26 - 0:28] 4386
+[0:26 - 0:28] Fot-12.4/40.09
+[0:27] eZ STREET .
+[0:27] 4 my dinner, 1 take
+[0:27] - 1 आई
+[0:27 - 0:28] = Targets
+[0:28] y-810.2/2100.0kcal
+[0:28 - 0:29] mega 3’ and magnesium
+[0:29] CA: STREFT v=
+[0:31] These are my macros for,
+[0:32] STREET «=
+[0:32] These are
+[0:32] macros for
+[0:33] Bhs
+[0:33] a micronutrien
+[0:33] age
+[0:34] Se STHET oo
+[0:34] a my
+[0:34] hall
+[0:35] Energy -20697 /2100.0kca
+[0:35] | also
+[0:35 - 0:36] CONSUMED -
+[0:35 - 0:36] Protein-176.4/190.09)
+[0:35 - 0:36] Carbs -2685/245.09
+[0:35 - 0:36] Fat -412/40.09
+[0:35 - 0:36] 103%
+[0:35 - 0:39] af TARGETS >
+[0:36] Ener
+[0:36] - 20697 2100.0kcal
+[0:37 - 0:39] NUTRITION SCORES
+[0:37 - 0:39] See the full set of nutrition scores with Gold.
+[0:37 - 0:39] 95% Cronometer
+[0:37 - 0:39] score btw

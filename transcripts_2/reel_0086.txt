@@ -1,0 +1,162 @@
+# model: ggml-large-v3
+========================================================================
+[86] https://www.instagram.com/reel/DdE0UCrTwXn/
+STATUS: OK
+DURATION: 0:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] And I'm waiting to tell you, what are you listening to?
+[0:24 - 0:35] You left me, you left me, you left me, you left me, you left me, you left me, you left me.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] sea
+[0:00] pe / My
+[0:00] weig
+[0:00] this
+[0:00] pid
+[0:00 - 0:02] able to
+[0:00 - 0:03] “ही watch
+[0:01] lose weig
+[0:01 - 0:03] \From someone who
+[0:01 - 0:03] has lost 30-40 kgs in
+[0:01 - 0:03] “his lifetime
+[0:03] पा are
+[0:03] wa Tins
+[0:03] 7.7 ble to
+[0:03] ढा9
+[0:03] this 9
+[0:03 - 0:05] d _— lose
+[0:05] cit Is
+[0:05] Aa / आय
+[0:05] igh
+[0:05 - 0:07] कि everyone knows
+[0:05 - 0:08] a‘caloric d
+[0:05 - 0:08] lrequired ६
+[0:06] tis
+[0:06] Pol)
+[0:06] Hin |
+[0:06] ४72७ Os
+[0:06] = to stick tova
+[0:06] ्र क्र
+[0:06 - 0:08] i; everyon
+[0:06 - 0:08] ows
+[0:06 - 0:08] weight
+[0:06 - 0:08] A But ify if yousare unable
+[0:06 - 0:08] -7 - gto lose weight you
+[0:06 - 0:08] are most likely
+[0:06 - 0:08] deficiet
+[0:07] lre
+[0:07] quired
+[0:07] ie 4
+[0:07] pin
+[0:07 - 0:08] unable to stick tora»
+[0:08] Clie 7p.
+[0:10] keep pro
+[0:10] ig with ier alae, to
+[0:10] कुक
+[0:10] Laas 2 -
+[0:10 - 0:13] i increase “ee also,
+[0:11] ‘idl iety alee tomy,
+[0:11] increase satiety ats Ti
+[0:11] Stick to a वी तप
+[0:11 - 0:13] है But still are unable. to
+[0:12] You) keep “a
+[0:12] \F with पलट toy,
+[0:12] जा ww ie
+[0:12 - 0:13] Stick to a deficityy,
+[0:13] u keep if
+[0:13] IF: with fi
+[0:13] alte tom,
+[0:14] physically el EG
+[0:14] hungry but mentally
+[0:14] oot
+[0:14 - 0:16] You are most toad
+[0:14 - 0:16] ored and use,food
+[0:14 - 0:16] हुआ to cope with
+[0:14 - 0:16] ‘boredom
+[0:15] Re 1
+[0:15] re notias
+[0:15] sfhungry but io foe
+[0:16] हक oe
+[0:16] hae
+[0:16] likely.
+[0:16] igs =e as
+[0:16] है. 11010177/ but me
+[0:16] vie
+[0:16] कक, we
+[0:17] है मनी
+[0:17] eae. a
+[0:17] you think rudy fall
+[0:17 - 0:19] in this category iff i
+[0:17 - 0:19] might have a solution
+[0:17 - 0:19] "© for you
+[0:18] 9 मिनी
+[0:18] ee. a
+[0:18] 228 fall
+[0:18] von
+[0:18] मलिक.
+[0:18 - 0:19] you think
+[0:19] 405 4.9
+[0:19] eel ०0.
+[0:19] oufall 7.
+[0:19] ory if
+[0:19] लि रे
+[0:19] are *
+[0:20] \\weekdays re bed
+[0:20] iL i /
+[0:20] all
+[0:20 - 0:25] go to college/
+[0:20 - 0:25] work on the |
+[0:20 - 0:25] \you| would be busy, {
+[0:20 - 0:25] those days(less} 1111 /
+[0:20 - 0:25] boredom)
+[0:21] {you
+[0:21] Vii
+[0:21 - 0:24] \\weekdays aes
+[0:22] \\weekdays jean
+[0:22] - fal
+[0:23] | N Sil
+[0:23] Fea
+[0:23 - 0:24] taying on a deficit -
+[0:23 - 0:24] | “Tee compared to
+[0:23 - 0:25] would be relatively,
+[0:23 - 0:29] weekends:
+[0:24] ify
+[0:24] go 1 coll
+[0:25] ec jsanad
+[0:25] रैक
+[0:25] ying on a deficit
+[0:25] ively,
+[0:25] “Neem compared tc to
+[0:25] ell
+[0:26] va Jil
+[0:26] am | a
+[0:27] FAO)
+[0:27] 1 what You can is
+[0:27 - 0:29] Stay on deficit, Mon!
+[0:27 - 0:29] Maintainence on the
+[0:27 - 0:29] Fri and eat at ||
+[0:28] 1 what yo
+[0:28] 4 can is
+[0:28] had
+[0:28] nyt
+[0:29] So what you can do!
+[0:29] hea)
+[0:29] q है.
+[0:30] Ae Pra
+[0:30] {lhe
+[0:30] wel
+[0:30 - 0:32] ‘This way you Ii be not
+[0:30 - 0:32] है| be as hungry on} 5
+[0:30 - 0:32] boring days plus yo
+[0:30 - 0:32] able to adhere
+[0:30 - 0:32] to the plan ||
+[0:32] lie
+[0:32] sil
+[0:33] Follow for more
+[0:34] hie
+[0:34] ai formor
+[0:34 - 0:35] | Foll
+[0:35] va tt
+[0:35] “all forimore

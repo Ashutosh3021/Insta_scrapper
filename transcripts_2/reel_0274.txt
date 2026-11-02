@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[274] https://www.instagram.com/reel/DVYseObEx6b/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:22] Outro Music.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Training/splits)
+[0:02 - 0:08] \Your/exact’splitidoes;
+[0:03 - 0:08] iInot/matter,as much’as;
+[0:03 - 0:08] you) है| \
+[0:05 - 0:08] es your split
+[0:05 - 0:08] train each muscle
+[0:06 - 0:08] tleast 2x a week
+[0:09] fh sS
+[0:09] WwW.
+[0:10] 2)iis;‘each muscle
+[0:10] 1०९:
+[0:10 - 0:12] ‘ore th
+[0:10 - 0:13] recovering
+[0:11] eee,
+[0:11 - 0:14] ach muscle
+[0:11 - 0:14] before the next
+[0:11 - 0:14] session
+[0:12] je/next
+[0:12 - 0:14] group recovering
+[0:13] यु 15/09८1 muscle
+[0:13] Say
+[0:14] 425
+[0:14] See
+[0:15] both
+[0:15] ifithe;answe
+[0:16] cv के
+[0:16] (of'those)questions is;
+[0:16] alyesiju:
+[0:16 - 0:17] ifitheanswer. rtorboth
+[0:17] withty.
+[0:17] € ‘split
+[0:17 - 0:18] fof|those)quest
+[0:17 - 0:18] ayes)
+[0:17 - 0:18] jjust-cont
+[0:18] ifitheanswer,
+[0:18] ‘with Wi ‘split
+[0:19] U me
+[0:19] Sia
+[0:20] rae! |
+[0:20 - 0:21] il|personally train UE

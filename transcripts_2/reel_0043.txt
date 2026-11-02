@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[43] https://www.instagram.com/reel/DeezbZ0TzlQ/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] No slump and you know what he told me?
+[0:01 - 0:05] Never, never cut your hair because the strength is in the hair.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] SEE
+[0:00] ie |] A
+[0:00] है हीं I
+[0:00] 4" अत
+[0:00] LAA |
+[0:01] pe OY
+[0:01] SSI
+[0:02] Sa के >5
+[0:02] — ऋचाहुऊ'
+[0:02] 8 cw,
+[0:02] — के 4 i थी
+[0:03] SS कक
+[0:03] | OT आय
+[0:03 - 0:04] oe Se
+[0:04] 1 11%
+[0:04] —er el Pe ke
+[0:05] vi बा
+[0:06] 320)
+[0:06] ila ss
+[0:07] PS जर
+[0:07] po ie
+[0:08] oe Nees
+[0:08] ल्‍ऋ समझना
+[0:09] oil
+[0:11] meee Sse.
+[0:11] Vv i बाबा
+[0:14] pal
+[0:14] बनना
+[0:14] Beh
+[0:15] all!
+[0:15] iy UL

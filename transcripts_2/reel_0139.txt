@@ -1,0 +1,70 @@
+# model: ggml-large-v3
+========================================================================
+[139] https://www.instagram.com/reel/DbDcGqYTR69/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: pa
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] ???
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] => 4 Reels:
+[0:00] Yarn &
+[0:00] RAK:
+[0:00] 01 have toe, |
+[0:00] eer”
+[0:00] cea
+[0:00] aren
+[0:00] Flo |
+[0:00] ‘Ajau kya apni par
+[0:00 - 0:01] Training ooh hard sothas
+[0:00 - 0:03] Jantar mantar,ke %-
+[0:00 - 0:03] ake we punches’,
+[0:00 - 0:04] ५ protest mai jane wal@
+[0:01] fe KON
+[0:01] —Jantar
+[0:01] ‘otestmai jane w.
+[0:01] ५1 झट (
+[0:01] nite
+[0:01 - 0:04] (aig siig don t have tos
+[0:02] Training $501905011%9७
+[0:02] ccs We.
+[0:02] low
+[0:03] pes
+[0:03] 2 so hard soithas
+[0:03] 7, follow |
+[0:03] au kya apni pat
+[0:04] ro ae
+[0:04] Training so Tans
+[0:04] kes
+[0:04] ches &,
+[0:06] ering Fair.
+[0:06] 7 मम
+[0:06 - 0:10] Weakest/Person,
+[0:07] ॥ ‘supporting
+[0:07] Cat al
+[0:07] a? if d
+[0:08] lth ay
+[0:08] Fair
+[0:08] Educatio
+[0:08] aay
+[0:08] बडे
+[0:09] है; iy
+[0:09] _ Person
+[0:09] supportii 19) Ip
+[0:10] nel
+[0:10] |suppo
+[0:10] rting]Eair
+[0:10] | “1५4
+[0:10] cucation
+[0:10] a eS
+[0:11] Seu J
+[0:11] 15011
+[0:11] Eduestion
+[0:12] (ull
+[0:12] ‘supportin:
+[0:12] Weak
+[0:12] ‘erson
+[0:12] Edi
+[0:12] lucati

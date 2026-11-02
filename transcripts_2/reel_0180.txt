@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[180] https://www.instagram.com/reel/DZqA8Svz8eY/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aye
+[0:00] uy ue
+[0:00] aid
+[0:01] rap)
+[0:01] Nag
+[0:02] J My
+[0:03] Sid
+[0:04] हि i
+[0:04] sg डे
+[0:05] व Bs
+[0:05] > थार
+[0:06] Sid

@@ -1,0 +1,73 @@
+# model: ggml-large-v3
+========================================================================
+[175] https://www.instagram.com/reel/DZxK13FzEqX/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] See
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] High motor ui
+[0:00] recruitment an
+[0:00 - 0:03] echanical|tension
+[0:01] 9७६
+[0:01] High m
+[0:01] jotorun
+[0:01] icaljtensio.
+[0:01] and lo)
+[0:02] १०६
+[0:02] scr ay = आह
+[0:02] 1 motorjun
+[0:02] ruitmentiand low,
+[0:02] Ail ib
+[0:02 - 0:04] 7 Does not build
+[0:02 - 0:04] muscle)
+[0:03] rae 5 31010
+[0:03] High motor ui
+[0:03] १३1 Oey
+[0:03] wh a
+[0:03] Doet है. build
+[0:03] जाल.
+[0:04] annie motor, iow
+[0:04] 15 ke aa
+[0:04] Cruitl
+[0:04] tand low,
+[0:04] uss
+[0:04] itension
+[0:04] Lig
+[0:04] HTT]
+[0:04] Waie
+[0:05] meee ० Lil
+[0:05] run
+[0:05] pal
+[0:05 - 0:06] motor unit
+[0:05 - 0:07] recruitment
+[0:06] oe melee
+[0:06] tensionjandilow randilow
+[0:07] “a aad
+[0:07] thon
+[0:07] High Mechanical
+[0:07] tension and low,
+[0:07] motor ul
+[0:07] Does not build,
+[0:07] muscle)
+[0:09] 4 am
+[0:09] High
+[0:09] unit
+[0:09] tor
+[0:10] tel
+[0:10] Builds Muscle
+[0:10] all f
+[0:10 - 0:11] High mechanical
+[0:10 - 0:11] sion +/High\Motor
+[0:10 - 0:11] unit recruitment,
+[0:11] ann
+[0:11] Wee “<
+[0:11] I Muscle
+[0:11] aaa
+[0:12] eel
+[0:12] 4 ant
+[0:12] ‘Captio:
+[0:13] info

@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[78] https://www.instagram.com/reel/DdbvSssTOzY/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] BK, you're empty
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] है fa
+[0:00] lla,
+[0:00] ae Seon,
+[0:00] aire
+[0:01] a ae
+[0:03] ail
+[0:03] है 1 ७
+[0:03 - 0:08] हैः
+[0:04] Qui
+[0:04] ee ee |
+[0:05] है जा oer
+[0:06] we VF
+[0:07] ees ome a > |
+[0:07] लेक नी
+[0:08] fey
+[0:08] —— शाणा
+[0:09] we F
+[0:10] Eur lel
+[0:10] SS SS ee ए = |
+[0:11] vila
+[0:11] Tay
+[0:12] हैः
+[0:12] काका
+[0:13] ang
+[0:13] me be
+[0:13] eee
+[0:14] pal
+[0:14] बजा
+[0:15] १०5८
+[0:16] Wel
+[0:16] a की

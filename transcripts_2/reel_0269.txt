@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[269] https://www.instagram.com/reel/DVknWxykd_z/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] san
+[0:00] a Bs
+[0:00] 2 ee
+[0:01] Ser
+[0:02] This sé
+[0:02] पं छा Y
+[0:02] fot
+[0:03] RIN
+[0:03] AS ee
+[0:03 - 0:11] This se€ of 4 reps is'=
+[0:03 - 0:12] Way better'than your.
+[0:04] rae
+[0:04] Ay i
+[0:04] of Mild
+[0:04 - 0:13] Discomfort
+[0:05 - 0:06] ays
+[0:05 - 0:06] ‘epsiof Mild
+[0:06] a: ae
+[0:07 - 0:11] Mild
+[0:08] ape
+[0:08] As ag
+[0:09] eps.
+[0:10] « orf
+[0:11] vege
+[0:11] के ae
+[0:12] 15 setiof 4 reps is ७
+[0:12 - 0:13] epsiof Mild
+[0:13] This Fog reps is ©
+[0:13] aay
+[0:13] )your,
+[0:13] setter'th

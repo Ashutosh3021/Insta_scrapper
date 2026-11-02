@@ -1,0 +1,98 @@
+# model: ggml-large-v3
+========================================================================
+[192] https://www.instagram.com/reel/DZNr1G4z7KZ/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:17] you see this is not possible because your lats do this your side delts do this you cannot produce
+[0:17 - 0:21] two opposing joint torques at the same joint at the same time like you cannot flex your tricep
+[0:21 - 0:26] into a bicep curl it's the same principle here the lats perform shoulder adduction means they
+[0:26 - 0:30] bring the arm towards your body and the shoulders perform shoulder abduction which
+[0:30 - 0:33] means they bring the arm outwards towards your body like this
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Reels:
+[0:00] bie रू
+[0:00] starts
+[0:00] pRB F cap a peau
+[0:00] ७७० (६६ ॥|
+[0:00] t ss Follow
+[0:00] ynsh_taneja_fi
+[0:00 - 0:01] You can't fully flekyourlats AND upper traps at
+[0:00 - 0:07] Fix Lateral RaisesW)
+[0:00 - 0:07] 258
+[0:01] Iwillengage
+[0:02] i tat
+[0:02] <r Follow
+[0:02] fully (
+[0:02] ats AND upper traps at ||
+[0:03] se of W
+[0:03] y) at.
+[0:03 - 0:07] > Watch - Client Result
+[0:03 - 0:07] You can’t fully flex your lats AND upper traps at
+[0:04] कैट
+[0:04] | ॥ lateral
+[0:04] ekansh_tar
+[0:04] ness Follow
+[0:04 - 0:07] Reels:
+[0:05] Fee
+[0:05] fSically im|
+[0:05] Follow
+[0:05 - 0:07] ekansh_taneja_fitness Follow
+[0:06] 10०)
+[0:06] engage
+[0:06] ekansh.
+[0:06] Fifi
+[0:09] Tousce tifbisace
+[0:09] (dojthis;
+[0:09] » off
+[0:09 - 0:10] ibecause}yourg
+[0:10] Yousso tii
+[0:10] itsido this;
+[0:10 - 0:11] lisinot;
+[0:11] Ipossible because
+[0:11] ats de
+[0:12] Youlseelth:
+[0:12] not.
+[0:12] our,
+[0:12] jpossible)bec:
+[0:12] llats}
+[0:13] ys delts doth
+[0:16] hyoulcannot/produce) |
+[0:16 - 0:19] [twolopposing)joint}
+[0:16 - 0:20] ftorquelatithe!same)
+[0:16 - 0:20] jointiatithe;same|time)
+[0:17] हु foluvendieeeme dine
+[0:18] y ee
+[0:19] iproduce:
+[0:20] \Youlcannot/produce:
+[0:20] itwo}
+[0:20] sing joint)
+[0:22] Gitaqpancdcb
+[0:24] Whejlats)
+[0:24] (७४3 ६८
+[0:24 - 0:26] farmi|towardsjyour body,
+[0:24 - 0:31] imeansithey/bring|the}
+[0:25] iction,
+[0:25 - 0:27] Hhellats|perfori
+[0:26] ‘shoulde:
+[0:26] ion,
+[0:26] imeans)
+[0:26] bringithe
+[0:27] Phouldenadduction,
+[0:27] me) bo
+[0:29] vAnd[the}shoulders
+[0:29] der
+[0:29] Tale
+[0:30] [they
+[0:30] ulders
+[0:30] fabductionawhich
+[0:31] | <1720:5, 14275
+[0:31] fer
+[0:32] =< Our
+[0:32] away
+[0:32 - 0:33] fromithe| body
+[0:33] *=*Outwi
+[0:33] ards)

@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[31] https://www.instagram.com/reel/Derw3u-pGpq/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] happens bro
+[0:00 - 0:01] alright then
+[0:01 - 0:03] make a strong
+[0:03 - 0:04] fucking ascending
+[0:04 - 0:04] one
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:04] tal
+[0:12] बजा
+[0:13] a ae

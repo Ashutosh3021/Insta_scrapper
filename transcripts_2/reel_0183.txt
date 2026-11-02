@@ -1,0 +1,93 @@
+# model: ggml-large-v3
+========================================================================
+[183] https://www.instagram.com/reel/DZiQoaeTFnm/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Okay.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] |. are on.
+[0:00 - 0:01] budgetiwatch t
+[0:01] ०077९,०
+[0:01] video
+[0:01] Mire
+[0:01] बज A
+[0:02] ill
+[0:02] liflyoulfreq
+[0:02] ret
+[0:02] का, a
+[0:02] lot
+[0:02] Hal
+[0:02] 1.4 ae
+[0:02] a 77--
+[0:02 - 0:03] consume|wh
+[0:03] if'you|frequently
+[0:03] prote
+[0:03] costing you alot
+[0:04] You\can;swi
+[0:04] slate
+[0:04] N Ny
+[0:04] 5» an
+[0:05] You.canswitcl ito
+[0:05] = aed
+[0:06] You
+[0:06] switch toys
+[0:06] Kean swi
+[0:06] ola cs
+[0:06] Costs’
+[0:06] as much
+[0:06] का रह ५
+[0:06] al ae
+[0:07] maul
+[0:08] 109४3,
+[0:08] ity, of
+[0:08] ‘Soy/pi
+[0:09] 18109!
+[0:09] ०277
+[0:09] /९५५5९/|
+[0:09] "का y
+[0:09] mil
+[0:09] tay
+[0:10] Lay
+[0:11] Sie
+[0:12] ‘Soy-increa: hj
+[0:12] - wit
+[0:12] ourhormon
+[0:12] कक कोर
+[0:12 - 0:14] “‘S enla and, imesse
+[0:13] १7९
+[0:13] 5 ee '
+[0:13] 0)/17८7295९5'
+[0:13] Seu ||
+[0:13] he yo
+[0:13] ihe
+[0:13] boar
+[0:14] See crea:
+[0:14] withyo
+[0:14] lhormon
+[0:14] जे i
+[0:14] jes
+[0:14] पे है;
+[0:14] meer
+[0:15] a itd है i at i
+[0:15] Bi px
+[0:15] und
+[0:16] के ष्रु
+[0:16] koe
+[0:16] रूकू
+[0:16] it does not;
+[0:17] Nojit doesin
+[0:18] canttake whe
+[0:18] ‘ 1s. good,
+[0:18] नि र
+[0:18] ब््ज्न्ज्ल्ज
+[0:19] If. you.cant) (पक wi
+[0:19] jood)
+[0:19 - 0:20] _ /Follow.for more.
+[0:20] If you cant, takel w!
+[0:20] = almost'as'‘goo:
+[0:20] fi XE
+[0:20] rer

@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[232] https://www.instagram.com/reel/DXV_hauEQm5/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] You're set.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] See
+[0:01] a eed
+[0:03 - 0:04] lis)
+[0:04] 978,
+[0:05] Dany
+[0:05] | fas
+[0:05 - 0:06] iffy ougretcurlingss
+[0:06] fay
+[0:06] Don
+[0:06] की 35
+[0:08] baa,
+[0:09] par
+[0:10] \ ial
+[0:10 - 0:12] lit{doesinot}/matterit,
+[0:12] 2 af
+[0:13] eee
+[0:14 - 0:15] jjustimovelthe|weight,
+[0:14 - 0:15] foverthinksit?
+[0:15] pans.

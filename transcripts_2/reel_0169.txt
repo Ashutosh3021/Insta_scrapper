@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[169] https://www.instagram.com/reel/DZ5k7-nTVCE/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] कार्बोहाइड्रेट का मसल गेंज से कोई लिया देना नहीं है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] jet
+[0:00] Cor
+[0:00] Saal
+[0:00 - 0:03] Never take carb
+[0:00 - 0:03] for muscle i 3
+[0:01] कैफ
+[0:01] है) ॥ a
+[0:01] © Reply
+[0:01] 7७ 8७७
+[0:01] a5 rhage;
+[0:01] ‘Ving WL
+[0:01] f how!
+[0:01 - 0:04] Reels:
+[0:02] all aN
+[0:02] joey Ti
+[0:02] हे we
+[0:02] how ६
+[0:02 - 0:03] 6 Reply - 21 repli
+[0:02 - 0:04] Comme
+[0:03] lint
+[0:04] 11050
+[0:04] Never take carbohydrates,
+[0:04] for muscle gain..
+[0:04] 12७ ७७ ७
+[0:04] © Reply - 21 replies.
+[0:04] हा oe
+[0:04] é 75
+[0:04] fare” to a
+[0:05] i ji |
+[0:05] ras
+[0:05 - 0:07] की कि
+[0:06] ms wT,
+[0:07] Lowjmuscle glycogen
+[0:07] ‘and|lower blood
+[0:07] suganeaise CNS
+[0:07] its
+[0:07] tigue —
+[0:08] Bes
+[0:09] es if
+[0:10] Power'musclete
+[0:10] ‘gly ogen'also._\.
+[0:10] fati
+[0:11] and Enjo)
+[0:11] ‘our
+[0:11] arbs with protien
+[0:11] and fats?)
+[0:11] wel
+[0:11] Way
+[0:12] erreae: 2.
+[0:12] A if
+[0:12] w Nee

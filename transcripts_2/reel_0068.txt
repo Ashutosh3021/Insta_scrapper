@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[68] https://www.instagram.com/reel/Ddt14k6TcjK/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: fr
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] Sous-titres par Jérémy Diaz
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] See
+[0:01] Ww oe
+[0:01] | Veg
+[0:01] Were
+[0:01] wey
+[0:02] ay J
+[0:02] MER,
+[0:02] So -म वीक...
+[0:02] we ra
+[0:05] wil
+[0:07] ANON
+[0:12] eet
+[0:14] Guilt

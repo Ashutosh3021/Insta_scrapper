@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[162] https://www.instagram.com/reel/DaLZjiLzuHY/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Dive for each other
+[0:02 - 0:04] We're cool for the summer
+[0:04 - 0:08] Take me down into your world
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ब्रा
+[0:01] 41 है
+[0:01] CAM.
+[0:01] के हे
+[0:01] 23 ay
+[0:02] 4. 177)
+[0:03] 3111
+[0:07] fess

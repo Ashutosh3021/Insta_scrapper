@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[20] https://www.instagram.com/reel/De1x5qZz3Cf/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] i know i'm eagle lifting it's perfectly fine like let's see your preacher curl
+[0:03 - 0:06] i guarantee you it's pathetic and also while you're at it post a physique pic
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ९ ०७९,
+[0:04] ams
+[0:09] Bot

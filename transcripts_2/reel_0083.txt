@@ -1,0 +1,61 @@
+# model: ggml-large-v3
+========================================================================
+[83] https://www.instagram.com/reel/DdMfCpzT-ak/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Hit
+[0:00 - 0:01] —Howstoltranstorm_—
+[0:00 - 0:02] *\_yourHamstrings to
+[0:00 - 0:02] Hamropes
+[0:00 - 0:05] all
+[0:01] sintsar
+[0:01] ४८ | a}
+[0:01] 2 417,
+[0:01] Jal
+[0:02] LIF >,
+[0:02] ८227
+[0:02] hie
+[0:02 - 0:03] die
+[0:03] rsa
+[0:03] wre
+[0:03] Sania
+[0:03] ett
+[0:03] LOE
+[0:03] Cal
+[0:03 - 0:04] (Get; i a
+[0:03 - 0:04] strongfat' flexi
+[0:03 - 0:04] ing your
+[0:04] irtsar
+[0:04] knee
+[0:04] Cae तन
+[0:04] pe Oe
+[0:04] a le
+[0:05] art
+[0:05] stronglat‘flexing your
+[0:05] > 177०
+[0:06] cot
+[0:06] ul 1
+[0:06] 20h
+[0:06] igi
+[0:06] aad
+[0:06] Wes
+[0:06 - 0:07] ‘Strong at
+[0:06 - 0:08] with a:stiff(er) leg
+[0:07] ANY
+[0:07] jing
+[0:07] © tes
+[0:08] te baa |
+[0:08] strong at hinging
+[0:08] fen
+[0:08] बजाज /
+[0:08] ced
+[0:09] ख्च्च्ड
+[0:09] Ferd
+[0:10] 1. Ml
+[0:10] Pea

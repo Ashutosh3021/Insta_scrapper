@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[198] https://www.instagram.com/reel/DY-UtCNTgnc/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] She ain't into no drama
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] आग er
+[0:00 - 0:02] lEverything|Iidolfor,
+[0:01] DAS,
+[0:03] क्र
+[0:03] ara
+[0:03] Wels
+[0:03] fey
+[0:03] (हैः
+[0:04] aol
+[0:04] रजत
+[0:04] r ae
+[0:04] y AR
+[0:04] = ज्ड तो
+[0:04 - 0:06] ne.Curls.
+[0:05] Nig
+[0:05] ल्‍ँ
+[0:05] Za/ A
+[0:05] aks
+[0:06] * Fim
+[0:07] गति
+[0:07] 432८
+[0:07] TS SS
+[0:07] INKY
+[0:07] ३ पं
+[0:07] RSS
+[0:07 - 0:11] ‘SA\tricep rer
+[0:08] iia A 1)
+[0:08] & 02 Ly
+[0:08] — काया
+[0:08] if d |
+[0:08] Re Re
+[0:09] iia
+[0:09] Sas
+[0:09] NaS
+[0:09 - 0:11] Se S
+[0:10] 7G (७४
+[0:10] LPT) se
+[0:10] h ol
+[0:10] REX
+[0:12] iereaches
+[0:12] हर (कै
+[0:12] iis
+[0:13] ‘yea
+[0:13] ््छि,
+[0:14] Bilpresacher
+[0:14] ail’
+[0:14] YS oN |
+[0:15] spe.
+[0:15] eae
+[0:16] SOBER a) S| \
+[0:16] err |
+[0:16] end ik
+[0:17] SST

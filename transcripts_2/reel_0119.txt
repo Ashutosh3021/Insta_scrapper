@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[119] https://www.instagram.com/reel/Db3VUWyzp1M/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] _ यक्रममम |
+[0:00] = raining ५
+[0:00] oat
+[0:00] ied
+[0:00 - 0:02] Only Upper.Chest.—
+[0:01] है लि
+[0:01] . Upper.Ches
+[0:01] res
+[0:01 - 0:02] =Training youneed~ -_
+[0:02] DS a
+[0:02] wal
+[0:03] | न्थचतः / i
+[0:04] uns
+[0:04] (shoul
+[0:04] flexion)
+[0:04 - 0:05] Do,this,
+[0:05] oe 31
+[0:06] wot seer
+[0:06] 490000०७)
+[0:06] ८:2२ (44 है “ ms
+[0:06 - 0:08] + Dotthis
+[0:07] ७०० ena
+[0:07] 6 2 Deothis
+[0:07] tal
+[0:07] \ Bus
+[0:07] JRaductio
+[0:07 - 0:08] one
+[0:08] caste
+[0:08] rizontal
+[0:08] hs ao
+[0:08] yAdduction ion 4
+[0:08] Lo — रह
+[0:08] के 4
+[0:09] oon sera
+[0:09] LAN
+[0:09] Ff Pi as:
+[0:09] WIS LEA

@@ -1,0 +1,189 @@
+# model: ggml-large-v3
+========================================================================
+[163] https://www.instagram.com/reel/DaJFCt9zbDu/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I don't wanna touch you, I don't wanna hurt you
+[0:03 - 0:04] And I promise you
+[0:04 - 0:15] I promise you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] >> —~weights/bi
+[0:00] cle
+[0:00] प्ल्च
+[0:00 - 0:01] How
+[0:01] >—~weigh
+[0:01] muscle
+[0:01] the|body 2.
+[0:01] (ils
+[0:02] Your nage
+[0:02] ee nsors; in
+[0:02] =e prane,
+[0:02] Coi
+[0:02] 71115.
+[0:02] Hin
+[0:02 - 0:03] ‘mecha
+[0:02 - 0:03] = Ini
+[0:02 - 0:04] fibers
+[0:02 - 0:04] => their m
+[0:02 - 0:04] brane, ine, like | |
+[0:02 - 0:04] iii,
+[0:02 - 0:06] = mee, the Dystrophin,
+[0:03] 01208, |
+[0:03] she
+[0:03 - 0:04] Your mite
+[0:03 - 0:04] Col
+[0:03 - 0:04] lex,
+[0:03 - 0:06] ==> their m brane, ne,
+[0:04] i है
+[0:04] (felt
+[0:05] the “0
+[0:05 - 0:06] Your muscle fibers
+[0:05 - 0:06] lhave
+[0:05 - 0:06] "mechanosensors”” in
+[0:05 - 0:06] Complex’ and]
+[0:05 - 0:06] integi
+[0:06] ere
+[0:07] jer
+[0:07] iyi
+[0:07 - 0:09] these
+[0:07 - 0:09] >>> sensoi
+[0:07 - 0:09] letect that
+[0:07 - 0:10] When fe
+[0:07 - 0:10] load andjti
+[0:07 - 0:11] athways)
+[0:08] 525
+[0:08] lift} these
+[0:08] that
+[0:08] dil
+[0:09] an 7
+[0:09] mTOR}
+[0:09] specifically ६
+[0:09] 97०
+[0:09] witchilinked,
+[0:09] thi
+[0:09] aa like=—
+[0:09] 5 and a
+[0:09] ait
+[0:10] When youllift; these
+[0:10] path
+[0:10] 5/7९८४1८०11!
+[0:10] growtl
+[0:10] wit
+[0:10] throu:
+[0:10] proteins i
+[0:10] , and DG!
+[0:10] Pri
+[0:10] sith
+[0:10] ily
+[0:10] Mgt
+[0:10] i 1-0
+[0:10 - 0:11] =>. sensorsidetect that
+[0:10 - 0:11] 7 nll
+[0:11] When yo these
+[0:11] load and {trigger
+[0:11] Dae
+[0:11] ly’t
+[0:11] growt thyswite lint
+[0:11] ced
+[0:11] | nNOS and 06
+[0:11] fat
+[0:11 - 0:13] speci
+[0:11 - 0:13] through proteins like=—
+[0:12] spi
+[0:12] Vit)
+[0:12] age 9
+[0:12 - 0:13] Be NA
+[0:12 - 0:13] (Lysosome)
+[0:12 - 0:13] Translation
+[0:12 - 0:13] ically theymTOR:
+[0:12 - 0:13] growth} switchilin
+[0:12 - 0:13] IS and DGKG,
+[0:13] he'd
+[0:13] ज्स्ख्ख्ध
+[0:14] activationjo
+[0:14] fimTORC1
+[0:14] its sti
+[0:14] Ril
+[0:14] somal.
+[0:14] FF a.
+[0:14] Maal
+[0:14] Hi} 3
+[0:14 - 0:16] Upon mechanical
+[0:14 - 0:16] through} 5616 and
+[0:14 - 0:16] ~~ 4EBP1/+)Starts ,
+[0:14 - 0:16] iogenesis
+[0:15] wat
+[0:15] Pre
+[0:15] fii)
+[0:15] hondriat
+[0:15 - 0:16] activationiof mTORC1
+[0:15 - 0:16] its starts/MPS)
+[0:15 - 0:16] Ribosomal,
+[0:15 - 0:16] ORCI
+[0:15 - 0:16] Lipogenesis |
+[0:15 - 0:16] synthesis
+[0:15 - 0:16] Autophagy
+[0:16] all
+[0:16] Proton)
+[0:16] mTOR Ss)
+[0:16] Vii)
+[0:16] Mitochondrial
+[0:16 - 0:18] protien)
+[0:17] wig. ess
+[0:17] INA-directed
+[0:17] jes/utilize
+[0:17] ids(|
+[0:17] nit
+[0:17] 711
+[0:17] ffl
+[0:17] a #]. अधररपननफ
+[0:17 - 0:19] ‘Throw:
+[0:17 - 0:19] 5-3 of mR!
+[0:17 - 0:19] trai Nslation, 4
+[0:17 - 0:19] Ts ribos
+[0:17 - 0:19] amino
+[0:18] Throug!
+[0:18] rected
+[0:18] jes,
+[0:18] nil
+[0:18] Tiny
+[0:18] Mii
+[0:18] जल ले
+[0:18 - 0:19] om ess
+[0:19] ied
+[0:19] ing latic
+[0:19] ids(protien))
+[0:19] iff,
+[0:19] (ile
+[0:19] ie ज्डे
+[0:20] fal,
+[0:21] tos’ LG 512,
+[0:21] whichjare'tl
+[0:21] हनन a.
+[0:21] contractile)
+[0:21] fand,
+[0:21] nit
+[0:21] ४0510.
+[0:21] श्र
+[0:21 - 0:22] folded)
+[0:21 - 0:22] function.
+[0:21 - 0:23] >~>. polype| tide!chains, ) |
+[0:21 - 0:23] ins(ai
+[0:21 - 0:23] <prote:
+[0:22] tel
+[0:22] ine
+[0:22] gia
+[0:22] Hii :
+[0:22] aie
+[0:22 - 0:23] to synthesize)
+[0:22 - 0:23] whic then,
+[0:23] folded|into)
+[0:23] functionallcontractile)
+[0:23] __myosi
+[0:24] लो Follo more)
+[0:24] है, fe
+[0:24] 4g f

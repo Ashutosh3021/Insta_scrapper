@@ -1,0 +1,65 @@
+# model: ggml-large-v3
+========================================================================
+[93] https://www.instagram.com/reel/Dc1KutdTqfW/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ६22. 505८0
+[0:00] tle
+[0:00] > Fig
+[0:00] ५2222
+[0:00 - 0:02] “Upper Chest, Upper;
+[0:00 - 0:02] chest, Upper Ches
+[0:00 - 0:02] t, {77
+[0:01] Pe) 05८0
+[0:01] 77 oe
+[0:02] Vea
+[0:02] “ate
+[0:03] houlder,
+[0:03] Do'lyingitn
+[0:03] Abies
+[0:03] flexion
+[0:03] ry SoD
+[0:03] vulcan
+[0:03] attachmen
+[0:03] ion the
+[0:03] 1 © al
+[0:03] sing |
+[0:03 - 0:06] 2 cable station and
+[0:03 - 0:06] forget
+[0:04] = (05८0
+[0:04] 635
+[0:04] ३1१
+[0:04 - 0:06] Dojlying tnf{shoulder,
+[0:04 - 0:06] fle on) with vulcan
+[0:04 - 0:06] rattachment on the
+[0:05] पा a)
+[0:05] Dol:
+[0:05] v ४ ८2५
+[0:05] 2222:
+[0:06] ५2० (05८0
+[0:07] 2७2:
+[0:08] pees
+[0:08] i il
+[0:08] iis
+[0:08] kis)
+[0:08] की रा
+[0:08] 7” अं
+[0:09] (का #छ
+[0:09] com
+[0:09] pane
+[0:09] कटी
+[0:09] ५0५
+[0:09] Fay
+[0:10] warn’
+[0:10] bet
+[0:10] gee
+[0:11] “को a C050"
+[0:11] lien
+[0:11] कुक |
+[0:11] १7३

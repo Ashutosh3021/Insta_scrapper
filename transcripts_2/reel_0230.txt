@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[230] https://www.instagram.com/reel/DXb1bKHE9_b/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: es
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] Y sé, mi nena, tú eres una yala, y tú eres mala, baby, no te vayas, ándame.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] rd ld
+[0:01] dali
+[0:01] a Fy
+[0:01] 110]
+[0:01] foA4
+[0:02] val
+[0:03] Py 7
+[0:04] के J
+[0:05] Ady
+[0:06] जाय
+[0:09] cae

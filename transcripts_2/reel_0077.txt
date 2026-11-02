@@ -1,0 +1,208 @@
+# model: ggml-large-v3
+========================================================================
+[77] https://www.instagram.com/reel/Dddk-t4z-np/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] We'll see you next time.
+[0:30 - 0:33] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] lee
+[0:00] Fe x
+[0:00] acl
+[0:00 - 0:01] = have access to
+[0:00 - 0:01] a machine like this
+[0:01] ब्रा
+[0:02] ahd
+[0:02] 1 ee
+[0:02 - 0:04] _ And a machine like ©
+[0:02 - 0:04] this which one'to
+[0:02 - 0:04] choose?
+[0:03] 89715
+[0:03] Vag
+[0:04] 7% yi
+[0:04] 6 है
+[0:05] ulead
+[0:05] since the
+[0:05] re iy
+[0:05] atte yourdont
+[0:05] helpsyc you
+[0:05] i as
+[0:05] Zon था थ
+[0:05] 47०
+[0:05] pe x
+[0:05 - 0:06] onve
+[0:05 - 0:06] ‘hat
+[0:05 - 0:07] exercises'a
+[0:05 - 0:07] ‘similar, if you enjoy
+[0:05 - 0:07] foneljover.the other
+[0:06] Firstly’since the
+[0:06] exereiseoare i
+[0:06] similar, if
+[0:06] yourenjoy
+[0:06] CHAOWALE ० हर
+[0:06] 4 oy
+[0:06] But if
+[0:06] you donti ll
+[0:06] hy yy
+[0:06] helpyy
+[0:06] you
+[0:07] 27570 2
+[0:07] ena
+[0:07] a the
+[0:07] re a
+[0:07] onc
+[0:07] aE ०१
+[0:07] But if yourdont 11
+[0:07] 5 ४ ou
+[0:07] 10% > iS
+[0:07] Was
+[0:07 - 0:10] Co ee
+[0:08] oS की
+[0:08] 222 लक धो
+[0:08 - 0:10] oe a Pulldown the
+[0:08 - 0:10] here(90 Degrees) a
+[0:08 - 0:12] peak force occurs
+[0:09] here(90 bere
+[0:09] ve Nt
+[0:09 - 0:10] approximately
+[0:10] aay क्र
+[0:10] Lic
+[0:10] _as the line of
+[0:10] ho हे
+[0:10] furthest en my,
+[0:10] Gi-se
+[0:11] ep a)
+[0:11] ५ ०-21
+[0:11] 111
+[0:11] ef o
+[0:12] J ६1%
+[0:12 - 0:14] In a row the)peak_
+[0:12 - 0:14] somewhere\around 0
+[0:12 - 0:14] degrees(arm by my “4
+[0:13] as a
+[0:13 - 0:14] yferceroccurs /
+[0:15] Yond
+[0:15] ind
+[0:15] AAS
+[0:15 - 0:16] ‘We)have some
+[0:15 - 0:17] activation data for
+[0:15 - 0:17] varying;shoulder
+[0:15 - 0:17] extension angles
+[0:16] exter क्र
+[0:17] wat
+[0:17] है 1
+[0:17] 6 है
+[0:18 - 0:19] Top Graph is'Chest
+[0:18 - 0:19] Middle\Graph)Lats
+[0:18 - 0:19] Bottom Graph Rear.
+[0:18 - 0:20] Pullover
+[0:18 - 0:20] 1500:
+[0:18 - 0:20] = 400.
+[0:18 - 0:20] 2 300.
+[0:18 - 0:20] = 1000:
+[0:18 - 0:20] 45 90 135 180
+[0:18 - 0:20] 600
+[0:18 - 0:20] Joint Position (Degrees)
+[0:18 - 0:20] L’ Delts
+[0:19] = 4००
+[0:19] = aoo
+[0:19] WARK
+[0:19] हनन
+[0:19] ५५५
+[0:19 - 0:20] men
+[0:20] MOON
+[0:20] ‘op Graphi
+[0:20] Middle,
+[0:20] Grap:
+[0:20] ats)
+[0:20] Bottom
+[0:20] Graph Rear.
+[0:21] From - eS =
+[0:21] of shoulder™
+[0:21] Amp.
+[0:21 - 0:24] _ data itidoes look like
+[0:21 - 0:24] that the lats*al are more
+[0:21 - 0:24] active at .0O- 45m
+[0:21 - 0:24] extension= \-
+[0:22] From the मा शीला
+[0:22] {shoulda
+[0:22] lo i |
+[0:22] wih \
+[0:22] ns v
+[0:22] Tas
+[0:22] Pye
+[0:23] geareeransnoulde
+[0:23] ext
+[0:23] Vins
+[0:23] 1448
+[0:23] @ ip 4
+[0:23] alt
+[0:23 - 0:24] rr the activation
+[0:23 - 0:24] ot A
+[0:24] degrees'of shoulder
+[0:25] लक व
+[0:25] edie bes erg tf
+[0:25] AMA
+[0:25 - 0:26] serene.
+[0:25 - 0:26] 3०10४
+[0:25 - 0:26] extension, the posterior
+[0:25 - 0:26] is wel
+[0:25 - 0:26] ॥ pector
+[0:25 - 0:27] This is alsojin.line
+[0:25 - 0:27] withthe Internal,
+[0:25 - 0:27] Seal Moment Arm data
+[0:25 - 0:27] havelfor.the lats
+[0:25 - 0:27] Shoulder extension internal moment arm lengths (IMALs) of the prime movers vary over
+[0:25 - 0:27] the sagittal plane ROM. While the posterior deltoid always has the very best leverage,
+[0:25 - 0:27] the thoracic latissimus dorsi has the second-best leverage below shoulder height, while
+[0:25 - 0:27] the costal pectoralis major has the second-best leverage above shoulder height.
+[0:25 - 0:27] The hore tes ert
+[0:25 - 0:27] |blog
+[0:25 - 0:27] /0७४ ७४
+[0:25 - 0:27] Research
+[0:26] wey
+[0:26] 1292
+[0:26] haveflfor.the 1965
+[0:26] लक गज
+[0:26] हल पल erg tf
+[0:26] AAI
+[0:27] The coma
+[0:27] 144
+[0:27] edt erg tf
+[0:27] he rg mucin above 90
+[0:27] eres shoes
+[0:27] (elas लक व
+[0:27] snd Scape tower ०७०
+[0:27] hela mane between 12
+[0:27] suggesting that its
+[0:27] sot
+[0:27] poner 64०७७
+[0:27] ats ५०
+[0:27] is major was more
+[0:27] above shoulder height).
+[0:28] ‘iy 4
+[0:28 - 0:29] row forthe lats + rear
+[0:28 - 0:30] So If you don’t have a
+[0:28 - 0:30] | personal preference,
+[0:28 - 0:30] | would'chose the
+[0:28 - 0:30] delts '
+[0:29] welts
+[0:29] 444
+[0:29] Al |Z
+[0:29] 4 ee
+[0:30] row हर ॥120119/5 + rear
+[0:30] हे न
+[0:31] mn TA
+[0:31] = \ role Whee more. <4
+[0:32] rong) For more
+[0:32] ऐ ॥ si
+[0:32] 111
+[0:32] PON
+[0:33] कि 0.
+[0:33] Ao j
+[0:33] Follow. Fo
+[0:33] rmo

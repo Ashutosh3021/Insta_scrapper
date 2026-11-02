@@ -1,0 +1,91 @@
+# model: ggml-large-v3
+========================================================================
+[285] https://www.instagram.com/reel/DU2ZqLTEYoa/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:17] Субтитры сделал DimaTorzok
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Macros
+[0:00] st ०
+[0:01] KY ts
+[0:01 - 0:04] Macros}for Muscle
+[0:01 - 0:15] Buildings
+[0:02] woe
+[0:03] Protein =
+[0:03] Required to,
+[0:03] ee et /
+[0:03 - 0:04] ‘ovymuscley
+[0:03 - 0:10] M, है. for Muscle
+[0:04] f,bod:
+[0:04] Ikglo
+[0:04] het
+[0:04 - 0:05] Protein hs ap quired t
+[0:04 - 0:05] jingibe:
+[0:05] Pee muscles
+[0:05] P62 gi;
+[0:05] kg] efibodyweight
+[0:05] this,
+[0:05] is mostilikely,
+[0:05] unnecessai
+[0:05] ry (PMID)
+[0:05] 32943
+[0:05] 392)
+[0:06] crOS!
+[0:06] l on
+[0:07] eros
+[0:08] Macrosifor Muscle
+[0:08] Eatst Eno!
+[0:08 - 0:09] fats fe
+[0:08 - 0:09] hormoney
+[0:08 - 0:10] proper,
+[0:09] JEn
+[0:09] LAN
+[0:09] ough fatssf
+[0:09] PFO)
+[0:09] functionfand!
+[0:09] [key
+[0:09] luction)
+[0:10] 1937 fats\for
+[0:10] alg
+[0:10] hoi
+[0:10] nmone)
+[0:10] fun
+[0:10] and)
+[0:10] production)
+[0:11] श््च
+[0:11] i Zo
+[0:11 - 0:12] Macrosj}for Muscle
+[0:12] importan:
+[0:12 - 0:15] Carbohydrates = Very
+[0:12 - 0:15] iWorkou:
+[0:13] es Muscle
+[0:13] fae
+[0:13] impo of, for
+[0:13] ann
+[0:13] 52131
+[0:13] rem
+[0:13 - 0:14] Very
+[0:13 - 0:14] s}for
+[0:14] Beak
+[0:14] impo
+[0:14] ance
+[0:14] 51०07
+[0:14] हि ry:
+[0:14] rates;
+[0:14] ideallyt3-5'g/kglof
+[0:14 - 0:15] igs: for Muscle
+[0:15] important foi ir,
+[0:15] Es nmancey
+[0:15] lUsefalll
+[0:15] remal.
+[0:15] Lae]
+[0:15] Ikcalsifor,
+[0:15] hdl
+[0:15] ideally,
+[0:15] 3: 5ig/Kglon
+[0:16] abst
+[0:17] Thatsiit®

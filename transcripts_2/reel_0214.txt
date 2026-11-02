@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[214] https://www.instagram.com/reel/DYezS3IzwbR/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aie
+[0:00] iad
+[0:00] en ea
+[0:00 - 0:11] Toji From Temu:~ «
+[0:01] 101 From Te
+[0:04] ‘om, Temu,
+[0:04] wht.
+[0:04] 00086...
+[0:05] 00085 ४ हिंद ७:
+[0:06] vie
+[0:06] 0006५... 7: Smee
+[0:07] yey
+[0:08] Bee ४६
+[0:08] ponte!
+[0:09] om) Temu:
+[0:09] ASS,
+[0:09] ae ae
+[0:10] 00006...
+[0:10] ह्क्ज्द्
+[0:11] Boe
+[0:11] ews

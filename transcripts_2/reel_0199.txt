@@ -1,0 +1,161 @@
+# model: ggml-large-v3
+========================================================================
+[199] https://www.instagram.com/reel/DY9aA_zTU-I/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] Thank you.
+[0:30 - 0:49] You're welcome.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] * अरे Body q
+[0:00 - 0:03] ५ forbusy individuals
+[0:01 - 0:02] —.. Body I
+[0:01 - 0:03] exercise depe!
+[0:01 - 0:03] n)your pi
+[0:02] onyou
+[0:03] 7. Body q
+[0:03] ‘each
+[0:04] Lund
+[0:04] Wie
+[0:05 - 0:06] ९ हैं!
+[0:05 - 0:07] Chest q
+[0:05 - 0:07] ‘Seated Row
+[0:06] 1 lJ
+[0:06 - 0:07] Rear Delt:
+[0:06 - 0:07] Traps
+[0:07] all
+[0:07] raked |
+[0:08] 1 मी
+[0:08] 115
+[0:08] ail
+[0:09] नि GA
+[0:09] Flat;smith machi
+[0:09] inch pr “iG
+[0:10] 1 at)
+[0:10] ely
+[0:10] ch pres.
+[0:10] Fan
+[0:10] aan
+[0:10 - 0:12] Chest”
+[0:11] ih ma
+[0:11] ie pre
+[0:11] pin
+[0:12] I sl)
+[0:12] bench P
+[0:12] ress
+[0:12] I Ip Bt
+[0:12] rel
+[0:12] bi Vee my
+[0:13] चुद
+[0:13] हैं. ६ 52
+[0:14] 1९ Seated S|
+[0:14] yay
+[0:15] 6. Shoulde
+[0:15] bs side
+[0:15] Delts——
+[0:15 - 0:16] Press
+[0:15 - 0:17] ie wide pronated)
+[0:15 - 0:17] neutral for, front+~ —
+[0:15 - 0:17] Stipy linsteadiof.
+[0:16] का A
+[0:16] 095
+[0:16] Wik
+[0:16] = side De
+[0:16] क्र
+[0:17] 1G shoulders
+[0:17] PAN
+[0:17] sil
+[0:17] ऐ मन side/D
+[0:19] Rey
+[0:19] Trice)
+[0:20 - 0:22] Tricep Extension
+[0:21] nsion
+[0:21] + Tri
+[0:21] iceps
+[0:22] 7 Ai
+[0:23] > ome
+[0:24] ation
+[0:24] fil
+[0:25] ion
+[0:25] fits
+[0:25] achiall
+[0:25] rachioradi
+[0:25 - 0:27] Elbow,
+[0:25 - 0:27] lexors(bicepS,
+[0:26] ‘ors(biceps7,—
+[0:26] brachiallis,
+[0:26] कटी,
+[0:26] rai
+[0:26] joradialis)
+[0:26] = क् है 2
+[0:26 - 0:27] iny Curl-Variation '
+[0:27] 19115,
+[0:27] achioradialis)
+[0:27] प्र
+[0:28] न्ज्न
+[0:29] a >3.4
+[0:29] pales
+[0:29] eee
+[0:30] pT fem
+[0:30] vay | Z\Heads of th
+[0:30 - 0:32] \ Quadriceps.
+[0:31] Sa pt
+[0:31] gic,
+[0:31] ॥ 4 Heads of the
+[0:31] iceps
+[0:31] cnet
+[0:31] i कि
+[0:31 - 0:32] Exten
+[0:32] Lea
+[0:32] All 4 Heads >
+[0:32 - 0:34] ail
+[0:33] “कक चर
+[0:34] CTd
+[0:34] ' आय न
+[0:34] ख्ब्न
+[0:34 - 0:37] atedih —
+[0:35] Curl,
+[0:35] jee
+[0:35] Woo | fi
+[0:35 - 0:36] All Musclesiof ६
+[0:36] —_ eT in
+[0:36] Cont
+[0:36 - 0:37] hamstrings il
+[0:37] 8५ 48
+[0:37] बा /॥ Mustlesiof
+[0:38] iif
+[0:39] Hinge movement;
+[0:40] Hinge, ER १४७४४
+[0:40] magnus, hamstrings
+[0:40] 228
+[0:40 - 0:41] Glutes;,
+[0:40 - 0:43] and _erectors
+[0:41] Hinge 2 NS
+[0:41 - 0:42] Imag
+[0:42] Hinge movement
+[0:42] she
+[0:42] Lbs
+[0:42] iespadducto.
+[0:42] is, hamstrings,
+[0:43] Hinge है ॥। कक
+[0:43] 16191/255
+[0:43] SAS
+[0:43] magnus, hamstrings
+[0:44] कफ) 4
+[0:46] may;
+[0:46] Le ie
+[0:46] lit
+[0:46] SI So
+[0:46 - 0:48] leus;
+[0:47] Niet]
+[0:47] ise
+[0:47] if Sie iS
+[0:47] oe e
+[0:47 - 0:48] cil
+[0:48] Raise
+[0:48] tanding,
+[0:48] i Fea
+[0:48] oft

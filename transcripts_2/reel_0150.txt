@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[150] https://www.instagram.com/reel/DamyNv-Rk4t/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Oh, you are a monster.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] >> गर्म >#कर०5६॥722/0377
+[0:00] your, training, in
+[0:00] y pe
+[0:00 - 0:02] factor to optimise in fT
+[0:01] factor’
+[0:01] / 1७७
+[0:01] igh
+[0:01] OS eh
+[0:01] een
+[0:01] हि hh
+[0:01 - 0:02] a; ‘Theymostimportant
+[0:02] मां"
+[0:02] T your, on + y
+[0:02] Intensii
+[0:02] fiom <_
+[0:02] ian
+[0:02] ins
+[0:02] ase
+[0:02] छ करना
+[0:03] . अमर
+[0:03] a? हे
+[0:04] ee करा
+[0:04] a? if b
+[0:04] \ ioe
+[0:04] हैः
+[0:05] क्र
+[0:11] ASS
+[0:11] Int
+[0:12] re. Intens:
+[0:12] 4 ig

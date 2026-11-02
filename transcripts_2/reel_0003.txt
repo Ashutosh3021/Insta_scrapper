@@ -1,0 +1,44 @@
+# model: ggml-large-v3
+========================================================================
+[3] https://www.instagram.com/reel/DfK-1VCTUQv/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:26] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] iffy oulare}doing|lowz
+[0:00 - 0:01] repysets|this is|how,
+[0:00 - 0:02] ithey/should look
+[0:01] renal
+[0:02] Bremerec eine Lem
+[0:02] repysetsithisjishhovwy
+[0:03 - 0:05] lFormjstays consistent)
+[0:03 - 0:05] (onjall reps;
+[0:04] Renae
+[0:04] So ne
+[0:06] Sina
+[0:06 - 0:08] (Controlling|the)
+[0:06 - 0:08] of direction)
+[0:06 - 0:08] fatithe/bottomlof, the)
+[0:06 - 0:08] rep!
+[0:07] ate
+[0:07] aol
+[0:08] ही |i
+[0:10] melt
+[0:10 - 0:12] ry eccentrics)
+[0:14] ATE
+[0:15] BS ५
+[0:16] foe
+[0:18] eee
+[0:18 - 0:19] (vee
+[0:19] ria
+[0:19] A Sain. Sap
+[0:20] Co a
+[0:21] किक
+[0:21] Ves
+[0:22] fen
+[0:22] | आरा
+[0:23] vita.

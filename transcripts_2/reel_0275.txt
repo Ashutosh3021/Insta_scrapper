@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[275] https://www.instagram.com/reel/DVQ9kO9kzPL/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] life.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:04] How to build your
+[0:06] strong,
+[0:06 - 0:09] shoulder waa
+[0:06 - 0:09] adduction(Frontal
+[0:06 - 0:09] plane/Vertical, Pulls)
+[0:07] iGetistrongjat)
+[0:08] fiz
+[0:08 - 0:09] COSTOR IER
+[0:12] 736
+[0:13] plane
+[0:13 - 0:15] shoulder,
+[0:13 - 0:15] extension(Saggital,
+[0:13 - 0:16] Get/strong at)
+[0:14] i ४८
+[0:14 - 0:15] plane‘rows)
+[0:17] श्र
+[0:17] is ¥ c
+[0:18 - 0:20] Thats it;
+[0:18 - 0:20] ou dont,
+[0:19] WSs
+[0:19 - 0:21] Thatsjit), you dont
+[0:19 - 0:21] need'5 row/pulling
+[0:19 - 0:21] Variations.
+[0:20] Ras
+[0:20] ing
+[0:20] ९0४

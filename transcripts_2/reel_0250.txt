@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[250] https://www.instagram.com/reel/DWjEYh0E85I/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Outro Music.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] _Lhave a question}for,
+[0:00 - 0:01] { you alls
+[0:02] Lhave aque
+[0:02] 141
+[0:02] = you ali
+[0:04] i—_ ५७७
+[0:04] mont bh
+[0:04 - 0:06] dumbell:Chest. fs
+[0:04 - 0:07] __Barbell bench 4
+[0:04 - 0:07] press?” 5
+[0:05] —Barbell be
+[0:05] Or rest Chest
+[0:06] Lape
+[0:06] ae hk
+[0:07] 6 is Chest
+[0:07] Jen’
+[0:08] rt गा
+[0:08 - 0:10] er do and why?
+[0:08 - 0:12] Which one:woul 4
+[0:09 - 0:11] Which 6
+[0:09 - 0:12] youldo and. why?,
+[0:10] be i di
+[0:11] q है
+[0:11] mak

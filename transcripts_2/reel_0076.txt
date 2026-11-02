@@ -1,0 +1,13 @@
+# model: ggml-large-v3
+========================================================================
+[76] https://www.instagram.com/reel/DdeP_ZxTqPI/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: fr
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:17] Sous-titrage ST' 501
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:07] है a
+[0:11] 1 ॥ । है

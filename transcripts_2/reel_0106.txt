@@ -1,0 +1,90 @@
+# model: ggml-large-v3
+========================================================================
+[106] https://www.instagram.com/reel/DcRIEGQzEG0/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Mix the Waka with my Sprite, turn it gelin' in
+[0:02 - 0:04] Too many bitches in my line, I need some pepper spray
+[0:04 - 0:07] Me and Esser in a cup, the cushions havin' me
+[0:07 - 0:09] Us walkin' backwards, I'm goin' backwards, I got wedding cake
+[0:09 - 0:12] You got a pub, but where the fuck you go?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] waste
+[0:00] हि विलेन...
+[0:00] Cf Ge
+[0:00] rep
+[0:00] sii
+[0:00] | ine
+[0:00 - 0:02] ~~“““Just alreminderthat
+[0:00 - 0:02] face pulls are'a waste
+[0:00 - 0:02] (of time
+[0:01] ae 2८८--
+[0:01] Seon eee
+[0:01] pee eg
+[0:01] हैं
+[0:01] y Se-
+[0:02] die
+[0:02] fill
+[0:02] Van
+[0:02] श्र
+[0:03] Li oy |
+[0:03] File
+[0:03] ne SS
+[0:03] | be ॥५
+[0:03 - 0:04] A face)pulllis worse
+[0:03 - 0:04] ==> than anjupper-back —
+[0:03 - 0:05] 5 men, OW in aspect>
+[0:04] ; en, LOW injevery aspect~
+[0:04] Pry
+[0:04] " \ हि a
+[0:04] sitll
+[0:04] हैं
+[0:05] A face
+[0:05] worse
+[0:05] [pull
+[0:05] er-back ~>
+[0:05] -=>— than anjup
+[0:05] Cf oe "
+[0:05] 1 ie
+[0:05] Pri
+[0:05] sisal
+[0:05] C1@ 0
+[0:06] — som
+[0:06] silt
+[0:06] «lant
+[0:06] भें
+[0:06] Neo | = है
+[0:07] Use
+[0:07] डाकनाओ 5 4.
+[0:07] Gaal a4
+[0:07] हि न
+[0:07] रे जा |
+[0:07 - 0:08] ‘ flexion
+[0:07 - 0:09] -Bad|stability _७
+[0:07 - 0:09] ~<Uselessfelbow,
+[0:08] 920.
+[0:08] है जो
+[0:08] sie! amen
+[0:08] रे Siz
+[0:09] जि ली
+[0:09] हि हिल...
+[0:09] fle
+[0:09] Va ७४
+[0:09] «lant
+[0:10] iil
+[0:10] ris
+[0:10] 0000
+[0:10] आन ्नक-
+[0:10] V4.4
+[0:10] ani
+[0:10] Nee =
+[0:10 - 0:12] | Justido this;
+[0:11] BALA
+[0:11] ‘ill
+[0:11] 191
+[0:11] Rag
+[0:12] sine!

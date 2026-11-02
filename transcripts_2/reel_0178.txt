@@ -1,0 +1,63 @@
+# model: ggml-large-v3
+========================================================================
+[178] https://www.instagram.com/reel/DZr9_QyzvcD/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] होगा मिर्चापुर का मुना यहाँ थे वहु बली
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ii XM
+[0:00] i niishar
+[0:00] ntliftsss
+[0:00 - 0:01] A sha ke Bahubali_ Masoom
+[0:00 - 0:03] Reels v
+[0:00 - 0:03] bid
+[0:00 - 0:03] Can your scientific Lifter pull a
+[0:00 - 0:03] full stack like this ??
+[0:00 - 0:03] Follow
+[0:01 - 0:02] nishantliftsss:
+[0:02] il) 21 «Ke Bahubali Mi
+[0:02] (2३०००
+[0:03] 4 | sos
+[0:04] Heavier stack + 2.5
+[0:04] ots
+[0:04] ॥ हु ar
+[0:04] है + 8 |
+[0:04] te 2
+[0:05] 5336 |
+[0:05] J jp
+[0:05] ay as
+[0:05] Hea
+[0:05] + Did
+[0:05] int
+[0:05] osterior cl nal
+[0:05 - 0:06] like you
+[0:06] fs oe
+[0:06] + oft ELZ
+[0:06] my/posterior’chain'
+[0:06] ४0 ४५९
+[0:06 - 0:08] van
+[0:07] है. nN
+[0:07] 1 gh
+[0:07] Staci
+[0:07] बम ता सक
+[0:07] iid
+[0:07] ate
+[0:07] Bie
+[0:08] wee
+[0:08] —— gil
+[0:09] 7. kgi:235k
+[0:09] sgym y
+[0:09] iss"
+[0:10] “6 kg
+[0:10] 22.5
+[0:10] kg ES
+[0:10] spin,
+[0:10] peed
+[0:11] 7s k
+[0:11] i kgigym
+[0:12] ceN
+[0:12] las

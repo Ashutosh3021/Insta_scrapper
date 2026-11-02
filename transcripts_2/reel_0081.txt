@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[81] https://www.instagram.com/reel/DdROWQHz4dw/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] के है
+[0:00 - 0:01] We dontla P is
+[0:01] _Weltrain
+[0:02 - 0:03] ~ doing|low reps, u can
+[0:02 - 0:04] a Anyways if you are
+[0:02 - 0:04] train) as failure
+[0:03] failure
+[0:03] किक
+[0:04] doingllow reps, u can
+[0:04] bya
+[0:05] 6८0
+[0:05 - 0:07] you train hardjyou
+[0:05 - 0:07] (will be Going to कि
+[0:05 - 0:07] ) failure time to time
+[0:07] ४7 व
+[0:07] 4 ८05८0
+[0:07] kK a
+[0:08] rh कर
+[0:08] yways 29% of you
+[0:08] in the
+[0:08] gym
+[0:08] 1 py
+[0:08 - 0:10] alllarpi.
+[0:08 - 0:10] 10 RIR sets
+[0:08 - 0:10] with your,
+[0:09] ail
+[0:09] Anyways
+[0:09] all'larp in the gym
+[0:09] ith your 10 RIR sets
+[0:09 - 0:10] © of you,
+[0:10] Anyw.
+[0:12] t doing the
+[0:12] FAILURE REP would
+[0:12] ther
+[0:12] y हैं
+[0:13] FAIL
+[0:13] P would
+[0:13] adito sm
+[0:13] othe
+[0:13] Foi
+[0:13] Poy
+[0:13] “nto
+[0:13 - 0:14] Yes not’doing)the
+[0:13 - 0:14] wai progressions
+[0:14] ILURE
+[0:14] lead to smoother
+[0:14] Pam
+[0:14] Sie
+[0:15] ia ushin
+[0:15] ur, ie
+[0:15] woth
+[0:15] aed
+[0:15] wea
+[0:15 - 0:16] to time wont explode |
+[0:15 - 0:17] to failure\tt from\tim
+[0:16] 120, |
+[0:16] ath
+[0:16] कंस
+[0:16] eer
+[0:16 - 0:17] \you
+[0:17] te ush
+[0:17] ur, ze
+[0:17] to time wont ले
+[0:17] uplede
+[0:17] 4 , हैं
+[0:17] wed
+[0:18] hal
+[0:18] pon
+[0:18] \ way
+[0:18] had Gy
+[0:19] fom

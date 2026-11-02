@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[30] https://www.instagram.com/reel/DesNJDzztfn/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:23] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 14९८
+[0:00 - 0:01] [Either
+[0:00 - 0:02] jyourjwholeys
+[0:00 - 0:02] lifeycallingleveryone
+[0:00 - 0:02] bigger'than youl
+[0:00 - 0:02] fake\natty
+[0:02] 9137
+[0:02] jigs
+[0:03 - 0:04] (Onjustitake)
+[0:03 - 0:04] training’
+[0:03 - 0:05] inspiration and|/keep)
+[0:04] है १,
+[0:04] mM C .
+[0:05] take
+[0:05] Onjust
+[0:05] tra
+[0:05] 79५
+[0:06] ‘than
+[0:06 - 0:08] liicantassure|
+[0:06 - 0:08] iwould}look/pre
+[0:06 - 0:08] ~good- if they)
+[0:06 - 0:08] traine
+[0:06 - 0:08] hard forjmore)
+[0:06 - 0:08] Siyears
+[0:07 - 0:08] thai
+[0:09] 522
+[0:09 - 0:11] consistently inthe)
+[0:09 - 0:12] iPlusjilsee)it/all|the)
+[0:09 - 0:12] everyone)
+[0:09 - 0:12] (trainsjproperly(+
+[0:10] «& syn
+[0:10] लाश
+[0:11] sym
+[0:11] | gee
+[0:11] ear)
+[0:11 - 0:12] Are biggér. Ye
+[0:12] ‘Con:
+[0:12] intly inithe}
+[0:13] See
+[0:13 - 0:15] [Ujprobably/dontitrain)
+[0:13 - 0:15] ranywhere|close;
+[0:13 - 0:15] failurejif u are)not;
+[0:13 - 0:15] seeing results
+[0:14] seeing,
+[0:14] Its
+[0:14] Lvs Oe
+[0:15] roe
+[0:16] Serccatt iar
+[0:16] keep)
+[0:16] LUE
+[0:16 - 0:18] coping in other,
+[0:16 - 0:18] peoples comments:
+[0:17] wil
+[0:17] N76
+[0:17 - 0:18] iStartitraining) hard]
+[0:18] wll,
+[0:18] alg?
+[0:18] bed)
+[0:18] ina
+[0:19] aie
+[0:19] a ae
+[0:19] wide
+[0:19] है 1
+[0:19] 1 हु
+[0:21] Beye:
+[0:22] eed
+[0:23] _ ae A

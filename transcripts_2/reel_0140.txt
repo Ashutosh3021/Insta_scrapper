@@ -1,0 +1,67 @@
+# model: ggml-large-v3
+========================================================================
+[140] https://www.instagram.com/reel/DbC6PQuRETG/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] मान रखे यार ने जो तेरा गर मिल हूँ तो सिद्धी गोड़ी
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Likes
+[0:00 - 0:03] Reels:
+[0:00 - 0:03] 5-10 km toh kutte bhi dodiete h
+[0:00 - 0:03] Sharéer main jaan dekhi jaati h
+[0:00 - 0:03] lakshayyadavv23
+[0:00 - 0:03] 7 Rahul Kadyan Ustaaz
+[0:00 - 0:03] Follow
+[0:00 - 0:03] Follow for more
+[0:01] Sharee? iin jaan ach jaatih
+[0:03] क्र
+[0:04] han
+[0:04 - 0:05] bad
+[0:05] Sgt ES
+[0:05] uj hav
+[0:05] lio \&
+[0:05] fen
+[0:05] Ce Zo
+[0:05] Yum!
+[0:06] ay you have
+[0:06] ‘heal
+[0:06] Pry
+[0:06] bad cardio,
+[0:06] Lol
+[0:06] bem
+[0:06] VAs
+[0:07] Le rd
+[0:08] ible tojrun
+[0:08] mes not
+[0:08] HT ४४
+[0:08] iis
+[0:08] (‘elt
+[0:08 - 0:09] == not bei
+[0:08 - 0:11] good ८
+[0:09] able.
+[0:09] = eis not ajfle:
+[0:09] havin
+[0:09] Hii
+[0:09] _ 2 कल
+[0:09 - 0:11] run)
+[0:10] = eis not 2116:
+[0:10] ‘eh 5.
+[0:10 - 0:11] ==not beingjable to
+[0:11] Peis not aif
+[0:11] Whi
+[0:11] cal
+[0:12] Sma Also 9
+[0:12] muscle,
+[0:12] nit
+[0:12] Api
+[0:12] HTL
+[0:13] = me Also 5. musel
+[0:13] 32030
+[0:13 - 0:14] growth}
+[0:14] = me Also g odifor muscle,
+[0:14] Pinal
+[0:14] 41 ५४

@@ -1,0 +1,134 @@
+# model: ggml-large-v3
+========================================================================
+[71] https://www.instagram.com/reel/Ddn1-7lzmiE/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ‘or eve
+[0:00 - 0:01] oflbw f.
+[0:00 - 0:01] veryone)
+[0:00 - 0:02] ¢ How much Protein to
+[0:00 - 0:02] eat(its not! 1.6 g/kg,
+[0:01] F mz.
+[0:01] ‘ore
+[0:02] of; lbw for everyone)
+[0:03] भा >थ.
+[0:03 - 0:04] Pp people)1.62 g/kg
+[0:03 - 0:05] डे vast majority;
+[0:03 - 0:05] of bw would’be
+[0:03 - 0:05] SUFFICIENT Protien
+[0:03 - 0:05] to, maximise muscle
+[0:03 - 0:05] growth
+[0:04 - 0:05] 1.40), p=0.03) Protein supplementation
+[0:04 - 0:05] beyond total protein intakes of 1.62 g/kg/day
+[0:04 - 0:05] resulted in no further RET-induced gains in
+[0:04 - 0:05] FFM
+[0:05] 707 62 g/kg)
+[0:06] |४०7४०72॥/7/
+[0:06] किस ysuggests,
+[0:06] tom
+[0:06 - 0:07] lof bw might be
+[0:06 - 0:09] calorie deficit,
+[0:06 - 0:09] going: up till 2.4 g/kg;
+[0:06 - 0:09] better ~
+[0:07] you-arelin
+[0:07 - 0:09] Uy research ysuggests, 4
+[0:08] 100
+[0:08] a} Li
+[0:08] rare) ina
+[0:08] Weicarch ysuggests; 4
+[0:08] going'up
+[0:08] till 2.4 g/kg
+[0:08] of bw
+[0:08] might be
+[0:08 - 0:09] Conclusions. BIE results showed that, during
+[0:08 - 0:09] a = energy deficit, consumption of a diet
+[0:08 - 0:09] containing 2.4 g protein - kg(-1) - d(-1) was
+[0:08 - 0:09] more effective than consumption of a diet
+[0:08 - 0:09] promoting increases in LB!
+[0:08 - 0:09] rs and losses of fat
+[0:08 - 0:09] mass when combined with
+[0:08 - 0:09] igh volume of
+[0:09] lihy,
+[0:09] renin
+[0:09] tibe
+[0:09] of b migh
+[0:10] te é
+[0:10] ही i
+[0:10] Sean 9
+[0:10 - 0:11] Pp This|happens because
+[0:10 - 0:12] your body might. use’
+[0:10 - 0:12] )Protien for energy in
+[0:10 - 0:12] a deficit,
+[0:11] | fl 1
+[0:11] आकर
+[0:12] This‘happens 4
+[0:12] ~ aed
+[0:13] are 3
+[0:13] aaa
+[0:13] ~S yg
+[0:13 - 0:15] 4 Also if
+[0:13 - 0:15] individual’? < 15%or or
+[0:13 - 0:15] lower'in bodyfat you
+[0:13 - 0:15] could benefit from
+[0:13 - 0:15] more protien
+[0:14] Also if I! re leaner
+[0:15] ou_are leaner
+[0:17] When looking at
+[0:17] U7:2:-29/k9 of g/kg of bw
+[0:17] ze yg
+[0:17 - 0:20] research’suggested
+[0:17 - 0:20] bodybuilders SS
+[0:18] aly
+[0:18] medal
+[0:18] eZ x
+[0:18 - 0:19] ‘When
+[0:18 - 0:20] king 5 ,
+[0:18 - 0:20] graded intakes of protein [indicator amipo acid
+[0:18 - 0:20] oxidation (IAAO) technique].Methods: Eight
+[0:18 - 0:20] men (means + SDs: age, 22.5 # 1.7 y; weight,
+[0:18 - 0:20] 83.9 + 11.6 kg
+[0:18 - 0:20] .0% + 6.3% body fat) were
+[0:18 - 0:20] pon
+[0:18 - 0:20] oxidation in breath)].Results: The Estimated
+[0:18 - 0:20] Average Requirement (EAR) of protein and the
+[0:18 - 0:20] upper 95% CI RDA for these young male
+[0:18 - 0:20] bodybuilders were 1.7 and 2.2 g - k
+[0:19] ng 5
+[0:19] 83.9 + 11.6 kg; 13.0% + 6.3% body fat) were
+[0:19] pin
+[0:19] ml da
+[0:19] Boz
+[0:20] ave
+[0:20] When Ico
+[0:20] 1.7-2:2,g/kg of bw.
+[0:20] dicd
+[0:20] SFFS
+[0:20] ial dad
+[0:20] Zig
+[0:21] la not ,
+[0:21 - 0:23] and not in‘a deficit
+[0:21 - 0:23] 16256 g/kg of | of bw is
+[0:21 - 0:23] TY | | enough
+[0:21 - 0:25] So if You
+[0:22] re not ,
+[0:22] een
+[0:22] ~<a yg
+[0:23] So if You | हि not ;
+[0:24 - 0:26] - “vor yoware lean lean; you
+[0:24 - 0:26] can push your
+[0:24 - 0:26] protein till about
+[0:24 - 0:26] 2.2-2.4 g/kg of bw
+[0:25] in’a 4
+[0:26] if 140 (#' intadeficit
+[0:27] af ‘i
+[0:27] भा Follow.for mo
+[0:28] 1 le
+[0:28] ' | 4 Folléw.for more
+[0:29] Mis
+[0:29] 5 कटी:

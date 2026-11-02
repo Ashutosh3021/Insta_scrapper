@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[185] https://www.instagram.com/reel/DZcwoN6z5-m/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ‘kout,
+[0:01] Nii
+[0:01] rorkout’s
+[0:02] a oe
+[0:03] sols
+[0:04] aols

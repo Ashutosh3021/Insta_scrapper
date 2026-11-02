@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[196] https://www.instagram.com/reel/DZCYDQaReNT/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ad Paglu
+[0:01] कान
+[0:04] Ee Pagly
+[0:04] “4 le
+[0:06] है. बे
+[0:07] gor
+[0:07] Sec:
+[0:08] aod
+[0:09] Y\ SEDE-)Paglu)
+[0:10] DE Ast
+[0:12] न्ध्य्न्ट

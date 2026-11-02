@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[122] https://www.instagram.com/reel/DbvozYtzUkm/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: ko
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] -끝-
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ree जज
+[0:00] 2०2 =
+[0:00 - 0:03] 5,538
+[0:01] ca bal
+[0:01] fee
+[0:01] Woo
+[0:02] 4 me
+[0:02] Wan cil
+[0:02] wig
+[0:02] eee
+[0:02] saduu
+[0:02] atural (5)
+[0:02] Mage
+[0:03] ar eel
+[0:03] Lie
+[0:04] nies
+[0:05] i उमे
+[0:05] iin
+[0:05] pane
+[0:05 - 0:07] Alot;
+[0:05 - 0:07] iswinginglon
+[0:05 - 0:07] the cable rows:
+[0:07] rows
+[0:07] itt
+[0:08] reps
+[0:08] ४ सं
+[0:08 - 0:10] Youfare)justjusing,
+[0:08 - 0:10] cheat the reps;
+[0:09] See
+[0:10] ax Pr
+[0:12] fail
+[0:12] SES
+[0:12 - 0:14] Lock:
+[0:12 - 0:14] ally,
+[0:12 - 0:14] iT you
+[0:12 - 0:14] r lats;
+[0:13] failure, 7८४91
+[0:13] | you
+[0:13] ‘sae
+[0:13] ax Py
+[0:14] failure
+[0:14] AB as
+[0:15] mab
+[0:15] Stes

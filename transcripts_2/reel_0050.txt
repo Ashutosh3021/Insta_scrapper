@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[50] https://www.instagram.com/reel/DeUOmH4T1qE/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Delete
+[0:03 - 0:05] Delete
+[0:05 - 0:08] And delete your car
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] saa
+[0:00] (05८
+[0:00] | 188
+[0:00] Pie
+[0:00 - 0:01] Never recruited the
+[0:00 - 0:02] many io | units
+[0:02] Never re
+[0:02] | Sat
+[0:02] cruited thes
+[0:03] val
+[0:04] Hay
+[0:05] ca | ही
+[0:05] Lal
+[0:05] ist
+[0:05] ill
+[0:06] 1 हे
+[0:07] (०5८6
+[0:11] ह. है
+[0:12] 2 18 ॥
+[0:12] Alii
+[0:13] ७55९
+[0:13] Stes
+[0:14] ५३ ae
+[0:15] — फलओ|
+[0:15] ith
+[0:15] Bil
+[0:16] ५93
+[0:17] — जेकओ
+[0:17] eit)
+[0:18] ea ¢ Lh |
+[0:18] 2555
+[0:18] 225:
+[0:18] 2223
+[0:19] ea iy”
+[0:19] i, iM]
+[0:19] Bios
+[0:20] sai
+[0:21] Sas
+[0:21] Ail
+[0:22] sii
+[0:24] “itl
+[0:25] gai
+[0:25] ‘id iy”
+[0:25] Jil
+[0:26] rae है
+[0:26] il H
+[0:26] हैं.
+[0:27] iit
+[0:28] sii 50566

@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[153] https://www.instagram.com/reel/DagI2SAz190/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] imazing Gains
+[0:01] (4 a f
+[0:01] + (हिल
+[0:01] i gl
+[0:02 - 0:04] wy 4
+[0:03] Lent
+[0:03 - 0:05] i mith है
+[0:03 - 0:08] inch Press
+[0:03 - 0:08] 6-8 Reps)
+[0:04] ha (Lg
+[0:04] ब्च्ड |
+[0:05] i हा
+[0:06] mith Mi j
+[0:06] = gh ed
+[0:06] all
+[0:07] i mith Machii
+[0:08] 1 न्‌ँ
+[0:08] — Syl)

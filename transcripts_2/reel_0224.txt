@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[224] https://www.instagram.com/reel/DXt6kExkaYj/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] One of the ways you can maximize your progress in the journal case just by having a red page,
+[0:02 - 0:04] what a lot of people are doing is they're just adding load and adding load and adding load,
+[0:04 - 0:06] to the point they're doing 3-ups, 2-ups, and justifying it as fine-tuning something.
+[0:06 - 0:06] I didn't...
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] _ Ree
+[0:00] bil
+[0:00] 200 |
+[0:00] 102
+[0:00] [3100 0101 044
+[0:00] which,
+[0:00 - 0:01] hie
+[0:00 - 0:04] I train science based - all my sets are 3 reps
+[0:00 - 0:05] ‘Diy mtrainss @
+[0:01] at Oe
+[0:01] Srepsis motte,
+[0:01] gyi
+[0:02] Psy
+[0:02] “0 | ४388,
+[0:02] 101 1016
+[0:02] are
+[0:03] mae He हि
+[0:03] 1601 10111
+[0:03] ive
+[0:03] and
+[0:04] ee gD)
+[0:04] why
+[0:04] Repsisinotite
+[0:04] they
+[0:05] Fines,
+[0:05] istifying
+[0:05] based - all my sets are 3 rep:
+[0:07] aie
+[0:09] जाओ mS
+[0:10] 3० | ae
+[0:10 - 0:15] ‘Sor
+[0:10 - 0:19] RIN
+[0:11] Ave
+[0:12] hes
+[0:12] पक्ष
+[0:14] — wg ou
+[0:15] Yar
+[0:15] | Ma im
+[0:17] cai
+[0:18] ‘Sor
+[0:18] a Ne
+[0:19] Pei.
+[0:19] hat

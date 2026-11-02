@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[237] https://www.instagram.com/reel/DXJIwhWEfn0/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] *Outro Music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iTrained]in)
+[0:02] Muscles}Trained]inya)
+[0:02] Eid
+[0:03] श्र ब्ब
+[0:03] cad
+[0:03 - 0:04] (Theladductor/Magnus}
+[0:04] ayy
+[0:05] 94745 व 0०9]
+[0:05] 177०5८2200//0152/67]
+[0:05] fod
+[0:06] lmuscle|whichjisfoften)
+[0:06] [magnusjistalvery/big)
+[0:07] WTheyAdductor]
+[0:07] _[magnusjis}
+[0:07] Imusclelwhich)
+[0:09] Ithelshort/head|
+[0:10] (पायी
+[0:10] टली
+[0:10] te i
+[0:11] Cbs Femoris)
+[0:11] व लगा
+[0:11] ज्ज्ज “वतन किल्टी डाक]
+[0:11] tte ¥
+[0:12] (odie
+[0:12] a te
+[0:12] ttm i
+[0:13] [TheJGlute}
+[0:13 - 0:15] } (onjhow/much}knee}
+[0:14] ques
+[0:15] [bendjyculhave)s
+[0:16 - 0:17] ihe)ErectorSpinae) g
+[0:18] fextension\but)
+[0:18] car
+[0:18] (to hold|
+[0:18] ri ie
+[0:18 - 0:19] [Notidirectl involved]
+[0:19] linlhiplextension|out
+[0:19] [to holt # ली
+[0:20] lis
+[0:20] ThejErectonSpinae}
+[0:20] Biren
+[0:20] contr

@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[281] https://www.instagram.com/reel/DVA6-e5kauq/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] 0६४
+[0:03] aay
+[0:08] TAY
+[0:09] 10५
+[0:10] Bes \

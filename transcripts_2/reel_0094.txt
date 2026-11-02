@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[94] https://www.instagram.com/reel/Dcyzj9WzU64/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Thank you for watching.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] does not work
+[0:00] tiie
+[0:00 - 0:02] “Science. Based lifting
+[0:01] UN A
+[0:02] कक not workd
+[0:03] MOGGED
+[0:04] 0 wy
+[0:05] 1५0
+[0:05] mei
+[0:06] शिया a
+[0:08 - 0:09] are 1
+[0:09] (०५७
+[0:10] न्न्न्
+[0:10] che
+[0:10] | age a
+[0:11] art “1
+[0:11] | gm a

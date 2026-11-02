@@ -1,0 +1,126 @@
+# model: ggml-large-v3
+========================================================================
+[210] https://www.instagram.com/reel/DYoqantRlaV/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:21] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] pss
+[0:00] ts 2 il
+[0:00] उबर
+[0:00] Lwin
+[0:00] try
+[0:00] Aen
+[0:00] अप We,
+[0:00 - 0:01] Whats my/current
+[0:00 - 0:01] ‘split? .
+[0:01] ti 2 ब
+[0:02] Uppe
+[0:02] weel
+[0:02] MZ al
+[0:02] = hen!
+[0:02 - 0:03] हि ower 6x.
+[0:03] “हिल am doing
+[0:03] है. ४4
+[0:03] dit
+[0:05] + a wee
+[0:05] matt tt
+[0:05] bys
+[0:05] प्र iv
+[0:05 - 0:06] ees
+[0:05 - 0:07] The\bigges: reason
+[0:05 - 0:07] why,i/am training 6
+[0:06] Po. | a4
+[0:06] ee reason
+[0:06] ig a\weekis
+[0:06] (० < il
+[0:06] vil
+[0:07] cng
+[0:07] a 1015
+[0:07] किक,
+[0:07] Bais
+[0:07] wel A
+[0:07] sae
+[0:07] pas
+[0:08] 1४४1०
+[0:08] 1 Ati
+[0:08] hai
+[0:08 - 0:09] lifting
+[0:09] Tenj
+[0:09] weigh:
+[0:09] ti 2
+[0:09] dive
+[0:09] Vly
+[0:09] wes
+[0:10] a | \fF
+[0:10] + cleyregion|i am
+[0:10] Bz 3
+[0:10] hil)
+[0:10] a छः
+[0:10 - 0:11] frequency, for every
+[0:10 - 0:11] training
+[0:11] ४७७ ir
+[0:11] muscle‘regio
+[0:12] | Mit
+[0:12 - 0:13] much;
+[0:12 - 0:13] jome
+[0:12 - 0:14] Can[6x¢a)
+[0:12 - 0:14] ‘ek be too
+[0:12 - 0:14] people?”
+[0:13] ive
+[0:13] Hey
+[0:14] some
+[0:14] 1 Atty
+[0:14] ताक
+[0:15] ae 5001...
+[0:15] training 6x a\week
+[0:15] ig गए
+[0:15] mht |
+[0:15 - 0:16] rele it/could|be too
+[0:15 - 0:17] much) fors ig i
+[0:15 - 0:17] do not recom:
+[0:16] है Aa
+[0:16] much, fors pome.sol
+[0:16] हि 170081९८०7॥॥।
+[0:16] training 65.9 ४/९४।
+[0:16] ‘ls ople
+[0:16] tes
+[0:16] ail
+[0:17] a aa
+[0:17] vant could/be too
+[0:17] training 6.
+[0:17] 5 imo:
+[0:17] ०21
+[0:17] 2 il
+[0:17] ditt
+[0:18] Upper, rosea |
+[0:18] 4 8० a
+[0:18] ti 7 i
+[0:18] 1111
+[0:18 - 0:21] If your argjcen confused
+[0:18 - 0:21] aboutiyout'split a
+[0:18 - 0:21] good) [place to)start is,
+[0:19] If you
+[0:19] abou
+[0:19] jarejcenfused
+[0:19] ‘split a
+[0:19] Upper, Lowe:
+[0:19] i body 3xa week
+[0:19] See
+[0:19] fie
+[0:19] 1770
+[0:19] imi
+[0:20] : Lower, or
+[0:20] Fullibody 3x
+[0:20] eek
+[0:20] IBS|
+[0:20] Tih
+[0:20] ०34
+[0:20] err tt |
+[0:21] 7 esto
+[0:21] Full Body, oi |
+[0:21] mitt

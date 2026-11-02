@@ -1,0 +1,77 @@
+# model: ggml-large-v3
+========================================================================
+[111] https://www.instagram.com/reel/DcGy_i1TWgG/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] Outro Music.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] strength
+[0:00] > हे ४:
+[0:00] Hee
+[0:00 - 0:01] IHow,to\warm up for
+[0:00 - 0:01] training %
+[0:01] 1 6४1
+[0:01] ah, 2
+[0:01] ea 4
+[0:01] ave!
+[0:02] your,
+[0:02] increase)
+[0:02] wes छा के
+[0:02] tli
+[0:02] न्य
+[0:02] ci «८ क
+[0:03] प्र
+[0:03] we wih
+[0:03] canido\that, bys
+[0:03] a Ey
+[0:03 - 0:04] yourworkout
+[0:03 - 0:06] lincrease\your body;
+[0:03 - 0:06] doing 10-15 minutes,
+[0:03 - 0:06] of. cycling/elliptical
+[0:03 - 0:06] or you can blast your;
+[0:03 - 0:06] —s heater.in the car
+[0:04] unbody
+[0:04] ga f
+[0:04] we है a
+[0:04] n-do
+[0:04 - 0:06] my temperature
+[0:05] ag 2
+[0:05] You can do
+[0:05] bys
+[0:05] oing 10-15)
+[0:05 - 0:06] Before yourjworkout;
+[0:06] You can do that/bys
+[0:07] And before
+[0:07] every set
+[0:07] Do 1 Set at '~60%
+[0:07] See
+[0:07] 7 ताला
+[0:07 - 0:08] for 4-5 reps
+[0:07 - 0:09] your working\weight
+[0:08] Aedlixctions cto ibe
+[0:08] Do}iSet
+[0:08] 60%.0
+[0:09] ote
+[0:09] Do\tSetiat}
+[0:09] your,
+[0:09] for 4-
+[0:09] STrepsi
+[0:09] Pm हि
+[0:10] Than do ८8८
+[0:10] 90% of your,
+[0:10] “9५9
+[0:10 - 0:12] weight to\get
+[0:10 - 0:12] PAP effect
+[0:11] ‘Thantdo 1-2
+[0:11] of your workin
+[0:12] Thantdo PEPER at
+[0:12] oe Of your,
+[0:12] >> क्र
+[0:13] a Mg” @
+[0:14 - 0:16] | pYou can check
+[0:14 - 0:16] caption for PAPreffect,
+[0:16] cs ee

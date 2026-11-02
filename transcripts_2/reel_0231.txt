@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[231] https://www.instagram.com/reel/DXYpZS6EfF3/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] We'll be right back.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] rede 4
+[0:01] aredesving >
+[0:02] oath P
+[0:03] lifyouy
+[0:03] mexerci
+[0:03] है ः y
+[0:04 - 0:05] lifyouy mae still] है
+[0:04 - 0:05] 41320 per.exercise.
+[0:05] है ० —
+[0:06] eke
+[0:09] है <2
+[0:10] | i 24
+[0:10] 1010
+[0:10] ४71
+[0:10] igi
+[0:11] Fed |
+[0:11] volt
+[0:11] rowth}
+[0:11] lisjhighly,
+[0:11] vid
+[0:11 - 0:12] The,
+[0:11 - 0:13] hing)
+[0:12] 1 bi
+[0:12] ie a
+[0:12] wth}
+[0:12] highly{diminishing}
+[0:13] ‘er it 4
+[0:15] vi J
+[0:16] tore
+[0:16 - 0:20] (Quality Ove:
+[0:17] uantity.
+[0:19 - 0:20] Always.

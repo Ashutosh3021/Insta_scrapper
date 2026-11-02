@@ -1,0 +1,69 @@
+# model: ggml-large-v3
+========================================================================
+[223] https://www.instagram.com/reel/DXyUvBORwsJ/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] If you are unsure on who is going to win, always bet on Hakau.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 167)
+[0:01 - 0:02] 11917
+[0:01 - 0:03] टीका
+[0:02] cota tect
+[0:02] श्र
+[0:03] (677
+[0:03] ise
+[0:04] iflexor/musclesithe)
+[0:04] ibiceps}brachiiy
+[0:04 - 0:06] sTherelare}3jelbow,
+[0:04 - 0:07] ibrachialisjand|the}
+[0:05] iflexer]
+[0:05] (4637
+[0:05 - 0:07] sTherejares3]
+[0:06] Biceps)
+[0:06] ati
+[0:06] ld ay
+[0:06] की 35:
+[0:07] flexor)
+[0:07] jiceps}brachiin
+[0:07] १२३
+[0:07] ifs
+[0:07] bin hI
+[0:08] ८083#73677/050165
+[0:08] et है a
+[0:09] ait
+[0:09 - 0:10] VAlreclinejcuri/like}this)
+[0:09 - 0:10] iwherelmyarmjis}
+[0:09 - 0:10] falmostineutrallwith}
+[0:09 - 0:10] imy/ body,
+[0:10] cle
+[0:10] co i
+[0:11] ce ।थ
+[0:11] oa KS
+[0:12] pany,
+[0:14] A he
+[0:15] my shoulder,
+[0:15] hee
+[0:15 - 0:16] yA\preachercurl|with)
+[0:15 - 0:16] flexed:
+[0:16] my’shouldentullys
+[0:17] एक न का
+[0:17] igri
+[0:17 - 0:19] [ifam)
+[0:17 - 0:19] [disadvantageithe}
+[0:17 - 0:19] biceps»
+[0:18] Jamas
+[0:18] farip hereSTo)
+[0:19] using कि
+[0:19] SHIP)
+[0:21] ‘shoulder,
+[0:21] Lyk
+[0:21 - 0:23] iwithjalflexed]
+[0:21 - 0:23] jposition\wel
+[0:21 - 0:23] canitheoretical
+[0:21 - 0:23] the'brachialisfand]
+[0:21 - 0:23] brachioradialis3
+[0:22] Eom

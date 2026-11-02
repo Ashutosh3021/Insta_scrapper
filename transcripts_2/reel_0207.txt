@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[207] https://www.instagram.com/reel/DYsEClJzGMz/
+STATUS: OK
+DURATION: 0:04   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] a grams|pr
+[0:02] CE) kcalsyy
+[0:02] नकल
+[0:02 - 0:04] 400/grams, chicken
+[0:02 - 0:04] breast
+[0:02 - 0:04] otie
+[0:03] rams)protie
+[0:03 - 0:04] y 480 kcalsy
+[0:04] O gram
+[0:04] S/pr

@@ -1,0 +1,77 @@
+# model: ggml-large-v3
+========================================================================
+[208] https://www.instagram.com/reel/DYprI1ZzF2e/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] 3, 2, 1, go.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] kee
+[0:00 - 0:02] / forevious workout
+[0:00 - 0:03] Last Rep on my
+[0:01] ण्णण्जो
+[0:02] ््अअअअ
+[0:02] ila’
+[0:02] y क्र
+[0:02] | ॥ बू 4
+[0:02] 222.
+[0:03] ‘i workout
+[0:03] =i. Nt
+[0:03] ee - हे
+[0:03] PWN
+[0:04] bsolute gri
+[0:04] nder &
+[0:05] A, wy
+[0:05] wok
+[0:05] न जन
+[0:05] सास
+[0:05] जि =~ 2
+[0:05 - 0:08] ~ Abiolute grind हक. &
+[0:06] AA क्र
+[0:06] _ Absolute grinder, ०५ |
+[0:06] ens
+[0:06] ७७५2
+[0:06] Waa
+[0:07] A LU
+[0:07] नि 0 |
+[0:08] me ४7००९: N
+[0:08] ame
+[0:08] हैः
+[0:09] reps
+[0:09] Ao AY .
+[0:09 - 0:11] —— Last rep on the
+[0:09 - 0:11] rkout afterwards, \//
+[0:09 - 0:11] same weight, same
+[0:10] Lit
+[0:10] Dien,
+[0:11] —— Las
+[0:11] wie
+[0:11] आया >>
+[0:11] _L/ hs
+[0:11] सना
+[0:11 - 0:12] al al
+[0:12] ve overload
+[0:12] rogressi
+[0:12] i an
+[0:12] aN रजत
+[0:12] eet
+[0:12 - 0:14] फाड़ is technically not | ys 4
+[0:13] 00 << 9
+[0:13] Aid
+[0:13 - 0:14] rogressive overload Je
+[0:13 - 0:14] But a good way,
+[0:13 - 0:15] —SThiss is technically not | yn ६
+[0:13 - 0:15] check if you are
+[0:13 - 0:15] going in the right
+[0:13 - 0:15] direction session to
+[0:13 - 0:15] session with your:
+[0:13 - 0:15] —— training {
+[0:14] directi
+[0:14] on sessionto. 9»
+[0:15] aay
+[0:15] rogressiv
+[0:15] e overload
+[0:15] ' But algood ny a

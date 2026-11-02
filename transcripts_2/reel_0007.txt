@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[7] https://www.instagram.com/reel/DfH7sOvzv3J/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:24] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] Pan Buff
+[0:02] 4 Yi
+[0:04] ‘al Nts
+[0:05] al 9660.
+[0:06] al 360
+[0:06] le ऑ।
+[0:08 - 0:09] jin
+[0:12] jin a |
+[0:15 - 0:16] jes |
+[0:18 - 0:20] lin
+[0:20] हैँ
+[0:21] jin
+[0:22] ibs
+[0:22] if ES
+[0:23] N Ul wee
+[0:24] ‘al Es

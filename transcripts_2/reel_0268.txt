@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[268] https://www.instagram.com/reel/DVnRbJADoXQ/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:22] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iiyou sarang
+[0:01] lif}youl
+[0:01] our
+[0:02] you
+[0:05 - 0:06] oe; ‘Start)Tracking) ™
+[0:05 - 0:06] Workouts; है
+[0:09] Kitaskfat first, but
+[0:09] downloadjatracking
+[0:09] feud
+[0:10] cae
+[0:10] fat) ae but)
+[0:10] Cry
+[0:10] id altracking)
+[0:10] = reallyfeasy’
+[0:12 - 0:15] Wracking)willitell|
+[0:13] whate:
+[0:13] loing)
+[0:13] ral
+[0:14] doinglis; a7 Or
+[0:14] dag
+[0:14] gue)
+[0:14 - 0:15] iwnatever\you!
+[0:14 - 0:15] not
+[0:15] \doingjis) 7 CL
+[0:16] yAlsoleventually
+[0:17] fsavesitime)
+[0:17] ont;
+[0:17] ree
+[0:18] lsavesitimelas}y.oul
+[0:18] thave
+[0:18] ues:
+[0:18 - 0:19] whatiweightiyou;
+[0:19] vAlsojeventually,
+[0:19] “4 ‘time as; a"
+[0:19] “dontjhave to
+[0:19] have to do)
+[0:21 - 0:22] Track:

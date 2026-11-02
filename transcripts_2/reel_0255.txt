@@ -1,0 +1,71 @@
+# model: ggml-large-v3
+========================================================================
+[255] https://www.instagram.com/reel/DWSzZjVkSlf/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:25] We'll see you next week.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] श्र
+[0:01] ing:
+[0:02] १९ Ob:
+[0:02] x AN
+[0:02] her |
+[0:03] sae
+[0:03] ly Ui
+[0:03] ier
+[0:03] i Daa, |
+[0:03 - 0:04] ffect scale weight
+[0:03 - 0:06] wall
+[0:04] Many a
+[0:04] Cortisol! -
+[0:04] प्र
+[0:04] हक तक
+[0:05] ight
+[0:05 - 0:06] tore:
+[0:06] हु ea औ Pa
+[0:07] p of
+[0:07] ihe? |
+[0:08] Especially if. 4 rea
+[0:08] menstrualcycle.can
+[0:08] woman your
+[0:08] also cause
+[0:08] ictuations‘on top of
+[0:08] ‘this.
+[0:08] कु “A
+[0:09] 15० cal
+[0:09] her |
+[0:09] Ria |
+[0:10] will lose
+[0:10 - 0:11] If you are i के
+[0:11] al ३.
+[0:11] a We
+[0:13] me उ
+[0:13 - 0:16] Ay Your daily weight
+[0:13 - 0:16] ‘Somethingjlike this
+[0:14] ine
+[0:14 - 0:15] Progress
+[0:14 - 0:16] would look
+[0:14 - 0:16] Weight vs Fat Loss
+[0:15] cant
+[0:17] ee is higher than
+[0:17] panected a few
+[0:17] SNz
+[0:17] a जाकर
+[0:17 - 0:21] variables if your
+[0:18] aie ishigher ff
+[0:18] 1 ae afew
+[0:19] न he ishighe |
+[0:21] oe is higher thas
+[0:21] lexpecte
+[0:21] Bee
+[0:22] deficiet yo
+[0:22] weight
+[0:22] ale
+[0:23] 1/ rs
+[0:24] as | lad
+[0:25] bie? |
+[0:25] = कि अरे

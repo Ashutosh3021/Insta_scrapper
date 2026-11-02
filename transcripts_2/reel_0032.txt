@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[32] https://www.instagram.com/reel/DeqqFfNTYJK/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] one.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Sod Perfect
+[0:00 - 0:01] Weighted Pull Ups)
+[0:00 - 0:01] for the Iats:
+[0:01] > लिख
+[0:01] R« Perfe
+[0:03] aati are a
+[0:03] ingjROM|where)
+[0:03] ach rep oz
+[0:03 - 0:05] deadstopping}
+[0:04] हां are strongest
+[0:04] १ rep =
+[0:04] vil
+[0:04 - 0:05] ‘eeping ROM न
+[0:05] lats, are stronges'
+[0:05] ifs rep
+[0:05] nae |
+[0:05] ave
+[0:05] 2 SN
+[0:06] go Ineg
+[0:06] tai
+[0:06] reduce elbow o
+[0:06] पं || an
+[0:06] wt ling!
+[0:06 - 0:08] ‘elbow flexion|to)
+[0:06 - 0:08] contribution >
+[0:07] pect
+[0:07] Almost aa le
+[0:07 - 0:08] lreducelelbow flexor,
+[0:08] Almost negligible
+[0:08] 7 «ie
+[0:08] mid
+[0:09 - 0:10] oT. to stay/in the
+[0:09 - 0:11] frontal plane as much)
+[0:09 - 0:11] asican
+[0:10] ‘rontal/plane
+[0:10] 5 i can!
+[0:10] 458:
+[0:11] 0 Bas
+[0:11] us to stay
+[0:12] \@s for more)
+[0:12] bil |
+[0:13] Follow for more’

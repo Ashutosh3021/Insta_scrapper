@@ -1,0 +1,144 @@
+# model: ggml-large-v3
+========================================================================
+[204] https://www.instagram.com/reel/DYxkxanzooM/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] We'll be right back.
+[0:30 - 0:31] We'll be right back.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] प्र & |
+[0:00] | जाओ
+[0:00] aoe
+[0:00 - 0:03] What is a calorie?|s- 4
+[0:01] had
+[0:02] ag \y
+[0:02] Calorie is ai
+[0:02] 16५
+[0:02 - 0:06] measurement, ey
+[0:02 - 0:06] energy
+[0:03] Calo
+[0:03] a I) (of
+[0:03] meas a foro
+[0:04] unit
+[0:04] Scient
+[0:04] 3 its oe
+[0:04] gamount of energ
+[0:04] required डक heat,
+[0:04] Pepe
+[0:04] ६5५
+[0:04 - 0:05] Whatjisja\calo.
+[0:04 - 0:05] Calorie, i
+[0:04 - 0:05] igramyof.water,by1)C)
+[0:05] Lal
+[0:05] fajunit,
+[0:05] poy “4
+[0:05] int of energ|
+[0:05] to heat,—
+[0:05 - 0:06] Scientifically its +
+[0:06] r isja ad |
+[0:06] Calorie is a unit
+[0:06] amour fof
+[0:06] eat, 1.
+[0:06] requi
+[0:06] ram{of water/bys1,
+[0:08] é Pprocce:
+[0:08] your ‘i ly/req
+[0:08 - 0:10] certain{calories
+[0:09] Your'di
+[0:09] Ibody/requi
+[0:09] jivejtract
+[0:09 - 0:10] Every/proccess in
+[0:09 - 0:11] basically absorbs the _
+[0:09 - 0:11] energy from the food) छ
+[0:09 - 0:11] you consume ———.
+[0:10] nr ody.
+[0:10] requires”
+[0:10 - 0:11] Your digestivejtract -
+[0:11] . proccess in
+[0:11] your/body/requires,
+[0:11] certain’calt
+[0:11] le) J
+[0:11] aoe
+[0:12] é fat ii
+[0:12] 1४- 7
+[0:12 - 0:13] for future use
+[0:12 - 0:14] is essentiallysto red)
+[0:13] tig, gpa
+[0:13 - 0:14] Thelfatin}your bo:
+[0:14] energy ib iu:
+[0:15] hag
+[0:15] ro लि
+[0:16] Tray
+[0:16] नाक
+[0:16] fen
+[0:16] ESLER
+[0:16] 1 WP
+[0:16] a जा
+[0:16 - 0:18] > Overtime when we Ps
+[0:16 - 0:18] consume extra)
+[0:16 - 0:18] calories out bodies .\
+[0:16 - 0:18] store, thatfey
+[0:17] store ‘l
+[0:17] energyjas fat)
+[0:17] sia
+[0:18] FA asifat)
+[0:18] li hi
+[0:18] Np ye
+[0:19] vray
+[0:19] a fi Body weineed, ६2%
+[0:19] “burn ८;
+[0:19] lories
+[0:19 - 0:21] SSJy remove that
+[0:19 - 0:21] energy from our,
+[0:20] Body weineedito”
+[0:20] urn extrafeal cali
+[0:20] Ei} rwere consume)
+[0:20] wal
+[0:21] aay
+[0:21] body we
+[0:21] ineed.to—
+[0:21] burniextraca ia
+[0:21] than डॉ
+[0:21] consume,
+[0:23] F onl;
+[0:23] fatis\viajalca
+[0:24] § The onl} tojlose
+[0:24] fatiisjviajacaloric
+[0:24] deficit
+[0:26] दिल रथ
+[0:26] pal
+[0:26] lwayjto)
+[0:26] fy क्र
+[0:26] calories you|consume
+[0:26 - 0:28] Hof, the
+[0:27] é only “Reliabl
+[0:27] way to 1०515
+[0:27] being mindful]
+[0:27] caloriesjyoulc <p
+[0:28] : onlyRe!
+[0:28] way,
+[0:28] lose}fatiis b
+[0:28] bein
+[0:28] calori
+[0:28] s*you ~p
+[0:28] Spee
+[0:29] Andj|to}]Makejeffo!
+[0:29] 111!
+[0:29] Sige
+[0:29 - 0:30] injinc
+[0:29 - 0:30] lyour.
+[0:29 - 0:30] (expenditure(burning
+[0:29 - 0:30] more calories)
+[0:30] yMakelefforts
+[0:30] 511,
+[0:30] EEE
+[0:30] कट न
+[0:31] € it aioe
+[0:31] fforts
+[0:31] in increasingjyour.
+[0:31] expendit
+[0:31] ix calories)

@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[40] https://www.instagram.com/reel/DeitPE2zbxX/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iTherejisino!
+[0:00] advantage
+[0:00] © vontang
+[0:00] lA 44
+[0:00] कक: 0.0
+[0:00] ">> च्चकी
+[0:00 - 0:04] ithisfover &#&
+[0:01] dvantage of{doing
+[0:01 - 0:04] There is no
+[0:02] ee is no
+[0:02] y% of का
+[0:02] sat
+[0:02] eta Aa
+[0:02] 73०७.
+[0:03] ‘>. of doing
+[0:03] pe over
+[0:03 - 0:04] | tl Atnest Supported
+[0:03 - 0:04] row
+[0:04] कैप
+[0:04] advantage'of doing
+[0:04] क्र
+[0:04] वचन
+[0:04] See
+[0:05] SS एए
+[0:05 - 0:07] But i\wanna train my
+[0:05 - 0:07] erectors too”
+[0:06] | Kwanna train ee
+[0:06] | i sil
+[0:06] कह 3७.
+[0:07] हैः
+[0:07] lig
+[0:07] th 1
+[0:07] His.
+[0:07] wees.
+[0:08] hinge
+[0:08] SE oe,
+[0:08] Say
+[0:08 - 0:10] “2'Thanjadd two plates
+[0:09 - 0:10] प्र and hinge
+[0:10] Css
+[0:10] in i
+[0:10] fas
+[0:10] हैः
+[0:12 - 0:15] barbell row doesn ५ ४
+[0:12 - 0:15] " do much for your
+[0:12 - 0:15] erectors
+[0:13] vam
+[0:13 - 0:14] * Chest Supported row,
+[0:13 - 0:15] + hinges >>>
+[0:15] e Chest Supported/row,
+[0:15] eee
+[0:16] <i 2४
+[0:17] Gad

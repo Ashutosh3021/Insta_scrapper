@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[233] https://www.instagram.com/reel/DXTXzoDETbM/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] I'd like to hear it from you.
+[0:01 - 0:08] Tell me, what is a true warrior?
+[0:08 - 0:15] One who's a great warrior doesn't need a sword.
+[0:15 - 0:19] Listen to me, my son.
+[0:19 - 0:22] You don't have enemies.
+[0:22 - 0:26] The truth is that nobody has them.
+[0:26 - 0:29] Nobody in this entire world.
+[0:30 - 0:32] Deserves to get hurt.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] ail
+[0:03] | आल कै
+[0:09] _ oll
+[0:09] 3 थे
+[0:14] Ane
+[0:14] a\ at
+[0:15] calla
+[0:15] 533
+[0:15 - 0:18] a\ a5
+[0:16] Kea e
+[0:17 - 0:19] बेड
+[0:18] fie
+[0:19] wee
+[0:19] bs Sm
+[0:19] 2\ 25
+[0:21] fhe
+[0:21] PS 4
+[0:21 - 0:23] See 4,
+[0:22] Sie Y
+[0:22] है = 1
+[0:23] eal ch
+[0:23] a \ सम
+[0:24] fee
+[0:24] है 2
+[0:26] Cae
+[0:27] ae | my
+[0:27] by Soon
+[0:27 - 0:28] at Ss
+[0:28] बे 2
+[0:29] eat
+[0:29] a अर
+[0:30] टिक
+[0:31] vee
+[0:31] BL Aw

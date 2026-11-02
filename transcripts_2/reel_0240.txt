@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[240] https://www.instagram.com/reel/DXB7PnykaSH/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:17] We'll be right back.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] 1९17
+[0:05] atts
+[0:05] oll
+[0:06] i ee, 4
+[0:06] ie | i |
+[0:07] growmy
+[0:07] Lae
+[0:07] 2) oe
+[0:08] A. for
+[0:10] Beso
+[0:11] 1 | Ga
+[0:12] TE २०
+[0:13] oll
+[0:16] | stad हैं!
+[0:16 - 0:17] pul products
+[0:16 - 0:17] messi
+[0:16 - 0:17] ASS
+[0:17] 1 (4॥4॥ कर

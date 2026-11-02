@@ -1,0 +1,90 @@
+# model: ggml-large-v3
+========================================================================
+[271] https://www.instagram.com/reel/DVfjUMsEZhz/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] We'll be right back.
+[0:30 - 0:31] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] iknow how,
+[0:01] roper!
+[0:01 - 0:03] Iprogress'p
+[0:02] know howjtoy
+[0:02] perly@
+[0:03] kno!
+[0:03] per!
+[0:03] ‘Prog
+[0:03] ressionay
+[0:03 - 0:04] / “Use the[double
+[0:04] progress proper!
+[0:04 - 0:08] progression|model
+[0:05] है, आला
+[0:06] = है, का
+[0:06 - 0:08] A ithe doub
+[0:07] iLetsisay,
+[0:07] हैः
+[0:08] etsisay; हब choose
+[0:09] e.doubl.
+[0:09] ogressio
+[0:09] say; १ choose
+[0:09] ace scheme)
+[0:09] ind) vou) used a
+[0:09] weight\n ion which
+[0:09 - 0:10] inmodel
+[0:10] say) both choose)
+[0:10] fers scheme)
+[0:10 - 0:12] 7... the doubl.
+[0:10 - 0:13] गाव
+[0:10 - 0:13] a) used a
+[0:10 - 0:13] ate
+[0:10 - 0:13] hay which)
+[0:10 - 0:13] “weigh
+[0:10 - 0:13] you caniget'S:
+[0:10 - 0:13] reps.
+[0:11] ते scheme)
+[0:11] Huot which
+[0:11 - 0:13] y... ‘the double)
+[0:11 - 0:13] progression model?
+[0:11 - 0:13] Letsisayjyo!
+[0:11 - 0:13] 4. choose)
+[0:12] Bisaieeionmodel ।
+[0:12] Sis scheme)
+[0:13] ithe 5९
+[0:13] dee scheme)
+[0:14] poe
+[0:15] Now as
+[0:16 - 0:18] Now asjyou| q out!
+[0:16 - 0:18] over the'sessions you,
+[0:16 - 0:18] will progressively:
+[0:17] 0४ “अं
+[0:17 - 0:18] t stronger.
+[0:19] Soe)
+[0:20] INow, एप can
+[0:20] 20010,
+[0:21] increase) हि
+[0:21 - 0:23] INow, Wwhen}you cant
+[0:21 - 0:23] (do}1/O)reps with the
+[0:21 - 0:23] lloadjyou} ifehose
+[0:22] iNow, wihen}you =]
+[0:22] ॥812४०प/८80 do 5|
+[0:22] eps
+[0:22 - 0:23] increase) ties load to)
+[0:23] where‘youtcan ०० 5|
+[0:23] Ps again ,
+[0:25] Neo
+[0:25] 10)\reps
+[0:25 - 0:27] Now get this load to
+[0:26] and/repeat”
+[0:27] = पिच
+[0:27] ain ere
+[0:28] Neg
+[0:28] Now
+[0:28] this load tc
+[0:28] and
+[0:29] Neo
+[0:30] Have; famgre
+[0:31] Have: fan FFs jing }

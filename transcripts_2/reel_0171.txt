@@ -1,0 +1,66 @@
+# model: ggml-large-v3
+========================================================================
+[171] https://www.instagram.com/reel/DZ271GqTzHO/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:18] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aa aut Push
+[0:00] कं टिक,
+[0:01] re aut Push
+[0:02] Simple ouick Push
+[0:02] @ Day
+[0:02] “il a,
+[0:02] cee tae
+[0:03] कै if
+[0:03] Smith Machine B
+[0:03] ts 6-8 rep:
+[0:03] क्र
+[0:03] stl
+[0:03 - 0:10] |», Press
+[0:04] किक.
+[0:04 - 0:05] etl
+[0:05] mith M.
+[0:05] ts re
+[0:06] Smith ! है 8,
+[0:06] ts 6-8 rep:
+[0:07] sete
+[0:07] Shoulde oA
+[0:07] h sets,
+[0:07] Pes
+[0:07 - 0:08] /Neut
+[0:08] ral Grip, a
+[0:08] Mie
+[0:08] oa a
+[0:08 - 0:10] 4 2 sets
+[0:09] NeutrallGrip)
+[0:09] Shoulder/Pres: 4
+[0:09] /2 sets 6-8 re
+[0:09] KS ae
+[0:09 - 0:10] wan
+[0:10] & a जाला
+[0:12] Sr eG
+[0:12] (315४5 6:
+[0:12] eps
+[0:12 - 0:14] SingleyArm Tricep
+[0:13] Reps za
+[0:14] | gets) 5 Reps al
+[0:15] कै. ma
+[0:15] २११६०
+[0:15] ‘sets 6-8)
+[0:15 - 0:16] all
+[0:16] Cable}
+[0:16] ets 6-8)Rep:
+[0:16] est
+[0:16] sgh Ys
+[0:17] ——— ee आगामी
+[0:17] ‘Cable: ze ॥ LF
+[0:17] 1256८ 6-8)R
+[0:18] a ॥॥ है Lateral/Raise}
+[0:18] 12 sets G76) Re
+[0:18] खिल
+[0:18] ocd

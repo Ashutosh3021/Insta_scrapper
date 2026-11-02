@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[191] https://www.instagram.com/reel/DZPLI2yRiMc/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: de
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Oh mein Gott
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] W/ True Functional
+[0:00 - 0:04] Training
+[0:01] ieee
+[0:02] True Eunction i
+[0:03] Big
+[0:03] | 2) ea a
+[0:03] Trait
+[0:05] BEN,
+[0:05] = ional
+[0:06] Sone
+[0:06] digi
+[0:07] Ai ern
+[0:07] \\ "aes es

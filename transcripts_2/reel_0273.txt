@@ -1,0 +1,97 @@
+# model: ggml-large-v3
+========================================================================
+[273] https://www.instagram.com/reel/DVboH9AkypT/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ‘Stop\training,
+[0:00] >> काका
+[0:01] 1 छः
+[0:01] atl
+[0:01 - 0:02] liscomfort
+[0:01 - 0:03] 'Stop\training to,mild;
+[0:02] tamil
+[0:02] भैः
+[0:02] sore
+[0:03] iscomfoi
+[0:03] हि. a
+[0:04] Most
+[0:04] > अनारमकाता
+[0:04 - 0:06] a tl
+[0:05] cay
+[0:05] ri ade
+[0:05] afl,
+[0:06] ‘rainihard %
+[0:06] हैः “lp
+[0:06] Bie
+[0:06] बट: सं उाायकानन
+[0:06] wef
+[0:07] है “1p |
+[0:07] न हर
+[0:08] न्न्श्र्टः
+[0:08 - 0:11] हैः
+[0:09] "Are:
+[0:09] 11 है
+[0:09] rn oe
+[0:10] VATE)
+[0:10] reps, y
+[0:11] ८17 QUI/FePS
+[0:11] ‘Ist;
+[0:11] wax
+[0:11] वन्य 2सरप्याहााका
+[0:11] ore
+[0:11 - 0:12] >i speed
+[0:11 - 0:12] |to'last?.
+[0:12] a | उसपर
+[0:13] = >> स्नान
+[0:13] eee
+[0:14] = | ससयत
+[0:14] pao set
+[0:15] नाता
+[0:15 - 0:18] ‘d/ when
+[0:15 - 0:19] a] Iffthey arejyou arent,
+[0:15 - 0:19] ! | training har
+[0:16] Bl dive
+[0:16 - 0:18] ig'close Sto!
+[0:16 - 0:19] tral
+[0:16 - 0:19] ps.“have“to
+[0:17] training'close
+[0:17 - 0:18] हैः “Ap
+[0:17 - 0:19] slow‘down
+[0:18] 110
+[0:18] Iifthey arejyou
+[0:18] ser
+[0:18 - 0:19] failur
+[0:19] है, "9
+[0:19] 111»
+[0:19] hard; when
+[0:19] ing'clos
+[0:20] Stop
+[0:20] मैं
+[0:20] atl
+[0:21] lwhen you
+[0:21] wai<
+[0:21] eae
+[0:21 - 0:25] ‘stop just going) y
+[0:21 - 0:25] through the motions;
+[0:22] yhen y
+[0:22] ou lift Ee
+[0:22 - 0:24] कह weight ©
+[0:23 - 0:24] hen you lift; en
+[0:24] rap
+[0:24] pe ae
+[0:25] [when you
+[0:25] tw @ «weight
+[0:26] Last re frou
+[0:26] lf, lJ
+[0:27] है Lastirep should lo
+[0:27] one
+[0:27 - 0:28] like the one before)
+[0:28] है (587९. should lo
+[0:28] wie
+[0:28] this । #

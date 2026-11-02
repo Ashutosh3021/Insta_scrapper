@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[167] https://www.instagram.com/reel/DZ-LxemzfcU/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] मजाक जि
+[0:00] Eorm =
+[0:00 - 0:04] llTian Robot se form ="
+[0:00 - 0:04] vsahinhi hoti#® | Ni
+[0:01] olla
+[0:02] For
+[0:02] Vs 5
+[0:02] निभा
+[0:02] nie
+[0:03] मी या, . — 7
+[0:03] कै sahi nhi hoti है ३ \
+[0:03] UUs 1
+[0:03] रण आर
+[0:03] 101
+[0:03] 111६
+[0:03] lat
+[0:04] | | Forms
+[0:05] ars
+[0:05] oa el
+[0:05] Sure a
+[0:05] ae va
+[0:06] 422
+[0:06] “ail
+[0:06] This हक
+[0:06] | घर ६
+[0:07] Pay
+[0:07] This is how
+[0:07] you do C
+[0:08] This is'how,you di
+[0:09] ing
+[0:09] youa
+[0:09 - 0:10] 2 Idek,wh |
+[0:10] are
+[0:10] fSs
+[0:11] diy
+[0:11] 2f Idek,whatlyou ४
+[0:11] सजा:
+[0:11] i if
+[0:12] kev

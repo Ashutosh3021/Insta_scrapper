@@ -1,0 +1,150 @@
+# model: ggml-large-v3
+========================================================================
+[267] https://www.instagram.com/reel/DVshX8TkYRC/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: zh
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I want you so I'll never let you go
+[0:03 - 0:06] And I want you want you want you want for me
+[0:06 - 0:09] I want you so I'll never let you go
+[0:09 - 0:12] I'm ready to leave my world for you
+[0:12 - 0:16] I want you so I'll never let you go
+[0:16 - 0:19] And I want you want you want you want for me
+[0:19 - 0:22] I want you so I'll never let you go
+[0:22 - 0:25] I'm ready to leave my world for you
+[0:25 - 0:27] Bye Bye Bye You!
+[0:55 - 0:59] by bwd6
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] xtensiol
+[0:01] Nii
+[0:01 - 0:02] ripping)
+[0:02] lextensions)
+[0:03 - 0:04] ‘Your Quadrieepelhaa
+[0:03 - 0:04] > Vastii(singlejoint))
+[0:03 - 0:04] Wemoris(doublejjcint)
+[0:05] 130 9/7072८015|
+[0:06] Your Quadricepsihas}
+[0:06] fandhijRectus}
+[0:06] Keseq
+[0:07] कह 61-76 (1 रीगउ
+[0:09] eae
+[0:09] 85968
+[0:09] +. 31॥0621/£20275214+1/1॥2]
+[0:09] 11197 8०।
+[0:09] lexon(Brii
+[0:09] Byer
+[0:09 - 0:17] tarso).
+[0:10] carer
+[0:10] thigh)
+[0:10] our
+[0:10 - 0:12] D alkneejExtensor Hip)
+[0:10 - 0:14] vow tia lactiasiknee}
+[0:10 - 0:14] (3८15 95
+[0:10 - 0:14] lexoi
+[0:10 - 0:14] (Brin
+[0:11 - 0:14] towardsyyourg
+[0:13 - 0:14] 1. 31165/6//270521+1/1॥2]|
+[0:13 - 0:17] Nyour
+[0:14] { r AJ
+[0:14] lyourg
+[0:15 - 0:16] 32८035॥0 86]
+[0:15 - 0:17] ‘tenso.
+[0:15 - 0:17] lhten)
+[0:15 - 0:17] fem:
+[0:15 - 0:17] lactsjas)
+[0:15 - 0:17] L) ajkneesExtensor: Hip)
+[0:15 - 0:17] iflexor(Brim
+[0:15 - 0:17] thigh)
+[0:15 - 0:17] towal
+[0:15 - 0:17] indsjyourg
+[0:17] lactias/knee}
+[0:18] जि १!
+[0:18 - 0:19] lInja}\Squatlyoujhave}
+[0:18 - 0:19] lextendjyourknee)
+[0:18 - 0:19] ‘Simultaneously,to)
+[0:18 - 0:19] ag (extendjyourhip)
+[0:18 - 0:19] stand|up:
+[0:20 - 0:21] linjaSquatjyoul
+[0:20 - 0:21] andlextend)y.oumhip}
+[0:22 - 0:23] to) iknee)
+[0:22 - 0:23] / and] ewan,
+[0:25] ers खावरी
+[0:25] GIP
+[0:25] urn लो जद
+[0:25] क्र
+[0:25 - 0:30] FLEXION] butjinja}
+[0:26] um Spat
+[0:26 - 0:28] The Recta emery
+[0:26 - 0:30] (pertormsjHIP)
+[0:27] TON|butjinja)
+[0:27] p) EXTEND) Seite
+[0:28] GIP
+[0:28] orm pet
+[0:28] i अर
+[0:29] irre
+[0:29] [Rectus/Femoris)
+[0:29] 1० ieee
+[0:29] 8 हि
+[0:30] The Rete
+[0:30] 3 ० nies
+[0:30] exon
+[0:31] SSS
+[0:31] Stn
+[0:32] i— राम
+[0:32] See ५ SS
+[0:33] ts A
+[0:33 - 0:38] (cannot /pull/and/push;
+[0:33 - 0:38] latja|deorsationce, we;
+[0:33 - 0:38] and)
+[0:33 - 0:38] flexiour hip at the
+[0:33 - 0:38] isame time.
+[0:34 - 0:38] ujseelike|we
+[0:35] bal
+[0:37] डर "ee
+[0:37] हवा
+[0:39] न है
+[0:39] डिक क
+[0:39] Ld 4
+[0:40] है| a
+[0:40 - 0:44] This|means durin:
+[0:40 - 0:44] [presses
+[0:40 - 0:44] ifemjis;|NOT/active and:
+[0:40 - 0:44] lisjnotitrained.
+[0:41] lisjnot|
+[0:43] | Woe
+[0:45] ids
+[0:45] —T की
+[0:45] NS SS
+[0:45] ESS
+[0:45 - 0:46] — 8 जम
+[0:46 - 0:48] knee(LEG
+[0:46 - 0:48] EXTENSION).
+[0:46 - 0:49] \we/have'lto:
+[0:46 - 0:50] fo train)the)recifem)
+[0:46 - 0:50] and)just/extend the)
+[0:47] (1८11
+[0:47] ४४६९७३४६६०|
+[0:49] el of
+[0:50] Ys A
+[0:50] ids
+[0:50] (we) have to fixithe hip,
+[0:51] Yas SS
+[0:52] y Ms
+[0:52 - 0:54] |head/of| your quad)
+[0:52 - 0:55] ‘Skipping the|leg)
+[0:52 - 0:55] inot/being trained at)
+[0:52 - 0:59] (extensions:
+[0:55] loflyour/quad.
+[0:56] SSS
+[0:56] LSS
+[0:56] ESS
+[0:57] syou)havelto)
+[0:57 - 0:59] To trainithe,
+[0:57 - 0:59] ‘full
+[0:58 - 0:59] pil
+[0:58 - 0:59] perform
+[0:59] fg A
+[0:59] oN ले

@@ -1,0 +1,213 @@
+# model: ggml-large-v3
+========================================================================
+[149] https://www.instagram.com/reel/DaqS-UzzE15/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I don't know why they hate on me
+[0:04 - 0:07] They can smell the legacy
+[0:07 - 0:10] I'm finding the supremacy
+[0:10 - 0:14] Got bitches tryna come for me
+[0:14 - 0:17] I'm on me now, thumbs gon' make them grow
+[0:17 - 0:20] Them moves in my cortex, I don't wanna brush
+[0:20 - 0:24] So just dance on me, right, right, right
+[0:24 - 0:27] Got thumbs on me, right, right, right
+[0:27 - 0:32] I don't know why they hate on me
+[0:32 - 0:34] They can smell the legacy
+[0:34 - 0:37] I'm finding the supremacy
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] iWhy(dojsi
+[0:00 - 0:02] eccentrics not cause
+[0:00 - 0:02] hy pertrophy thi je. Way-
+[0:00 - 0:02] ‘youlthink they'do?
+[0:01] itr
+[0:01] किम cause
+[0:01] ihyp.
+[0:01] u|think they ४०?
+[0:01] rophy the way.
+[0:01] hia
+[0:02] श्र
+[0:02] Say
+[0:03] yy < stretch
+[0:03] re iments,
+[0:03] fad
+[0:03] Aaa
+[0:03 - 0:04] ) the muscle)
+[0:03 - 0:07] your,
+[0:03 - 0:07] muscles(eccentric, “जे
+[0:04] = you Bea Ng
+[0:04] filament:
+[0:04] Baa
+[0:05] ra < stretch
+[0:05] imuscles(ecce
+[0:05] filaments(titin)
+[0:05] The)st हे oftisi
+[0:05 - 0:06] “generates pa:
+[0:05 - 0:06] }échanical tension
+[0:05 - 0:07] Phase) the:
+[0:06] ii < stretch
+[0:06] LEE)
+[0:06] = Ee Tu
+[0:06] ४६0)
+[0:06] The) st stretc 4 हा
+[0:07] 2, कै
+[0:07] = you ०]
+[0:07] cig’
+[0:07] filam
+[0:07] e)stretcl if
+[0:07] gene:
+[0:07] méchanical te!
+[0:07] ane
+[0:09] 520] ~< Active
+[0:09] isin
+[0:09] 4 if
+[0:09] ON hs
+[0:09] a रे
+[0:09 - 0:10] ical—
+[0:09 - 0:11] Tension(whicl
+[0:09 - 0:11] Nithelconcentric) +,
+[0:09 - 0:11] (Mechanical,
+[0:10] ‘Sojyou| have Active
+[0:10] (Mecha
+[0:10] | क्र
+[0:10 - 0:11] a assivelmech:
+[0:11] 15017007#2४०९ Active
+[0:11] ya le
+[0:11] Bias
+[0:12] ie a/spri
+[0:12] ind it
+[0:12] a length
+[0:12] 4 रे
+[0:12] Roa
+[0:12 - 0:14] IBasically,
+[0:12 - 0:16] Gwanesit ito return to its
+[0:13] justlike you
+[0:13] a’spring‘an
+[0:13] dit
+[0:13] Boa
+[0:13 - 0:14] original length,
+[0:14] < like.
+[0:14] + % lapplies a‘fo!
+[0:14 - 0:16] Fstretchla’spring and it.
+[0:15] fee
+[0:15] ike,you =
+[0:15] psy
+[0:15] 10० ४।
+[0:15] lies 97०7६
+[0:15] लीन
+[0:15 - 0:16] igth
+[0:16] eek 11०:
+[0:16] Cit
+[0:16] lies a'forc
+[0:17] iSincelyou)
+[0:17] << bot
+[0:17] theselforces(a
+[0:17] sive),
+[0:17] brain.which
+[0:17] we = RS <
+[0:17] Bios
+[0:18] ibrain.w!
+[0:18] 4 if
+[0:18 - 0:19] es(active
+[0:18 - 0:20] itches, |
+[0:18 - 0:21] and| passive), your...
+[0:18 - 0:22] (Since youlhave both
+[0:19] in.whicl
+[0:19] his
+[0:20] 2, का
+[0:20] (Since)
+[0:20] < e both
+[0:20] i! is
+[0:20] jup the motor/un
+[0:20] pool(the [_ jest
+[0:20 - 0:21] efficient \
+[0:20 - 0:22] of these forces(active & Wh
+[0:20 - 0:22] brain.whichis
+[0:20 - 0:22] motor units
+[0:20 - 0:22] fibres)
+[0:21] lofitheselforces(a
+[0:21] i whici
+[0:21] jotor uni
+[0:21] nit,
+[0:21 - 0:22] » Switches |
+[0:21 - 0:22] jup the mi
+[0:21 - 0:22] pool(the b
+[0:22] and]
+[0:22] )zyour
+[0:22] ighe
+[0:22] हैए
+[0:22] - गाए
+[0:23] ३ meen, Motor[unitsiare active>
+[0:23] vis
+[0:23] बंप
+[0:23] है रे
+[0:23] dog!
+[0:23 - 0:24] eccentri
+[0:23 - 0:24] २००० phase
+[0:23 - 0:25] fof the
+[0:24] ja 20०7 कल
+[0:24 - 0:25] sjare active>
+[0:25] (0 foi eccentric,
+[0:25] ==> phase
+[0:25] a _motoriun
+[0:25] Nl si
+[0:26] Bs cel
+[0:26] units arell wer. down
+[0:26] the poollthey are -<
+[0:26] ulate linjyourset)
+[0:26] ail
+[0:26] fifa)
+[0:26] pees Te
+[0:26 - 0:28] Sincejthese/motor
+[0:27] Sinc
+[0:27] jotor
+[0:27] uf masxed
+[0:27 - 0:28] —— units
+[0:27 - 0:28] ll wer. downs
+[0:27 - 0:28] the
+[0:27 - 0:28] they are
+[0:28] - i an
+[0:28] stim
+[0:28] unset)
+[0:28] कमाना कक
+[0:28] | may
+[0:29] Sii
+[0:29] [these/motor
+[0:29] = units arell wer down)
+[0:29] the poollthey are sa
+[0:29] stimulated)in}
+[0:29] set}
+[0:29] aie
+[0:29] lant
+[0:29] 55५
+[0:29] का कक
+[0:30] lisiw
+[0:30] ~~ eccentrics(
+[0:30] हक गज
+[0:30] ० बना a
+[0:30 - 0:32] traditional/set)'do not
+[0:30 - 0:33] = «contri much to =
+[0:30 - 0:33] trophy =
+[0:31] tlk
+[0:31] Fits
+[0:31] aid
+[0:31] का हे
+[0:31 - 0:32] tit
+[0:31 - 0:33] traditional/s
+[0:31 - 0:33] not
+[0:32] alk
+[0:32] contril
+[0:32] ypertrophy ७
+[0:32] much to
+[0:32] last
+[0:32] iw 7¢
+[0:33] a 22
+[0:33] fii
+[0:34] Foll
+[0:34] more>
+[0:34] sid
+[0:35 - 0:36] , =. Follow for more>
+[0:36] a a IK

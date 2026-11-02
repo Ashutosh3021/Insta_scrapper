@@ -1,0 +1,13 @@
+# model: ggml-large-v3
+========================================================================
+[6] https://www.instagram.com/reel/DfIJnvaTUqO/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] And it shall relish, man, in you here and now.
+[0:04 - 0:08] Is this my walkthrough?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:07] gel

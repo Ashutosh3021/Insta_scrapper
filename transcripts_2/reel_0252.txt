@@ -1,0 +1,79 @@
+# model: ggml-large-v3
+========================================================================
+[252] https://www.instagram.com/reel/DWdTY9hEYaA/
+STATUS: OK
+DURATION: 0:34   SPOKEN LANGUAGE: nn
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] Teksting av Nicolai Winther
+[0:30 - 0:34] Undertexter av Amara.org-gemenskapen
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] J | cha
+[0:00 - 0:02] कै; chasing the
+[0:02] pump
+[0:03 - 0:05] ‘an |literally get a
+[0:03 - 0:06] se pump is useless
+[0:03 - 0:06] for hypertrophy, you
+[0:03 - 0:06] jpump in your
+[0:03 - 0:06] rarmup sets.
+[0:06] lly 9०६ 9
+[0:06] Poy ae
+[0:07] Tes:
+[0:08] SSN
+[0:08] २७०
+[0:08 - 0:10] istress(peripheral
+[0:08 - 0:11] es is Only one
+[0:08 - 0:11] mechanism of
+[0:08 - 0:11] (hypertrophy which is
+[0:08 - 0:11] lechanical Tension,
+[0:08 - 0:11] metabolite
+[0:08 - 0:11] fatigue®)
+[0:09 - 0:11] eral
+[0:11] istress(|
+[0:13 - 0:14] ~ the pump is a
+[0:13 - 0:15] important to check if
+[0:13 - 0:15] you are
+[0:16] ऋत ls,
+[0:16 - 0:17] -Have Enough
+[0:16 - 0:17] (Sodium/Pottasium
+[0:16 - 0:17] -Suffecient
+[0:16 - 0:17] hydrates
+[0:16 - 0:19] a Hydrated wo
+[0:17] ings
+[0:17] 1% ae a
+[0:18] <Properly/Hydrated)
+[0:18] ३ ite
+[0:19] 1/ Bi
+[0:19] (carbohydrates)
+[0:20] 1४2०
+[0:20] (optimize|those)
+[0:20] cla
+[0:21] ene eo
+[0:21] foptimize\
+[0:21 - 0:22] a ifyeulconsistently,
+[0:22] ब्य््ा शत
+[0:22] ट्री Punic te
+[0:23] 1४०
+[0:23] fit
+[0:23] UAvariables:
+[0:25] Alsgitelpumpicen.
+[0:25] Seabee [wrong]
+[0:25] zine
+[0:26] pee lwrong]
+[0:26 - 0:28] " (sometimes!
+[0:28] (the)
+[0:28] lisiwrong
+[0:28] Tiga
+[0:29] pumpicen
+[0:29] [wrong]
+[0:29] ei aa
+[0:31] Gexce
+[0:31] Poe
+[0:31] veal
+[0:31] movements:
+[0:31] ne 1.
+[0:32] वर तीज Glee
+[0:33] बदल
+[0:33] \4 vn

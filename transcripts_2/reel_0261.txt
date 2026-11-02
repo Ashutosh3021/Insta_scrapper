@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[261] https://www.instagram.com/reel/DWBh9EbkRPK/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] oaceecCememenans
+[0:00] ——, BK 9(50 Ib —w
+[0:01] '9(50 Ibs
+[0:02] oaceecCemanenons
+[0:03] TT Bhig(50 Ibs
+[0:03] aan
+[0:04] ० Fee
+[0:04 - 0:07] '9(50 Ibs
+[0:05] Ais
+[0:05] doy
+[0:05] “SAN ays
+[0:06] TTY,
+[0:06] rt ct
+[0:06] a WD es
+[0:07] FF 4
+[0:07] pts iy
+[0:07] Paige
+[0:08] a g(50 1०5" -ण
+[0:08] pine gl
+[0:09] aaa 19(:
+[0:09] wa Seinen
+[0:09] esa
+[0:09] nO 99
+[0:10] ee Ibs,
+[0:10] C7 im
+[0:10] ea a
+[0:10 - 0:11] “SAN Kays
+[0:11] ee, Bkg(!
+[0:11] खा le
+[0:12] चुका
+[0:12] TT 10४ प्वाााायएबाक
+[0:12] a आर
+[0:12] है. sm
+[0:12] नबी की A
+[0:13] '9(50 Ibs,
+[0:13] Cay am
+[0:13] गाज

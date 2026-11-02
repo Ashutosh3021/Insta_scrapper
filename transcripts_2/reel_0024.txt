@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[24] https://www.instagram.com/reel/Dew4Ostzecs/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: de
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Andi Bar, 5 Bier und bitte was zum Sieg
+[0:03 - 0:03] Pro
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] sii
+[0:01] ose
+[0:01] lal
+[0:03] sig

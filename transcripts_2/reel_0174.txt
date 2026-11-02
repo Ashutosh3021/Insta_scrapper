@@ -1,0 +1,111 @@
+# model: ggml-large-v3
+========================================================================
+[174] https://www.instagram.com/reel/DZy_45Mxhyc/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] यू के गैद ये बाई
+[0:06 - 0:08] ले लूँ जने खने ने गोद
+[0:08 - 0:09] मैं मदर टरीसा थोड़ी हूँ
+[0:09 - 0:11] बदलब खातर ला लूँ यारी
+[0:11 - 0:13] भारे जीसा थोड़ी हूँ
+[0:13 - 0:15] जोहर किसे अच्छा रखूँ
+[0:15 - 0:19] मैं पीसा थोड़ी हूँ
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Pe aes ee aa
+[0:00] ak pat
+[0:00] श्र
+[0:00] छ्ठि
+[0:00] ६) nishantiftsss
+[0:00] (0 ast 0८-४0)
+[0:00] ” Body weight kon btayga ab @
+[0:00 - 0:02] 3 (Follow )
+[0:01] ey a
+[0:01] ack
+[0:01] ntliftsss Follow
+[0:01] क्र
+[0:01 - 0:04] ht kon btayga ab @
+[0:02] 0७% «रथ छत
+[0:02] a ll
+[0:02] i) रा
+[0:02] Lik
+[0:02] 1 id
+[0:02] btayga ab ©
+[0:02 - 0:04] Heavier stack + 2.5
+[0:03] ae है —_
+[0:03] nee
+[0:03] il. 1
+[0:03] é + Didnt/ha
+[0:03] ve} {to use
+[0:03] like you
+[0:03 - 0:04] ern
+[0:03 - 0:04] my posterior’chain
+[0:03 - 0:04] tft:
+[0:04] a nal —_
+[0:04] + vidi have) {to use
+[0:04] e you
+[0:04] 7iy
+[0:05] Reels:
+[0:05] Reply See Translation
+[0:05] View & more replies
+[0:05] 199926300 2. © by author
+[0:05] He probably doesn't even know what posterior chain is. @ (2
+[0:05] i nishantliftsss Follow
+[0:05] ‘Body weight kon btayga ab @
+[0:06] | aha ites A Folow
+[0:07] || nishanen tas Koliow
+[0:08] monn
+[0:08] ater
+[0:08] Nai
+[0:09] 429
+[0:09] Tht ok <<,
+[0:10] || shanuitsss Folow
+[0:10 - 0:13] “Tt kets .)
+[0:10 - 0:18] ‘Body weight kon btayga ab @
+[0:11] JEN
+[0:11] Follow
+[0:11] ale
+[0:12] ais :
+[0:13] || shanuitsss Foiow
+[0:14] mat
+[0:14] lees
+[0:14 - 0:18] eels:
+[0:14 - 0:18] Now Do This
+[0:14 - 0:18] i rishantlftsss | Follow
+[0:15] fener d
+[0:15] सन जे की
+[0:16] [BW oisnantitsss —Fotow
+[0:16 - 0:17] 10 + 257%)
+[0:17] CRY
+[0:17] — आता
+[0:18] = ae ३
+[0:19] te ll Ae
+[0:19] t SL
+[0:19] | for
+[0:19] reps(220))
+[0:20] ० का
+[0:20] weig!
+[0:21] SS A
+[0:21] ISEDEfor:
+[0:21] int’
+[0:22] ey 12
+[0:23] if i
+[0:24] ac e/
+[0:24] Bim lyf
+[0:24] A, ae I!
+[0:24] aes
+[0:25] Sa M/
+[0:25] all
+[0:25] Mik
+[0:26] ! ie | पा
+[0:26] Mee
+[0:27] iT ml
+[0:28] Bis
+[0:29] i 111
+[0:29] Lacks
+[0:29] Ree
+[0:30] SS 47
+[0:30] _- itl

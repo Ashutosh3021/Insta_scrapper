@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[55] https://www.instagram.com/reel/DeKWsENukNA/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] No slump and you know what he told me?
+[0:01 - 0:04] Never, never cut your hair because the strength is in the hair.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 7722
+[0:00] in lower rie
+[0:00] ilk
+[0:00] ली व
+[0:00] Low
+[0:00 - 0:02] ‘ii eve
+[0:00 - 0:02] ryexercise
+[0:01] 27८4४
+[0:01] Tip
+[0:01] ibe
+[0:01] Yi in every,
+[0:01] BSE
+[0:01] aye
+[0:01] bat
+[0:01] के लि लत
+[0:01] Ang
+[0:01 - 0:02] lower if :
+[0:02] SHOES.
+[0:03 - 0:05] es not matter
+[0:04] 2८72:
+[0:04] pressing,
+[0:04] pas
+[0:04] aye
+[0:04] Vio SE
+[0:04] Vim
+[0:05] FUN OES.
+[0:05] न्न्
+[0:05] press
+[0:05] Life aE
+[0:05] rae,
+[0:06 - 0:08] Tricep Extensions =
+[0:09] sey
+[0:09] Y fn
+[0:10] =say
+[0:12] Lowerreps a
+[0:12] ishouldiberuse
+[0:12 - 0:14] ALL exercises
+[0:13] useqon
+[0:13] 4007८€ट/टांड25
+[0:14] Low
+[0:14] ‘canyjand
+[0:14] should'be used: on
+[0:16] श्र

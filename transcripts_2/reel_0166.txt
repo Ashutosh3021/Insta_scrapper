@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[166] https://www.instagram.com/reel/DaBEWvCTgoy/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:18] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Sait ata ernie
+[0:01] a) ata annie
+[0:01] esl eee
+[0:02] Quick, ang Simple
+[0:03] ‘fe Row
+[0:03] nit
+[0:03 - 0:05] 2 Sets 6-8 Reps
+[0:04 - 0:05] Chest Supported Row
+[0:05] a Chest
+[0:06] nr 4 )
+[0:06] a ail 4\
+[0:06] ie i]
+[0:06] ii rf
+[0:06] aXe
+[0:07] rst, at Pall Ww
+[0:08] ie ue #4
+[0:08] 212
+[0:08] जज को
+[0:09] F 6-8 के कक
+[0:09] - बजा
+[0:09] पु हि.
+[0:09 - 0:11] Recline Curl —==
+[0:10] a et
+[0:10] झुक
+[0:10] 156: fe eS
+[0:10] Bae
+[0:11] Sa अम्मा
+[0:11] F 6-8 reps
+[0:13] 2 sets 6-8 reps
+[0:13] rik i
+[0:14] reacher Curl
+[0:14] 2 sets 6-8 a
+[0:15] Tq rerse:Pec‘Dec Fly
+[0:15 - 0:17] ae, 8 Reps?
+[0:16] Lam |
+[0:16] a! DEC FI;
+[0:16] ध्नि
+[0:17] wre!
+[0:17] cal

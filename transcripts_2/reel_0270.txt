@@ -1,0 +1,63 @@
+# model: ggml-large-v3
+========================================================================
+[270] https://www.instagram.com/reel/DViHLt8kafl/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] And I don't know why
+[0:02 - 0:06] If I walk and I walk, I walk
+[0:06 - 0:09] It's tragic, you and I
+[0:09 - 0:11] Like you, my ability
+[0:11 - 0:14] If I walk and I walk, I walk
+[0:14 - 0:17] It's sad and you and I
+[0:17 - 0:19] Like you, my clarity
+[0:19 - 0:21] If I walk
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] — कमान कीट जज 3.
+[0:01] twicelasifast,
+[0:01] using)
+[0:01] ites |
+[0:01] Sane
+[0:01 - 0:04] itolgrow,
+[0:02 - 0:03] twice:
+[0:02 - 0:03] ‘asifast)
+[0:02 - 0:04] this science)
+[0:02 - 0:04] [protocol
+[0:04] twicelasifast,
+[0:04] vl ay
+[0:06] (000005
+[0:08 - 0:12] luscle)
+[0:09] inyways7 Muscle)
+[0:09] eee building,is;
+[0:09 - 0:12] painfully,
+[0:10] ipaintully/slow,
+[0:10 - 0:11] ibu
+[0:10 - 0:11] ilding,isfa)
+[0:10 - 0:12] Inyways7
+[0:10 - 0:12] [process be)patient;
+[0:11] process;
+[0:11] bejpatient;
+[0:11] oll
+[0:12] ISfa)
+[0:12] eee building,
+[0:14] fandige
+[0:14 - 0:17] Repeatithe/same
+[0:14 - 0:17] exerciselfornyears)
+[0:15] fandget stronger,
+[0:15 - 0:17] ‘them:
+[0:16] stronger,
+[0:16] x lL
+[0:17] igetistronger,
+[0:17] x ऋाा॑ा॑ानाशाणथणा
+[0:18] telling)
+[0:19] telling lyoura)
+[0:19] wsecretsisfulllof,
+[0:20] Inyone
+[0:20] Hing lyoura)
+[0:20] fulllo
+[0:21] telling,
+[0:21] lyoura)
+[0:21] fulllofishit®

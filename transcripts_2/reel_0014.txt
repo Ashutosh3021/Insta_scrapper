@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[14] https://www.instagram.com/reel/De_ewy5T3I-/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] You're not a Skywalker, bro.
+[0:01 - 0:05] It's dying like Jesse Wolf.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] क्र!
+[0:01] a oe
+[0:03] Aes.
+[0:06] क्र
+[0:06] TAL
+[0:13] cae
+[0:13] Pe Bi

@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[99] https://www.instagram.com/reel/Dcgr0h6uSmi/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ९1४
+[0:00 - 0:02] Bicep/Elbow,
+[0:00 - 0:02] (© Routine
+[0:01] Bicep/Elbow’Flexor,
+[0:01] 12211
+[0:01] लीं
+[0:02] at er
+[0:02] ORs
+[0:03] pay
+[0:03 - 0:05] Preacher. Curls;
+[0:04] we the
+[0:04] ब्ै हे
+[0:05] "itl
+[0:06] eal
+[0:06] ae ap
+[0:07] atl
+[0:08] FS a a 8
+[0:08] Mis
+[0:08 - 0:10] curls),
+[0:09] Recl.
+[0:09] FF oe OS
+[0:09] i i. a |
+[0:09] a —— Ss
+[0:09] me 4
+[0:10] Recline
+[0:10] —F FD लक ee OS
+[0:10] ™ छुए
+[0:10] किक 2-3
+[0:10] all
+[0:10] eas + |

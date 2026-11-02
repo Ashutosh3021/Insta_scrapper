@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[164] https://www.instagram.com/reel/DaFNIC2xBC7/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] सब्सक्राइब करने के लिए सब्सक्राइब करने के लिए
+[0:10 - 0:14] सब्सक्राइब करने के लिए
+[0:14 - 0:32] सब्सक्राइब करने के लिए
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] 4 a effor
+[0:01 - 0:03] jown to loc!
+[0:02] है and है
+[0:02] & Slide down to lock 2X speed
+[0:03] and डे
+[0:06] & ir ffort
+[0:07] S an
+[0:07] ay speed
+[0:12] bls and a
+[0:14] a dan
+[0:16] at 2 a
+[0:16] exerci
+[0:17] firs
+[0:18] a iia यू
+[0:18] ‘tral
+[0:18] rid
+[0:19] rt iia चयन
+[0:19] uate
+[0:20] i this to oe ff
+[0:20] _triceps.
+[0:21] ird/as,
+[0:23] 1511
+[0:24] a wal
+[0:25] है. 3 जे 8
+[0:25] 0051! |
+[0:25] And jousjlifters
+[0:25] a pas
+[0:27] Tihs nough
+[0:28] 20०८८
+[0:29] a al
+[0:29] Ths
+[0:30] yrsn__ i

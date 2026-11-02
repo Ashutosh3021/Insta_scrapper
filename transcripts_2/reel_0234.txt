@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[234] https://www.instagram.com/reel/DXRIFA8kbJs/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Hit it, hit it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 284
+[0:00] torah.theprt( Follow}
+[0:00] my divinity doesn't diminish yours, unless you
+[0:01] है दे
+[0:01] wT ME
+[0:02] HME
+[0:02] Follow
+[0:02 - 0:03] pesitY wit ME_
+[0:03] GLoRIFYS
+[0:03] oe a
+[0:04] BEN
+[0:08] प्र
+[0:08] है मर
+[0:14] ७-७ ७८ ह ZA
+[0:14] bat!
+[0:14] nn 0 me
+[0:14 - 0:15] Vil
+[0:14 - 0:15] “SAN Kays
+[0:15] \ wi Zz
+[0:15] ail
+[0:15] i 0 oe
+[0:15] oon

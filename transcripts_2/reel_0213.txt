@@ -1,0 +1,74 @@
+# model: ggml-large-v3
+========================================================================
+[213] https://www.instagram.com/reel/DYg1LzdRqvV/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Yeah, oh boy, bye
+[0:02 - 0:04] It's over, it's over, oh yeah
+[0:04 - 0:08] This ain't the first time I've been hostage to the stage
+[0:08 - 0:13] I can't believe I'm finally moving through my face
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Bese repyrange to
+[0:00] i’ every muscle===
+[0:01] ial to
+[0:01] ain, very a
+[0:02] pe > 8-12 oe
+[0:02] est
+[0:02] 28:12
+[0:02] Jaa
+[0:02] oe मन
+[0:02 - 0:03] Whoulders ->.12-15
+[0:02 - 0:03] Legs)
+[0:03] -12 ier
+[0:03] Chi ct 6-8) |
+[0:03] 15-20
+[0:03 - 0:04] fou
+[0:03 - 0:04] Bis
+[0:04] Chest! >)6-8) 1
+[0:04] Arn) 8-
+[0:04] 1 48
+[0:06] है; /5y
+[0:06] lal
+[0:06] rod Big
+[0:07] F muscle fibres are
+[0:07] ‘similiar, there.are no
+[0:07] rep ranges—~
+[0:07] पा, for, a
+[0:07] muscles.’
+[0:07] onl
+[0:07] joa
+[0:07] कल मस्त
+[0:07 - 0:09] “differe:
+[0:08] jr le fibre:
+[0:08] COG] qa
+[0:08] rep
+[0:08] Pil
+[0:08] है ्श््टः
+[0:09] fib
+[0:09] imu:
+[0:09] Jou
+[0:10] ‘ai the 5-10
+[0:10] Sre|
+[0:10] anne
+[0:10] 9198
+[0:10] 16७
+[0:10] लय वर
+[0:10 - 0:12] ecial के
+[0:10 - 0:13] je, there 55. <oe
+[0:10 - 0:13] ry lor shoulders:
+[0:11] Rid
+[0:11] Peels कि
+[0:11] bow
+[0:11] Vibe
+[0:11] NLS
+[0:11 - 0:13] ke muscleiin,the 5-10
+[0:11 - 0:13] A का
+[0:12] ‘2 ibe
+[0:12] ay a
+[0:13] sre
+[0:13] special a
+[0:13] call

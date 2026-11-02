@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[114] https://www.instagram.com/reel/DcBuf7OzPyN/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] We'll be right back.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Just}
+[0:00] der there
+[0:00] ional/
+[0:00] iy Ge
+[0:00] ' बारी
+[0:00] bol
+[0:00 - 0:01] | muscle
+[0:00 - 0:02] is no,functional/
+[0:01] fit Sen
+[0:01] i अब
+[0:01] BUN
+[0:01] कि be a
+[0:01 - 0:02] Yustia reminder there
+[0:02] alll muscle
+[0:02] see
+[0:02] Tea} ‘
+[0:02] हैः
+[0:02] Pas
+[0:03 - 0:04] Strength training is
+[0:04] 195
+[0:04] rs Ps
+[0:04] ७०७७८)
+[0:04] पिन
+[0:05] बी डा
+[0:05] neo
+[0:06] for a muscle i
+[0:06] but
+[0:06] camstilido it
+[0:06] Tike“
+[0:06] yi it
+[0:06] हैं
+[0:06] Vee
+[0:06] raz
+[0:06 - 0:07] iihave never trained
+[0:07] r a muscle up;/but,
+[0:07] er still do it
+[0:07] ‘dy 1
+[0:07] ०७७)
+[0:07] tal
+[0:07 - 0:09] |) क्रो
+[0:08] anil ” my lats
+[0:08] : 33५
+[0:08] ७७७८)
+[0:08 - 0:09] Gause i “strength
+[0:09] aad my lats
+[0:09] ony
+[0:09] i if
+[0:09] Paz
+[0:09] may
+[0:10] Cause-i a
+[0:10] strength
+[0:10] कं ” my lats
+[0:11] i है

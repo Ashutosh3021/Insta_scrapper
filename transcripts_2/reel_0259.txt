@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[259] https://www.instagram.com/reel/DWHIxLVE_aV/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:23] Субтитры сделал DimaTorzok
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] ‘rowtfor the 1
+[0:00 - 0:03] Howto performa ___
+[0:02] “rowtfor the tne SS
+[0:03] ‘row'for the lats.
+[0:04 - 0:07] wards your wait,
+[0:04 - 0:09] iDrive your elbows
+[0:06] rae
+[0:06] 5 ale
+[0:08] ere
+[0:08] ‘towards your wale
+[0:09] Ae wards your com “य
+[0:09] ome
+[0:10] ५ eee al
+[0:11 - 0:14] Sy Tryt fokeep your ba
+[0:11 - 0:14] i: neutral and minimise.
+[0:11 - 0:14] hipiextension.
+[0:13] 5 7 feikeep your ba
+[0:14] hor
+[0:16] ion
+[0:16] rea
+[0:16 - 0:18] juld be better for:
+[0:16 - 0:18] lesser hip extensi
+[0:16 - 0:18] me too in this set..2
+[0:17] oer
+[0:17] Vas
+[0:17] =p it
+[0:20 - 0:22] Dont overstretch
+[0:20 - 0:22] our lats it doe:
+[0:20 - 0:22] nothing
+[0:21] Sr 7 ey
+[0:21] Cas
+[0:22] ws i

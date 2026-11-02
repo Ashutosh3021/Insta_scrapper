@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[134] https://www.instagram.com/reel/DbTB0Wtzurl/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] jansh
+[0:00] Sighu Moo
+[0:00 - 0:03] 1046
+[0:00 - 0:04] nattydi
+[0:00 - 0:05] Reels:
+[0:00 - 0:05] 102k
+[0:00 - 0:05] Follow
+[0:00 - 0:05] AVG AURA FARMER, its only 130 KG #
+[0:01] rs looking A
+[0:01] leson Me Sidhu Moose
+[0:01 - 0:05] nattydivyansh
+[0:02] nish
+[0:02 - 0:03] Me Sidhu Moose Wala, 7
+[0:03 - 0:05] But thats how i.
+[0:04] or AURA
+[0:04] rey
+[0:04] sit
+[0:04] AVG AURA FA\
+[0:04] 0 KG he
+[0:04 - 0:05] are
+[0:05] a, The i
+[0:06] =f fet
+[0:06] Sore
+[0:06] A Ei
+[0:06] Rea
+[0:06] i Vida
+[0:06] es 2
+[0:07] oil |
+[0:07 - 0:11] Real Aura
+[0:10] हैः
+[0:11] 39: आज
+[0:11] afl ld
+[0:11] tia)
+[0:11] by. i
+[0:11] SSS
+[0:12] है। हा ही, उकम्ट
+[0:12] Gil

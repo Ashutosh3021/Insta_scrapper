@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[84] https://www.instagram.com/reel/DdKFWflTBmM/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I make a beat, I make a beat, I make a beat.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Lg a
+[0:00] of) Spe
+[0:00] wae जी 4
+[0:00] Backside = of the
+[0:00] BEST, mid/back
+[0:01] Cals
+[0:02] Amz
+[0:02] Dox ¢
+[0:02] pm ahd
+[0:02] ws 4
+[0:02 - 0:03] ROM is os \
+[0:02 - 0:04] Yes only thisimuch
+[0:03] Nea
+[0:03] Yes only rt aah
+[0:04] ave
+[0:04] iat 4
+[0:04] ROM is है.
+[0:04] ant है
+[0:05] Have fun building
+[0:05 - 0:07] the biggest traps you
+[0:05 - 0:07] - can
+[0:06] suf
+[0:06] धरम ०. 4
+[0:06] aay?
+[0:06] Have का
+[0:07] APs
+[0:07] rar
+[0:07] Lee
+[0:07] दर ight
+[0:07] आन hae |
+[0:07] Have fun
+[0:07] building
+[0:08] ¢ So हि
+[0:08] SY 4
+[0:09] hehe
+[0:11] Ora

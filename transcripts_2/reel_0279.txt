@@ -1,0 +1,170 @@
+# model: ggml-large-v3
+========================================================================
+[279] https://www.instagram.com/reel/DVGKb1HEU3I/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Wake me up
+[0:02 - 0:03] Wake me up inside
+[0:03 - 0:04] Can't wake up
+[0:04 - 0:06] Wake me up inside
+[0:06 - 0:07] Save me
+[0:07 - 0:11] Call my name and save me from the dark
+[0:11 - 0:12] Wake me up
+[0:12 - 0:13] Bid my blood to run
+[0:13 - 0:14] I can't wake up
+[0:14 - 0:16] Before I come undone
+[0:16 - 0:17] Save me
+[0:17 - 0:22] Save me from the nothing I've become
+[0:22 - 0:27] Now that I know what I'm
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] मनन
+[0:02] ee ed
+[0:02 - 0:27] Gains maxing in
+[0:03] आि४० ०८-01
+[0:03] डॉ जल
+[0:03] “अमन लक
+[0:04] ean
+[0:04] 155
+[0:04] pated |
+[0:04] —_ चणाड
+[0:04 - 0:27] Whard(close to
+[0:05] Say
+[0:05] ane {i>
+[0:06] 5 maxing in
+[0:06] Gai
+[0:06] Train every 42
+[0:06] ee week ©
+[0:06] oud
+[0:06 - 0:27] 2026,
+[0:07] failure)
+[0:07] पु VA
+[0:07 - 0:08] ae 2xaweek © a
+[0:07 - 0:15] Train every muscle. x
+[0:08] fal
+[0:08] vere ०.
+[0:08 - 0:09] sets
+[0:09] Train oP muscle
+[0:09] i> ae
+[0:09 - 0:14] atleast 2xaweek © a
+[0:10] ve 2x a week
+[0:10] iver
+[0:10] हित
+[0:10] वन ला
+[0:10 - 0:11] rable,
+[0:10 - 0:14] failure,
+[0:11] Train every api
+[0:11] volume:
+[0:11 - 0:13] eee
+[0:12] week © a
+[0:12] vera He.
+[0:12] dontdo.
+[0:12] ma v
+[0:12] of carb:
+[0:12 - 0:15] ets
+[0:13] of, 1
+[0:13] apie ‘carbs
+[0:13] nal \ i>
+[0:13 - 0:14] oe lo.
+[0:14] i ३ i>
+[0:14] RA ha
+[0:15] atleast
+[0:15] vol
+[0:15] es and dont
+[0:15] ise
+[0:15] if carbs
+[0:15] eal YR
+[0:15] a ee ८: पमककतस
+[0:15 - 0:16] = 2x a week”
+[0:16] ire)
+[0:16] tat
+[0:16] of ps
+[0:16] 15 tT
+[0:16] Her
+[0:16] Use th
+[0:16] range for mi
+[0:16] off
+[0:16] your sets
+[0:16] Neel
+[0:16 - 0:17] Train every aii
+[0:16 - 0:17] volume:
+[0:16 - 0:18] verable ..
+[0:17] is 2x a week
+[0:17] 28 v7
+[0:17] les
+[0:17] Cue ie
+[0:18] <5 lo.
+[0:18] ets
+[0:18] Rau
+[0:18] range tor past-of
+[0:18 - 0:19] Train every muscl:
+[0:18 - 0:22] atleast 2xaweek ~©
+[0:18 - 0:22] of carbs
+[0:18 - 0:23] Use the 4-10 re|
+[0:19] fal
+[0:19] verabi
+[0:19] en ०.
+[0:19] KG ien
+[0:19] j range’ tor meer
+[0:20] ies
+[0:20] —— लकी
+[0:20 - 0:21] Fin lo.
+[0:20 - 0:22] ien an
+[0:20 - 0:23] 1 range
+[0:20 - 0:24] _ loadable movement
+[0:20 - 0:24] Use'stable and
+[0:20 - 0:27] failu ire)
+[0:20 - 0:27] Train every io
+[0:21] ert
+[0:21] खुद
+[0:21] je for m
+[0:21] al 7 set
+[0:21 - 0:23] jen and,
+[0:22] | _ Train} ird(close to
+[0:22] ilure)
+[0:22] “a lo.
+[0:22] sets
+[0:22] |. प्रका ॥# most of.
+[0:22 - 0:27] your sets
+[0:23] fie,
+[0:23] jont.do
+[0:23] faire
+[0:23] # mostiof.
+[0:23] pe irs
+[0:23] —— कलाम 2
+[0:23 - 0:24] = 2xaweek ©
+[0:23 - 0:27] © of pi
+[0:23 - 0:27] e carbs
+[0:24] 31191 ire)
+[0:24] vonage
+[0:24] ० lo.
+[0:24] eget eee =
+[0:24 - 0:25] ~ Eat
+[0:24 - 0:25] range for most of i.
+[0:24 - 0:26] verablé ..0
+[0:24 - 0:27] use the 4-1
+[0:25] ind dont.do,
+[0:25] id ple
+[0:25 - 0:26] volum
+[0:25 - 0:26] Use'stal
+[0:25 - 0:26] ver
+[0:25 - 0:27] atleast 2xaweek © 4:
+[0:25 - 0:27] loadable
+[0:26] 67६ 4०.
+[0:26] 3 91
+[0:26] है. fatleast
+[0:26] of prot
+[0:26] and ple
+[0:26] ibs:
+[0:26] \Guse tl
+[0:26 - 0:27] | range for m«
+[0:27] wa al
+[0:27] ets
+[0:27] n and.
+[0:27] 1271
+[0:27] Use'stable and
+[0:27] vement
+[0:27] —— कम 2

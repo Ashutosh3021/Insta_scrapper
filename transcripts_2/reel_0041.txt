@@ -1,0 +1,59 @@
+# model: ggml-large-v3
+========================================================================
+[41] https://www.instagram.com/reel/Dehl-qhzk_X/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] And delete your card.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] s/fliesr4
+[0:00 - 0:01] 95८0
+[0:00 - 0:01] हु presse.
+[0:00 - 0:02] ££ 2-3 different;
+[0:00 - 0:02] is(useless).»
+[0:01] Doing
+[0:01] /flies,
+[0:01] (8 al,
+[0:02] 50७
+[0:02] “chest aaatest od
+[0:03] 95८०
+[0:03 - 0:06] | हि: isjliterally/all
+[0:03 - 0:06] \ your chest does
+[0:04 - 0:12] 95८0
+[0:05] Fai chest does
+[0:05] midline
+[0:05 - 0:06] * bring) arm to
+[0:06] oes:
+[0:06] midii
+[0:07] on good »
+[0:07 - 0:10] Ls a a or fly both
+[0:08] 5cO
+[0:08] can
+[0:08] a * press
+[0:08] or fi
+[0:08] W both
+[0:08] are good
+[0:09] " are
+[0:09] 9००20
+[0:09 - 0:12] हुक you don’t need a
+[0:09 - 0:12] bench press, a
+[0:09 - 0:12] dumbbell press, a
+[0:09 - 0:12] pec dec anda
+[0:09 - 0:12] machine press in the
+[0:09 - 0:12] ‘same workout
+[0:10] eel
+[0:10 - 0:11] are goo ठ He
+[0:11] Hi हि. pressjor. | both
+[0:12] 4 हि... pressjor fly
+[0:12] lboth
+[0:12] are good)
+[0:12] nda
+[0:13] Fill
+[0:14] se 208 »»> 3
+[0:14] And
+[0:14] east
+[0:15] ait
+[0:15] Se: i

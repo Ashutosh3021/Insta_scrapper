@@ -1,0 +1,103 @@
+# model: ggml-large-v3
+========================================================================
+[44] https://www.instagram.com/reel/Ded8p1RT8Me/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] a lot of people ask me like why are we weakest in the contracted position like when we are fully
+[0:04 - 0:10] contracted so basically we have to understand the length and relationship of the muscle to
+[0:10 - 0:15] understand why we are weakest in the contracted position so as you can see here muscle fiber is
+[0:15 - 0:20] made of a sarcomere in a sarcomere there is actin and myosin and the myosin binds to the actin
+[0:20 - 0:27] and then it pulls each other to produce force so in the length and relationship tell this
+[0:27 - 0:32] where the muscle fiber can produce an optional amount of force so as you can see in an overly
+[0:32 - 0:37] shortened position there is not enough space for actin and myosin to bind together to effectively
+[0:37 - 0:43] form prosthesis so we are very weak when we are reaching the contracted position and then when
+[0:43 - 0:49] the muscle fiber is overly stretched on like here on the right side there is the distance between
+[0:49 - 0:54] the actin and myosin is too far away to form effective prosthesis that's why we are very
+[0:54 - 0:56] weak in the contracted position
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] coe aed
+[0:00] ly re
+[0:00 - 0:01] Alot of peoplefas me
+[0:00 - 0:02] Why are we weak in
+[0:00 - 0:02] the contracted
+[0:00 - 0:02] position?
+[0:01 - 0:03] safes
+[0:02] in the contra
+[0:03] eit
+[0:03] 122
+[0:03 - 0:04] like when like we area
+[0:04] sees
+[0:05] fully contracted
+[0:05 - 0:06] Tope
+[0:06] १225
+[0:06 - 0:07] So basically we} है? to
+[0:07] ant
+[0:07 - 0:09] 100
+[0:08] tension relationshi
+[0:09] aps
+[0:09] of the
+[0:10] ptr
+[0:10] muscle to understand why
+[0:11] we are weakest in'the
+[0:12] contracted position
+[0:13] So as you can see here a
+[0:13 - 0:21] Sarcomere Structure
+[0:14] So as you can set दिल a
+[0:14] क्र
+[0:15] muscle fiber is ma
+[0:15] de रु *
+[0:15] A&E Om
+[0:16 - 0:17] a sarcomere and) in a
+[0:18] is actin and myosi
+[0:19] the myosin binds’ to the
+[0:20 - 0:21] actin and thenjit pulls
+[0:23] Eon mo
+[0:23] ig ७.90
+[0:23] each other to produce
+[0:24] force
+[0:24] yr bg
+[0:25 - 0:26] So in the lengthjtension
+[0:27] relationship tells us
+[0:28] where the muscle fiber
+[0:29] jms
+[0:29] jal
+[0:29] produce its |
+[0:30] amount of force
+[0:31] sor
+[0:31] So as you can see
+[0:32] overly shortened
+[0:33] position, ther
+[0:34] 22000.
+[0:34] Fags
+[0:34] enough epace F J
+[0:35] for actin and myo:
+[0:36] bind together,
+[0:37] effectively
+[0:37] foi
+[0:38] 20010.
+[0:39] etl
+[0:39] So we are very weak when
+[0:40 - 0:41] we are reaching the
+[0:42] contracted positi
+[0:42] en and
+[0:43] then
+[0:44] when the muscle fiber is
+[0:45 - 0:46] overly stretched Eline
+[0:46] in like
+[0:47] here on the right side,
+[0:48 - 0:49] there is the distance
+[0:50] | है é
+[0:50 - 0:51] myosin is too far, away
+[0:52] प्रा ३
+[0:53] 0a anh
+[0:53] crossesbridges.
+[0:53] As 1
+[0:54] That's why we a
+[0:54] Soory
+[0:55] weak in the contracted
+[0:55] श्र
+[0:56] Temper

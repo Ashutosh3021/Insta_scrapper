@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[216] https://www.instagram.com/reel/DYWrUSER0_i/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] We'll see you next week.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ats
+[0:00] seni
+[0:00] है ४
+[0:00 - 0:02] Best-Exercise (2४ lose
+[0:01] Best:Exércise.to'losé
+[0:01] 0 ०५
+[0:01] जुट जी
+[0:01] जिला =
+[0:01 - 0:02] ® fat is
+[0:02] bs ce
+[0:02] 10४०
+[0:03] Nig
+[0:03] xy लि अर
+[0:03] ill
+[0:03] eee
+[0:05] aL. Y

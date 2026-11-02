@@ -1,0 +1,91 @@
+# model: ggml-large-v3
+========================================================================
+[158] https://www.instagram.com/reel/DaVyeiRT2Fy/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] deh
+[0:00] ‘gua
+[0:00] eT छा
+[0:00 - 0:01] How tojpe
+[0:00 - 0:01] rman
+[0:00 - 0:01] ==> upperbackirow 5
+[0:01] ‘gal
+[0:02] youlinto}
+[0:02] apd
+[0:02] bil
+[0:02 - 0:03] sit st
+[0:02 - 0:03] tall
+[0:02 - 0:03] and let
+[0:02 - 0:03] ‘sink
+[0:02 - 0:03] bid
+[0:03] the
+[0:03] == youlintoithe|pad “A
+[0:03] tks
+[0:03] toh.)
+[0:04] 95:90
+[0:04] siforyour
+[0:04] iif
+[0:04 - 0:05] ingle
+[0:04 - 0:05] arm)
+[0:05] 0-90,
+[0:05] =~ deg your:
+[0:05] fis
+[0:05] bes Mid)
+[0:05] Var
+[0:05] a - 223
+[0:06] 7 Ke
+[0:06] “= degrees,
+[0:06] uppeijarm
+[0:06] your.
+[0:06] ‘gua
+[0:07] le awd
+[0:07] पे ओके
+[0:08] LOW |
+[0:08] = व्या
+[0:08 - 0:10] Let the)
+[0:08 - 0:10] ula
+[0:08 - 0:10] protact/retract|to)
+[0:08 - 0:10] train the! traps(mid=
+[0:09] train thettr: tite
+[0:09 - 0:10] back)
+[0:10] also,
+[0:10] 1०००-
+[0:11] cll
+[0:11] ‘hie
+[0:11] he: ast
+[0:11] — the padion)
+[0:11] १226
+[0:11] een -
+[0:11 - 0:13] Now whil
+[0:11 - 0:13] jing
+[0:11 - 0:13] drive t
+[0:12] drive ४६०
+[0:12] 1४315:
+[0:12] farm
+[0:12] te 4
+[0:12 - 0:13] —— the padjonithe\che: stil
+[0:13] kwards)
+[0:13] army” 4
+[0:13] rif ey
+[0:14] ively
+[0:14] — (Swin: means, a
+[0:15] [aa 9)
+[0:15] 17910 61॥॥
+[0:15] dil
+[0:15 - 0:16] je (Swittging)in
+[0:16] ingthejhips)
+[0:17] failure sate |
+[0:17] hil
+[0:18] And!
+[0:18] train
+[0:18] close}to) failure sai
+[0:18] 4 ie
+[0:18] Soe
+[0:19] all
+[0:19] vas

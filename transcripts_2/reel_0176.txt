@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[176] https://www.instagram.com/reel/DZvEzF5T7HD/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Se अत
+[0:05] ््द
+[0:06] 5 Os.
+[0:07] 77 Gos
+[0:07] ees

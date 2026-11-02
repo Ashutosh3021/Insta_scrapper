@@ -1,0 +1,221 @@
+# model: ggml-large-v3
+========================================================================
+[112] https://www.instagram.com/reel/DcEin0pTA54/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] We'll be right back.
+[0:30 - 0:38] We'll be right back.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ok ia
+[0:02] Nik:
+[0:03] x te
+[0:03] hav
+[0:03] ॥ Ymyosin
+[0:03] Shorten the
+[0:03] le(muscl
+[0:03 - 0:05] in) pulls actin, to
+[0:04] fio
+[0:04 - 0:05] os ia
+[0:05] imuscle fibre:
+[0:05] ave Actin and,
+[0:05] ten the
+[0:05] muscle(muscle)
+[0:05] contraction)
+[0:05] ४582-68:
+[0:05] Poa ri आन ety
+[0:05] vas?
+[0:05] eels
+[0:05] sto)
+[0:06] ye N |
+[0:08] sé औ
+[0:08] ind
+[0:08] mye
+[0:08] बदन
+[0:08 - 0:10] jum,
+[0:09] ग्रह
+[0:09] “% locities,
+[0:09] likevrunning an
+[0:09] jumping, actin i
+[0:09] cannot form
+[0:09] force since they don't
+[0:09 - 0:10] |produce much)
+[0:09 - 0:10] ve’sufficient time)
+[0:09 - 0:11] myo:
+[0:09 - 0:11] quently they,
+[0:09 - 0:12] || to overlap
+[0:10] ye i
+[0:10] yosin can
+[0:10] efficient! overlaps,
+[0:10] =m ES
+[0:10] juently |
+[0:10] they de ont
+[0:11] ie om
+[0:11] and:
+[0:11] ing, actil
+[0:11] onseque!
+[0:11] हि have'’su
+[0:11] too
+[0:11] verlap >»
+[0:11 - 0:12] ities:
+[0:11 - 0:12] cannot produce;much
+[0:11 - 0:12] fficient ti
+[0:11 - 0:12] ce they di
+[0:12] cal
+[0:12] ter
+[0:12] pan
+[0:12] jumpin
+[0:12] actil
+[0:12] sical
+[0:12] ffi
+[0:12] | cient ov
+[0:12] een: they
+[0:12] force sii
+[0:12] Have suffi
+[0:13] ee fi
+[0:13] ‘imised ai sd
+[0:13] ive
+[0:13 - 0:14] \velocities(stre
+[0:13 - 0:14] training set couple of
+[0:13 - 0:15] reps to failure)
+[0:14] ai fi
+[0:14] is maximised a ee
+[0:15] iscle
+[0:15] is maximisedjat'slow
+[0:15] vel
+[0:15] ties(strength
+[0:15] ing set couple |
+[0:15] Bn muscle
+[0:15] ce at sit fh
+[0:15] aes is “High
+[0:15 - 0:16] tra
+[0:15 - 0:17] | fibi
+[0:15 - 0:17] hanical tension
+[0:16] 1८९
+[0:16] ism
+[0:16] isedjaty
+[0:16] low
+[0:16] vel me ities(s
+[0:16] failui
+[0:16] tor Ml muscle
+[0:16] fibre
+[0:16] ॥८० at'slow
+[0:16] | velocities is “Hi
+[0:16] — a |mechanical tension”
+[0:16 - 0:17] fof
+[0:16 - 0:17] “High
+[0:17] The.
+[0:17] failure)
+[0:17] Thi
+[0:17] cor jal muscle
+[0:17] veloci
+[0:17] ree at'slow
+[0:20 - 0:21] iy and start vail 1:
+[0:20 - 0:22] BE: nsion is hight
+[0:20 - 0:23] ‘chanotransductors)
+[0:20 - 0:24] ur muscles'pick it
+[0:21] ion is high}
+[0:21] fh y
+[0:21] a> ॥ Te
+[0:21 - 0:22] When mechanical,
+[0:22] i and start MYops)
+[0:22] रठप्ं।
+[0:22] => wv ie
+[0:22 - 0:24] building is started
+[0:22 - 0:24] after this
+[0:23] an all
+[0:23] Ms is, hight!
+[0:23] att
+[0:23] ly muscl
+[0:23] a buil
+[0:23] LES '
+[0:23 - 0:24] je and start
+[0:24] is an
+[0:24] lly ae
+[0:24] कुक
+[0:25] ४४९ need,
+[0:25] Rig
+[0:25] > ॥ बला
+[0:25 - 0:26] vel
+[0:25 - 0:27] ‘ities for muscle
+[0:25 - 0:27] ‘growth “al
+[0:26] Za. need wa
+[0:26] s for muscl
+[0:26] eS. ee
+[0:26 - 0:27] i but there is one
+[0:26 - 0:27] more thing,
+[0:27] we need si
+[0:28] ing ०
+[0:28] mS is also 4
+[0:28] ij since the e
+[0:28 - 0:29] hanical tension
+[0:28 - 0:29] ffort of i
+[0:28 - 0:30] juscle fibres are/not ae
+[0:28 - 0:30] } a P activated
+[0:28 - 0:31] task is low, aan
+[0:29] है. पिन
+[0:29] walking or eatin
+[0:29] \F ‘since the दें
+[0:29] jot
+[0:29] प्राय
+[0:29] हक... बला
+[0:29 - 0:31] d is also high)
+[0:30] Pm ४
+[0:30] wall
+[0:30] 1g OF &.
+[0:30] 1000 is alsofhit
+[0:30] itask is low, most @
+[0:30] See Ponte
+[0:30] sage
+[0:30] ont
+[0:30 - 0:31] mechanical tei
+[0:30 - 0:31] GW but since the effortof
+[0:31] . दल or eatin
+[0:31] fension,
+[0:31] luscle fibres,
+[0:31] itr
+[0:32] re talk 320०1 {
+[0:32] ir a te
+[0:32] failure to build)
+[0:32 - 0:37] a. is Precisel,
+[0:32 - 0:37] muscle a i
+[0:33] ही ८० te
+[0:33] failure to “a
+[0:33] हां
+[0:33] eS ~ बल
+[0:33 - 0:37] we talk about!
+[0:34] re to “a
+[0:34] ing closet
+[0:34] हाफ ॥ छः
+[0:35] Ig closeitcmmy, te
+[0:35] vit
+[0:35] 444
+[0:35] velo
+[0:35] ties(High)
+[0:35] try
+[0:35 - 0:36] failure to build)
+[0:35 - 0:37] As both of these
+[0:35 - 0:37] conditions are
+[0:35 - 0:37] achieved)
+[0:35 - 0:37] Mechanical ten
+[0:35 - 0:37] 2) Highest Degress/of
+[0:35 - 0:37] Motor unit
+[0:35 - 0:37] recruitment,
+[0:36] SO ee eee
+[0:36] ig clo:
+[0:36] conditions 2.1६ ७ ६
+[0:36] ee neswign in)
+[0:36] velocities(High;
+[0:36] chanical tenisio! ))
+[0:36] Rechurenre rig
+[0:37] tra
+[0:37] jing ००5“ te
+[0:37] failure to जाई
+[0:37] at ori
+[0:37] is i
+[0:37] =p “ae Contr:
+[0:37] ies(Hi
+[0:37] in hy
