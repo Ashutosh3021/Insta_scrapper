@@ -324,6 +324,17 @@ def is_noise(text):
         or stripped in NOISE_WORDS
 
 
+def explain_exit(rc):
+    """A program killed by a signal returns a negative number on Linux/Mac."""
+    reasons = {
+        -9: "killed by the system - almost certainly out of memory",
+        -4: "illegal instruction - the program was built for a different CPU",
+        -11: "crashed (segmentation fault)",
+        -6: "aborted",
+    }
+    return reasons.get(rc, f"exit code {rc}")
+
+
 def transcribe(wav, whisper, model, lang, threads, on_progress):
     base = [whisper, "-m", model, "-f", wav, "-l", lang, "-t", threads]
 
@@ -337,7 +348,10 @@ def transcribe(wav, whisper, model, lang, threads, on_progress):
     if rc != 0 and re.search(r"unknown argument|invalid argument", err, re.I):
         rc, err, out = stream(base, "stderr", lambda line: None)  # older build: no live progress
     if rc != 0:
-        raise RuntimeError("whisper failed: " + err.strip()[-300:])
+        problems = [l.strip() for l in err.splitlines()
+                    if re.search(r"error|failed|assert|cannot|unable", l, re.I)]
+        raise RuntimeError(f"whisper failed ({explain_exit(rc)})"
+                           + (": " + " | ".join(problems[-2:]) if problems else ""))
     on_progress(1.0)
 
     detected = re.search(r"auto-detected language:\s*(\w+)", err)
@@ -553,150 +567,4 @@ def format_block(index, source, r):
     out += [bar, "", "--- SPOKEN TRANSCRIPT ---"]
     if r["speech"]:
         for s, e, text in r["speech"]:
-            out.append(f"[{fmt_time(s)} - {fmt_time(e)}] {text}")
-    else:
-        out.append(r["speech_note"] or "[no speech]")
-
-    out += ["", "--- ON-SCREEN TEXT (OCR, approximate) ---"]
-    if r["ocr"]:
-        for e in r["ocr"]:
-            span = (f"[{fmt_time(e['start'])}]" if e["start"] == e["last"]
-                    else f"[{fmt_time(e['start'])} - {fmt_time(e['last'])}]")
-            out.append(f"{span} {e['text']}")
-    else:
-        out.append(r["ocr_note"] or "[no on-screen text found]")
-    out += ["", ""]
-    return "\n".join(out)
-
-
-# ----------------------------------------------------------------------------
-# setup checks + main
-# ----------------------------------------------------------------------------
-def pick_model(requested):
-    if requested:
-        return requested
-    cache = Path.home() / ".cache" / "whisper"
-    for name in ("ggml-small.bin", "ggml-base.bin", "ggml-medium.bin"):
-        if (cache / name).exists():
-            return str(cache / name)
-    return None
-
-
-def tesseract_langs(tesseract, wanted):
-    r = run([tesseract, "--list-langs"])
-    have = {l.strip() for l in (r.stdout or "").splitlines()[1:] if l.strip()}
-    use = [l for l in wanted if l in have]
-    missing = [l for l in wanted if l not in have]
-    return "+".join(use), missing
-
-
-def read_links(path):
-    links = []
-    with open(path, encoding="utf-8-sig") as f:
-        for line in f:
-            line = line.strip()
-            if line and not line.startswith("#"):
-                links.append(line)
-    return links
-
-
-def main():
-    try:  # never crash the progress bar on odd characters
-        sys.stdout.reconfigure(errors="replace")
-    except Exception:
-        pass
-
-    ap = argparse.ArgumentParser(description="Links in a txt -> transcript + on-screen text in a txt. No LLM.")
-    ap.add_argument("input", nargs="?", default="links.txt", help="txt file with one link per line")
-    ap.add_argument("-o", "--output", default="transcripts.txt", help="output txt file")
-    ap.add_argument("--model", help="path to a multilingual whisper model (ggml-*.bin)")
-    ap.add_argument("--language", default="auto", help="whisper language: auto, hi, en ... (default auto)")
-    ap.add_argument("--ocr-langs", default="eng,hin", help="tesseract languages, comma separated (default eng,hin)")
-    ap.add_argument("--ocr-interval", type=int, default=None,
-                    help="seconds between OCR frames (default: 1s up to 3 min, 5s up to 20 min, else 10s)")
-    ap.add_argument("--psm", type=int, default=11, help="tesseract page segmentation mode (default 11 = sparse text)")
-    ap.add_argument("--no-ocr", action="store_true", help="skip on-screen text, transcript only")
-    ap.add_argument("--cookies-from-browser", metavar="BROWSER",
-                    help="e.g. chrome - use your browser login for posts that need it")
-    ap.add_argument("--threads", type=int, default=max(1, (os.cpu_count() or 4) // 2),
-                    help="whisper threads")
-    ap.add_argument("--workers", type=int, default=max(1, min(8, os.cpu_count() or 4)),
-                    help="parallel OCR workers")
-    ap.add_argument("--keep-temp", action="store_true", help="do not delete downloaded files")
-    ap.add_argument("--rate-limit-waits", default="120,300,600",
-                    help="seconds to wait before each retry when a site rate-limits the download "
-                         "(default 120,300,600; empty = never retry)")
-    ap.add_argument("--offset", type=int, default=0,
-                    help="number reels starting after this many (used when the list is split into chunks)")
-    ap.add_argument("--total", type=int, default=None,
-                    help="total reels in the full list, for the [n/total] label (used with --offset)")
-    ap.add_argument("--no-header", action="store_true",
-                    help="do not write the 'Transcripts generated' header (used when chunks are merged later)")
-    a = ap.parse_args()
-    a.rate_limit_waits = [int(x) for x in a.rate_limit_waits.split(",") if x.strip()]
-
-    # ---- check tools ----
-    tools = {
-        "yt_dlp": find_tool(["yt-dlp"]),
-        "whisper": find_tool(["whisper-cli", "whisper-cpp"],
-                             [r"C:\whisper\whisper-cli.exe",
-                              r"C:\whisper\Release\whisper-cli.exe"]),
-        "tesseract": find_tool(["tesseract"],
-                               [r"C:\Program Files\Tesseract-OCR\tesseract.exe",
-                                r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"]),
-    }
-    problems = []
-    if not tools["yt_dlp"]:
-        problems.append("yt-dlp not found")
-    if not find_tool(["ffmpeg"]) or not find_tool(["ffprobe"]):
-        problems.append("ffmpeg / ffprobe not found")
-    if not tools["whisper"]:
-        problems.append("whisper-cli not found")
-    a.model = pick_model(a.model)
-    if not a.model or not Path(a.model).exists():
-        problems.append("whisper model not found (put ggml-small.bin or ggml-base.bin in ~/.cache/whisper/)")
-    elif ".en." in Path(a.model).name and a.language != "en":
-        problems.append(f"{Path(a.model).name} is English-only; use the multilingual model (no '.en') for Hindi")
-    if problems:
-        sys.exit("Setup problem:\n  - " + "\n  - ".join(problems))
-
-    tools["ocr_langs"] = ""
-    if a.no_ocr:
-        pass
-    elif not tools["tesseract"]:
-        log("WARNING: tesseract not found - on-screen text will be skipped.")
-    else:
-        langs, missing = tesseract_langs(tools["tesseract"], a.ocr_langs.split(","))
-        if missing:
-            log(f"WARNING: tesseract language pack missing: {', '.join(missing)} "
-                "(install it, e.g. tesseract-ocr-hin / tesseract-lang)")
-        if langs:
-            tools["ocr_langs"] = langs
-        else:
-            log("WARNING: no usable tesseract language - on-screen text will be skipped.")
-            tools["tesseract"] = None
-
-    if not Path(a.input).exists():
-        sys.exit(f"Input file not found: {a.input}")
-    links = read_links(a.input)
-    if not links:
-        sys.exit(f"No links found in {a.input}")
-
-    total = a.total or (a.offset + len(links))
-    log(f"{len(links)} link(s) to process. Model: {Path(a.model).name}\n")
-    with open(a.output, "w", encoding="utf-8-sig" if not a.no_header else "utf-8") as out:
-        if not a.no_header:
-            out.write(f"Transcripts generated {datetime.now():%Y-%m-%d %H:%M}\n")
-            out.write(f"Source list: {a.input}   Videos: {len(links)}\n\n")
-        for i, link in enumerate(links, 1):
-            n = a.offset + i
-            log(f"[{n}/{total}] {link}")
-            result = process(link, a, tools)
-            out.write(format_block(n, link, result) + "\n")
-            out.flush()  # progress is saved after every video
-            log(f"  -> {result['status']}\n")
-    log(f"Done. Output: {a.output}")
-
-
-if __name__ == "__main__":
-    main()
+ 
