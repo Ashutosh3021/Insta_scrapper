@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[219] https://www.instagram.com/reel/DbQxN6XMGz8/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I can't fix those lies
+[0:02 - 0:06] Oh baby, baby, run, love, I'm running to you
+[0:06 - 0:08] You won't see me cry
+[0:08 - 0:10] I'm hiding inside
+[0:10 - 0:13] My heart feels like I'm smiling for you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:11] -_ जी wa

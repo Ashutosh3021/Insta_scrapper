@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[710] https://www.instagram.com/reel/DQB724Yk63n/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] She's got both hands
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] lal
+[0:03] 13 किला
+[0:12] aly
+[0:14] |g है a

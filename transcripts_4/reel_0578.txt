@@ -1,0 +1,71 @@
+# model: ggml-large-v3
+========================================================================
+[578] https://www.instagram.com/reel/DTiklnAjK1R/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I ain't feel like this in a long time
+[0:05 - 0:08] I ain't feel like this in a long time
+[0:08 - 0:11] I ain't had shit in a long time
+[0:11 - 0:15] Just I feel like this, it took a long time, yeah
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fist soyou | 8 F
+[0:00] ie | de
+[0:01] Just so.you kno
+[0:01] fll
+[0:02] * ae fam
+[0:02 - 0:03] ~ Ifyou add/anew skill based ame
+[0:02 - 0:03] <= movementin your routine =:
+[0:02 - 0:03] | (Squat, Bench, Dead’s, Oly its)?!
+[0:04] ian
+[0:04] ndinated inthe)
+[0:04 - 0:05] ment as fast as poss
+[0:05] पीलिया
+[0:05] ace
+[0:05] movem
+[0:05] ing Coordinated
+[0:06] 4 them firs
+[0:06] uli be ideal
+[0:06] है ri
+[0:07] gaining them first,
+[0:07] ५ aul be ideal Ei I
+[0:08] Fatig
+[0:08] hasaldin a ता
+[0:08] THe itionadaption) -
+[0:09] Fatiquelha
+[0:09] adit
+[0:09] cvintentenence
+[0:09] in. adaption)
+[0:09] ail
+[0:09] है कि
+[0:09] at g
+[0:10] AWS
+[0:10] Fatiguehasiadi
+[0:10] witha
+[0:10] ordinationfadaption
+[0:10] प्र
+[0:11] lters the |
+[0:11] movement
+[0:11] fin]
+[0:11] है 27
+[0:11 - 0:12] a iced
+[0:12] alters’
+[0:12] ay the movementis:
+[0:12] bringip
+[0:13] हरे
+[0:13] । alters theway ॥0॥1010॥01/ 5
+[0:13] gipracticed
+[0:13] ey ae
+[0:14] 4 inanunfatigued state]
+[0:14] tions)
+[0:14] PMI
+[0:14] nes
+[0:14 - 0:15] ination
+[0:14 - 0:15] 32766
+[0:15] ed stat
+[0:15] would
+[0:15] 108]
+[0:15] int

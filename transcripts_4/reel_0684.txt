@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[684] https://www.instagram.com/reel/DQrTc9CDHqI/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] dumbest advice
+[0:00 - 0:02] _ you'velheand so far
+[0:01] 1९७
+[0:01 - 0:02] What's the most
+[0:03 - 0:04] iillstart
+[0:05] W EATERAL iG
+[0:05] की Um Zz
+[0:06] Wie 2
+[0:06] “cain
+[0:07 - 0:08] | RAIS
+[0:08] क्र
+[0:09] 10 रे
+[0:09] olden
+[0:10] Wi) AN
+[0:10] af 4
+[0:10] कुक
+[0:11] “हाथ
+[0:11] अर न:
+[0:12] oldie’
+[0:12] जनक
+[0:13] 15 J 5
+[0:13] y हे

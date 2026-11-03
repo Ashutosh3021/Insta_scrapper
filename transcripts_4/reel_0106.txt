@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[106] https://www.instagram.com/reel/DdecYUGsc0l/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Now every single day, I just wanna hear you say
+[0:04 - 0:07] I'm so lucky, lucky
+[0:07 - 0:09] I'm so lucky, lucky
+[0:09 - 0:11] I'm so lovey, lovey
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] know how but you
+[0:00] eal i
+[0:00] fferent ee
+[0:00 - 0:03] ‘How to know,
+[0:00 - 0:03] ) lfithe cuts going wel
+[0:00 - 0:03] ORTAS NEE? ५०
+[0:01] LoF
+[0:02] 0115 NEE! LO’
+[0:04] fis:
+[0:04 - 0:09] 19 to naufilé
+[0:04 - 0:10] alinaib
+[0:04 - 0:11] i don’t know how but you
+[0:04 - 0:11] look different * *
+[0:05] lying to naufil
+[0:05] aib
+[0:05] aan)
+[0:05] "काका
+[0:06] are
+[0:07] thir
+[0:07] hic
+[0:08] to nau’
+[0:08] ral
+[0:08] 1. wy
+[0:08] Sane
+[0:09] ९ के
+[0:10] 19 to 1901६
+[0:11] 19 to naufil8alinaib
+[0:11] ees

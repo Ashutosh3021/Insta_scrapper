@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[986] https://www.instagram.com/reel/C_FljcuNb2u/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Boom, hell nah
+[0:01 - 0:04] But you got no confidence like me
+[0:04 - 0:07] Really wanna run around and chase me
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] nce from
+[0:01] Being lea
+[0:03] ae | La
+[0:03] Being shredded)
+[0:03] a ade
+[0:05] hel!
+[0:06] ACh)
+[0:06] Aca

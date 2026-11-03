@@ -1,0 +1,148 @@
+# model: ggml-large-v3
+========================================================================
+[753] https://www.instagram.com/reel/DOoYrlMkxgS/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] the front raise is not just a front delt exercise a lot of people think that the front raise is just
+[0:04 - 0:08] an exercise for the front delt but that's just not how it works you see the front delt is not
+[0:08 - 0:13] just the only shoulder flexure we have we have the clavicular pecs we have the anterior and posterior
+[0:13 - 0:18] supraspinatus and then we have front delts now that's just not it if we have a look at the
+[0:18 - 0:21] internal movement arm length data we can see that the front delts have the best leverage from here
+[0:21 - 0:27] to here and the upper pecs have the best leverage from here to here now that's just not it if we
+[0:27 - 0:32] have a look at the emg data on a bench press and seeing what grip causes the most amount of upper
+[0:32 - 0:36] peck activation it's a closed grip because the closed grip has the most amount of shoulder flexion
+[0:36 - 0:42] that's why we see more upper peck activation on a closed grip you can even see that the flat press
+[0:42 - 0:46] and the inclined press have almost similar amount of activation for the upper peck this is purely
+[0:46 - 0:51] because they both are being done in a closer grip being in a closer grip means you're going to get
+[0:51 - 0:55] more shoulder flexion having more shoulder flexion means that we are going to have more upper peck
+[0:55 - 0:57] activation so yeah the front raise is not just a
+[0:57 - 0:57] front delt exercise it's just a front delt exercise
+[0:57 - 1:01] exercise it's an upper back exercise as well so yeah hope that was for more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] २७)|५
+[0:00] Frome
+[0:00 - 0:01] ६135
+[0:00 - 0:01] front raise is no’
+[0:01] RON
+[0:01] ISES
+[0:01] front
+[0:03] 11101 1015
+[0:03] 1] iy
+[0:04] ise A]
+[0:04] ust fi
+[0:04] mda
+[0:04] nt rai
+[0:04] Lal
+[0:05] + [ pis
+[0:05] iINotjust fronts das
+[0:05] a । rai
+[0:05] ae 1
+[0:05] ‘exercise for
+[0:05] jelt
+[0:06] उरी यम असम
+[0:06] that's just not
+[0:07] you see
+[0:08] — जाल
+[0:08] it delt is not
+[0:09] ee ५.
+[0:09] int 6९1६ is not ju:
+[0:09] inly shoulder
+[0:10] ive we
+[0:11] SWE have we have the.
+[0:11] ivicular pecs
+[0:12] e ha
+[0:12 - 0:13] fe the anterior and
+[0:13] rior supraspinati
+[0:14] set
+[0:15] we have front
+[0:16] w thi
+[0:17] ig mn
+[0:17] have
+[0:18] Moment arms ofthe muscles crossing the anatomical shoulder
+[0:18] actA ase 4 a edt
+[0:18] Abstract
+[0:18] have a look at the
+[0:18] internal moment
+[0:19] oft
+[0:20] in seé th: that the fr
+[0:21] See that the rage
+[0:21] @ the best leverage
+[0:22] Ls aw:
+[0:22] i ol
+[0:22] Sac
+[0:22] 0-30) पाक
+[0:22] of/shoulder
+[0:22] from
+[0:22 - 0:23] fis 4
+[0:23] = Sig
+[0:23] ou oe तक
+[0:23] 0-3010६७॥६६:
+[0:24] ae >प+
+[0:24] 7S pecs have'the
+[0:24] leverage
+[0:25] 2m fee.
+[0:25] Pix
+[0:25] att
+[0:25] ies
+[0:25] 30-120 degrees ह्ह्ल
+[0:25] कस, 11621 0॥॥|
+[0:26] w thai
+[0:28 - 0:29] 7521] ave a look at the EMG
+[0:29] हूं
+[0:29] ta on a bench
+[0:30] “| ody
+[0:30] and seeing
+[0:30 - 0:32] Effect of 12 Variations of the Bench
+[0:30 - 0:32] Press Exercise on the EMG A
+[0:30 - 0:32] ity
+[0:30 - 0:32] of Three Heads of the Pectoralis
+[0:30 - 0:32] Major
+[0:31] whai
+[0:31 - 0:32] wh: ‘grip causes the most
+[0:32] है. 1 0 के
+[0:32] mount of upper PEI
+[0:34] because
+[0:35] hile
+[0:36] 2 हे मर मे औे आर के मे
+[0:36] fas the most amount of
+[0:36] shoulder flexio!
+[0:37] प्र
+[0:38] hat: why we see mere
+[0:39] 9 " रकम 3 why we see more
+[0:39] per back activatior
+[0:41] a close grip you can ev
+[0:41] See that the
+[0:42] 20.00:
+[0:42] 1९९
+[0:42 - 0:43] 60.00"
+[0:42 - 0:43] HPC HPW HSC HSW
+[0:43] ‘i ee
+[0:43] 80.00:
+[0:43] end) t
+[0:43] incline p
+[0:43] BSS)
+[0:43] 1९८
+[0:44] inf
+[0:45] aff
+[0:45] cf ~ similar amount
+[0:45] of activation
+[0:46] oo ie es back
+[0:47] sah they
+[0:48] lone in
+[0:48 - 0:49] ¢ they both are being
+[0:49] हर्ट
+[0:49] done in a closer grij
+[0:51] aff
+[0:51] i a you're gonna get
+[0:53] 1g more shoulder
+[0:53] 1010
+[0:54] jave
+[0:54] is that we are goil
+[0:57 - 0:58] ‘the front raise is not jueta
+[0:58] front delt exercise
+[0:59] ho 4
+[1:00] 1. Le

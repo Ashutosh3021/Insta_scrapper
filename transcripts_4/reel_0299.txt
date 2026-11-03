@@ -1,0 +1,196 @@
+# model: ggml-large-v3
+========================================================================
+[299] https://www.instagram.com/reel/DZjr041MvhA/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Guys, so this is the difference between someone who's like 13-14% body part and like single-digit, right? Single-digit.
+[0:08 - 0:10] We don't talk about that.
+[0:10 - 0:11] Look at this.
+[0:11 - 0:12] And look at this.
+[0:12 - 0:20] This is like, holy shit. This is like insane.
+[0:20 - 0:28] People underestimate like how lean they are, you know.
+[0:28 - 0:32] But like, this is obviously a lot of things may be affecting his look.
+[0:32 - 0:39] I mean, your water intake, your sodium intake, your water retention rates, etc.
+[0:39 - 0:41] Your balance is there now?
+[0:41 - 0:42] Yeah, it's just fat.
+[0:42 - 0:48] So, yeah, that is just the difference between 14% and maybe 7-ish percent.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 42041 ॥ 1 0 0 01
+[0:00] ody
+[0:00] Wien
+[0:00] Guys, so this is the
+[0:00 - 0:01] difference
+[0:01] SS “How
+[0:01] हि J
+[0:01] 4 so thisi
+[0:01 - 0:02] digit
+[0:01 - 0:04] 1470
+[0:02 - 0:04] Someone who's like 13
+[0:02 - 0:05] How
+[0:02 - 0:05] 14% body. fat
+[0:04] em single clight
+[0:04] ait
+[0:04] sil
+[0:04] श्र
+[0:05] 1119 1420
+[0:05] and
+[0:05] digit
+[0:05] PoE 4
+[0:05] “atv
+[0:05] ७») बे
+[0:05] ० tae
+[0:05] Someone ४७४॥०'5॥॥८6 13
+[0:06] MEY
+[0:06] २०५८
+[0:06 - 0:08] _and like single digit,
+[0:06 - 0:08] right?.4
+[0:07] moush
+[0:07] if 5
+[0:08] igit,
+[0:08] 3 od
+[0:09] lie
+[0:09 - 0:10] We don't talk abgut that
+[0:10] Dili
+[0:11] 284
+[0:11] hy i
+[0:11] 2223.
+[0:12] <a) And look at th
+[0:13] fli
+[0:13] 2222.
+[0:13] WEG
+[0:14] Po ~ a
+[0:14] » ५.५७ ta
+[0:15] XN 7
+[0:15] Pop
+[0:15] sii
+[0:16] Poe
+[0:16] 777
+[0:16] Ape
+[0:16] Holy shit
+[0:16 - 0:19] sie
+[0:17] Wie
+[0:17] hme
+[0:17] This is like]
+[0:18] Pea
+[0:18] dpe
+[0:18] anv
+[0:18] 3208०
+[0:18] “2 बा
+[0:19] Ane
+[0:19] Fame!
+[0:19] Abe
+[0:20] Pin
+[0:20] 140
+[0:20] ontent
+[0:21] Puy
+[0:21] ts शक
+[0:21] 2 aa दमन
+[0:21] Eenere
+[0:22] Eee
+[0:23] हैः
+[0:23] Pee
+[0:23] क्र
+[0:23] v se
+[0:23] bs oe
+[0:24] aay
+[0:24] ople underestimate
+[0:24 - 0:25] like.. ६
+[0:25] fir
+[0:25] Zens
+[0:25] _People und
+[0:25] erestimate
+[0:26] Pin
+[0:26] aes
+[0:26] Zener
+[0:26] -Leanness
+[0:27] 264
+[0:27] = wee >
+[0:27] ie? SX
+[0:27] -Howjlean they are
+[0:27] know:
+[0:28] = ee 1!
+[0:29] Pep
+[0:29] But like, thi
+[0:29] ory
+[0:29] alot of th
+[0:29] s maybe
+[0:29 - 0:32] 4 affecting his
+[0:30] ile
+[0:30] 2221.
+[0:30] Sie
+[0:30] it like, this is:o
+[0:30] ७ बाई
+[0:30] Laie)
+[0:30 - 0:32] a lot of things maybe)
+[0:31] Ape:
+[0:31] his
+[0:31 - 0:32] ie But like, this is: obviously
+[0:32] ४ कई
+[0:32] 48, y~
+[0:33] है J
+[0:35] eee,
+[0:35] waterjr I rates
+[0:35] B24]
+[0:35 - 0:36] -Yourh water inta
+[0:35 - 0:39] your
+[0:35 - 0:39] sodium intake,
+[0:36] <j re
+[0:36] औीडक।
+[0:36] keSyour
+[0:36] water re
+[0:36] fratesietc
+[0:36] है >> 439
+[0:37] शी कि
+[0:37] है धर
+[0:37] wy ८
+[0:37 - 0:38] \ wate
+[0:37 - 0:38] Gintakey
+[0:37 - 0:39] water retention ratesietc
+[0:38] 2 है नम
+[0:38] भर 1
+[0:39] Nod
+[0:39] -Your water inta
+[0:39] ke, your
+[0:39] hal
+[0:39 - 0:41] Zoned
+[0:40] ५४7
+[0:40] कै have y
+[0:40] our bal
+[0:40] “now
+[0:41] Tee हक
+[0:41] 8600 ७
+[0:42] s: Okay ,
+[0:43] (jal
+[0:43] ५22
+[0:43] “Wigs
+[0:43] SSsif
+[0:43] So, 2 thatisjjust
+[0:43 - 0:45] and maybe 7-ishipercent
+[0:43 - 0:47] -— difference between 14%
+[0:44] stig
+[0:44] है थे:
+[0:44] difference 0200४221॥4%
+[0:44 - 0:47] So, yeah, thatlisijjust
+[0:45] Pe (i
+[0:45] कल्कि —
+[0:45] Ish
+[0:45] ०३४८
+[0:46] 3243 2
+[0:46] So, yeah, (॥715103
+[0:46] and | 7
+[0:46] ishjpejcent
+[0:47] MO sh
+[0:47] 7 Ww
+[0:47] a t\ 23
+[0:47] cent
+[0:47] and maybe
+[0:47] ish[pex
+[0:48] हि eah that fis uss
+[0:48] cig Ines betwy
+[0:48] n14%
+[0:48] ff maybe
+[0:48] ish Vy

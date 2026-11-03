@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[182] https://www.instagram.com/reel/DcF2KhWTdyG/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Is —3
+[0:00] taiticool that
+[0:00] Ree,
+[0:01] Fad
+[0:01] We Me
+[0:01] isin os
+[0:01] it 2
+[0:01] riot
+[0:01 - 0:03] You.can really
+[0:01 - 0:03] Ow experi
+[0:02] You can ere
+[0:02] ४५४
+[0:02] Tell
+[0:02] how experien
+[0:02 - 0:03] Someone is in lifting)
+[0:03] 1th
+[0:03] ellh
+[0:03] May
+[0:03] a #*कै
+[0:04] Bysthe way,
+[0:04] rform
+[0:04] Lor
+[0:04 - 0:05] [Fat pulldowns/pullups
+[0:05] fe (ही
+[0:05] Iihey perform

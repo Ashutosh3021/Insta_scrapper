@@ -1,0 +1,72 @@
+# model: ggml-large-v3
+========================================================================
+[95] https://www.instagram.com/reel/DdtvvyeMAG2/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Taking into account all the science based lifting activities which we go over, this
+[0:05 - 0:10] machine probably is the best machine out there.
+[0:10 - 0:19] It has a Bluetooth D-handle, it has an elbow pad, it is seated, it has a feet support.
+[0:19 - 0:19] Shits go to blank!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] i ge
+[0:00] का im] y
+[0:00] take into
+[0:00 - 0:19] Most optimal machine
+[0:00 - 0:19] For the side delts
+[0:01] BSS
+[0:01] Ihe
+[0:01] 4 ll y
+[0:01] take into account of all
+[0:02] ves
+[0:02 - 0:03] lifting
+[0:03] linea >! mI
+[0:03] iy 7
+[0:03] activities which
+[0:04] vie
+[0:04] over,
+[0:05] [ll क्र
+[0:05] over, this
+[0:06] हटाया
+[0:06] Lal कै
+[0:07] 5 -ऋधाकन--ममक-..
+[0:07 - 0:08] =) क्र
+[0:08] A बह
+[0:08] is the best
+[0:09] 5am ey
+[0:09] is the best machine out
+[0:09] there
+[0:10] गति
+[0:10] cli
+[0:10 - 0:12] Ithas a
+[0:11] SS e%s
+[0:11] It has a Bluetooth ६
+[0:11] handle
+[0:12] lies "
+[0:12] wit
+[0:13] —— पान
+[0:13] i, pt
+[0:13] एयर ए्प्प-
+[0:13] alles
+[0:13] It has a elbow
+[0:14] en ee
+[0:14] eo by |
+[0:15] 2189] ]
+[0:15] है | L
+[0:15] It is seated
+[0:16] ages"
+[0:16] कं Be:
+[0:16] Has
+[0:17] Has a feed support
+[0:18] ore
+[0:18] An E: ©
+[0:18] 2105 |
+[0:18] Vom ० 4
+[0:18 - 0:19] Just go
+[0:19] क्र
+[0:19] SSS
+[0:19] Fol Sitendl
+[0:19] ir Ts

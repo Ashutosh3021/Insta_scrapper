@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[484] https://www.instagram.com/reel/DVq6RjLDGfY/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] One of the biggest things which you can do to lower your cortisol is stop worrying about things which are not in your control, man.
+[0:08 - 0:18] A lot of those things which you guys are worrying about most of the time is not in your control of the stress which you guys are taking are coming from things which are not in your control.
+[0:18 - 0:26] Start worrying about things which are in your control, which you can do to fix which you can make a positive impact on.
+[0:27 - 0:31] And if there is something which you cannot do, why even worry about it, man?
+[0:31 - 0:33] Anyways, hope that I saw you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ee Contisol
+[0:00] of the —
+[0:01] yn ‘tolowen
+[0:02] pr ‘How'tolower,
+[0:02] youcando
+[0:03] Howitolowen
+[0:03] you can do to lower
+[0:03] cortisol is
+[0:03] e जी
+[0:04] pos
+[0:06] a 7 oe
+[0:07] one
+[0:07] Control
+[0:10] “The
+[0:11] you guys are wo!
+[0:11] about most
+[0:13] not in your cont;
+[0:14] the str
+[0:21] things which are
+[0:21] tying
+[0:23] Ps i
+[0:23] क्र
+[0:26] Which you cai we... =
+[0:26] positive impact
+[0:27] bout and if there
+[0:29] OF a
+[0:33] हैः

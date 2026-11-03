@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[159] https://www.instagram.com/reel/Dci9ee8M7NW/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] chat listen up we got a new low calorie sauce with us today and this is called the peri peri
+[0:06 - 0:15] nando sauce this thing has about nine calories per serving and per serving this is 20 grams
+[0:15 - 0:20] let me show you a reference of what 20 grams look like this is 20 grams you see that's a lot
+[0:20 - 0:26] that's a lot guys just a warning if you have a bad spice tolerance don't don't don't try this
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] minis)
+[0:00 - 0:01] mis one is spicy,
+[0:00 - 0:03] New sauce |
+[0:01] We got anew
+[0:02 - 0:03] Tihis one is spicy,
+[0:02 - 0:03] We got anew low calorie
+[0:03] sauce with us today
+[0:06] [219
+[0:06] tSIPe hi
+[0:06] pari
+[0:06] peri Nando
+[0:07] This
+[0:07] ney
+[0:07 - 0:08] is peri peri sauce}
+[0:08] This thinghtalle
+[0:08] L™ a8
+[0:09] Ved -f
+[0:10 - 0:12] calories oy a y
+[0:11] calories peg ix
+[0:11] P “Sly
+[0:13 - 0:14] And per serving thisis
+[0:14] wf a
+[0:14] रा हे
+[0:15] grams
+[0:16] Let me show youa
+[0:18] | ach
+[0:19] ae, 22
+[0:19] bi oe
+[0:20] war
+[0:22] guys just
+[0:24] have id

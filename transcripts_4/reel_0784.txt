@@ -1,0 +1,263 @@
+# model: ggml-large-v3
+========================================================================
+[784] https://www.instagram.com/reel/DNa9ZeAsHC0/
+STATUS: OK
+DURATION: 1:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] weekly volume is not a good metric to calculate stimulus now a lot of people think that if you do
+[0:04 - 0:09] x amount of weekly volume that is the amount of stimulus you got within a given week but that is
+[0:09 - 0:14] not how things work now you have to understand one thing that each subsequent set which you do
+[0:14 - 0:18] is going to provide lesser and lesser and lesser amount of stimulus now if we take that into
+[0:18 - 0:24] consideration and we train one set done three times a week and three sets done one times a week
+[0:24 - 0:29] on paper the weekly volume for both of these scenarios are going to be same it's three sets
+[0:29 - 0:33] but which is going to be causing more muscle growth is going to be the one which is done at
+[0:33 - 0:38] a higher frequency similarly if we did the same thing by doing three sets done three times a week
+[0:38 - 0:44] and compared it to doing nine set one times a week which is going to be causing more growth on paper
+[0:44 - 0:48] you might think oh nine sets amount of stimulus but you're forgetting one thing that each
+[0:48 - 0:52] subsequent set which you do is going to be providing you with lesser and lesser and lesser
+[0:52 - 0:54] amount of stimulus which means
+[0:54 - 0:59] the ninth set is probably providing you with very less stimulus but if we compare that to
+[0:59 - 1:04] the high frequency group we are able to get these more first few sets in which means that we are
+[1:04 - 1:10] going to be providing overall more stimulus this is why the metric of weekly volume is
+[1:10 - 1:13] useless for muscle growth so yeah
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ich olume
+[0:00] 1508 Useless
+[0:00] Kly volume
+[0:00 - 0:01] Metric
+[0:01] Week!
+[0:01] is alu lusel
+[0:01] [31113. ४
+[0:01 - 0:02] Wolume)
+[0:01 - 0:02] तु! volume is not agi
+[0:02] Weel
+[0:02] ihe
+[0:02] Isa
+[0:02] seless:
+[0:02] Meth
+[0:02] ric to calculate
+[0:03] Pde
+[0:04] Bry
+[0:04] ifyou do
+[0:05] ju do X amount
+[0:05] eekly
+[0:07] is the amount of
+[0:07] stimulus
+[0:08] within a given
+[0:09] o ee.
+[0:10] at is not how things
+[0:12] ihe
+[0:13] 1] ie
+[0:13] fia
+[0:13] ich subsequent
+[0:14] erpemee onc.
+[0:14 - 0:15] hyou do is going
+[0:15] vide lesser
+[0:15] » MPP «cn,
+[0:16] 5 Bee ॥.
+[0:17] nd lesser amount of |
+[0:17] stimulus
+[0:20] 3x alwei
+[0:20] 1xfahw,
+[0:20 - 0:21] 3 setsidone)
+[0:20 - 0:21] e train one set
+[0:21] 1 seth
+[0:21] 1x ayweek
+[0:21] ree times
+[0:21 - 0:23] one:
+[0:21 - 0:34] 3x aliweek
+[0:22] 1 ahd
+[0:22] 3 sets) done’
+[0:22] WSS
+[0:23] isefle
+[0:23] 3 5६15 ४०॥६€
+[0:23] wack
+[0:23] ing
+[0:23 - 0:24] hree sets done
+[0:24] 1 seem
+[0:24] | 3 5615 Cons
+[0:24] Aun
+[0:24] times a week
+[0:24 - 0:30] Ix fahweekae
+[0:25] B aiweek
+[0:25] BSS Cone
+[0:25] 1x jaaweeke
+[0:25 - 0:26] | 156
+[0:26 - 0:27] ee the weekly
+[0:26 - 0:30] 1 setidone
+[0:26 - 0:34] | 3 setsidone
+[0:27] th of these scet
+[0:28] | 3 sets) Ph
+[0:28] me उ
+[0:28] joing to
+[0:29] 2 छः
+[0:29] feral
+[0:29] joing to be sami
+[0:29] three sets
+[0:29 - 0:32] 1 se Cone
+[0:30] 931
+[0:30] 3५ aiweek
+[0:30] Ine
+[0:31] 3 5615 ७०॥८
+[0:31] 1248॥४४€८॥७
+[0:31] but/which is going
+[0:31] ig more
+[0:32] 1५1
+[0:32] joing
+[0:33] il self
+[0:33] one,
+[0:33] 1209॥४४€€।
+[0:33] h is done
+[0:34] 1 sete don
+[0:34] Ixfahweek
+[0:34] ich is'done at a hi
+[0:34] frequency
+[0:35] पु va
+[0:35] 119 a if you did
+[0:36] ing
+[0:37] 3268 week
+[0:37] jing three sets
+[0:37] ree
+[0:37 - 0:40] 3 sets}
+[0:38] 3 sets done)
+[0:38] aid ane
+[0:38 - 0:41] 3xfalweeks
+[0:39] 1] कै
+[0:39 - 0:40] [compared it to d
+[0:40] [1919
+[0:40] Gloy
+[0:40] ण 05564
+[0:40] हि न्यू
+[0:40] t one
+[0:40 - 0:50] leeks
+[0:41] oncefaiweeks
+[0:41] Ui 2
+[0:41] ise
+[0:41 - 0:42] 9 5615 done’
+[0:41 - 0:56] 9 setsidone’ |
+[0:42] [39 7330
+[0:42] 3 oa
+[0:42] is going to be
+[0:43] IEC}
+[0:43] fayweeks
+[0:43] “Fv 2
+[0:44] ‘aes
+[0:44] | hel
+[0:44] ashi r rite
+[0:44 - 0:45] r you might thi
+[0:44 - 0:50] ongefajweeks
+[0:45] 9 sets
+[0:45] oncejaiweek:
+[0:45] Nee
+[0:45] ७७०७० salen
+[0:45 - 0:46] Clone
+[0:45 - 0:49] 5 done)
+[0:46] 9se
+[0:46] 528
+[0:46] er you might thi
+[0:46] S amount of |
+[0:46] wrelrne«
+[0:47] rou're forgetting
+[0:48] 3xyalweek
+[0:48] that
+[0:48] ach
+[0:48] MIDE rs.
+[0:49] [39 6 00330
+[0:49] 5280
+[0:49] 7 ee
+[0:49 - 0:50] 9 se
+[0:50] Clone
+[0:50] 4 था इ # हब ऋ 3
+[0:50 - 0:51] ich you do is going
+[0:51] (०039 ह 07330
+[0:51] iding you with
+[0:51] ashe.
+[0:51 - 0:53] 3xfahweeks
+[0:52] done,
+[0:52] week
+[0:52] [39 6 ४7330
+[0:52] jh Ay
+[0:52] Cad
+[0:52] ser and
+[0:52] पी सकल
+[0:53] awadk
+[0:53] lesser and lesser
+[0:53] of stimulus
+[0:54] 3x alweek
+[0:54] (2199 ह 72216
+[0:54] कला
+[0:54] which means
+[0:54] sro» rem
+[0:55] eS WE
+[0:55 - 0:56] 3 sets’
+[0:55 - 0:56] 9th set is prob:
+[0:55 - 1:00] weeks
+[0:56] १५4३०
+[0:56] oviding you wit!
+[0:56 - 0:58] lalweeks
+[0:57] 9 3615 0012!
+[0:57] oncevaiweek
+[0:57] ‘pat
+[0:57] less stimulus
+[0:58] Ssascone
+[0:58 - 1:00] done,
+[0:59] 9 sets
+[0:59] ne a y
+[0:59] igh
+[0:59 - 1:00] ‘we compare tl
+[0:59 - 1:01] on¢efalweeks
+[0:59 - 1:07] 7 3 sets done
+[1:00] 9 5615
+[1:00] Clon
+[1:00] awesk
+[1:00] igh frequency
+[1:01] ire able to
+[1:01 - 1:02] क्र
+[1:01 - 1:02] श्र
+[1:01 - 1:06] 3x ahweek
+[1:02] oncefalweekt
+[1:02] BAe
+[1:02] re first
+[1:02 - 1:03] re able to get tl
+[1:03] 3xjalweeks
+[1:03] one
+[1:03] aweak
+[1:03] २26
+[1:03] re first few set
+[1:04] one lalwicel ।
+[1:04] लक a
+[1:04] means that
+[1:05] LOT
+[1:05] once} armrests
+[1:05] viding
+[1:06] १45
+[1:06] viding overall
+[1:07] 9 5615 done’
+[1:07] oncefalweekas
+[1:07] Recs overall
+[1:07] stimulus
+[1:08] joutsinequen
+[1:08] fas)
+[1:08] why the
+[1:08 - 1:10] weekilyavolume)
+[1:08 - 1:11] iS usdless
+[1:09] eed
+[1:09] Nat
+[1:09 - 1:10] why the metri:
+[1:09 - 1:13] withoutsirequency)
+[1:10] ithoutwfnequencys
+[1:10] 15.2]
+[1:10] ly volume is u:
+[1:11] jon lyaviolume)
+[1:11] 409
+[1:11] uscle
+[1:12] <lYAVOLU Mme)
+[1:12] Withouttt
+[1:12] 161 20
+[1:12] fs usalsss
+[1:12 - 1:13] "t muscle growth so
+[1:13] volume)
+[1:13] jope that was for

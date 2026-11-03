@@ -1,0 +1,557 @@
+# model: ggml-large-v3
+========================================================================
+[395] https://www.instagram.com/reel/DXcDJdPDP5s/
+STATUS: OK
+DURATION: 2:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] i'm going to be going over five different exercises for the chest and i'm going to be
+[0:03 - 0:07] ranking them from which one is good and which one is not number one is everyone's favorite exercise
+[0:07 - 0:12] and also my favorite as well and it's the bench press now this is very close to my heart and we
+[0:12 - 0:17] also have correlation data showing that people who have a bigger bench press also tend to have
+[0:17 - 0:21] bigger pecs so there are few drawbacks to this specific exercise number one being it is not just
+[0:21 - 0:27] a strength based exercise but is also a skill based exercise another big problem here is that
+[0:27 - 0:32] it's not that stable compared to a low incline smith press or a machine press so for that i will
+[0:32 - 0:37] be putting it to the a tier number two on the list is pec fly now this is not just a single joint
+[0:37 - 0:43] exercise it is highly loadable and is highly stable and again it has a lower barrier of entry
+[0:43 - 0:48] compared to a bench press so for that i will be putting it to the s tier number three on the list
+[0:48 - 0:54] is going to be an incline dumbbell press now honestly this is an exercise which 99% of people
+[0:54 - 0:57] fuck up on ideally what they do is they flare out their elbow
+[0:57 - 1:01] too much and they bounce off their reps that's not what you want to do here ideally what you
+[1:01 - 1:06] want to do is we want to tuck in our elbows and press up and not bounce off the reps now what
+[1:06 - 1:11] this tucking in essentially does is it focuses more on this shoulder flexion aspect which is a
+[1:11 - 1:16] function of your upper pec means you can bias the upper pecs more this exercise also has the same
+[1:16 - 1:21] downsides as the bench press it is also a skill based movement and there is a stability factor
+[1:21 - 1:26] which is missing here overall this also goes in the a tier number four on the list is going to be
+[1:27 - 1:31] an incline dumbbell press now this exercise is pretty much accessible to everyone you can even
+[1:31 - 1:35] do it in your house right now this is a closed chain movement and it is pretty stable as well
+[1:35 - 1:40] but there is only one downside to this specific movement and that is the fact that it is not that
+[1:40 - 1:45] loadable compared to the other exercises which i just showed you and for that i will be putting it
+[1:45 - 1:50] to the d tier number five on the list is a machine press now similar to the pec fly this is also
+[1:50 - 1:57] highly loadable highly stable and the entry barrier is pretty much non-existent so it would go on the s
+[1:57 - 2:01] actually depends on this one specific factor and that is the resistance profile of that given
+[2:01 - 2:05] machine there are some chest machines out there which are hardest at the top which means it's
+[2:05 - 2:10] going to be biasing more of the triceps rather than the chest and there are some machines which
+[2:10 - 2:14] are going to be hardest in the bottom which means it's going to be biasing the pecs more
+[2:14 - 2:18] than the tricer ideally when we are picking a machine we want to pick a machine which is
+[2:18 - 2:22] hardest at the bottom not at the top so if you have a machine which is hardest at the top
+[2:22 - 2:27] it is going to go in the a tier if you have a machine which is hardest at the bottom
+[2:27 - 2:28] it is going to go in the S tier.
+[2:28 - 2:29] Anyways, that is it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] lim\going
+[0:01] न ia 9
+[0:01] hull
+[0:01] Jail
+[0:01] थी हि
+[0:01] VAN |
+[0:01] Ny bol,
+[0:01] rye
+[0:01] esl
+[0:01] We 4
+[0:01] yee
+[0:01] Ness
+[0:02] Lit
+[0:02] (ORTAS NEED LOVE
+[0:02] ithe
+[0:03] r हुआ
+[0:03] goingtobe ७
+[0:03 - 0:07] fORTAS NEED Lo
+[0:04] fORTAS 4 LOVE
+[0:04] going to be ranking them
+[0:04] from which one
+[0:05] which
+[0:05] and
+[0:06] ५. कक का
+[0:06] itt
+[0:06] (08118 NEED LO
+[0:06 - 0:07] ‘ TONE
+[0:07] oo है|
+[0:07] one is everyo
+[0:07] favorit
+[0:08] [ORTAS NEED LOVI
+[0:08] Iso
+[0:08] " anda
+[0:09] aa (luk
+[0:09] Eel?
+[0:09] an 4
+[0:09] Pewee if
+[0:09] te af
+[0:10] cr iz
+[0:10] wll
+[0:10] Tv, U
+[0:10] sand
+[0:10] ४ है]
+[0:10] hip
+[0:10] पक bene
+[0:11] “आल atk
+[0:11] औी्िॉेिसअरमाा
+[0:11] aia
+[0:11] a या
+[0:11] (HAMMER STRENGTH
+[0:11] len
+[0:12] [08105 NEED LOI
+[0:13] [eeareens rao |e |
+[0:13] | RTF
+[0:13] and we also have
+[0:13] correlation
+[0:13 - 0:14] Relationship of pectoralis major
+[0:13 - 0:14] muscle size with bench press and
+[0:13 - 0:14] bench throw performances
+[0:13 - 0:14] Ryota Akagi et al. J Strength Cond Res. 2014 Jun
+[0:13 - 0:14] Show details
+[0:14] जिला |e |
+[0:14] {ORT
+[0:14] है. showing that
+[0:15] Unie
+[0:15] rer,
+[0:15] TORTAS NEED (०
+[0:15] bench
+[0:16] की 6८
+[0:16] bench press fr
+[0:17] ९१। कड़े:
+[0:17] bench press also tend to -—__ ७५
+[0:17] have bigger
+[0:18] Kal
+[0:18] (५५०५
+[0:18] bas,
+[0:18] cere
+[0:18] जी | ae
+[0:18 - 0:26] (ORTAS NEED LOVE
+[0:19] " अआआ
+[0:19] OSL
+[0:19] OVS
+[0:19] ERR
+[0:19] COO”
+[0:19] ८2४
+[0:19] \ | this
+[0:19] 3 | | eh
+[0:19 - 0:20] ener
+[0:20] ras
+[0:20] ५८५
+[0:20] Ne 28624 :
+[0:21] आबे
+[0:21] ५2५२
+[0:21] ROX
+[0:21] 222 Da
+[0:21] Number one being it is:
+[0:22] ROO"
+[0:22] O25
+[0:22] <2 2८2५2
+[0:22] OR OG
+[0:22] 0००
+[0:22] ५०५९५
+[0:22] (08188 कक ८.
+[0:22 - 0:23] just a strength based
+[0:22 - 0:24] निज
+[0:23] Waa /
+[0:23] ०५४
+[0:23] exercise But
+[0:24] (९०५
+[0:24] 1079७ NEED LOVI
+[0:24] skill
+[0:24 - 0:25] Sern
+[0:25] कै 5
+[0:25] Wey
+[0:25] ROX
+[0:25] ५९५)
+[0:25] ५५४
+[0:25] skill based exercise a
+[0:25] न अं
+[0:26] ers
+[0:26] ग्रे
+[0:27] ics
+[0:27] SRO
+[0:27] SYS
+[0:27] SOK
+[0:27] (0815 NEED LOVE
+[0:27] it's not
+[0:28] af W.
+[0:29] ris?
+[0:29] | 1001॥61060 ४
+[0:29] जप ०५
+[0:30] ene
+[0:30] TORTAS NEED 100
+[0:30] low-inclined
+[0:30] smith press or
+[0:31] | हुक
+[0:31] ही NEED LOVE
+[0:32] ae ही
+[0:33] I will be putting it |.
+[0:34] if ड़ नह |
+[0:34] JORTAS NEED LOVE
+[0:34] 7 twoon
+[0:35] BLA
+[0:35] aul
+[0:36] yp (६
+[0:37] fORTAS NEED s
+[0:37] exercise
+[0:38] roe]
+[0:38] exercise It is highly
+[0:38 - 0:42] की NEED LOVE
+[0:39] ‘ NEED ,
+[0:39] and is
+[0:40] and is highly stable
+[0:42] It has alower barrier
+[0:42 - 0:43] Same
+[0:43 - 0:44] TORTAS NEED ?
+[0:43 - 0:44] entry compared toa
+[0:45] hot
+[0:45] pea
+[0:45] (ORTAS NEED LOVE
+[0:46] a mT
+[0:46] EE 3
+[0:46] STRENGTHLOG|f}
+[0:46] - hwilllbefpucting
+[0:47] VXX
+[0:47] LSY
+[0:47] TORTAS NEED (08
+[0:47] tier
+[0:47] ats
+[0:47] Weg
+[0:48] । NEED LOVE
+[0:48] 3 on the list
+[0:49] aim
+[0:49] ७३६
+[0:49] a UZ
+[0:49] line
+[0:50] Tal
+[0:50] elon
+[0:50] गाजर
+[0:50] aid |
+[0:50] sss
+[0:50] ress
+[0:50] के cline sue
+[0:50] fea
+[0:51] ‘i NEED “
+[0:51 - 0:53] now honestly, this\isfan|
+[0:52] msn
+[0:52] LL ie
+[0:52] 4 NEED LO $
+[0:52 - 0:53] exercise which 99%
+[0:53] i ity
+[0:53 - 0:54] sORTAS NEED LE os
+[0:54] । il i
+[0:54] it in :
+[0:54] people ae up
+[0:55] mee के
+[0:55] JORTAS)EED LON 5
+[0:55] Ideally, what
+[0:56] Wil
+[0:56] le bl
+[0:56] fmq
+[0:56] a पे
+[0:56] flare
+[0:57] mira
+[0:57] faa =
+[0:57] yay:
+[0:57] ae neal
+[0:57] much
+[0:57] S re)
+[0:58] mel
+[0:58] aes
+[0:58] जज 4
+[0:58] off,e
+[0:58] 4 a a
+[0:58] ब्लड
+[0:58] aA “SAN
+[0:59] wee
+[0:59] Way
+[0:59] Nip
+[0:59] 7 ky
+[0:59] 4) of
+[0:59] rags
+[0:59] a ew
+[0:59] “4 ge.
+[0:59] That's not .
+[1:00] | he i
+[1:00] = 800-
+[1:00] fORTAS NEED (
+[1:01] mais
+[1:01] स्का
+[1:01] Ine |
+[1:01] fis
+[1:01] fs oh
+[1:01] ही we
+[1:01] aj RN oe
+[1:02] mil
+[1:02] sash
+[1:02] ins
+[1:02] 4] ni
+[1:02] जगा
+[1:03] fn i
+[1:03] Wiles
+[1:03] बढ बह
+[1:03] डरा
+[1:03] elbows a
+[1:03] Ndi pres
+[1:03] a we
+[1:04] nil
+[1:04] 7 हि! Kye
+[1:04] its
+[1:04] Aes
+[1:04] जज ५
+[1:04] | and not
+[1:04] a oS
+[1:05] जाकर]
+[1:06] king
+[1:06 - 1:07] कक 7
+[1:06 - 1:07] (ORTAS NEED 4 i
+[1:07] be 2880:
+[1:07] tuckingjin essentially
+[1:08] ithe
+[1:08] pnt
+[1:08] it focuses
+[1:09] at a. .
+[1:09] hould
+[1:10] Ht be
+[1:10] aspect
+[1:10 - 1:17] cORTAS NEED ५
+[1:11] function
+[1:12] ur upper
+[1:13] you can bias
+[1:14] be 90:
+[1:15] = ७8०-
+[1:15] Lin
+[1:15] now this exercise also
+[1:15] has
+[1:16] the same downsides
+[1:17] गा १
+[1:17] जब जन
+[1:17] Bus
+[1:18] गी। [०
+[1:18] i a a,
+[1:18] | 1115 also a skill
+[1:18 - 1:20] q TORTAS ~
+[1:19] i ine
+[1:19] = 8७8
+[1:19] | oa 9
+[1:19] fORTAS es व
+[1:19] ement a
+[1:19] itis also a skill based)
+[1:20] i i be
+[1:20] Wstability
+[1:21] _ 9809
+[1:21] TORTAS NEED) x
+[1:22] Ree
+[1:22] 10४15 NEED q
+[1:23] cad
+[1:23] as f
+[1:23] 2. ॥ this al
+[1:24] किक
+[1:24] ह्यि !
+[1:24] । ass
+[1:25] IE उत-
+[1:25] ORTAS NEED ¥
+[1:25] 7a four on the
+[1:26] ste |
+[1:26] X oJ
+[1:26] OB 04213 4305 8 18
+[1:26] mao
+[1:26] Sif
+[1:26] gonna bdfush-up
+[1:27] a lite
+[1:27] Coe
+[1:27] 0a 0414 1408)
+[1:27] Pr ihe]
+[1:27] Now this ~ }
+[1:28] छा. ae |
+[1:28] i, Je
+[1:28] fORTAS NEED है
+[1:28] हल्की
+[1:28] Moa
+[1:29] की हे ccessible to
+[1:29 - 1:35] TORTAS NEEL 3
+[1:30] OE 77
+[1:30] can even do
+[1:31] oe] करा
+[1:31] | aie
+[1:31] ORTAS NE:
+[1:31] i fy AN
+[1:31] 2 Sa,
+[1:32] ~O_| मर हि
+[1:32] a, ane, closed chain
+[1:33] 1० किए —
+[1:33] Ss ~l
+[1:34] | aie
+[1:35] Sek
+[1:35] TTS
+[1:35] क्र
+[1:35] Hite
+[1:36] See
+[1:36] RTAS NE!
+[1:36] ri but there is only
+[1:36] one
+[1:36] a ५५
+[1:37] | aie
+[1:37] specific
+[1:37] > ete
+[1:37] HA in
+[1:37] ८ Nth
+[1:38] SOR
+[1:38] Hi 25
+[1:38] i uy
+[1:39] SES
+[1:39] eee
+[1:39] get
+[1:39] i ५५६
+[1:40] ORTAS NEEL
+[1:40] My 25
+[1:40] y NW
+[1:41] a श्]
+[1:41] yous NEEL
+[1:41] सता
+[1:41] Ompared to the
+[1:41] > जहा)
+[1:42] Sek
+[1:42] मम्मी
+[1:42] बंध
+[1:42] ता45॥6६॥
+[1:42] mpared to the other
+[1:42] exercises which |
+[1:42] ity i
+[1:43] Sons
+[1:43] for
+[1:43] eee
+[1:44] गाज. या
+[1:44] FTP
+[1:44] ithatallwillize
+[1:45] BSP
+[1:45] it to theD
+[1:46] int
+[1:46] 1] NEEL ,
+[1:46] E number five
+[1:47] lus .
+[1:47] TORTAS)
+[1:47] ~ i os
+[1:47] श्र. #
+[1:47] ——__ machines=
+[1:47 - 1:48] machine press now
+[1:48] fORTAS ie १
+[1:48] क्र
+[1:48] Similar
+[1:49] kil
+[1:49] BOL
+[1:49] Mhis)
+[1:49 - 2:00] (ORTAS NEES Vp
+[1:50] wen
+[1:50] This is also highly
+[1:50] loadable
+[1:50 - 1:51] है mee
+[1:51] highly stable
+[1:52] me Bd
+[1:52] nny
+[1:52] > औ543.
+[1:52] rORTAS * 1
+[1:53] Bit
+[1:53] much
+[1:54] non-existent
+[1:55] pane
+[1:55] fORTAS 4 फू
+[1:56] oan .
+[1:56] 330
+[1:57] pit
+[1:57] r [जि
+[1:57] weeny
+[1:57] now that actually
+[1:57] depends
+[1:58] 00715 NEED yp
+[1:58] on this one specific
+[1:59] and'‘that'is
+[2:00] aot
+[2:00] aaa
+[2:00] resistance
+[2:00 - 2:01] Joint angle
+[2:01] “iad
+[2:01] force
+[2:01] fORTAS) धर
+[2:01] ipa
+[2:01] given
+[2:01] शज्जाह
+[2:02] [bes «
+[2:02] र्न्ज्ञै
+[2:02] Weg
+[2:02 - 2:03] wee,
+[2:02 - 2:03] ——_chest ma’
+[2:03] MEDIO,
+[2:03] aaa.
+[2:03] chines:outsthe
+[2:04] jes «
+[2:04] Lg yy
+[2:04] ~ ORS धर
+[2:04] “फटी;
+[2:04] ——_ chest machi
+[2:04] esouttthe
+[2:04] wihichyare)
+[2:05] een ही
+[2:05] f i i !
+[2:05] fORTAS Nes iE
+[2:05] top, which
+[2:06] tel
+[2:06] I | yh a ॥
+[2:06] 1 Rap? NE” VE
+[2:06] going to be biasing
+[2:07] the triceps
+[2:07 - 2:08] TORTAS \EED ?
+[2:09] ont .
+[2:09] I i ही ।
+[2:09] fORTAS NEB शा
+[2:09] And
+[2:10] nny
+[2:10] 40RTAS NEO We
+[2:10] And there are some
+[2:10] ima,
+[2:10] chines
+[2:11] है ee
+[2:11] TORTAS Nix We
+[2:11] be hardest
+[2:12] Cot
+[2:12] j i \ a |
+[2:12] Which
+[2:12 - 2:15] | fORTAS NE
+[2:13] biasing
+[2:14] yh i ।
+[2:14] (ORTAS NEG U3
+[2:14] biasing the pecs more
+[2:14] than
+[2:15] Leiner
+[2:15] Ideally,
+[2:16] rani
+[2:16] 0 5 5 रण
+[2:16 - 2:17] (ORTAS af है
+[2:17] aban ee
+[2:17] 4 oe
+[2:17] fa machine, we want to
+[2:17] pic
+[2:18] ‘iil
+[2:18] 10885 गे
+[2:18] dest
+[2:19] fORTAS NEL iy
+[2:19] hardest at the bottom,
+[2:19] 333... आओ
+[2:20] rns ne r
+[2:21] TORTAS tr
+[2:21] you so'lf You havea
+[2:21] machine
+[2:22] ben
+[2:22] TORTAS NEB है VE
+[2:22] whichis hardest at the
+[2:22] top
+[2:23] है कल
+[2:23] {ORTAS NEED yp
+[2:24] [ञा॥5 NES हे
+[2:24] in the atier
+[2:25] L be
+[2:25] है mer
+[2:25] fORTAS a पर VE
+[2:25] अल aaa
+[2:26] गाय
+[2:26] machine which is hardest
+[2:26 - 2:28] fORTAS nz VE
+[2:27] (ORTAS NES .
+[2:27] the bottom
+[2:28] i हे
+[2:28] 0116 togoin thes
+[2:29] (ORTAS NEEE है

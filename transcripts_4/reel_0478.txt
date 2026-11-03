@@ -1,0 +1,80 @@
+# model: ggml-large-v3
+========================================================================
+[478] https://www.instagram.com/reel/DVvvfM4k2hM/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] you just finished your fat loss phase and you want to get on maintenance, what would be the
+[0:03 - 0:07] right approach to do? Would it be to slowly increase your calories back up or to directly
+[0:07 - 0:13] jump back on maintenance? Now, the answer kind of depends on person to person, in my honest opinion,
+[0:13 - 0:18] if you are someone who doesn't know their maintenance, slowly, slowly ramping back up
+[0:18 - 0:24] would be a much more better option because you prevent fat gain while making sure you reach back
+[0:24 - 0:30] on maintenance safely. But if you know your maintenance properly and you are very confident
+[0:30 - 0:34] about it, you can directly jump back to maintenance as well and you're not really
+[0:34 - 0:35] going to see any kind of changes.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] है तक
+[0:00] पं हर
+[0:00 - 0:35] training/nutrition/peps
+[0:00 - 0:35] After cutting down to goal bw, what
+[0:00 - 0:35] should be the approach to refeed at
+[0:00 - 0:35] maintenance cal
+[0:01] रे se
+[0:03 - 0:05] would be
+[0:05] ie to slowly
+[0:06] cur ~
+[0:07] backup ee,
+[0:08] on 48 itena@ce
+[0:09] L rd now the
+[0:09] on maint
+[0:10] on maint@tanice now the
+[0:10] answer kind of depends
+[0:12] = ee है
+[0:12] (honest
+[0:13] you,
+[0:14 - 0:15] if you are someone who
+[0:15] ake
+[0:15] doesn't know
+[0:16] owl
+[0:16] Thaintenince slowly
+[0:17] 9७७)
+[0:18] backup wou
+[0:19] backup would be a much
+[0:19] more
+[0:20] because
+[0:21] है ०
+[0:21 - 0:22] because you prevent fat
+[0:22] gain while
+[0:23] MH, oe
+[0:23] making sure
+[0:24] ~~ You reach
+[0:24] making
+[0:24] back on
+[0:25] MA sae
+[0:25] safely
+[0:26] 8०५ 9७
+[0:27] ay Oo
+[0:27] i he
+[0:27] yet
+[0:27] ‘ But if you know
+[0:28] Lal
+[0:28] know ~
+[0:28] mal
+[0:28] nance proper!
+[0:29] we है
+[0:31] wil
+[0:31] Saal
+[0:31] it, है
+[0:32] back to Rance
+[0:33] back to maintenance as
+[0:33] well and you
+[0:34] हैं खाक
+[0:34] goingto
+[0:35] awe
+[0:35] है आई
+[0:35] kind of
+[0:35] goingto see any
+[0:35] changes

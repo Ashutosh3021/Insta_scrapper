@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[989] https://www.instagram.com/reel/C-45Cl1Npmj/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I know you say you love me, I know you know you think I'm different
+[0:05 - 0:08] I know you think you're getting out of me, I ain't got no women
+[0:08 - 0:12] I know you say you got the finest class, you ain't got no engine
+[0:12 - 0:15] You say you got this lifestyle, but lifestyle ain't with me
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ean WE
+[0:00] जी Fy
+[0:01] बडे 5
+[0:01] श़्म्नन | प्ज
+[0:02] maj
+[0:04] हरि
+[0:04] के ae
+[0:05] tay fi
+[0:06] ग्रे

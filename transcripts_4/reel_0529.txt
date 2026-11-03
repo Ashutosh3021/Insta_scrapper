@@ -1,0 +1,203 @@
+# model: ggml-large-v3
+========================================================================
+[529] https://www.instagram.com/reel/DU1Do1ajG84/
+STATUS: OK
+DURATION: 1:02   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] guys i have a confession to make yesterday i got my blood work done and there are some issues with
+[0:04 - 0:08] my blood work which i wanted to talk to you guys about i am someone who's pro carbs who eats a lot
+[0:08 - 0:13] of carbs who love carbs you know some may even call me a carbo whore or some may even call me
+[0:13 - 0:20] a car maxer but it all comes to an end because i got my blood work done and i had a look at my
+[0:20 - 0:30] blood glucose levels and it's at this you thought my blood glucose level was gonna be high you
+[0:30 - 0:36] thought my blood glucose level is gonna be high it is not high it's actually low it's actually
+[0:36 - 0:44] low from the reference rate why the fuck is it low because my body is fit because i take care
+[0:44 - 0:50] of my health you guys have to understand one thing if you're lean if you're active if you do
+[0:50 - 0:50] your cardio
+[0:50 - 0:57] at point you are good to go you are not gonna have any issues start taking your carbs before
+[0:57 - 1:01] your gym not just fruits have carbs okay anyways hope that helps
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ily
+[0:00] 119४2 8
+[0:00 - 0:05] _= Coming clean
+[0:01] om at ©
+[0:01] Coens
+[0:02] a Fs
+[0:03] >न्कि *
+[0:03] SOUS
+[0:05] idj
+[0:06 - 0:07] lfamisomeone)
+[0:07] Wholisipro
+[0:07] Carbs
+[0:08] ve ६
+[0:08] im Fy
+[0:10] Woulknow) mays
+[0:11] Woulknowisomeimayeven)
+[0:11] callme acanoalniors
+[0:11 - 0:12] Carb-a whore
+[0:12] Fra
+[0:12] = med
+[0:12] ण्ज़
+[0:12] SOLUS
+[0:12] है ii
+[0:13] SOME
+[0:13] may,
+[0:14] carbimaxxer
+[0:15] bcs
+[0:16] _m Ps
+[0:16 - 0:17] fc alll comes toa
+[0:17] Aes
+[0:17] becauselll
+[0:17] mud bi
+[0:18] ie Ff
+[0:18] Wonk.
+[0:19] 4 कै [|
+[0:19] me Fy
+[0:19] done 0
+[0:19] ba My
+[0:20] छः ५
+[0:21] 39: 3
+[0:21] bloodiglucosellevels
+[0:21] isk
+[0:22] PY Y
+[0:22] imyjbloodiglucose
+[0:22] levels
+[0:22] ame fie
+[0:22] 3110
+[0:23] अंक
+[0:23] fice
+[0:24] aes
+[0:24] Rei
+[0:24] ince Range
+[0:24] 1 तः्णणएणएोएत्ाएा
+[0:24] iro 100
+[0:24] ican Diabetes Association
+[0:24] 810०4 glucose determinations in commonly used as an aid in the diagnosis and treatment of diabetes. Elevated glucose Ie
+[0:24] Decreased glucose
+[0:24] mg/dL. with symptoms of diabetes melitus.
+[0:24] 2.Nery high glucose levels (>450 mgd in adults) may result in Diabetic Ketoacidosis.
+[0:24] , ae 1
+[0:24] ays
+[0:24 - 0:26] Patient NAME
+[0:24 - 0:26] ‘Mr Raghuvel Nadar
+[0:24 - 0:26] DOBIAge/Gender
+[0:24 - 0:26] 22 7M 27 D/Male
+[0:24 - 0:26] Report STATUS : Final Report
+[0:24 - 0:26] Patient ID / UID
+[0:24 - 0:26] Barcode NO
+[0:24 - 0:26] Referred BY
+[0:24 - 0:26] Self
+[0:24 - 0:26] ‘Sample Type
+[0:24 - 0:26] FLUORIDE F
+[0:24 - 0:26] ‘Sample Collected
+[0:24 - 0:26] Feb 16, 2026, 05:02 PM.
+[0:24 - 0:26] Report Date
+[0:24 - 0:26] Test Description
+[0:24 - 0:26] | Values) |
+[0:24 - 0:26] [_unitis) |
+[0:24 - 0:26] Glucose Fasting
+[0:24 - 0:26] (0 - 100
+[0:24 - 0:26] Hoxokinaso
+[0:24 - 0:26] mold
+[0:24 - 0:26] FFasting plasma glucose in 0७७७.
+[0:24 - 0:26] (Normal
+[0:24 - 0:26] [impaired fasting glucose
+[0:24 - 0:26] 101 - 125.
+[0:24 - 0:26] Pipes
+[0:24 - 0:26] 2126
+[0:24 - 0:26] Reference Range
+[0:24 - 0:26] ‘Comment
+[0:24 - 0:26] (hyperglycemia) may also occur with pancreatic neoplasm, hyperthyroidism, and adren:
+[0:24 - 0:26] cortical hyper function as wel as other disorders.
+[0:24 - 0:26] Decreased glucose levels (hypoglycemia) may result rom excessive insulin therapy insulinoma, oF various liver diseases.
+[0:24 - 0:26] Note
+[0:24 - 0:26] 4.The diagnosis of Diabetes requires a fasting plasma glucose of > of = 126 mg/dl. or a random / 2 hour plasma glucose value of > or = 200
+[0:25] Piabetes
+[0:25] eae
+[0:25] eee
+[0:25] 422.
+[0:25 - 0:26] a ae,
+[0:25 - 0:26] Reference : American Oia
+[0:25 - 0:26] ‘Association
+[0:25 - 0:26] Blood glucose determinations in commonly used as an aid in the diagnosis and t
+[0:25 - 0:26] iment of diabetes. Elevated glucose lo.
+[0:25 - 0:26] mg/L. with symptoms of 6
+[0:25 - 0:26] etes melitus
+[0:25 - 0:26] 2.Nery high glucose levels
+[0:25 - 0:26] 150 mg/dL. in adults) may result in Diabetic Ketoacidoss.
+[0:25 - 0:26] oes
+[0:26] see
+[0:26] aye
+[0:26] 425 ४
+[0:27] Rie
+[0:28] Woulthoughtmy,
+[0:29] . ख्कि
+[0:29] vhy
+[0:29] You
+[0:29] thou
+[0:30] ihe
+[0:30] goingt
+[0:31] Voulthought
+[0:31] Guay
+[0:32] Lai
+[0:32] You thought my,
+[0:32] glucose levellis)
+[0:34] itis
+[0:35] 7 sa
+[0:36] ies
+[0:36] low tirom
+[0:37] referencelnate)
+[0:38] a ms
+[0:38] कै ५
+[0:38] Why the fuckisjit
+[0:39] 0 आओ
+[0:40] ied
+[0:42] Was
+[0:42] ibodyiis’
+[0:42 - 0:43] ecause m
+[0:43] Ned
+[0:43] shy
+[0:43] kon
+[0:44] प्फ
+[0:44] Because\lit
+[0:44] if हे
+[0:45] Wax.
+[0:45] ily
+[0:45] health
+[0:46] 27 है
+[0:46] a 30
+[0:46] You
+[0:46] guys
+[0:47] One
+[0:48] Vow
+[0:49] iivou ara leach, iiszou
+[0:50] mm 4
+[0:50] active, if youldoyour
+[0:51] 6. हैँ
+[0:51] ily
+[0:51] 0101 011
+[0:51] 3 के
+[0:52] = Aix}
+[0:52] श्र
+[0:52] fonipointayou
+[0:53] Ne 7
+[0:53] good
+[0:53] (१० ७७
+[0:53] घी FS
+[0:54] ily
+[0:54] You
+[0:54] ‘are notigoingto
+[0:55] wed
+[0:56] i serene
+[0:57] anu
+[0:57] wer
+[0:57 - 0:58] beforelyour gym,
+[0:58] Sttantitaking your carbs
+[0:59] ily
+[0:59] ust
+[0:59] fruits: ave
+[1:00] ॥ Fly
+[1:00] = owed
+[1:00] CLENE

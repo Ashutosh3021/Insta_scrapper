@@ -1,0 +1,46 @@
+# model: ggml-large-v3
+========================================================================
+[275] https://www.instagram.com/reel/DaH30OlsNRE/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] We'll be right back.
+[0:30 - 0:33] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] inn
+[0:00] r long head of ae 0000७ —
+[0:00] 4 ad
+[0:00 - 0:02] i‘ (| Here are 3 exer
+[0:00 - 0:02] RCISES_.
+[0:01] 248
+[0:01 - 0:02] ourlong head of the'bicepe
+[0:03] pans tet slat
+[0:03 - 0:33] You can’t train your long head
+[0:03 - 0:33] separately
+[0:03 - 0:33] but here’s a cool gameplay
+[0:06] wah
+[0:06] श्र
+[0:06] a सब
+[0:07] i IY
+[0:07] ane
+[0:07] 25% ४४ Foe
+[0:08] बजे
+[0:08] 4 uf
+[0:08] Zl wy
+[0:11] ee ae
+[0:12] का A;
+[0:12] SAS
+[0:13] nem
+[0:13] 7३, ह
+[0:18] ae -ः
+[0:19] sad
+[0:20] Fee
+[0:20] re pe
+[0:21] al ear
+[0:25] Lee
+[0:26] uae
+[0:26] Pas
+[0:30] an 1

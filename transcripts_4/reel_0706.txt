@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[706] https://www.instagram.com/reel/DQHeckXjAIa/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] Black hole sun, won't you come and wash away the rain?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] jal
+[0:00] के का
+[0:00 - 0:01] 10118 say thist
+[0:00 - 0:01] in the most simplestawayie
+[0:00 - 0:01] , possible ,
+[0:01] eee
+[0:01] 5 Ge
+[0:01] amu
+[0:02] ee” yy
+[0:02] oe a
+[0:02 - 0:06] This isimore,
+[0:02 - 0:06] long head : 6 :
+[0:03] ees +
+[0:03] कमल +.
+[0:03] ach
+[0:03] 152
+[0:04] Vis
+[0:04] poll |
+[0:05] grt
+[0:06] é as
+[0:07] and th
+[0:07] is is not é “ Ly,
+[0:07] कूल
+[0:07] aes
+[0:08] f ane his 1810
+[0:08] fie
+[0:08] See
+[0:09] Wea
+[0:09] aS ¢ andithis is not @ =>

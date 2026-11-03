@@ -1,0 +1,70 @@
+# model: ggml-large-v3
+========================================================================
+[231] https://www.instagram.com/reel/DbD2VkVMym7/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] one of the things which you should start doing right now in the gym is yell scream and shout
+[0:05 - 0:10] when i mean yell scream and shout i don't mean being like mike israel yelling screaming
+[0:10 - 0:16] each and every rep if you feel like during your particular set you feel like yelling screaming
+[0:16 - 0:22] and shouting and it just comes out naturally let it come out naturally don't try to hold it in you
+[0:22 - 0:28] it is actually gonna increase your training performance we have legit data on this showing
+[0:28 - 0:34] that just doing all of these is going to increase your training performance don't restrict yourself
+[0:34 - 0:39] just because you want to stay quiet or you just want to not make noise be free bro yell
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Scereamiti
+[0:00 - 0:01] Makelg
+[0:01] 2 Ys,
+[0:01] #/777
+[0:01] tart
+[0:01 - 0:03] Scream 10
+[0:02] ॥॥0/0710111/ 0]
+[0:02] the
+[0:03] MakeYgal
+[0:03] iis
+[0:03] ॥ yell,
+[0:06] yell
+[0:07] aed
+[0:07] bal
+[0:07] shout
+[0:08] Fee
+[0:08] mean
+[0:09] FO a
+[0:09] ral
+[0:09] val
+[0:09] ‘Isratel
+[0:10] eaming,
+[0:11] josh
+[0:11] each
+[0:13] जिला
+[0:13] Pani
+[0:17] gat
+[0:17] shouting
+[0:19] Saw
+[0:19] aturally,
+[0:20] att ३८
+[0:20] com
+[0:21 - 0:22] Tak
+[0:22] Vie 5
+[0:23] ‘actually
+[0:25] nme
+[0:25] performance
+[0:26] कं. आऑ
+[0:26] legit
+[0:27] Thal
+[0:28] that
+[0:31] pe Cm
+[0:31] worn
+[0:34] anti h
+[0:34] ourself
+[0:35] 3 —ae
+[0:35] want
+[0:36] you
+[0:37] is ad
+[0:37] make
+[0:38] ot -5
+[0:38] Mul
+[0:39] |! Yell & a

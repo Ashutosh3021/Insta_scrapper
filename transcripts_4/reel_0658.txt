@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[658] https://www.instagram.com/reel/DRNODN4jNmu/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] And I'm dreaming right where I belong
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ow > s
+[0:00] LR के
+[0:00] The on 11311 ॥ 1 01116 5
+[0:00] bec
+[0:00] e)knows
+[0:00 - 0:01] शक ‘tmakeh
+[0:01] because, 920 010) ies so
+[0:01] hugh wo}
+[0:01] blocky,
+[0:01 - 0:03] “The Lion 5 hisfobliques
+[0:02] ee ईँ
+[0:02] eee
+[0:02 - 0:04] SSS
+[0:02 - 0:10] becausehelknowsie== =»
+[0:02 - 0:11] ‘The Lion trains F isjobliques
+[0:02 - 0:11] i@won't makerhis waist blocky =
+[0:03] Oe अअय क <a -
+[0:03] because Aisha 101 0 10०००
+[0:05] ys ml
+[0:05] iii
+[0:05] : “pe Lion a
+[0:05] um wo!
+[0:05 - 0:07] qi hisfobliques
+[0:06] ee ८5555 + हि
+[0:06] Uae
+[0:06] because, 106 kao knows
+[0:06] tmake
+[0:06] blocky,
+[0:06 - 0:08] Soot Wo}
+[0:07 - 0:09] The Lion trains
+[0:09] 4 Wy
+[0:09] (obliques
+[0:09] because helknowsiss ss
+[0:09] sor
+[0:10] Dll
+[0:11] 0609058॥ (100 80025 ss

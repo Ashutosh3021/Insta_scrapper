@@ -1,0 +1,87 @@
+# model: ggml-large-v3
+========================================================================
+[218] https://www.instagram.com/reel/DbTV3MRsZvh/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] It's so far down
+[0:03 - 0:22] I'm looking down
+[0:22 - 0:23] Now that it's over
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] च्ड्क
+[0:00 - 0:01] lu seleting you kn
+[0:01] हैं
+[0:01] gee yl
+[0:02] Morevolume
+[0:02] More.growthy
+[0:02] say
+[0:03] fad
+[0:03] Mor
+[0:03] olur
+[0:03] Mg 2S.
+[0:03] rowthy
+[0:04] 185
+[0:04] Caus
+[0:04] G - asioo sets
+[0:04 - 0:07] helsame
+[0:05] 41367
+[0:05] 8८८
+[0:07] lhe
+[0:07] ०.82
+[0:07] 19535
+[0:08] ee 24
+[0:08] olume
+[0:08] uter
+[0:08 - 0:09] More
+[0:09] 22222
+[0:09] res
+[0:09] A है
+[0:09] ~ ume
+[0:09] 18 better
+[0:10] Soa eae ie
+[0:10] LIL
+[0:10] teh
+[0:10] is me
+[0:11] ee eet
+[0:11] cai
+[0:11] / hal
+[0:11] Vee
+[0:12] N one is doing@sihard Sa
+[0:12] — अछि -
+[0:13] iN Noone is doing 33 ard set
+[0:13] — 2F4 =
+[0:14] yelper diminishing returns
+[0:14] Poli of diminishing
+[0:14] Point of maximum
+[0:14] yields
+[0:14 - 0:15] van
+[0:15] = Volume has diminishingreturns
+[0:15] Poi
+[0:15] Point
+[0:16] जता
+[0:16] 00k:
+[0:16] J your 4 ph
+[0:16] mee(2
+[0:16] 7 Na
+[0:17] s your a
+[0:17] aah
+[0:17] ५०4१
+[0:18] हि my ajlongjterm basis
+[0:18] Your/strengtilis
+[0:18] going up
+[0:19] | basis
+[0:19] If ona
+[0:19] ig IS gO
+[0:19] BS XN
+[0:20] Youire‘onjoaper
+[0:20] 16७०४
+[0:20] ening
+[0:20] ow DSi
+[0:21] \ moa
+[0:21] Vet
+[0:22] Foll
+[0:22] ow formmore
+[0:23] wfor

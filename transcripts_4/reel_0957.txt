@@ -1,0 +1,71 @@
+# model: ggml-large-v3
+========================================================================
+[957] https://www.instagram.com/reel/DGfJiZ8hDHr/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] i've had so many people come up to me it's like i'm eating
+[0:03 - 0:14] and i'm still not losing weight if you're eating 1300 calories and not losing weight
+[0:14 - 0:19] i have some bad news for you bro if fat loss is just about calories in and calories out
+[0:19 - 0:25] how is this happening is this are they just broken no it's just these guys are not eating
+[0:25 - 0:32] 1300 calories a lot of you guys just don't know how to track your calories you make so many small
+[0:32 - 0:38] small mistakes and those calories add up so quickly that you will never realize that you're
+[0:38 - 0:44] actually eating 2300 calories instead of 1300 calories so please learn how to track your
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] I've
+[0:01] id so many
+[0:03] ret
+[0:03] ere?
+[0:03] rye
+[0:05] हैं!
+[0:05] pry
+[0:14] saw
+[0:17] ९१९
+[0:17] ios
+[0:18] ifs iss is just abo
+[0:19] SSS
+[0:19] ५ ie
+[0:19] loss is just al
+[0:19] ies in and calo!
+[0:20] ४0५४
+[0:20 - 0:21] this happenin:
+[0:21] Piel
+[0:21] how
+[0:22] ire they just bri
+[0:25] 7 बल
+[0:27] ae ws
+[0:27] “० iA
+[0:28] ewes
+[0:28] ss fo if
+[0:28] sl 8
+[0:29] Ow se
+[0:29] fof y-!
+[0:29] ist don't know ho!
+[0:30] 9 ७5७5०" know how ti
+[0:30] ir calories
+[0:31] Ais Sire
+[0:31] \ AY A
+[0:31] Lok
+[0:32] £9 -न्न
+[0:33] LAN
+[0:33] कै क्र
+[0:33] 50 many smal
+[0:33] Obs
+[0:33] small mistakes
+[0:34] aloe
+[0:35] ५ d those calories add ७|
+[0:35] te 5
+[0:36] . that
+[0:37] i os
+[0:38] never realize
+[0:38] actually
+[0:39] है कं
+[0:41 - 0:42] 2,300 likes instead of
+[0:42 - 0:44] ur calories
+[0:43] pre oy
+[0:43] aor,
+[0:43] e leai
+[0:44] हा " - se learn how to

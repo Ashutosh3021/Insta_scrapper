@@ -1,0 +1,465 @@
+# model: ggml-large-v3
+========================================================================
+[898] https://www.instagram.com/reel/DI6vllXBs_N/
+STATUS: OK
+DURATION: 2:34   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Your exercise execution might be killing your gains
+[0:03 - 0:06] अगर तुम बहुत जादा reps मारते हो या बहुत जादे sets मारते हो
+[0:06 - 0:08] This is something which you are probably doing
+[0:08 - 0:11] अभी बहुत सारा लोगों इंपोर्टेंस पता नहीं होता motor unit recruitment का
+[0:11 - 0:16] So in this video I am going to be talking about how you can go about maximizing motor unit recruitment
+[0:16 - 0:18] अब पहली बात motor unit recruitment होता क्या है
+[0:18 - 0:21] अभी तुमारी brain muscle fibers को एक group में खटा करती है
+[0:21 - 0:23] And this group is called motor units
+[0:23 - 0:25] जब भी एक motor unit activate होता
+[0:25 - 0:28] It fires up all the muscle fibers in that specific group
+[0:28 - 0:30] अगर एक muscle fiber activated नहीं है
+[0:30 - 0:33] It would not experience active mechanical tension
+[0:33 - 0:35] इसलिए in order for us to maximize muscle growth
+[0:35 - 0:38] We have to maximize motor unit recruitment
+[0:38 - 0:41] अभी तुमारे motor units are recruited from smallest to largest
+[0:41 - 0:43] Depending upon the task which is given to them
+[0:43 - 0:44] इसे कहते है size principle
+[0:44 - 0:47] और in order for us to get those high threshold motor units firing
+[0:47 - 0:50] हमें ऐसे ही loads यूज़ करने पड़ेंगे जो challenging हो अमारे लिए
+[0:50 - 0:52] अब जब भी हम ऐसे loads यूज़ करते है
+[0:52 - 0:53] Which are challenging for us
+[0:53 - 0:56] We tend to have something called motor unit overflow
+[0:56 - 0:58] Basically recruitment of motor units for muscles
+[0:58 - 0:59] Which are not being used
+[0:59 - 1:02] For example, leg extensions में बार को grip करना
+[1:02 - 1:04] In order for us to maximize motor unit recruitment
+[1:04 - 1:06] We have to minimize motor unit overflow
+[1:06 - 1:11] अभी ये सारे चीज़े हम we can do that by using straps in leg extensions or a seatbelt
+[1:11 - 1:13] While we cannot avoid motor unit overflow
+[1:13 - 1:14] We can minimize it always
+[1:14 - 1:16] Which brings me to the third point
+[1:16 - 1:17] Which is stability
+[1:17 - 1:19] अगर तुम एक unstable surface में train करो
+[1:19 - 1:20] या फिर you are using an exercise
+[1:20 - 1:20] Which is unstable
+[1:20 - 1:23] You will reduce motor unit recruitment
+[1:23 - 1:26] क्योंकि ये unstable environment will increase your perception effort
+[1:26 - 1:27] Without recruiting more muscle fibers
+[1:27 - 1:30] इसलिए if our goal is to maximize motor unit recruitment
+[1:30 - 1:33] We have to use stable environment and a stable exercise
+[1:33 - 1:35] Now this brings us to the fourth point
+[1:35 - 1:36] Exercise selection
+[1:36 - 1:39] अगर एक exercise का muscle involvement बहुत जादा है
+[1:39 - 1:41] तुमारा motor unit recruitment will get spread out
+[1:41 - 1:44] मतलब अगर तुम एक exercise यूज़ कर रहे हो
+[1:44 - 1:46] जिसके बहुत सारे muscle groups साथ में काम कर रहे हैं
+[1:46 - 1:50] Then the motor unit recruitment for that target muscle group will be less
+[1:50 - 1:53] इसलिए we have to use exercises which are single joint exercises
+[1:53 - 1:56] या फिर अगर तुमें multi joint exercises यूज़ कर नहीं है
+[1:56 - 1:58] तो make sure you schedule it first in your session
+[1:58 - 2:02] Now this brings me to an important point called rest periods
+[2:02 - 2:04] अगर तुमें एक short rest period यूज़ कर रहे हो
+[2:04 - 2:07] You are reducing the amount of motor units which you can recruit
+[2:07 - 2:10] We have to ensure if you want to maximize motor unit recruitment
+[2:10 - 2:12] हम longer rest period यूज़ करें
+[2:12 - 2:14] अभी इन सब के सिवर there are a lot of other factors
+[2:14 - 2:16] Which increase motor unit recruitment
+[2:16 - 2:19] बट वो सारी चीज़े psychological factors में आते है
+[2:19 - 2:20] अभी ये सारी चीज़े include
+[2:20 - 2:23] Training with friends or people who motivate you
+[2:23 - 2:24] Training while listening to music
+[2:24 - 2:25] And the final point
+[2:25 - 2:26] Tracking progress
+[2:26 - 2:29] If you can check all of these boxes in a given exercise
+[2:29 - 2:33] You can ensure that that session is going to be the most stimulating
+[2:33 - 2:33] So hope that helps
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] + dee
+[0:00] J instore
+[0:00] ral
+[0:01] > - exercise execution
+[0:01] wf | Ee
+[0:01] / ‘your exercike dxecu
+[0:02] > execution
+[0:02] || Yous exe
+[0:02] might be killing
+[0:02] ६ xercise —
+[0:03] If you do a lot on
+[0:03] ५ ets
+[0:03] an ‘oie Bohot
+[0:04] it of
+[0:04] foe
+[0:04] “sale ot
+[0:04 - 0:05] This video i:
+[0:05] u do a lot of
+[0:05] ™ Agar Jum
+[0:05] reps
+[0:06] 1 fa
+[0:06] 80. Bets
+[0:06] jideo i: eo you
+[0:06] _Sets marte
+[0:06 - 0:07] lot of reps ant
+[0:07] ideo is for you
+[0:07] है 6
+[0:09] motor nl re a
+[0:09 - 0:11] Importance of
+[0:10 - 0:11] motor. Unit ei recruitment a
+[0:12] है है
+[0:12] ani if
+[0:13] site न
+[0:14] 7०9 u
+[0:14] «a 4h
+[0:14] iin ng
+[0:14] 0 ii
+[0:14] goin
+[0:14] to be talki
+[0:14] = carr go about
+[0:15] iN ay.
+[0:15] isin
+[0:15] re y
+[0:15] > 2222.
+[0:15 - 0:16] ment
+[0:16] Maximi
+[0:16] vee
+[0:16] vo unit rec
+[0:17] hte #-
+[0:17] RON
+[0:18] Pe jotor
+[0:18] ao reenuitment:
+[0:18] pee
+[0:18] wun 1
+[0:18] none #।
+[0:19] Pe unit yecrul wee
+[0:19 - 0:30] Whatis!
+[0:20] Bars. 15
+[0:20] unit’ recruits ~
+[0:20] ण्छ्जा
+[0:20] “जन ७
+[0:20] rain muscle
+[0:21] —- ko ek group
+[0:21 - 0:22] Tumhari brain muscle fibers
+[0:21 - 0:30] motor unit recruitment
+[0:22] of mi
+[0:22] our)
+[0:22] 390:
+[0:22] —-ko ek group me rakhte hai
+[0:22 - 0:23] The Moto!
+[0:23] net
+[0:23] Seer) es
+[0:23] Vhis group is called motor
+[0:23] units जब
+[0:24 - 0:25] Jabh bhi ek motor unit
+[0:25] — activate
+[0:26] all the
+[0:27] all the muscle fibres in that
+[0:29] a जा
+[0:29] 9157
+[0:29] 37 i
+[0:29] a musclefiber activated
+[0:29 - 0:30] ME riscie fiber’
+[0:29 - 0:30] fed, it won’t grow,
+[0:30] 895
+[0:30] nahi Hai it
+[0:31] ९०७
+[0:31] motomunitires
+[0:31] वर्ण
+[0:31] un = | के
+[0:31] nahi Hai it would not
+[0:31] #29287० पल
+[0:32] १०७
+[0:32] Wier
+[0:32] Rd) 4
+[0:32] active mechanical
+[0:32 - 0:33] eiuitm e nt
+[0:32 - 0:33] motonumitine:
+[0:33] k pet .2
+[0:33] न कि
+[0:33] active mechanical tension is
+[0:34] श्र
+[0:34] = Ln e
+[0:35] muscl
+[0:36] tas
+[0:36] fal
+[0:36] i ain
+[0:36] muscle growth we have to
+[0:36 - 0:38] Inorder for us to maximize
+[0:36 - 0:38] Mechanical tension
+[0:36 - 0:38] We have to
+[0:36 - 0:38] maximise motor unit recruitment
+[0:37] motor
+[0:37 - 0:38] कं ५
+[0:37 - 0:38] ‘all
+[0:38] Abhi
+[0:39] vane )
+[0:39] a RM
+[0:39] Low
+[0:39] Abhi tumhara motor units
+[0:39 - 0:40] wow
+[0:39 - 0:41] Orderly fashion
+[0:39 - 0:41] of recruitment
+[0:39 - 0:41] 6-10 RM
+[0:39 - 0:41] ad? 12-20 RM
+[0:39 - 0:41] tow
+[0:39 - 0:41] igh
+[0:39 - 0:41] Force Production
+[0:40] from smallest
+[0:40 - 0:41] 1-5 RM
+[0:40 - 0:41] vow | 4
+[0:41] won
+[0:41] from smallest to largest
+[0:41] depending
+[0:42] a, Fr
+[0:42] a हर:
+[0:42 - 0:43] pon the task which
+[0:43] प॥1585568॥
+[0:43] 18928 principle
+[0:43] iven
+[0:43] Lids
+[0:44] | 1 his is call a
+[0:44] Wie size principle
+[0:44] DAW,
+[0:45] - '€ principle
+[0:45] हार
+[0:46] am A
+[0:48] al lengim
+[0:48] coy
+[0:48] ~> उहीं
+[0:49] tep के
+[0:49] ise loi waste
+[0:49] are challengi
+[0:49] b fl
+[0:50] चल ॥॥|- use ।080500॥
+[0:51] पक - use loadsjwihi
+[0:51] re chal
+[0:51] 760
+[0:51] jab Bhi q is
+[0:52] Step 1 - use lo: des hic!
+[0:52] SAULT
+[0:52] jab Bhil'm as a loads use
+[0:52 - 0:53] a are challenging
+[0:53] | ine
+[0:53] Fai
+[0:54] [be 1)
+[0:54] for us we tend to have
+[0:55] rah
+[0:55] s ता लय pales
+[0:56] ic stud
+[0:56] scular overflow
+[0:56] uri
+[0:56] han
+[0:56] “mit
+[0:56] Py Li
+[0:56 - 0:57] ५ WY Zzoverflow basically
+[0:56 - 0:58] Elect
+[0:57 - 0:58] graphic study of muscular overflow
+[0:57 - 0:58] during
+[0:57 - 0:58] n handgrip
+[0:57 - 0:58] * Recruitment of motor units
+[0:57 - 0:58] For musclesswhich are
+[0:57 - 0:58] NOT the primary target
+[0:58] \er muscles
+[0:59] Recruitment off 2
+[0:59] 1३०1 primary target
+[0:59] muse!
+[0:59] 10111
+[0:59] 5 के
+[0:59] हार
+[0:59 - 1:01] which are not being used
+[1:00] qa e&
+[1:00] re ep ised fol
+[1:01] le leg extensi:
+[1:03] ‘ill
+[1:04] ta 8! 5
+[1:04] ् recruitment
+[1:04] der fo
+[1:05] hil
+[1:05 - 1:06] we have to minimizé motor
+[1:06] unit
+[1:07] we havi minimi
+[1:07] low I'l
+[1:08] nc 0 PN
+[1:08] हनन
+[1:09] = Straps
+[1:09] en dl
+[1:09] by using stra 124...
+[1:09 - 1:10] And
+[1:11] wae
+[1:11] Wee cannot av@iahtinist
+[1:11] But we can mi
+[1:11] Clits
+[1:11] mez
+[1:11] क्ष!
+[1:11 - 1:13] or @ seatbelt
+[1:12] Oe el
+[1:12] WF cannot Evoliel tins,
+[1:12] Alf
+[1:12 - 1:13] we Can minimiz:
+[1:12 - 1:13] cannot avoid:
+[1:13] HS cannot avoid) {this
+[1:13] overflow
+[1:15] awe
+[1:15] ‘aiwhich brings
+[1:15] rin:
+[1:16] गौ ४8
+[1:16] whic!
+[1:17] Stability
+[1:17] 4 ६0
+[1:17] Dah
+[1:18] \ | bil
+[1:18] mw OA
+[1:18] to mak
+[1:18] stable sui
+[1:19] hia
+[1:21] ry Pat
+[1:21] ध्ड्ड
+[1:22] moo i |
+[1:22] vig
+[1:22] you will reduce mofor unit
+[1:23] Bal
+[1:23] qka
+[1:24] will
+[1:25] will increaseyour perception
+[1:26] pal.
+[1:27] bers)
+[1:30] if goal is to maximi
+[1:30] it recruitment
+[1:33] ees to use stabl
+[1:33] <a मे
+[1:35] 7 ow thi
+[1:35] ¥ के = 4th
+[1:36] fan! Sa
+[1:37] >! ॥९ xercise selection
+[1:37] : tof, ry
+[1:37] Ek exercise
+[1:38] nit
+[1:38] Ek exercise ka muscle
+[1:39] wll jada 0; 7.
+[1:39] थ बा
+[1:39 - 1:41] Moremuséles in use “Sy
+[1:39 - 1:41] Less motorunit recruitment to. : e
+[1:39 - 1:41] luscles
+[1:40] jare\muscles
+[1:40] ess motorunit ate
+[1:40] int toftarget
+[1:40] tGr unit
+[1:40 - 1:41] aly
+[1:41] ०) ty
+[1:41] एक recruitment
+[1:42] WA ba
+[1:43] # ००८९
+[1:44] Wey
+[1:45] Ary
+[1:46] Bie
+[1:46] हल्की
+[1:47] ey vo
+[1:47] Lf aan
+[1:47] FF “नि
+[1:49] श्र .
+[1:50] ra he
+[1:51] rm use | |
+[1:51] SD jointexerciees gl
+[1:51 - 1:54] 2. Ifusing multipoint
+[1:51 - 1:54] schedule it first (for priority mus:
+[1:52] |. Single joint =-\, ऐड
+[1:52 - 1:53] Either use
+[1:53] A joint exercises’ ¥
+[1:54] नी. use
+[1:54] Ml, Single joint exercises @
+[1:55] j r ult
+[1:55] le it first (for pi
+[1:56] roe
+[1:56] जन्‍म
+[1:57] अर joint exerci
+[1:57] waa
+[1:58] en <i
+[2:00] y Lo
+[2:00] i Be
+[2:00] al IS VERY,
+[2:00] नली
+[2:00] ¢ iM Bhant po it
+[2:01] 1 RE
+[2:01] Bi point
+[2:02] garitum
+[2:03] Res i "शी ।
+[2:04] है Wy,
+[2:04] Ek short res|
+[2:04] riods use kar rhe ho yot
+[2:06] हैँ
+[2:06] jlucing th
+[2:07] pak
+[2:07] witha ५ a it we
+[2:09] tas
+[2:09 - 2:10] if you want to maximize
+[2:10] tent, =
+[2:10] —motor unit recruitment
+[2:11] ous
+[2:11] 1-47
+[2:11] vill '\y
+[2:11] tong
+[2:12] का] j=
+[2:12] कद rest period’ ise kar
+[2:12] rhe ho abhi
+[2:12] Ses =
+[2:13] Siva thet re
+[2:13] Vea
+[2:14] है हट
+[2:14] re a lot of
+[2:14] <r “oe
+[2:15] ying rease
+[2:16] EZ wv
+[2:16] N J क्र
+[2:16] बी 8,
+[2:18] 7 Biychotosied factors,
+[2:18] rt of cheese ate
+[2:18] ical
+[2:19] हैः
+[2:19] ५ Psychological f.
+[2:19] 8८०05:
+[2:19] cle
+[2:19] caliber logis
+[2:19] about
+[2:20] दा Lic
+[2:20] कि Ail
+[2:21] Loe
+[2:21] eT ८146
+[2:21] include training
+[2:21 - 2:24] 1 virein
+[2:22] alirainy
+[2:22] Led
+[2:23] hah 548 «
+[2:24] 2 Mk
+[2:24] wh ape
+[2:25] maxing}
+[2:25] ay ०
+[2:25] ¥ point है
+[2:25] y and tl
+[2:26] श॥8118/
+[2:26] श्र
+[2:26] | . and the final point tracking
+[2:27] a ah
+[2:27] 3 if
+[2:27] at i
+[2:27 - 2:28] : ; if you can check
+[2:28] ld aK
+[2:28] anh.
+[2:28] 2. Mu
+[2:28] pros
+[2:28] Za. Vt i
+[2:28] r है
+[2:28] Yai
+[2:28] box
+[2:28] ‘all of these
+[2:29] ral
+[2:29] : alt
+[2:29] eat
+[2:29] y 14
+[2:29] ju can Check all of these
+[2:30] ५5. Ww
+[2:30] your ti
+[2:31] 4५90)
+[2:31] a that =
+[2:31] PISS
+[2:32] 0300
+[2:32] a प्रैपा
+[2:32] that ३९५४1०।
+[2:33] sooo

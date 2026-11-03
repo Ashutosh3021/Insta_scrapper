@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[264] https://www.instagram.com/reel/DaZbrZmzzaJ/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] is a very cool way to understand leverages have a look at this so you see this door right here
+[0:04 - 0:09] right you see this door right here right if you open this door from here it's essentially very
+[0:09 - 0:15] easy to open it yeah but if you use this stupid ass handle which is given here for some reason
+[0:15 - 0:24] it's going to be difficult to open the door why because there's more leverage here compared to here
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Pmome
+[0:00] ntvarm
+[0:00 - 0:02] UNncersianal
+[0:01] mom
+[0:01] entanm
+[0:02] MOmentranm
+[0:02] we ot
+[0:07] longer
+[0:08] Longer moment
+[0:08] ranm
+[0:09] coal
+[0:15] iti
+[0:16] III]
+[0:18] ontemmoment arm
+[0:19] ! moment GLA
+[0:23] Alongemmomentanmmakesit
+[0:23] tojopen the|door
+[0:23] Vii

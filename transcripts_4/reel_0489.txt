@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[489] https://www.instagram.com/reel/DVkrFMaDCtx/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] C2 “Za
+[0:00] ct it
+[0:00] eee N
+[0:01] Fall
+[0:02] Cin
+[0:02] 4# 9४४
+[0:02] todo
+[0:02] latera
+[0:02 - 0:03] on tnee
+[0:03] 220°
+[0:04] A Sia
+[0:04] tae
+[0:04] You.don
+[0:04] tne
+[0:04] 410 00
+[0:04] teral rais
+[0:05] have
+[0:05] one
+[0:05] al wl
+[0:05 - 0:08] these
+[0:05 - 0:08] thejfoutine |”
+[0:06] foes avelo
+[0:06] in6 of
+[0:07] eit
+[0:07] you
+[0:08] havelone of
+[0:10] pal
+[0:10] ज्ड
+[0:12] nad
+[0:12] jai
+[0:12] क्या,
+[0:12 - 0:18] KEEP YN
+[0:13] 2 we
+[0:13] Jar,
+[0:13 - 0:14] SIMPLE
+[0:14] ile
+[0:15] IMSL Es
+[0:15] —s विस
+[0:16] VY wr
+[0:16] S re ९
+[0:16] sant
+[0:16 - 0:18] Sse
+[0:17] Mee
+[0:17] STUPID
+[0:17] 1. 7४,
+[0:18] 1” pe
+[0:18] PID

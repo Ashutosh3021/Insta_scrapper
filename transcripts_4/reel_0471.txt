@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[471] https://www.instagram.com/reel/DV70mytDFaw/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] are you trying to lift 100 kgs when you can't even lift 10 kgs why are you doing a mini cut
+[0:05 - 0:12] when you can't do a regular cut i swear everyone wants to do a mini cut but no one has the right
+[0:12 - 0:19] amount of dedication to do a mini cut a mini cut is not all fun and dandy it is not it is not it
+[0:19 - 0:25] is very stressful it is very painful and you guys don't see it half of you guys thinking about a
+[0:25 - 0:31] right now don't even know that how difficult a mini cut is just do a regular cut it's not the
+[0:31 - 0:37] end of the world to have a slower result it's fine if you cannot stick to a regular cut
+[0:37 - 0:41] how do you think you can stick to a mini cut anyways
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] F ॥ Cut
+[0:00] पान के
+[0:02] a Cut
+[0:02] =» renvodean't
+[0:03] Sula
+[0:03] even lift 1
+[0:05] 6 939
+[0:05] ly, why are you doing
+[0:05] fini cu
+[0:07] aby.
+[0:07] aregular cut?
+[0:09] 1 अभार्थिई
+[0:10] doami
+[0:10] लता खा
+[0:12] the right amount
+[0:13] प्र
+[0:13] Medication
+[0:14] dedication to d
+[0:16] Aug i Se 5००
+[0:19] Vt है 8.
+[0:19] i ij
+[0:20] rye
+[0:23] Sie)
+[0:23] 110 you guys don't
+[0:25] es er
+[0:28] f wr
+[0:28] at me
+[0:29] mm (1
+[0:29] 0७1
+[0:30] चक्र
+[0:30] Justdoa
+[0:31] eat
+[0:32] It's not ples of the
+[0:33] whe
+[0:33] have a slower
+[0:33] a pe
+[0:33 - 0:35] प्र
+[0:34] 64 जार
+[0:36] la | a)
+[0:36] 4 0५
+[0:36] fou cannot
+[0:36] क्र
+[0:36] foe
+[0:37] y4r
+[0:37] ular
+[0:38] guli
+[0:38] k te

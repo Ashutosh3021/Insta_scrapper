@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[502] https://www.instagram.com/reel/DVTFKcZjEsH/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Since everyone is getting exposed right now
+[0:01 - 0:03] I'm just gonna come out here and say that
+[0:03 - 0:06] Yes, I did steal Beyblades when I was a kid
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ESS,
+[0:00] आओ | 6५७/॥००॥ th
+[0:00] Since everyone
+[0:00 - 0:05] industry is getting exposed
+[0:01] the
+[0:01] industi
+[0:01] exp
+[0:02] es 4 eveyone inti
+[0:02] elfitness
+[0:02] sed
+[0:03] Wes
+[0:03] ESS,
+[0:03] posed
+[0:03] and say that
+[0:03 - 0:04] SINCE|EVERYONE
+[0:04] Said! the)
+[0:04] iimpess
+[0:04] and say thatyessI did
+[0:05] SIM
+[0:05] ice
+[0:05] evenyoneyimtneyfitnes
+[0:05] Beyblades when

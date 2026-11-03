@@ -1,0 +1,105 @@
+# model: ggml-large-v3
+========================================================================
+[222] https://www.instagram.com/reel/DbOiC4iMB-n/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] We not with us, us, us
+[0:01 - 0:04] That boy, that boy, that boy sus
+[0:04 - 0:06] Did the punk, that's a must
+[0:06 - 0:07] I don't trust
+[0:07 - 0:09] Okay, okay, okay
+[0:09 - 0:12] In Tokyo, I'm with my
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ial
+[0:00] wen
+[0:00] know (९५७ |
+[0:00] 4 geting yo
+[0:00 - 0:01] Training/nutrition/anything
+[0:00 - 0:01] AA split vs AB split
+[0:01] Just letting youjkknow
+[0:02] a fe
+[0:02] nAAsplit is objectively
+[0:02] owl
+[0:02] eM) X
+[0:03] “igi
+[0:03] हू A = obj
+[0:03] ctively
+[0:03] 8/ ८3
+[0:03] | +ज्यरााामतकत-
+[0:04] की धन
+[0:04] cai
+[0:04] oy hall
+[0:04] lan —Ser-
+[0:05] Overlapping
+[0:05] gps
+[0:05] 1119 (६
+[0:05] XE he
+[0:05] Youfchose each exercise
+[0:05] ‘Will havelawvariance.in motonunit
+[0:05 - 0:07] mlExercisepl:
+[0:06] ent eases
+[0:06] lhyouhaveldiffer
+[0:06] SESSION VOU = essentially,
+[0:06] Leave
+[0:06] iloers oN ane Sie
+[0:06] recrul
+[0:06] tedbinomifno
+[0:07] ry Nreboem
+[0:07] CISES
+[0:07] lfyoulhavewdiffenent ore
+[0:07] Eachsessiomyouwilllessentially
+[0:07] Leave those)muscleMfilbensiwhich anelonly)
+[0:07] recruited from
+[0:07] unsti
+[0:07] mulated
+[0:08] are
+[0:08] ditfere
+[0:08] 01106 large
+[0:08] U, tra Cle
+[0:08] Sen
+[0:08] ral Flavou,
+[0:08] tery |
+[0:08] Say
+[0:08] cin OW Aep
+[0:08] ३4५
+[0:08] tein
+[0:08] 2h mea PPObiot
+[0:08] Rey
+[0:08] fat
+[0:08] Poth
+[0:08] te en
+[0:08 - 0:09] Whilejthe.di
+[0:08 - 0:09] You Wy,
+[0:08 - 0:09] T IT,
+[0:08 - 0:09] "Centra,
+[0:09] Soa bY
+[0:09] Mtr ley
+[0:09] San
+[0:09] ference won't belar
+[0:09] monly Tal Flavoy,
+[0:09] emt meg PFObiot
+[0:09] Rt you,
+[0:09] Nott
+[0:09] a vat oe a
+[0:09] शा thay,
+[0:09] may
+[0:10] | It’s pone कि say)
+[0:10] twon't
+[0:10] 8 7 youraend
+[0:10 - 0:11] ‘t won't help youlmaximize
+[0:11] mil
+[0:11] है. ने
+[0:11] 2 to Say)
+[0:11] we your end
+[0:11] Holy
+[0:11] iy mn
+[0:11 - 0:12] It’s
+[0:12] i= SS *
+[0:12] iva 10000
+[0:12] "| won't help youjmaxi
+[0:12] mize
+[0:12] omiyoun end

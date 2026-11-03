@@ -1,0 +1,251 @@
+# model: ggml-large-v3
+========================================================================
+[882] https://www.instagram.com/reel/DJjyduDh0xF/
+STATUS: OK
+DURATION: 1:35   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Your exercise programming might be killing your gains
+[0:02 - 0:05] अगर तुम्हारा leg day तुम्हें बहुत sore करके छोड़ देता है
+[0:05 - 0:07] Your exercise programming might be a problem
+[0:07 - 0:11] So guys यह हमारा 6th episode होगा exercise programming series का
+[0:11 - 0:14] और आज हम बात करेंगे muscle length during an exercise
+[0:14 - 0:16] जब भी हमें एक program belt करते हैं
+[0:16 - 0:18] हमें एक चीज़ के बारे में हमेशा ध्यान रखना है
+[0:18 - 0:22] कि जो भी exercise तुम्हारे muscle को stretch position में load में डाल रहा है
+[0:22 - 0:25] It will create more fatigue and more muscle damage
+[0:25 - 0:28] इन सारे exercises को बोलते है long length exercises
+[0:28 - 0:30] सोचो squats, RDLs
+[0:30 - 0:33] अब इसकी opposite होती है short position exercises
+[0:33 - 0:35] जिनका peak tension होता है contracted position पे
+[0:35 - 0:39] अब ये कम fatigue create करेगा और this is very easy to recover from
+[0:39 - 0:41] जैसे की leg extensions
+[0:41 - 0:43] But how does this even matter for hypertrophy?
+[0:43 - 0:46] जब भी हमारे muscles are loaded under the stretch position
+[0:46 - 0:48] there is something called stretch action
+[0:48 - 0:50] activated ion channels जो open up हो जाते है
+[0:50 - 0:53] इसके वज़ से calcium ions flood into the cells
+[0:53 - 0:55] अब ये चीज कॉर्स करती है muscle damage
+[0:55 - 0:57] और तुम्हें वो delayed onset muscle soreness देती है
+[0:57 - 0:59] इसलिए long length movement
+[0:59 - 1:01] feels brutal the next day
+[1:01 - 1:03] especially for advanced people
+[1:03 - 1:05] इसका मतलब हमें exercise programming ऐसी करनी है
+[1:05 - 1:08] which have a balance between long length movement
+[1:08 - 1:09] and a short length movement
+[1:09 - 1:12] हमें ऐसा बिल्कुल नहीं करना है कि हम पूरा एक session
+[1:12 - 1:14] सिर्फ long length movements यूज़ करें
+[1:14 - 1:17] now that will create unnecessary amount of fatigue
+[1:17 - 1:19] and unnecessary amount of muscle damage
+[1:19 - 1:22] हमें क्या करना चाहिए कि हमें एक balance रखना चाहिए
+[1:22 - 1:24] between long length movement and short length movement
+[1:24 - 1:27] for example performing any kind of squatting variant
+[1:27 - 1:28] followed by a leg extension
+[1:28 - 1:31] now this will maximize muscle growth
+[1:31 - 1:33] without digging a hole into your recovery
+[1:33 - 1:35] so I hope that I was helpful
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] une: erc ‘cise programmin
+[0:01] 8 programming
+[0:02] Might be killing 3.
+[0:02] . gains
+[0:03] Pa 4
+[0:03] ‘me 1.
+[0:04] sore after:
+[0:04] 4 day SS
+[0:04 - 0:05] tumi
+[0:05] iss
+[0:05] a legiday
+[0:05] हल १.74
+[0:05] + kar ke
+[0:05] Hai
+[0:06 - 0:07] your exercise progra
+[0:07] ming
+[0:07] Bie
+[0:07] ६६६
+[0:07] your exercise programming
+[0:07] might
+[0:10] hoga
+[0:10] ramming
+[0:10 - 0:12] Exercise prog:
+[0:11] 61156 OB Ta Ee s
+[0:11] fn 1
+[0:12] any eseries
+[0:12] kareinge
+[0:12 - 0:13] fe 1
+[0:13] ~ dis
+[0:13] during:
+[0:15] ‘we build aS
+[0:15] rel
+[0:16] apap:
+[0:16] Fopram
+[0:16] 1 WA
+[0:16] बल्ले
+[0:16 - 0:17] Whenever webuilda. ७
+[0:17] Program
+[0:17] | ape
+[0:18] श्र
+[0:20] हैः
+[0:21] ensi
+[0:21] ‘Position ,
+[0:21] 124
+[0:21 - 0:23] tretched
+[0:22] 1191 the'stretched
+[0:22] V uy
+[0:23] Wenetl
+[0:23] lened
+[0:23] pation
+[0:23] Li aC
+[0:23] More
+[0:23] ie NY
+[0:23 - 0:24] ore muscle
+[0:23 - 0:24] lamage
+[0:24] vat the'stretched
+[0:24] ans
+[0:24] VAS
+[0:25] mee |
+[0:26] 222
+[0:26] 9 रो
+[0:27] 3 हा
+[0:27] Cm, A wy
+[0:27] है 2
+[0:27] amet
+[0:27 - 0:29] ‘Eongiposition exercises
+[0:28] ait
+[0:29] fia
+[0:30] — नयी
+[0:31] पक <a
+[0:31] A al
+[0:32 - 0:35] Short position
+[0:33] Short posi Ng | हर
+[0:34] Peak tension at the oa
+[0:34 - 0:35] Position
+[0:35] Peak tension at the contrhcte
+[0:36] ३ oe
+[0:37] sage
+[0:37] चर पे
+[0:37 - 0:38] *. muscle,
+[0:37 - 0:38] mage ५
+[0:37 - 0:39] Less fatigue-
+[0:39] bes |
+[0:39] ४ Less muscle
+[0:41] 1 How?
+[0:41 - 0:43] Sliteven matter’
+[0:41 - 0:43] peor hypertrophy? ~
+[0:42] ptt
+[0:42] How does it eyen matter)
+[0:42] aoe
+[0:42] = कुछ |
+[0:43] Howyg
+[0:45] SIN]
+[0:45] a Ait
+[0:45] muscles al
+[0:45] ee ८2८2
+[0:46] प्र
+[0:46] < Soe c
+[0:47] है है
+[0:47] ae NI
+[0:47] hers jee
+[0:48] ५48
+[0:48] tec
+[0:48] Stretch ac
+[0:48] बैड
+[0:48 - 0:49] im | Channels
+[0:49] Wary
+[0:49] ACA ४,
+[0:49] teh activated :
+[0:50] Stretch’ ane ion |
+[0:50] Chan
+[0:50] nels)
+[0:50] ion chafifiels Jo open-up ho
+[0:50] jata
+[0:51] is Ke wi h 2 aw
+[0:52] स्का
+[0:52] cas ~
+[0:52] ~_ is Ke waje ae गा ions
+[0:53] ill
+[0:54] all
+[0:54] +-क्रा कर
+[0:54 - 0:55] Abhi ye cheese course karte
+[0:55] 2. मम |
+[0:55] Ake damage)
+[0:55] +-क्रारक
+[0:55] ye muscle damage or
+[0:55 - 0:57] न iy
+[0:56] हि ४
+[0:56] हित (कं 2]
+[0:56] 5 श्र
+[0:56] wo delayed onset
+[0:57] Doms
+[0:57] हि हाह i गुड
+[0:57] wo delay layed onset muscle
+[0:57] soreness deti
+[0:58] 9 ic
+[0:59] qeer
+[1:00] r. Is
+[1:00] “के move
+[1:01] iia
+[1:01] igth move!
+[1:01] ital the
+[1:02] es. for advanced ass
+[1:02] रा by.
+[1:02] cpa
+[1:02] especially for advanced
+[1:04] mat os
+[1:04] it's Bot my love I'm exe!
+[1:05] Phe
+[1:05] rogrammi see
+[1:06] Lag
+[1:06] ब्ट
+[1:06] which have
+[1:06] ~~ उहं कि
+[1:07] es 18 Key,
+[1:07 - 1:08] 354 whieh_have a balance
+[1:08] या 3.
+[1:08] ‘Balanceis
+[1:08] ६ (के length
+[1:08] ment
+[1:09] ब्ट
+[1:09] (eli
+[1:09] and.a short length
+[1:09] Laas
+[1:10] vil
+[1:10] O i rt length
+[1:10] | a जाछ हे
+[1:11 - 1:12] ‘ool mi
+[1:12] Toa
+[1:12] X sessi
+[1:12] ime I'm a poo!
+[1:13] a कई
+[1:13] nee
+[1:13 - 1:14] va@lengthy -
+[1:14] rie
+[1:14 - 1:15] Don’t fatiguemaxx
+[1:15] 4 ah)
+[1:15] F inact
+[1:16] Doni fati
+[1:16] है F
+[1:16] th&t will create
+[1:16] sary
+[1:17] Tan 9
+[1:18] 1sdl of
+[1:18] muscl
+[1:19] all
+[1:19] ज््थ AO"
+[1:26] it vari:
+[1:26] TWAS
+[1:26] > = ० आन
+[1:27] quat variant
+[1:27] Vg ES
+[1:28] a Ni
+[1:29] is if
+[1:29] ‘i Leg tension
+[1:30 - 1:31] fos
+[1:31] yin
+[1:31 - 1:33] 24017 आता 26 muscle growth
+[1:32] aximizé muscle
+[1:32] oy कं U
+[1:33] t i ecovery iss Ty
+[1:34 - 1:35] ‘Ollow for more

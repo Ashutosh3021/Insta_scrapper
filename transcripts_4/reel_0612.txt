@@ -1,0 +1,54 @@
+# model: ggml-large-v3
+========================================================================
+[612] https://www.instagram.com/reel/DSrk7GoDAY7/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Assists on his broke ass soul
+[0:02 - 0:05] No, I don't want your number, no
+[0:05 - 0:08] And I don't wanna give you mine, and no
+[0:08 - 0:10] I don't wanna meet you nowhere, no
+[0:10 - 0:13] I don't want none of your time, and no
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] sae
+[0:00] Vil
+[0:00] >> ०5५
+[0:00] ४-०“, ०७2
+[0:00] 3 ae ee
+[0:00 - 0:01] plain to
+[0:00 - 0:01] {ir that
+[0:02] Talia
+[0:02] githe
+[0:02] e'sameifu ||
+[0:02] हक | TI
+[0:02] — Ss q]
+[0:02] Sea
+[0:02] en oe
+[0:02] ५2७०७? न
+[0:04] Ne is trainin
+[0:04] the'sar
+[0:04] fate | at ||
+[0:04] श्है ॥
+[0:04] «हैः
+[0:04] SSS
+[0:04] ८1८०७
+[0:04] ५७०० ७१
+[0:04] Sw YY
+[0:05] as vt ie
+[0:06] as this zt a
+[0:06] | Seg
+[0:07] as ae
+[0:07] ig ba
+[0:08] exceptsthis) एव
+[0:08] Up a
+[0:09] Pe ptathis, istaarax 4
+[0:09] खा हट
+[0:10] rg (at
+[0:10] thisiis;
+[0:11] | apa
+[0:11] hall)
+[0:11 - 0:12] ae ptathisiis; >
+[0:12] चाह

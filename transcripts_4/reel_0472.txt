@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[472] https://www.instagram.com/reel/DV536jok3HX/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Yo what's up
+[0:02 - 0:05] What's up
+[0:05 - 0:07] What's up gang
+[0:07 - 0:11] Bye
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] but justdoesnit
+[0:00] jwannalpay/ taxes)
+[0:00 - 0:01] iiknowihelslconscious
+[0:01] it just
+[0:01] axe
+[0:01] Tr gg
+[0:01] Sar
+[0:02] butitst
+[0:02] ele
+[0:02 - 0:03] ilknowiessteonsciqus)
+[0:02 - 0:03] itaxes)
+[0:04] Uke
+[0:04] lnejs!
+[0:04] butjusta
+[0:04] iwamnalpayjtaxes)
+[0:04] pay
+[0:05] ॥0100॥॥ 6.3
+[0:05] jut
+[0:05] er Pd
+[0:05] BRE oa on
+[0:05] 01004
+[0:05 - 0:06] ist doesn't wannalpayataxes)
+[0:06] Ver
+[0:06] but
+[0:06 - 0:09] |know.he’s conscious
+[0:07] 2 doesnt ‘wal
+[0:07] rae
+[0:07] fees
+[0:07] क्षय
+[0:07 - 0:08] pay tenes
+[0:08] >| know he'siconseian:
+[0:08] but just cogent wann:
+[0:08] eee
+[0:09] but just doesn’t wanna pay taxes
+[0:10] ‘I know)
+[0:10] wann
+[0:10] Nalpayitaxes
+[0:10] but eae?
+[0:11] q hé
+[0:11] i pas
+[0:11] just doesn
+[0:11] fey
+[0:11] ini
+[0:12] ye know he's conscious
+[0:12 - 0:14] buidjustidoesn't Wanye pay'taxes|
+[0:13] Ikno)
+[0:13] wihels
+[0:13] but just:
+[0:13] taxes
+[0:14] जा गंगा ७गा

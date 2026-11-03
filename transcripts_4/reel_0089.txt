@@ -1,0 +1,73 @@
+# model: ggml-large-v3
+========================================================================
+[89] https://www.instagram.com/reel/Ddy__xZBIGk/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Realize
+[0:02 - 0:03] The joke is on me
+[0:03 - 0:08] I knew you were trouble when you walked in
+[0:08 - 0:11] So shame on me now
+[0:11 - 0:13] Flew me to places and never
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a हि
+[0:00] this
+[0:00] whoneedsitohear,
+[0:00] ५१७ व
+[0:00] fas
+[0:00] ashy
+[0:00] i On
+[0:01] who “आए खा hear:th
+[0:01] hacer]
+[0:01] ere |
+[0:01] — aie
+[0:01 - 0:02] | dontt'kn
+[0:02] who needs,to anit thi
+[0:02] (But
+[0:02] vel
+[0:02] a gt:
+[0:02] ina
+[0:03] iia
+[0:03] OnWal
+[0:03] VA a
+[0:03] Sess
+[0:03 - 0:04] shoulder ralls
+[0:03 - 0:04] din acurl
+[0:04] Pe A
+[0:04] veh
+[0:04] FURIES
+[0:05] | ७8 A
+[0:05] OWAZ
+[0:05] Mees
+[0:05 - 0:07] eight is not in yo
+[0:05 - 0:07] drop.it please
+[0:06] बा: A
+[0:07] as A
+[0:07] -- aaa
+[0:07] Q Leu
+[0:08] cepjcur
+[0:08 - 0:13] dropithe ego
+[0:09] itésta)bicep
+[0:09] जा x
+[0:09] प tf
+[0:09] प्र
+[0:09] 0८०
+[0:09 - 0:13] cur
+[0:10] MEE /
+[0:10] Sai
+[0:10] he a
+[0:10] धारा
+[0:10 - 0:12] bicepeur'
+[0:10 - 0:12] fees)
+[0:11] jeez)
+[0:11 - 0:13] itestal
+[0:11 - 0:13] bal
+[0:11 - 0:13] «9 septa
+[0:12] oP rs’
+[0:12] प्र
+[0:13] May
+[0:13] है तप
+[0:13] saat

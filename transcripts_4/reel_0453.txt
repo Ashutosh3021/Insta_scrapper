@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[453] https://www.instagram.com/reel/DWUIk9MjG0r/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] With the money I ain't never let go
+[0:02 - 0:05] And now you're high with my baby, baby
+[0:05 - 0:07] I just love them all, I'm getting fly with my baby
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Just letting you know
+[0:00 - 0:01] Bro
+[0:02 - 0:04] Your pre workout supplement
+[0:02 - 0:04] Shouldn’t get you to
+[0:02 - 0:04] Rush to the bathroom
+[0:05 - 0:07] Cut that shit out
+[0:05 - 0:07] Use something which
+[0:05 - 0:07] Sits well with your stomach

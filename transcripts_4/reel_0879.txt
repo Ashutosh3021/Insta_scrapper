@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[879] https://www.instagram.com/reel/DJrAS6iBj_H/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:27] देखो यह specific question है न यह बहुत perspective देता है हर चीजों में अभी if you enjoy coaching if you enjoy training people if you enjoy the things which you do over here I think fitness coach बनना is a good opportunity you can make good amount of money in this you just need to know how to make good amount of money that's one thing दूसरी बात अगर तुम्हारे पास इतना passion नहीं है यह चीज को लेकिन
+[0:27 - 0:43] now तुम्हें पता चल जाएगा एक दो मिनदे के अंदर एक साल के अंदर पता चल जाएगा तुम्हें कि if you have passion for this or not so yeah अगर तुम्हारे पास passion है and you have the skill sets which is needed yeah it is worth it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:43] Diet/training/anything
+[0:00 - 0:43] Is becoming a full time
+[0:00 - 0:43] fitness coach worth it?
+[0:34] लकी
+[0:35] है७)
+[0:36] | है पे

@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[585] https://www.instagram.com/reel/DTVPaGSjJG2/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Rash crispy
+[0:01 - 0:03] Whole time I get with my
+[0:03 - 0:05] On the road doing ten toes
+[0:05 - 0:07] Like my toes
+[0:07 - 0:09] You my foot, I froze
+[0:09 - 0:11] I see I'm hanging on my toes
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ne” व
+[0:00] 908॥ to make
+[0:00] Hee onali
+[0:00] i al
+[0:00 - 0:02] ॥ ५ Easier
+[0:01] =F EH
+[0:01] Be 00 80210 019
+[0:01] re] E
+[0:01 - 0:02] ay to make |
+[0:02] ९ मे
+[0:02] FaPragressing on allift
+[0:03] 3, थी
+[0:04] il ‘i
+[0:04] Mic!
+[0:04] i oading==
+[0:04] sien
+[0:05] fut
+[0:05] eT आई
+[0:06] ro-Loading?=
+[0:06] ing
+[0:06] 10901 Sa, Mag
+[0:06] baa Zh
+[0:06] 1 के Me
+[0:06] oe “री
+[0:09] oading= a
+[0:09] Min
+[0:09] है a
+[0:10] ५ देह
+[0:10] तो wl
+[0:10] i ye
+[0:10] May
+[0:11] cor 4

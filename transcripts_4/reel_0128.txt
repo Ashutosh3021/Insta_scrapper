@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[128] https://www.instagram.com/reel/DdEbI88MYoW/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] He's flying, he's also known as a buster
+[0:03 - 0:05] Always talking about what he wants
+[0:05 - 0:08] And just sits on his broke ass
+[0:08 - 0:11] So no, I don't want you now
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] m not losingyw.
+[0:00 - 0:02] | eat only salads and|pRotein
+[0:01] o not भा
+[0:01] Ein
+[0:03] lla
+[0:04] intque
+[0:04] PF os
+[0:04] 100g green beans
+[0:05] quest
+[0:05] lon
+[0:05] 100g cucumber.
+[0:05] « yAy
+[0:06] Mealii
+[0:06] Cuasu
+[0:06] Van
+[0:06] 100g cauliflow
+[0:06 - 0:08] Korn
+[0:07] Mealitr Intquestion
+[0:07 - 0:08] 150gjchicken =
+[0:08] Ime vest
+[0:09] 7300-500kcal wor
+[0:09 - 0:10] salad dressing=s
+[0:10] 300
+[0:10] o00kcaliwor

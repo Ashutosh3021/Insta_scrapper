@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[768] https://www.instagram.com/reel/DOG5MI0DOuo/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] मैं चाहूँ तुझे को मेरी जाबे बना
+[0:05 - 0:11] विदा हूँ तुझे पे मेरी जाबे बना
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] If you're
+[0:00] loing this
+[0:00 - 0:01] You're not tapped in
+[0:01] 52005
+[0:01] lf you're NOT-doing this
+[0:01] 6 ff
+[0:02] ao Se
+[0:02] 1532
+[0:02] tonejyo!
+[0:03] mal
+[0:03] “wee
+[0:03] ie ae हि —
+[0:03] | stonelyourmuse|
+[0:03] hes
+[0:04] we! PO
+[0:04] SF | 4
+[0:04] 15520'r
+[0:04] i Jo tone mit, | |
+[0:05] ie yi
+[0:05] 9520 a. |
+[0:05] ounmus |
+[0:05] im f
+[0:07] lebells
+[0:07] 11) 16110 poly ional
+[0:07 - 0:09] Training
+[0:07 - 0:09] Cal
+[0:08] } wwithike
+[0:08] tle
+[0:08] Cause
+[0:08] he) MOre)
+[0:08] nal
+[0:08 - 0:09] alls
+[0:09] ett
+[0:09] mol
+[0:10] | om 2
+[0:10] important one
+[0:11] as Laid
+[0:11] ~ALS NL
+[0:12] & जल था
+[0:12] Lig
+[0:12] Laon
+[0:12 - 0:13] 91111) 20111 था | | कि
+[0:13] ७ = की
+[0:13] ॥011/66॥
+[0:13] curls @
+[0:14] Doingibicep,
+[0:14] mia DEEP STE Ct
+[0:14] १5५
+[0:15] mine DEEP STEM
+[0:15 - 0:19] bic
+[0:15 - 0:21] Doing
+[0:16] picurls.
+[0:16] withfalDBEP STRETCH
+[0:17] e 2 हु
+[0:17] MNADEEP S)
+[0:17] mot
+[0:18] Py 2 कि
+[0:18] “wie DEEP S
+[0:18 - 0:19] ETCH
+[0:19] cs चू|ाज
+[0:19] WTADEE? S
+[0:19] ma tN ह
+[0:20] e ad कि
+[0:20] DEEP S
+[0:20] swith
+[0:20] ICH
+[0:21] e ad हि
+[0:21] mpd DEEP
+[0:21] [2 11101 011
+[0:21] Niu.

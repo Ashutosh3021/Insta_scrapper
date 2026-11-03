@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[712] https://www.instagram.com/reel/DP-9ytQE0bt/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] It goes without saying, if you are taking something intra-workout, you better finish it.
+[0:04 - 0:09] It's not wine that you sip on it every 5 seconds and then complete it after your workout is done.
+[0:09 - 0:13] No. Take it, drink it completely and then go about your workout.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:05] a intra workout carbs
+[0:10 - 0:13] | intra workout carbs

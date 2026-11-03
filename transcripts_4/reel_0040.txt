@@ -1,0 +1,20 @@
+# model: ggml-large-v3
+========================================================================
+[40] https://www.instagram.com/reel/DeeotdTsiUc/
+STATUS: OK
+DURATION: 0:05   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] age
+[0:00 - 0:01] ing hasbeen bumped
+[0:01] Well
+[0:02] 0५७७
+[0:03] Uvp
+[0:03] Sha
+[0:04] Uyp
+[0:04] Ste
+[0:05] Jia

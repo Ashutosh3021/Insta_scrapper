@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[215] https://www.instagram.com/reel/DbYX2N7MrNS/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Tax fee is so far down.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ese
+[0:00] Ce il
+[0:00 - 0:03] FITPULSE
+[0:00 - 0:03] The Chest Fly Trick Cbum Uses for
+[0:00 - 0:03] Maximum Growth
+[0:00 - 0:03] Form Fix #05
+[0:01] tw है|
+[0:01] श्र
+[0:01 - 0:02] ate
+[0:02] rik.
+[0:02] Me ce,
+[0:02] ७ pan
+[0:02] ae ih
+[0:02] kL ran ३,
+[0:02] 7. कं
+[0:02] S63: e J
+[0:03] ai 4
+[0:03] iP 4
+[0:03] ०५४
+[0:03] Dey
+[0:04] ‘ist “hh normally
+[0:05] hi OS
+[0:05] sic
+[0:05 - 0:07] Just Beton normally
+[0:06] mn! 2
+[0:06] dust perform itnormallyse
+[0:07] aos
+[0:08] Phd
+[0:08] We're both
+[0:08] going\
+[0:08] Horizontal ad
+[0:08] duction
+[0:09] We're both going -
+[0:09] «gies agnuction
+[0:09] a JZ |
+[0:10] ms: the repsta~
+[0:11] 5] की)
+[0:11] ‘standardise ther
+[0:12] 51, रज
+[0:12] It’s not any uigeren:
+[0:12] From “eb I'm.doing heme
+[0:13] Pod
+[0:13] ay” tay
+[0:13] ,It'snotanyd
+[0:13] ifferent
+[0:13] Fro m what rmdb
+[0:13] ing here

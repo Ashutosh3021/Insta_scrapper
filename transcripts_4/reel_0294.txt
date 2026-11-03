@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[294] https://www.instagram.com/reel/DZsHpPRs2il/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] birthday is coming up 19th june so this is what we're gonna do the top like gif is gonna be
+[0:06 - 0:11] printed on my cake and guess what guess what the top like comment is gonna be printed on my cake
+[0:11 - 0:13] make sure it's worth it anyways
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] RTHDAY,S!
+[0:00] COMING UP
+[0:01] Riel
+[0:01] eer UP
+[0:01] | ह। बट
+[0:02] ipa =
+[0:02] iat
+[0:02] tom, पड
+[0:03] 133
+[0:03] ee ti
+[0:03] 363
+[0:04] जाए,
+[0:04] ied
+[0:04] को थे
+[0:04] "pry. a
+[0:04 - 0:05] jik
+[0:05] TO PHEIK
+[0:06] TNOPEIKED
+[0:06] ‘Gir
+[0:06] j We
+[0:06] Pan i
+[0:07] ait.
+[0:07] cal
+[0:07] | TOP RIED [5
+[0:07] 7), का
+[0:07] dye
+[0:07] rac ues
+[0:08] 120 59
+[0:08] a» ww
+[0:08] uy fn
+[0:09] i" पु
+[0:09] Prac
+[0:10] ae ir
+[0:10 - 0:12] TOPEIKED COMMENIG
+[0:11] ahi Ps
+[0:11] Sea
+[0:12] बिका «
+[0:13] Fe th

@@ -1,0 +1,63 @@
+# model: ggml-large-v3
+========================================================================
+[63] https://www.instagram.com/reel/DePQVXzM2_j/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] I am freezing my eggs.
+[0:01 - 0:04] Yeah, I am not even kidding when I say this.
+[0:04 - 0:09] Whenever I take my eggs, what I do is I put them in the fridge and I do it for a reason.
+[0:09 - 0:14] So when you put your eggs in the fridge, the yolk kind of solidifies a little bit.
+[0:14 - 0:18] So if you are wanting to just separate the egg yolks from the eggs,
+[0:18 - 0:21] what you can do is now just get them in a colder temperature.
+[0:21 - 0:24] Once it's cold enough, now you just have to just remove it.
+[0:24 - 0:26] And now you see the egg yolks just kind of sticks together.
+[0:26 - 0:27] That's what I do, guys.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] FREEZINGIMWN6
+[0:00] SHI
+[0:00] PTT?
+[0:00] freezing
+[0:01] IMIFREEZ
+[0:01] NGIMW4
+[0:01] zing my eggs
+[0:03] ः lam not even
+[0:03] kidding
+[0:04] when
+[0:05 - 0:07] ale
+[0:06] बम मे.
+[0:06] gs what
+[0:07] श्र
+[0:08] ain
+[0:09] hod
+[0:09] _ areason
+[0:10] =a २०» फीकी
+[0:11] ole
+[0:12] Naw
+[0:12] ¥ fridge the
+[0:13] Ss the fridge the
+[0:13] ind of solidifies
+[0:14] Ln 4&#्
+[0:14] ‘Ss bit
+[0:16] 7 to
+[0:17] = wanting to just
+[0:17] rate the egg
+[0:18] —— ्द्धी पा
+[0:18] Are
+[0:18] > eggs
+[0:19] > what you
+[0:20] what you can do
+[0:20] ust
+[0:21] les
+[0:22] t Id enough now
+[0:23] 5: cold enough now you
+[0:23] just have to just remove
+[0:25] |now you see the egg
+[0:26] चना
+[0:26] श्र
+[0:26] .. च kind of
+[0:26] sticks
+[0:28] > hope

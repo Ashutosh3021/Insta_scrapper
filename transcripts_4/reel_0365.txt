@@ -1,0 +1,122 @@
+# model: ggml-large-v3
+========================================================================
+[365] https://www.instagram.com/reel/DX_0a1PMKTX/
+STATUS: OK
+DURATION: 0:52   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I don't know who needs to hear this but if you're going to be training with weights your liver is
+[0:03 - 0:08] going to fail. These are some liver markers before training with weights and these are liver markers
+[0:08 - 0:13] after training with weights. This tells us one thing that we should not train with weights. Now
+[0:13 - 0:16] this is something which I would have said if I didn't know what I was talking about. These
+[0:16 - 0:20] specific markers which you are looking at these markers are going to be elevated after training
+[0:20 - 0:26] with weights. If you are going to get a blood test done make sure you don't train at least for three
+[0:26 - 0:31] days just so you don't get a jump scare by looking at these liver markers and thinking oh my liver is
+[0:31 - 0:36] damaged from just weight training. These few markers are also few representative of muscle
+[0:36 - 0:40] damage as well. So if you train pretty close to your blood work you may see a skewed liver blood
+[0:40 - 0:46] marker levels which is totally fine. One marker which you should have a look at is GGT because
+[0:46 - 0:51] that is not affected by muscle damage. Always look at that instead of these two markers. Anyways
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] mR: damage from
+[0:00 - 0:03] Weight training
+[0:01] न मन this but if
+[0:02] EGE
+[0:02] Liver'damageifrom
+[0:02] ~~ 020
+[0:03] किन al
+[0:03] eights your liver is
+[0:04] 2.57
+[0:04] oto
+[0:04] °S ei
+[0:04 - 0:05] Figure 1
+[0:04 - 0:06] Pre ‘Oh 3h 6+
+[0:05] 0४ eet
+[0:05] ais
+[0:05] are nif markers
+[0:05 - 0:06] 2.55
+[0:05 - 0:06] 2.05
+[0:06] pees
+[0:06] ee ae ee ae
+[0:06] ices 5.
+[0:06] ie) ier markers
+[0:06] ibefore training
+[0:07] ain
+[0:07 - 0:09] BCP
+[0:07 - 0:09] ALT
+[0:07 - 0:09] AST
+[0:08] 1113
+[0:09] marta:
+[0:09] ing
+[0:10] ‘fff
+[0:10] >लबबक लक,
+[0:10] ‘Tha
+[0:10 - 0:12] Donit doweight lifting
+[0:11] 5) 55
+[0:11] ere
+[0:11] bar
+[0:12] dnot train
+[0:13] क्र
+[0:13] Cs Bs
+[0:14] fee
+[0:14] mmr A
+[0:14] i Ns,
+[0:14] A, oll
+[0:14] guidihave saidiif
+[0:16] ४ Ste
+[0:16 - 0:20] Figure 1
+[0:16 - 0:20] ALT
+[0:16 - 0:20] AST
+[0:17] BJCP
+[0:17] ikers
+[0:17] king
+[0:17] ies
+[0:20] BJCP
+[0:20] why
+[0:20] atc
+[0:20] Thy
+[0:20] ews
+[0:23] estidone,
+[0:25] [par
+[0:25] 4०.2
+[0:25] you J. train
+[0:26] ETS
+[0:26] a: three
+[0:26] Daa
+[0:27] cad
+[0:27] jum
+[0:29] seli
+[0:29] joking at a
+[0:31] ich, mylliver
+[0:32] 0००
+[0:32] just
+[0:33] क्र
+[0:33 - 0:36] ALT
+[0:33 - 0:36] AST
+[0:34] Peas
+[0:34] I) ७००
+[0:35] ni ow
+[0:35] aresentati
+[0:36] ie sa
+[0:36] You)
+[0:37] CET
+[0:38] your blood)
+[0:38 - 0:39] a joo
+[0:39] ‘tot
+[0:39 - 0:42] marker I
+[0:40] a आज सह
+[0:40] blood,
+[0:40 - 0:42] hich is
+[0:41] ah ll
+[0:42] iver blood
+[0:42] tot
+[0:42] 19116 noe
+[0:44] ee पक,
+[0:44] wi fy न
+[0:45] GGT
+[0:46] cer
+[0:47] BOT
+[0:47] OEE
+[0:48] ected b
+[0:51] a ae

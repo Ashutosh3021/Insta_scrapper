@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[603] https://www.instagram.com/reel/DS7Vje9jDqE/
+STATUS: OK
+DURATION: 0:04   SPOKEN LANGUAGE: ur
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] آپ یہاں آ جائیں
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] When adoctor tellsme f nevem
+[0:00] जा, अं
+[0:00 - 0:04] है be able to lift heavy again
+[0:00 - 0:04] because i got injured
+[0:01] Wht
+[0:01] Ls nevey
+[0:02] il aidoctor tells me/’ll 4
+[0:02] because i got 1105
+[0:02] 4 है:
+[0:03] na doctor tells mei A never
+[0:04] के हे
+[0:04] 01619 doctor tells mei f Mever
+[0:04] ४ आज

@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[565] https://www.instagram.com/reel/DT5nn5sDPCr/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Dr. Ainley explained that even if he caught him
+[0:05 - 0:07] and brought him back to the colony,
+[0:07 - 0:10] he would immediately head right back for the mountains.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] guin shouleFye
+[0:00] lusedinapido
+[0:00] ine
+[0:01 - 0:02] iapido)
+[0:01 - 0:12] penguinishould've used\rapido
+[0:01 - 0:12] + ~ Tlike holy cardio
+[0:02] peng
+[0:02] should've
+[0:04] ayy
+[0:06] गा used rapido
+[0:07] aaa
+[0:08] जि Al
+[0:08] dinapid
+[0:08] like}
+[0:08] ardio
+[0:08] aye
+[0:09] div
+[0:09] ed rapido

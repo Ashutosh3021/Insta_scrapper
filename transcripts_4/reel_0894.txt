@@ -1,0 +1,286 @@
+# model: ggml-large-v3
+========================================================================
+[894] https://www.instagram.com/reel/DJFCDQmh7tZ/
+STATUS: OK
+DURATION: 1:44   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Your exercise programming might be killing your gains
+[0:02 - 0:05] So guys this is going to be the fourth episode of the exercise programming series
+[0:05 - 0:08] और ये एक continuation होगा exercise selection का
+[0:08 - 0:12] और आज हम बात करेंगे proportional muscle contribution के बारे में
+[0:12 - 0:15] Now in order for us to understand proportional muscle contribution
+[0:15 - 0:17] We have to understand two things
+[0:17 - 0:20] पहला strength curves और दूसरा muscle contribution
+[0:20 - 0:26] अभी strength curve is basically how the difficulty of an exercise changes throughout the range of motion
+[0:26 - 0:28] और ये strength curves अलग-अलग types के आते हैं
+[0:28 - 0:33] जैसे flat, bell shaped, linear ascending और linear descending
+[0:33 - 0:36] अभी जब भी there are multiple muscles which help move a joint
+[0:36 - 0:40] कौन सा muscle सबसे ज़ादा काम करेगा will depend on the position of the joint
+[0:40 - 0:44] As you move through the exercise, the leverage each muscle has changes
+[0:44 - 0:48] So at different points of the lift, different muscles take over more of the load
+[0:48 - 0:49] अगर हम example लेंगे hip joint का
+[0:49 - 0:55] The hamstrings, gluteus maximus, adductor magnus ये सारे contribute करेंगे hip extension के लिए
+[0:55 - 0:58] But इनका internal movement arm change होता है joint angle के साथ
+[0:58 - 1:03] अभी the internal movement arm length of the gluteus maximus increases as the hip approaches full extension
+[1:03 - 1:08] And the internal movement arm length of the adductors increases as the hip flexes
+[1:08 - 1:14] And finally, the internal movement arm length of the hamstrings display a shallow bell shaped curve
+[1:14 - 1:18] अभी इसका मतलब ये है कि जब भी हम एक squat perform कर रहे हैं with a partial range of motion
+[1:18 - 1:22] The gluteus maximus is the larger contributor to hip extension torque
+[1:22 - 1:28] But when the squat is performed with a full range of motion, the adductor magnus contributes to a greater
+[1:28 - 1:33] extent इसका basically मतलब ये है कि हर exercise will challenge your muscles in different ways
+[1:33 - 1:37] depending upon its strength curves और ये different strength curves will target muscles differently
+[1:37 - 1:42] और अगर हमें maximal growth चाहिए we need to use movements which accounts for the strength curve
+[1:42 - 1:42] differences
+[1:42 - 1:43] Hope that helps
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] I exercise “= Tr
+[0:00 - 0:01] Your gains
+[0:00 - 0:02] might be killing yo
+[0:00 - 0:02] __ —your exercise prog)
+[0:01] a exercise = mm
+[0:01] rons ॥1॥॥710
+[0:01] afin
+[0:01] might
+[0:02] gt] exercise =
+[0:02] Tam
+[0:02] ‘q Ad
+[0:02] fal
+[0:03] T this is gonna
+[0:03] विदा
+[0:04] ron
+[0:04] कं this is gonna be thé’
+[0:04] episode of
+[0:05] 52८16
+[0:05] जिला
+[0:05] sre
+[0:05] parane,
+[0:05] fle
+[0:05] am Ne
+[0:06] yr NN
+[0:06] ide
+[0:06] oy 5 ||
+[0:08] बीज
+[0:08] selecti
+[0:09] or a
+[0:10 - 0:12] proportional muggle
+[0:11] i: me.
+[0:11] Scarce
+[0:12] Bea I
+[0:12] znusele scle Contribution
+[0:12] Ke baare 118
+[0:13] i for-us-
+[0:14] a वजन
+[0:15] FF डे
+[0:15] proportional muscle
+[0:15] contribution
+[0:17] है ५
+[0:17] 8 have to-tinderstand tw
+[0:18] है, पाक curves
+[0:18] शर्ट ६१
+[0:18] pahela
+[0:19] wAt:
+[0:19] joosra
+[0:19 - 0:20] pahela strength,
+[0:20] Ais.
+[0:20] j Muscle contributions 4 .
+[0:20] doosra “I
+[0:21] abhi
+[0:22] Ay j=
+[0:22 - 0:23] is basically how pe
+[0:24] is basically how the difficulty
+[0:24] an exercise
+[0:25] Bee
+[0:25] throughout the
+[0:26] treng
+[0:26] wae
+[0:26 - 0:28] erefarevdifferent types
+[0:27] ali
+[0:27] ngth curves alag
+[0:27] '- aaa
+[0:27 - 0:28] ff trength curves :.
+[0:28] ie आए
+[0:29] Flat Strength cane
+[0:29] Flt gully Hord Throughout
+[0:29] है fistter 50 व लग 8 by using resistance bands
+[0:29] We can makelsome free weight exercises
+[0:29] faa
+[0:29 - 0:30] kya_hote Jesse flat bell
+[0:30] BellShoped: Hardest inthe Middle
+[0:30] Berean,
+[0:30] hardest whenithe\forearmis parailel to thesfiagr
+[0:30] * है कक
+[0:30] shaped
+[0:30 - 0:32] Example:
+[0:31] Linear: Hardest athe Start
+[0:31] Barbell squat
+[0:31] Hardestiat the bottom.
+[0:31] ending means that
+[0:31] a difficult at the start:
+[0:31] lift fencer
+[0:31] praise)
+[0:31 - 0:32] linear_ascending or
+[0:32] Liner Hardest tthe End
+[0:32] DBjLateral raise
+[0:32] eultiat the end
+[0:32] ‘of the lifting\(concentric) 9195
+[0:32] पैक
+[0:32] क्र
+[0:33] linear ascending or linear
+[0:33] descending
+[0:34] 1 lever:
+[0:34] ll है
+[0:35] bel
+[0:37] ul i
+[0:40] even ee
+[0:42] a बा
+[0:42] ए vie ma
+[0:43] sri
+[0:43] क्र.
+[0:43] | level
+[0:43] rage
+[0:43] कह each Pheu
+[0:43] “has
+[0:43] hs id
+[0:43] पदक
+[0:43 - 0:44] — LEVERAGE IS King, | YW
+[0:44] ert"
+[0:44] gor?
+[0:45] 50 at diffe
+[0:46] Yin
+[0:46] different
+[0:47] different muscle take over =~
+[0:47] more
+[0:48] gar ham.
+[0:49] Mm be
+[0:49] Agar
+[0:49] ple lenge hip
+[0:50] an ह
+[0:50] Kad
+[0:50] ings
+[0:51] NSS
+[0:51] 112
+[0:51] ings gluteus
+[0:51] imus
+[0:51] 7 अत
+[0:52] iss
+[0:52] Inlp joint
+[0:52] oma आकर
+[0:52] [99705
+[0:53] joint
+[0:53] tLe.
+[0:53 - 0:54] “ye sari contri bute:
+[0:54] जब SY
+[0:54] hip extension
+[0:55] but
+[0:56] 112६
+[0:56] but inka
+[0:56] nal moment
+[0:57] # 102४
+[0:58] Alay
+[0:59] omentanmlengtt
+[0:59] Thy
+[0:59] 5 Wa
+[0:59] arm:
+[0:59 - 1:01] Internal
+[1:00] (senaist cence
+[1:00 - 1:02] CGuteus Maximus Activation Pyramid
+[1:00 - 1:02] Movonertt be pont
+[1:00 - 1:02] Peak Activation
+[1:00 - 1:02] went act
+[1:01] imomentfarm)length)
+[1:01] hore mace
+[1:01] (senaistcnennon
+[1:01 - 1:02] Hip Extension
+[1:01 - 1:02] CGluteus Maximus
+[1:01 - 1:02] Prom nce rhe
+[1:01 - 1:02] ‘Maxim
+[1:01 - 1:02] Opiate
+[1:02] (senaiat cern
+[1:02] Ls id I
+[1:04] VP (2
+[1:05] bye
+[1:06] nn कह
+[1:06] inc
+[1:10] a माह
+[1:10] Wan
+[1:10] foo
+[1:10 - 1:11] “est
+[1:10 - 1:11] Mods
+[1:12] arm length of the
+[1:12] hamstrifys display a
+[1:13] y | Lt
+[1:14] | Nay
+[1:14] ped curve
+[1:15] tin
+[1:15] yeh Hai
+[1:16] aay
+[1:18] aot
+[1:18] arity
+[1:19] जन्‍म
+[1:20] Maximus Be larger
+[1:20] se ON
+[1:21] contrib
+[1:21] Maxim
+[1:21] he large
+[1:21] anit
+[1:21] aed
+[1:22] ee <j
+[1:22] torque
+[1:22] Vanes
+[1:23] SSS
+[1:23 - 1:24] when
+[1:24] Vf “i
+[1:24] is performed
+[1:25] Bie
+[1:25] ल्‍नन >> छछस
+[1:25] with a full range of
+[1:26] the adductor's | A, j है
+[1:27] wie
+[1:27] रू 2.
+[1:27] NG 4
+[1:27] the adguctors Magnus
+[1:28] the asics Mai
+[1:28] ites to a gi
+[1:28] ter
+[1:28] extent
+[1:29] sa Pi
+[1:29] 1००
+[1:29] basi
+[1:31] v SN
+[1:32] y हे
+[1:32] 17५56
+[1:32] will chal
+[1:32] 265
+[1:33] i} श्र
+[1:33] 3 Sy
+[1:33] depending)
+[1:34] Vie
+[1:34] ‘ail!
+[1:34] Sey
+[1:34] igth
+[1:35] rs H ed |
+[1:35] है 25८४
+[1:35] - dite Saas
+[1:36] | मय पक
+[1:36 - 1:37] willta >
+[1:36 - 1:37] Sel Sy
+[1:38] jot mi im
+[1:39] ea om
+[1:39] Dery
+[1:39] need 1५
+[1:40] ak ७.
+[1:40] _w ed bam
+[1:41] 7 which
+[1:41] VA | 2
+[1:42] ~~ which accounts.
+[1:42] —. Strength surve differences
+[1:42] ८ जा
+[1:42] करा >>
+[1:43] हवन
+[1:43] 32 ६
+[1:43] hope
+[1:44] Hope that helps follow for
+[1:44] more

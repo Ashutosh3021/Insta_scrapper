@@ -1,0 +1,96 @@
+# model: ggml-large-v3
+========================================================================
+[921] https://www.instagram.com/reel/DH8fesmBQwW/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:18] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fmt
+[0:00] kisika bac!
+[0:00] lop hoga
+[0:00] move
+[0:00] hinhi
+[0:00 - 0:01] | Bohot:simple|hai
+[0:00 - 0:02] 8 hote h.
+[0:00 - 0:18] & If it goes like that then
+[0:01] vol
+[0:01] | fami
+[0:01] ol me
+[0:01 - 0:02] Backgt ३:
+[0:01 - 0:04] hinhi cus
+[0:01 - 0:04] movemei
+[0:01 - 0:08] kisika back develop hoga
+[0:02] है में
+[0:02] i ame
+[0:02] bay
+[0:03] | fil \ossizem
+[0:03] हैँ |
+[0:03] cam
+[0:03] ॥ वन्य
+[0:03 - 0:04] licatelit i
+[0:03 - 0:04] ‘same hote h
+[0:04] Doniticomp
+[0:04] Here's whatyoulcan'do
+[0:04] TF ol a: न
+[0:05] Doniticomplicate it; ४
+[0:05] 885 whatyoulcanido
+[0:05] 3354 जब:
+[0:05 - 0:08] hinhi cus wo sab
+[0:05 - 0:13] movements same hote h
+[0:06] 10038 one from these two" ‘
+[0:06] Itit
+[0:06] like that then
+[0:06] kisi
+[0:06] bat
+[0:06] jelop hoga
+[0:06] hinhi
+[0:07] OSE)
+[0:07] om ee two
+[0:07] Whe
+[0:08] 5 पा
+[0:08] Choase}
+[0:08] Zomithese two,
+[0:08] it a
+[0:09] J. का
+[0:09] Ha a 2. ALat Row
+[0:09] kisika back des
+[0:09] hinhi cus
+[0:09 - 0:12] /elop hoga
+[0:10] Row
+[0:10] 3. (वा Bae
+[0:10 - 0:11] hinhi
+[0:10 - 0:11] moven
+[0:10 - 0:18] kisika back
+[0:11] 3. AbPper Ba Rau
+[0:11] kisi
+[0:12] 3: pre आ Row)
+[0:12 - 0:17] hinhi cus wo sab
+[0:13] क्र
+[0:13] 10०8 like that then
+[0:13] yack develop hoga
+[0:13 - 0:18] And that’s it
+[0:14] हर by
+[0:14] son hoga
+[0:14] movements
+[0:14] 8 hote h.
+[0:14 - 0:18] hinhi
+[0:15] movemé
+[0:15] ame hote h
+[0:15 - 0:18] You don't have to
+[0:15 - 0:18] Everything inthe samejsession
+[0:15 - 0:18] /elop hoga
+[0:16] Ifit goes
+[0:16] that then
+[0:16] moven
+[0:16] nts same hot
+[0:17] But this 0] youll
+[0:17] ‘all
+[0:17] ‘a back develop hoga
+[0:17 - 0:18] movements same hote h
+[0:18] But this'is)
+[0:18] shim
+[0:18] 0 sab

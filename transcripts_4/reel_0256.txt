@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[256] https://www.instagram.com/reel/DakrdWrMNsj/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Bro, that shit was rigged.
+[0:01 - 0:03] I'm telling you, that shit was rigged.
+[0:03 - 0:04] I don't even watch football.
+[0:04 - 0:06] Anyways, you guys can fight in my comments.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aes
+[0:00] Sea
+[0:00] जि की
+[0:00] GPs
+[0:00 - 0:04] Training/Nutrition/Anything
+[0:00 - 0:06] Was Argentina vs Egypt rigged?
+[0:01] Nie Tonal
+[0:01] ape
+[0:01] thy
+[0:02] २०३००
+[0:02] Cae
+[0:02] २८०७
+[0:02] Orne
+[0:03] eas
+[0:05] “ial
+[0:05] Training/N
+[0:05] ition/Anything
+[0:05] ३27
+[0:05] tad
+[0:06] 5७४४७ utrition/Anything

@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[135] https://www.instagram.com/reel/Dc_YgR4sDQZ/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] i know i've been away i'm just trying to get my people straight girl
+[0:06 - 0:12] don't get my shit away i'm just trying to get my people straight
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ouGt
+[0:00] Ww \e
+[0:00] OW « he differ en
+[0:01] ip ah
+[0:01] 5 1 tn
+[0:01] Daten
+[0:01 - 0:03] bay |
+[0:01 - 0:03] 6६५४
+[0:01 - 0:03] anditriceps
+[0:02] me मै
+[0:02] reuppettpe
+[0:02] बा जा
+[0:03] ROG
+[0:03] 10०
+[0:03] may
+[0:04] GLE DAY
+[0:04] i > Xe
+[0:04 - 0:05] More Ha
+[0:04 - 0:07] | AlN
+[0:05] i mid :
+[0:05] fine
+[0:05] NS 15 )/9००
+[0:05 - 0:07] 8७9
+[0:05 - 0:07] “see क
+[0:06] | GLE
+[0:06] ere
+[0:06] More a [0605
+[0:06] न (08205
+[0:06] ba (| | 90५7
+[0:06] <r BY
+[0:06] Wis
+[0:06] Se 8७.
+[0:06] Saas
+[0:07] (006
+[0:07] | aeP
+[0:07] 1 हक en |
+[0:07] More hip
+[0:07] dimid pees
+[0:07] \ ९2००
+[0:08] हि y
+[0:08] ow extension |
+[0:08] can
+[0:08 - 0:09] Day |
+[0:08 - 0:09] iil
+[0:08 - 0:09] Pure elshoulder flexion
+[0:09] (॥06॥000 extension
+[0:09] ie S
+[0:10] M egal,
+[0:10] x1ON
+[0:10] See
+[0:10] a Bm
+[0:10 - 0:12] 006
+[0:11] oust
+[0:11] poe onal
+[0:11] i flexion
+[0:11] aie | extension
+[0:11] है ह
+[0:11] \ tia
+[0:11] au me al
+[0:11] श्र
+[0:11 - 0:12] r horizontal addu
+[0:11 - 0:12] ction
+[0:12] puSH | aN
+[0:12] ulde
+[0:12] Elbow.extension
+[0:12] | यकाओ.

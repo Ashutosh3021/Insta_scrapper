@@ -1,0 +1,110 @@
+# model: ggml-large-v3
+========================================================================
+[851] https://www.instagram.com/reel/DKzzXwAtpNo/
+STATUS: OK
+DURATION: 0:41   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] यह बंदा यहाँ पर अपना chest एकदम optimal way में train करता with the amount of equipments he has
+[0:04 - 0:09] अभी those of you guys don't know this guy just trains in his own house and he uses the equipment which his dad gives him
+[0:09 - 0:13] मुझे natty और knots के बीच में फरक नहीं पड़ता I care about optimalism
+[0:13 - 0:16] क्या वो बंदा natty है क्या वो ना natty नहीं है मुझे फरक नहीं पड़ता
+[0:16 - 0:20] but if you have a look at this exercise this guy has everything dialed in
+[0:20 - 0:25] look at this he has a seatbelt going on here to stabilize himself
+[0:25 - 0:27] he is using his other arm to stabilize the movement
+[0:27 - 0:30] and he is performing the movement single arm
+[0:30 - 0:34] compared to a double arm movement this unilateral movement is going to have more motivated recruitment
+[0:34 - 0:39] with the additional stability he is literally maximizing his stimulus on this exercise
+[0:39 - 0:40] so yeah वो बंदा है स्वाफ हूँ
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Lal
+[0:00 - 0:01] Vidhanshu
+[0:00 - 0:01] not optimal?
+[0:00 - 0:01] Training chest with one DB?
+[0:01] 195
+[0:02] Optima
+[0:02] LoS
+[0:03] fia
+[0:05] lan 4
+[0:05] bes
+[0:06] If hes)
+[0:06] Wing)
+[0:06] Carejalyoutto
+[0:06] iti
+[0:06] — अंक]
+[0:06] just
+[0:06 - 0:08] Yeah\! dontfear
+[0:06 - 0:08] = the
+[0:06 - 0:08] lose Of you guys 2 a
+[0:06 - 0:08] this
+[0:07] be carelabo
+[0:07] If hesjlying) ei ther:
+[0:07] Wis 5५)
+[0:07] thisyguy just tr:
+[0:07] ‘own house
+[0:08] | careyabout{op:
+[0:08] timmali smn)
+[0:08] ode
+[0:08] st trai
+[0:08] wn ho!
+[0:08] aut
+[0:08] ind he
+[0:09] thy a.
+[0:09] | | those of, you guys domits
+[0:09] w thi
+[0:09] just tr:
+[0:09] ‘wn Bills
+[0:09] ise and h
+[0:09] a e equipment which his
+[0:09] dad
+[0:10] Tos
+[0:13] क्‍ हे
+[0:15] = lhl >
+[0:16] Ard
+[0:18] Oe ial
+[0:18] Seal cree : ‘4
+[0:18 - 0:27] sible? \"
+[0:20] (खिल dwarven
+[0:20] ‘hig
+[0:23] sib]
+[0:23] Pe: belt P-4 on
+[0:24] Baa belt
+[0:24] ing on
+[0:24] lize
+[0:25] 5 WA
+[0:26] is other
+[0:27] other arm.to_
+[0:28] Vue
+[0:29] n nt
+[0:30] compared
+[0:31] ent
+[0:32] ail A
+[0:32] ft oa
+[0:32] mony
+[0:32 - 0:34] movements:
+[0:32 - 0:34] motonlunitirecquitment:
+[0:32 - 0:34] igoing)to have;
+[0:33] hill
+[0:33] to have
+[0:34] 4 lid
+[0:35] wos
+[0:35] het
+[0:35] ‘with the a
+[0:36] jee +
+[0:36] 4 the additional subi
+[0:37] tac yy
+[0:37] Cer
+[0:37] ४० आता
+[0:37] के रद
+[0:37] _ is literally Raxirh
+[0:37] mS पसा सटे
+[0:38] law he
+[0:38] as OS > oe
+[0:38] Fis literally
+[0:38] —w ec
+[0:39] literally maximizin
+[0:39] ‘stimulus on this exe
+[0:40] sme
+[0:40] ne yeah hope fas

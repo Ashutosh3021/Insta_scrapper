@@ -1,0 +1,85 @@
+# model: ggml-large-v3
+========================================================================
+[142] https://www.instagram.com/reel/Dc3yLGIs53x/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: de
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Ich brauch ne Therapie, erstmal an die Bar
+[0:02 - 0:04] Fünf Bier und bitte was zum Cheat
+[0:04 - 0:11] Du bist schon wieder drauf
+[0:11 - 0:14] Gib mir den Fleck, ich schau
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a fN
+[0:00] ” Best pre workout
+[0:00] | Lin
+[0:01] ee A
+[0:01] Cream of rice
+[0:01] 5 SNe
+[0:01] all
+[0:02] oat? es
+[0:02] ~ Ce 3५ ४
+[0:02] a की
+[0:02 - 0:03] And honey, ”
+[0:03] ॥ ७7४
+[0:03] wow
+[0:03] For / reps
+[0:03] । सका
+[0:03] BEE
+[0:03] Then
+[0:03] co eg
+[0:03] ee ५८
+[0:03] ef ra,
+[0:03 - 0:05] Whatever this is 3
+[0:04] le 3
+[0:04] me है
+[0:04] pmthigis
+[0:04] 101 reps | |
+[0:04] सछ आए
+[0:04] ae व
+[0:04 - 0:15] bay |
+[0:05] RT ad
+[0:05] PS a
+[0:05] प्र >्ड
+[0:05 - 0:09] रे reps
+[0:06] ody
+[0:06] Ras
+[0:06] न पं
+[0:06] Hi i |
+[0:06] हि-चे
+[0:07] aa | i
+[0:07] ie y
+[0:07] FNS
+[0:07] wig
+[0:07] Pa 5
+[0:07] नग्न
+[0:08] hati
+[0:08] fe f=
+[0:08 - 0:15] ever this is)
+[0:09] — अदा मत
+[0:09] कमान.
+[0:10] het
+[0:10] Mtr rep’
+[0:11] vel
+[0:11] Rr rept
+[0:11] Dil,
+[0:11] सिने
+[0:12] For'/ reps
+[0:12] NEES
+[0:13] RF ad
+[0:13] REG
+[0:13] SSE
+[0:13] erthis
+[0:13] eh / a
+[0:13] Sep
+[0:13 - 0:14] 1 reps |
+[0:14] a | है |
+[0:14] हि by
+[0:15] (000,
+[0:15] हि है
+[0:15] For.
+[0:15] 4 an
+[0:15] बने
+[0:15] al Vy,

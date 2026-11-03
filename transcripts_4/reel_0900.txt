@@ -1,0 +1,405 @@
+# model: ggml-large-v3
+========================================================================
+[900] https://www.instagram.com/reel/DI1Q5RIBRm7/
+STATUS: OK
+DURATION: 2:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] is bad i keep falling sick again and again so it's not recovery like it is the recovery there
+[0:06 - 0:12] is this concept called an open window theory basically what it means is after a high intense
+[0:12 - 0:16] workout your immune system kind of declines this is more or less happening because of physiological
+[0:16 - 0:25] stress it can last for about three hours or even 72 hours depending upon how intense was the whole
+[0:25 - 0:30] thing and how well you can recover that is exactly why we see that a lot of these long distance
+[0:30 - 0:35] runners get a lot of these upper track respiratory issues guys come up love exercise is bad for you
+[0:35 - 0:40] because it's going to reduce your immune system now be a specific circumstance only applies to
+[0:40 - 0:45] high volume workouts or workouts which take a long duration you can see the previous example
+[0:45 - 0:49] which i mentioned long distance runners will see this happening all the time in the ages
+[0:49 - 0:51] but
+[0:55 - 1:00] a lot of people have good programming a lot of people have good diet a lot of people have good
+[1:00 - 1:05] recovery but there are some people who do not want to do that let me introduce you to one specific
+[1:05 - 1:10] thing called the general adaptive syndrome in a very simplistic manner gas principle is basically
+[1:10 - 1:17] if you give your body stressors it will recover and create a new baseline if you give it time to recover
+[1:17 - 1:23] now the bigger the stressor the more time it will take to recover now let's say you gave a stressor
+[1:23 - 1:25] and after giving that stressor
+[1:25 - 1:30] during the recovery period you gave one more stressor then you are going to go down
+[1:30 - 1:35] and you'll reach something called an overreaching phase that if you're still pushing past that phase
+[1:35 - 1:40] you'll get out of that optimal stimulus recovery adaptation ratio this is what the optimal stimulus
+[1:40 - 1:45] recovery adaptation ratio looks like and this is what it does not look like in her case especially
+[1:45 - 1:51] she is subjecting herself with too much stressors where she's essentially underperforming and under
+[1:51 - 1:56] recovering and this is exactly where the open window theory opens up this only happens if your
+[1:56 - 2:02] programming is bad or you have poor load management and this is exactly why she gets sick all the time
+[2:02 - 2:09] in india we don't see exercise programming as important we put volume on the volume but a lot
+[2:09 - 2:14] of people just don't know that there is obviously too much of a good thing all the time so hope that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] SS rs |
+[0:00] oat
+[0:00] mean. a
+[0:00 - 0:02] Stitch incoming _
+[0:00 - 0:04] That's why you fall sick after
+[0:00 - 0:04] Cardio Session
+[0:01] a हार
+[0:01] tes
+[0:01] “ft eC
+[0:01] ee are)
+[0:01] rae
+[0:02] toa
+[0:02] (कक fang sick i
+[0:02] हैं “2
+[0:03] =r पर्ा
+[0:03] nF Le
+[0:03] Stitch =
+[0:03] ह 35
+[0:03 - 0:04] it's not the recall re;
+[0:04] De a
+[0:04] maa (
+[0:07] mt 4
+[0:07] there is thi
+[0:07] ncept called
+[0:08] i" = ba of
+[0:08] thre ory,
+[0:08] there is this concept called
+[0:08] an open window
+[0:09] कि 2
+[0:10] had
+[0:10] Wf a.
+[0:10] after
+[0:10 - 0:11] ssceptibilty to lines
+[0:10 - 0:12] Open Window Theory: After intense exercise increased
+[0:10 - 0:12] basically what it means is
+[0:11] hag
+[0:11] Pay
+[0:11] Alter in
+[0:11] sxercise increased
+[0:11] after a high
+[0:11 - 0:14] Open Wind:
+[0:12] Wi fe.
+[0:12] sscoptibilty tof
+[0:12] श्र
+[0:12] after a high intense workout
+[0:13] Hae
+[0:13 - 0:14] your immune system kind of
+[0:14] Alter in
+[0:14] sxercise increased
+[0:14] ssceptibilty to lines
+[0:14] declines
+[0:15] । pea
+[0:15] this is more or less
+[0:16] happening
+[0:16] use of
+[0:16] 8 29
+[0:17] hap}
+[0:17] because of
+[0:17] = stress
+[0:17] ४ Sp
+[0:18] by i
+[0:18] Abhi eS jo-
+[0:19] Abhi ve Je. immune system ki
+[0:20] it can
+[0:21] it can last ‘olen three
+[0:21] 9. 2७
+[0:22] it can last for about three
+[0:22] hours or even
+[0:22 - 0:25] “Open
+[0:22 - 0:25] ndow
+[0:22 - 0:26] 3-72h
+[0:23] “Open Window”
+[0:23] dependin
+[0:24] jon how
+[0:24] intense
+[0:25] in how
+[0:25] intense was the whole thing
+[0:26] “Open Window”
+[0:26] and ho’
+[0:26] ell you
+[0:28] a री,
+[0:28] Phy
+[0:28] that is exactlyWhy we see
+[0:28 - 0:32] |” Exercise, upper respiratory tract infection, and the
+[0:28 - 0:32] | immune system
+[0:29] >स्गा
+[0:29] 22552
+[0:29] alot
+[0:30] a lot of thes@llong distance
+[0:31] get a lot of
+[0:32] ay all
+[0:32] get a lot of thes@ upper track
+[0:33] “se af
+[0:33] pips
+[0:33] Waited?
+[0:33] bot ४
+[0:33] pi ry issues Ki
+[0:34] Exer
+[0:34] CSes .
+[0:34] exercise “a
+[0:34 - 0:35] Vaulted
+[0:35] XETEISESIS)
+[0:35] because
+[0:36] because it's gonna reduce
+[0:36] > ir immune
+[0:37] no be
+[0:38] rile)
+[0:38] ‘olume)
+[0:38] long) Be
+[0:38] ition)
+[0:38] ८८2
+[0:38] no bea specific
+[0:39] fie
+[0:39] 4 client
+[0:39] Oglong gu
+[0:39] ८22
+[0:39] कक नीता
+[0:39] aoe
+[0:39] only
+[0:40] long dural
+[0:40] only applies to
+[0:40] ४6 2
+[0:40 - 0:42] Or unmanaged
+[0:40 - 0:42] /Programmming
+[0:41] ighhvolume)
+[0:41] Of long) _
+[0:41] only applies to high volume
+[0:41] workouts
+[0:41 - 0:42] ane
+[0:42] Ig 4
+[0:42] or workouts witth
+[0:42 - 0:43] longiduration
+[0:43] 9०० 1
+[0:43] hyvolume’
+[0:43] ho I
+[0:43] or workouts Which take a
+[0:43] long
+[0:44] ct on
+[0:44] ro 2d
+[0:44 - 0:45] you can see th
+[0:45] vious
+[0:45] दिला which
+[0:46] yore
+[0:46] fol
+[0:46] छः 226
+[0:47] a की,
+[0:47] we'll
+[0:48] hoe time to ‘time’
+[0:48] Tae
+[0:48] we'll see this happening
+[0:49] ० कम
+[0:49] a ४४
+[0:50] है 3.1
+[0:50] time)
+[0:50] joe
+[0:50] mM dst
+[0:50] in case this is a replicability
+[0:52] meh
+[0:52] A 2 ham ye same.
+[0:52 - 0:54] ise
+[0:52 - 0:54] icre
+[0:52 - 0:56] The effect of resistance ex
+[0:52 - 0:56] function in humans: A systematic review
+[0:52 - 0:57] ise on the immune cell
+[0:53] ance exercise
+[0:53] but Agar ham ye same
+[0:53] i resistance
+[0:53 - 0:57] The effect of,
+[0:54] _ aed
+[0:54] me dikhe gey
+[0:55] - exercise on the
+[0:55] ne cell
+[0:55] °q gey iska data
+[0:56] because
+[0:57] nce
+[0:57] function in hu
+[0:57] Asi
+[0:57] because a lot Beopie have
+[0:57] 9 जी.
+[0:58] til
+[0:58] ॥ peopl
+[0:59] EIA
+[0:59] ह- बी
+[1:00] Lae
+[1:00] है... have good
+[1:00] recovery
+[1:01] छ/८५
+[1:01] Le lofypeople
+[1:01] SUSE nod wal
+[1:01] ntytolbother
+[1:01] good
+[1:01] rogram)
+[1:01] £ ५805
+[1:01] 4.7 ८
+[1:01] but
+[1:02] fi: of;
+[1:02] Justia
+[1:02] ant
+[1:02] Tea) mag
+[1:02] ie people
+[1:02 - 1:03] bother
+[1:02 - 1:03] Igood|program!
+[1:02 - 1:03] but there are
+[1:03] bt Le
+[1:03] ॥014
+[1:03] dont;
+[1:03] Wels
+[1:03] न्न्क
+[1:03] ‘some people
+[1:03] प्र
+[1:03] do not want to do
+[1:05] Abhi let me introduce you to
+[1:05] one specific
+[1:06] Mga
+[1:06] eneral adapt
+[1:06] called the
+[1:07] Wi a
+[1:07] daptiversymedrome)
+[1:07] कत्ल
+[1:07] called the General Adaptive
+[1:09] iat
+[1:09] in a very simplistic
+[1:10] i ADAPTATION Z (Gas)
+[1:10] neg.
+[1:10 - 1:11] gas principle is 9:
+[1:11] See oer
+[1:11] ‘Gees
+[1:11] Agartum tui
+[1:11] imi
+[1:11 - 1:12] GENERAL ADAPTATION SYNDROME (GAS)
+[1:12] Mes
+[1:12] धाम
+[1:12] body KO stress addhoge
+[1:12] mn J
+[1:13] etl
+[1:13] कि ५
+[1:13 - 1:14] wo reci
+[1:14] sad
+[1:14] कक न
+[1:14] my A,
+[1:14] er oe or ney
+[1:15] sal
+[1:15] Meir wis
+[1:15] SOME
+[1:15] किन बनता
+[1:16] 11115
+[1:16] 1/७9॥२८६८७ ४६२
+[1:16] ७. जे.
+[1:16] asl
+[1:16] if you give
+[1:17] <i हे 3>- काल
+[1:17] है ~ 9
+[1:18] Morekthe! ““
+[1:18 - 1:20] Moreitime'to recover
+[1:19] More’ fine SUES |
+[1:19] More) time to जा
+[1:20] er ith
+[1:20] elstressoy
+[1:20] हैक
+[1:21] 330... ee 7 नीच
+[1:22] tas
+[1:23] कत्ल,
+[1:25] a tmall
+[1:27] Level ot aptnion
+[1:27] b- ल्‍
+[1:31] cine
+[1:31] and you'll reach'something
+[1:32] wan
+[1:32] cal
+[1:32] hing
+[1:32 - 1:33] called an ०
+[1:33] malls imulus) fe
+[1:33] Opti
+[1:33] COVERY,
+[1:33] adap}
+[1:33] mMRAtio
+[1:33] iching phase
+[1:33] gain if
+[1:34] Optimal stim
+[1:34] USHE COVE KY:
+[1:34] ada ptation |
+[1:34] pushing
+[1:35] | og herevisia)
+[1:35] @ptimal
+[1:35] mulus “A
+[1:35] Voi Yad Ratio
+[1:35] ead
+[1:35] you'll
+[1:35] i 2p
+[1:36] COVEY,
+[1:36] hast ion Ratio}
+[1:36] you'll get out ofa optimal
+[1:36] li 9
+[1:36 - 1:37] muluspries
+[1:37] recovery
+[1:37 - 1:38] in ratio
+[1:38] ea ए-
+[1:39] recovery ae ratio.
+[1:39] this is what##he optimal
+[1:40] LIAS
+[1:40] timull
+[1:41] ecg
+[1:41] BS - 0
+[1:41] stimulus - adaptation
+[1:41] ratio
+[1:42] yet
+[1:43] and this is Whabit does not
+[1:43] है. 2»
+[1:44] wet.
+[1:44] ‘ined
+[1:44] कुछ प्रा
+[1:44] Abby
+[1:45] Abby in her case €specially
+[1:46] oem
+[1:46] he’ ibjecting
+[1:47] she's subjectingjherself with
+[1:47] too
+[1:48] Miche
+[1:49] oe TS
+[1:50] senti
+[1:50] rformi
+[1:51] and nal
+[1:51] ring
+[1:52] Open Window Theory: Atterintens
+[1:52] ptiility (७ ॥
+[1:52] and under recovering and
+[1:52] this is exactly
+[1:52 - 1:54] reise increased
+[1:53] Atte
+[1:53] 8 sD
+[1:53 - 1:54] where the open window
+[1:54] Open Window
+[1:54] After inten
+[1:54] tility to
+[1:54] theory opens Up
+[1:55] hi lh
+[1:56] ९८2
+[1:56] नकल ६ Py
+[1:56 - 1:57] if your programming is bad
+[1:57] = aia
+[1:58] management
+[1:59] bot
+[1:59] id thi
+[1:59] mm 3
+[2:00] and this is “गली, !
+[2:00] शी 2
+[2:01] and this i Fexa ictly why she
+[2:01 - 2:02] gets sick all ROth
+[2:02] et fay
+[2:03] दमा इक
+[2:04] hoe
+[2:04 - 2:05] exercise programming go
+[2:05] itna importance
+[2:06] ham
+[2:07] 4,4 J
+[2:08] ७४ ६1८
+[2:08] but
+[2:09] =. ६1८
+[2:09] ४ 39
+[2:09 - 2:10] but a lot of people just don't
+[2:10] = et I
+[2:11] ssa
+[2:11] = rq sé
+[2:11] obviously =
+[2:12] i, C2
+[2:12] ly too much of
+[2:13] ५८८८
+[2:13] eal
+[2:13] obviously too much of a
+[2:13] good thing all the time

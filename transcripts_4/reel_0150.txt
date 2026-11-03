@@ -1,0 +1,106 @@
+# model: ggml-large-v3
+========================================================================
+[150] https://www.instagram.com/reel/DctyqQtMAkk/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] if? oot
+[0:00 - 0:01] | Just letting you
+[0:01] m= iA
+[0:01] A ay
+[0:01] हित
+[0:02] I ad an are: like
+[0:02] aoe
+[0:03] I Bd an exercise like
+[0:03] mihis
+[0:04] And'this
+[0:04 - 0:05] he same Session z
+[0:05] ete
+[0:06] timal = |
+[0:06] Can\bejop
+[0:07] Cambeloptimal = |
+[0:07] rom
+[0:08] ! you fo
+[0:08] inal
+[0:08] get
+[0:08] YOU have all
+[0:08] nol
+[0:08] Over YOUR tr: कं
+[0:09] Widlyou forget that
+[0:09] WOU havevall control
+[0:09] NOUR "Y
+[0:10] youwannaido,2 set
+[0:10] val of
+[0:10] ४81) Exe Reise
+[0:10] |S Youlcan-dothat
+[0:11] you
+[0:11] nnajdor2 sets
+[0:11] |. given exe
+[0:11] a can do.that
+[0:12] att
+[0:12] But if you
+[0:12] eliofiditfene
+[0:12] atl
+[0:12] ent e:
+[0:13] ut if i wanna,do
+[0:13] हैः
+[0:13] i oe
+[0:13] iffe
+[0:13] FAL
+[0:13] ae 4
+[0:14] ५ train
+[0:14] i le rae
+[0:14] H ना
+[0:16] श्र
+[0:16] q ib of a
+[0:16] i} Lf
+[0:17] Ven)
+[0:17] 1 1 Take controllof own
+[0:17] Training
+[0:18] Individuals
+[0:18] you
+[0:18] nelgIVEn}
+[0:18] hose) e
+[0:18 - 0:19] ‘Auto-Regulated Exercise Selection Training Regimen
+[0:18 - 0:19] Produces Small Increases in Lean Body Mass and
+[0:18 - 0:19] Maximal Strength Adaptations in Strength-trained
+[0:19] <s 7a
+[0:19] uals
+[0:19] causelwien
+[0:19] given
+[0:19] itolc|
+[0:19] hooselexencises)
+[0:19] ity)
+[0:20] 11918 9
+[0:20 - 0:21] (ol) eem to imake better
+[0:21] ngage
+[0:22] INCreaselin\youry
+[0:22] ions'levels
+[0:22] See
+[0:23] ॥| hav i
+[0:23] a slevels
+[0:24] it then has a downstream
+[0:24] Whic
+[0:24] eet
+[0:24] igstnength
+[0:24 - 0:26] ect of increa:
+[0:24 - 0:26] Via motor unitnecnuitment
+[0:25] pat then has 8 dawstreamy
+[0:25] Effect of incréasing(stre!
+[0:25] ngth)
+[0:25] enti
+[0:25] Via Motor unit
+[0:26] then has
+[0:26] stream”
+[0:26] figstreng
+[0:26] thy
+[0:27 - 0:28] Follow
+[0:28] x ay
+[0:28] LAD
+[0:29] Follomntor
+[0:29] a ay

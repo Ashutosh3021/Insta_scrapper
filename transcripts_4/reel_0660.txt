@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[660] https://www.instagram.com/reel/DRMPwtaDLkv/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] If you're going to be performing a working set, you perform it with intent.
+[0:06 - 0:10] You don't want to go here with a mindset that okay, I'm just going to go ahead and do the
+[0:10 - 0:11] set.
+[0:11 - 0:12] Right?
+[0:12 - 0:16] You need to go with, like if you're going to be hitting every single set, you hit it
+[0:16 - 0:17] with an intent.
+[0:17 - 0:21] Like half your mind shouldn't be like away from the set, it should be at the set only.
+[0:21 - 0:26] Lock in, every time you perform a set, you have to, have to, have to lock in and if you're
+[0:26 - 0:30] not locked in, you might be just missing out some games, and we don't want, we are not,
+[0:30 - 0:31] it's not that optimal.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] गाए
+[0:00 - 0:09] Dotinis tin AUL
+[0:01] 1) 01॥ 11
+[0:01] youlP
+[0:01 - 0:02] if you are goingto be
+[0:02] performing a working set
+[0:02 - 0:04] OUP
+[0:02 - 0:04] wonking}sets
+[0:03 - 0:27] Your
+[0:04] you perform it with
+[0:05 - 0:18] isets}
+[0:06] working
+[0:06 - 0:07] you don't want to go
+[0:07] here witha
+[0:08] okay
+[0:09] okay I'm just goingto go
+[0:10] and do the set right *
+[0:10 - 0:14] tints in ALL
+[0:11 - 0:13] right you need to go
+[0:12] witl
+[0:13] QuRWORKI
+[0:13] fing
+[0:13] with like if
+[0:13 - 0:26] Dothisin ALL
+[0:14] hitting every
+[0:15] hitting every single set
+[0:16] hit it with
+[0:17] like
+[0:18] like half your mind
+[0:18] shouldn't
+[0:19] from
+[0:20] Kits iLL,
+[0:20] wonkil ig Sais
+[0:20] from the set it should
+[0:21] set only lock
+[0:22] time you
+[0:22 - 0:23] set only lock in every
+[0:23] time you perform a set
+[0:23 - 0:24] wonking)sets
+[0:24] our
+[0:24] you have to
+[0:25 - 0:27] [sets]
+[0:26 - 0:27] lock in and if you are
+[0:27] not locked in you might
+[0:27 - 0:29] DotinistinAUL
+[0:28] be just missing out
+[0:28 - 0:29] CURWoRKing
+[0:29 - 0:30] games right and we don't
+[0:30] our
+[0:30] [sets]
+[0:30] want we are not
+[0:30 - 0:31] 1) 01॥ 11
+[0:31] QuRWORKI
+[0:31] ting
+[0:31] that optimal

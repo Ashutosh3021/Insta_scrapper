@@ -1,0 +1,102 @@
+# model: ggml-large-v3
+========================================================================
+[382] https://www.instagram.com/reel/DXvxjB7sfWP/
+STATUS: OK
+DURATION: 0:34   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Do not train your abs.
+[0:01 - 0:02] Your abs will get blocky.
+[0:02 - 0:04] You shouldn't train your abs at all.
+[0:04 - 0:08] This is the same energy as a woman saying, oh, I don't want to get too big.
+[0:08 - 0:09] You're not going to get too big.
+[0:09 - 0:13] You're not going to get blocky abs just by training them once or twice a week.
+[0:13 - 0:14] That's not going to happen.
+[0:14 - 0:16] Train your abs.
+[0:16 - 0:21] It is going to look visually, I'm not even kidding, visually better when you start training your abs.
+[0:21 - 0:27] Do not fall into that propaganda that ab training shouldn't be done and the compound lifts are going to take care of it.
+[0:27 - 0:28] Train your abs.
+[0:28 - 0:33] Yeah, just like any other muscle, train them twice or thrice a week and make sure you're doing enough volume for them.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] la ya
+[0:00] 10५
+[0:00] क्र
+[0:00] train
+[0:00 - 0:03] your
+[0:01] Rg hE
+[0:01] abs
+[0:02] blocky
+[0:03] Wwe
+[0:03] sty
+[0:03] train
+[0:05] 41 ६
+[0:05] celal
+[0:05] energy
+[0:06] aad
+[0:06] svetitg yauebs
+[0:06] wome
+[0:07] ‘wetaig yom
+[0:08] youmabs
+[0:08] eat
+[0:08] श्र ne
+[0:08] too
+[0:09] von
+[0:09] get
+[0:10] your
+[0:10] going to
+[0:11] Mwy
+[0:11] पाए
+[0:11] blocky
+[0:12] OUP
+[0:12] training
+[0:12 - 0:14] cpt
+[0:13] Tea
+[0:13] ‘walang your
+[0:14] not
+[0:14 - 0:15] your
+[0:15] Bers
+[0:15] train
+[0:16] 7993
+[0:17] lets
+[0:17] look
+[0:17] Or a
+[0:18] itpainingiyour
+[0:18] pat
+[0:18] visually
+[0:19] (21111) your
+[0:19] kidding
+[0:20] rah
+[0:20] aininghyouy
+[0:20] Oat
+[0:20] when
+[0:21] eee '
+[0:21] training jour
+[0:21] श्र
+[0:21] bas)
+[0:22] Bey YE
+[0:22] irainingyaurets,
+[0:23] that
+[0:24] trefaing your
+[0:25] wwetlitg yam
+[0:25] done
+[0:25] जान
+[0:26] going to
+[0:26 - 0:28] your
+[0:27] tating your
+[0:27] fre
+[0:27] aaa
+[0:28] Pro
+[0:28] just
+[0:29] iPr. ५
+[0:29] के की,
+[0:29] बन्द
+[0:29] train
+[0:31] a. 4 3
+[0:31] है \e
+[0:31] you
+[0:32] tretaing your
+[0:32] volume
+[0:33] anyways
+[0:34] Ss taining

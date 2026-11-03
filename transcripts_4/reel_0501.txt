@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[501] https://www.instagram.com/reel/DVUAPTpjF7h/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] Субтитры сделал DimaTorzok
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] _~ yee
+[0:09] hey
+[0:13] Leal
+[0:14] Lan?

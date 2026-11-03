@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[115] https://www.instagram.com/reel/DdUgEOETb7s/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:18] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ranin
+[0:00] mad
+[0:00] tol2jpeople
+[0:00] inthe gym
+[0:00 - 0:01] Today,
+[0:01] gym:
+[0:01] Ran into}2jpeople
+[0:02] 2 म#ँ
+[0:03] $s * छा
+[0:03] bess
+[0:04] NN लाश
+[0:04] Py EF os
+[0:04] =, थव्कमजअ्लाहनो।
+[0:04] LAY
+[0:04] Ss a
+[0:04] tenet
+[0:04] ८ oe | Wa
+[0:05] A ल्‍ ता
+[0:05] lead
+[0:05] ९५. ८८५ ०. 4
+[0:05 - 0:06] LAN
+[0:06] = _ एाक्राााााा
+[0:06] नाक. eee
+[0:06] “Se कप -
+[0:06] बह. 4४३ oe
+[0:06] xh 3
+[0:06] ahs
+[0:06] 1S ia
+[0:07] ene
+[0:08] Ves
+[0:09] nel
+[0:11] ual
+[0:11] tle
+[0:12] adda
+[0:12] YF 2
+[0:12] Pri
+[0:14] ia ख्न
+[0:14] Be 1
+[0:15] ita
+[0:15] ५ | ०५
+[0:16] igi
+[0:16] के हि
+[0:17] Léa
+[0:18] na ht

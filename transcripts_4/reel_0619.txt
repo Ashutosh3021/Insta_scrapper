@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[619] https://www.instagram.com/reel/DSezzdkjJ8Z/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I don't know
+[0:03 - 0:06] I don't know
+[0:06 - 0:09] I don't know
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Soo °
+[0:00] Wish seed |
+[0:00] कै उ
+[0:00 - 0:01] for ethe lats
+[0:00 - 0:02] exeripise sooner
+[0:01] paces $001161
+[0:01] ite te
+[0:01 - 0:02] Wishistarted ‘|
+[0:02] हु lats
+[0:02] PLE,
+[0:02] Ze. ५८८
+[0:02] fee
+[0:03] i AW
+[0:03] — अन्‍«न्‍मथवक५७, —
+[0:03] ——e eee “Sees, “Sees
+[0:03 - 0:04] हैः
+[0:04] ral Hf
+[0:04] ——_ ‘eee “Sunes “cess
+[0:05] = fr नल
+[0:05] —— ‘See “Sunes “Seems
+[0:06] — 2 आई
+[0:06] tt नल
+[0:06] —— “See “see “Semen
+[0:07] है. जि
+[0:07] 7१४
+[0:08] A. —— Yr ee
+[0:09] a कै
+[0:09] (cgi
+[0:09] ध्णो
+[0:09] an ty am
+[0:09] vee Ae
+[0:09] aS ee ee
+[0:09] समा ााााााभ2ा+. जि ंथाााााओ ७ स्‍अजिंना
+[0:10] । Sai
+[0:10] a tp am
+[0:10] aes
+[0:10] — 3 जन्‍म
+[0:10] a ee aes
+[0:10] SS io esi
+[0:11] oat
+[0:11] ae 4
+[0:11] १७४८१
+[0:11] ame _ —
+[0:11] on eet

@@ -1,0 +1,79 @@
+# model: ggml-large-v3
+========================================================================
+[695] https://www.instagram.com/reel/DQcIKLTDIQi/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ie ०
+[0:00 - 0:02] always’ linear
+[0:01] fe ‘Ogness
+[0:03] Nee
+[0:03] ae) linear
+[0:04] = gress isi 4
+[0:04] IW: ys ese
+[0:05] oA i
+[0:05] ——— न विककक
+[0:05 - 0:06] always ——
+[0:06] A 18
+[0:06] ine
+[0:06] me Ss)
+[0:07] eal
+[0:07] b>! ic
+[0:07] 222
+[0:07] Ley
+[0:07 - 0:09] ML this +1tookme sweet
+[0:08] SM this-+1 tookme FS ste
+[0:08] a 22
+[0:08] 0५ 9 =
+[0:08] al x
+[0:08 - 0:09] ie SN
+[0:09] it4
+[0:09] (4७८
+[0:09] Lay
+[0:10] ate,
+[0:10] करार
+[0:10 - 0:11] ass
+[0:10 - 0:15] this +1 tookme4 reek em
+[0:11] हैं”
+[0:11] ete
+[0:11] आौ 5
+[0:11] roe
+[0:11] TF a
+[0:12] this #1 ‘oan
+[0:12] Ree “०.
+[0:12] २३६
+[0:12] Pay
+[0:12] ahs
+[0:13] why.
+[0:13] 11 0
+[0:13] ad se
+[0:13] Pe oo
+[0:13] wr*t
+[0:14] qr Bf \ as
+[0:14] toy
+[0:14] ees
+[0:14 - 0:19] MA this +1 tookme 4 ei
+[0:15] may OO
+[0:15] ६ aid
+[0:15] ८८५
+[0:15] ny 9
+[0:15 - 0:18] हे ies
+[0:16] » Sen
+[0:16] Same
+[0:17] aft
+[0:17] 6 | 1८४
+[0:18] BA this +1 00181 ie
+[0:18] wa) (३ मे
+[0:18] eal
+[0:18] Tara)
+[0:18] rie
+[0:19] स्का
+[0:19] i Sh
+[0:19] ba \ 4
+[0:19] se 4
+[0:20] बा this +1 took med wee

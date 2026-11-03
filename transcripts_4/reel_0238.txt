@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[238] https://www.instagram.com/reel/Da5cPxqsA8j/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:28] It has a seatbelt, it has the handles which fit me. But it's f***** resistance profile bro. Today we have reached my dream gym because this thing has a f***** seatbelt. Oh it fits me, it fits me bro. Just don't tell me, no no no no this can't be, this can't be, this can't be, this can't be true. This can't be f***** true bro. This can't be. Nooooo. It was going so well bro.
+[0:28 - 0:34] It has a seatbelt, it has the handles which fit me. But it's f***** dissenting resistance profile bro.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] t belty.
+[0:00 - 0:05] है quest to finding
+[0:00 - 0:05] jihelperfect Lat pullover machine
+[0:00 - 0:37] 4 “Lat‘pullover review
+[0:01 - 0:02] les which fit
+[0:02] irs
+[0:03] लता
+[0:04] छा पे
+[0:05] Kal
+[0:05] Xd | कक
+[0:05] 165
+[0:05] ce profi lebro
+[0:06] a) हि.
+[0:06] Cre
+[0:06] ote
+[0:06 - 0:08] hin
+[0:06 - 0:08] “icking Séat
+[0:06 - 0:09] ed my.
+[0:06 - 0:09] cause this
+[0:07] व्यय
+[0:07] ete
+[0:08] Wis
+[0:09] hing has a fucki
+[0:09] rig’s eat >]
+[0:09] een
+[0:10] 2 es
+[0:11] क्र.
+[0:11] its, tae people
+[0:12] i Nae ees
+[0:12] किक
+[0:13] a 7८
+[0:14] ‘hud
+[0:15] LS no; no,
+[0:15] opn
+[0:15 - 0:17] 't be, this
+[0:15 - 0:17] can't be, this can't
+[0:16 - 0:18] e, no; no,
+[0:17] ont of
+[0:18] 0.10,
+[0:18] can't be, a can
+[0:18 - 0:19] 1. can't be
+[0:19 - 0:20] नि true
+[0:20] छा १६ ४ =
+[0:20] bro
+[0:24] jy S—
+[0:24] sel
+[0:26] Aig
+[0:26 - 0:27] so well bro
+[0:27] LSA
+[0:27] MES
+[0:28] 1 है
+[0:28] | uff
+[0:28] eee a
+[0:28] t belt.
+[0:29] i if
+[0:29] Bee
+[0:29] जड़. a
+[0:29 - 0:30] les which fit
+[0:31] a) am
+[0:31] a ee
+[0:31 - 0:32] cking,
+[0:33] Decending
+[0:33] SEaNcelpr ofile ***
+[0:33] 1 en
+[0:34] 165
+[0:34] rofi lebro
+[0:36] {pati
+[0:36] 4 2h
+[0:36] aif
+[0:36] ety

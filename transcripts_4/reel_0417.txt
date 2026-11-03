@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[417] https://www.instagram.com/reel/DW-w8umDPyE/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] And you got me in a daze, illusion makes me waze
+[0:02 - 0:05] I'm caught up in you now, I'm tempted to stay
+[0:05 - 0:08] I don't wanna be looking at me, I got me since I was a woman
+[0:08 - 0:09] When you gonna get me?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Elis
+[0:00] You
+[0:00 - 0:01] justlost ०५
+[0:00 - 0:01] The best thing in
+[0:00 - 0:01] your life
+[0:01] ' stam
+[0:01] Her=
+[0:02] tilost
+[0:02] 1011 yo
+[0:02 - 0:03] bes
+[0:03] Hens
+[0:03] Youjust
+[0:03] thing inlyour,
+[0:04] le १, ~
+[0:04] पाए
+[0:05] ming
+[0:05] May
+[0:06] 4 “SS ९८
+[0:08] ALY

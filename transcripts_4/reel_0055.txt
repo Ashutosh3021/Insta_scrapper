@@ -1,0 +1,90 @@
+# model: ggml-large-v3
+========================================================================
+[55] https://www.instagram.com/reel/DeW0ZC5ML4r/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: ja
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:18] ご視聴ありがとうございました
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ew Ng you 4
+[0:01] जप | 77
+[0:01] 4, ye
+[0:01] yay
+[0:01] UUs
+[0:01] etting you kn
+[0:01] ae as |
+[0:02] ouican
+[0:02] gain
+[0:02] कर su
+[0:02] Fim
+[0:02] i Nye
+[0:03] aln
+[0:03] engt
+[0:03] Say
+[0:03] aoe pp
+[0:03] aa mt
+[0:03 - 0:05] Cel
+[0:04] You
+[0:04] Nn galnis
+[0:04] | Fe am 1)
+[0:04] yl Ne,
+[0:04] one
+[0:05] alnistr
+[0:05] ‘Nar
+[0:05] Oe WG
+[0:05] ley
+[0:05] a पक)
+[0:06] doesnjtinece ‘ mean
+[0:06] You'gained muscle
+[0:07] fg te v
+[0:07] Lee?
+[0:07] ag arr |
+[0:07] a हूँ
+[0:07 - 0:08] ३ 12003
+[0:08] ज्ज्क
+[0:08] 7 tape: 5)
+[0:08] Aad
+[0:09] Oa We)
+[0:09] inl
+[0:09] oN pee
+[0:09] ets
+[0:10] ess,
+[0:10] yeas
+[0:10] है है
+[0:10 - 0:11] pecially.
+[0:10 - 0:12] EWIEXERCISE
+[0:10 - 0:13] When ti
+[0:11] Ons
+[0:11] yaks
+[0:12] Pia की
+[0:12] heniit
+[0:12] iain
+[0:12] हैः
+[0:12] pow"
+[0:12] i md
+[0:12] a Be
+[0:12 - 0:13] Espec
+[0:12 - 0:13] ally
+[0:13] "a है 4
+[0:13] aN ON aN
+[0:14] pecial
+[0:14] 14 enlitstaln
+[0:14] ISE
+[0:14] Exe he.
+[0:14] Leta
+[0:15] व्यय
+[0:15] switching ex
+[0:15] orc
+[0:15] 4 Be:
+[0:16] > tie
+[0:16] edd
+[0:16 - 0:17] chingiex
+[0:16 - 0:17] cises!
+[0:17] 2 hae
+[0:17] Wit
+[0:17] eng
+[0:17] Palit
+[0:17] VERA

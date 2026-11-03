@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[727] https://www.instagram.com/reel/DPoPBOiE829/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Got the music in you, baby, tell me why
+[0:04 - 0:09] Got the music in you, baby, tell me why
+[0:09 - 0:12] You've been locked in your phone
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] “Followa split which you है|
+[0:00 - 0:01] >| can stay consistent in”
+[0:01] ai Ce .
+[0:02] Ava
+[0:03] gyi
+[0:04] mY OF
+[0:04 - 0:06] consistency, 1S)
+[0:04 - 0:06] askillissue
+[0:05] Nour
+[0:05] Ae l
+[0:06] * हे Of,
+[0:07] = Ses
+[0:07] omatter how
+[0:07] yag
+[0:07 - 0:08] Eonsistent you become
+[0:08] ~ Kometerhor
+[0:08] Avid
+[0:09] Abroisplit
+[0:09] MeEVEMGIVENY,
+[0:09 - 0:10] the same results
+[0:10] कु Solhecen
+[0:10] NEVER GIVEN OU
+[0:11] है 1018॥11॥6/५
+[0:11] 610)
+[0:11] (2७3)
+[0:11] 2x-3Xx
+[0:11 - 0:12] split
+[0:12] ompared:tolalnigher
+[0:12] frequency

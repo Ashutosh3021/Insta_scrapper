@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[862] https://www.instagram.com/reel/DKW_660MJL3/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:17] *Outro Music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iming ४०0४४
+[0:01] ining ॥0॥05४ढ:
+[0:02] f FS)
+[0:02 - 0:03] Seieneelvaseaktqaining worksxGd
+[0:04 - 0:17] 7 neebased training works~=
+[0:07] विद
+[0:08] Te ncesb;
+[0:09] Pru
+[0:10] ora
+[0:12] cesba

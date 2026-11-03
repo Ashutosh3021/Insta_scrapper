@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[104] https://www.instagram.com/reel/DdgfGx8sXRz/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] Thank you for watching.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Wtfloody fatdistributiongs
+[0:01] Dee =)
+[0:02] Wtf body tat
+[0:02 - 0:05] distribution@®.
+[0:03] हैः
+[0:04] has
+[0:05] i ar
+[0:05] tet
+[0:05] Odyifatedis
+[0:06] Wtibody fat dis
+[0:06] वि ओ
+[0:09] bee
+[0:10] Dice
+[0:10] Iding evenything|here
+[0:11] apo
+[0:11] gy a}
+[0:12] thingjhere
+[0:12 - 0:13] Holding every,
+[0:13] Ths
+[0:13] here
+[0:13] thing
+[0:14] है Lt
+[0:14] ee evenything|here ©
+[0:15] Holdin
+[0:16] hloldingjeve
+[0:16] nything 9
+[0:17] ding every
+[0:17] thin
+[0:18] 4७८
+[0:18] q everything

@@ -1,0 +1,373 @@
+# model: ggml-large-v3
+========================================================================
+[370] https://www.instagram.com/reel/DX6TYQNztJ-/
+STATUS: OK
+DURATION: 1:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] i want you to guess how much time it took for this guy to reach here three months six months
+[0:06 - 0:12] it took him about 10 months from going from this to this and there are people there are genuine
+[0:12 - 0:18] people expecting to make this progress in three months or six months i'm not even kidding this
+[0:18 - 0:25] guy did two hours of cardio every single day six days a week he ate around 1500 calories two meals
+[0:25 - 0:32] a day and in six months he lost around 30 kgs and that is not just the entire thing there's
+[0:32 - 0:37] additional 20 kgs which he loses in the next four months by the way which was then followed up by a
+[0:37 - 0:42] 10 month maintenance period 10 month and look at the cardio routine it's the same thing one hour
+[0:42 - 0:47] of cardio two hours of training 1000 calories to 2500 calories literally throughout the whole
+[0:47 - 0:54] period this guy did not reach a plateau throughout the whole period he did not reach a period where
+[0:54 - 0:55] the calories were not enough to reach a plateau he did not reach a plateau he did not reach a
+[0:55 - 1:00] were now all of a sudden not enough for him to lose weight most people who are at this kind of
+[1:00 - 1:05] body composition always underestimate how much they are eating overestimate how much they are
+[1:05 - 1:11] spending and always are inaccurate with tracking this kind of transformation requires you to stay
+[1:11 - 1:16] locked in if you are not locked in with all of the variables you're not going to be able to make a
+[1:16 - 1:17] transformation like this
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ary
+[0:00] | want
+[0:00 - 0:03] Accuracy is everything
+[0:01] lwant youito guess how)
+[0:01] muct
+[0:01] oon
+[0:03] this:
+[0:03] guyjtojreach\)i yey
+[0:04] ही Pr
+[0:04] Three'months?
+[0:06] Siximonths?
+[0:07] 0018 ४ 5<&
+[0:07] till
+[0:07] Whie his)
+[0:07] 100
+[0:07] whe
+[0:07] It took him about
+[0:08] ee es,
+[0:08] Whiehjiststill
+[0:08] जरा
+[0:08] पा him about 10
+[0:08] months
+[0:10] heed ।
+[0:11] ee ४ आह
+[0:11] And therelare peo}
+[0:12 - 0:14] are genuine 9९०
+[0:13] expectin 9
+[0:14] expecting to mal
+[0:15] pagal!
+[0:16] CN ae
+[0:16] progress in three
+[0:17] NSN
+[0:17] stance
+[0:17] stir
+[0:17] fing 2 h.
+[0:17] Fg to
+[0:17] meals per di
+[0:17 - 0:18] 100 keal
+[0:17 - 0:24] jaily calorie
+[0:17 - 0:25] Therapy
+[0:17 - 0:25] Phase 1
+[0:17 - 0:25] (initiation)
+[0:17 - 0:25] (Transition)
+[0:17 - 0:25] Duration
+[0:17 - 0:25] 6 months
+[0:17 - 0:25] exercise 1-2
+[0:17 - 0:25] Cardio
+[0:17 - 0:25] Combinatior
+[0:17 - 0:25] regimen
+[0:17 - 0:25] of 40% card
+[0:17 - 0:25] and 60%
+[0:17 - 0:25] Nutritional
+[0:18] nce
+[0:18] sed to
+[0:18 - 0:20] calorie
+[0:18 - 0:20] ७315 per di
+[0:19] I al
+[0:19] resistance
+[0:19] 1 01, did 2ijiour
+[0:19 - 0:23] Each session
+[0:19 - 0:23] restriction.to.
+[0:19 - 0:24] lasting 2 h.
+[0:19 - 0:25] h, 6x/week.
+[0:20] fance
+[0:20] regi
+[0:20] 5 guy did 2 hours’
+[0:20] cal
+[0:20 - 0:22] stance
+[0:20 - 0:22] bastir
+[0:20 - 0:24] increased to
+[0:21] day (1
+[0:21 - 0:22] meals per d:
+[0:21 - 0:24] NSN
+[0:22 - 0:23] 0 keal
+[0:22 - 0:24] Nutri
+[0:23] trail
+[0:23] Dail
+[0:23] incre
+[0:23] WORE YAITOO meals pe
+[0:23] day. (1,500
+[0:23] Elij
+[0:23 - 0:25] resistance
+[0:24] reek,
+[0:24] ining.
+[0:24] jo lastir
+[0:24] ing
+[0:24] He ate around 1500 Rae
+[0:24] calories,
+[0:24] 2,000 keal
+[0:25] Each,
+[0:25] faioric
+[0:25] ed to
+[0:25] \ mealsia,
+[0:25] 115 per di:
+[0:25] 100 kcal
+[0:26] orl
+[0:26] lay,
+[0:26] Outcof
+[0:26] dy fat 12°
+[0:26] nd in 6
+[0:26] ction from
+[0:26 - 0:32] reduction from
+[0:26 - 0:35] foods.
+[0:26 - 0:35] processed
+[0:26 - 0:35] Macronutrient
+[0:26 - 0:35] distribution:
+[0:26 - 0:35] carbohydrate,
+[0:26 - 0:35] 40% protein
+[0:27] 4 fat.
+[0:27] iber
+[0:27] fat 30% (24.6%
+[0:27] with
+[0:27] (total
+[0:27] estes
+[0:27] baseline).
+[0:27 - 0:28] or 1.6-2.0
+[0:27 - 0:28] a/ke//day,
+[0:27 - 0:28] 8/kg/day,
+[0:27 - 0:28] intake 25-35
+[0:27 - 0:28] Outcomes | Weight reduction
+[0:27 - 0:28] lof 30 kg with body {wei
+[0:27 - 0:34] or 2.0-2.5
+[0:28] 30% fat.
+[0:28] fat 309
+[0:28] faonthein
+[0:28] around 30
+[0:29] proce:
+[0:29] 10 kg
+[0:29 - 0:30] Oute
+[0:29 - 0:30] otal 41)
+[0:29 - 0:30] ction from
+[0:29 - 0:31] 2/day,
+[0:29 - 0:32] jody Fat 12°
+[0:30] 3/day,
+[0:30] fal 20 kg
+[0:30] Not just And
+[0:30 - 0:31] Fat.
+[0:31 - 0:32] p from
+[0:31 - 0:35] ‘Additional 20 kg
+[0:31 - 0:35] ith body fat 12:
+[0:31 - 0:35] (total 41%
+[0:32] a/kg/day,
+[0:32] fon
+[0:32] body | we
+[0:32] wit
+[0:32] (tol
+[0:32] ‘There
+[0:32] red}
+[0:32] tab
+[0:32 - 0:33] 40% fat.
+[0:33] Belltion from
+[0:33 - 0:35] lay,
+[0:33 - 0:35] ‘weight reductior
+[0:34] % fat,
+[0:34] which he
+[0:34] eduction from
+[0:35] Out
+[0:35] whichhe loses in tl
+[0:35] ion from
+[0:35] next
+[0:36] session
+[0:36] g2h.
+[0:36] rainin
+[0:36] io lasting
+[0:36] fance
+[0:36] stion to
+[0:36] “५७ कर
+[0:36] meals per day
+[0:36] 500
+[0:36 - 0:37] intake 2
+[0:36 - 0:38] ick
+[0:36 - 0:39] HALF THE PEOPLE (ial
+[0:36 - 0:39] SKIP THIS PHASE ¥
+[0:36 - 0:39] ing
+[0:36 - 0:40] /week,
+[0:36 - 0:40] calorie
+[0:36 - 0:46] Phase 2
+[0:36 - 0:46] tion)
+[0:36 - 0:46] (Transition)
+[0:36 - 0:46] (Maintenance)
+[0:36 - 0:46] >10 months
+[0:36 - 0:46] Combination
+[0:36 - 0:46] se 1-2
+[0:36 - 0:46] lasting 2 h.
+[0:36 - 0:46] Daily calories
+[0:37] Car
+[0:37] Resist
+[0:37] cal
+[0:37] xr day
+[0:37 - 0:38] mao = W
+[0:38] lastif
+[0:38] 0100 intake 2
+[0:38] day
+[0:39] (Tran:
+[0:39] Gombin
+[0:39] rdio
+[0:39] period
+[0:39] int
+[0:39] per day
+[0:39 - 0:41] stance
+[0:40] session
+[0:40] 32h
+[0:40] 31010 lasting
+[0:40 - 0:41] raining
+[0:40 - 0:43] lay
+[0:40 - 0:46] of 40% cardio
+[0:40 - 0:46] Sand 70%
+[0:40 - 0:46] resistance
+[0:40 - 0:46] training.
+[0:40 - 0:46] intake 2
+[0:41] id 60%
+[0:41] Andilsekta:
+[0:41] eat
+[0:41] meals per day
+[0:41] (2,000-2,500
+[0:41] kcal per day)
+[0:41] el BB Feedback
+[0:41 - 0:44] Cardio lasting
+[0:42] /weel
+[0:42] cald
+[0:42] [0125
+[0:42] 500
+[0:42 - 0:45] ming
+[0:43] Bc 34
+[0:43] hour off
+[0:43] fea)
+[0:43] hour
+[0:43] meals pi
+[0:43] 100.
+[0:44] 10% cardio
+[0:44] 2000
+[0:44] alo’
+[0:44] per day)
+[0:44] pack
+[0:44] rit}
+[0:44 - 0:45] stance
+[0:44 - 0:45] calorie’
+[0:44 - 0:45] meals per day
+[0:44 - 0:45] (2,000-2,500
+[0:45] /week.
+[0:45] session ol
+[0:45] 32h
+[0:45] trai
+[0:45] ining
+[0:45] 2000 coon to)
+[0:45] lake 2
+[0:45] gay)
+[0:46] weg
+[0:46] ses
+[0:46] sting
+[0:46] nce
+[0:46] caloric
+[0:46] rally
+[0:46] day
+[0:47] period,
+[0:47 - 0:48] proughout the whole
+[0:48] period, this guy
+[0:50] i ats
+[0:50] feachia plateau
+[0:51] ghoutith
+[0:52 - 0:53] hroughout the whol
+[0:52 - 0:54] period,
+[0:53] Beriod, he didnot
+[0:57] enough:
+[0:58] enough for him to lose
+[0:58] weight
+[0:59] Hetwho are at,
+[1:00 - 1:01] kind of body composition
+[1:01] हैँ
+[1:01] “il r
+[1:01] always
+[1:04] overestimate
+[1:05] ‘Overestimate how much
+[1:05] they a!
+[1:06] Lesa
+[1:07] are inaccurate
+[1:09] nis
+[1:09] dis
+[1:09] ind
+[1:09] pce, consistent
+[1:09] theare
+[1:09 - 1:10] per’
+[1:09 - 1:12] id doing
+[1:09 - 1:12] extreme
+[1:09 - 1:12] fision and
+[1:09 - 1:14] it important
+[1:09 - 1:16] gradual improvements in my breathing,
+[1:09 - 1:17] 3:44
+[1:09 - 1:17] stamina, blood pressure, and overall energ,
+[1:09 - 1:17] motivated me to stay consistent.
+[1:09 - 1:17] Progre;
+[1:09 - 1:17] ight. It required
+[1:09 - 1:17] lesson for
+[1:09 - 1:17] ful improvement
+[1:10] ous
+[1:10] pre
+[1:10] is pe
+[1:10] requires
+[1:10 - 1:11] and
+[1:10 - 1:14] mis
+[1:10 - 1:15] y consistent.
+[1:10 - 1:17] discip|
+[1:11] fat extreme
+[1:11] requires you to stay
+[1:12] bel
+[1:12] pros
+[1:12] is py
+[1:12 - 1:14] motivated me to stay.
+[1:12 - 1:14] cal
+[1:12 - 1:17] personal
+[1:13] equired
+[1:13] monij
+[1:13] capal
+[1:13] befor
+[1:13] ind
+[1:13 - 1:14] 4zszaQ
+[1:13 - 1:15] nis
+[1:13 - 1:15] chai
+[1:13 - 1:15] lesson for m]
+[1:13 - 1:15] sare
+[1:13 - 1:16] nportant
+[1:13 - 1:17] Progress d
+[1:14] oin:
+[1:14] bet
+[1:14] is pe
+[1:14] ent
+[1:14] locked in with
+[1:14 - 1:17] mireme
+[1:14 - 1:17] pn and
+[1:15] mol
+[1:15] 118
+[1:15] personé
+[1:15] you're
+[1:15 - 1:16] 4sa
+[1:15 - 1:16] bef
+[1:15 - 1:17] is poss
+[1:16] mnie
+[1:16] pros
+[1:16] tomake a
+[1:16 - 1:17] joing
+[1:16 - 1:17] nce, consistent
+[1:16 - 1:17] itheare
+[1:17] mis
+[1:17] gradual improvements
+[1:17] in my breathing,
+[1:17] important
+[1:17] to make a transformati
+[1:17] like tt

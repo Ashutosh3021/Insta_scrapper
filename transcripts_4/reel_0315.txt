@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[315] https://www.instagram.com/reel/DZQJAt-s0Y7/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] On his broke ass soul
+[0:02 - 0:04] No, I don't want your number
+[0:04 - 0:07] No, and I don't wanna give you mine
+[0:07 - 0:09] And no, I don't wanna meet you nowhere
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Peptides cancause m
+[0:00] fat
+[0:00] a ee
+[0:00 - 0:01] = gr owth’
+[0:01] p es canicause mu
+[0:01] rye
+[0:01] Yo) हि
+[0:01] 1 रु
+[0:02] Syne
+[0:02] 10४5
+[0:02] हैः
+[0:03] Ler toa
+[0:03] off
+[0:03] But what about
+[0:03] growth hormone
+[0:03] noe
+[0:04] जी रत
+[0:04] SlWofgh didnit cause
+[0:04] Muscle\growth in natties
+[0:04] ‘and whole body protein balance was greater (P = 0.01) in the GH-treated group, but quadriceps
+[0:04] muscle protein
+[0:04] nthesis rate, torso and limb circumferences, and muscle strength did not increase
+[0:04] more in the GH-treated group. In the young men studied, resistance exercise with or without GH
+[0:04] resulted in similar increments in muscle size, strength, and muscle protein synthesis, indicating that
+[0:04] 1) the larger increase in FFM with GH treatment was probably due to an increas
+[0:04] in lean tissue other
+[0:04] than skeletal muscle and 2) resistance training supplemented with GH did not further enhance
+[0:04] muscle anabolism and function.
+[0:04] pee
+[0:05] लक छा
+[0:05] कि कक
+[0:05 - 0:06] No peptide
+[0:05 - 0:06] Can directly cause muscle gro
+[0:06] whl
+[0:06] Sie ce
+[0:07] sll
+[0:07] लक्षाण,
+[0:07] Evidence on peptides for mus¢
+[0:07] ime
+[0:07] Point
+[0:07] ४५४
+[0:07 - 0:09] Growth is low
+[0:08] win
+[0:08] Euidence’on peptide
+[0:09] श्र
+[0:09] on peptides for muscle
+[0:09] hes
+[0:09] हैः

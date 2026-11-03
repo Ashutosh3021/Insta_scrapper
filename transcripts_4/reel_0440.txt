@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[440] https://www.instagram.com/reel/DWlfQ1IjG3r/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] The way you walk, the way you understand me
+[0:04 - 0:08] The way you move, the way you just whisper me
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Camit
+[0:00] loselwelg because
+[0:00 - 0:02] » Of my thyroid
+[0:01] lose weight
+[0:01] ios
+[0:01 - 0:02] alicannt
+[0:02] eel
+[0:02 - 0:05] 5% weight
+[0:03] When hypothyroidism fs WA |
+[0:03] lin
+[0:03 - 0:05] heated» people lose\fatatithelsame
+[0:03 - 0:05] rate as anyone else) 9५
+[0:03 - 0:05] Thyroid_condition
+[0:03 - 0:05] 5% weight loss
+[0:04] enjhypothyroidismiisjonopenly,
+[0:04] Thy!
+[0:04] id_condit
+[0:04 - 0:05] GHeathy thyroid
+[0:05] When hiypothynaidism ispnope
+[0:05] न जन
+[0:05] Dtypotnyroit
+[0:05] ह 20
+[0:05] Weight change %
+[0:05] ber,
+[0:06 - 0:08] What are you doin
+[0:06 - 0:08] Treat it?
+[0:07] ७७४ We
+[0:07] 4५5
+[0:07] Tan,
+[0:07] ere ycuceln {
+[0:07] Rit
+[0:07] San
+[0:07] ily,
+[0:08] weak’
+[0:08] ter

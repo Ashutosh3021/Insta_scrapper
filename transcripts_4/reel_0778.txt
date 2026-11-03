@@ -1,0 +1,352 @@
+# model: ggml-large-v3
+========================================================================
+[778] https://www.instagram.com/reel/DNngPaNMaYP/
+STATUS: OK
+DURATION: 2:02   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] if you think you need to bulk in order for you to gain muscle you've been lied to now before we get
+[0:05 - 0:09] into all of this i want you to understand few terms clearly now bulking means eating at a
+[0:09 - 0:14] surplus of more than 400 calories to potentiate muscle growth now the problem with bulking i have
+[0:14 - 0:20] is that people take the idea of bulking and they use it as an excuse to pig out now we have data
+[0:20 - 0:26] showing that if you're overfeeding excessively and gaining excessive fat it will negatively affect
+[0:26 - 0:32] which is not our main goal over here if you want to gain muscle even a lot of people will listen to
+[0:32 - 0:38] this and think that i want to maintain my body weight and that's not at all the case i would like
+[0:38 - 0:44] to present you the term lean gaining phase now our main objective during a lean gaining phase is to
+[0:44 - 0:50] build muscle not to gain weight now it's not like you won't gain weight you will gain weight but that
+[0:50 - 0:55] should not be your main objective your main objective should be that you eat in such a way
+[0:55 - 0:56] that you're going to lose weight and you're going to lose weight and you're going to lose weight and
+[0:56 - 1:26] your performance and recovery in the gym should be good now a lot of people if not most can build muscle at a 100 to 300 calorie deficit but will they be able to build muscle at a rate when they will be at a 0 to 200 calorie surplus now i'm saying 0 because a lot of people think that only beginners can do body recomposition but that's not at all the case it is also for people who have a good fat percentage now your calorie intake should be dictated by your progress not your body weight on the scale
+[1:26 - 1:36] Let me give you an example. Let's say Raghu's maintenance is 2300 calories. His workout is going well, his progress is good and he has a lot of energy.
+[1:36 - 1:45] Now Raghu doesn't need to put extra calories because his weight is stalled. After some time, Raghu's progress will be slow. That's when Raghu should increase his calories.
+[1:45 - 1:55] Now this doesn't mean that he will do a 300 calorie jump. No, Raghu will increase his calories by 100. And if his progress is still not increasing, then he will increase it by 100.
+[1:55 - 2:01] Now building muscle takes time. You cannot rush this process by slamming extra calories. So I hope that's all for me.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] Bulkingaisibad:
+[0:00 - 0:03] For muscle,growth,
+[0:01] end
+[0:01 - 0:02] If you have an attention span
+[0:01 - 0:03] ith,
+[0:01 - 0:03] Warning
+[0:01 - 0:03] Long video, skip to the end
+[0:01 - 0:03] Of a gold fish
+[0:02] Bulki'
+[0:02] nguisibad:
+[0:02] 019 gold fish
+[0:03] Wan
+[0:03] you
+[0:03] Wave an 7 span
+[0:04] ‘to now
+[0:08] 400+ ‘a
+[0:08] abe
+[0:08 - 0:12] शा Bulking”
+[0:09] pee
+[0:09] 400+ ‘aay Surplus
+[0:09] a be bulking method of
+[0:10] at a surplus of —
+[0:10 - 0:12] 400+ calorie surplus
+[0:11] हैँ
+[0:11] at a surplus of more than 40
+[0:11] a “कक
+[0:12] 4५ 0
+[0:12] fe must
+[0:12] to potenti
+[0:14] > oF giclee a
+[0:14] a) 1 ॥ mall
+[0:14] wo —— Ae with 4
+[0:15] मम पक onpiggi
+[0:15] hence Y
+[0:15] est
+[0:15] km is
+[0:16] की Se को PIG}
+[0:16] fol
+[0:16] eS ०
+[0:16] le\take the idea
+[0:16 - 0:19] aye
+[0:17] ate
+[0:18] —" onpiggi
+[0:18] met
+[0:18] usevit as\an excuse
+[0:19] wow
+[0:20] Bis)
+[0:20] Puy
+[0:20] (199०2 Diab
+[0:20] now we have
+[0:21 - 0:22] Type 2 Diab
+[0:21 - 0:22] if you're
+[0:22] Pre
+[0:23 - 0:24] and gaining
+[0:25] Nill
+[0:25] Som
+[0:25] yet to my ins
+[0:26] FER ery
+[0:28] अकबर
+[0:28 - 0:30] Thisis netour
+[0:29] कै ८
+[0:30] ag a
+[0:31] want to gain muscl
+[0:32] ‘oni
+[0:32] maintain im
+[0:32] hen?
+[0:32] Phy
+[0:32] => धक्रन के
+[0:32 - 0:33] bhi Bohot:sare log ye cheez
+[0:32 - 0:34] lshouldsjust eat to
+[0:32 - 0:35] av i, bodyweight C
+[0:33] a> नस
+[0:33] है ँ
+[0:33] ko sunege aur
+[0:33] व्यय
+[0:34] ज्यों)
+[0:34] one
+[0:34] orweians 4
+[0:34] Ki Mujhe mera ==
+[0:35] as sho
+[0:35] पु eat to
+[0:35] “y He
+[0:35] thi
+[0:35] Ki Mujhe mera body weight
+[0:35] maintain=
+[0:36] mai
+[0:36] ight?
+[0:36] pkarna or
+[0:37] sic
+[0:37] A कद
+[0:37] Ku! be
+[0:38] “aes |
+[0:38] [would lik
+[0:39] Lwe
+[0:39] to prese!
+[0:40] ali
+[0:40] 1७९७:
+[0:40] DeeICm
+[0:40] would like:to present you
+[0:40] ™ न gaining
+[0:42 - 0:43] main
+[0:43] 7s ig
+[0:43] ctive during a lean
+[0:43] Te in
+[0:43] -4 ib
+[0:45] ce “हू
+[0:45] tive: Build Musele}
+[0:45] to build muscle
+[0:46] igi
+[0:46] is to bi
+[0:46] jot
+[0:46 - 0:47] Notito
+[0:47] gain weight
+[0:47] is to build muscle not to gain
+[0:47 - 0:50] Weight-gain
+[0:50] weight gain weight gain
+[0:51] Butlitishouldn’t
+[0:51] Be aimainygoal
+[0:52] But it oe
+[0:52] Be a mai
+[0:52] ©oall
+[0:52] but that sho
+[0:52] main.
+[0:53] है 187
+[0:53] coal
+[0:53] Tats
+[0:53] nig
+[0:53] ४ हि
+[0:53] but es
+[0:53] Val
+[0:54] Lee
+[0:55] res
+[0:56] ५ objective
+[0:56] to fuel performance
+[0:56] recovery
+[0:57] Eatitorfuel
+[0:57] Br न
+[0:58] Malin olijective 8
+[0:58] TTA
+[0:58] 00910]
+[0:58] OVERY
+[0:59] Ina ‘3
+[1:00] (है, can buildimuscle
+[1:01] You can 3 musel
+[1:01 - 1:03] In a deficit
+[1:02] 1 can build 8 le)
+[1:03] ri] canjbuild muscle
+[1:04] But)
+[1:04] itbe a
+[1:04] (9-200k:
+[1:04] WSurplus?>
+[1:04] Sie
+[1:04 - 1:07] the same) compared to)
+[1:05] 18801: A it be
+[1:06 - 1:08] है| Same compared A
+[1:06 - 1:08] ©-200kcal surplus?
+[1:07] lar A
+[1:07 - 1:08] ~ But would it be
+[1:08] tae
+[1:08] rat |
+[1:08] lath
+[1:09 - 1:10] on the ©
+[1:10] aed
+[1:11] 1७११
+[1:11] ee ey
+[1:12] Ontine
+[1:12] a yy
+[1:12] Cay
+[1:13] (41310
+[1:13] Lal
+[1:13] Font
+[1:13] पु as
+[1:13] “1121
+[1:14] A the 0.
+[1:14 - 1:16] Body recomp
+[1:14 - 1:16] Only beginner exclusive lag
+[1:15] dit on the 0
+[1:16] but asa
+[1:16 - 1:17] g us on the a |
+[1:17 - 1:18] but as a bilkul be neye itis
+[1:18] ws 011 the O
+[1:18] also for people
+[1:19] Ue the 0
+[1:19] ॥ एक 3.
+[1:19] jinke pas
+[1:19 - 1:20] have good en:
+[1:19 - 1:20] 3Ryou're a candidate
+[1:20] 2015 ON =
+[1:20] jinke pas fat percentage
+[1:20] achka
+[1:21] ४ जि:
+[1:21] 109
+[1:21] Caloric intakeyshould be
+[1:21] orn,
+[1:21] shy ae
+[1:21] “yea
+[1:21] vat
+[1:21] ant
+[1:21 - 1:22] ‘SDictated by progress,
+[1:22] 9 =a intake,shotlld be
+[1:22] oars
+[1:22] MILKSHA'
+[1:22] PRorEl
+[1:22] ago
+[1:22] २409
+[1:22] Wat
+[1:22] 4५ नॉपएत७
+[1:22 - 1:23] MILK
+[1:23] Digamid
+[1:23] epi
+[1:23] Caloric inta
+[1:23] ke should be
+[1:23] Digisted by
+[1:23] PRC
+[1:23] . Boren ie
+[1:23] bes
+[1:23] ould;
+[1:23] rath)
+[1:24] loniclintakezsirould’ be}
+[1:24] ‘eemq2ictated) by ies
+[1:24] हि १८६
+[1:25] som)
+[1:25] @@iNogyounbody 7
+[1:26] “@iNokyour body weig
+[1:26] [Onscale
+[1:26] i iN
+[1:27] ‘ase listen
+[1:27] iy a
+[1:27] fis exampl
+[1:28] i fe
+[1:28] हैः
+[1:29] , a ee
+[1:31] ea maintains
+[1:31] weight Gating
+[1:31] cals ‘
+[1:31] हा 7927 os
+[1:31] 4 3०
+[1:32] Neue.
+[1:33] Ste
+[1:33] Workout-:good —
+[1:33] 7 pi
+[1:34] rOgress: Good
+[1:35] ' Energy levelsahigh
+[1:36] a is
+[1:36] for Raghuito
+[1:36] p his, kcal
+[1:36] Just pecan
+[1:36] weight
+[1:39] Tips)
+[1:39] 15 no néeal
+[1:39] for i to upjnisikeals
+[1:39] Wustitzecause his)
+[1:39] igh
+[1:41] न गा timespasses:
+[1:41 - 1:42] Raghus!progress
+[1:41 - 1:44] ning)
+[1:41 - 1:45] slowsdown-and,
+[1:41 - 1:45] Performancegetal bad}
+[1:42] Performance
+[1:42] tod
+[1:42 - 1:43] bad)
+[1:42 - 1:45] aaa: time, passe:
+[1:43] [2112]
+[1:43] angie timespasse:
+[1:43] 18७]
+[1:43] slowsd
+[1:43 - 1:44] weeks
+[1:43 - 1:44] progress
+[1:43 - 1:44] Raghus' pro:
+[1:44] Of RO
+[1:44] “all
+[1:44] व ठ 115
+[1:45] OF MO Pigeke)
+[1:45] Raghus progress
+[1:45] Tamed training
+[1:46] | 1 os
+[1:46] य्ड्
+[1:46 - 1:48] abi iskam mutabap yenaki
+[1:48] wy 8४2० oe na
+[1:48] Ce os
+[1:49] aig
+[1:49] क्र
+[1:49] हर न
+[1:49] marig: y
+[1:50] Rid
+[1:51] Taw
+[1:51] 5 ia sealetiesby —
+[1:52] Afters: me, lof
+[1:52] No significant rE
+[1:52] View
+[1:52] incised
+[1:52] Pores
+[1:53] Swi
+[1:53] yicang
+[1:53] res:
+[1:53] aes
+[1:54] 411[0)0)
+[1:54] aco
+[1:54] nat
+[1:55] pee
+[1:55] WOO
+[1:55] है. 4
+[1:55] lig:
+[1:56] fies
+[1:56 - 1:57] sal
+[1:56 - 1:58] Building m
+[1:57] an "AZ
+[1:57] et 5
+[1:57] हिल
+[1:57] pullding musi
+[1:57] cle ta
+[1:58] i ZF
+[1:58] Lime; you ८
+[1:58] O~ प्यूएछछआ
+[1:58 - 2:00] you cannot rushiktin
+[1:59] ple
+[1:59] Takes
+[1:59] Time" yo
+[1:59] jot ap this
+[1:59] ८:25
+[1:59 - 2:00] you cannot rush this process
+[2:00] ding muscle ta
+[2:00] 22६
+[2:00] by slamming extra calories
+[2:01] all
+[2:01] so ‘hope that's

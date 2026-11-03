@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[618] https://www.instagram.com/reel/DSfCPRwDMLT/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Whoa, oh, oh, oh
+[0:02 - 0:04] Boom, boom, boom, boom
+[0:04 - 0:06] I've got you in my room
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] की कान
+[0:00] wat
+[0:00 - 0:01] alone doesn't cause muscle growth
+[0:00 - 0:01] PMID: 1550219
+[0:00 - 0:02] ing'Growth hormone at 7-91Us
+[0:00 - 0:02] inhumans
+[0:01] ; Growth hormone v rae 5
+[0:01] NSS
+[0:02] alone doesn’t cause ‘J
+[0:02] growth)
+[0:02] PMID: ws
+[0:02] NEF
+[0:03 - 0:05] * You think peptides will
+[0:04] हर wil
+[0:04] hey

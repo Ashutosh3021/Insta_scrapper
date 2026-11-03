@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[782] https://www.instagram.com/reel/DNgRBmosSIx/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] And don't leave this leg hanging so try not like leaving this leg hanging so try having this leg
+[0:06 - 0:12] up here somewhere around it's at least decently much more decently stable you know and from here
+[0:12 - 0:17] on out you can add like your seatbelts and everything and then you can extend your knee
+[0:17 - 0:21] this is going to be much more stable than just leaving this leg hanging like that right
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] and don'‘t™
+[0:00 - 0:04] Legjextension'tip)
+[0:01] Pos
+[0:01] and don'tTeave
+[0:01] ing
+[0:02] oo leg}
+[0:03] ls leg}
+[0:03] Sid
+[0:03 - 0:04] so try not like lea’
+[0:04] if leg}
+[0:04] Pas
+[0:04] wif
+[0:04] aM 1eg)Rangi vv
+[0:04] i है
+[0:05] my ~ 4
+[0:05] ॥1 79
+[0:06 - 0:07] so try having this i | पर
+[0:07] 4 है
+[0:07] wid
+[0:08] “hie 7 |
+[0:10] much 4 ae
+[0:11] “ie ० a i
+[0:12] wor हैं।
+[0:14] oy i
+[0:14] you can have न f
+[0:15] aang
+[0:17] thi
+[0:17] ॥ ही है
+[0:18] हेड
+[0:18] this is gofina be meh ४1 E
+[0:19 - 0:20] “ae just leaving | >> श्र
+[0:20] hanging
+[0:21] Hommone)
+[0:21] likerhat है ६1

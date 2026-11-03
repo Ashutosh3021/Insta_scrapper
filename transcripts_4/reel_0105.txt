@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[105] https://www.instagram.com/reel/Ddej9nPseqf/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Every night and day I fall apart
+[0:03 - 0:06] And I need you now tonight
+[0:06 - 0:10] And I need you more than ever
+[0:10 - 0:12] And if you only hold me
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] whi! i
+[0:00] काका indeed
+[0:01] 22 N
+[0:01] liean is indeed
+[0:01] TTI
+[0:01] See
+[0:02] Ain 8)
+[0:02] TTT
+[0:02] SEs
+[0:02] [Faw
+[0:02] ces were
+[0:02] पाक
+[0:03] #॥ 00६8
+[0:03] "हे. aOR
+[0:04] Ate
+[0:04] THT
+[0:04] See
+[0:04 - 0:08] Lawl
+[0:05] 8 nollie
+[0:05] a ee न्‍आिन्ण
+[0:06] Lill
+[0:07] Augie
+[0:07] TITY
+[0:08] Hii
+[0:09] Pod

@@ -1,0 +1,156 @@
+# model: ggml-large-v3
+========================================================================
+[625] https://www.instagram.com/reel/DSSnMcwDG2x/
+STATUS: OK
+DURATION: 2:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] i've been following you since you have had 400 followers 400 yes okay it's time for me to ask
+[0:06 - 0:13] you 10 questions uh let's see if you remember anything okay how much protein do you need for
+[0:13 - 0:19] muscle growth for 1.8 grams per kilogram okay and what about carbohydrates three grams per kilogram
+[0:19 - 0:25] not my fault you should have given me reference second second question okay what is the main
+[0:25 - 0:31] driver for muscle growth mechanical tension okay when do you experience the most amount
+[0:31 - 0:36] of mechanical tension uh slowing down of contraction velocity perfect actually when i
+[0:36 - 0:43] do a very fast movement will that have high amounts of motor unit recruitment yes but less
+[0:43 - 0:48] mechanical tension one regular set versus one drop set which is going to cause the most normal
+[0:48 - 0:54] hypertrophy as in different sets or just one set of drop set one set of regular set which is going
+[0:54 - 0:55] to cause instead of drop set
+[0:55 - 0:55] okay
+[0:55 - 1:01] you think one set of drops are you going to cause more hypertrophy as in drop set means you you mean
+[1:01 - 1:08] the entire set right i know you're top the weight plus before the they said that yes how more more
+[1:08 - 1:14] more time under mechanical tension no by time under tension more by time under my ccc what do
+[1:14 - 1:20] you need recruitment drops that's why you are not able to get a rep more but still there are muscle
+[1:20 - 1:25] fibers that can be activated it's not just the low threshold like i like i'm not doctor has convert
+[1:25 - 1:35] man and i was not my words these are not my words exactly his words when does a muscle experience
+[1:35 - 1:44] stretch media hypertrophy uh when titan can be stretched wow very specific actually and uh what
+[1:44 - 1:50] determines when i like how long a titan will be stretched for how long like how much titan will be
+[1:50 - 1:55] stretched for what determines that it depends on the length and central institute wow actually you're
+[1:55 - 2:02] got it right do you think you can grow very big quads just from doing a squat yes but your rectus
+[2:02 - 2:11] femoris won't last much as if you do a extension why a two joint principle wow bro as by memorize
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] QNA
+[0:00 - 0:03] Does he get all
+[0:00 - 0:03] questions right?
+[0:02] sii
+[0:02] ou have had थी
+[0:03] “ have had y
+[0:05] it's
+[0:06] it's हि for me to ask
+[0:06 - 0:08] id Rapidfire
+[0:06 - 0:09] questions ah
+[0:08] questions ah let's see
+[0:08] if youremember
+[0:09 - 0:10] okay il
+[0:12 - 0:13] ea, jow'much protein do
+[0:12 - 0:13] ed for muscle growth?
+[0:13] you
+[0:13] you need for
+[0:13] group
+[0:14] do youneed का
+[0:14] muscle group for 1.
+[0:21] kilogeeay eference not
+[0:22] : reference
+[0:22] my fault
+[0:24] Saale?
+[0:26] What's the maindriver
+[0:26] for hypertrophy
+[0:26] for, चक्र
+[0:27] हर growth
+[0:27] mechanical
+[0:30] whe ee
+[0:30] ou experience
+[0:30 - 0:31] when do you experience
+[0:30 - 0:31] 11081 amount of mechanical
+[0:30 - 0:32] : tensior
+[0:32] श्र
+[0:32] प्र
+[0:34] slowing down of
+[0:34] contracts
+[0:35] rere
+[0:36] बार
+[0:37] pert beta when!
+[0:37 - 0:41] 2 Does performing something
+[0:37 - 0:41] Very fast have htmur?
+[0:38] perth ctually when!
+[0:38] yo jovement
+[0:41] amounts of motor
+[0:43] but less mechanical
+[0:45] iad
+[0:45 - 0:46] One regular set versus
+[0:45 - 0:48] #olsingle set vs drop set
+[0:45 - 0:48] which causes more growth?
+[0:46] 1 on
+[0:47] Whichis goingto
+[0:48 - 0:50] ypographic as in
+[0:55] one set
+[0:57] You think
+[1:00] Drop sé) im
+[1:02] right
+[1:03] right allow you to top
+[1:03] the weight
+[1:04 - 1:06] lust before the the set
+[1:05] before the the set
+[1:05] that's
+[1:06] that'sityes how ah
+[1:09] tension
+[1:10] all
+[1:10] under _
+[1:10 - 1:11] tension no why time
+[1:11] under tension more by
+[1:14] be a
+[1:16] recruitment drops that!
+[1:16] why you are hot
+[1:19] p more b
+[1:19] Paull
+[1:20] bs al
+[1:20] he re
+[1:21] there are muscle fibers
+[1:23] ir d
+[1:23] thé
+[1:24] threshold ie
+[1:25] threshold like! like 1
+[1:25] ampnota
+[1:26] bs al
+[1:34] 8१081 ६॥ 2
+[1:34 - 1:35] When does a muscle
+[1:34 - 1:36] r When
+[1:34 - 1:36] musel
+[1:35] experience touch
+[1:35 - 1:36] experiem
+[1:36] die part of it?
+[1:39] f Titan:
+[1:40] when Titan can be
+[1:40] stretched wow
+[1:42 - 1:45] specific actually and
+[1:45 - 1:47] What determine titins
+[1:45 - 1:47] stretch?
+[1:46] aati
+[1:46] when like how
+[1:47] wheiilikehow long a
+[1:47] titan will
+[1:50] ‘itan Will
+[1:51] for
+[1:51 - 1:52] titan will be stretched
+[1:52] for what determines
+[1:53] pends on
+[1:55] opiate wow
+[1:57] / you got it right do you’
+[1:57] think you can
+[1:57 - 1:59] 8 Can
+[1:57 - 2:00] gow
+[1:57 - 2:00] bigiquads withjjdistfigom squats
+[1:58] 8 Cn you grony
+[1:58] P very
+[1:59] / Very big quads
+[2:00] r Can)
+[2:00] 0 Very big quads just from
+[2:00] joing
+[2:02] Yes, but your rectus
+[2:03] jass
+[2:05] श्र
+[2:05] P Mass match asif you do
+[2:05] aextension.
+[2:07] To join
+[2:11] Bro, as Y memorize

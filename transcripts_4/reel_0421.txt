@@ -1,0 +1,73 @@
+# model: ggml-large-v3
+========================================================================
+[421] https://www.instagram.com/reel/DW8rcqoDBX7/
+STATUS: OK
+DURATION: 0:48   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] This is going to be a very different take, but if you're using low-calorie, high-density meals and diet cokes and everything,
+[0:06 - 0:11] and you're over-relying on them during a dieting period, you are missing the point of dieting down.
+[0:11 - 0:16] When you're getting those hunger signals and you're relying and you're over-relying on those two things,
+[0:16 - 0:20] what you're essentially training yourself into doing is,
+[0:20 - 0:24] oh, whenever I feel hungry, I need to eat something or I need to drink something.
+[0:24 - 0:27] Now, I don't have anything against those two things.
+[0:27 - 0:29] Those two things, even I use them, right?
+[0:29 - 0:35] But the point of dieting down is not to make sure whenever we feel hunger, we have to put it down.
+[0:35 - 0:40] The point of dieting down is to train the skill of managing hunger, to know that it's okay to feel hungry,
+[0:40 - 0:45] to know that, okay, now I'm feeling hungry, but I don't have to do anything about it.
+[0:45 - 0:47] You don't have to over-rely on those things.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] owCalorie dense =
+[0:00] was
+[0:00] yr is goingto ia
+[0:00 - 0:01] let. cokes
+[0:01] Calo
+[0:01] densevioods |
+[0:01] fs goingto be a
+[0:01] different take
+[0:02] iet: E
+[0:02] ॥0॥॥0 1016, 10 हट
+[0:02] है A)
+[0:03] dua
+[0:03] ‘ din
+[0:08] FI i
+[0:09] fi 3
+[0:11] i diet
+[0:11] A 0७९
+[0:12] रु. he
+[0:15] ALi
+[0:16] कै मे
+[0:19] bee |
+[0:20] wae
+[0:22] need to eat
+[0:23] Wait
+[0:24] 1 Ay
+[0:25 - 0:26] Now, those do >
+[0:26] Bri
+[0:26] Against
+[0:27] hi wi
+[0:27] hing:
+[0:28] ~AL Le
+[0:29] कर ण॒
+[0:29] e poin
+[0:30] thep ¥,
+[0:30] Omit
+[0:33] wefeel है
+[0:34] ४ toput
+[0:36] he pi है
+[0:36] fix
+[0:37] हैः
+[0:37] skill
+[0:38] ini
+[0:38] skill of 7
+[0:38] hunger,
+[0:41 - 0:42] To know that 7.
+[0:42] hes
+[0:42] am feeling
+[0:43] don't
+[0:47] हि You don't i
+[0:47] rely on those thi
+[0:48] SAS
+[0:48] ae h

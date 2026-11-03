@@ -1,0 +1,136 @@
+# model: ggml-large-v3
+========================================================================
+[777] https://www.instagram.com/reel/DNqTAFLM02-/
+STATUS: OK
+DURATION: 1:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] you're not losing muscle on a cut a lot of people think that when they get on a cut it's time say
+[0:05 - 0:10] bye bye to the muscle mass that's not how it works at all you are not going to be losing muscle mass
+[0:10 - 0:14] unless your training plan is total dog shit your nutrition plan is total dog shit there are a few
+[0:14 - 0:20] things which you can do to make sure that you're not losing any muscle on a cut one you make sure
+[0:20 - 0:24] you get your adequate amount of protein and you have to get 1.6 to 2 grams per kg body weight
+[0:24 - 0:29] anywhere between these ranges is totally fine you are not going to be losing any amount of muscle
+[0:29 - 0:33] second thing you want to make sure is you get enough carbohydrates to fuel your workouts
+[0:33 - 0:37] right you don't want to go zero carbs you don't want to go keto that is not really good for muscle
+[0:37 - 0:42] growth third thing you want to make sure is you get enough fat in enough for you to feel low this
+[0:42 - 0:47] is enough amount and enough for you to be in a deficit as well a fourth and final thing is you
+[0:47 - 0:54] want to make sure your training plan is on point if your training plan is not on point you are going
+[0:54 - 0:58] to be losing muscle that is going to be regardless mechanical tension causes muscle growth if you're
+[0:59 - 1:04] at adequate mechanical tension you are on paper going to lose muscle you want to make sure fatigue
+[1:04 - 1:10] management is on point because if your fatigue management is not on point especially in a low
+[1:10 - 1:15] energy environment you are going to be underperforming which is going to be an issue
+[1:15 - 1:19] if you're providing adequate protein and you're providing adequate mechanical tension
+[1:19 - 1:25] you are on paper not going to lose muscle unless you fuck up majorly so yeah hope that was fun
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] you're not losi
+[0:01 - 0:02] you're
+[0:01 - 0:02] not
+[0:01 - 0:02] losing
+[0:02] muscle
+[0:02] ona
+[0:02] cut
+[0:02] you'l
+[0:02] va losing muscle
+[0:03] Wie अमन
+[0:03] people think t
+[0:05] रै! aie.
+[0:05] say bye bye
+[0:06] ime say bye bye to
+[0:06] muscle mass
+[0:07] (8५ ad
+[0:07] = how, it works
+[0:08] Loew
+[0:09] SEE:
+[0:09] ५ ihe
+[0:09] t going
+[0:11] your training plai
+[0:12] हि training pla
+[0:12] total dog shit
+[0:13 - 0:14] itrition plan is t
+[0:14] dog shit
+[0:17] क) can do tom
+[0:17] you're not
+[0:19] le on a cut,
+[0:21] é'sure you get your
+[0:21] juate amount of
+[0:23] a Bitinn
+[0:23] mae ne ot 1.6
+[0:24] e . tOGet 1.6 to2
+[0:24] rkg
+[0:25] tan
+[0:28] hen
+[0:28 - 0:29] e s not going to b
+[0:29] Nel
+[0:29] y amount of
+[0:30] « अकक-
+[0:30] _ thing you
+[0:31] i, - jo
+[0:31] tf s
+[0:32] ydrates
+[0:32 - 0:33] * 4 get enough
+[0:33] ydrates to fuel
+[0:33] workouts,
+[0:34] i A a
+[0:36] t wi
+[0:37] ~ lee
+[0:37] 9 * not'really good
+[0:39] ही 4
+[0:40] . . enough
+[0:41 - 0:42] fs enough fat i!
+[0:42] tet
+[0:42] lh for you to fe
+[0:43] कि mol
+[0:44 - 0:45] g for you to
+[0:45] a deficit as
+[0:48] i जन. ऑन.
+[0:48] छः 4
+[0:50] न्न
+[0:50] iy make « your
+[0:50] ig plan is on
+[0:52] raining plan
+[0:53] eet
+[0:53] 21: plan is ni
+[0:53] point
+[0:54] \, lta
+[0:54] re going to be 105
+[0:57] nical tension cai
+[0:59] ale
+[0:59] ge 4 not able to pi
+[1:02] fe on paper
+[1:03] Paper going
+[1:04 - 1:05] ariha make sure
+[1:05] ee oll
+[1:05 - 1:06] management is
+[1:06] a 2 wanna make sure
+[1:06] point
+[1:08] 118
+[1:08] juse ia fatig
+[1:09] ७४3]
+[1:09] ity
+[1:09] = if your fatigu:
+[1:09] ment.is not on
+[1:11] in a low energy
+[1:11] environment
+[1:13] are going to be
+[1:13] inderperforming
+[1:14] \ ages
+[1:14] going
+[1:15] ee cm
+[1:15] is going to be an;
+[1:16] iding
+[1:17] Se ln
+[1:17] e providing ade:
+[1:17] protein
+[1:18] juate
+[1:18 - 1:19] \d you're providing,
+[1:19] Ale
+[1:19] juate mechanic;
+[1:19] tension
+[1:21] ia q
+[1:23] er LD
+[1:24] s * you fuck up
+[1:24] going to lose mi
+[1:25] i » hope that was

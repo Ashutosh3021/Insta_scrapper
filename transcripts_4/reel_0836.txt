@@ -1,0 +1,552 @@
+# model: ggml-large-v3
+========================================================================
+[836] https://www.instagram.com/reel/DLXlHHzNIbE/
+STATUS: OK
+DURATION: 1:57   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] train like men and if you are you might be slowing down your fat loss without even realizing it most
+[0:04 - 0:08] fitness plans are made for male biology constant hormone levels constant energy but a woman's body
+[0:08 - 0:12] works on a 28-day cycle not a daily grind that's why some days you feel super strong and other days
+[0:12 - 0:16] gym jana hi nahi hota it's not about motivation it's about your hormones and smart training here's
+[0:16 - 0:20] how to sync your workouts with your cycle menstrual phase day one to day five low energy stick to
+[0:20 - 0:25] walking this is purely made up and this is not even backed up by any data if you follow what
+[0:25 - 0:29] he's telling you over there you'll just be spinning in circles i'll be the theory of
+[0:29 - 0:34] periodization of the menstrual cycle was thought to be effective because of the variancy which
+[0:34 - 0:38] occurs in the hormones during a menstrual cycle there was like a thought that you can leverage
+[0:38 - 0:44] your hormones in such way to make good use of your hormones but that is not how human body works
+[0:44 - 0:50] in this study they compare the strength of women in a menstrual cycle and guess what
+[0:50 - 0:55] they found no significant difference this meta-analysis of 21 studies
+[0:55 - 0:55] you
+[0:55 - 1:00] showed that there is no significant difference as well we actually have one paper taking into
+[1:00 - 1:05] consideration of all of this data and making a conclusion that it is not effective i actually
+[1:05 - 1:10] went ahead and saw the kind of program kabir was putting out and you know what there is a luteal
+[1:10 - 1:16] phase d load he's making someone take a luteal d load if this is how you train people this girl
+[1:16 - 1:20] will just come back to baseline they'll be just spinning in circles and they'll be wondering
+[1:20 - 1:25] why am i not making gains this this program over here is literally made
+[1:25 - 1:31] to spin you in circles and nothing else they create a problem which never really existed
+[1:31 - 1:36] to sell their programs nothing else if your goal is muscle growth fat loss endurance whatever your
+[1:36 - 1:41] goal is you do not have to train like this unless you are not able to work out during a menstrual
+[1:41 - 1:46] cycle and that really happens just take a week off man like you don't have to do any of these
+[1:46 - 1:49] variancy changes in order to train according to your menstrual cycle
+[1:49 - 1:55] you train according to the specific goal which you want you do not have to train according to your
+[1:55 - 1:59] cycle. So, see you later. Bye.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] Stitch incoming
+[0:01] ming
+[0:01] rel
+[0:03] Bee
+[0:04] Biron J
+[0:04 - 0:06] के 3 incoming
+[0:05] ast
+[0:05] 255
+[0:05] Lat OY
+[0:05] hiAlamr—
+[0:05] tas incoming
+[0:06] Ie sien
+[0:06] Figg
+[0:07 - 0:09] Stitch incoming
+[0:08] a) nel
+[0:10] an J).
+[0:10] प्र
+[0:10 - 0:11] am incoming
+[0:11] Wane
+[0:11] oe ee
+[0:12] Vine
+[0:12] ig ae.
+[0:14] eo incoming
+[0:15] है | Va?
+[0:15] 90९
+[0:15] 14७51
+[0:15 - 0:20] Stitch Incoming
+[0:17] चलन
+[0:19] coin
+[0:20] पाता
+[0:21] ५५५
+[0:21] “ie is
+[0:22] fey |
+[0:23] eet
+[0:23] ind this is
+[0:24] सील:
+[0:24] “a even
+[0:24] up by any
+[0:25] © (Az dng
+[0:26] कि कक in
+[0:26] - Ney
+[0:26] if you fol
+[0:26] hat he's
+[0:26] ‘ celiggyyou
+[0:27] dy just a
+[0:28] her just be पा in
+[0:28] लांच
+[0:29] Sie fF
+[0:29] had
+[0:29] t Ge
+[0:29] शत theory
+[0:30] ‘ds i
+[0:31] 1095
+[0:31] 1४7
+[0:31] 9 the men$&trual cycle was
+[0:32] As “य
+[0:32] Se ४
+[0:32] é the one
+[0:32] al cycle was
+[0:32] thoug!
+[0:32] be effective.
+[0:34] हक के
+[0:34 - 0:35] which,occurs in the
+[0:35] ™ hormones during a
+[0:35] क्रो
+[0:36] Sef
+[0:36] tee
+[0:36] a eg
+[0:36] there
+[0:37] fee
+[0:37] ४५ र
+[0:37] thought that
+[0:38] neerat you can
+[0:38] rage”
+[0:39] int
+[0:39] Jind
+[0:39] #“7 ५ J
+[0:40] uch wayjte make
+[0:41] Lay
+[0:41] fio
+[0:41] ‘such Way to make good.
+[0:41] use ~ a
+[0:43] at ae how human
+[0:43] a thi
+[0:44] wwe
+[0:45] श्र
+[0:45] hina ZZ uterus
+[0:46] it MEE 9
+[0:47] re PA data Hai in this
+[0:48] A ol
+[0:48] var
+[0:48] ‘nll
+[0:48 - 0:49] Effect of menstrual cycle phase on the concentration of
+[0:48 - 0:49] Bionvalabio 17 oestradiol and testosterone and muscle strength
+[0:48 - 0:49] they compare the strength
+[0:49] red
+[0:49] of womenin a menstrual
+[0:50] ‘There were no significant differences in MVIF of the
+[0:50] je between the EF and ML phases of the men
+[0:50] strual cycle (P:
+[0:50] 2443N
+[0:50] during the EF phase and 30.8 + 7.4 N during the ML
+[0:50] BY phase. Mean MVIF did not signi
+[0:50] antly correlate with
+[0:50] ‘mean concentration of any of the reproductive hormones
+[0:50] (either bioavailable or total concentration) measured
+[0:50] fand guess what
+[0:50 - 0:51] ~ Muscle strength
+[0:50 - 0:51] EDI mus
+[0:50 - 0:51] 0.1). Mean strength was 28.
+[0:50 - 0:51] (Table 2).
+[0:51] There were no
+[0:51] ificant differences in MVIF of the
+[0:51] cle be
+[0:51] cen the EF and ML phases of th
+[0:51] nen:
+[0:51] strual
+[0:51] rele (P=
+[0:51] 43N
+[0:51] duri
+[0:51] and
+[0:51] the EF ph
+[0:51] +74 N during the ML
+[0:51] pha
+[0:51] ‘Mean MVIF did not significantly correlate with the
+[0:51] ‘mean concentration of any of the
+[0:51] roductive hormones
+[0:51] (cither bioavailable or total cor
+[0:51] matration) measured
+[0:51] नये
+[0:51] [Bhd guess what r found,
+[0:51] no significant
+[0:52] VAs
+[0:52] and guess what they found
+[0:52] no significant difference
+[0:52 - 0:54] Variations in strength-related measures
+[0:52 - 0:54] during the menstrual cycle in eumenorrheic
+[0:52 - 0:54] ‘women; A systematic review and meta-
+[0:52 - 0:54] analysis
+[0:53] tes ras
+[0:53] this meta analysis
+[0:53 - 0:54] sete
+[0:54] this
+[0:54] meta analysis of 21
+[0:56] 221
+[0:56] Tas
+[0:56] cexplosiv
+[0:56] ny aiven day. Research
+[0:56] his area i immensely chal
+[0:56] with accurate identiicai
+[0:56] 77 showed) that there
+[0:56 - 0:57] ments should
+[0:56 - 0:58] Strength-telated characteristics appear to remain invariable
+[0:56 - 0:58] between menstrual cycle phases. despite fluctuations im com-
+[0:56 - 0:58] ‘centrations of circulating levels of oestrogen and progesterone.
+[0:56 - 0:58] Practically
+[0:56 - 0:58] ese findings suggest that eurenortheic females par
+[0:56 - 0:58] ticipatiny
+[0:56 - 0:58] sports or activities
+[0:56 - 0:58] at rely heav
+[0:56 - 0:58] ॥ on maximal or
+[0:56 - 0:58] rength, are nor disadv
+[0:56 - 0:58] aged by th
+[0:56 - 0:58] menstrual cycle al
+[0:56 - 0:58] phase o
+[0:56 - 0:58] lenging:
+[0:56 - 0:58] 1 to problems associat
+[0:56 - 0:58] cycle phases in each
+[0:56 - 0:58] ipant and control af other confound
+[0:56 - 0:58] Jing factors that may als
+[0:56 - 0:58] use va
+[0:56 - 0:58] tions in strength performance
+[0:56 - 0:58] Consequently,
+[0:56 - 0:58] any of the studies in this,
+[0:56 - 0:58] are
+[0:56 - 0:58] nited by small
+[0:56 - 0:58] sample sizes and methodological issues, therefore future exper
+[0:56 - 0:58] endeavour to address these shortcomings.
+[0:57] ५ 45
+[0:57] centrations
+[0:57] levels af oestrogen and progesterone.
+[0:57] Pract
+[0:57] ales par
+[0:57] rely
+[0:57] explosive strength, are nor disadvantaged by
+[0:57] phase on any 3
+[0:57] day, Research in this area is immensely cha
+[0:57] Jenging due to problems associated with accurate identification of
+[0:57] 16 conteol af other confound:
+[0:57] Jing factors that may also cause variations in strength performance
+[0:57] ay af the studies inthis area are limited by small
+[0:57] sample size
+[0:57] showed ‘tt
+[0:57] there is no
+[0:58] प्र
+[0:58] जहर
+[0:58] ny given day. Res
+[0:58] arch
+[0:58] his area is immen
+[0:58] y chat
+[0:58] with ace
+[0:58] ate identifica
+[0:58] s should
+[0:59] it r
+[0:59] Hom
+[0:59] an 2
+[0:59] Il we actually have one
+[1:00] taking into) consideration
+[1:00 - 1:02] Evidence for Periodizing
+[1:00 - 1:02] ing
+[1:00 - 1:02] Cycle
+[1:00 - 1:02] Phases to Optimize
+[1:00 - 1:02] Female Athlete
+[1:00 - 1:02] Pecormance Is tacking
+[1:01] sideration of
+[1:01] @itaking int
+[1:01] all कि his,
+[1:02] Sipand
+[1:02] bee.
+[1:03 - 1:04] On a group lev
+[1:03 - 1:04] the current scientific
+[1:03 - 1:04] research does not provide adequate
+[1:03 - 1:04] credible
+[1:03 - 1:04] vidence
+[1:03 - 1:04] that
+[1:03 - 1:04] suggest
+[1:03 - 1:04] strength or endurance training should
+[1:03 - 1:04] be planned or programmed according
+[1:03 - 1:04] to menstrual cycle phase or that
+[1:03 - 1:04] women
+[1:03 - 1:04] (recreational or elite)
+[1:03 - 1:04] have
+[1:03 - 1:04] a consistently increased potential to
+[1:03 - 1:04] benefit from specific forms of training
+[1:03 - 1:04] during any specific phase of their men-
+[1:03 - 1:04] strual @yele) Although the presence or
+[1:03 - 1:04] Z ina making a conclusion
+[1:05] end,
+[1:05] TNF)
+[1:06] Nel
+[1:06] ind saw
+[1:06 - 1:08] went al
+[1:07] 6 oy
+[1:07] io went ahead कक saw tl
+[1:07] kind of program
+[1:08] ane
+[1:08] ‘Stover 20-2 mn
+[1:08] movie
+[1:08] Fre bee 8 eine
+[1:08] ty + Core
+[1:08] sma 00
+[1:08] हर ie
+[1:08] Au Wi ५ पा out
+[1:08 - 1:09] or Fah
+[1:08 - 1:09] Sy opto: creo
+[1:08 - 1:09] ‘erthoreaen tof ert
+[1:08 - 1:09] प्र
+[1:08 - 1:09] श्र
+[1:08 - 1:09] pe Toro ft, Sec,
+[1:08 - 1:09] eae
+[1:08 - 1:09] ‘yeh amg
+[1:08 - 1:09] (Sin ter
+[1:08 - 1:09] ey Wa
+[1:08 - 1:09] ‘owtchae Broce
+[1:09] < Qos
+[1:09] Tacos)
+[1:09] wen ७७.
+[1:09] ha (20-25
+[1:09] stn ap
+[1:09] Pre bt cigs
+[1:09] ‘tetera ig
+[1:09] oy Upper ay # Coe
+[1:09] May |
+[1:09] sma migs 00
+[1:09] revlon ie
+[1:09] Kabir was putting out and
+[1:09] WF, what
+[1:10] Snow.
+[1:10 - 1:11] @ Luteal (Days 18-28)
+[1:10 - 1:11] Fatigue, bloating & cravings
+[1:10 - 1:11] may kick in, Switch gears:
+[1:10 - 1:11] + Day 1: Glutes + Hamstrings:
+[1:10 - 1:11] (Moderate weights)
+[1:10 - 1:11] + Day 2: Upper Body + Core
+[1:10 - 1:11] (Slow tempo)
+[1:10 - 1:11] + Day 3: Walk or steady-
+[1:10 - 1:11] state cardio
+[1:10 - 1:11] + Add mobility & deload days
+[1:10 - 1:11] Don't chase PRs — focus
+[1:10 - 1:11] ‘on recovery.
+[1:10 - 1:11] ‘+ Cycle-syncing helps you
+[1:10 - 1:11] train smarter, not harder.
+[1:11] कै now.
+[1:11] Bete
+[1:11] there
+[1:11] ‘a: phase
+[1:13] ea forah ७ 11॥
+[1:13] Author
+[1:13] hee~ i
+[1:13] meone take
+[1:13 - 1:15] 6 @aryamansinhat8 yes bro | don’t
+[1:13 - 1:15] Magically miraculously created
+[1:13 - 1:15] winners on stage 18°
+[1:13 - 1:15] Reply
+[1:13 - 1:15] Do,you,ymake your winners.
+[1:13 - 1:15] Jiake,a luteal deloadsvro%
+[1:14] rasne takea
+[1:14] e's making 5:
+[1:14] ne sLutiel Deload
+[1:14 - 1:15] = kabirbrah @ 1th Author
+[1:15] Ege
+[1:15] fer
+[1:15] if this is how
+[1:16] Phe
+[1:16] a nt
+[1:17] hae,
+[1:17] J girl will just come back
+[1:18] ३५, 5-४
+[1:18] ot heap ...
+[1:18] - 7 ey'Il bene
+[1:19] ey'll Pale
+[1:19] spinning in
+[1:20] अमर
+[1:20] her
+[1:20 - 1:21] 1 he and they'll.be wondering
+[1:21] Se ४
+[1:21] hy am 1 ee,
+[1:22] ३:०४
+[1:23] wer
+[1:23] GCA
+[1:23] < eee
+[1:23] fatto sven
+[1:23] om ease tenn
+[1:23] met Pte
+[1:23] पक est
+[1:23] oon
+[1:23] (Gen esta ea
+[1:23] 12170:
+[1:23] Restore seein
+[1:23] rear
+[1:23] esting (Sua, eset,
+[1:23] ret ४७०००
+[1:23] 1:41
+[1:23] Aw age
+[1:23] J this
+[1:23 - 1:24] ines Trae
+[1:23 - 1:24] ena (One 1-8)
+[1:23 - 1:24] hue Foca ७७
+[1:23 - 1:24] 11177 3-88 mine
+[1:23 - 1:24] orp ack
+[1:23 - 1:24] 4 Focus oor 0-1)
+[1:23 - 1:24] the torn
+[1:23 - 1:24] oe Boy seg
+[1:23 - 1:24] ‘or (optena cao
+[1:23 - 1:25] हुए: Benen, Sher Pes,
+[1:23 - 1:25] 9988७
+[1:23 - 1:26] @ owssten omy 15-17
+[1:23 - 1:26] Pera
+[1:23 - 1:26] ‘Sher bi (20-2 min mae)
+[1:24] कलर ऋचा.
+[1:24] कह ०००००
+[1:24] Tato oven
+[1:24] om ean oc tenn
+[1:24] met trent
+[1:24] pence Bs,
+[1:24] (Geta este)
+[1:24] iby Fu 8a een
+[1:24] Bistrot
+[1:24] vce ear
+[1:24] ting (33.७९ 0५७७५
+[1:24] 30200 Wena ०.
+[1:24] paths
+[1:24] 0 stent ony 1-28),
+[1:24] 3८०
+[1:24] ram ove
+[1:25] ० मसल
+[1:25] अकाल.
+[1:25] 17127
+[1:25] etn
+[1:25] (00०० rst
+[1:25] Jormpe back
+[1:25] 17777 20%
+[1:25] ००2
+[1:25] 8009 Senate
+[1:25] sets, Rs ta thus
+[1:25] opto caso
+[1:25] Sith steko
+[1:25] ००००० omy 15-1
+[1:25] Tesi (ea, ewe,
+[1:25] Werks ७०.
+[1:25] Shar (20-25 mn mse)
+[1:25] pel
+[1:25] Veh
+[1:25] (०१११ 8-28)
+[1:25] 1ध०ग
+[1:25 - 1:26] Fito srensn recor
+[1:25 - 1:26] ensue 1-8)
+[1:25 - 1:26] Pine Pare cor
+[1:25 - 1:26] 4 Focus (ome 6-1)
+[1:25 - 1:26] Mens.
+[1:25 - 1:26] ada
+[1:26] res
+[1:26] wee
+[1:26] COA
+[1:26] atch earhoranes or Seter
+[1:26] This includes
+[1:26] Lowrenray te, Foc on
+[1:26] ‘aking 3-35 mia
+[1:26] 020० seteng
+[1:26] (2080 ४०८४० ४४००
+[1:26] Medea
+[1:26] @ ute not we
+[1:26] tort ere ast
+[1:26] Ue ७५०४०
+[1:26] (eth Boren, Shae Pre,
+[1:26] 222 ower oy Sanath
+[1:26] ‘eee ws,
+[1:26] vee
+[1:26] oy 2 ut Boe Hyperophy
+[1:26] [bar ontona cao
+[1:26] cred ot
+[1:26] प्रशांत steerer
+[1:26] omer ours
+[1:26] ear
+[1:26] esting (Sua, eve,
+[1:26] Sionet Workouts.
+[1:26] iia moestente
+[1:26] ‘Poon
+[1:26] ५०7४
+[1:26] 5 00 18-28)
+[1:26] @ vom
+[1:26] 2800
+[1:26] is liters
+[1:26 - 1:27] le to spin you
+[1:26 - 1:28] Replied to you < 6 Scope
+[1:26 - 1:28] Thank you bro A.
+[1:26 - 1:28] st hele
+[1:27] atKabinjis: fully, a 1081
+[1:27] tr literal
+[1:27 - 1:28] This includes 21 studies btw
+[1:27 - 1:28] E You're not wrong
+[1:28] uty
+[1:28] abinis fullyawarerab
+[1:28] tal
+[1:28] व 5०
+[1:29] ५० क
+[1:29] ey create aig"
+[1:30] cen
+[1:30] 22 they create a problem which
+[1:31] bee
+[1:31] ity >
+[1:31 - 1:32] fF SYCIE-SyNICING Reps you
+[1:31 - 1:32] train smarter, not harder.
+[1:31 - 1:32] Fat Loss guide
+[1:31 - 1:32] a Message.
+[1:32] ४24
+[1:32] her to sell their programs
+[1:33] to sell
+[1:33] rograms,
+[1:35] inp
+[1:35] gh Der
+[1:36] Ris
+[1:36] & whatever
+[1:36] Y. wed
+[1:37] SR 4
+[1:37] श्र
+[1:37] the
+[1:38] ५९१
+[1:38] bes
+[1:39] ee id
+[1:39] च्क
+[1:39] less
+[1:40] Lat
+[1:40] pre not able
+[1:41] ie %७
+[1:41] 10०0
+[1:41] ible to work out
+[1:41] juring
+[1:42] ie रू
+[1:42] “aan
+[1:42] Ned
+[1:42] 7 tn
+[1:43] ₹ ९९९
+[1:43] HON
+[1:43] “hss :
+[1:44] ~ like
+[1:45] rast
+[1:45] ah don't fave to do any
+[1:46] Yes
+[1:46] पर don't
+[1:46] these vai
+[1:46] hayeto do any of
+[1:47] her |
+[1:47] TT म
+[1:48] Van.
+[1:48] ire
+[1:48] क्ष
+[1:48 - 1:49] >> iAiprder to train according to
+[1:49] १९१
+[1:50] train
+[1:51] rot
+[1:51] oe ed
+[1:51] i ‘wd
+[1:51 - 1:52] / ‘bu train,according to the
+[1:52] १९ ४५
+[1:52] ific coh ‘which
+[1:52] phe
+[1:54] u do nett have to train
+[1:55] 7०5
+[1:55] "३ ५४५
+[1:55] 4 tome
+[1:56] ९.३५
+[1:56] har
+[1:56] rdingto your menstrual
+[1:57] Follo:
+[1:57] more

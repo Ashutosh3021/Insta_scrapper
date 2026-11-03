@@ -1,0 +1,253 @@
+# model: ggml-large-v3
+========================================================================
+[825] https://www.instagram.com/reel/DL0O4tsB4RS/
+STATUS: OK
+DURATION: 1:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] your frequency and volume are not as important as you think now don't get me wrong high frequency
+[0:05 - 0:10] and adequate volume both are very important for muscle growth but there is one specific thing
+[0:10 - 0:15] which comes before them and that is your exercise selection no matter how much frequency you put
+[0:15 - 0:22] no matter how much volume you put if your exercise selection on the get-go is bad you are not going
+[0:22 - 0:27] to be making the progress which you need to make now i'll give you an example let's say on lower
+[0:27 - 0:34] one we did squats only and on lower two we did leg extensions only for the quads essentially on
+[0:34 - 0:41] paper we are training some muscle groups two times a week but there is one specific muscle group which
+[0:41 - 0:47] is not being hit on one day essentially the rec fem is not being trained at two times frequency
+[0:47 - 0:53] this is why i have a huge emphasis on saying that hypertrophy is fiber specific the fibers which get
+[0:53 - 0:56] activated the fibers which experience mechanical tension
+[0:56 - 0:57] are the ones which get activated and the fibers which get activated are the ones which get
+[0:57 - 1:01] activated are the ones which are going to grow so before you get into any kind of high frequency
+[1:01 - 1:06] repeating workouts and even adding more volume if your exercise selection does not match the
+[1:06 - 1:12] principle that hypertrophy is fiber specific you are not going to be able to have good overall
+[1:12 - 1:14] growth so yeah hope that was fun
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] your frequency
+[0:01] ५७८
+[0:01] your frequency and volume
+[0:02] important™
+[0:03] है हि
+[0:03] important as you think now
+[0:04] high —
+[0:05] high frequency and
+[0:05] adequate
+[0:06] both
+[0:07] te बीस.
+[0:07] vat
+[0:07 - 0:08] both are'very important for
+[0:08] muscle growth
+[0:09] but there is one
+[0:10] बज ऑन
+[0:10] क्र हे
+[0:10] which हि
+[0:11] 4 ts .
+[0:11] which comes before
+[0:12] and that is
+[0:13] ap ९
+[0:13] and that is your exercise
+[0:13] ‘Selection
+[0:14] ent
+[0:14] oe कि.
+[0:14 - 0:16] no matter how much
+[0:15] frequency you
+[0:16] et जल.
+[0:16] rae
+[0:17] no matter'how much volume
+[0:17] you put
+[0:18] ign
+[0:18] बी exercise
+[0:19] 4 ir}
+[0:19] if your exers
+[0:19] Sel;
+[0:20] of g
+[0:20] if your exercise selection on
+[0:20] a the get go
+[0:21] you
+[0:22 - 0:23] you are not going to be
+[0:23] +0 हि
+[0:23] ayer
+[0:23] nal
+[0:23] making the progress
+[0:24] sa h
+[0:24] er 4
+[0:24 - 0:25] which aan need to make
+[0:25] Pas
+[0:25] aoe
+[0:25] now I'll give you an example
+[0:26] fats
+[0:26] Tony
+[0:26] Wat:
+[0:26] ‘alli
+[0:26] let's say ~~
+[0:26 - 0:28] *\ slowa
+[0:26 - 0:28] Hany
+[0:27] IFrontisquat
+[0:27] iWork
+[0:27] आकलन की.
+[0:27 - 0:28] eSquats}
+[0:27 - 0:29] let's say on lower one we did
+[0:27 - 0:31] = Ham)
+[0:28] = Sepes
+[0:28] saat:
+[0:28] Cale worts
+[0:28] ta 4.
+[0:28] Disa
+[0:28] कैजजः
+[0:28] 97.8
+[0:28] = say on lower one we did
+[0:29] alve}
+[0:29] aaN
+[0:29] squats only
+[0:30] 0५४६
+[0:30] 54115
+[0:30] iCalvie}
+[0:30] wortk
+[0:30] हाल
+[0:30] @ and'én lower
+[0:30] प्र
+[0:31] owe
+[0:31] Lom
+[0:31] बाग
+[0:31] Tomiysquats:
+[0:31] “Dass
+[0:31] see
+[0:31] Cale)
+[0:31] Worlkeu
+[0:31] we did ~
+[0:32] Hower,
+[0:32] Batt:
+[0:32] Tor
+[0:32] Calva woxts:
+[0:32] fia
+[0:32 - 0:33] hworkg
+[0:32 - 0:33] we did leg extensions only
+[0:33] Lomar2
+[0:33] Te ee
+[0:33] Cave wert |
+[0:33] for the quads
+[0:33 - 0:34] iFront{squat:
+[0:33 - 0:34] Squats;
+[0:33 - 0:34] works
+[0:34] Lome
+[0:34] iSIOMSy
+[0:34] Hambwond
+[0:34] Gellve works
+[0:34] hem
+[0:34] essentially on
+[0:35] » isq
+[0:35] wats |
+[0:35] ste
+[0:35] world
+[0:35] wont
+[0:35] we are
+[0:35 - 0:37] Eront:
+[0:35 - 0:37] i€alve}
+[0:36] ows
+[0:36] ten:
+[0:36] iETont
+[0:36] Baus
+[0:36] 1811 9001124
+[0:36] 18126]
+[0:36 - 0:38] we are training some muscle
+[0:37] 7 bom
+[0:37] Pe 3)
+[0:37] Sey
+[0:37] emsions
+[0:37] ise
+[0:37] Leglext
+[0:37] MmAWor
+[0:37] (Calo
+[0:37] IWoorikg
+[0:37] oul
+[0:37] कि some muscle
+[0:38] groups two times a week
+[0:39] ‘ क्र
+[0:39] 2८ is one
+[0:40] tee!
+[0:40] but there is one specific
+[0:40] muscle
+[0:41] inedhixfaywee|
+[0:41] (Bre
+[0:41] which is not
+[0:42] ibe! re itrainedkixd
+[0:42] Broys|
+[0:42] lit
+[0:42] lie
+[0:42] / is not being hit on
+[0:43] ital
+[0:43] "१92,
+[0:43] Fr है
+[0:44] bY W
+[0:44] femlis)
+[0:44] )traimedhixtanwer
+[0:44] plitte)}
+[0:44] bd fhe
+[0:44] ian
+[0:44] the rectum
+[0:45] fsb
+[0:45] 11160
+[0:45] के it
+[0:45 - 0:46] the rectum is not being
+[0:46] fei
+[0:46] trainedhixd
+[0:46] eld
+[0:46] (Broysplit;
+[0:46] trained at two times
+[0:47] Hes
+[0:47] पके
+[0:47] this
+[0:48 - 0:49] this is Why | have a huge
+[0:49] i We
+[0:49] Sif
+[0:49] Vip
+[0:49] emphasis on saying
+[0:50] iY W
+[0:50] ३78
+[0:50] yer
+[0:50 - 0:52] that hypertrophy is fiber
+[0:51] १ iypentrophy,
+[0:51] hed
+[0:51 - 0:52] fiber
+[0:52] Spe:
+[0:52] Berti
+[0:52] ॥ फेक
+[0:52] specific
+[0:53] श्चिय
+[0:53] the fibers which get
+[0:54] ant
+[0:54] ees
+[0:55] hye
+[0:55 - 0:56] ire fibers which experience
+[0:56] mechanical tension
+[0:57] LY Ww
+[0:57] are the ones which are
+[0:59] so befbre you get into
+[1:00] 50 before you get into any
+[1:00] kind of high
+[1:01] <0 tl.
+[1:01] iting
+[1:02] eo 4
+[1:02] nih
+[1:02 - 1:04] repeating workouts and even
+[1:03] ry We
+[1:03] adding
+[1:04] adding more volume
+[1:05 - 1:06] if your exercise selection
+[1:06] does not match
+[1:07] | पका
+[1:07] hypertrophy
+[1:07 - 1:08] the principle that
+[1:08] hypertrophy is fiber
+[1:09] nS We
+[1:09] if cy
+[1:09] 7 08010
+[1:10] कक padhlo
+[1:10] you are not
+[1:11] 0 Ae
+[1:11] you are not going to be able
+[1:11] to have
+[1:11 - 1:12] oy padhlo
+[1:12] overall
+[1:13] Caption padhlo
+[1:13] overall growth so yeah

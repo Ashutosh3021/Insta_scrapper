@@ -1,0 +1,450 @@
+# model: ggml-large-v3
+========================================================================
+[751] https://www.instagram.com/reel/DOttEP3k3TJ/
+STATUS: OK
+DURATION: 2:27   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Well, bros, I was wrong.
+[0:01 - 0:03] This guy made a video basically saying that
+[0:03 - 0:04] ascending resistance profile
+[0:04 - 0:06] हमेशा muscle building के लिए better नहीं होती.
+[0:06 - 0:08] Instead, जब भी disagreement हो,
+[0:08 - 0:10] we should try to learn from each other,
+[0:10 - 0:11] gain knowledge and grow.
+[0:11 - 0:13] So, thanks R.N. Trains for keeping me sharp.
+[0:13 - 0:22] Jokes aside, it takes balls,
+[0:22 - 0:24] like balls of steel
+[0:24 - 0:25] to accept that you're wrong.
+[0:25 - 0:27] Even me, I've been corrected by my mentor,
+[0:28 - 0:30] I've been corrected by other creators
+[0:30 - 0:34] and it's not like I've never been wrong.
+[0:34 - 0:35] I have been wrong
+[0:35 - 0:37] and I have put out in my story as well
+[0:37 - 0:39] that I'm wrong at a specific place
+[0:39 - 0:41] and where I'm wrong,
+[0:41 - 0:42] I'm going to address that.
+[0:42 - 0:44] Because me as a creator,
+[0:44 - 0:47] I should know that ये चीज़
+[0:47 - 0:48] I'm putting it out there on the internet
+[0:48 - 0:50] and people are going to watch it.
+[0:50 - 0:52] I do not want people to think
+[0:52 - 0:54] that I'm putting out wrong information.
+[0:54 - 0:56] Yes, we are human.
+[0:56 - 0:57] As a science-based creator,
+[0:58 - 1:00] you are bound to get things wrong.
+[1:00 - 1:03] And that's the part of being a creator.
+[1:03 - 1:04] That you are going to get things wrong.
+[1:04 - 1:06] And it's totally okay to let that happen.
+[1:06 - 1:08] A lot of creators are not even posting
+[1:08 - 1:10] because they are scared of being wrong.
+[1:10 - 1:12] And I'm really glad that we all can
+[1:12 - 1:13] come to the same place
+[1:13 - 1:15] and have this discussion
+[1:15 - 1:18] without trying to throw fights at each other,
+[1:18 - 1:19] without getting someone's account banned,
+[1:19 - 1:21] without doxing someone.
+[1:21 - 1:22] And I'm really glad that
+[1:22 - 1:25] you show that kind of intellectuality, man.
+[1:28 - 1:30] There is this common misconception going on
+[1:30 - 1:31] that whenever I make
+[1:31 - 1:33] or someone makes a stitch on someone,
+[1:33 - 1:35] they are trying to degrade that person.
+[1:35 - 1:38] It's not always going to be like that.
+[1:38 - 1:40] I'm never trying to degrade someone
+[1:40 - 1:41] or discredit someone.
+[1:41 - 1:43] But at the same time,
+[1:43 - 1:45] I'm just trying to provide my insights
+[1:45 - 1:46] on that given topic.
+[1:46 - 1:48] Now, throughout the course,
+[1:48 - 1:51] in the start when I used to make videos on people,
+[1:51 - 1:52] I used to be very harsh
+[1:52 - 1:54] with my wordings.
+[1:54 - 1:56] And I have from now improved it.
+[1:56 - 1:57] So, because I know
+[1:57 - 2:00] that there is no productive conversation
+[2:00 - 2:00] which I'm going to have
+[2:00 - 2:03] if I speak the way like I spoke before.
+[2:03 - 2:06] And I have seen the change.
+[2:06 - 2:08] And it started with just Shashank itself
+[2:08 - 2:11] that I was trying to convey things
+[2:11 - 2:12] in such a way that
+[2:12 - 2:14] I don't make him feel like
+[2:14 - 2:15] I'm trying to attack him.
+[2:15 - 2:18] And it ended up being very well.
+[2:18 - 2:20] And I've learnt my lesson as well
+[2:20 - 2:22] that I shouldn't speak
+[2:22 - 2:24] the way I spoke before.
+[2:24 - 2:25] So, yeah.
+[2:25 - 2:27] Anyways, that is it for today.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02 - 0:03] I was wrong १०
+[0:02 - 0:03] ave better 7,
+[0:03] fet अल
+[0:08] ey ह
+[0:12 - 0:13] ks RN trains for
+[0:12 - 0:13] g me sharp and
+[0:13] क्ष्ः
+[0:14] issediaften tl
+[0:14] कै मैं
+[0:15 - 0:20] bite: kissed after this
+[0:16] २७७६:
+[0:16] aie
+[0:17] [ vetissedaftenthis "ng
+[0:19] ite
+[0:19] rag
+[0:20] Pet al
+[0:21] Gist
+[0:21] jokes asi
+[0:21] ‘accep’
+[0:21] her)
+[0:21] are
+[0:21 - 0:22] like balls,
+[0:21 - 0:25] s balls
+[0:22] lis
+[0:22] C पक
+[0:22] are SS
+[0:22] wrong.
+[0:23] sre
+[0:23] ore
+[0:23] joke
+[0:23] lik
+[0:24] jokes asi
+[0:24] like caf:
+[0:25] Fes
+[0:25] jokes ‘baits ee
+[0:25] like balls ०!
+[0:25] i to
+[0:25] Cy that youare
+[0:25] wrong,
+[0:26] ५७४३६
+[0:27] Ses ‘i
+[0:28] braid
+[0:28] nit
+[0:28] hh king 0
+[0:28] ae ee
+[0:28] ‘snot 1106 have
+[0:28] थर्ड
+[0:28 - 0:29] masculine, re |
+[0:28 - 0:30] Ihave been
+[0:29] 7 king deltord
+[0:29] N sig
+[0:29] her
+[0:29] nde
+[0:29] the
+[0:29] euyy
+[0:29 - 0:32] Ihave =>
+[0:30] ntific
+[0:30] snitch, king deltoids
+[0:30] he 4
+[0:30] pink
+[0:30] J cl
+[0:31] 1 e beenco!
+[0:31] her — ee and
+[0:31] it's notlike Ihave
+[0:32] CS: creators
+[0:32] e it's not li
+[0:34] एके
+[0:34] been wrong
+[0:34] Hacis
+[0:34] atta
+[0:35] Gad
+[0:36] Ther ot
+[0:36] . Eines J
+[0:38] beef wrong and!
+[0:38] have pu’
+[0:38] as well
+[0:38] Rhian sone
+[0:39] ‘aoa
+[0:40] Bins
+[0:41] oot
+[0:42] Seens
+[0:42] ee” a
+[0:43] ais
+[0:44] wa should
+[0:45] geet
+[0:46] myn
+[0:47] lam putting कण there
+[0:47] Cs the intern
+[0:47] people are a ingto
+[0:47] watch
+[0:49] lam aE there
+[0:49] ¢on theinternet and.
+[0:50] प्र
+[0:50] oat
+[0:50] ६20
+[0:50] co it formation,
+[0:51] Senet
+[0:51] eit
+[0:51] ink that | a1
+[0:51] पा वी,
+[0:52] ext
+[0:52] rong information.
+[0:54] 52०22
+[0:54] rey
+[0:54] nip
+[0:54] CF information.
+[0:55] ‘igi
+[0:55] or) we arehu ans
+[0:56] 2525८
+[0:56] phat
+[0:57] ९४५८८८
+[0:57] inet
+[0:58] Semen
+[0:58] Scackom
+[1:00] eae
+[1:00] get thi
+[1:01] roi
+[1:02] (aan
+[1:03] bro
+[1:04] SF yollareg¥ingto'get
+[1:04] things wrong and
+[1:06] cee
+[1:06] kort
+[1:07] 252
+[1:08] be salle]
+[1:08] Sa creator@aréhot
+[1:08] fen posting because
+[1:08] scare
+[1:08 - 1:09] being
+[1:08 - 1:10] “wrong
+[1:09] | idonit
+[1:09] rer,
+[1:09] ire
+[1:09] they are —
+[1:09] en pi
+[1:10] tbe “1
+[1:10] e aie
+[1:10] really
+[1:10] ce and have this
+[1:11] me i
+[1:12] git
+[1:12] lamreally glad
+[1:12] id have thi:
+[1:15] he Ad
+[1:15] without getting
+[1:15 - 1:17] th Cas tothrowfightsor
+[1:16] tcl}
+[1:16] cae
+[1:16] ithout ge’
+[1:16] someo!
+[1:17] | न 5 witho. aU
+[1:17] jing
+[1:18] sending oie]
+[1:18] discus:
+[1:18] ing sat
+[1:18] Ir ightsor
+[1:18] without getting
+[1:18 - 1:21] st 0) Comment some’
+[1:19] fonlsending a] ople
+[1:19] Comment something)
+[1:19] accol
+[1:19] anne!
+[1:19] jout
+[1:19] 1471 ne आय |
+[1:19] rei
+[1:19] hat you
+[1:20] Bahffed without
+[1:20] Ca somi
+[1:20] e andi.
+[1:20 - 1:21] sending ts
+[1:20 - 1:21] leaking private info =
+[1:20 - 1:21] really glad tl
+[1:20 - 1:21] sho)
+[1:20 - 1:22] you
+[1:20 - 1:23] account van
+[1:21] cy a हि
+[1:21 - 1:22] thout
+[1:22] allithat fas ied withime
+[1:23] ०० a ता । me
+[1:23] doxing som:
+[1:23] cane:
+[1:23] and
+[1:24] ies oe
+[1:24] lwith me
+[1:24] thatkind of
+[1:24] aaa
+[1:25] Seno oo
+[1:25] ant
+[1:26] wp guy .
+[1:26] A [=o Gi
+[1:27] iat
+[1:28] Bla
+[1:28] key whenet
+[1:28] HERG
+[1:28 - 1:29] misconcep}
+[1:28 - 1:29] jing on
+[1:28 - 1:31] there is this common
+[1:28 - 1:31] someone
+[1:29] key etait i
+[1:29] mal
+[1:30] thereis ena ८०
+[1:30] mon
+[1:30 - 1:31] misconceptioiigoing on
+[1:30 - 1:31] key whenever Im:
+[1:31] Say
+[1:32] “str
+[1:32] ps अन्य i,
+[1:33] ply
+[1:33] They are’
+[1:33] i रब
+[1:33 - 1:35] degrade that pel अत
+[1:34] Eo ae
+[1:36] It's not alwaysigoi
+[1:36] mate
+[1:36 - 1:37] be like that.
+[1:37] It's not —
+[1:37] ito
+[1:38] lam never ne to
+[1:38] \ discredit someon
+[1:38 - 1:41] degrade someone
+[1:39] tam never'ti¥ing to
+[1:39] discredit ott
+[1:40] श्र
+[1:40] | io? hy
+[1:40] lam nevenggying to
+[1:40] discredit 40
+[1:41] lam nevéntfyin
+[1:41] discredit someone.
+[1:42] But at the smagine 1
+[1:42] 1७५५८ trying to pr
+[1:42 - 1:45] my insights on that
+[1:42 - 1:45] given.
+[1:43] k hy
+[1:43] jime 1
+[1:43] amjust aye
+[1:43 - 1:45] But at the
+[1:44] But at the same'time|!
+[1:44] am just trying to pi
+[1:45] m time!
+[1:45] amjust शक
+[1:46] 44:2८
+[1:46] ptr.
+[1:47] i is
+[1:47] eee lhout the
+[1:47] course in thi
+[1:47] rt शा
+[1:47] 1560 to make Videos iti,
+[1:47 - 1:50] people.
+[1:48] course in cree
+[1:48] 18520 to make vid
+[1:48 - 1:50] Now thro:
+[1:48 - 1:50] the
+[1:49] Me sas
+[1:49] Now througout the
+[1:49] course in the start
+[1:49] 1 Used to make vid
+[1:49] oo सिक्स
+[1:50] Pie.
+[1:50] course in पा rt
+[1:50] 185९0 to make Mee on
+[1:51] lused to,
+[1:51] with my ae
+[1:51] rove
+[1:51] श्र
+[1:51 - 1:52] harsh
+[1:51 - 1:56] have from now a pi
+[1:52] ) we पु
+[1:52] lused पल
+[1:52] दर it
+[1:52 - 1:56] with my wordings:
+[1:53] ही जब
+[1:53] 1५5९० to be आह, harsh
+[1:54] Have from. oni
+[1:54 - 1:56] lused to be very harsh
+[1:55] gly
+[1:55] lused to bev
+[1:55] arsh
+[1:55 - 1:56] rovee
+[1:57] >> श्र
+[1:57] N goingto)
+[1:57 - 1:59] Sobecause| know that
+[1:57 - 1:59] there is no produ
+[1:57 - 2:00] Conversation which I'm
+[1:58] Man
+[1:58] So, becaleeaintew
+[1:58] that
+[1:59] wip
+[2:00] हें
+[2:00] Sobecau
+[2:00] there is
+[2:00] re at
+[2:00] no pl
+[2:00] goingto:
+[2:01] have if cen
+[2:01] like | spoke i
+[2:01] Pot
+[2:02] ct te
+[2:03] Andthave si
+[2:03] the
+[2:03 - 2:06] that |
+[2:03 - 2:07] change andit start
+[2:03 - 2:07] with just Shashant tcc
+[2:04] And | have'Séeifithe
+[2:05] hone a the
+[2:05] with just Sha‘
+[2:05] int ja
+[2:06] oly
+[2:06] And I have’
+[2:07] And! havélsgh the
+[2:07] it (कक
+[2:07] 2,003
+[2:08] Gee
+[2:08] eine
+[2:09] vty
+[2:09] And I have’
+[2:09] chang!
+[2:09] tee
+[2:10] very
+[2:10] a al
+[2:10 - 2:11] don't make him fee!
+[2:10 - 2:14] things in Such
+[2:11] nvey
+[2:11] VCH
+[2:11 - 2:13] was tryil
+[2:12] vee
+[2:12] things in such wa!
+[2:12] was trying अर
+[2:12] र् make him feel
+[2:13] vtyty
+[2:13] Fe eivey
+[2:13] . पैक
+[2:13 - 2:14] don't make him, 1 a like!
+[2:14] ५ 22
+[2:14] Pep
+[2:14] ‘col
+[2:15] 3-२०
+[2:15] pay.
+[2:15] rying to attack hi
+[2:16] And it लक न्ल Fad
+[2:16] sy my lesson as well
+[2:16 - 2:20] very well and | hat
+[2:17] <r जि
+[2:17] NN ef न
+[2:17 - 2:18] And it ended UpBeing
+[2:17 - 2:20] learnt my lesson as well
+[2:18] thatJ
+[2:18] wel a
+[2:18] जूक
+[2:19] अं, करे
+[2:19] iy 4
+[2:19] Andit भाव (००
+[2:19] very well आप:
+[2:20] And it ended Upibei
+[2:20] पाग
+[2:21] shouldn't speak hea way
+[2:21 - 2:23] shouldn't speak,
+[2:22] ey speak the
+[2:22 - 2:23] Ispoke before.
+[2:23] + rae.
+[2:23] should,
+[2:24] te का.
+[2:24] uldn't speak the way
+[2:24] Ispoke wo :
+[2:25] oday,
+[2:25 - 2:27] So yeah any thatis it f
+[2:26] 80 yealvany’ EN,
+[2:27] read caption
+[2:27] | flee

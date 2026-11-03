@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[272] https://www.instagram.com/reel/DaNT24MMroz/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] We have
+[0:02] wes
+[0:02] ana
+[0:03] Nell
+[0:03] Fon
+[0:03] ५6५ GE
+[0:03] eareD ECM,
+[0:03] au ८26
+[0:03] 497 ln
+[0:03 - 0:06] beltback intoitheiroutine—
+[0:04] ४७ अं
+[0:04] waa
+[0:05] \ lane,
+[0:05] aur
+[0:05] ८०1]
+[0:05 - 0:07] Seat
+[0:06] — ८2/6
+[0:06] Nee
+[0:07] eltiback intoithe
+[0:07] routine.
+[0:07] ० ०2:
+[0:08] ie Hs है
+[0:09] ekintoithe routine
+[0:09] 8108
+[0:09] iz J —
+[0:09] a ip
+[0:09] जात
+[0:10 - 0:12] Seath
+[0:10 - 0:12] elt
+[0:10 - 0:12] ekintoithe
+[0:10 - 0:12] elroutin
+[0:11] hyo
+[0:11] caareD LES oR
+[0:11] une कु
+[0:11] Sal
+[0:12] : ला ली.
+[0:12] ato
+[0:12] a? ८/2

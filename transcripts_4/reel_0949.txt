@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[949] https://www.instagram.com/reel/DG0ZadsBGQd/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] i swear to god this is one thing which you cannot learn from books this one thing which you cannot
+[0:05 - 0:11] learn well like even if you do like 200 hours of studying on exercise sign this is one thing
+[0:11 - 0:19] which you'll never learn just from textbook itself is that maintaining your form and technique while
+[0:19 - 0:27] you're going through an intense set like a very intense set if you are able to maintain that kind
+[0:27 - 0:35] of you know form and technique that shit just comes from straight experience man i swear i've
+[0:35 - 0:40] coached multiple amounts of people and this is one thing which i've noticed that the beginners will
+[0:40 - 0:47] fail on the technique first but the more advanced you get the more rigid you get with your technique
+[0:47 - 0:48] so yeah
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] cani
+[0:04] des
+[0:05] thi:
+[0:05] can
+[0:09] ran
+[0:12] War h
+[0:22] 19.४
+[0:23] V od
+[0:23] like a very intense
+[0:23] 7 as
+[0:24] a सब
+[0:25] " Woke
+[0:26] Woes
+[0:26] Gato
+[0:26] \ rae
+[0:26] ible to maintain
+[0:26 - 0:27] th; in
+[0:27] rel}
+[0:27] if you're i maintain, ~~
+[0:28] ~ iil
+[0:28] Wipe
+[0:28] you know form
+[0:28] MS om
+[0:31] j a” f
+[0:32] it ८
+[0:38] cal
+[0:38] hes
+[0:38] ४७छउऋार्आी
+[0:38] “a this sone thi
+[0:38] ing wi
+[0:38] iced
+[0:39] मम समन
+[0:39] 2 the beginners)
+[0:40] ms 7
+[0:42] tecl
+[0:44] but thelmore advanced you
+[0:44] get
+[0:45] the more
+[0:47] ) all
+[0:48] igid you get with

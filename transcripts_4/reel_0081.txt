@@ -1,0 +1,60 @@
+# model: ggml-large-v3
+========================================================================
+[81] https://www.instagram.com/reel/Dd81a6BM5x4/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] looki
+[0:00] Nol zy
+[0:00 - 0:01] Things
+[0:01] eae 1
+[0:02] Thingsfare looking crazy,
+[0:02] ome
+[0:03] If *22
+[0:03] i Eine
+[0:03] Loe
+[0:03] ६ 65]
+[0:03] ४43
+[0:03] 222
+[0:03] NES
+[0:03] aus
+[0:03] for ST eee ee
+[0:03 - 0:05] sted
+[0:04] १७०५४
+[0:04] any
+[0:04] Nye
+[0:04] bu es
+[0:04] monreikgs
+[0:04] क्र!
+[0:04] saad
+[0:04] Se aa:
+[0:04] pe a %
+[0:05] Sim
+[0:05] wae
+[0:05] 1824
+[0:05] bee
+[0:05] more
+[0:05] att
+[0:05] ० आटे
+[0:05] ao मददे
+[0:06] Lae,
+[0:06] Neue J
+[0:06] ८268
+[0:06] Loh
+[0:06] Wea
+[0:06] sal
+[0:06] eee
+[0:06] 120
+[0:06] freee
+[0:06] AWTS
+[0:06] igi
+[0:06] ५55
+[0:06] he-kg
+[0:06] dro
+[0:06] ial
+[0:06] eatin

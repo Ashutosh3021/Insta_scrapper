@@ -1,0 +1,59 @@
+# model: ggml-large-v3
+========================================================================
+[908] https://www.instagram.com/reel/DIjh_82B9rh/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: pt
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] bem sou
+[0:01 - 0:04] na festa do fim de semana
+[0:04 - 0:07] Fala
+[0:07 - 0:09] Fala
+[0:09 - 0:12] Fala
+[0:12 - 0:14] Fala
+[0:14 - 0:14] Fala
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] “Science based
+[0:00] thainingys
+[0:00 - 0:02] High volume training
+[0:00 - 0:02] Sets per muscle group / week
+[0:00 - 0:02] (Joint pain 24/7)
+[0:01] CleN
+[0:01 - 0:02] ce based है
+[0:01 - 0:03] “Volume is king}
+[0:02] “Scien
+[0:04] मम training
+[0:04] ys7
+[0:04 - 0:05] '=Actualsciencebased training
+[0:04 - 0:16] “= 1-28et per muscle group / x week |
+[0:05] ott
+[0:05 - 0:15] Low volume + high frequency traiifgyy wom
+[0:06] Kis
+[0:06] Actualisciencerba: ed training)
+[0:06] aed
+[0:06] lets
+[0:07] group [31 Week जता
+[0:07 - 0:10] Actui
+[0:07 - 0:10] sciencgbased training)
+[0:08] Aci
+[0:08] Sen
+[0:09] न््ब्ह
+[0:09] sxx 1-2set per mus
+[0:09] ip [3x week छा
+[0:09] | Mal
+[0:10] rey
+[0:11] — ‘Actual science based training
+[0:11] ley
+[0:12] “Actual science 1
+[0:12] ; big
+[0:13] ‘Actual
+[0:13] fa. T
+[0:13 - 0:15] ence based training.
+[0:14] afr
+[0:14] ing
+[0:14 - 0:16] \ Actualscience based training
+[0:15] _ Aetu
+[0:15] .'G Pepetpen muscle group | Sx wed
+[0:16] mL pe igre ogg |

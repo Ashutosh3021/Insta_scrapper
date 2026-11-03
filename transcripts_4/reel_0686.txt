@@ -1,0 +1,150 @@
+# model: ggml-large-v3
+========================================================================
+[686] https://www.instagram.com/reel/DQoaE4aDIoD/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Now every single day I just wanna hear you say
+[0:04 - 0:06] I'm so lucky, lucky
+[0:06 - 0:08] I'm so lucky, lucky
+[0:08 - 0:11] I'm so lovely, lovely
+[0:11 - 0:12] I'm so lovely, lovely
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fre
+[0:00] UPRRER
+[0:00] best 7
+[0:00 - 0:03] | exercise ड़
+[0:01] Matt
+[0:01] rik
+[0:01] G, ५९
+[0:01] “SMGIEQUND
+[0:01] he best
+[0:01] है] है बह है
+[0:01] फनी
+[0:01 - 0:03] UPPER EAT
+[0:02] a BaP!
+[0:02] aL LS m
+[0:02] FOUND th
+[0:02] @ Vie
+[0:02] ‘UPPERILAT
+[0:02] 902 ४
+[0:02] TI Al *
+[0:03] है कप
+[0:03] |FOUND the best
+[0:03] हुक २
+[0:03] 4 Ae
+[0:04] NUS
+[0:04] INS
+[0:04] by.hois
+[0:04] jie
+[0:04] EY gi
+[0:04] 4५9
+[0:04] Bos
+[0:04] सर्ओ:
+[0:04] yes
+[0:04] ye ae
+[0:04] 9 >> अमन
+[0:04 - 0:11] made,
+[0:05] Alles
+[0:05] Cvs
+[0:05] कलर
+[0:05] aks
+[0:05] a ANG
+[0:05] wey
+[0:05] a hi
+[0:05] OISi
+[0:05] NLS
+[0:05] WES
+[0:05] re Wi.
+[0:05] j ke
+[0:05] nae
+[0:05] > Sie
+[0:05 - 0:06] vas:
+[0:06] fam
+[0:06] amr
+[0:06] hi oy
+[0:06] iil
+[0:06] sill
+[0:06] fal
+[0:06] e Wf dee
+[0:06] the
+[0:06] Les
+[0:06] aes
+[0:06] mat
+[0:06] 11 4
+[0:06] NyjysvS
+[0:06] apie
+[0:07] ३४३.)
+[0:07] 1७७०
+[0:07] tll!
+[0:07] av Ny
+[0:07] tas
+[0:07] fe 3० हल
+[0:07] Bai
+[0:07] cup
+[0:07] 9 ७ ७
+[0:08] a ee
+[0:08] NUS
+[0:08] २०१४
+[0:08] eer
+[0:08] Nar
+[0:08] nals
+[0:08] y Wai ge:
+[0:08] Emi
+[0:08] lied
+[0:08] ap) 5
+[0:08] Win
+[0:08] Beet.
+[0:08] क्र
+[0:09] tA NK
+[0:09] INS
+[0:09] ३ के
+[0:09] Aut
+[0:09] NOS
+[0:09] Lad
+[0:09] Rami?
+[0:09] a? हराम
+[0:10] NY at
+[0:10] ma ot
+[0:10] moist
+[0:10] ५्र
+[0:10] ९ ५७) Whee
+[0:10] Fiat
+[0:10] a Be Lan
+[0:10] cago”
+[0:11] aia
+[0:11] all
+[0:11] ‘bythois
+[0:11] jhul
+[0:11] bh NES
+[0:11] fom
+[0:11] vaN
+[0:11] BY geal
+[0:11] 1५० |
+[0:11] औ है
+[0:11] (002 20)
+[0:11] waa. Zp y”
+[0:11] Re 4
+[0:11] 0 हैं: बलकाऋ--
+[0:11] dors
+[0:11] aaa
+[0:11] i ae
+[0:11 - 0:12] sil A
+[0:11 - 0:12] “aie
+[0:12] Bee 2
+[0:12] anil
+[0:12] Hf i
+[0:12] mac
+[0:12] hols:
+[0:12] by ha
+[0:12] Whitex
+[0:12] Ae 5
+[0:12] aii
+[0:12] BSS
+[0:12] नकद
+[0:12] Bai
+[0:12] nar
+[0:12] > Sete

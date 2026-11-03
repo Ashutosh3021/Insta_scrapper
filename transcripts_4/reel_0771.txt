@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[771] https://www.instagram.com/reel/DN53fSYkyCr/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Unclad
+[0:02 - 0:08] How much it's changed
+[0:08 - 0:10] In you
+[0:10 - 0:14] It's like you never
+[0:14 - 0:18] Had once
+[0:18 - 0:19] Are you
+[0:19 - 0:23] So alive
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 5 | belt
+[0:01] Ran
+[0:01] -> हूँ
+[0:01 - 0:02] all
+[0:01 - 0:15] । : Seat belt ? | |
+[0:02 - 0:03] Ban ©
+[0:04] ied
+[0:05] ry F
+[0:08] pau
+[0:08] ह हि
+[0:09] ७ wike
+[0:11 - 0:12] fia,
+[0:12] a oS E
+[0:13] fia, Va
+[0:14] fiz
+[0:15] a Se.
+[0:17] fre
+[0:17] ths J)
+[0:17] bel
+[0:17] # ४ हे.
+[0:17] a be
+[0:19] Pid.
+[0:19] Wier 1
+[0:19] 7 See
+[0:19] qj 6
+[0:19 - 0:25] Seat belt ~~?
+[0:21] hae
+[0:22] I eD
+[0:22] oh ty
+[0:24] see
+[0:25] in हैं

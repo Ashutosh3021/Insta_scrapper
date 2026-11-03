@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[902] https://www.instagram.com/reel/DIwURPvhetP/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] भाई मुझे सबझ नहीं आता why does every 16, 17, 18 year old wants to take MK677
+[0:04 - 0:08] bro doesn't want to bulk but wants to take MK677
+[0:08 - 0:10] you know what MK677 does
+[0:10 - 0:12] MK677 makes you feel hungry
+[0:12 - 0:15] practically it's useless for a natural guy
+[0:15 - 0:17] पकड़ो लेके उसको कच्चे डबे में फेक दो
+[0:17 - 0:20] because it's not going to do anything for you
+[0:20 - 0:21] so yeah hope that helps, fall for more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:21] Can i take mk677 and plus i
+[0:00 - 0:21] dont wanna bulk i want lean
+[0:00 - 0:21] musclemassalsomyfailureis4rep
+[0:01 - 0:02] Nut
+[0:01 - 0:02] n/Training/Any
+[0:07] ing
+[0:07 - 0:08] n/Training/Anytt
+[0:08] Nut
+[0:11] Nut
+[0:11] n/Training/Anyt
+[0:14 - 0:15] Nut
+[0:14 - 0:15] n/Training/Anyt
+[0:18] Nut
+[0:18 - 0:20] n/Training/Anytt
+[0:20] Nui
+[0:20] ing
+[0:21] Nutrition/Training/Anything

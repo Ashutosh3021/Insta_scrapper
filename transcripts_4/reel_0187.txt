@@ -1,0 +1,84 @@
+# model: ggml-large-v3
+========================================================================
+[187] https://www.instagram.com/reel/Db_LUPqs8pc/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] The key driver for hypertrophy is mechanical tension.
+[0:02 - 0:05] But that doesn't mean that that stimulus cannot be hampered.
+[0:05 - 0:08] That stimulus can indeed be hampered.
+[0:08 - 0:11] One of the things which can hamper that stimulus is something called oxidative stress.
+[0:11 - 0:15] Now, oxidative stress is known to increase your muscle protein breakdown rates.
+[0:15 - 0:19] Oxidative stress can legit reduce your muscle protein synthesis rate.
+[0:19 - 0:23] One of the things which can really increase oxidative stress is a glucocorticoid response.
+[0:23 - 0:25] And you know what causes a high glucocorticoid response?
+[0:25 - 0:27] Having high stress levels.
+[0:27 - 0:30] Having high stress levels is legit going to reduce muscle growth.
+[0:30 - 0:33] Now, there are ways to go ahead and reduce this amount of oxidative stress.
+[0:33 - 0:37] Now, one of the ways is just to have less stress levels which means you're just gonna have
+[0:37 - 0:40] low glucocorticoid response, hence less oxidative stress.
+[0:40 - 0:41] Anyways, that is it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] the key driver for
+[0:00 - 0:28] of the things which can
+[0:00 - 0:40] Interfere with muscle growth
+[0:01] chican
+[0:01] Things whi
+[0:01] cuer
+[0:01] पथ थक
+[0:01] hypertrophy
+[0:02] tension
+[0:02] ail
+[0:02 - 0:03] mechanical
+[0:03] tension but that doesn't
+[0:04] that that stimulus
+[0:07] indeed be
+[0:07] iff
+[0:08] off
+[0:10] hamper that stimulus is
+[0:11] vin
+[0:11 - 0:12] oxidative
+[0:12] oxidative stress now
+[0:13 - 0:14] known to
+[0:14] increase your
+[0:15 - 0:16] protein breakdown rates
+[0:16] chican
+[0:16] Things whi
+[0:16] oxidative
+[0:17] legit
+[0:19] ‘eure’
+[0:19] protein synthesis
+[0:19] “afl
+[0:21] oxidative
+[0:22] glucocorticoid
+[0:23 - 0:25] response and
+[0:24] causes 3
+[0:24] श्री!
+[0:25] causes a high glucotic
+[0:25] ol fl |
+[0:26] Having high
+[0:27] now
+[0:27] र्भ्रीी nll
+[0:28] levels
+[0:28 - 0:29] now having high stress
+[0:29] chican
+[0:29] levels is legit going
+[0:29 - 0:30] Things whi
+[0:30] Lh can
+[0:30] reduce muscle
+[0:31 - 0:32] Now there are ways to go
+[0:31 - 0:40] Things whichican
+[0:32] ahead and reduce
+[0:33] amount of oxidative
+[0:34] Now
+[0:36] Things न can
+[0:36] to have less stress
+[0:36] levels
+[0:37] going to have
+[0:38] glucotic
+[0:39 - 0:40] glucotic response hence
+[0:39 - 0:41] eS |S
+[0:40] less oxidative stress

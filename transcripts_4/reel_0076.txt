@@ -1,0 +1,54 @@
+# model: ggml-large-v3
+========================================================================
+[76] https://www.instagram.com/reel/Dd_sWhkPOon/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] If you are going to be following push-pull legs, you are 100% going to have weak arms.
+[0:05 - 0:09] It's something I would say if I didn't know what exercise programming is all about.
+[0:09 - 0:18] If you are going to be running push-pull legs, the best way to fix the split, to make it arm dominant, is just to train the arms first.
+[0:18 - 0:22] Whoa! Whoa! Complicated stuff, doesn't it?
+[0:22 - 0:23] Just train the arms first.
+[0:23 - 0:25] Ever thought about that?
+[0:29 - 0:30] Ho ho!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] प्र
+[0:00] ee मई
+[0:00 - 0:02] d weak arms
+[0:01] tushipt
+[0:01] Neg
+[0:01] J ce
+[0:01] ill
+[0:01] ee! ५. के
+[0:03] eT न
+[0:03 - 0:11] "And weak arms”
+[0:04] श्ु
+[0:04 - 0:13] Bush pulllle legs
+[0:05] ush
+[0:05] 8688
+[0:07] 98. 0
+[0:07] phe
+[0:09] pullilegs
+[0:09] dion”
+[0:12] pullilegs
+[0:12] And एटा arms
+[0:13] 79010 weak arms)
+[0:13] (Rae
+[0:14 - 0:25] p/And weak arms”
+[0:15] pull
+[0:15] OFS
+[0:15] y rh val t
+[0:15] make it arm >
+[0:15] me Ws ;
+[0:17 - 0:21] Push pull legs
+[0:19] lng
+[0:22] plleg
+[0:24] legs
+[0:24] dpi
+[0:25] pullilegs
+[0:27] WEeakiahms
+[0:28 - 0:29] Push pull legs
+[0:28 - 0:29] naiweak arms

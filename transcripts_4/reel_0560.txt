@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[560] https://www.instagram.com/reel/DUGX7ZhDE9M/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Let's go
+[0:01 - 0:10] Good one, good one
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ee gig
+[0:00] pew
+[0:00] 10५ 17
+[0:00] ORIR|
+[0:00] Soe de a
+[0:01] LEE
+[0:01] 3 Re
+[0:01] ina
+[0:02] — TERED 9
+[0:03] =e Oo
+[0:03] are
+[0:04] water 4
+[0:04 - 0:08] —_ORIR|1 Rep
+[0:05] (2. ss
+[0:06] = 1010
+[0:06] ait
+[0:07] Wiggs
+[0:08] VI /Z
+[0:09] 77 «११%
+[0:09] = Sie @
+[0:10] Candio
+[0:12 - 0:13] Cardio
+[0:13] act

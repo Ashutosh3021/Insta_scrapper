@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[490] https://www.instagram.com/reel/DVijuWGjHYp/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Just letting you know, you are overeating protein and under eating carbs.
+[0:03 - 0:06] Yes, protein is overrated.
+[0:06 - 0:09] A lot of you guys are taking too much protein than you need.
+[0:09 - 0:15] The whole internet has scammed you into thinking, oh, I need 2.2 per grams per kg body weight protein.
+[0:15 - 0:17] No, the fuck, you don't.
+[0:17 - 0:24] 1.7 to 1.8 grams per kg body weight protein is what you need.
+[0:24 - 0:26] And then rest of them should be filled with carbs.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Brote
+[0:00] isjoyegnated
+[0:00] ‘ovenatelimthe)
+[0:00] Just letting
+[0:00 - 0:03] itnessicommunity)
+[0:01] € ‘ove
+[0:01] (fire)
+[0:01] ited
+[0:01 - 0:03] fandloverate in the)
+[0:02] 10018॥119006108180
+[0:02] andjoverate 11116
+[0:02] है 001॥1॥॥|80
+[0:02] are over eat!
+[0:02] and
+[0:03] Ss carbs
+[0:04] e protein
+[0:05] N cnt
+[0:08] € much protein ti
+[0:10] wy has
+[0:10] internet, the whi
+[0:15] हें
+[0:18] join’
+[0:19] क्ष
+[0:20 - 0:22] है. toone point
+[0:21] grams per
+[0:22] rams per KG body weigh
+[0:25 - 0:26] and then rest of th
+[0:26] should be filled 3

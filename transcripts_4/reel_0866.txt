@@ -1,0 +1,156 @@
+# model: ggml-large-v3
+========================================================================
+[866] https://www.instagram.com/reel/DKKLP_7MAeE/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] ब्रो तू दूसरों पे वीडियोस बनाता है बट तेरी फिजीक है का?
+[0:02 - 0:05] अभी ऐसे कमेंट मुझे सिर्फ एकी टाइप के लोगों से आते हैं
+[0:05 - 0:07] बट इस whole argument does not even make sense
+[0:07 - 0:10] तुमारी फिजीक has nothing to do with how much you know
+[0:10 - 0:13] You can be really big and know nothing about fitness
+[0:13 - 0:14] And you can be really small
+[0:14 - 0:19] But at the same time तू muscle physiology को एक textbook की तरह break down कर सकते हो
+[0:19 - 0:21] तुमें एक चीज के बारे में understand करना पड़ेगा कि
+[0:21 - 0:25] Just because someone is big, it doesn't mean that they know better
+[0:25 - 0:28] And just because someone is small, उसका मतलब ये नहीं कि इसको कुछ नहीं पता है
+[0:28 - 0:32] अभी मैं ये नहीं बोल रहा हूँ कि तुम बिना lifting experience के एक coach बनना चालू कर दो
+[0:32 - 0:35] मैं ये बोल रहा हूँ कि you can have something to call your own
+[0:35 - 0:38] to say that कि तुमने भी time और dedication दाला है
+[0:38 - 0:43] but at the same time तुमें एक Olympian level या फिर एक elite genetic physique की जरूत नहीं है
+[0:43 - 0:46] and if you think कि someone's physique correlates with their knowledge
+[0:46 - 0:49] you can go hire this guy and let me know how that goes
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हक 0५ mnivansi bow @
+[0:00] auhi
+[0:00] wae
+[0:00] bro to
+[0:01] Repl
+[0:01] g to prin
+[0:01 - 0:04] kyu nhi banri body @
+[0:02] enh”
+[0:02 - 0:04] Replying to prir
+[0:02 - 0:05] pauhar
+[0:03] she
+[0:03 - 0:04] wie Can't be a second coming
+[0:04] almewbies)
+[0:04] to just a key type of 109० ऐ
+[0:05] Cm 4
+[0:05] ee 5
+[0:05] GP 0५ mnivanti boa @
+[0:05] ing
+[0:05] Sri
+[0:05] 200 this
+[0:06] हे तर,
+[0:06] ४५१
+[0:06] ray
+[0:07] whole }
+[0:07] ven make sense
+[0:08] ) nadie
+[0:09] Lay
+[0:11] 2497
+[0:11 - 0:12] really big and
+[0:12] कक J
+[0:12] boy
+[0:14] है हे
+[0:14] नही
+[0:14] Aeant
+[0:14] ‘can be really
+[0:15] Se, A.
+[0:15] श्र
+[0:17] pels
+[0:18] fess
+[0:18] Mes, 11३०९ ५,
+[0:18] uscle physiology Ke a
+[0:18] book ki Tara break
+[0:19] ray -.
+[0:20] Se é
+[0:20] Tha ४.
+[0:20] Aug ow
+[0:20] Pee
+[0:20] « ee Ps
+[0:20] ek Ghee
+[0:20] ire
+[0:21] Pio ही
+[0:21] 4 ee
+[0:21] 2 ad
+[0:21] bak
+[0:21] Fae लय
+[0:22] Boi ue
+[0:22] ९५५
+[0:23] yee
+[0:24] NRE
+[0:24] Shy
+[0:25] idl
+[0:25] Cor
+[0:26] क्र
+[0:26] bay)
+[0:26] ause Som
+[0:26] von
+[0:26] mall
+[0:27] Flats
+[0:28] eae
+[0:28] हैंड
+[0:28] । erie
+[0:28] 5 40
+[0:28] as Fe
+[0:28] lab yeh nahi ki
+[0:28] ‘yer
+[0:30] Nhatiisithis/oruh)
+[0:30] nie
+[0:30] yeh
+[0:30] ina lifting
+[0:31] Mhatlis|this/bruh}
+[0:31] Ke coach
+[0:32] Ithis}bcuh)
+[0:32] h bi
+[0:32] halu kardo
+[0:33] iy Sa BI 5s
+[0:34] 220 ||
+[0:34] BE) <p 40 % you can
+[0:34] have something
+[0:35] ye call your own
+[0:37] fi 113 we
+[0:38] tau
+[0:39] oy ial
+[0:39] Mey
+[0:39] ye 4
+[0:39] sam
+[0:40] fe x4
+[0:40] sett:
+[0:40] the same time A
+[0:41] ३५४
+[0:41] Seg
+[0:41] ray
+[0:41] ime time 4
+[0:41] pian level ya.
+[0:42] kL 2
+[0:42] ra, por.
+[0:42] hos
+[0:45] wet. 4
+[0:45] 74 है
+[0:45] hah
+[0:45] toe
+[0:45] hink ki so!
+[0:46] oe a
+[0:46] wk के
+[0:46] हक Se
+[0:46] eas
+[0:46] Pelle
+[0:46] “correlates with theirs
+[0:47] oar,
+[0:47] we hate tows
+[0:47] creek
+[0:47] sin!
+[0:47] {But their ae
+[0:47] eel “ay
+[0:47] you can
+[0:48] all
+[0:48] BL thei ७
+[0:49] ee be
+[0:49] Gas
+[0:49] go hire this guy and
+[0:49] a how that »०_

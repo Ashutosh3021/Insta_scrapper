@@ -1,0 +1,249 @@
+# model: ggml-large-v3
+========================================================================
+[903] https://www.instagram.com/reel/DIv0ZYJhcIp/
+STATUS: OK
+DURATION: 3:40   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Just because you're feeling the stress during an exercise
+[0:02 - 0:05] उसका मतलब ये नहीं कि तुम ज़्यादा muscle growth cause कर रहे हो
+[0:05 - 0:07] अभी बहुत सारे लोग बात कर रहे हैं
+[0:07 - 0:08] Training a muscle at a longer time
+[0:08 - 0:12] But no one tells you that not all muscle can grow from stretch training
+[0:12 - 0:14] और अगर तुम एक advanced lifter हो
+[0:14 - 0:16] It might not even benefit you at all
+[0:16 - 0:18] So guys ये हमारा तीसरा episode होगा
+[0:18 - 0:19] Exercise Programming Series का
+[0:19 - 0:21] और आज हम बात करेंगे
+[0:21 - 0:23] Stretch Mediated Hypertrophy के बारे में
+[0:23 - 0:25] अभी in order for us to fully understand
+[0:25 - 0:26] Stretch Mediated Hypertrophy
+[0:26 - 0:29] हमें दो specific चीज़े understand करनी पड़ीगी
+[0:29 - 0:31] पहला Length-Tension Relationship
+[0:31 - 0:32] दूसरा Stretch Mediated Hypertrophy
+[0:32 - 0:35] अभी हमारा force of contraction is very much
+[0:35 - 0:37] related to this Length-Tension Relationship
+[0:37 - 0:40] और हर muscle का different Length-Tension Relationship होता है
+[0:40 - 0:42] जब मैं Length की बात कर रहा हूँ
+[0:42 - 0:44] मैं बात कर रहा हूँ Length of the Sarcomere
+[0:44 - 0:46] अभी एक Sarcomere is just going from
+[0:46 - 0:47] one Z-Disk to another Z-Disk
+[0:47 - 0:50] अभी I'm gonna present you 5 different examples
+[0:50 - 0:52] so that you can understand that Length-Tension Relationship
+[0:52 - 0:53] more clearly
+[0:53 - 0:55] अभी यहाँ पे हम देख सकते की इतनी साधी
+[0:55 - 0:57] crowding हो रखी है कि you can see that
+[0:57 - 0:59] Titan is not allowing any space
+[0:59 - 1:00] or actually there is no space
+[1:00 - 1:03] our Z-Disk are right up against our Myosin
+[1:03 - 1:05] which means that there is no space
+[1:05 - 1:07] for our Myosin to pull the Z-Disk
+[1:07 - 1:08] any closer
+[1:08 - 1:10] अगर तुमने उन्हें ATP provide किया
+[1:10 - 1:12] they will say that भाई इसके आगे काम हो ही नहीं सकता है
+[1:12 - 1:14] अब यहाँ पे हम देख सकते की
+[1:14 - 1:17] there is a little bit of space between Z-Disk and Myosin
+[1:17 - 1:19] which means there is some space for them to move
+[1:19 - 1:21] वो tension produce कर पाएंगे
+[1:21 - 1:23] बट इतना नहीं कि maximal force produce होगा
+[1:23 - 1:25] because we still have some overlapping
+[1:25 - 1:26] as we can see over here
+[1:26 - 1:28] अब यहाँ पे हम clearly देख सकते की
+[1:28 - 1:30] we have a lot of space to work here
+[1:30 - 1:34] यहाँ पे हमारा force production is going to be maximal
+[1:40 - 1:41] longer and longer
+[1:41 - 1:44] पर यहाँ पे हमारा force of contraction is going to be the same
+[1:44 - 1:44] why?
+[1:44 - 1:46] अभी अगर हम last few examples देखेंगे
+[1:46 - 1:48] in example number 1
+[1:48 - 1:51] अगर हमने 0-20 Myosin heads use के थे
+[1:51 - 1:54] example number 2 पे we used 15 out of 20
+[1:54 - 1:57] example number 3 पे we used 20 out of 20
+[1:57 - 1:59] in example number 4
+[1:59 - 2:00] as we have maxed out
+[2:00 - 2:04] we are still going to be recruiting those 20 out of 20 heads
+[2:04 - 2:08] and this area is called the plateau phase in the land tension relationship
+[2:08 - 2:09] मतलब जैसे हमने
+[2:09 - 2:10] मतलब जैसे हमने
+[2:10 - 2:11] आस 3 examples में देखे थे कि
+[2:11 - 2:13] force production was gradually increasing
+[2:13 - 2:16] यह phase में force production is not going to increase
+[2:16 - 2:18] because we have maxed out everything
+[2:18 - 2:20] अब यहाँ पे हम देख सकते हैं कि
+[2:20 - 2:22] Titan is completely stretched out
+[2:22 - 2:25] अब यहाँ पे हम force generate करी नहीं पाएंगे
+[2:25 - 2:26] and the answer is going to be
+[2:26 - 2:28] because यहाँ पे हम देख सकते हैं कि
+[2:28 - 2:29] Myosin head touch भी नहीं कर पा रहे हैं
+[2:29 - 2:32] मतलब the amount of force which you are going to be able to produce
+[2:32 - 2:33] is going to be 0
+[2:33 - 2:35] this line refers to the descending limb
+[2:35 - 2:37] अब यह Titan एक ऐसी चीज़ है जो
+[2:37 - 2:39] passive mechanical tension direct करती है
+[2:39 - 2:41] जब भी यह Titan को खीचा जाता है
+[2:41 - 2:44] it produces passive mechanical tension
+[2:44 - 2:46] और यह passive mechanical tension के बज़े से
+[2:46 - 2:48] sarcomyogenesis create होता है
+[2:48 - 2:51] this is also called stretch mediated hypertrophy
+[2:51 - 2:52] अब जैसे मैंने कहा था कि
+[2:52 - 2:54] हर muscle का different length tension relationship होता है
+[2:54 - 2:56] which means the only muscles
+[2:56 - 2:59] which are able to reach this descending limb
+[2:59 - 3:01] will benefit from stretch mediated hypertrophy
+[3:01 - 3:04] अगर हम bicep का example लेंगे यहाँ पे
+[3:04 - 3:06] bicep का length tension relationship
+[3:06 - 3:08] extends very far on to the descending limb
+[3:08 - 3:10] of the length tension relationship
+[3:10 - 3:12] मतलब वो उतना passive mechanical tension
+[3:12 - 3:15] experience नहीं कर पाते है at maximum muscle length
+[3:15 - 3:17] which means the bicep probably does not
+[3:17 - 3:19] experience stretch mediated hypertrophy
+[3:19 - 3:21] अभी how do we apply this to programming
+[3:21 - 3:23] this means that training every muscle
+[3:23 - 3:24] muscles for length and position
+[3:24 - 3:26] may not be a smartest option
+[3:26 - 3:27] क्योंकि कुछ-कुछ muscle groups
+[3:27 - 3:29] don't even reach the descending limb
+[3:29 - 3:31] and it will just create unnecessary
+[3:31 - 3:32] amount of damage and extra fatigue
+[3:32 - 3:35] we will only experience stretch mediated hypertrophy
+[3:35 - 3:38] if a muscle group crosses that descending limb mark
+[3:38 - 3:39] so yeah I hope that helps
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Stietch, 5
+[0:00] tae
+[0:00] uring an exercise
+[0:05] acy
+[0:05] usi
+[0:05] 471७
+[0:05] a he
+[0:05] Pi 5
+[0:10] े all muscles
+[0:10] ill benefit from
+[0:10] Dies
+[0:10] that net all muscle can grow
+[0:10] from stress
+[0:15] Programming
+[0:15] mSCiles |
+[0:15] pisode 3
+[0:15] ty, iy
+[0:15] क्र
+[0:15] so guys Yeh hum:
+[0:20] 31500:
+[0:25] ree
+[0:25] ॥86151810
+[0:25] 1ा॥२५६ SMH
+[0:25] 2: 5S.
+[0:30] Stretch
+[0:30] a [९002
+[0:30] Jig Hypertrop
+[0:30] नीता
+[0:35] Every muscle |
+[0:35] हार
+[0:35] े ei
+[0:35] ton
+[0:35] uch:
+[0:35] प्र yy
+[0:55] papel na |]
+[0:55] aad
+[0:55] कर Care
+[0:55] erétean, seeithat Titan
+[1:05] SSF
+[1:05] Examplepli
+[1:05] ramen
+[1:05] ela
+[1:05] Bhai jagh
+[1:05] Nhihai
+[1:05] ote
+[1:10] PWAkeamsnas
+[1:10] aKaha.Jau?
+[1:10] क्र
+[1:15] Ms af
+[1:15] mpl
+[1:15] aaa “a
+[1:15] HENS
+[1:15] Space to Diese
+[1:20] Ms mple
+[1:20] gif कलम मम
+[1:20] Tension.wilbe produced)
+[1:20] But no maximal
+[1:25] Ex. 5
+[1:25] as we can see “a
+[1:30] Example —— S
+[1:30] Wau
+[1:30] कर Nat Bohot jagha hai 9८
+[1:30] Max force production ¥
+[1:30] Because space and no oVerla
+[1:30] hamara force pt
+[1:35] Exam
+[1:40] ae mpl
+[1:40] Same force of contraction
+[1:40] जनक
+[1:45] _ last few examples -
+[1:45] dekhenge in example
+[1:50] pace)
+[1:55] past
+[1:55] Jag
+[1:55] Example 2 |
+[1:55] 15/20 (little bit ove
+[1:55] 20/20 (no overlap, good space)
+[2:00] 20/20 k aage
+[2:00] kaise jayenge?
+[2:00] ‘are still going to be
+[2:00] recruiting
+[2:05] ७०७लनग-5-
+[2:10] न का
+[2:10] _ i PR force a
+[2:10] ‘production was
+[2:15] “fen
+[2:15] i wa
+[2:15] he te
+[2:20] Bein
+[2:20] ple: >> रि
+[2:20] 32 1 नर
+[2:25] Example 5 ~
+[2:25] LANNY
+[2:25] a ¥ production!
+[2:25] Weg
+[2:25] joing t
+[2:25] be because
+[2:30] बी mple 5
+[2:30] awa
+[2:30] rah
+[2:30] produce—"
+[2:30] 0 Be able १
+[2:35] ee ‘Sarcomere ———>|
+[2:35] detects
+[2:35] Pasaivétare és
+[2:35] alitensi
+[2:35 - 2:45] Thick filament
+[2:35 - 2:45] Titin
+[2:40] ==Whenever it's elon
+[2:40] gate
+[2:40] Passsive mechanical)
+[2:40] Fass
+[2:40] ited) it yeas
+[2:40] tensi
+[2:50] j imuscle
+[2:50] it वा
+[2:55] Non
+[3:00] TExamplejofibige ‘uid
+[3:05] T Example ofibicepsm
+[3:05] जब आ अर कक आ
+[3:05] very far
+[3:10] ७ ad j
+[3:10] न ये
+[3:10] z= Ve Bi
+[3:10] utna passive mechanical
+[3:10] (tension
+[3:15] Theis ijt doing mutch “2
+[3:15] (Someone send this to Mike)
+[3:15] which means the bicep
+[3:15] probably does not
+[3:20] 1000 theory hogya
+[3:20] uae ‘ = my
+[3:30] Pirg
+[3:30] pet en
+[3:30] damagi

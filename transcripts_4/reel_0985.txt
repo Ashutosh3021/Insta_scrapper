@@ -1,0 +1,98 @@
+# model: ggml-large-v3
+========================================================================
+[985] https://www.instagram.com/reel/DA0W8ywt29Y/
+STATUS: OK
+DURATION: 1:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] If I get 3 reps, if these 3 reps feel easy then we will move up to 90. Let's see.
+[0:07 - 0:25] I will have to move up by 90 man. That was easy.
+[0:30 - 0:33] I will have to move up by 90 man. That was easy.
+[0:33 - 0:37] Oh my god.
+[0:37 - 0:39] Oh hell no man.
+[0:39 - 0:41] Fuck man.
+[1:00 - 1:02] Oh shit, he dropped it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a CC
+[0:00] POST PREP
+[0:00] STILOST MY AURA),
+[0:00] ial
+[0:00] Fie
+[0:01] POST, जलाकर
+[0:01] ie be
+[0:01] ~ IF LGET
+[0:01] SREPS™
+[0:03] hae)
+[0:03] wee
+[0:03] IF SEES neon
+[0:04] 9०० !
+[0:04] oan
+[0:04] = WE,WILL MOVEUP”,
+[0:05] 1०१. ०]
+[0:06] Nad
+[0:07] LET"
+[0:07] of Tn
+[0:08] a ee
+[0:09] ot ae
+[0:10] ish
+[0:10] tng ma
+[0:11] <r es
+[0:12] [Dog
+[0:15] Psi ० ¢
+[0:16] ene
+[0:17] 01 tee
+[0:18] 15०.
+[0:18] aos
+[0:18] बिक उ
+[0:19] WF re
+[0:19] See es
+[0:21] SSS
+[0:22] PS an
+[0:22 - 0:23] MOVE UP TO 90:MAN;
+[0:23] Shy
+[0:24] 5 - 92
+[0:24 - 0:25] | JUST DID 8O.AND,,..
+[0:24 - 0:25] THAT,WAS, EASY,
+[0:25] ry te’
+[0:27] ee सका,
+[0:27] LI We 4
+[0:28] —_i ta
+[0:31] ms उ.
+[0:33] cr Ke 2.
+[0:34] aes \
+[0:36] Vas
+[0:37] १ | ३७ +०
+[0:37] oF ५
+[0:38] avi
+[0:40] a ee
+[0:40] thy |
+[0:41] att, कं
+[0:42] PAs
+[0:43] P Ath
+[0:43] 2 ve
+[0:44] y al १४६
+[0:45 - 0:46] क्री
+[0:46] किन
+[0:46] ANG
+[0:47] WAURA
+[0:47] oc" ia ©
+[0:47] न्‍्ण
+[0:50] ag ६.
+[0:51] Rag ए हे
+[0:52] = hy हि
+[0:55] tae
+[0:55] Saal
+[0:56] Yer art
+[0:56] baa
+[0:56] eee
+[0:57] Sy Ay .F
+[1:00] =F ‘iy
+[1:01] al RR aw
+[1:04] Ef he
+[1:04] ee पक
+[1:05] eee -72 3०
+[1:06] gee
+[1:06 - 1:08] mee >>
+[1:08] vif

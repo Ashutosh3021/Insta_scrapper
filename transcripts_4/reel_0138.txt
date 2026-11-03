@@ -1,0 +1,80 @@
+# model: ggml-large-v3
+========================================================================
+[138] https://www.instagram.com/reel/Dc8pmkcswfi/
+STATUS: OK
+DURATION: 0:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] in a bodybuilding show usually when the judges give a placing i'm usually okay with it and i can
+[0:05 - 0:12] kind of like find a reasoning for why this happened but this time i'm just confused like
+[0:12 - 0:21] look at this and then look at this guess which guy won you might think it's this guy
+[0:22 - 0:31] well no it's actually the guy on the left pose after pose after pose after pose i can't think
+[0:31 - 0:35] man and honestly i don't know i would really like to know your guys's opinion on this
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] WNBE/Ro
+[0:00] bery.
+[0:00] भतुँ i
+[0:00] २७७७०
+[0:00] at J
+[0:00] ial
+[0:01] a से
+[0:01] ath
+[0:01 - 0:05] WNBF Robbery?
+[0:02] Heal
+[0:02] 7 ah
+[0:02] (emg ८
+[0:02] Foi
+[0:03] So'4
+[0:03] fine
+[0:03] Bayi wi! (
+[0:03] कर 2
+[0:03] fad,
+[0:04] the
+[0:04] शक ७
+[0:04] mS ah
+[0:04] Ls 43
+[0:05] i का
+[0:05] ‘ eng
+[0:05] aii
+[0:05] att
+[0:05] ऊँ i
+[0:06] "a Robbery
+[0:06] wig —
+[0:07] WNBF
+[0:07] wi 4
+[0:07] Se 6
+[0:08] win
+[0:08 - 0:12] WNBF Robbery.
+[0:09] VAd
+[0:09] C - anh th के
+[0:09] हैं:
+[0:10] कप ge
+[0:10] श्र
+[0:10] ore
+[0:10] HOW
+[0:11] Robbery?
+[0:11] ae \ ¢ Rohe ५.
+[0:11] hry
+[0:12] gle
+[0:13] ses
+[0:14] FF fe
+[0:20] छः fe
+[0:21] 5. fe
+[0:21] ३७क
+[0:23] | Sie
+[0:24] 39 fe
+[0:25] LAH,
+[0:27] x a i
+[0:28] a है. आ
+[0:29] ५ आय
+[0:29] <i ly,
+[0:29] कि न
+[0:29] ——— मिला अ
+[0:30] ae है है. 27%
+[0:31] केक.
+[0:33] eady
+[0:34] Si है
+[0:34] hig
+[0:35] Cs 4

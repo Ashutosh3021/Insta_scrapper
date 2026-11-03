@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[748] https://www.instagram.com/reel/DO0ugw4E909/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:26] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a थे
+[0:00] Tappe
+[0:00] din
+[0:01 - 0:03] Tappediiny —
+[0:02] है 1
+[0:05] ‘ity
+[0:06 - 0:09] Tappediin
+[0:10 - 0:12] lappediin
+[0:11] oF ail
+[0:13 - 0:18] Tappediin)
+[0:16] MAS
+[0:19] Aan 3]
+[0:19] lappediini
+[0:21] i ie
+[0:21 - 0:25] Tappediin
+[0:22] ee in
+[0:24] apped in)
+[0:25] Tap;
+[0:25] ped » 4

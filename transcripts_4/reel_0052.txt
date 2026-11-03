@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[52] https://www.instagram.com/reel/DeXJTrcsaIG/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] | had to take a cheat meal
+[0:00 - 0:03] after 3 days on 2100 kcal ,
+[0:00 - 0:03] how you guys do it man
+[0:00 - 0:03] Replying to dreamsolo.exe
+[0:02] ies
+[0:02] Replying to =
+[0:03] 29229
+[0:03] don
+[0:03] You
+[0:03] Went
+[0:04] TMS
+[0:04 - 0:06] 5 Bad enough

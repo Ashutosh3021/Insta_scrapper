@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[992] https://www.instagram.com/reel/C-w5T6ihp5o/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Then it's, go put two more lines and I'll finish
+[0:04 - 0:09] I say, better late than never, better late than never
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] y of
+[0:02] fa veinsjinimy) ७
+[0:02] should
+[0:03] ७:2४

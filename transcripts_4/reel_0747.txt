@@ -1,0 +1,147 @@
+# model: ggml-large-v3
+========================================================================
+[747] https://www.instagram.com/reel/DO35QVsDHsc/
+STATUS: OK
+DURATION: 1:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Now that Ishan Thakur has been banned from ICN, a natural bodybuilding show, he has decided to compete in WNBF, also a natural bodybuilding show.
+[0:08 - 0:14] Now Ishan, if you do not want to get caught by the WNBF testing team, this is one specific compound I would use.
+[0:14 - 0:19] It's called LY3437943 or also known as Reta-Dutide.
+[0:19 - 0:24] Now Reta comes under the category of a GLP-1 drug, which means it is going to be suppressing your appetite.
+[0:24 - 0:32] Which means that it is a type of compound which is going to be suppressing your appetite, making you feel fuller for a longer period of time, and making you feel less hungry.
+[0:32 - 0:36] Which means that being in a deficit is no longer going to be a problem for you.
+[0:36 - 0:38] Apparently that Reta is a triple agonist.
+[0:38 - 0:43] Not only it hits the GLP-1 receptors, it hits the GIP receptors as well.
+[0:43 - 0:45] This is specifically going to help you with insulin secretion.
+[0:45 - 0:51] In this specific study, hypoglycemic people doubled their insulin secretion just by using this specific compound.
+[0:51 - 0:54] This basically tells us that we are going to have better nutrient diversity.
+[0:54 - 0:59] And not only that, it also hits the glucagon receptors, which is going to help you lose fat.
+[0:59 - 1:02] Which means you no longer have to take diuretics to look leaner.
+[1:02 - 1:03] You can just use Reta.
+[1:03 - 1:07] Guess what? It's not even banned by WADA, so you can abuse it as much as you want.
+[1:07 - 1:13] And taking it wouldn't make you fail that urine test and you wouldn't have to get a doctor's prescription for it as well.
+[1:13 - 1:15] Anyways, that's it. Hope that was helpful.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ishaan et
+[0:00 - 0:01] WNB RY
+[0:00 - 0:02] ene eo
+[0:01 - 0:02] Ishaan co
+[0:02] | col
+[0:02] WNB 88
+[0:03] Isfigan competed in
+[0:03] WNBF?
+[0:03] tur:
+[0:03] dint
+[0:04] S decide:
+[0:06] OF 44
+[0:10] inl) ४
+[0:10] han if.
+[0:10] JIS)
+[0:10 - 0:11] ५01/0॥ don't get caught
+[0:10 - 0:12] athistcompound thisttime)
+[0:10 - 0:12] lacking
+[0:11] 1t to,
+[0:11] y th
+[0:12] iso you don’t get caught
+[0:13] bare |
+[0:13] 4, PS
+[0:14] ASE
+[0:16] ron
+[0:17] rh ie
+[0:18] 110)
+[0:20] ils
+[0:20] now Re’
+[0:20] ery
+[0:20] gory
+[0:21] ot i
+[0:21] iit
+[0:21] it now Ret;
+[0:22] हर yj
+[0:23] Wd ij
+[0:23 - 0:24] h means it i:
+[0:24] Soe
+[0:24] ig to b
+[0:25] a oe
+[0:25 - 0:26] jeans tha’
+[0:27] going to
+[0:28] joing t
+[0:29] The
+[0:30] ing you fey
+[0:30] longe!
+[0:30] iod)
+[0:31] Mgt i
+[0:32] aking you,
+[0:33] i ant
+[0:34] 1 means.
+[0:34] ng.in a
+[0:35] 7 कै
+[0:35 - 0:36] longer g
+[0:36] nA है
+[0:36] ees
+[0:36] mt fi
+[0:38] ean
+[0:38] ४४३
+[0:38] not only tha
+[0:39] "ined
+[0:40] ६१९
+[0:42] Se-dependel
+[0:42] 1 011 0 [01010 0॥)॥9८
+[0:42] (पंच)
+[0:42] ors:
+[0:43] 7०4
+[0:44] oat
+[0:44 - 0:45] is specificall
+[0:45] क्र
+[0:45] elp you_y
+[0:46] “tH 's
+[0:46] sce
+[0:46] 41 11115!
+[0:46 - 0:48] ‘lucose- Dependent insulinotropic Polypeptide
+[0:46 - 0:48] {A Bifunctional Glucose-Dependent Regulator of Glucagon and
+[0:46 - 0:48] Insulin Seeretion in Humans.
+[0:47] ia का
+[0:47 - 0:49] poglycemic
+[0:48] theta Wd
+[0:48] see
+[0:48] क्र
+[0:48] x if
+[0:48] 1194
+[0:48] people
+[0:50] ier
+[0:51] » A \ ae
+[0:51] by using th
+[0:53] ne ६
+[0:53 - 0:54] is that we
+[0:54] nie
+[0:55] not only
+[0:56] if by
+[0:56] 50 hits’
+[0:58] Glucagon Receptor Signaling and Lipid Metabolism
+[0:58] sain 2७
+[1:00 - 1:02] means you,
+[1:01] ve total
+[1:02] Bcf
+[1:02] have to.
+[1:03] mae ¥
+[1:03] श्र
+[1:05] thd
+[1:06] can ab)
+[1:07] 630
+[1:09] crs
+[1:10] ing it wor
+[1:11] जनों मत
+[1:11] ou ए०प्राता'
+[1:12] moe
+[1:12] get a ०
+[1:12 - 1:13] you wouldn}!
+[1:13] श्र
+[1:13] tee
+[1:13] 10 get 3 di
+[1:15] Lan}
+[1:15] follow for more
+[1:15] ei) that's it
+[1:15] that was
+[1:15] ipful

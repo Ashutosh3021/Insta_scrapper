@@ -1,0 +1,181 @@
+# model: ggml-large-v3
+========================================================================
+[939] https://www.instagram.com/reel/DHOPWMMBv3c/
+STATUS: OK
+DURATION: 1:10   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] mind muscle connection isn't as important as you think for muscle growth
+[0:03 - 0:05] बहुत सर लोगों लगता है वो muscle का burn feel करना
+[0:05 - 0:09] जान बूचके eccentric और concentric दोनो slow down कर देना
+[0:09 - 0:12] and like trying to squeeze that muscle thinking it's gonna cause more muscle growth
+[0:12 - 0:14] and if that really worked we'd be seeing that
+[0:14 - 0:17] flexing करने से ही muscle growth हो जाती है
+[0:17 - 0:19] but that's clearly not true
+[0:19 - 0:21] yes it's true that if a muscle fiber is not activated
+[0:21 - 0:22] it simply won't grow
+[0:22 - 0:24] but here's what people don't understand
+[0:24 - 0:28] activating does not mean stimulation of a muscle fiber
+[0:28 - 0:30] just because you feel a muscle working
+[0:30 - 0:33] that does not mean that that specific muscle
+[0:33 - 0:35] is under enough mechanical tension
+[0:35 - 0:37] according to the Henneman's size principle
+[0:37 - 0:39] motor units are recruited from smallest to largest
+[0:39 - 0:42] depending upon the force which is being demanded to it
+[0:42 - 0:44] now what you also have to understand that
+[0:44 - 0:47] these high threshold motor units include the largest muscle fibers
+[0:47 - 0:49] which have the most potential to grow
+[0:49 - 0:52] अगर आपको ये high threshold motor units को activate करना
+[0:52 - 0:55] you have to train heavy and close to failure
+[0:55 - 0:58] जान बूचके एक specific muscle को contract करना
+[0:58 - 0:58] जान बूचके एक specific muscle को contract करना
+[0:58 - 1:02] will not increase the amount of high threshold motor units
+[1:02 - 1:04] because force demand उतना है ही नहीं
+[1:04 - 1:05] so if you are using mind-muscle connection
+[1:05 - 1:07] instead of training hard and training heavy
+[1:07 - 1:09] you are literally leaving gains on the table
+[1:09 - 1:10] follow for more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] y muscle}
+[0:00] FO morelgro,
+[0:00] 521९
+[0:01] | mus
+[0:01] For
+[0:01] 11016 4॥७
+[0:01] cle connection i
+[0:02] Sele
+[0:02] (00५11
+[0:02] आरा.
+[0:02] pre
+[0:03 - 0:07] iscle growth
+[0:05] burn”
+[0:05 - 0:06] 4५ Trealing the
+[0:06] duntarihy
+[0:06] SCENIC
+[0:06] ain]
+[0:06] iconcentnic
+[0:07] 1 “Feeling tine bur
+[0:07] 2, Volummently
+[0:07] cow
+[0:07] fam >
+[0:08] burt
+[0:08] 9 ४४
+[0:08] down के
+[0:08] ane] Goncentit
+[0:09] ane Gomesmiic
+[0:09 - 0:12] ५ Feeling the
+[0:09 - 0:12] mS cjueezing the muscle;
+[0:10] ‘cle growth | like
+[0:10] io squeeze that
+[0:10 - 0:12] 2 Voluntarily slowing cewmn
+[0:11] IECcen.
+[0:11] icfandiconcentnic
+[0:12] CCEMtictam
+[0:12] eemtnic
+[0:12] ig it's gonna cal
+[0:12] 118 muscle
+[0:14] if that AS worked we'd be
+[0:14] seeing
+[0:16] कं अं
+[0:16] with hh
+[0:16 - 0:17] हो es krne se muscl
+[0:17] with hojati ,
+[0:18] ‘clearly
+[0:19] If almuiseley
+[0:20] is mot
+[0:20] lh “a
+[0:20] fue that 119 |
+[0:20] must
+[0:20] नहर
+[0:21] musele fiber is mot
+[0:21] om Bat
+[0:21] that if a mui
+[0:21] not activated
+[0:21 - 0:22] Rwont grow
+[0:22] amusdle fiber fs not
+[0:22] jply won't
+[0:24] Activating ७
+[0:24] hat people di
+[0:24] hderstand
+[0:25] ७ stimulation
+[0:25] \ ल्‍मीं
+[0:25] iting
+[0:26] Activating ७ stimulation
+[0:26] ape
+[0:26 - 0:28] iting does not m:
+[0:27] Activating &
+[0:27] til
+[0:28] a stimulation
+[0:28] ition of a muscl
+[0:30] it because you
+[0:30] muscle workin
+[0:31] es not mean
+[0:32] not mean thai
+[0:32] ecific
+[0:34] ler. enough me:
+[0:35] enough mechani
+[0:35] tension
+[0:36] ling to the Hann
+[0:36] jan
+[0:36 - 0:40] Size
+[0:36 - 0:41] Motor Unit Recruitment
+[0:36 - 0:41] Small motor neurons (MIN)
+[0:36 - 0:41] Large MN
+[0:36 - 0:41] Slow motor units (MU)
+[0:36 - 0:41] Fast MU
+[0:36 - 0:41] Non-recfuited MUs
+[0:38] S are recruited
+[0:38] te हरा
+[0:39] inits are recruii
+[0:39] Smallest to large:
+[0:40] ee ae
+[0:40] ing
+[0:41] www
+[0:41] ire.
+[0:41] ding upon the fort
+[0:42] jing upon the 1
+[0:42] eing demande:
+[0:43] jat you also havi
+[0:45] these high thr
+[0:45] motor units
+[0:49] g have the mo;
+[0:49] otential to gro’
+[0:50] (Agar appease
+[0:51] con
+[0:51] Agar apko ye
+[0:51] inigin peshold motor units}
+[0:51] eed 2०
+[0:52] हक. रे,
+[0:52] we J
+[0:53] a, at |
+[0:53] 1 7 ॥ी
+[0:53] 1 NS
+[0:53] Neh
+[0:53] Ww 1
+[0:53] chee ९
+[0:53] youhave सिवनी A
+[0:54] ouhave £0
+[0:55 - 0:57] to train heavy al
+[0:55 - 1:01] close to failure’
+[0:56] हैः
+[0:57] you
+[0:58] you ha’
+[0:58] ce train heavy ai
+[0:59] jes q rain heavy ant
+[1:00] ial
+[1:00 - 1:01] fe to train hea
+[1:03] de b
+[1:04] rou're
+[1:04] 4४५५६
+[1:05] re using mind
+[1:05] connection
+[1:06] aining
+[1:06] Sete!
+[1:07] of training hai
+[1:07] os heavy
+[1:08] iterally
+[1:09] g leaving g
+[1:09] #on the table
+[1:10] Followfor more

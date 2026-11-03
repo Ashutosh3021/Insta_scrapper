@@ -1,0 +1,193 @@
+# model: ggml-large-v3
+========================================================================
+[829] https://www.instagram.com/reel/DLpLqxVhzkB/
+STATUS: OK
+DURATION: 1:41   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I want to ask all the gym bros one question
+[0:02 - 0:04] तुम लोग इतना चिलाते क्यों हो?
+[0:04 - 0:06] Last step, I can understand
+[0:06 - 0:09] सेट शुरू होने के पहले, सेट के दौरान
+[0:09 - 0:12] कोई और workout कर रहे हैं, तब भी भी चिलाते हो
+[0:12 - 0:13] इसका फायदा क्या है?
+[0:13 - 0:15] Attention और लोगों को disturb करने के अलावा
+[0:15 - 0:18] Screaming is not just done for disturbing people
+[0:18 - 0:19] There are so many benefits for it
+[0:19 - 0:22] Screaming at other people and screaming at yourself
+[0:22 - 0:24] is going to help you create a better
+[0:24 - 0:25] stimulus for muscle growth
+[0:25 - 0:27] You have to understand one thing that motor unit recruitment
+[0:27 - 0:29] is done on the basis of your perception of effort
+[0:29 - 0:32] Once you max out the level of perception
+[0:32 - 0:33] of effort, you are not going to be able to
+[0:33 - 0:35] recruit more motor units from further on
+[0:35 - 0:37] and everyone has a different capacity of
+[0:37 - 0:39] maximum tolerable perception of effort
+[0:39 - 0:42] But, when there is a guy
+[0:42 - 0:44] screaming at you or you hype yourself up
+[0:44 - 0:46] before a lift, it is going to actually
+[0:46 - 0:47] increase your motivation levels
+[0:47 - 0:49] which is going to increase your maximum tolerable
+[0:49 - 0:51] perception of effort capacity
+[0:51 - 0:53] See, your maximum tolerable perception of effort
+[0:53 - 0:55] was this much before you did all the screaming shit
+[0:55 - 0:57] and it will be maybe
+[0:57 - 0:59] this much after you did
+[0:59 - 1:01] the screaming shit. Why? Because it did
+[1:01 - 1:03] increase your motivation level which is going
+[1:03 - 1:05] to increase your maximum tolerable perception of
+[1:05 - 1:07] effort which is going to help you recruit
+[1:07 - 1:09] more motor units. Now, when there is a high
+[1:09 - 1:11] level of motor unit recruitment, there is
+[1:11 - 1:13] going to be a lot of muscle fibers being
+[1:13 - 1:15] activated. When there is a lot of muscle fibers being
+[1:15 - 1:17] activated, there is going to be high
+[1:17 - 1:19] degree of mechanical tension placed on
+[1:19 - 1:21] those a lot of muscle fibers. Now,
+[1:21 - 1:23] there is honestly a caveat to this, some people
+[1:23 - 1:25] just don't like someone screaming at them
+[1:25 - 1:27] but some people do. Some people like
+[1:27 - 1:29] hyping themselves up before a lift
+[1:29 - 1:31] but some people don't. Now, it's quite subjective
+[1:31 - 1:33] what increases your motivation levels
+[1:33 - 1:35] but if it does, there is no harm for that
+[1:35 - 1:37] and again, gym is not a library
+[1:37 - 1:39] it's a place where you actually do
+[1:39 - 1:40] stuff man. Hope that helps.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Why gym bros why?
+[0:01] ५ 33235
+[0:01] wae
+[0:03] yn hy’
+[0:05 - 0:10] Why gym bros why?
+[0:10] #्क “yl
+[0:13 - 0:15] Why gym bros why?
+[0:15] es 4
+[0:16] screaming is
+[0:17] scregingt is not Just done
+[0:18] किन are
+[0:18] रू लीं
+[0:19] १ कमा
+[0:19] there are = many benefits
+[0:20 - 0:21] and ‘screaming at
+[0:21] vg ie
+[0:21] screaming at other people
+[0:23 - 0:24] is g6ing to help you create a
+[0:24] » better stimulus
+[0:25] for musel@ growth
+[0:26] yA r
+[0:26] for muscle @@wth but you
+[0:26] Vos ito Understand one
+[0:28] lone
+[0:28] sil
+[0:29] done ont basis of your
+[0:29] eption
+[0:30] wyer
+[0:31 - 0:32] Once you max out the level
+[0:32] = of.perception of effort
+[0:33] 377
+[0:33] wou are Romgoing to
+[0:34] x mol ow
+[0:35] more, i from
+[0:35] irther
+[0:36] २३०
+[0:37] Tae
+[0:37] bes a different
+[0:38] tolerable. o
+[0:39] ec. of perception of
+[0:40] किक.
+[0:41] = but when
+[0:42] ३७८
+[0:42] but'when there is a guy
+[0:44] oryou 5. up
+[0:44] before
+[0:45] hyb yp
+[0:46] itis है... actually
+[0:46] ncrea
+[0:47] it is going;to actually
+[0:47] iMcrease your motivation
+[0:47] levels
+[0:49] ich is going to increase
+[0:49] & ir maximum
+[0:50] tolerable
+[0:50] Pieention of
+[0:51] & tolerable maeerncr of effort
+[0:53] Ble permet fF effort
+[0:55] fore youdid all the
+[0:57] it 'अीहिकाा5 0०
+[0:58] it "माफी ,0० this
+[0:59] हल ad
+[0:59] me you didi
+[1:00] after you ditiithe screaming
+[1:00] shit why
+[1:01] A पक
+[1:01] = peo
+[1:02] ee हा
+[1:02] ibecausi ne
+[1:02] increase your
+[1:03] which is\going
+[1:04] RAL
+[1:04] hich =.
+[1:04] maximum
+[1:04] ing to increase
+[1:04] yol
+[1:05] olerable Bemeption of
+[1:06 - 1:07] whic!
+[1:07] 5७१०७ to help you
+[1:08] iting
+[1:08] boas for cme
+[1:08] a which ‘ae
+[1:08] jing to help you
+[1:08] 4 écruit More motor units
+[1:08 - 1:10] Perception of effortis a limiting
+[1:09] factor for cme
+[1:09] hen thereat
+[1:10] Ing
+[1:10] Vega for cme
+[1:10] when theréjisja high level of
+[1:10] cal
+[1:10] motor unit recruitment
+[1:13] alot OAc. fibres being
+[1:14] when wi »
+[1:15] when thi lot of muscle
+[1:15] bre:
+[1:17] thereigpitig to be high
+[1:18] ५०५ to be high
+[1:18] ‘degtee ofimechanical
+[1:18] tension
+[1:20] alot ofimuscle
+[1:22] now he e . hane: tly a
+[1:23] some
+[1:23] ist
+[1:24] some peo
+[1:24] See don't like
+[1:24] ine
+[1:24] ing
+[1:24 - 1:26] And this cents cons ona
+[1:24 - 1:30] Cause it’s nat
+[1:25] oS कु
+[1:25 - 1:30] this canfthe dona one
+[1:25 - 1:30] Daily
+[1:26] y4r
+[1:26] but some people do
+[1:27] some! peuple like
+[1:28] ४ हू
+[1:28] some people like hyping
+[1:28] themselves up
+[1:29] 9०६ some
+[1:30] its
+[1:32] what
+[1:32] ses your
+[1:34] D> but if,it Pf there's
+[1:35] Meier's no harm
+[1:36] and again
+[1:37] the
+[1:37] and a. is nota
+[1:37] library
+[1:38] it's Pen you.
+[1:39] it's
+[1:39] ally'do stuff
+[1:40] सर्कल

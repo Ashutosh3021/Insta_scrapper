@@ -1,0 +1,87 @@
+# model: ggml-large-v3
+========================================================================
+[524] https://www.instagram.com/reel/DU8K9KDjJU4/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] You are the Dancing Queen
+[0:05 - 0:09] Young and sweet, only seventeen
+[0:09 - 0:15] Dancing Queen
+[0:15 - 0:20] Feel the beat from the tambourine
+[0:20 - 0:27] You can dance, you can jive
+[0:27 - 0:31] Having the time of your life
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ey a Wy)
+[0:00] 608!
+[0:00] A he
+[0:00] SOF 7
+[0:01 - 0:02] Tie
+[0:01 - 0:02] ine
+[0:02] = IF Pe
+[0:03] 10000 0 ॥ 0011 6
+[0:03] img)
+[0:03] onthe: SIONS |
+[0:03 - 0:04] ain,
+[0:04] wil go away fi you 000 8
+[0:04] ifting}
+[0:04] 04.01
+[0:05] 14.01
+[0:05] 7 ye '
+[0:05 - 0:09] fell of your =e pain
+[0:05 - 0:09] willl go may ff you 1010 6॥
+[0:05 - 0:09] onthe gy
+[0:06] tiny
+[0:06] हट छू,
+[0:06 - 0:09] tensionsyy
+[0:08] will go away ff you
+[0:08] gon tine
+[0:09] tiny
+[0:09] I se
+[0:10] fs ie
+[0:10] all 2 thes
+[0:11] és ine
+[0:11] हा thei
+[0:12] standai
+[0:12] thes
+[0:12] «५58
+[0:13] Bisecondl
+[0:14 - 0:15] Ssscond a
+[0:16] a the t
+[0:17] hold theltop
+[0:17] re ie |
+[0:21] isyallfofithni | ingjtolbe
+[0:21] bettenton) 1
+[0:21] al ie
+[0:22] istalllof
+[0:22] oh | ingjtolbe
+[0:22] 1 We
+[0:22] Lat
+[0:23] WIPE
+[0:23] een
+[0:23] care “ay it 2
+[0:23] top
+[0:24] oe hi
+[0:24] care about %
+[0:24] PIP
+[0:25] ware youl
+[0:25] 4 Rain
+[0:25] rophy
+[0:25] NYY
+[0:25] ८८८4
+[0:25] क्र
+[0:25 - 0:27] लें chyjjoints?
+[0:26] Re you
+[0:26] “if भर
+[0:27] 4 halt)
+[0:27] Rtrophi १2
+[0:28] form ॥
+[0:28] 127
+[0:28] 797"
+[0:29] drop 7
+[0:29] orm 4
+[0:29] erly)
+[0:29] 0777
+[0:30] form itpRopenly)

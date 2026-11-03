@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[743] https://www.instagram.com/reel/DPCHZP8jHdh/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I'm pretty sure it ruled
+[0:02 - 0:03] Damn
+[0:03 - 0:05] Last Friday night
+[0:05 - 0:08] Yeah, we danced on tabletops
+[0:08 - 0:09] And we took too many shots
+[0:09 - 0:11] Think we kissed but I forgot
+[0:11 - 0:13] Last Friday night
+[0:13 - 0:15] Yeah, we maxed our credit cards
+[0:15 - 0:17] And you kicked out of the bar
+[0:17 - 0:19] So we hit the boulevard
+[0:19 - 0:20] Last Friday night
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:05] Why are you so
+[0:00 - 0:05] f..ing weak
+[0:00 - 0:05] Replying to bay_harbor_butcher_harry
+[0:01] jac
+[0:02] Hed \
+[0:04] Replying
+[0:04] jay_harbor_butcher_harry
+[0:04] oB8ene,
+[0:05] omen ०5
+[0:05] mweogee
+[0:05] aoe
+[0:08] sft
+[0:12] 7 WN We
+[0:14] कर्ज
+[0:19] lie *
+[0:20] ue 4
+[0:21] gee:

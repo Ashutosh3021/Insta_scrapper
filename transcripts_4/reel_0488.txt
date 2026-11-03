@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[488] https://www.instagram.com/reel/DVlBaxljL11/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] a while ago i made a video of me doing split machine incline press and i did 100 kgs on it
+[0:04 - 0:08] some fucker was like oh that's not 100 kgs because it's on a split machine
+[0:08 - 0:10] now i'm gonna do it on a fucking barbell and prove you wrong
+[0:10 - 0:15] mind you i've never done barbell incline pressing so that's gonna be my first time doing that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] => Smithivs Barbell
+[0:00] Awhile
+[0:01] nbell
+[0:02] sen.
+[0:02 - 0:04] Smithivs\B:
+[0:03] Sori Banbell |
+[0:04] alll
+[0:05] Smithivs\Banbell
+[0:05] [Some fucker was like,
+[0:12] barbell
+[0:13] |. incline pressi
+[0:14] that's going to bemy,
+[0:15] * हुक
+[0:15] my: oe
+[0:15] 6“50 that
+[0:15] joing tobe my
+[0:15] Hirstitimeldo:
+[0:16] Cae
+[0:16] i दर
+[0:17] ail
+[0:18] Bae
+[0:19] Bauwg
+[0:20] pola
+[0:20] baa
+[0:21] real one
+[0:21] iad
+[0:21] Rae
+[0:21 - 0:24] this yesterday
+[0:22] ‘ail
+[0:22] or Wa
+[0:22 - 0:23] 7881 016
+[0:22 - 0:23] wae
+[0:24] real one:
+[0:24] हे ty
+[0:25] Lane
+[0:25] eas
+[0:25 - 0:26] - realones.saw this yesterday)
+[0:26] विफल का
+[0:26] SIN

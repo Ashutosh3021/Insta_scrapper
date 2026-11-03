@@ -1,0 +1,26 @@
+# model: ggml-large-v3
+========================================================================
+[44] https://www.instagram.com/reel/DebrTBnMFNQ/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:17] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] tis/
+[0:00] aes
+[0:00 - 0:03] slhisis what happens
+[0:00 - 0:03] F When youjeat carbs
+[0:01] eens
+[0:01] जज का.
+[0:02] (fans
+[0:03] WwW
+[0:06] ७७० “मम
+[0:10] te et
+[0:11] ~ See
+[0:12] a ee
+[0:13] —_— स्चकनक
+[0:15] 40०»
+[0:16] ee i

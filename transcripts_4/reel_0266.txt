@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[266] https://www.instagram.com/reel/DaU_zK5zFzs/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Bro, honestly, this guy, this guy tells me that he's not a science geek.
+[0:02 - 0:07] He's got a fucking VBS, VBT machine, a velocity-based tracking machine
+[0:07 - 0:09] just to track his fucking intensity.
+[0:09 - 0:11] I imported it from the US.
+[0:11 - 0:13] Don't do that shit because there's 100% customs on it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ce basedllifiter
+[0:00] veh
+[0:01] Joseph exposed
+[0:01] Mees
+[0:01] ब्न्ण्च ५.
+[0:01 - 0:02] i As ascience based lifter
+[0:01 - 0:02] guy,
+[0:02] * exposed
+[0:02] that he is
+[0:04] VBTLMACHINE
+[0:05] *. TINE
+[0:06] ys M
+[0:06] CHINE
+[0:08] tpg
+[0:08] = dust to track
+[0:09] ™ ine
+[0:09] ity
+[0:12] न कं
+[0:12] es = A
+[0:13] ios

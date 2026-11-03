@@ -1,0 +1,61 @@
+# model: ggml-large-v3
+========================================================================
+[526] https://www.instagram.com/reel/DU5R_dhjDDb/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I'm the one, cause you are ten
+[0:02 - 0:03] Feeling up to speed
+[0:03 - 0:06] Even when the sky gets cold
+[0:06 - 0:09] Even when the sun don't shine
+[0:09 - 0:12] I got faith in you and I
+[0:12 - 0:14] Put your pretty little hand in mine
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Fe) bic
+[0:00 - 0:01] e whichican
+[0:00 - 0:02] break Your-plataue'on'your 7
+[0:00 - 0:02] yale
+[0:01] wl curls
+[0:02] Hére’s'an ex
+[0:02] 11010
+[0:02] ‘on'you
+[0:02] ay i }
+[0:03] OM 10,
+[0:03] itien
+[0:03] Dae
+[0:04] ee patient
+[0:04] fel
+[0:05] iV a
+[0:06] iV pati
+[0:06] dee
+[0:07] phy:
+[0:07] Being Ri
+[0:08] Ms gonnalbe
+[0:08] aie
+[0:08] rte
+[0:08 - 0:10] = ee right | ee
+[0:08 - 0:11] week even if you!
+[0:09] os gonna be addi
+[0:09] fy neps
+[0:09] leek even if yotitdl at
+[0:10] ine gonna oa
+[0:10] ane
+[0:10] ig reps
+[0:10] 127
+[0:10] ve we,
+[0:10] ech
+[0:10] 10१०
+[0:11] ine gonna‘be addi iv 1209
+[0:11] = + देख right 3 डक
+[0:12] y हर A;
+[0:12 - 0:14] \ana njoyithe process
+[0:13] TA i
+[0:13] Learn to\be patient:
+[0:13] andlenjoy.the proc
+[0:13] Kom
+[0:13] Shot
+[0:14] learn to a
+[0:14] Nie

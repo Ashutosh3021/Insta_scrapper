@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[103] https://www.instagram.com/reel/DdjZzF8Ms6X/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Yeah, flex and then I'm gonna do the dance.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Fay &
+[0:02] Poh ten
+[0:05] oct
+[0:05] Pay
+[0:07] wee
+[0:08] | हैं

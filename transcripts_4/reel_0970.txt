@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[970] https://www.instagram.com/reel/DGA6s5ohJCY/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] all right so if you guys are craving ice cream just like i am right now
+[0:03 - 0:07] i'm gonna show you guys what ice cream should you take and why
+[0:07 - 0:08] i'll just be back with the ice cream
+[0:08 - 0:16] so this whole thing is just 64 calories there's the main ingredient water
+[0:16 - 0:22] and it tastes amazing as well i will show it to you guys this is what it looks like
+[0:22 - 0:25] if you guys want to have it go ahead
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ice cream
+[0:00 - 0:06] 1@1. Low calorie finds : #1
+[0:01] lceleneam
+[0:01] Ait
+[0:01] li guys are craving
+[0:02] Low
+[0:02] finds: #1
+[0:02] 108
+[0:02] ike
+[0:02] ee just lil
+[0:02 - 0:03] बा you guys are craving ice
+[0:03] cream just like | am right
+[0:03] now
+[0:04] I'm goni
+[0:04] you gu:
+[0:04 - 0:06] what ice cream
+[0:08] ist be back
+[0:10] BS 42
+[0:12] a whole thin:
+[0:13] this whole thing is,
+[0:16] i ingredi
+[0:20] ye iy
+[0:20] will show it to
+[0:23] श्भ
+[0:24 - 0:25] Read caption for morejinfo

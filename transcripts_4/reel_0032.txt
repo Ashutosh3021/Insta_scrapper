@@ -1,0 +1,222 @@
+# model: ggml-large-v3
+========================================================================
+[32] https://www.instagram.com/reel/Dej56DZsRKW/
+STATUS: OK
+DURATION: 1:41   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] There's a new trend started in self-medication, magnesium supplements, and it's become a huge
+[0:07 - 0:13] scam. People are paying huge money for a medicine that is not required. Your body does not need
+[0:13 - 0:21] magnesium unless you find a deficiency in the blood level. 60% of people do not even reach the
+[0:21 - 0:27] daily intake which is required, which is 320 milligrams for women and 420 milligrams for men.
+[0:27 - 0:33] You do not start magnesium. Today's Times of India has an article that most people do not
+[0:33 - 0:41] need magnesium supplements. Another article by Times of India says something else. And why are
+[0:41 - 0:48] we using Times of India for a source? Natural magnesium is available in all the nuts and seeds
+[0:48 - 0:54] we have, leafy vegetables, green leafy vegetables, legumes, pulses.
+[0:54 - 1:01] Except the bioavailability is questionable for them. And if your doctor has given you any
+[1:01 - 1:09] supplement, multivitamin or calcium, it contains the required amount of magnesium. So we are end
+[1:09 - 1:17] of the day still taking a supplement. So please do not use magnesium on its own or your advice
+[1:17 - 1:23] or a social media recommendation. Just tell your doctor advices and that too after a blood test
+[1:23 - 1:24] showing low levels of magnesium. So please do not use magnesium on its own or your advice or a social media recommendation. Just tell your doctor advices and that too after a blood test showing low levels of magnesium.
+[1:24 - 1:41] In this country, the doctors tell you to stop working out, to not consume a lot of protein, to not consume creatine. You think those same doctors are going to say, oh, just to magnesium supplementation.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ouldnit be
+[0:00] ५७८ |
+[0:00] र्न्ड
+[0:01] ippleme
+[0:01] प्रात
+[0:01] inte
+[0:01] There's at
+[0:02] एव लय
+[0:02] pasate
+[0:02] supplemente
+[0:03] mishoulc
+[0:03] in self-me
+[0:03 - 0:04] ppleme
+[0:04] Ta eine
+[0:04] | 911 251५॥/ |
+[0:04 - 0:05] magnesium
+[0:05 - 0:09] Sup}
+[0:06] And
+[0:06 - 0:08] है ignesii
+[0:07] And it's bec.
+[0:07 - 0:17] it be
+[0:08] ९00 <ya\/
+[0:08] People
+[0:09] |, 91851 rsh h
+[0:09] ees
+[0:10] |, 11651
+[0:10] shi
+[0:10] fora medy,
+[0:11] ०0०
+[0:11] न्ब्
+[0:12] shouldn't be
+[0:12] ppl
+[0:12] 000 oie
+[0:12] Your
+[0:12 - 0:14] ite
+[0:13] WGP
+[0:13] pas
+[0:13] Your body do.
+[0:14] shi
+[0:14] ppleme
+[0:14] aon
+[0:14 - 0:17] magnesiurr
+[0:15] ppl
+[0:15] ate
+[0:15] ty fi’
+[0:16] im shi
+[0:16] tec
+[0:16] fam)
+[0:17] |; ignesi
+[0:18] है si
+[0:18] 10170 be
+[0:18] ipplem:
+[0:18] “the
+[0:19] Cchaltengesin the Dia
+[0:19] sis of Magnesium Status
+[0:19] co: Paces 8००:
+[0:20] Challenges inthe Diagnosis of Magnesium Status
+[0:20] cra re
+[0:20] not,
+[0:22] intake
+[0:23] woth
+[0:23] pet
+[0:23] magnesium to man
+[0:23] than
+[0:23] ५५८
+[0:23] amount
+[0:23] sabe ait
+[0:23] mineral ike dve wo meer
+[0:23] far
+[0:23] required,
+[0:23 - 0:24] me, wth 19)
+[0:24] Despite th
+[0:24] ०७०
+[0:24] esi to aman
+[0:24] son
+[0:24] 220 mg/day or
+[0:24] bal of the
+[0:24] rou
+[0:24] 30 ७० ats
+[0:24] al inake ds
+[0:24] dem
+[0:24] bith
+[0:24 - 0:26] 3820. /
+[0:25] Sei
+[0:26] all
+[0:26] रहे
+[0:27] erie |
+[0:27] level,
+[0:28] AO F°
+[0:28] level, yout
+[0:29] magn
+[0:30] NS Bs
+[0:30] Today's Tit
+[0:31] has
+[0:32] (ems |
+[0:32] PNG De
+[0:32] has an arti¢
+[0:33 - 0:34] people de
+[0:35] magnesium
+[0:36] Why are so many Indians turning to
+[0:36] Magnesium for their sleep troubles?
+[0:36] moe
+[0:36] st agro ho
+[0:36] od me
+[0:36] 08३]
+[0:36] hoe cont
+[0:37] yal
+[0:37] 1. Oy
+[0:37] के छे
+[0:38] ४० आग
+[0:38] Mes
+[0:38] theese
+[0:38] Times)
+[0:38 - 0:40] ty are se ma
+[0:40] rataringto
+[0:40] something
+[0:44] Bans
+[0:46] Natural mz
+[0:48] fk 29
+[0:48] inall the nu
+[0:50] weleafy
+[0:51] हत्या
+[0:51] green
+[0:52] “a se
+[0:52] Cage
+[0:52] mH ~<a
+[0:52] लात
+[0:52] green leafy ve
+[0:53] Cant
+[0:53 - 0:54] legume
+[0:55] the
+[0:55 - 0:56] Intestinal absorption of magnesium from food and
+[0:55 - 0:56] supplements
+[0:56] हूँ
+[0:56] ability,
+[0:57] Tap, mineral and bottled watere
+[0:57] n algo be sources
+[0:57] ofthe letary magnesium consun
+[0:57] ४4७ 0
+[0:57] eal ७
+[0:57] questionable
+[0:57 - 0:58] magnesium, but the
+[0:57 - 0:58] mai) (8
+[0:57 - 0:58] Approximately 80
+[0:57 - 0:58] 1040
+[0:58] Tap, mineral and botled waters can also be sources
+[0:58] of the etary magnesium consumed is typically 3
+[0:58] a छः
+[0:59] Buc 2
+[1:00] y Sas
+[1:00] And if
+[1:01] है ५
+[1:03 - 1:04] multivit.
+[1:06] conta,
+[1:07] amour,
+[1:08] nag”
+[1:10] eam!
+[1:10] our
+[1:11] pat
+[1:11] Was
+[1:11] suppl
+[1:11] bet
+[1:12] byt
+[1:12] aaa + ,
+[1:12] Tae
+[1:13] Ba 1
+[1:13] So, p
+[1:13] HRS
+[1:14] wer
+[1:14] $/ २७५५
+[1:14] ९ पर
+[1:14 - 1:15] magni
+[1:15] १०३७४
+[1:16] mMagnesiun,
+[1:17] your advice
+[1:18] teh:
+[1:19] recommendatic
+[1:20] just till
+[1:22] and
+[1:24] test showing
+[1:25] level of
+[1:26] Sef
+[1:29] maa
+[1:29] tell!
+[1:30] orking)
+[1:31] itt
+[1:31] whe,
+[1:32] atts
+[1:33] Sie
+[1:33] teil
+[1:34] consi
+[1:35] १81.
+[1:35] ve 6
+[1:37] ate:
+[1:39] है एक
+[1:40] magi
+[1:41] १० हु
+[1:41] बाल ६61

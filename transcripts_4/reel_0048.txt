@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[48] https://www.instagram.com/reel/DeZowCdse6_/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] i Be =
+[0:00] What
+[0:00] 6 in this'bottle
+[0:01] Gues
+[0:01] J in thgborte?
+[0:02] lfyo
+[0:02] at. guessitt
+[0:02] «| Geety
+[0:02] ete
+[0:03] SNe |
+[0:03] guess ith
+[0:03] didn:
+[0:03] 911 6
+[0:04] eZ “4
+[0:04] ARV)
+[0:05] Pen
+[0:05] sts
+[0:05] asicarbs |
+[0:05] पु Sy =
+[0:06] मे र
+[0:06] ltiwas carbs
+[0:06] Sess
+[0:07] im ५८
+[0:07] arbs
+[0:07] 2८2]
+[0:07] ) a tie
+[0:07] बा 2 के
+[0:08] Jos
+[0:08] suming
+[0:08] it है
+[0:08] evemlswmishing
+[0:08] y कि
+[0:08 - 0:09] Con
+[0:08 - 0:09] Beforellift
+[0:09] Orievenswishing
+[0:09] SS न
+[0:10] ncneases
+[0:10] [| perfo
+[0:10] Kmance
+[0:10] हैः
+[0:11] Jes
+[0:11] Increase
+[0:11] Sti
+[0:11] Kal ming performance

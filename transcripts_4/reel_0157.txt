@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[157] https://www.instagram.com/reel/Dckl234MMwH/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: tl
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Dili na, mag-iigay-iigay kita
+[0:02 - 0:05] Kaupod ang Dawg Mobile Sounds
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] oth
+[0:00] 21 880 | |
+[0:00] ॥॥811॥/0010॥180॥1॥15 5 i
+[0:00] Veryiclosely
+[0:01] ies
+[0:01] Mm il
+[0:01] 100]
+[0:01] gjuppe
+[0:02] AIH)
+[0:02] Ne biasing uppenighest
+[0:03] Mm Not iesng i
+[0:03] per chest
+[0:03] ate
+[0:04] in Beane
+[0:04] upperich
+[0:04] pha) Ee
+[0:04] ite
+[0:05] Biasing upper che:
+[0:05] NEE
+[0:06] | chest
+[0:07] ५३ 88910॥000/0160 » 4
+[0:07] enti . ls
+[0:08 - 0:09] »\ Biasing upper chest
+[0:09] mts

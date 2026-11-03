@@ -1,0 +1,285 @@
+# model: ggml-large-v3
+========================================================================
+[722] https://www.instagram.com/reel/DPwVv6BjAgq/
+STATUS: OK
+DURATION: 1:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] i don't know who needs to hear this but if you're someone who's dieting down to
+[0:02 - 0:06] get as lean as possible do not obsess over
+[0:06 - 0:08] your body weight you see there is this one specific
+[0:08 - 0:13] big propaganda going out saying that there is something called victim weight
+[0:13 - 0:18] now that thing is always propagated by people who are at a very high body fat
+[0:18 - 0:21] percentage they think that oh just because i'm
+[0:21 - 0:24] heavier i'm now out of that victim weight category
+[0:24 - 0:29] but if you get the same guy to get lean as eight percent body fat all of a
+[0:29 - 0:32] sudden that guy is now at the same victim weight which he was afraid of
+[0:32 - 0:36] point is if you're gonna get lean your body weight is gonna go down as
+[0:36 - 0:39] your body weight goes down you do not have to be afraid
+[0:39 - 0:42] of getting lower if you're gonna get down to somewhere over seven to eight
+[0:42 - 0:46] percent body fat your body weight is gonna come at a very
+[0:46 - 0:48] lower end and if this is your first rodeo of
+[0:48 - 0:51] getting down to seven to eight percent body fat
+[0:51 - 0:54] you might be surprised of how light you can get
+[0:54 - 0:58] and it's totally okay for you not to worry about being light because
+[0:58 - 1:02] being lean comes with being light most people who are afraid of being light
+[1:02 - 1:07] they end up going in this one specific circle that oh now i have to refeed now
+[1:07 - 1:11] i have to do this now i have to do that man you just have to get lighter you
+[1:11 - 1:16] just have to get leaner that's all it is your body fat holds
+[1:16 - 1:18] weight and when you lose that fat you're gonna
+[1:18 - 1:21] drop that weight as well so don't be afraid of being light and
+[1:21 - 1:24] just enjoy that process
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ual
+[0:00] mel
+[0:00] 1 aes who
+[0:00 - 0:02] ictimiweig
+[0:01] tin
+[0:01] चुका
+[0:01 - 0:04] but if you're
+[0:01 - 0:06] miweight”
+[0:02] हैः
+[0:02] ane
+[0:02] “Vii
+[0:02] dieting 2
+[0:02 - 0:04] someone who's
+[0:03] Boast
+[0:03] Vans
+[0:03] hall
+[0:03 - 0:04] dieting di कं to get
+[0:04] as lean
+[0:04] possible
+[0:05] EW ii
+[0:05] igh
+[0:05] do "रह
+[0:06] ५५ ४6
+[0:06] don
+[0:06] your
+[0:08] che
+[0:08 - 0:10] you see there is this
+[0:08 - 0:10] one
+[0:09] ie, page
+[0:09] Soe big
+[0:09] propa
+[0:10] १८६ ie ४
+[0:10] Sande big
+[0:10] propaganda going
+[0:11] Pet
+[0:11] 1 pil
+[0:11] “tie
+[0:11] something ;
+[0:11 - 0:12] sayin
+[0:11 - 0:12] Ay there is
+[0:12] TR et
+[0:12] mething called
+[0:12] vict
+[0:13] agen
+[0:13] how धर
+[0:15] Ye A %
+[0:15] now
+[0:15] alway:
+[0:16] pie:
+[0:16] noidcelshbig:
+[0:16] 12657
+[0:16] ॥39॥ 665
+[0:17] है Propag: i
+[0:17] Phan
+[0:17] 1011८ 5]
+[0:17] licels
+[0:17] ८615)
+[0:17] ine
+[0:17] by peopl
+[0:17] avery
+[0:18] Saal ited]
+[0:18] 815;
+[0:18] big:
+[0:18] 869»)
+[0:18] itallc
+[0:18] 1३७५. poet
+[0:18] by people who are at
+[0:18] avery 7? fat
+[0:19] 2155
+[0:19] tell
+[0:19] eels
+[0:19] by peopiliitiie are at
+[0:19] a very high body fat
+[0:20] pave
+[0:21] he ४६५
+[0:21] just — I'm
+[0:22] 4०1
+[0:22] 1 6५,
+[0:22] A 0७" ge
+[0:22] heavi ww
+[0:22 - 0:24] just because I'm
+[0:23] me | 7
+[0:23] att
+[0:23] I'm now out
+[0:23] of tha
+[0:24] ४८ F
+[0:24] heavier|Iim now out
+[0:24] है weight
+[0:24] of that iP
+[0:25 - 0:28] but if) on get the
+[0:26] ) eld
+[0:26] to get
+[0:26 - 0:28] same gi
+[0:27] if ys
+[0:28] ~ ont
+[0:28] eo 4
+[0:28] to get lean
+[0:29] id he.
+[0:29] allofa ©
+[0:30] श्र
+[0:30] hee
+[0:30] ne ve FE
+[0:30] ० mae
+[0:30] a4 sy
+[0:30 - 0:31] all of ajsudden that
+[0:30 - 0:31] guy is w
+[0:31] Iw at the
+[0:31] same +
+[0:31] im weight
+[0:32] is F
+[0:32] ४ २७०
+[0:32] which he Was afraid
+[0:33] fee
+[0:33 - 0:35] if you're gonna get
+[0:34] = pel
+[0:34] if you're ae get
+[0:35] (7१३
+[0:35] Lo td
+[0:35] Y is
+[0:35] lean: oo body
+[0:35] weighi
+[0:35] nna
+[0:36] Bn 8
+[0:36] ५ ele
+[0:36] as “Np
+[0:37] ite
+[0:37] 3 ७ al
+[0:37] 18, ३
+[0:37] you do
+[0:38] be “Ne
+[0:38 - 0:39] you do not have to
+[0:39] iui’
+[0:39] be Wo
+[0:41] ४२७
+[0:41] ne c
+[0:41] tik
+[0:41] if you"
+[0:41] ina get
+[0:41] down \
+[0:42] पे ky
+[0:42] १८ ५
+[0:42] ४ ei ri
+[0:42] if you're genna get
+[0:42] over रह
+[0:42 - 0:43] down to somewhere
+[0:43] if volte otha get
+[0:43] over 7 to 8% body
+[0:43] fat
+[0:44 - 0:46] your bi
+[0:45] CEN #
+[0:45] ४५३
+[0:45] i आर मो
+[0:45] your MP aigne 5
+[0:45] gonna come
+[0:46] rea, oe?
+[0:46] साफ
+[0:46] 7 = oo
+[0:46] odyWeight 5
+[0:46] घछुणा॥३ ८076 at a
+[0:46] very)
+[0:47] war
+[0:48 - 0:49] and if*this is your
+[0:48 - 0:50] first
+[0:49] 738,
+[0:49] “HAE
+[0:49] first Rodeo of
+[0:49] gettin eC
+[0:50] and if,
+[0:50] ee of
+[0:50] is is your
+[0:50] getting down to 7 to
+[0:51] Vid
+[0:51 - 0:53] you might be
+[0:52] द (कै
+[0:52] ial
+[0:52] sur
+[0:53] 2०७ po
+[0:53] Sid
+[0:53] sury a of how
+[0:53] lig!
+[0:54] ery
+[0:54] me 4
+[0:55] vee
+[0:55] and ws.
+[0:56] ५४१९५
+[0:56] १७७७ yet
+[0:56] for y
+[0:56 - 0:57] and it's totally okay
+[0:57] ot talkingitoyyour
+[0:57] for you not to worry
+[0:57] abo vy ing
+[0:58] {OVvoul
+[0:58] because
+[0:58 - 0:59] ‘talking}
+[0:58 - 1:00] r श्र
+[0:59] vitoide
+[0:59] 20070
+[0:59] pecall ett lean
+[1:00] न्‍्य>क
+[1:00] because being lean
+[1:01] ७ ea
+[1:01] we 4
+[1:02] most people who are
+[1:02] afraid “75
+[1:03] V 40
+[1:03] 1% pia
+[1:04] Po eng है going in
+[1:05] १९३५ है
+[1:05] they end up going in
+[1:05] this 0 ye specific
+[1:05] circ
+[1:06] now | ऐ
+[1:07] कसर
+[1:07] tefeed
+[1:09] man
+[1:09 - 1:11] I have to do that
+[1:10] man we have
+[1:11] (97 9५
+[1:11] ke F
+[1:11] हवा
+[1:11] ब्लड
+[1:11] man you, just have to
+[1:11] get lighter
+[1:12] २३- लऑ
+[1:12] you 'छ to get
+[1:14] that's all it
+[1:15] Bir f
+[1:15] that's, की it is your
+[1:16] ९३७
+[1:16] tical
+[1:16] that's svt ct your
+[1:16] bod:
+[1:16] holds
+[1:17] wil
+[1:17] 1०५७ कुरान
+[1:17] and when you lose
+[1:19] १७७ ae
+[1:19] that
+[1:19] you'
+[1:19] a drop
+[1:19] Magee
+[1:20] so yeai@fon't
+[1:21] ५ «309
+[1:21] so yeah don't be
+[1:21 - 1:22] afraid of being light
+[1:22] ae ae
+[1:22] है? 14
+[1:22] so yeah
+[1:22] n't be
+[1:22] and ju: Ww that
+[1:23] so 2 है |

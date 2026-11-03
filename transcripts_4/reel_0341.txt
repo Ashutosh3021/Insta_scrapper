@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[341] https://www.instagram.com/reel/DYmgMS1SUTT/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] Thank you for watching.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:18] Online ladai settle nahi hui toh real
+[0:00 - 0:18] mein karli. Ab maza arha haii ®
+[0:00 - 0:18] Delhi k Gunde®® Pune k Gunde)
+[0:04] a -p का
+[0:04] yal
+[0:06] (0 ag a
+[0:06] ee: 1
+[0:06] erty
+[0:06] Delhi k 9ण10०ह ?७॥०।७०००छ
+[0:08] Delhi k 9010०ह Pune k Gunde

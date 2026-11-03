@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[832] https://www.instagram.com/reel/DLhzGvtB1iQ/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] - * This ignota good lowe
+[0:00 - 0:02] = <= Exercise
+[0:01] कक हू
+[0:01] 5 * This है lo
+[0:01] Cdl ——Rercise,
+[0:02] wis
+[0:02] This i
+[0:02] 18000 lowe!
+[0:03] जता सिि-ज.
+[0:04 - 0:06] कक हू
+[0:05] oe Ss ,
+[0:05 - 0:14] | This is
+[0:06] ee aes = ०---
+[0:08] Se a
+[0:09] 221 is
+[0:09] ee ee = ०
+[0:09] aan,
+[0:10] ना लि.
+[0:11 - 0:12] Stop hip flexor |
+[0:13] Wiollowfor |
+[0:13 - 0:14] Stop hip flexor maxxini
+[0:14] > for |

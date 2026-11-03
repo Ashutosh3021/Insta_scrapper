@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[316] https://www.instagram.com/reel/DZPkG_Js4BB/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Cause you know I love the players
+[0:02 - 0:05] And you love the game
+[0:05 - 0:07] Cause we are new and reckless
+[0:07 - 0:09] We'll take this way too far
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ail
+[0:00] gyyou kn
+[0:02] Shastay during "4
+[0:02] ? हैं
+[0:02] oer
+[0:02] हैः ys
+[0:02 - 0:04] liyvoury
+[0:02 - 0:04] hips
+[0:03] Sheng du
+[0:03] jar
+[0:03 - 0:04] fing le 4
+[0:03 - 0:04] (Even after strapping and belting)
+[0:04] Shastiy du
+[0:04] Rai
+[0:05] ‘a “the weight isinot in your :
+[0:05] १ > हर
+[0:06] ४ है 116 weight is mt inyour :
+[0:07] jill
+[0:07] fle
+[0:07] 1798 legexte
+[0:07 - 0:09] Dropithe.ego
+[0:08] It'sia leg i@
+[0:08] et fA.
+[0:09] 198 lege sa

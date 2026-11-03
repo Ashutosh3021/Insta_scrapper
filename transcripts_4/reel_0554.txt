@@ -1,0 +1,118 @@
+# model: ggml-large-v3
+========================================================================
+[554] https://www.instagram.com/reel/DUVzPHkjFyb/
+STATUS: OK
+DURATION: 0:57   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] You know, if I could go back in time and give the biggest piece of advice to myself, the advice would be to not listen to other people.
+[0:07 - 0:14] I've ruined so much of my progress. I've ruined so much of the career growth, which I could have done because I listened to other people.
+[0:14 - 0:21] I did not trust my own decisions. I did not try to learn from my own decisions or try to make my own decisions.
+[0:21 - 0:25] And that's something which I never want any one of you guys to do as well.
+[0:25 - 0:29] I want you guys to make a decision. OK, this is the decision which I'm going to make.
+[0:29 - 0:37] Whether it be related to fitness, whether it be related to your career, whether it be related to anything, make a decision, think about that and execute it.
+[0:37 - 0:43] I want you to blindly follow it. I want you to blindly follow it, not give a fuck about what anyone else is thinking.
+[0:43 - 0:51] It doesn't even matter if it works out or not. Even if it doesn't, at least you did the decision which you decided.
+[0:51 - 0:55] It doesn't matter if it didn't work out. It matters if you made that choice of your own.
+[0:55 - 0:56] Anyways, I'll be back soon.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] A शुक्ला» could
+[0:00] backiand
+[0:00 - 0:01] golbackintime
+[0:01] ifilicould
+[0:01] ckin
+[0:02] 11100
+[0:02] go backin ums
+[0:03] 2 SEE
+[0:03] advice (०11४5९ण
+[0:04] % ° OS aa
+[0:04] loch
+[0:04] advice to myself the
+[0:04] advice
+[0:05] would|be to
+[0:06] 5 te
+[0:06] would be to notlisten
+[0:07] 5 ही
+[0:07] 119४6 ruined
+[0:08] ang
+[0:08] iivaye ruined somuchi
+[0:09] progress, | haveiruified
+[0:10] much ofthe
+[0:11] कटी which
+[0:12] fines because
+[0:13] 7 oO ee
+[0:13] linet 1 बट ॥
+[0:14] “eo P
+[0:14] 2 ae:
+[0:14] ० के F
+[0:14] done because | listenjto)
+[0:14] otherpeople
+[0:14 - 0:15] fact
+[0:15] "नए लमाहणाबाारतः
+[0:16] के aa
+[0:16] linc not omnis my own
+[0:18] > इसाालालक- ee
+[0:18] did not try,
+[0:19] aad) not tryito learn
+[0:19] from
+[0:20] 92७ decisions on
+[0:21] OR करत.
+[0:21] Lie, अ
+[0:21] make my own
+[0:21] my own 21-11 On
+[0:22] > oo झलहारत-
+[0:22] that's
+[0:23] that's something whichill
+[0:23 - 0:24] never want
+[0:24] which
+[0:24] that s something) gi
+[0:24] one of,
+[0:25] 2 ae
+[0:25] कि. to do aswell
+[0:26] हैः
+[0:26] want ५ छः 7
+[0:27] — «पान झा
+[0:27] decision
+[0:28] > इलाशा--
+[0:30] Wihether it be relatedito)
+[0:31] related
+[0:32] Lite,
+[0:32] hether it
+[0:33] ४४॥॥€४॥८। it berelated (qo)
+[0:33] anything
+[0:33 - 0:34] हैं
+[0:34] Mak
+[0:35] > 2 झासामास॒तः
+[0:35 - 0:37] Make a decision, think:
+[0:36] about that
+[0:37] abo
+[0:37] diexecute)
+[0:38] Lwant
+[0:38] youto blindly,
+[0:40] ४६ 2 ऋचा
+[0:40] pee “सल+-
+[0:40] a» want at to)blindly,
+[0:41] a >» give
+[0:42] ee -ऋ्मतपथ--
+[0:43] ३७ or ae
+[0:43] nyone else is thinkin
+[0:44] ie even|matter,
+[0:45] works out or
+[0:46] Eve
+[0:48] Wo. S ae
+[0:48] a > did|the
+[0:49] ras
+[0:49] é "SP,
+[0:49] A > did the detisic
+[0:49] which
+[0:50] you
+[0:52] a कितना
+[0:52] a > matter if it
+[0:52] ididn't
+[0:53] A >» 15
+[0:54 - 0:55] . ox if youl made that
+[0:55] फिल्म
+[0:55] choicelof your
+[0:56] Pa ७

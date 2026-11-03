@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[339] https://www.instagram.com/reel/DYtl2oUTK-x/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] *outro music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Nahh wtf
+[0:00 - 0:09] —=—Sbl meetup
+[0:01] Sbl
+[0:01] नर्स
+[0:02] कक लत
+[0:02] व. अल
+[0:02] Hy Fr
+[0:02] <2 ee
+[0:02] Pees
+[0:03] = =. aNahh 4
+[0:03] ess
+[0:04] ale
+[0:04] #६55
+[0:05] हे आओ
+[0:05 - 0:09] Nahhwtf
+[0:07] Noy
+[0:07] Mee
+[0:08] iva
+[0:08] Kf wtf,
+[0:08] - हैः
+[0:08] Sor
+[0:08] २ प्र
+[0:10] "(के Nahhawi x
+[0:10] ५30 8 अदा पु
+[0:10] क्त
+[0:10] f il
+[0:11] Py tup
+[0:13] Nahh wtf
+[0:13] Sbl meetup
+[0:13] है २
+[0:14] INahh,
+[0:14] cup
+[0:15] Nahhiwitt,
+[0:15 - 0:17] “y meetup
+[0:16] की wz
+[0:17] Nahh
+[0:17] _ Sbli
+[0:18] Nahh wtf)
+[0:19] _ wtf
+[0:19] Sbi/meetup
+[0:19] बी अत:

@@ -1,0 +1,513 @@
+# model: ggml-large-v3
+========================================================================
+[280] https://www.instagram.com/reel/DZ_oB-rsVBv/
+STATUS: OK
+DURATION: 2:02   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] If you think you need to bulk in order for you to gain muscle, you've been lied to.
+[0:03 - 0:07] Now before we get into all of this, I want you to understand few terms clearly.
+[0:07 - 0:12] Now bulking means eating at a surplus of more than 400 calories to potentiate muscle growth.
+[0:12 - 0:19] Now the problem with bulking I have is that people take the idea of bulking and they use it as an excuse to pig out.
+[0:19 - 0:24] Now we have data showing that if you're overfeeding excessively and gaining excessive fat,
+[0:24 - 0:29] it will negatively affect your insulin resistance, which is not our main goal over here.
+[0:30 - 0:31] If you want to gain muscle.
+[0:31 - 0:35] Now a lot of people will listen to this and think that I want to maintain my body weight.
+[0:35 - 0:37] And that's not at all the case.
+[0:37 - 0:40] I would like to present you the term lean gaining phase.
+[0:40 - 0:47] Now our main objective during a lean gaining phase is to build muscle, not to gain weight.
+[0:47 - 0:49] Now it's not like weight gain won't happen.
+[0:49 - 0:52] Weight gain will happen, but that should not be your main objective.
+[0:52 - 0:58] Your main objective should be that you eat in such a way that your performance and recovery in the gym are both good.
+[0:58 - 0:59] Now a lot of people...
+[1:00 - 1:03] If not most, can build muscle at a 100 to 300 calorie deficit.
+[1:03 - 1:09] But will they be able to build muscle at such a rate when they'll be at a 0 to 200 calorie surplus?
+[1:09 - 1:15] Now I'm saying 0 because a lot of people think that only beginners can do body recomposition.
+[1:15 - 1:17] But that's not at all the case.
+[1:17 - 1:20] It is also for people who have a good fat percentage.
+[1:20 - 1:26] Now your calorie intake should be dictated by your progress, not your body weight on the scale.
+[1:26 - 1:28] Let me give you an example.
+[1:28 - 1:29] Now let's say Raghu's maintenance is good.
+[1:30 - 1:35] His workout is good, his progress is good and he has a lot of energy.
+[1:35 - 1:40] Now Raghu doesn't need to put extra calories because his weight is stalled.
+[1:40 - 1:43] Now after some time, Raghu's progress will be slowed down.
+[1:43 - 1:45] That's when Raghu should increase his calories.
+[1:45 - 1:48] Now this doesn't mean that he'll do a 300 calorie jump.
+[1:48 - 1:51] No, Raghu will increase his calories by 100.
+[1:51 - 1:55] And if his progress is still not increasing, then he'll increase it by another 100.
+[1:55 - 1:57] Now building muscle takes time.
+[1:57 - 1:59] You cannot rush this process by slamming extra calories.
+[1:59 - 2:01] So I hope that that's helpful.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Bulkingsissbad
+[0:00 - 0:03] For muscle.growth
+[0:01] 110॥15॥98 ७
+[0:01] पैक
+[0:01 - 0:02] —Bulki
+[0:01 - 0:02] If you have an attention span
+[0:01 - 0:03] Warning
+[0:01 - 0:03] Long video, skip to the end
+[0:01 - 0:03] Of a gold fish
+[0:02] NgaiSsbad
+[0:03] Bulkingiissbad
+[0:03] 1FVOu have an 1 span
+[0:04] करै्श्न्त
+[0:04] जहर
+[0:04] [६0 now
+[0:05] वध ह
+[0:06] understand
+[0:06 - 0:07] me ह
+[0:07] Lal
+[0:07] Tale]
+[0:07] stan
+[0:08] ae अर
+[0:08] 400+ “Td surplus
+[0:08] a be
+[0:08 - 0:12] ¥Y Bulking
+[0:09] ofl
+[0:09] onan
+[0:09] wor
+[0:09] a be bulking a ०
+[0:10] 2262२
+[0:10] at a surplus of
+[0:10 - 0:12] 400+ calorie surplus
+[0:11] at a surplus of more than 40
+[0:12] to potentiate muscle
+[0:12] न्ग््र
+[0:12] vee
+[0:13] uw” की
+[0:14] ica
+[0:14] कैट a
+[0:14] Jp ३
+[0:14] a blem with
+[0:14 - 0:16] श्र
+[0:15] 7. SF
+[0:16] ian, |
+[0:16] रब हि << a
+[0:16] ५ oy
+[0:16] Gos take the idea
+[0:17] aking or
+[0:17] RIGGING”,
+[0:17] Poo
+[0:17] a हर
+[0:18] 7. SF
+[0:18] usejit as. an excuse
+[0:20] SoM
+[0:20] 4१३
+[0:20] EXERCIAgy
+[0:20] Lay
+[0:20] Diabete
+[0:20] Metab Syndr Ob
+[0:20] 2020 Oct 9;13:3611-3616. doi: 10.2147,
+[0:20] 0MSO.S:
+[0:20] » Article notes » Copy
+[0:20] right and Licens
+[0:20] = My Yj
+[0:20] now we have
+[0:20 - 0:21] matior
+[0:20 - 0:23] Obesity, Insulin Resistance, and Type 2 Diabetes: Associations and
+[0:20 - 0:23] Therapeutic Implications
+[0:20 - 0:23] Yohannes Tsegyie Wondmkun
+[0:20 - 0:23] » Author information
+[0:20 - 0:23] PMCID: PMC7553667 PMID: 33116712
+[0:21] = Hy (4s
+[0:21 - 0:22] if you're
+[0:21 - 0:23] > Diabetes Metab Syndr Obes. 2020 Oct 9;13:3611-3616. doi: 10.2147/DMSO.S27
+[0:21 - 0:23] » Article notes » Copyright and Licens
+[0:22] Tian
+[0:22] PTs
+[0:22] FER cn
+[0:22] atic
+[0:22] 111॥।1९
+[0:22] Ace
+[0:23] IKI
+[0:23] nformatio
+[0:23 - 0:24] and gaining
+[0:24] “thar,
+[0:24] FEN sng
+[0:24] In individuals
+[0:24] oxidative stress, lipodystrophy, and genetic backg
+[0:24] ound ha
+[0:24] ea role in insulin resistance.
+[0:24] fal
+[0:24 - 0:27] Abstract
+[0:24 - 0:27] Obesity is a triggering factor for diabetes associated with insulin resistance. In individuals
+[0:24 - 0:27] who are obese, higher amounts of non-esterified fatty acids, glycerol, hormones, and pro-
+[0:24 - 0:27] inflammatory cytokines that could participate in the development of insulin resistance are
+[0:24 - 0:27] released by adipose tissue. Besides, endoplasmic reticulum stress, adipose tissue hypoxia,
+[0:24 - 0:27] However, no effective drug therapy was developed for type 2 diabetes mellitus targeting
+[0:24 - 0:27] these physiological factors. This is might be due to a lack of agreement on the comprehensivd
+[0:25] yet to my ins
+[0:25 - 0:27] oxidative
+[0:25 - 0:27] tres:
+[0:25 - 0:27] lipodystrophy, and genetic background have a role in insulin resistance.
+[0:26] Tey
+[0:26] REM sor,
+[0:26] = My (4
+[0:26 - 0:27] been negative’
+[0:27] Cor
+[0:28] ‘ADE
+[0:28] N rs
+[0:28] 2 whichis
+[0:28 - 0:30] - Tihntsis not our
+[0:29] yas >
+[0:29] ४४1॥1७11
+[0:29] ॥ग्रात्ाण goal
+[0:30] Son
+[0:30] i अर
+[0:31] Xx J 7
+[0:31] if you want to gain muscle
+[0:32] ‘lon!
+[0:32] maintain Iny bodyweight
+[0:32 - 0:33] bhi Bohot-sare log ye cheez
+[0:32 - 0:35] lkshouldsjust eat to
+[0:32 - 0:35] then?
+[0:33] से a
+[0:33] ko sunege aur
+[0:33] eal
+[0:33 - 0:35] हो my bodyweight
+[0:34] Ronis
+[0:34] lyshoul
+[0:34] just eat to
+[0:34] main ‘ie my
+[0:34] Ki Mujhe mera
+[0:35] Only
+[0:35] 5|10५9।
+[0:35] Ki Mujhe mera body weight
+[0:35] maintain-
+[0:35] ४०. i
+[0:36] | sho
+[0:36] Kel 97
+[0:36] my bod
+[0:36] ywe
+[0:36] pore
+[0:36] skarna or
+[0:36] PAA
+[0:37] Novit depend
+[0:37] lal
+[0:37] ? (karna or aisa-bilKul b
+[0:38 - 0:39] | would like:to p
+[0:39] Veo
+[0:39] 5-5 ६६]
+[0:40] “SR y
+[0:40] EXERC I,
+[0:40] 1[ए०पात 1 present you
+[0:40] = ‘7 * Sumi
+[0:41] 1 कि
+[0:42 - 0:43] main
+[0:43] sae
+[0:43] ctive during a lean
+[0:43] “हे 33
+[0:45] x ctive: Build Musel
+[0:45] muscle
+[0:46] Build
+[0:46] LNA
+[0:46] ISG
+[0:46] Loy
+[0:46] gal
+[0:46] Walsh
+[0:46] is to uA
+[0:46 - 0:47] Notato
+[0:47] eetive: Buil
+[0:47] gain-weight
+[0:47] is to build muscle not to gain
+[0:47] weight |
+[0:49] हे है
+[0:49 - 0:50] Weight'gain
+[0:50] pe occu
+[0:50] weight gain weight gain
+[0:51] Buttit
+[0:51] Idn’t
+[0:51] Lod
+[0:51 - 0:52] Be aimaimggoal
+[0:52] but that sho
+[0:52] q your
+[0:52] main
+[0:52 - 0:53] but that shoul
+[0:53] ¢ sButyi
+[0:53] ouldn
+[0:53] Be al mainng
+[0:53] Cal
+[0:53] wie
+[0:54] hee
+[0:54] sea
+[0:55] alli
+[0:55] SYASENMS
+[0:55] =at to Tu
+[0:55] nee
+[0:55] pou
+[0:55] And
+[0:55] ACC
+[0:56] Main objective :
+[0:56] Eat to fuel performance
+[0:56 - 0:58] 5 recovery
+[0:57] 01016 ८12६
+[0:57] et to (uel peritommancs
+[0:57] e OM,
+[0:57] ०५३
+[0:57] a Par]
+[0:57] het
+[0:58] 55 aa
+[0:58] 21916 41६
+[0:58] Im nl
+[0:58] to fuel periio
+[0:58] 7, है
+[0:58] cc T_T
+[0:58] ० कु
+[0:59] Ina ‘3
+[1:00] [ can bu
+[1:00] muscle
+[1:00] Invaldetie icit
+[1:01] You can 3 musele
+[1:01 - 1:03] In a deficit
+[1:02] | can build 8 le
+[1:03] anfbuild muscle
+[1:04] " सअए
+[1:04] क्र |
+[1:04] it be हु
+[1:04] the samejcomparedfto
+[1:04] f= = ie
+[1:04 - 1:08] 200keal Surplus? 4
+[1:05] कफ रस:
+[1:05] छशीः
+[1:05] J A it be
+[1:05] the same
+[1:05] €ompared to
+[1:05] हे a
+[1:06] छिपा jwould it be
+[1:06] एतः .
+[1:06] a el
+[1:06 - 1:07] hi) the same compared
+[1:07] kcal surplus?y
+[1:07 - 1:08] ~ But would it be»
+[1:08] Use oo comparedito)
+[1:08] — fal
+[1:08] lot
+[1:09] बू 4
+[1:09 - 1:10] tine ©
+[1:10] \n\ af
+[1:11] 10113 0)
+[1:11] 4९ ८). 4 ge
+[1:11] ८ है
+[1:12] Aas
+[1:12] प्र
+[1:12] a जन
+[1:12] > (222
+[1:12] aioe.
+[1:12 - 1:13] On iine ©
+[1:13] Lae
+[1:13] a की al
+[1:14] की on the 0.
+[1:14] — आाछ
+[1:14 - 1:16] Body recomp
+[1:14 - 1:16] Only beginner exclusively
+[1:15] i. recomp
+[1:15 - 1:16] GUS On the 0
+[1:16] but as a
+[1:17] - the a |
+[1:17 - 1:18] but as a bilkul be neye it/is
+[1:18] ad on the O
+[1:18] | जाकर:
+[1:18] also for people
+[1:19] Focus on the 0
+[1:19] have good *
+[1:19] jinke pas
+[1:19 - 1:20] PBR you’re a candidate
+[1:20] FOCUSES A ns (0)
+[1:20] Qui have good enough
+[1:20] jinke pas fat percentage
+[1:20] achka
+[1:21] ७९७!
+[1:21] Sry
+[1:21] owe
+[1:21] 409
+[1:21] Waronane
+[1:21] Dictated by progress
+[1:21] Qu है
+[1:21] 0५५ १७
+[1:21] aad
+[1:21] etal
+[1:21] ny TU
+[1:21] awit
+[1:21] LP LS
+[1:21] EB De
+[1:21] NS | Cor Sswl
+[1:21] 1. खि
+[1:21] Ss) Uf
+[1:21] 785) 7018 +
+[1:21 - 1:24] —_— calories intake Solid bee
+[1:22] Dle
+[1:22] me intake,should beg
+[1:22] 1409 67०० by progress
+[1:22] Mit
+[1:22] OTE
+[1:22] KSHA
+[1:22] MIL
+[1:22] 46४४
+[1:22] &७[४५३७०/७४०
+[1:22] sume?
+[1:22] २10
+[1:22] War
+[1:23] Bigamic
+[1:23] epi
+[1:23] Dictated eo bo ae
+[1:23] RRorein
+[1:23] ert
+[1:23] १09
+[1:23] houl
+[1:23] "३ है।
+[1:24] ctatedi|by, "| es ey
+[1:24] amg)
+[1:24] li¢tated) by your progress
+[1:25] Gumiece
+[1:25] No Wo)
+[1:25] @nyscale
+[1:25] L yo
+[1:25 - 1:26] Unbody weig
+[1:26] “1070
+[1:26] cale
+[1:26] Wats
+[1:26] "eto
+[1:26] weight on the”
+[1:26] SGall
+[1:27] ase listen
+[1:27] “Rio
+[1:27] bs exa
+[1:27] mpl
+[1:27] foul
+[1:27 - 1:28] Sos.
+[1:28] रहे
+[1:28] जाल आज,
+[1:28] = See
+[1:31] Eat
+[1:31] E maintains
+[1:31] weight eating
+[1:31] 2300kcals
+[1:31] comesegratnan 2००
+[1:32] pee
+[1:32 - 1:33] छाल paerol®
+[1:33] बल 1 जय
+[1:33] हे द्इ ‘good हि
+[1:34] है ७
+[1:35] Energy leve
+[1:35] high
+[1:35] len
+[1:35] ae हु
+[1:36] ३०७ ~ weed
+[1:36] for Raghuijito up his keals
+[1:36] Just becauseunis weighty
+[1:36 - 1:39] Stalled
+[1:37] ifr }
+[1:37] KIVNEE ITC > now
+[1:37] for Raghu to up; bis. k
+[1:37] cals
+[1:37] Siveigh
+[1:37 - 1:39] wJuStipbecause his jy
+[1:38] REN
+[1:38] hive
+[1:38] re is/nown
+[1:38] eed
+[1:38] 101
+[1:38] aghu,to, up
+[1:38] Vel
+[1:38] Gi) कमा 218|100
+[1:39] Tere)
+[1:39] | fol
+[1:39] i to upfhisikeals
+[1:39 - 1:40] ie, is no need
+[1:40] “| fOr Kaghnupto up 1
+[1:40] Just
+[1:40] sta F
+[1:40] Aah
+[1:41] मर, timespasses
+[1:41] ily
+[1:41] ae OS
+[1:41 - 1:44] Performanée’g
+[1:41 - 1:44] bad
+[1:41 - 1:45] Raghus progress
+[1:41 - 1:45] slows@down-and
+[1:42] all
+[1:42] ae "Eg
+[1:42] 203
+[1:42 - 1:43] ae times timespasses,-
+[1:43] week
+[1:43] NO Progress
+[1:43] हैँ
+[1:43] का रगगजगंट
+[1:44] 8 waels Of NO Progress
+[1:44] rae नाश
+[1:44] assesing \y
+[1:44] Rag
+[1:44] hus
+[1:44] )10 0/॥855
+[1:44] ae Bg
+[1:44] ais
+[1:45] Of NO PKs)
+[1:45] gress—
+[1:45] eve
+[1:45] As time passes
+[1:45] »training
+[1:45] ~ Perfonmanc i bad
+[1:46] abi iskam muta बल्ब mutabap—
+[1:47] Gi स्थ
+[1:47 - 1:48] B00 jump |
+[1:47 - 1:48] ~ abi iskanw mutabap yenaki
+[1:48] "han
+[1:48] क्र
+[1:49] mariga nay
+[1:50] Vas
+[1:50] Increases
+[1:51] लिन
+[1:51] a ae
+[1:51] +100
+[1:51] hund
+[1:51] incr@esedeslgfesby ==
+[1:52] हा है
+[1:52] a@Afters me, of
+[1:52] No significant +E
+[1:52] incised
+[1:52] mesby ——
+[1:52] progress
+[1:53] eeksrof,
+[1:53] No signi cag pPhogress ६.
+[1:53] ~firbi nadirra
+[1:54] Prey’
+[1:54] yu SX
+[1:54] WN Dy
+[1:54] NDS
+[1:54] PON
+[1:54] fir) naltra
+[1:55] 7 (10) 0
+[1:55] ws NI
+[1:55] fasinates
+[1:55] ali
+[1:56] f करना
+[1:56] idee
+[1:56 - 1:57] salt
+[1:57] buficitreg nits:
+[1:57] cle ta
+[1:58] i fh
+[1:58] 2७ takes
+[1:58] pu not rushethi
+[1:58] rei
+[1:58] om T
+[1:58] you cannot rush
+[1:58] आसार
+[1:58 - 1:59] Building rv
+[1:58 - 1:59] Time, yo
+[1:59] 175६
+[1:59] का takes
+[1:59] 16०
+[1:59] ot rusipthis AY
+[1:59] wi ii
+[1:59 - 2:00] you cannot rush this process
+[2:00] bed
+[2:00] Building muscle ta
+[2:00] ime; you cannot tn
+[2:00] BLE’ 8 7
+[2:00] by slamming extra calories
+[2:01] HSE
+[2:01] 5 za
+[2:01] so | hope that'

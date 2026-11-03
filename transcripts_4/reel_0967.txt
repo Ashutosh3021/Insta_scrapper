@@ -1,0 +1,79 @@
+# model: ggml-large-v3
+========================================================================
+[967] https://www.instagram.com/reel/DGIrA_8hdPQ/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] is one big common mistake which a lot of people make when they bench the other day i was just
+[0:04 - 0:09] with my client i was just observing how he does his session and this is exactly what i saw
+[0:09 - 0:18] now as you can see in this video you can see that he's able to lower the weight properly but
+[0:18 - 0:23] as he comes down he lets go off the weight and he uses something called the stretch shortening cycle
+[0:23 - 0:28] to lift the weight back up so that he can get it up again now stretch shortening cycle inherently
+[0:28 - 0:34] is not really a bad issue in terms of injury risk as long as it's being progressively overloaded but
+[0:34 - 0:39] if our main goal is hypertrophy we need to maximize the amount of mechanical tension
+[0:39 - 0:44] with being provided to that local musculature and how you maximize mechanical tension by
+[0:44 - 0:49] reducing elastic tension which is being produced by your body and you increase the amount of
+[0:49 - 0:52] mechanical tension which is being produced by the body which means that you have to
+[0:52 - 0:56] control the weight down and not bounce it off your chest so yeah hope that helps
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Bench Press’
+[0:00] Mechnique
+[0:00] = oon
+[0:00] is one bigicommon mistake)
+[0:01] ms | Br
+[0:01] Technique Analysis
+[0:01] pet
+[0:01] which a lot of people “>>
+[0:01] जुट
+[0:01 - 0:09] Mistakes
+[0:02] ‘fl AnalysisBenchibr
+[0:02] esl
+[0:02 - 0:03] ESS,
+[0:02 - 0:03] ‘when| they bench’
+[0:03] ue Analysis | Rr
+[0:04] wee
+[0:04] ied day | was:
+[0:04] ith
+[0:04 - 0:09] Technique /Analysis : Bench Press
+[0:05] 20028: |
+[0:05] ६ observing how he
+[0:06] Fa he
+[0:06] 1 was) just observing hi
+[0:07] Pad his session andithis is
+[0:08] exactly what! 5
+[0:10] a oat
+[0:10 - 0:12] Wel
+[0:11] Lise
+[0:11] 1७ || a
+[0:12] ily बा
+[0:13] | in this
+[0:13] now as you “a
+[0:14] now as you can see in
+[0:14] ae j
+[0:15] video ५७४. see
+[0:15 - 0:16] that hi \
+[0:16] ideo ys
+[0:17] जे 97
+[0:17] 23 4
+[0:17] Tay
+[0:17 - 0:18] ‘ properly but butas|helcomes)
+[0:19] down he Tots goer thewerent
+[0:20] fae
+[0:20] down he lets go of the\weightt
+[0:20] ber
+[0:20] है 4
+[0:21] and he uses somethingjcalleci
+[0:22] aa ५
+[0:22] the जि
+[0:22] shortening cy
+[0:24] Me 2
+[0:26] sft
+[0:30] her |
+[0:31] he J
+[0:34] Pit
+[0:36] pA 9s
+[0:51] 400]
+[0:56] हैक

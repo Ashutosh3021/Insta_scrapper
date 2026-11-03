@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[217] https://www.instagram.com/reel/DbVEVseM5gT/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] You know how some people say that, oh, if you're 60 kgs or under, your abs don't count.
+[0:03 - 0:05] I want to add something to that.
+[0:05 - 0:11] If you are above 15% body fat, your arm measurements, your body weight, you cannot boast about.
+[0:11 - 0:14] Because those few metrics which you're trying to boast about is just fact.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] indei
+[0:00] If you'reé
+[0:00] (9507
+[0:00] 1030॥७०॥/४८०५॥
+[0:00] omy
+[0:00] Me onan tht
+[0:00 - 0:01] You'know as 5,
+[0:01] Ifiyoumneleokgsforun
+[0:01] lonst;
+[0:01] say that ohi
+[0:02] If you!
+[0:02] Yourabssidoniticou
+[0:04] she
+[0:05] ohy
+[0:05] हैं
+[0:05] | ber
+[0:05] Iwant (० “औ sol
+[0:06] om 7
+[0:06] BA) 2
+[0:06] PP री. आई
+[0:06] we. noon हैंी॥ै
+[0:07] tied
+[0:08] Mo ee mtth
+[0:08 - 0:09] fat,
+[0:09] bow
+[0:09] measuremi
+[0:09] your
+[0:09] Bo ०३ mitt
+[0:10] uit
+[0:11] gift
+[0:11] becau:
+[0:11] ott
+[0:12] roe 3
+[0:12] Nove
+[0:13] ४११४७
+[0:13] © a Mires

@@ -1,0 +1,130 @@
+# model: ggml-large-v3
+========================================================================
+[960] https://www.instagram.com/reel/DGanhnrooR8/
+STATUS: OK
+DURATION: 1:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Your personal trainer might not be as smart as you think
+[0:02 - 0:04] Have you ever had like a gym trainer come up to you
+[0:04 - 0:07] Questioning you about what program are you running
+[0:07 - 0:09] And you know like something kind of felt off
+[0:09 - 0:12] I mean a lot of trainers act like they know everything
+[0:12 - 0:17] But in reality, a lot of them cannot even read a proper training plan
+[0:17 - 0:21] So far, I had two of my clients come up to me and tell me this one specific thing
+[0:21 - 0:23] That a gym trainer came up to them and asked them
+[0:23 - 0:26] What program are you running and when they have a look at the program
+[0:26 - 0:29] To their surprise, they don't even know what they're reading
+[0:29 - 0:31] One of the trainers came up to them and said
+[0:31 - 0:34] Oh, I have a master's degree in sports and exercise science
+[0:34 - 0:38] And if that's really true, what is he doing in a local gym?
+[0:38 - 0:41] Another guy couldn't even read a periodized plan properly
+[0:41 - 0:46] Just think about it, if a guy cannot even read a periodized plan properly
+[0:46 - 0:47] How is he supposed to train you?
+[0:47 - 0:49] Now just because someone is their trainer
+[0:49 - 0:53] That doesn't really mean they know how to get you the results which you want
+[0:53 - 0:58] Most of these trainers follow a generic plan built by their gym owners
+[0:58 - 0:59] Or something like that
+[0:59 - 1:02] None of these trainers conduct exercise testing
+[1:02 - 1:05] If you ask any of these trainers
+[1:05 - 1:06] What is my muscular endurance?
+[1:06 - 1:08] What is my upper body strength?
+[1:08 - 1:09] What is my lower body strength?
+[1:09 - 1:11] What is my VO2 max?
+[1:11 - 1:14] None of them will have any answer to all of that
+[1:14 - 1:17] If you're tired of these random plans
+[1:17 - 1:19] Give me the word coach and let's get started
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] lod
+[0:01] al trainer mighE n
+[0:01] be as
+[0:04] you ever had ८
+[0:04] me up to you
+[0:05] [७०5६
+[0:06] ram
+[0:06] ig y' 9. what
+[0:07] eles
+[0:07] ram ar
+[0:10 - 0:12] @ lot of trainers act h (
+[0:11] f trainers a
+[0:11] know
+[0:12] know everything
+[0:15] lot of them cannot elf
+[0:16] tte,
+[0:16] inot even
+[0:16] aining plan
+[0:18] री अं
+[0:18] me के
+[0:19] bak}
+[0:19] lients ८:
+[0:20] हटा
+[0:22] am 5
+[0:22] ler came up
+[0:24] omy
+[0:24] a ar
+[0:25] bebe]
+[0:25] FE 9
+[0:25] then they
+[0:26] hen they have’
+[0:26] at the prograi
+[0:27] गा जमा
+[0:28] even know whi
+[0:30] one of their trainers
+[0:30] 1९. थे]
+[0:32] ter's degree
+[0:33] a master's degree ii
+[0:33] ports
+[0:34] ter
+[0:34] legree:
+[0:34] and exercise scie!
+[0:36] if that's really true
+[0:38] jing in a local
+[0:38] कुक
+[0:40] read
+[0:41] Wey
+[0:41] trys
+[0:41] id a periodi: aa
+[0:43] ifa
+[0:45] juy cannot even
+[0:45] Periodised plan
+[0:46] Cannot even read
+[0:46] riodised plan properly
+[0:47] supposed
+[0:48] है 2
+[0:50] aay
+[0:50] aoe
+[0:50] ip doesn't है." ‘
+[0:51] Pm 0.
+[0:52] bh Ww Tad <A
+[0:53] - they khow how to get ५
+[0:53] the results which you \
+[0:54] Pad
+[0:55] ils
+[0:55] of these
+[0:55] a generic
+[1:00] १६१
+[1:00] lon't know‘ol
+[1:02] ine of these
+[1:02] aint
+[1:02] onduct exerci:
+[1:03] श्र
+[1:07] hid
+[1:09] my lower bo:
+[1:09] rength
+[1:09] ite)
+[1:10] my ४०2
+[1:11] my V0O2Max
+[1:13] of them will hy
+[1:14] aie
+[1:15] re ae
+[1:16] हर 4
+[1:16] random
+[1:17] क्र
+[1:18] हैं!
+[1:18] j i. the word DI
+[1:18] the word code
+[1:19] alee
+[1:19] ‘and let’
+[1:19] t started

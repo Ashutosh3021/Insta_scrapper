@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[232] https://www.instagram.com/reel/DbDZJOTMphN/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] वो लम है वो बागते कोई न जाने कि कैसी राते वो बरसाते वो भीगी भीगी आदे
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fant
+[0:01] Anything fonsthne)
+[0:01] emt
+[0:01 - 0:03] Frequency)
+[0:02] 2 ee
+[0:02] for the optimal _
+[0:03] ythingjfor the optimal
+[0:05] ial
+[0:06] > a that to go to the
+[0:06] m gym btw
+[0:07 - 0:09] “casual”
+[0:10] Ome
+[0:10 - 0:18] Casualid day in MGmbai ae हि
+[0:12] Sia
+[0:14] करता."
+[0:14] PG e
+[0:15] Casual(day.in
+[0:15] \op |S
+[0:15 - 0:17] mbai
+[0:17] Casu
+[0:17] ane
+[0:19] dayjin Mumbai _~
+[0:19] basalt
+[0:19] ee मियन
+[0:19] = toe |
+[0:20] Neahj
+[0:20] Castiald 7108 a

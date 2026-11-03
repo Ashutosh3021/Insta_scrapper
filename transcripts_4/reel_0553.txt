@@ -1,0 +1,91 @@
+# model: ggml-large-v3
+========================================================================
+[553] https://www.instagram.com/reel/DUYCYQGjH96/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I want you to be mine again, baby, ay
+[0:03 - 0:08] I know my lifestyle is driving you crazy, ay
+[0:08 - 0:11] I cannot see myself without you
+[0:11 - 0:14] We call it peace, don't you know we do
+[0:14 - 0:16] I go out of my way to please you
+[0:16 - 0:19] I go out of my way to see you
+[0:19 - 0:22] And I want you to be mine
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 0 book
+[0:00] awit
+[0:00] niques
+[0:00 - 0:01] i gain है!
+[0:01] atinggfetog book
+[0:01] with
+[0:01] Tey
+[0:02] 40९
+[0:02] fe log book
+[0:03] “The feeling cs
+[0:03] tin
+[0:03] ing the
+[0:03] ring llog 0006 =
+[0:03] fechniquers=s
+[0:04] + elin
+[0:04] Rio |
+[0:04] ates
+[0:04] सा. मम.
+[0:04 - 0:19] with goodltec
+[0:05] ello 1006
+[0:05] ating:
+[0:05] igus 72S
+[0:05] कली
+[0:06] Oa कि
+[0:06] log book
+[0:06] sale
+[0:06] haw
+[0:07] % iteelin
+[0:07] ig the e'log boo!
+[0:07] bes
+[0:07] ion
+[0:08] nggielog
+[0:08] ibook
+[0:08] fad nique
+[0:08] bos
+[0:08] ms ZA
+[0:08] Mal
+[0:09] ३३५
+[0:09] रु feelin
+[0:09] ‘thi
+[0:09] with
+[0:09] chnique >>> 5
+[0:09 - 0:13] e log boo!
+[0:10] 901 the log bool
+[0:10 - 0:12] % iteelin
+[0:11] lingjof beat
+[0:11] 5 00३४०:
+[0:11] a1 PY
+[0:12] ak Beating,the the’ Ma 1०0
+[0:12] 25% २२
+[0:12] Pai
+[0:13] seu
+[0:13] The feelingof 088
+[0:13] iditechniqueze
+[0:13] वन्य
+[0:14] डर eelin
+[0:14] हैँठि॥ 29
+[0:14] 10g boo!
+[0:14] 45६
+[0:15] abies
+[0:15] githe log bool
+[0:15 - 0:17] ॥॥111 go
+[0:15 - 0:17] VES
+[0:16] कु हा ‘ep Sha fe log book
+[0:16] je4 miquezz5
+[0:17] 1110101 b
+[0:18] ‘Sect boo =
+[0:18] ite
+[0:19] tet
+[0:20] ig, the!
+[0:20] rt boo =
+[0:20] Mith goodlet r%
+[0:21] ig thellog books =
+[0:21] with go fe

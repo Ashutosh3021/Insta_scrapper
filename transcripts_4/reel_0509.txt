@@ -1,0 +1,70 @@
+# model: ggml-large-v3
+========================================================================
+[509] https://www.instagram.com/reel/DVL4P5qjB8r/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] I'm out.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] बहन
+[0:00] _ ‘dust letting
+[0:00] Tel
+[0:01] il letting you know
+[0:02 - 0:03] eo 2. don’t really have
+[0:02 - 0:03] tollean on.the seated:cur. Is §
+[0:02 - 0:03] like this P= a.
+[0:03] ee ए
+[0:03] Oo -- ी
+[0:04] arg
+[0:04] join
+[0:04] O)CAUSE ars
+[0:04] it iff
+[0:04] FENCE!
+[0:04] toy
+[0:04] a अब
+[0:04 - 0:05] nificantic
+[0:04 - 0:06] leaningi
+[0:05] différenc
+[0:05] use asi |
+[0:05] a WW
+[0:05] MS है
+[0:05] न्ण | ~4
+[0:05 - 0:08] going
+[0:06] snyed ii
+[0:06] nee
+[0:06] sig 11124
+[0:06] tlt
+[0:06] pas
+[0:07] अप 1G
+[0:07] use | | nificantdifféren
+[0:07] vies
+[0:08] पु] 2 t
+[0:08] ntdifferen
+[0:08] se asig
+[0:08] thi.
+[0:09] me \\\ tll
+[0:09] ५ Pe Pa क्र
+[0:09] ree
+[0:09 - 0:10] alfyoulfeeliyourew,
+[0:09 - 0:11] leito perform better withthe ss
+[0:09 - 0:11] back support: =~
+[0:10] 4? {Wl
+[0:10] ‘Git
+[0:10] a ce
+[0:11] Lath feelyourew”,
+[0:11] ९७ || till
+[0:11] रतन
+[0:12] Cam
+[0:12] 8) Pe
+[0:12] ait
+[0:12] reiisino perm
+[0:12] usin
+[0:12] 1 है
+[0:12] 411,
+[0:12] ss G
+[0:13] ris Nn
+[0:13] Gil
+[0:13] 10 18 eminlsin

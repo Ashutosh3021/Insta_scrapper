@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[28] https://www.instagram.com/reel/DemFDEvsrEx/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Don't wait to meet you
+[0:04 - 0:07] So join the animatronic family
+[0:07 - 0:08] We open...
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Maybe
+[0:00 - 0:08] Training/Nutrition/Anything
+[0:00 - 0:08] Been spamming side delts and they're
+[0:00 - 0:08] not growing at all what do I do
+[0:02 - 0:03] © Stop'spamming them?
+[0:04] i ७100 seeming them’
+[0:05 - 0:07] F Use recoverable volume?
+[0:08] F Use 06 vol

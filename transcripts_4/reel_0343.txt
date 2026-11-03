@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[343] https://www.instagram.com/reel/DYj3A4SsJnX/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Kuso
+[0:00] | have 80॥61800॥%
+[0:00] Dy he
+[0:00 - 0:03] For you
+[0:00 - 0:11] Training/nutrition/anything
+[0:00 - 0:11] Not losing weight even though I'm ina
+[0:00 - 0:11] 1100cal deficit. | weigh my food too.
+[0:01] छल 3
+[0:01] Ihave 10
+[0:01] bye
+[0:02] | have some news?
+[0:02] by (Aer
+[0:03] GO 3
+[0:03] प्र
+[0:03] | have some i
+[0:03] bes
+[0:04] हैक
+[0:04] > eed
+[0:04] \ Wy ३
+[0:04 - 0:06] You're not ina 1100k
+[0:04 - 0:08] Deficit
+[0:05] क्र
+[0:05] Age
+[0:06] Cal
+[0:06] जे ऊँ
+[0:07] wha
+[0:07] ers
+[0:07 - 0:08] fayou were ina 1100keal
+[0:09] e all
+[0:09] {tom
+[0:09] Sib
+[0:09] You'd be crop weigh
+[0:10 - 0:11] ou'd be dropping weight
+[0:11] Lal

@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[53] https://www.instagram.com/reel/DeXGvJ9sazW/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] Oh, oh, oh, oh, oh.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Went to my
+[0:00 - 0:01] Society gym today
+[0:00 - 0:01] Which lacked weights
+[0:02] Had:toimpr
+[0:02 - 0:03] Aor
+[0:02 - 0:04] VISE :
+[0:02 - 0:06] lly
+[0:03] वक्त
+[0:03] oo ee
+[0:03] WARS =
+[0:03 - 0:09] Had
+[0:03 - 0:09] toimprovi
+[0:04] eee,
+[0:04] हनन
+[0:04] ors
+[0:05] Pas
+[0:05] 1०1०
+[0:06] rit
+[0:06] 003७
+[0:06] हैंड
+[0:06] wm -d
+[0:07] Bae. ॉछ
+[0:07] Cee | —
+[0:07] rif
+[0:07] e ae
+[0:07 - 0:09] Aor
+[0:08] # क्र,
+[0:08] l_ ep
+[0:08] all
+[0:08] Vis
+[0:09] Mild

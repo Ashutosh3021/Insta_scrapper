@@ -1,0 +1,418 @@
+# model: ggml-large-v3
+========================================================================
+[80] https://www.instagram.com/reel/Dd9OYjpsCwv/
+STATUS: OK
+DURATION: 2:49   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] If I have to choose only 8 exercises for muscle growth, the number 1 is going to be a behind
+[0:05 - 0:09] the neck shoulder press or a shoulder press in a frontal plane.
+[0:09 - 0:13] The reason we are choosing a behind the neck shoulder press or a shoulder press in a frontal
+[0:13 - 0:18] plane is purely due to the fact that it is going to hit the side delts and the front
+[0:18 - 0:23] delts pretty effectively, making it a really good choice for one of those 8 exercises.
+[0:23 - 0:27] The second exercise on the list is going to be a leg extension.
+[0:27 - 0:32] The reason we are not choosing a squat pattern is during a squat pattern, your rec fem is
+[0:32 - 0:36] in a disadvantageous position, which means that you're not going to be able to train
+[0:36 - 0:38] the entirety of the quads effectively.
+[0:38 - 0:43] If we are only limited to 8 exercises, I would go with a leg extension.
+[0:43 - 0:46] Third exercise is going to be a stiff leg deadlift.
+[0:46 - 0:50] During certain range of motion of the stiff leg deadlifts, there are different muscles
+[0:50 - 0:51] which have better leverage.
+[0:51 - 0:55] The stiff leg deadlift is going to be a really good exercise for your hamstring, for your
+[0:55 - 0:57] adductors and for your glutes.
+[0:57 - 1:02] Which makes it a very good exercise if we are only limited to 8 exercises.
+[1:02 - 1:05] The number 4th is going to be a low incline smith press.
+[1:05 - 1:10] The reason we are choosing a low incline and not a flat is because there is going to be
+[1:10 - 1:13] a large amount of shoulder flexion, which means we are going to be able to hit the clavicular
+[1:13 - 1:14] pecs very effectively.
+[1:14 - 1:18] But there's also a good amount of horizontal adduction, which means that we are going to
+[1:18 - 1:23] be able to hit the sternal and the costal regions of the pecs pretty effectively as well.
+[1:23 - 1:27] The next exercise on the list is going to be a wide grip.
+[1:27 - 1:29] The next exercise on the list is going to be a wide grip pulldown or wide grip pullup.
+[1:29 - 1:34] The reason we are choosing this is because the capability of loading is very high.
+[1:34 - 1:36] The long term progression is very high.
+[1:36 - 1:40] Because we are forced into a frontal plane position, we are going to be biasing the lower
+[1:40 - 1:41] lats a little bit more.
+[1:41 - 1:45] But at the same time, it doesn't mean that the upper lats are not being trained.
+[1:45 - 1:49] The next exercise on the list is going to be a wide grip row.
+[1:49 - 1:52] The reason we are choosing a wide grip row is because the horizontal abduction component
+[1:52 - 1:54] of it is done by the radars.
+[1:54 - 1:56] Another reason why we are doing a wide grip row is purely because
+[1:56 - 2:01] when we row backwards, we are also going to get a good amount of scapular retraction.
+[2:01 - 2:04] Now because we are going to get good amount of scapular retraction, we are going to be
+[2:04 - 2:10] training the traps effectively as well, which makes this a very good exercise if we are
+[2:10 - 2:13] limited to a certain amount of exercises.
+[2:13 - 2:16] The next two exercises on the list is going to be a push down and a curl.
+[2:16 - 2:17] Pretty explanatory.
+[2:17 - 2:21] The push down, which is going to be performed with the shoulder in a neutral position so
+[2:21 - 2:23] that we can target all three heads of the triceps more.
+[2:23 - 2:26] The long head is going to be targeted a little bit more better.
+[2:26 - 2:30] But still a pretty good exercise for the overall triceps growth.
+[2:30 - 2:32] The curl, do not give a fuck.
+[2:32 - 2:37] Just pick any curl which you find fun and which you want to progress in and just keep curling.
+[2:37 - 2:40] It is going to be a very good exercise for all of the elbow flexors.
+[2:40 - 2:43] Yes, you can bias different regions with different kinds of curling variants.
+[2:43 - 2:48] But if you are limited to eight exercises, this is the exercises which I'll be choosing.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 9 ७0७
+[0:00 - 0:02] Only 8’exercise
+[0:00 - 0:03] ~ For growth?
+[0:01] nlveexer
+[0:01] 4 oi
+[0:01] igh
+[0:01 - 0:02] CISE
+[0:02] Fiat. 1
+[0:02] Wwe
+[0:03] Onlyis
+[0:03] EXERCISE
+[0:03] aS 2!
+[0:07] Veo
+[0:07] LAI
+[0:07] LLL
+[0:07] 222
+[0:07] GED.
+[0:07] 242८
+[0:07] 7-52
+[0:07] cae -
+[0:07] 22222
+[0:07] 22222 22222:
+[0:08] 3 ry
+[0:08] hed
+[0:08] LZDAD IGA
+[0:09] 9 ७0
+[0:09] oa: os
+[0:10] Gianpacie Toma
+[0:10] . See
+[0:10 - 0:11] Front vs Back and Barbell vs Machine
+[0:10 - 0:11] Overhead Press: An
+[0:10 - 0:11] Electromyographic Analysis and
+[0:10 - 0:11] Implications For Resistance Training
+[0:10 - 0:11] ofan Longo, Fabio Esposito"? and
+[0:11] ianpaoo 7
+[0:13] frontal
+[0:13 - 0:15] Zale
+[0:14] ‘ihe
+[0:15] aaa
+[0:16] ivi
+[0:17] aad
+[0:17] delits:
+[0:18] 9 0७
+[0:18] 1 ONO
+[0:18] Waa
+[0:18] 4 abe
+[0:19] effectively,
+[0:20] 7 OOS
+[0:20] wor
+[0:22] {OWE
+[0:23] oS a
+[0:23] (61८15 €
+[0:23] Adon
+[0:25] andiexercise
+[0:26] है मेन
+[0:26] छि् ,
+[0:26] Len!
+[0:26] प्र
+[0:27] lextensions
+[0:28] (6 है मे _
+[0:28] oosing
+[0:29] LOD
+[0:29] ९ ca’
+[0:29] न कर "7
+[0:29] <qullipatte
+[0:30] ANd
+[0:31] Patterns
+[0:33] disadvantageous
+[0:34] Ay ५
+[0:34] ee NEN
+[0:35] 9 ७0७
+[0:35] a == लक
+[0:35] now
+[0:36] twojointiprine
+[0:36] iple
+[0:36] iihelgec'from crosses twoljoints
+[0:36] train
+[0:37] Thestwo'jointiprinciple
+[0:37] lihelnec from crosses two
+[0:37] joints
+[0:37] 5... Thehip & the knee
+[0:37] When it actggs ana as,an.agonist at
+[0:37] and’antagonistiat one
+[0:37] ल्‍ ०
+[0:37] Ang
+[0:37] 210॥८0
+[0:38] pe ex
+[0:38] ees
+[0:38] fie
+[0:38] rae
+[0:38] 2८6६६
+[0:38] ४ 4 ff
+[0:38] Soe
+[0:38] Re Be
+[0:38] yas
+[0:38] 125
+[0:38] Yes
+[0:38] if ss
+[0:38] fhe
+[0:38] nod iy
+[0:38] Paz
+[0:38] Hee i
+[0:38] yf ३९६
+[0:38] lis
+[0:38] prs
+[0:38] Yee
+[0:38] ior
+[0:38] Mir
+[0:38] Shs
+[0:38] sats
+[0:38] e sas
+[0:39] 4 dete
+[0:40] सी ०
+[0:42] fig
+[0:44] nani:
+[0:44] 2k p-
+[0:45] है. 72
+[0:45] ttf
+[0:45] 5. going
+[0:46] arn,
+[0:46] wit
+[0:46] aap 4
+[0:46] ब्रा
+[0:46] leg >
+[0:46] paves =e
+[0:46] pon
+[0:46] pia
+[0:46] 333
+[0:47] fay
+[0:49] Mdeadlitt
+[0:50] 6 है
+[0:51] कक Pe
+[0:51] 4 ane
+[0:52] A Nal
+[0:54] ore
+[0:54] KXEnCISe
+[0:54] जैक
+[0:55] TET
+[0:55] semi
+[0:55] mstring,
+[0:55] न्‍्८््प
+[0:56 - 0:57] Semitendinosus
+[0:56 - 0:57] Biceps femoris
+[0:56 - 0:57] (long head
+[0:56 - 0:57] Semimembranosus
+[0:56 - 0:57] {short head)
+[0:57] barked
+[0:57] glu
+[0:57] Adductor Magnus
+[0:57] oblique or adductor head
+[0:57] vertical or hamstring head
+[0:59] 23% छा
+[0:59] खेर
+[1:01] CALS
+[1:02] — cise
+[1:03] Noah
+[1:03] \ mel
+[1:04] = low-incline
+[1:05] ७ कक
+[1:05] 5 pm
+[1:05] ‘want TD)
+[1:05] स्का
+[1:06] स्र्ण्ः
+[1:06] Ke aSson
+[1:07] 5334
+[1:07] low;
+[1:07] \ feline
+[1:07 - 1:08] 9 ७0
+[1:08] gee
+[1:08] ANZ
+[1:08] and
+[1:10] v4 9
+[1:10 - 1:11] OAMUULUER FLEAI
+[1:11] exion,
+[1:13] 7 हक
+[1:13] wae
+[1:13] Glewieulkir
+[1:14] ४ ७0७
+[1:14] aos
+[1:14] हा 8
+[1:14] Giiectivaly,
+[1:15] Aide
+[1:16] mount
+[1:17] y @doctoroihow शैेछछक Subscribe
+[1:17 - 1:18] cyorofhow
+[1:18] go ng
+[1:18] Subscribe
+[1:20] Le ७0
+[1:20] _ Fegions
+[1:20] 5 0.५
+[1:21] owe
+[1:22] Goa
+[1:22] ४ हा
+[1:22] effectively,
+[1:22] ities.
+[1:23] Suh ४
+[1:23] eng
+[1:25] हरि
+[1:25] ntalip lane please
+[1:25] the
+[1:25] bee
+[1:26] Htalplne pl
+[1:26] cell
+[1:27] Fro
+[1:27] ialplane ple
+[1:27] wide-grip
+[1:28] १३५
+[1:30] ce x
+[1:31] When picking exercises
+[1:31] ook:fo
+[1:31] oe dh
+[1:32] When pi
+[1:32] cking exer
+[1:32] CISES
+[1:32] for long term progress!
+[1:33] ४ है
+[1:33] fle
+[1:33] Pals |
+[1:33] Abe
+[1:36] दर का
+[1:36] because
+[1:36 - 1:38] Fro
+[1:36 - 1:38] ntallp lane please
+[1:37] 11 lane please
+[1:37] Cc - Oo
+[1:37] into
+[1:37] Lids,
+[1:38] [जे 4
+[1:38] . 34 याद
+[1:38] position
+[1:39] 9 ७0७
+[1:39] iasing
+[1:41] ely ie
+[1:41] ५४८
+[1:41] 22808
+[1:41] 02 i
+[1:41] ESN.
+[1:41] नर ii
+[1:41] ice
+[1:41] cal
+[1:41] CES
+[1:41] at TA
+[1:41] aS J B
+[1:41] mm ie
+[1:41] « aS का
+[1:41] nti ly
+[1:43] doesn:t
+[1:46] sth
+[1:47] 35 कं
+[1:48] grip —
+[1:48] ५2४
+[1:49] KoXo}
+[1:49] ys a
+[1:52] component
+[1:52 - 1:53] aad
+[1:54] another
+[1:55] POE
+[1:55] (Sib
+[1:55] ee de C)
+[1:56] ७0७
+[1:56] eZ (AS
+[1:57] cent
+[1:58] backwards,
+[1:58] ese —
+[1:59] me f
+[1:59] Yer
+[1:59] age
+[2:00] nat
+[2:04] छू ली
+[2:05] < ply
+[2:06] 9 ७0
+[2:06] Noy,
+[2:07] ile
+[2:08] ७0७
+[2:08] ‘Los
+[2:08] ‘athe §
+[2:10] e-Ses
+[2:11] Cad
+[2:12 - 2:13] ४ ७0७
+[2:13] HAS
+[2:15] Lar
+[2:15] push-
+[2:15 - 2:18] uish-down,,/
+[2:16] 9 ५०
+[2:16] नयी
+[2:16] crap
+[2:16] Sim
+[2:16 - 2:18] > Curl
+[2:17] pla
+[2:17 - 2:19] rate
+[2:18] tie’
+[2:18] hae
+[2:18] Mil
+[2:18] Way i.
+[2:18] ee! 7
+[2:19] न बे
+[2:19] Cha
+[2:19] 41 fh
+[2:19] Ges
+[2:19] पक्ष
+[2:19] with
+[2:19] oF i >-औ
+[2:19 - 2:20] Pushd
+[2:20] 3 fl
+[2:20] PY ड़ 4
+[2:20] tion
+[2:21] > , झुक
+[2:21] Wel
+[2:23] 7 Long head wor
+[2:23] more
+[2:24] he shoulder stays still a
+[2:24] tarjgeted
+[2:24 - 2:27] “Long head works well
+[2:25] San
+[2:25] Whenjthe shoulder stays still andineutral
+[2:25] fe ks
+[2:25] better
+[2:26] shoulder says gil an
+[2:26] Andie
+[2:27] 8 still and
+[2:27] When: sno stay
+[2:27] los
+[2:27] "आर्ट
+[2:27] १००७
+[2:28] “जेट
+[2:28] overall
+[2:29] 4 की मे
+[2:30] Awa
+[2:31] 22 मर
+[2:31] Abe
+[2:32] aaa
+[2:32] न सं
+[2:32] pick
+[2:33] find
+[2:33] हि. 4
+[2:33 - 2:35] law?
+[2:34] you
+[2:34] V be
+[2:34] क्र
+[2:35] cael
+[2:36] ea ae
+[2:36] | i wu
+[2:36] ams,
+[2:36] curling 4 .
+[2:36] ied
+[2:37] eee ae
+[2:37] cna
+[2:37] Nik
+[2:37] q ५ iG
+[2:37] 474 ey ti
+[2:40] you
+[2:41] | reasons
+[2:42] fai
+[2:42] curling
+[2:42] die.
+[2:44] 9 ७0७
+[2:44] झ्र्डः
+[2:45] 2 (rs
+[2:47] wap
+[2:48] sok

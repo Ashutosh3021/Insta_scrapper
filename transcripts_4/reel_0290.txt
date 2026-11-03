@@ -1,0 +1,432 @@
+# model: ggml-large-v3
+========================================================================
+[290] https://www.instagram.com/reel/DZxBkNWsMI7/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I think a calorie surplus is optimal for muscle growth bro, don't you agree?
+[0:03 - 0:07] Yeah, actually you know what, I feel like everyone should be on like a calorie surplus
+[0:07 - 0:08] Yeah
+[0:08 - 0:10] If they want to grow muscle, you know, eat big to get big
+[0:10 - 0:12] Yeah, like what is this bro, this is carbs
+[0:12 - 0:13] Yeah
+[0:13 - 0:15] What is the most optimal pre-workout?
+[0:15 - 0:15] Carbs, carbs
+[0:15 - 0:16] Yeah bro, that's what I'm saying
+[0:16 - 0:17] What is this bro?
+[0:17 - 0:19] Carbs?
+[0:19 - 0:20] Sugar bro
+[0:20 - 0:24] I think we should, you know, go have a shawarma after this
+[0:24 - 0:27] It has protein, fats, carbs, everything, balanced meal
+[0:27 - 0:29] Balanced meal, legit, balanced meal
+[0:29 - 0:33] Bro, what do the fats in the protein do bro? It slows down the digestion of carbs
+[0:33 - 0:35] If I have that two hours before my workout
+[0:35 - 0:38] Yeah, and then you take one of these, boom
+[0:38 - 0:40] Bro, intra-workout
+[0:40 - 0:43] Yeah bro, bro, if lean is law, mass is mandatory bro
+[0:43 - 0:44] Mass is mandatory, mass is mandatory
+[0:44 - 0:46] Yeah bro, let's, let's say bulk
+[0:46 - 0:47] Yeah, legit, you need to bulk bro
+[0:47 - 0:48] Bro, make it hard
+[0:48 - 0:50] Make it hard, make it hard, make it hard
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 58991
+[0:00] 322
+[0:00] १ 7६
+[0:00] gae
+[0:00] Think a
+[0:00] A ie
+[0:00 - 0:01] ng themselfs
+[0:00 - 0:01] hat they're doin
+[0:00 - 0:03] gasligh
+[0:00 - 0:06] glis‘optimal
+[0:01] a कैसा
+[0:01] eas
+[0:01] sintosthi
+[0:01] nkin
+[0:01] ihe
+[0:01] करे
+[0:02] 17 ०2
+[0:02] “71 8
+[0:02] Pat
+[0:02] [ what they re doingjis’optimal
+[0:02] ats
+[0:02] wae f
+[0:02] optim
+[0:02] tie
+[0:02] uscle
+[0:02 - 0:03] themselfs:intoht!
+[0:03] SPA
+[0:03] ing
+[0:03] bro,
+[0:03] > agree?
+[0:03 - 0:09] what they/re doing
+[0:04] Wena fisxintost!
+[0:04] kin
+[0:04] dein
+[0:04] eat mam
+[0:04] Yeah, — SS 4
+[0:04] ६-३६.
+[0:04 - 0:05] i te
+[0:04 - 0:07] ~ gaslighting
+[0:05] gaslighting themselfsiintott
+[0:05] doingjisjoptimal
+[0:05] ak pE
+[0:05] I feel Ge
+[0:06] "Dil
+[0:06] bes mz
+[0:06] i है
+[0:06] atitheyzre doing 0}
+[0:06] aN A
+[0:06] ae 2: ei
+[0:06 - 0:08] themselfsjin
+[0:07] wll
+[0:07] re doinglisijop
+[0:07] gies
+[0:07] LAS
+[0:07] on like 2 calories
+[0:07] urpt >
+[0:07] २६ ES,
+[0:07 - 0:08] ladt-
+[0:08] ‘pi L
+[0:08] ue” 1
+[0:08] asl
+[0:08] ingy
+[0:08] 2६7९ do
+[0:08] ing}isjo
+[0:08] Sig
+[0:08] eee
+[0:08] See
+[0:08 - 0:09] gas
+[0:09] i कु
+[0:09] 911९०)
+[0:09] ighting
+[0:09] If they
+[0:09] int
+[0:09] to grow
+[0:09] xin
+[0:09 - 0:11] | themsel
+[0:10] fil L
+[0:10] hal
+[0:10] Ula
+[0:10] | 14384
+[0:10] ng themselfs
+[0:10] nek
+[0:10] eae
+[0:10] iit
+[0:10] you know eat
+[0:10] big
+[0:10 - 0:11] faslighting
+[0:10 - 0:11] what they’re doingjisjopti
+[0:10 - 0:12] cing)
+[0:10 - 0:14] हैं:
+[0:11] पन्नों
+[0:11] ७11०५
+[0:11] timal
+[0:11] king)
+[0:11] gie
+[0:11] av-v,
+[0:11] Yeah, likewh
+[0:11] st me
+[0:11] — बेड
+[0:12] 8935
+[0:12] ing thems:
+[0:12] Ost!
+[0:12] what they’re d
+[0:12] gjisjopti
+[0:12] are
+[0:12] Thisis.
+[0:13] ५१०7 बे
+[0:13] lad
+[0:13] owns they're
+[0:13 - 0:14] Ga: gaslighting themselfsjintot
+[0:13 - 0:15] eae
+[0:13 - 0:16] “gaslig
+[0:13 - 0:20] t's what,
+[0:14] me का
+[0:14] gBe
+[0:14] Whatis the ost optimal
+[0:14] a eceieeaall
+[0:14 - 0:16] what they’re doinglisjopti
+[0:15] Tad
+[0:15] aay
+[0:15] Dw a -
+[0:15] जज जब
+[0:15] प्र
+[0:15] ध्दः
+[0:15] ब्डः
+[0:15] Carbs,
+[0:15] cee
+[0:15 - 0:17] hemselfsiinto thin!
+[0:15 - 0:17] re doingjisjopti
+[0:16] tt ते
+[0:16] 7" आओ
+[0:16] themselfsint
+[0:16] Yeah bro,
+[0:17] cme
+[0:17] Lue
+[0:17] gae
+[0:17] RSs
+[0:17 - 0:20] -gasligh:
+[0:18] ele
+[0:18] themsel
+[0:18] fsint
+[0:18] lah
+[0:18] what'they’
+[0:18] re doin is
+[0:18] opti
+[0:18] छ्ड््ऋ
+[0:18] goes
+[0:18 - 0:19] Carb;
+[0:19] me कस
+[0:19] ॥५४ ८
+[0:19] thin
+[0:19] isjopti
+[0:19] gas
+[0:19] gar
+[0:19] २६.5.
+[0:19 - 0:20] ‘redo
+[0:19 - 0:23] hemselfsint
+[0:20] ga SHG
+[0:20] selfsii
+[0:20] iti
+[0:20] Cat
+[0:20] oBe
+[0:20] ape
+[0:20] ae tS.
+[0:20] Seta
+[0:20 - 0:21] “til
+[0:20 - 0:23] them
+[0:21] बे ता!
+[0:21] re doingiisjop:
+[0:21] itd
+[0:21] js_J
+[0:21] eBe
+[0:21] lalla =
+[0:21 - 0:22] what they're d
+[0:22] fin |
+[0:22] Beanies
+[0:22] छ़्ज्ऋ
+[0:22] Leet
+[0:22] gaa
+[0:22] af — a
+[0:22] L think
+[0:22 - 0:24] Opti
+[0:23] ie L
+[0:23] y/re doing:
+[0:23] ' अभि
+[0:23] iin
+[0:23 - 0:24] कुक न
+[0:24] oad
+[0:24] sii
+[0:24] गछ wh
+[0:24] Sag
+[0:24] aay
+[0:24] हु कण
+[0:24] 5५४
+[0:24 - 0:25] go havea 9:
+[0:24 - 0:28] __-4gaslighting themselfsiintojthi
+[0:24 - 0:45] what they’re doingiisiopt
+[0:25] ime
+[0:25] _=gaslightin
+[0:25] selfsiint ents
+[0:25] this it has शक
+[0:25 - 0:27] wah
+[0:26] wih
+[0:26] baal
+[0:26] what they’re doi optim
+[0:26] ss “ah
+[0:26] carbs
+[0:26 - 0:27] Led
+[0:27] (lie
+[0:27] opti
+[0:27] है. की
+[0:27] carbs eve!
+[0:27] ing 0: >
+[0:27] meal
+[0:28] tl i
+[0:28] ILE
+[0:28] king
+[0:28] ptim
+[0:28] L ia
+[0:28] carbs everythin
+[0:28] meal balance meal legit
+[0:28 - 0:30] The
+[0:29] (401
+[0:29] mae
+[0:29] Petes
+[0:29] sli hein
+[0:29] hem
+[0:29] lfsiinto
+[0:29] 1119
+[0:29] जाए
+[0:29] 223
+[0:29 - 0:30] balance me
+[0:30] wal
+[0:30] ७-2७
+[0:30] wae
+[0:30 - 0:31] emselfsii
+[0:30 - 0:31] slig
+[0:30 - 0:34] optim
+[0:31] mab
+[0:31] , लिद्ऋ
+[0:31] nto}t!
+[0:31] cel
+[0:31] bine
+[0:31] at le
+[0:31] का 9 »
+[0:31] Aur
+[0:31] a ay
+[0:31] in the pr ‘ 0
+[0:32] ‘eh 0”
+[0:32] lee
+[0:32] themselfsjintott!
+[0:32] = gaslighti
+[0:32] न अत
+[0:32] AL 1b?
+[0:32] It slow:
+[0:32] dig sion
+[0:33] 7 ia
+[0:33] 20010
+[0:33] 13 111६०)
+[0:33] fol
+[0:33] ba PY
+[0:33] eBea
+[0:33] ae! (व
+[0:33] Alo
+[0:33] of carbsi F |
+[0:33] श्र
+[0:33] 5 Re
+[0:34] प्र
+[0:34] mat 1!
+[0:34] e492
+[0:34] dino
+[0:34] Giisal
+[0:34] fsiinto\th
+[0:34] pun
+[0:34] rte
+[0:34] Ad iB
+[0:34] lAlLo2
+[0:35] ceil
+[0:35] ter
+[0:35] Se ols ae कि
+[0:35] js J
+[0:35] ह कै ४
+[0:35] Yeah
+[0:36] til L
+[0:36] aslig
+[0:36] the
+[0:36] mselfsiinto
+[0:36] ais
+[0:36] bap
+[0:36] Oye
+[0:36] ohea
+[0:36] कै Sit
+[0:36] Yeah anc
+[0:37] (ENE
+[0:37] vod
+[0:37] inal
+[0:37] "pn Aa
+[0:37] eet a
+[0:37 - 0:39] _ _-4gaslighting thems f;
+[0:38] «हक 5 ले
+[0:38] fal
+[0:38] they’re doi ©
+[0:38] जन्म.
+[0:38 - 0:39] हे ञ्क्ू
+[0:39] iil |
+[0:39] | ease
+[0:39] here
+[0:39] yeas
+[0:39] Sap
+[0:39] hima
+[0:39] नाक
+[0:39] Int
+[0:39] 5 Re
+[0:40] tor
+[0:40] Y -Agaslighting th
+[0:40] what the
+[0:40] y'red
+[0:40] loing
+[0:40] ont led
+[0:40 - 0:41] Pid.
+[0:40 - 0:42] selfsjinto)tt
+[0:41] Bilis
+[0:41] :themselfs
+[0:41] ४9०४
+[0:41] hip
+[0:41] 5 Rt
+[0:41 - 0:42] Bro broif——_
+[0:42] nei
+[0:42] pal
+[0:42] ee 9
+[0:42] ohea
+[0:42] Tht
+[0:42 - 0:43] mass —
+[0:42 - 0:44] re doinglisjoptim
+[0:43] ae aie
+[0:43] ifs
+[0:43] oinglisiop
+[0:43] nal)
+[0:43] pur hi
+[0:43 - 0:45] __-4gaslighting themsel
+[0:44] Hil!
+[0:44] salons
+[0:44] fis:
+[0:44] nking
+[0:44] ‘ally
+[0:44] Co a
+[0:44] fi a
+[0:44] gfe
+[0:44] L on
+[0:44] 1५ aes
+[0:44 - 0:47] emsel
+[0:44 - 0:50] what they/re ६
+[0:45] fie
+[0:45] Rep
+[0:45] yea
+[0:45 - 0:46] fsjinto
+[0:45 - 0:47] mal ॥
+[0:46] fol
+[0:46] ime
+[0:46] कि कर,
+[0:46] 11015
+[0:46] pt int
+[0:46] Die”
+[0:47] ely
+[0:47] ख्यो
+[0:47] 1111९
+[0:47] What they're c Fol 8७
+[0:47] pti
+[0:47] ~ aie
+[0:47] gEe
+[0:48] mah
+[0:48] vont
+[0:48] oi ptimall,
+[0:48] eras
+[0:48] oBea
+[0:48 - 0:49] emselfsiinto
+[0:49] mish
+[0:49] ing
+[0:49] isjopt
+[0:49] ४४४ |
+[0:49] gBe
+[0:49] 2 , id
+[0:49 - 0:50] imall)
+[0:49 - 0:51] sli ghting themse'
+[0:49 - 0:51] “what they're doi
+[0:50] ifis
+[0:50] nking
+[0:50] Were we
+[0:50] Lat
+[0:50] eRe
+[0:50 - 0:51] That’
+[0:51] 51170:
+[0:51] S eptinially
+[0:51] shea
+[0:51] qi iB
+[0:51] att
+[0:51] ३६ 302३

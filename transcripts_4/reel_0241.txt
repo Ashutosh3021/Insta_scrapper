@@ -1,0 +1,121 @@
+# model: ggml-large-v3
+========================================================================
+[241] https://www.instagram.com/reel/Da0b5xgsZbR/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] This is not even supposed to be a hot take but powerlifting training is very similar to
+[0:06 - 0:11] hypertrophy based training. I don't know where this myth came from. A lot of people think that
+[0:11 - 0:14] powerlifting training is way different than bodybuilding training. The reason you feel that
+[0:14 - 0:20] way is because most people programming for powerlifting program it in a dog shit manner.
+[0:20 - 0:25] It is not that difficult. Powerlifting is maximizing strength. What are we doing when
+[0:25 - 0:31] training for hypertrophy? Maximizing strength. Skill based movements are there. Yes but in the
+[0:31 - 0:35] way which you go about programming obviously there are some few changes here and there
+[0:35 - 0:39] but it's not gonna be a big difference. Anyways bye.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] के Ton जज
+[0:00] this is
+[0:00 - 0:02] का. different
+[0:01] ogramming|fompowen|ifitine
+[0:01] Isni
+[0:01] this is not even
+[0:01] supposed to
+[0:02] sil
+[0:02] hag
+[0:02] जन A
+[0:02 - 0:03] be a hot take but power
+[0:03] = Ton ~ क्र
+[0:03] किला
+[0:03] sis,
+[0:03] lifting
+[0:03 - 0:08] Isnitidifferent
+[0:04] Fe for \
+[0:04] very
+[0:05] का fompowerlifting
+[0:05 - 0:06] very similar to
+[0:06] Isnit
+[0:06] different
+[0:06] hype
+[0:06 - 0:07] Rrogramming|fompowerlifting
+[0:07] based wa
+[0:08] स्का
+[0:08] based training |
+[0:08 - 0:09] = fompowerlifting
+[0:09] Isnatid
+[0:09] काका
+[0:09] where this myth
+[0:10] froma
+[0:10 - 0:13] different
+[0:10 - 0:13] Isnit
+[0:10 - 0:32] Rrognamming|fompowerlifting
+[0:11] Isnatidifferent
+[0:11] power
+[0:12] power lit
+[0:12] way
+[0:12] ting training
+[0:13] PROG REIN
+[0:13] body Yer
+[0:14] i बी ww
+[0:14] the reason
+[0:14 - 0:16] Isnatidifferent
+[0:15] * १ आना
+[0:15] the reason you feel Way
+[0:16] (1100 002
+[0:16] becaus
+[0:16] e most people
+[0:16 - 0:18] programming
+[0:17] PROG PEIN
+[0:17] (2 आर
+[0:17 - 0:19] different
+[0:18] Rrogna
+[0:18 - 0:19] Isnit
+[0:19] (100 00
+[0:20] program itin a dog shit
+[0:20] manner
+[0:20 - 0:22] Isnitidifferent
+[0:21] It is not that
+[0:22] ri for ¥
+[0:22] कैट |
+[0:22] Powerlifting
+[0:23] PROG REIN
+[0:23] Isnit
+[0:23] maxi
+[0:23] mizing
+[0:23 - 0:24] || tdififerent
+[0:24] What
+[0:25] What are we doing when
+[0:25 - 0:38] Isnitidifferent
+[0:26] alll
+[0:26] नमक
+[0:26] training for
+[0:26] hypertrophy?
+[0:27] RROgkam
+[0:27] Isnit
+[0:27] different
+[0:27] ७३५
+[0:28] Ogrammingifor (
+[0:28] (eee oe
+[0:28] Skill
+[0:29] Skill base movements
+[0:30] Yes,
+[0:31] py a
+[0:31] Yes, but in
+[0:33] OGramming\for ही
+[0:33] go about programming,
+[0:34] Z fompowerlifting
+[0:34] Age
+[0:34] few
+[0:35] क्र
+[0:35 - 0:37] Ogrammingifompowerlifting
+[0:36] roy
+[0:36] न्यू
+[0:36] but it's not going to
+[0:37] difference
+[0:38] OGramming\tor
+[0:38] A uel
+[0:38 - 0:39] Anyways, bye
+[0:39] Oramm
+[0:39] हनन

@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[208] https://www.instagram.com/reel/DbgnwdnM9GA/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Barbell rows, bench press, barbell squats, barbell deadlifts and anything which has to
+[0:06 - 0:07] do with jolts.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] % exercisestiOm
+[0:00] 1. Barbell Rows
+[0:00] coogi
+[0:00] HE t
+[0:00 - 0:08] Hypertrophy *
+[0:01] hyoverrated exer
+[0:01] ५८८22
+[0:01] 2. Barbell Bench press
+[0:01 - 0:02] cises
+[0:02] ह exer
+[0:02] 3. Barbell squats
+[0:03] oe a
+[0:03 - 0:04] 4. Barbell conventional deadlifts
+[0:03 - 0:08] rated exercises
+[0:04] 33220
+[0:05] ह exercises
+[0:05] 33317
+[0:05 - 0:07] 5. anything zercher
+[0:06] 32110
+[0:06] 7! 11५
+[0:07] 353
+[0:07] 25111
+[0:08] Hover
+[0:08] Follow for more
+[0:08] 231

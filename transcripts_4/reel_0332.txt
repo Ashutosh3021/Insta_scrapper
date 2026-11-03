@@ -1,0 +1,76 @@
+# model: ggml-large-v3
+========================================================================
+[332] https://www.instagram.com/reel/DY7QRNnI_Bv/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] You can't just go into too much shoulder flexion and extension when you're performing, so it
+[0:06 - 0:12] becomes like this, we don't want this, keep it at one direction, once it's completely
+[0:12 - 0:14] locked then extend.
+[0:14 - 0:20] So the reason I am telling him to keep the shoulder at the same place is because the
+[0:20 - 0:25] triceps are connected at two different places, it's connected at the shoulder and then it's
+[0:25 - 0:29] connected at the elbow as well, when it's moving at two different joints it becomes
+[0:29 - 0:33] very difficult for the long head of the triceps to produce a lot of force, so the best thing
+[0:33 - 0:37] which you can do at that given period of time is just make sure that the shoulder stays
+[0:37 - 0:40] completely stable and it's not moving during these exercises.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] me ५,
+[0:00] 7 सै
+[0:00 - 0:01] हट push down
+[0:00 - 0:01] Tip
+[0:01] ५! ले
+[0:03] mut
+[0:06] Soli
+[0:06] tia
+[0:10] joe
+[0:10] Fr ie
+[0:11] ram ।
+[0:12] ik it's comp!
+[0:13] then!
+[0:13] ) ane
+[0:15] Ly bel
+[0:15] १01
+[0:15] कि (री
+[0:16] Sojthe:
+[0:18] ‘himjto) ce p:
+[0:18] "aap
+[0:19] ~ the same place
+[0:20] yjecause)
+[0:20] hia ८
+[0:21] > उ्हे
+[0:21] cael
+[0:21] Moush
+[0:23] ent
+[0:23] ight
+[0:24] 7 {the}
+[0:25] fi iN
+[0:25] Moush
+[0:27] jwhenlit;simo:
+[0:27] uae
+[0:27] * clap >
+[0:27 - 0:28] ous)
+[0:28] ५1 4
+[0:28] !६ 19
+[0:29] किट
+[0:29] mes)
+[0:29] eyo
+[0:29] nou
+[0:31 - 0:32] mous)
+[0:33] sis
+[0:33] moush
+[0:34] ‘3 you candoat that given,
+[0:34] Musy
+[0:35] Ethat given
+[0:35] jer
+[0:35] ime is
+[0:35] 49७५
+[0:36] a आफ
+[0:36] mous)
+[0:38] ‘stays completely
+[0:38] Mois}
+[0:39] Andlit's
+[0:39] 1777
+[0:40] mous

@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[82] https://www.instagram.com/reel/Dd66Dy8MkWd/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] i'm gonna tell you one thing and you have to really just digest this no peptide is gonna
+[0:05 - 0:12] cause muscle growth i don't care if it's igf1 i don't care if it's hgh i don't care what peptide
+[0:12 - 0:20] it is it's not causing muscle growth you know what's causing muscle growth anabolics we have
+[0:20 - 0:28] data showing that you take a whole pen of gh that comes up to i'm not too sure 32 i think 32 i use
+[0:28 - 0:34] it comes up to pin them on regular people just gh zero muscle growth
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:34] Training/Nutrition/Anything
+[0:00 - 0:34] Should one take pep for muscle growths

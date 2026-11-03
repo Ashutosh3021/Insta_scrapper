@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[399] https://www.instagram.com/reel/DXZdBXzDJlj/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] you know as some people say that oh if you're 60 kgs or under your abs don't count
+[0:03 - 0:09] i want to add something to that if you are above 15 body fat your arm measurements your body weight
+[0:09 - 0:14] you cannot boast about because those few metrics which you're trying to boast about is just fat
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] If you're 60kgsionunder,
+[0:00] Yourabsidonit:
+[0:00] coun
+[0:00] is 2
+[0:00] नमक
+[0:00] Me ०३७६३ Shh
+[0:00 - 0:01] ‘You'know as 5
+[0:01] Mir
+[0:01] lund
+[0:01] idon
+[0:01] tTGOU
+[0:01] च्च्चाः
+[0:01] say that oh
+[0:01] cbs
+[0:02] gabsidon,e
+[0:02] 9-० ८.
+[0:02] KGs or”
+[0:03] ey oy
+[0:03] aft
+[0:03] Non ३६६) ६९
+[0:05] oda.
+[0:05] 349४
+[0:05] | $ ६७४
+[0:05] 1 von so
+[0:06] ant
+[0:06] 2 ८४;
+[0:06] ype
+[0:06] yw. nn oe 88K
+[0:07] 1392०
+[0:07] ४ boning
+[0:07] Hfyoua
+[0:08] Mo ०३ ६९४ (६
+[0:09] per
+[0:09] fat, y
+[0:09] measuremi
+[0:09] your
+[0:09] wo ०३४४ है है॥
+[0:10] nat
+[0:10] xe 5
+[0:11] becau:
+[0:11] ott
+[0:13] ae ron
+[0:13] Vier
+[0:13] en inte

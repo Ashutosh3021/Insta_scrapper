@@ -1,0 +1,163 @@
+# model: ggml-large-v3
+========================================================================
+[859] https://www.instagram.com/reel/DKfGf-cNL-T/
+STATUS: OK
+DURATION: 1:17   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] हमारा लाइफ का सबसे पहला वर्कआउट तुम्हें सबसे ज्यादा मसल डामेज और सोर्डनेस देगा और तुम कुछ भी कर लो तुम वह मसल डामेज और सोर्डनेस एसकेब नहीं कर सकते हैं।
+[0:30 - 0:59] इसलिए अगर हम untrained subjects और trained subjects को compare करेंगे, we will always see that untrained subjects will have more amount of these muscle damage, but literally हमारा second workout में things completely change, तुम्हारी body एक protective mechanism create करती है towards this stimulus और इस protective mechanism के वज़ से कम muscle damage create होता है, इसे कहते है repeated bout effect, similarly हमारा third, fourth and fifth workout अगर हम देखेंगे, it will consecutively have lesser and lesser amount of these muscle damage,
+[0:59 - 1:17] अगर तुम जिम पहली बार चालू कर रहे हो, the first thing you should not do is do a lot of volume, I would go to an extent of just doing one exercise per muscle group, so that this protective mechanism kicks in, and once that protective mechanism has kicked in, you can do whatever you want, so yeah I hope that helps well for more.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] = workout
+[0:00] Soreness
+[0:00] fal
+[0:00] tad
+[0:00 - 0:02] and) eam. ager
+[0:01] TSt be
+[0:01] age)
+[0:01] ह्अ
+[0:02] First =
+[0:03] fandid:
+[0:03] jamage
+[0:03] ञ्र
+[0:03] Tay
+[0:04] i के
+[0:04] aoe
+[0:05] eS जुई.
+[0:06] ४4 Be
+[0:06] C4r" .
+[0:09] ह मै
+[0:09] reg
+[0:09 - 0:10] Volume lis
+[0:11] / ५८ ५
+[0:11] oldie is
+[0:12] King
+[0:13] isIking)
+[0:13] >मफ्रररक
+[0:14] Siding)
+[0:15] 51612]
+[0:16] iy ry ५
+[0:16] is|king
+[0:17] VOlUMm,
+[0:17] ebiing ४
+[0:17] श्र
+[0:18] VOM
+[0:19] Sh आसान
+[0:19] haw
+[0:20] + ऑकइामम--
+[0:20] हक कह
+[0:21] js Po
+[0:22] Pape
+[0:22] Nong
+[0:22] AMMA ६
+[0:23] cig
+[0:23] neces
+[0:23] (AMA
+[0:23] Ada
+[0:24] Pri
+[0:25] pie
+[0:25] है पु _
+[0:27] क्र
+[0:28] ~~ हे के
+[0:29] 2 tnw
+[0:30] Islay
+[0:31] nsity
+[0:32] ey ie
+[0:32] The effects of traini
+[0:32] intensity
+[0:32] on exercise-induc
+[0:32] | Ain
+[0:32] Ff Ve
+[0:32 - 0:33] subjects or trained subjects
+[0:33] ko compare kareinge
+[0:34] we willialways
+[0:35] we wit always see that
+[0:35] unti ined
+[0:37] mount of
+[0:38] but
+[0:39] ys Po
+[0:39] 7 er.
+[0:40] nd workout
+[0:41] शत workout me
+[0:41] ing: जज
+[0:42] wal
+[0:44] Ps. £7
+[0:45] oe (1
+[0:45] etm
+[0:46 - 0:47] (AMA
+[0:46 - 0:47] the stimulus or this
+[0:47] Protegtive mechanism
+[0:48] 4 ome |
+[0:48] vem oncnepreronesiinen:
+[0:48 - 0:49] base “<
+[0:48 - 0:49] ;e se Kam muscle damage
+[0:49] रा ite hota Hai
+[0:50] Sf the
+[0:50] क्र
+[0:51] “shee Hai Fepeated bot
+[0:52] kehte Hai repeated bout
+[0:52] y a si
+[0:52] ilarly Hamara
+[0:53] हैं.
+[0:54] hp ५. 3 ai}
+[0:54 - 0:55] 4th and Sth workout Agar
+[0:55] mes
+[0:55] (AMMA -
+[0:55] im dekhenge
+[0:56] it X Bs; ७
+[0:56] ३४७०]
+[0:56] it will consecutively
+[0:57] ४ WR by
+[0:57] (AANA a
+[0:57] have
+[0:57 - 0:59] 5. MRBE™
+[0:58 - 0:59] have lesser and lesser
+[0:59] yo “a these muscle
+[1:01] 29 gyri pehie का ७
+[1:02] lu kar rhe ho
+[1:02] lym pehle hi baar
+[1:03] Poss
+[1:03] p mS
+[1:03] 1 a. you
+[1:04] RvB
+[1:04] ‘im you should not
+[1:05] Mine first,thing you should not
+[1:05] doi
+[1:05] lo a lot of volume
+[1:06] बीज
+[1:06] 5८1
+[1:06 - 1:14] F Eullbody,
+[1:07] CISC}
+[1:07] body,
+[1:07] (चाह
+[1:07] के फत
+[1:07] Se jo to an extent of
+[1:07] a wot
+[1:07] ist doing
+[1:08] feise}
+[1:08] P= al set’
+[1:08] रे te
+[1:08] OF one < reise
+[1:09] ere
+[1:09] i ein
+[1:09] al ce exercise per muscle
+[1:09] group
+[1:10] set
+[1:10] “a है. th
+[1:11] 'ह मर
+[1:11] eo tl abe this protective
+[1:11] nism
+[1:12] Nkexencise)
+[1:12] ‘a ७४
+[1:13] a that protective
+[1:14] (exer
+[1:14] (६15६
+[1:14] Miser
+[1:14] हैं
+[1:14 - 1:15] ~~mechanism has kicked in
+[1:15] Lan
+[1:15] you < do whatever
+[1:16] sothi that

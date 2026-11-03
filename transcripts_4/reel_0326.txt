@@ -1,0 +1,88 @@
+# model: ggml-large-v3
+========================================================================
+[326] https://www.instagram.com/reel/DY_w3HuslWc/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Not sure who I am, not sure who I wanna be
+[0:03 - 0:07] All this shit's a scam, I don't wanna be me
+[0:07 - 0:11] This ain't what I want, this is everything I need
+[0:11 - 0:15] No, I don't belong, can't contain my jealousy
+[0:15 - 0:19] Stop looking at yourself, you're caught up in my spell
+[0:19 - 0:22] No hope, can't you tell this ain't no shit?
+[0:22 - 0:25] Well, stop, I can't agree
+[0:25 - 0:29] With you I can't believe, this feeling's jealousy
+[0:29 - 0:32] Tell me, who was I born to be?
+[0:32 - 0:36] What's wrong with me?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Gait
+[0:00] vellessstimeitoday
+[0:00 - 0:01] Andlaleg session
+[0:01] a hay
+[0:01] at न
+[0:02] Letisstert
+[0:02] 0:04.09
+[0:03] cig
+[0:03 - 0:09] Asetstoextension
+[0:03 - 0:09] ‘Supersetted with:
+[0:04] ae b
+[0:04] ths
+[0:05] yAL
+[0:05] ant
+[0:05] sft
+[0:05] ८ पु
+[0:06] Aegis orenicnsion
+[0:06] pay
+[0:07] Yas
+[0:08] vest
+[0:09] with
+[0:10] athe
+[0:12] pur #
+[0:13] 1, Asetslo
+[0:14] श्र
+[0:15] पु 2setsionle
+[0:15] Vas
+[0:16] पु; 25690 110
+[0:17] 100
+[0:17 - 0:18] ES Of hip u/
+[0:17 - 0:20] upersettéd with
+[0:18] setiéd
+[0:19] ts. Of hip 25
+[0:19] sii
+[0:20] ts.0f hip
+[0:20] with
+[0:21] ets. of hi
+[0:21] 10698
+[0:23] She &G
+[0:24] ame
+[0:25] रू धर
+[0:25 - 0:28] श्र
+[0:26] dictions
+[0:26] f* oy
+[0:27 - 0:28] oy. e raises
+[0:28] 4 =. ir
+[0:28] TSO
+[0:29] “०6190
+[0:29] 88“ Lis
+[0:29] 222
+[0:30] final EXERCISE
+[0:30] oll I
+[0:30] ue yo raises y
+[0:30] eee
+[0:31] Good 81000॥
+[0:31 - 0:32] 28 mins}
+[0:32] od\enoug
+[0:33] mins
+[0:33] enough
+[0:34] 00 (1६
+[0:34] 112:
+[0:34] 172:
+[0:35 - 0:36] | iformore ~
+[0:36] wih
+[0:37] lower
+[0:37] woe ij
+[0:37] off
+[0:38] 0॥0॥10/110/'8

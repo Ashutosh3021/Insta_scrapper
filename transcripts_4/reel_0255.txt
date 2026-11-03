@@ -1,0 +1,129 @@
+# model: ggml-large-v3
+========================================================================
+[255] https://www.instagram.com/reel/DanZoQLshFX/
+STATUS: OK
+DURATION: 0:54   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] ओट्स से बेटर, इंट्रा वर्काउट पंप तुम्हें कोई और मील नहीं देगा, ये यार करो
+[0:03 - 0:06] Because oats actually increases muscle glycogen
+[0:06 - 0:08] Having it 2 hours before is the best time
+[0:08 - 0:09] I don't think oats is doing that
+[0:09 - 0:12] I genuinely don't think oats can do that
+[0:12 - 0:17] In fact, no carbohydrate source is gonna go into your muscle glycogen in about 2 hours
+[0:17 - 0:20] Current data which we have, it shows us it takes about 12 to 24 hours
+[0:20 - 0:25] For the carbohydrates which we eat to fulfill your muscle glycogen
+[0:25 - 0:28] And this is a very big misconception which a lot of people have
+[0:28 - 0:30] A lot of people think the carbohydrates which you eat now
+[0:30 - 0:33] Is gonna directly go into your muscles
+[0:33 - 0:34] It just doesn't work like that
+[0:34 - 0:37] A lot of people also think that you deplete all your glycogen stores
+[0:37 - 0:38] When you're weight training
+[0:38 - 0:42] When in fact, in reality, you lose about 10% of it
+[0:42 - 0:46] Now this is not me saying that you don't have to have carbohydrates pre-workout or post-workout
+[0:46 - 0:48] It has its own place over there
+[0:48 - 0:52] But just to say the fact that it's gonna reach muscle glycogen in the span of 2 hours
+[0:52 - 0:54] It's just not accurate
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] eal reach
+[0:00] » Muscle glycogen in 2
+[0:00] hour:
+[0:00] yaw
+[0:01] leglycogen २ 2
+[0:01] hy अंक
+[0:01] bp eo |
+[0:01 - 0:03] Ficarbs reach
+[0:02] Muscl शत in2
+[0:03] lycogenin
+[0:03] hours?
+[0:03] Lo eo |
+[0:04] i 199०५
+[0:05] — GatSactu:
+[0:05] रे, 1977
+[0:06] aus oats 7
+[0:06] हे faite
+[0:06] muséle glycogen
+[0:06] जुष्छ
+[0:07] glycogen, «,
+[0:07] hay
+[0:07] 2 Hours before
+[0:09] rey
+[0:10] Pea) we
+[0:10] iin
+[0:13] 1४1
+[0:17] cm Kondo?»
+[0:17] Takuya
+[0:17] Qsaw
+[0:17] Christine Rosenbloom?
+[0:17] Author information
+[0:17] PMCID: puics019055 2000...
+[0:17 - 0:18] Keisuke Shiose*
+[0:17 - 0:18] Akiko Kamei *, Motoko
+[0:17 - 0:19] Effect of Different Carbohydrate
+[0:17 - 0:19] Intakes within 24 Hours after
+[0:17 - 0:19] Glycogen Depletion on Muscle
+[0:17 - 0:19] Glycogen Recovery in Japanese
+[0:17 - 0:19] Endurance Athletes
+[0:17 - 0:19] Taguchi, Hideyuld Takahashi '+
+[0:17 - 0:19] Editor: Antoni Pons
+[0:17 - 0:19] Fundamentals of glycogen
+[0:17 - 0:19] metabolism for coaches and athletes
+[0:17 - 0:19] Bob Murray
+[0:17 - 0:19] » Article notes
+[0:17 - 0:19] Zé Copyright and License information
+[0:18] Keiko Namma-Motonas
+[0:18] sav
+[0:18] ne 20650 13055 pup,
+[0:18 - 0:19] EmiKondo??, Takuya
+[0:18 - 0:19] Taguchi
+[0:18 - 0:19] tar
+[0:18 - 0:19] aut
+[0:18 - 0:19] information
+[0:19] gee
+[0:19] Keiko Na
+[0:19] Osama * Ke
+[0:19] uke Shiose *, Akiko Kamei, Motoko
+[0:19] “PMCID, PMCGO12055 PAID: 2
+[0:20] jut
+[0:27] ads 5
+[0:27] 200
+[0:28] fie |
+[0:30] rates
+[0:30] Bz pe
+[0:30] a eeD
+[0:31] iin
+[0:31] None.
+[0:31] any
+[0:34] <a tex
+[0:36] 1203,
+[0:38] ores
+[0:38] a है.
+[0:38] oe aH
+[0:39] “> tes
+[0:40] fall further th
+[0:40] proximately 10% of initial
+[0:40 - 0:41] Table 1),
+[0:40 - 0:41] During intense and prolonged
+[0:40 - 0:41] exercise, the glycogen content of active muscle
+[0:40 - 0:41] cells can be substantially reduced but does not
+[0:40 - 0:41] alues.4 |The content of glycogen in liver cells
+[0:41] ea at
+[0:41] stil
+[0:41] Lhe
+[0:41] one
+[0:41] fall further than approximately 10% of initial
+[0:41] alues.
+[0:42] eee of
+[0:43] Mes
+[0:43] | hdl ड़
+[0:44] oof
+[0:45] Sag
+[0:46] Att:
+[0:46] Thies
+[0:47] workout it has its
+[0:47] है ५
+[0:48] over there
+[0:51] वक्त
+[0:53] ५29

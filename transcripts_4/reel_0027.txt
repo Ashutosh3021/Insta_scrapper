@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[27] https://www.instagram.com/reel/DemNXzLMlO3/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I know this pretty scene girl, I wish you could've seen her
+[0:04 - 0:07] I know she's got some problems, but I don't wanna leave her
+[0:07 - 0:10] And every time I see her, she makes me get
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] gaingiovenimyicalagies
+[0:00] for 1B
+[0:00] lez
+[0:00 - 0:01] “Tjustruined all my progress
+[0:00 - 0:01] days
+[0:01] goingiovermyrcalogies
+[0:01 - 0:02] ७०4४
+[0:02] (1190
+[0:02] fareyo
+[0:03] A@OOkeal
+[0:03] SUN
+[0:03] lus tor
+[0:03] igainrant
+[0:03] atediamoun,
+[0:03 - 0:04] eneloventedhaith
+[0:03 - 0:04] 4kgs
+[0:04] eupolustion 85 cays
+[0:04] loging
+[0:04] 01100
+[0:04] ५५९
+[0:05 - 0:07] any gelaed
+[0:05 - 0:07] Hypor
+[0:05 - 0:07] energetic
+[0:06] 78 B5fles comes ans 120127 134
+[0:06] energie
+[0:07] 70 वक्त 120127 134
+[0:07] हरि |
+[0:08] you
+[0:08] gottisn
+[0:08] ays}
+[0:08 - 0:09] Fat just from 1-3 days:
+[0:09] 01007
+[0:09] uve
+[0:09] gotten

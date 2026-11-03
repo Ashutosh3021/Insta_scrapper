@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[442] https://www.instagram.com/reel/DWju4EhjHgH/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] you guys know april 1st is indian halloween so i've decided to dress as tnf this is my outfit
+[0:06 - 0:12] right here as you guys can see uh as you guys can see here that's my outfit i mean it's not
+[0:12 - 0:16] that complicated it's just whatever you know tell me guys how am i looking here
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ‘ April 1 Cus: A
+[0:00 - 0:02] Reveal
+[0:01] प पु
+[0:02] Apt
+[0:02] ustome
+[0:03] ast
+[0:06] ole जी
+[0:06] li, हू
+[0:07] Pe YOU os
+[0:08] hed
+[0:09] है 91059 YOU 55
+[0:09] yy ro
+[0:10] Ww th Roe
+[0:11] ३२ ७
+[0:13] Pow

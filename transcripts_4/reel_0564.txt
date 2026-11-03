@@ -1,0 +1,81 @@
+# model: ggml-large-v3
+========================================================================
+[564] https://www.instagram.com/reel/DT73fBODORV/
+STATUS: OK
+DURATION: 0:54   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] I don't know who needs to hear this, but just because you go to the gym and eat healthy doesn't mean you shouldn't get blood work.
+[0:06 - 0:11] This is a mandatory for people who are enhanced, but this also applies to people who are natural as well.
+[0:11 - 0:17] You can look like you're in the best shape of your life and have a fucking fucked up blood work.
+[0:17 - 0:27] One of the things which I found out myself after getting a blood work done was that my water intake was never on point to the point that there was protein in my urine.
+[0:27 - 0:32] But on the outside, I was looking good, I was feeling good, I did not have a fucking issue.
+[0:32 - 0:36] Until I got a blood work done that found out that I have protein in my urine.
+[0:36 - 0:40] The moment I fixed my water intake, proteinuria was gone.
+[0:40 - 0:46] Indicating one thing that it was indeed a hydration issue, not really an issue with my kidneys.
+[0:46 - 0:49] Now would I have found this out if I didn't get a blood work done?
+[0:49 - 0:50] Of course not.
+[0:50 - 0:52] This is why I want you guys to get your blood work done.
+[0:52 - 0:54] Anyway, I hope that I spoke well.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iiyoutre
+[0:00 - 0:05] GxtBloocwork even
+[0:01] 100 ॥ 21210
+[0:01] be a
+[0:01] ar this
+[0:02 - 0:03] Hiyoutra mefity
+[0:03] wae,
+[0:04] youttrs
+[0:04 - 0:05] jealthy doesn't m
+[0:05] youre
+[0:05] you shouldn't
+[0:07 - 0:08] is a mandatory fo;
+[0:08] she
+[0:08 - 0:10] people who are in 4
+[0:09 - 0:10] UEthis also applies
+[0:13] var,
+[0:13 - 0:14] in the best shape, चर
+[0:14] your life and
+[0:16] icking fucked
+[0:19 - 0:20] found out myself aft
+[0:20] getting a blood w)
+[0:21] Was that |,
+[0:22] Was that I, my wat
+[0:22] intake
+[0:24] "Was never on poll
+[0:25] iby
+[0:25] Othe point that thicy
+[0:26] ७ हे
+[0:26] protein
+[0:27] "protein in my urine,
+[0:28] ‘On the outside
+[0:29] good
+[0:30] as, मे
+[0:30] ‘good I was feeling
+[0:31] did not have:
+[0:34] he हु"
+[0:34] ge Igot a blood w
+[0:35] Until | got a blood
+[0:35] ne that foun
+[0:36] ave protein in
+[0:38 - 0:39] foment I fixed my wi
+[0:39] intake, protein re
+[0:40] gone
+[0:41] आए indica
+[0:42] ing that it was
+[0:43] hydration
+[0:44] hydration issue,
+[0:45] hog
+[0:45] Teally anissue
+[0:47] fould | have found tl
+[0:47] out
+[0:48] didn't get
+[0:51] this is why | want yc
+[0:52] mone)
+[0:52] f get your blood w:
+[0:53] folly
+[0:53] for
+[0:53] ore:
+[0:53] Anyways,

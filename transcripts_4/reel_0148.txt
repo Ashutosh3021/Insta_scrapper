@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[148] https://www.instagram.com/reel/DcwFnmtsB2J/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] You can't train your back.
+[0:01 - 0:03] You can't train your chest in the same day, man.
+[0:03 - 0:05] If you train your back, your chest is not going to go.
+[0:05 - 0:08] Because they're going to be competing each other with growth.
+[0:08 - 0:09] Right, right, right.
+[0:09 - 0:10] What did you say, bro?
+[0:10 - 0:11] What did you say?
+[0:11 - 0:13] New study just said that you're stupid.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Don't trai
+[0:00 - 0:05] And back on the same day,
+[0:01] ithain)
+[0:01 - 0:02] Donit:
+[0:01 - 0:02] chest
+[0:02] nal
+[0:03 - 0:05] Donit train’chest}
+[0:04] nit
+[0:04] incl
+[0:04] est
+[0:04] If you
+[0:06] Donit:
+[0:06] ithai
+[0:06] chest
+[0:06] And back
+[0:06] he'same
+[0:07] competing 7
+[0:07 - 0:08] omithe samelday
+[0:08 - 0:09] And)
+[0:09] - ५ «७ ढक
+[0:09] Don't train:chest
+[0:09] “onstie1saMm6iC 3pm
+[0:09] See
+[0:10] Py Andibacktonithelsamelday)
+[0:10] Mie;
+[0:10] 20७५ ८
+[0:10] Ory
+[0:10] What, what, what da You,
+[0:10] say bro?
+[0:11] So! Mey
+[0:11] Pup,
+[0:11] Actiy My
+[0:11] Con

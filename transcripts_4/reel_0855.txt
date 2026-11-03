@@ -1,0 +1,227 @@
+# model: ggml-large-v3
+========================================================================
+[855] https://www.instagram.com/reel/DKo2jq3B3SK/
+STATUS: OK
+DURATION: 1:25   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] अगर तुम्हें लगता है high rep sets are good for muscle growth, you have been misled.
+[0:04 - 0:09] अभी हम सब ने वो famous line सुनिये कि anything between 5 to 30 reps can build muscle.
+[0:09 - 0:14] But main question ये आता है कि क्या सारे rep ranges give you the best stimulus to fatigue ratio?
+[0:14 - 0:14] बिल्कुल नहीं.
+[0:14 - 0:18] Now in order for you to understand what I'm talking about, you have to understand two things.
+[0:18 - 0:22] पहला, the feedback loop of motor unit recruitment and दूसरा, supraspinal CNS fatigue.
+[0:22 - 0:27] अभी जब भी हम एक चीज लिफ्ट करने का try करते हैं, हमारी body एक signal send करती है, call the central motor command.
+[0:27 - 0:30] अभी ये signal causes motor unit recruitment.
+[0:30 - 0:35] Problem ये है कि whenever this signal is being produced, इसका एक copy, call the culinary discharge, is also produced.
+[0:35 - 0:38] और ये culinary discharge increases your perception of effort.
+[0:38 - 0:42] अभी हर दूसरे इंसान का अलग maximum perception of effort होता है.
+[0:42 - 0:46] अगर तुमने तुमारा max perception of effort hit कर लिया, तुम ये feedback loop breaker दोगे.
+[0:46 - 0:49] Hence, इसके बाद motor unit recruitment नहीं होता है.
+[0:49 - 0:54] अभी ऐसी बहुत सारी चीजें जो तुमारी perception of effort बढ़ाती है, without increasing motor unit recruitment.
+[0:54 - 0:55] इन्हें कहते है sensations.
+[0:55 - 0:58] और ये sensations can come by three different ways.
+[0:58 - 1:00] पहले, the burning feeling which you feel doing high reps.
+[1:00 - 1:03] दूसरा, तुमारा cardiovascular system which causes a limiting factor.
+[1:04 - 1:07] और तीसरा, inflammatory mediators जो तुमे ठकान वाली feeling देता है.
+[1:07 - 1:12] अगर हमारा main goal is muscle growth, we have to make sure that we minimize this amount of sensations.
+[1:12 - 1:15] और ये उतना complicated भी नहीं है जितना लगता है.
+[1:15 - 1:20] तुमे बस longer respirations में train करना, एक lower rep range में train करना, और तुमे exercises wisely choose करना.
+[1:20 - 1:24] अभी इससे हम fatigue भी minimize कर पाएंगे, और stimulus भी maximize कर पाएंगे.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] | aay
+[0:00] High Re P fo
+[0:00] 775 #*
+[0:00 - 0:02] |'Grow
+[0:01] H hep tp r mus
+[0:01] ion
+[0:01] कि rep sets
+[0:02] aes
+[0:02] P ८220 €
+[0:02] muscle growth
+[0:03] See.
+[0:03] HighRep for
+[0:03] rowtl
+[0:03] uscle
+[0:03] You have been misled
+[0:04] पा y
+[0:04] Abhi ham sab ne
+[0:05] Bo famous Line
+[0:07 - 0:08] Between
+[0:07 - 0:08] Anything
+[0:10] 2 Pw é : 13
+[0:10] main questo ata ki
+[0:11] See. \
+[0:11] INS
+[0:11] 4524
+[0:11] kya sare
+[0:11] give you the
+[0:12] Bris, ४ हि
+[0:12] best stimulus to
+[0:13] १८724
+[0:14] Bilkul
+[0:14 - 0:16] see
+[0:15] Now an order,
+[0:15] ju to
+[0:16] eal |
+[0:16] sor
+[0:16] talking “F you
+[0:17] eee
+[0:17] have to = =
+[0:19] के al
+[0:20] The
+[0:20] Loop
+[0:20] Motor Unit
+[0:20] next
+[0:21] aor!
+[0:21 - 0:22] 2. supraspinal
+[0:22] cod)
+[0:22] CNS fatigue
+[0:23] Abhi Jab bhi hame chij
+[0:24] oe e
+[0:24] Karte Hai
+[0:25] Ek signal send
+[0:26] Premotor
+[0:26] Primary
+[0:26] cortex
+[0:26] ‘SMA
+[0:26] Karti Hai call the
+[0:27] centre molar command
+[0:28] Abi ye signal causes
+[0:29] motor unit
+[0:30] problem ye hai ki
+[0:31] क्र
+[0:31] Whenever this signal
+[0:32] न छा
+[0:32] is being produced
+[0:33] Sky copy called
+[0:34] discharge is also
+[0:35] produced
+[0:36] set
+[0:36] scr
+[0:36] culinary di
+[0:37] yy aan
+[0:37] Iie
+[0:37] 2 का
+[0:37 - 0:38] see
+[0:38] शण्माआआ .
+[0:38] . ffort
+[0:38] perception
+[0:39] श्र
+[0:40] set
+[0:40] ka alag eC
+[0:41] Ale
+[0:42] This. eee, F if
+[0:42] २. reduced
+[0:42] aia
+[0:42 - 0:43] a Tumhara
+[0:42 - 0:44] allt
+[0:43] ५ ae
+[0:43] i छन्डट
+[0:44] ॥ iW i
+[0:44] luced
+[0:44] er liya
+[0:45] a k loop
+[0:47] 1 | ७३
+[0:47] <7 बछडढ
+[0:47] YBa
+[0:47] hence iske bad
+[0:47] motor recruitment
+[0:48] eal:
+[0:48] motofF ri
+[0:48] ones,
+[0:49] ate
+[0:49] Abhi esi buhut sari
+[0:50] wey
+[0:50 - 0:51] i' Bae
+[0:50 - 0:51] chije h jo tumare
+[0:50 - 0:51] perception of
+[0:52] fan
+[0:52] आदि, effect badhati:h_ \
+[0:53] without
+[0:53] increasing motor
+[0:54] yf. y
+[0:54] Inhé Kahte hal ot )
+[0:55] sensations or yeah
+[0:56] sensations can come
+[0:57] ig Sensa’
+[0:57] ations”
+[0:57] . 2 i Burnin
+[0:57] ms three
+[0:57] different ways y
+[0:58] il Buratg Sensations
+[0:58] the burning = 5
+[0:59] 1. Bur
+[0:59] feeling which yous,
+[1:00] = Burning'Sensations 7 ७
+[1:00] feel doing high reps»
+[1:01] BV 2% 2
+[1:01] cardiovascular
+[1:02] 860 by Sa ‘
+[1:02] which causes
+[1:03] =a a Dem
+[1:03] 4524 हु
+[1:03] a limiting factor or
+[1:04] aia e
+[1:04] ern
+[1:05] INS
+[1:05] ८6152
+[1:05] thakan ४४. deta
+[1:05 - 1:07] — mediated jo tumhe
+[1:06] & Wis i a
+[1:06] imhe
+[1:06] mediated po
+[1:06 - 1:07] thakan wali
+[1:06 - 1:07] ig deta
+[1:07] लात जल
+[1:07] 7 Sa of
+[1:08] श्र
+[1:08] जा ff
+[1:08] 4524
+[1:08] Agar main goal
+[1:08] is muscle
+[1:09] growth a a. to
+[1:10] that w
+[1:11] iT is
+[1:11] ise x=
+[1:12] | wr, Fr
+[1:12] ढ़ | B
+[1:13] i यु
+[1:13] [| बनना
+[1:13] utna
+[1:13 - 1:14] bhinhih
+[1:15] Lagta hai
+[1:15] longer
+[1:16] piries me
+[1:16] Coldate]
+[1:17] i aii
+[1:17] ary
+[1:17] in karni
+[1:18] 7 rn
+[1:18] Train at alo
+[1:18] ower rep range
+[1:19] mw पे
+[1:19] कि 2 ig aft
+[1:19] exercises wisely
+[1:20] व Vis iy 4
+[1:20] choose fe
+[1:21] — es é
+[1:21] Abhiisse Hume fatigue
+[1:22] ae for mi
+[1:22] 6224
+[1:22] shi minim
+[1:22] Kar payenge
+[1:23] pt form
+[1:23] rr रह
+[1:23] कि पे
+[1:23] ig OB
+[1:23] or अति
+[1:24] सा आह
+[1:24] नेट low for mone)
+[1:24] 4224
+[1:24] maximised kar
+[1:24] payenge Hope that
+[1:25] Vee
+[1:25] Follow for more

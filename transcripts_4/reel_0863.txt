@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[863] https://www.instagram.com/reel/DKWi26INwkp/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Imagine shooting a man with your last bullet, and he stands there, unfazed.
+[0:06 - 0:08] Do I look natural?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Missedime?
+[0:00] IMAGINE
+[0:01] MAN
+[0:02] 3 me?)
+[0:02] 1881
+[0:03 - 0:04] Missedime?).
+[0:04] THERE
+[0:05] ॥॥5560116/
+[0:05 - 0:06] UNFAZED
+[0:06 - 0:08] 7 me?
+[0:07] Missed\me?,
+[0:07] 100K
+[0:08] CANCELLED
+[0:09] है me?
+[0:09] 69707

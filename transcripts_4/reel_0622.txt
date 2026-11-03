@@ -1,0 +1,71 @@
+# model: ggml-large-v3
+========================================================================
+[622] https://www.instagram.com/reel/DSaOOALDIUi/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:24] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] he " leg press
+[0:00 - 0:02] Guys it’s true
+[0:00 - 0:02] don’t lock your knees
+[0:01] fii
+[0:01] 8 inth
+[0:01] eleg PG
+[0:02] SAL leg préss'
+[0:03] fad
+[0:03] ee. छा
+[0:03] VPA
+[0:03] 4 2७
+[0:03 - 0:04] |should’ve दर
+[0:05] aa गीत!
+[0:05] i हद
+[0:05] ZEEE
+[0:06] ef bc
+[0:06 - 0:08] Thigger'wanningpa!
+[0:07] Ae a
+[0:08] eee
+[0:09] a गीत!
+[0:10] a wanningna
+[0:10] “SELLE
+[0:11] Trigg
+[0:11] + Wann
+[0:11] 1५५७१ 8 ७
+[0:11] "LEZ
+[0:12] i“ fi
+[0:12] tal
+[0:12] Yeah
+[0:12] ia LO
+[0:12 - 0:13] “nothing happened
+[0:14] Causeli
+[0:14] acconain
+[0:14] M Op
+[0:14] Poe i
+[0:15] pes ig
+[0:15] Azz
+[0:16] CCF
+[0:17] Viz
+[0:17 - 0:18] ildonithavelhyoe
+[0:18] ee a
+[0:19] पे Not gonna snap
+[0:19] n Jockin .
+[0:19] EEF
+[0:19 - 0:20] ur knees.injhalf™
+[0:20] u're not gonna A. प्र
+[0:20] on locking aut ऐप
+[0:21] as long as you ll you
+[0:21] De performed
+[0:21] हि. छा
+[0:21] Lge,
+[0:21 - 0:23] है the movement
+[0:21 - 0:23] ji ithe way it'smeant
+[0:22] way.it’s.meant
+[0:22] fe 0 .
+[0:22 - 0:23] as long as you 8:
+[0:22 - 0:23] ELF |
+[0:23] ig De 12200,
+[0:23] 22124
+[0:23] ८221

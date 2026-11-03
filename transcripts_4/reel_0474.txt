@@ -1,0 +1,59 @@
+# model: ggml-large-v3
+========================================================================
+[474] https://www.instagram.com/reel/DV1GOGKkztS/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] while youine working
+[0:00] प्र
+[0:00] towards'yourgoal™
+[0:01] - world,
+[0:01] 00100 3) our Goel)
+[0:02] ७:2०
+[0:02] pan,
+[0:02] don
+[0:02] तथा
+[0:02] {to little
+[0:02] BPN <a
+[0:02] com
+[0:02] जज जल
+[0:03] donitaf
+[0:03] onget
+[0:03] ०२५४).
+[0:03] Bas
+[0:03 - 0:10] “tojlivefallittle
+[0:04] don't on
+[0:05 - 0:06] don’t forget —
+[0:06] “Tine
+[0:07] a "या
+[0:07 - 0:09] | fordet
+[0:08] 4 forget
+[0:09] a ee.
+[0:10] se हा
+[0:10] जज ता
+[0:10 - 0:11] don't forget
+[0:11] ito)
+[0:11] liveell
+[0:12] _iolivefaiitte “* ||
+[0:13] livetaliecle my
+[0:14] |. forget
+[0:14 - 0:18] tollive allittle
+[0:15] don't forget
+[0:15] कहे
+[0:15] ont
+[0:16] donit > te
+[0:17] a ae
+[0:17] | Wie
+[0:17] ate
+[0:17] jet
+[0:17] little
+[0:18] | Wire i}
+[0:18] ना ibforget
+[0:19] ee ibfonget
+[0:19] ॥४80॥11|8
+[0:20] Age

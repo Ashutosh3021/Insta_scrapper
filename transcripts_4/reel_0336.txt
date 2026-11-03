@@ -1,0 +1,85 @@
+# model: ggml-large-v3
+========================================================================
+[336] https://www.instagram.com/reel/DY2ajwwM1mT/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] We'll be right back.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a बिक.
+[0:00] pal
+[0:00] ner
+[0:00] हर है
+[0:00] 1 letting you k
+[0:01] iat
+[0:01] lpyo
+[0:01] pushidow
+[0:01] art
+[0:02] ver
+[0:02] 9 your
+[0:02] perf
+[0:02] ad y
+[0:03] as in
+[0:03] 3 10018
+[0:03] ji है
+[0:03 - 0:05] Isn
+[0:04] 491.
+[0:04] Minisstwi
+[0:04] Isnt ol
+[0:05] (ais tWI
+[0:05] Colo
+[0:05] sting
+[0:05] AF, a|
+[0:06] Isnitado
+[0:07] 49॥1 |
+[0:07] petnieges
+[0:07] 9082
+[0:07] fu ctions 4
+[0:08] Per
+[0:08] हि हू
+[0:08] / गए the elbow
+[0:08] Zia
+[0:09] छा ७. |
+[0:09] ॥ 4 “21924
+[0:09] ea 2
+[0:09] Pol!
+[0:09] 7 हि
+[0:09 - 0:11] J 7: Extending the elbow
+[0:10] ual
+[0:10] / 7 bxteptingt
+[0:10] bow
+[0:11] है| af
+[0:11] LSS
+[0:11] All
+[0:12] uni
+[0:12] nsion
+[0:12] nil भ
+[0:12] Nite
+[0:12] yi बाई
+[0:12] "a gee
+[0:12 - 0:13] And shoulder exte
+[0:13] क्रम या
+[0:13] खाद
+[0:13] A सिलण ता तानना
+[0:13] ee ere
+[0:14 - 0:15] Notithis
+[0:15] ब्रा
+[0:15] Nos
+[0:15 - 0:18] All |
+[0:16] Ne “i,
+[0:16] VW é
+[0:16] rf 7s
+[0:16] 49.1
+[0:16 - 0:17] sf for ८
+[0:17] ref
+[0:18] Sey
+[0:18] हा for Ya €
+[0:18] PF ae)
+[0:19] ल्‍तज् |
+[0:19] 7 SN
+[0:19] pes
+[0:20] sf for 24
+[0:20] y a bé

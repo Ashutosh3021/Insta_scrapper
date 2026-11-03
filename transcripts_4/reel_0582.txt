@@ -1,0 +1,105 @@
+# model: ggml-large-v3
+========================================================================
+[582] https://www.instagram.com/reel/DTaPuRnDEUA/
+STATUS: OK
+DURATION: 0:34   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] You know, at a certain point of your deficit, you will come to a point where you're going to be hungry throughout.
+[0:03 - 0:05] You wake up, you're hungry.
+[0:05 - 0:06] You sleep, you're hungry.
+[0:06 - 0:08] You go to the gym, you're hungry.
+[0:08 - 0:09] You take a shower, you're hungry.
+[0:09 - 0:11] You take a shit, you're going to be hungry.
+[0:11 - 0:13] And you know what's the best thing to do at that time?
+[0:13 - 0:13] Just deal with it.
+[0:13 - 0:14] Yep, just deal with it.
+[0:14 - 0:17] You don't have to do these crazy-ass high-volume foods.
+[0:17 - 0:21] You don't have to do these crazy-ass, you know, insane amount of water drinking.
+[0:21 - 0:23] Just learn how to deal with it.
+[0:23 - 0:26] Learn constraint and it is going to be the best thing for you.
+[0:26 - 0:30] Just understand that it's completely okay that you're feeling hungry, right?
+[0:30 - 0:32] You're in a fucking deficit at the end of the day.
+[0:32 - 0:34] You're gonna feel hungry, right?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] श्री
+[0:00] know, you
+[0:00 - 0:01] ‘ during}
+[0:00 - 0:01] tloss)
+[0:01] point of your
+[0:02] , chirthg tedloss
+[0:02] will come to’
+[0:03] 4 you are goil
+[0:04] P ae
+[0:05] Do you wak
+[0:06] 4 हक
+[0:07] ७.७१
+[0:07] Noa
+[0:07] 7 मय
+[0:08] ‘gym, you ba. h
+[0:08] you
+[0:09] rae
+[0:10] Was
+[0:10] hye
+[0:10] Punery youl < aS.
+[0:11] हैः
+[0:11] 4४33
+[0:12] Pie
+[0:12] mes
+[0:12] yaw what's
+[0:12] ४९०
+[0:13] bel |
+[0:13] bed
+[0:13] deal
+[0:14] wa 6
+[0:14] the
+[0:14] Yep, just.
+[0:15] to, you
+[0:16] hel.
+[0:16] bell
+[0:16] to, you don't hi
+[0:17] jhe
+[0:17] ५ देह
+[0:18] hii
+[0:18] volume meals
+[0:18] jou
+[0:18] ndai
+[0:18] ॥ 0118 Ey
+[0:18] tera
+[0:18] ico}
+[0:18 - 0:20] taint
+[0:19] meals
+[0:19] od) buts
+[0:19] ॥ 0142 |
+[0:19] aidifon
+[0:19] ७ ad
+[0:19] to do thesi
+[0:20] jumeimeals
+[0:20] faneygood|b
+[0:20] ndaiditon
+[0:20] lea
+[0:20] ng.co
+[0:20] know »
+[0:21] know insane ai
+[0:21] water drinkin,
+[0:22] 8 ws 6
+[0:22] 41 के
+[0:22] how
+[0:24] SRS
+[0:24] Learn constrai
+[0:25] ny ve
+[0:25] ile
+[0:25] goingto
+[0:26] Wek)
+[0:26] ots
+[0:27] tes
+[0:27] understand 4
+[0:28] e al
+[0:28 - 0:30] completely okay #l
+[0:29] a Sa
+[0:30] are feeling hungry rig
+[0:31] areina AN
+[0:32] deficit at the औ!
+[0:33] you are goingtof कर Sel

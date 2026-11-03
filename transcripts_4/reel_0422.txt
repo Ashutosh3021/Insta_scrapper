@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[422] https://www.instagram.com/reel/DW6ZSXVjIAh/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Raghu, I have not progressed in the last two weeks.
+[0:01 - 0:03] I have not added any reps in my given exercises.
+[0:03 - 0:07] This is exactly what you do if you have not progressed in the last two weeks.
+[0:07 - 0:15] Hope that was helpful.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] => ऑन हीं
+[0:00] “| haven't progress
+[0:00] | 1140
+[0:00] Raghu, |have
+[0:00 - 0:03] In the last 2 weeks"
+[0:01] oA os sed
+[0:02] el haven't ae
+[0:02] Mitts)
+[0:02] sae
+[0:02] Ihave not added
+[0:03] रण ही
+[0:03] “| haven't 7
+[0:03] VAS} K
+[0:03] my given
+[0:03] Mes.
+[0:04] amg
+[0:04] है छा
+[0:05] Thisis ceil what you
+[0:06] the
+[0:07] १७ आई
+[0:07] Mei
+[0:07] asy
+[0:07] Win
+[0:08 - 0:13] Mie.
+[0:09] है J
+[0:09] axe %
+[0:09] ais
+[0:10] af न
+[0:12] ५५७८
+[0:13] Res
+[0:13] bey
+[0:13] ७०. पई
+[0:14] Moz
+[0:15] patient
+[0:15] a i व, था

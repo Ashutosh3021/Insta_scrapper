@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[581] https://www.instagram.com/reel/DTavpYFE8jK/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Or you should only buy fish oil which is oxidized or it will not work.
+[0:02 - 0:03] Shut the fuck up.
+[0:03 - 0:05] All of this is a fucking marketing gimmick.
+[0:05 - 0:09] Buy a fish oil which you can consume every day without fail and that is it.
+[0:09 - 0:11] There is no such thing as oxidized, non-oxidized.
+[0:11 - 0:14] Everything works the same fucking way.
+[0:14 - 0:16] You wanna buy natural teen, buy natural teen.
+[0:16 - 0:19] You wanna buy fish oil from Blinkit, buy it from fucking Blinkit.
+[0:19 - 0:21] It doesn't fucking matter.
+[0:21 - 0:26] Choose a fish oil which you can take every fucking day and consume it.
+[0:26 - 0:28] That is it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] “oh you shou
+[0:00 - 0:02] non oxidised|fistroil
+[0:01] fishoil
+[0:01] oil which
+[0:02] will
+[0:03] - the fuck
+[0:05] All of this is afucking
+[0:05] marketiny
+[0:09] sume =
+[0:09] fail and thatis ॥
+[0:13] verything works
+[0:15] wantto buy natur:
+[0:16] Buy natural tea
+[0:18] Nees -
+[0:19] ou Monel
+[0:20] itd
+[0:20] loesn't
+[0:21] It doesn't fuc!
+[0:21] matter
+[0:22] Choos@)5
+[0:23] Choose a fish
+[0:26] श्र

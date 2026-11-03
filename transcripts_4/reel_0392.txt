@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[392] https://www.instagram.com/reel/DXcQWQDDCAg/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:23] This is just a reminder for all the beginners out there that you don't really have to wait to build a base in order to do machine based exercises, you can literally build a base with machine based exercises, they are actually going to be much more better for you because the barrier to entry to those exercises is actually lower compared to the movements which have a higher level of barrier to entry. So don't worry about using machine based exercises, it's all good.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] This is just
+[0:00 - 0:01] है. ‘s should’
+[0:00 - 0:03] uild a base before)
+[0:00 - 0:03] © Doing machines ,
+[0:01] uild’a base +
+[0:01] Tits just agfpinder
+[0:01] forall the
+[0:02] ' shoul
+[0:02] out
+[0:02] there and you
+[0:03] ners should
+[0:03] have to
+[0:04] to wait to का
+[0:05] have to wait to build a
+[0:05] base in order to do
+[0:06] machine बा exercises
+[0:09 - 0:10] based =
+[0:12] be much mors
+[0:13] be much moré better
+[0:13] for you because
+[0:15] jose
+[0:15] exercises
+[0:17] क्र
+[0:17] lower =
+[0:18] lower compared to the
+[0:18] movements
+[0:21] So, don't worry
+[0:22] तक f
+[0:22] So, don't -& about
+[0:22] using machine based
+[0:23] 7 for f
+[0:23] It's ‘e

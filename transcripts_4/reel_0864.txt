@@ -1,0 +1,26 @@
+# model: ggml-large-v3
+========================================================================
+[864] https://www.instagram.com/reel/DKPLvztBY-w/
+STATUS: OK
+DURATION: 0:05   SPOKEN LANGUAGE: zh
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] 老天叫说别管江湖龙湖道
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Mellookinglatiatgeplyito
+[0:00] ofimy)
+[0:00] heels
+[0:00] hth»
+[0:00 - 0:05] Knowing damn }
+[0:00 - 0:05] Its'straight out of GPT
+[0:01] Ong
+[0:01] Ormyrecls
+[0:01 - 0:03] Maluckiigetarcaly to
+[0:01 - 0:05] Atleastinemove the “—
+[0:02 - 0:04] Chaaimpreclss
+[0:03] hog
+[0:04] Mellookingfataineplyito
+[0:05] Maluckingete
+[0:05] Chacimypreks

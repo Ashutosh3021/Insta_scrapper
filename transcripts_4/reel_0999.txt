@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[999] https://www.instagram.com/reel/C-XmP5Fhq9y/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] it get it how you live it 10 toes in when we standing on business i'm a big stepper
+[0:05 - 0:10] underground methods top notch whores get the most not the lesser straight terror
+[0:10 - 0:13] product of your errors pushing culture baby got that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:05 - 0:13] The cut
+[0:07] ant
+[0:11] Rh है i

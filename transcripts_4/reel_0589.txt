@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[589] https://www.instagram.com/reel/DTPyBRtE6_V/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: id
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] Terima kasih telah menonton!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ens
+[0:00 - 0:02] fe not doing shit
+[0:00 - 0:06] “for warmup
+[0:01] Toe
+[0:02] ane
+[0:02] sti
+[0:02] ~ Hor wi
+[0:02] armup
+[0:03] 19 not doing
+[0:03 - 0:04] Ine
+[0:04] vis not v
+[0:05] ets
+[0:05] is notdoing shits
+[0:05] | warmup
+[0:05] Soe
+[0:06] af doingjshit}
+[0:06] कि बल
+[0:07] छः doin
+[0:07] Ihe
+[0:07] 3 for /
+[0:08] ous ?
+[0:09] Just Raise Temperature
+[0:10] i Temperature j
+[0:10] Ee 2
+[0:11] Waray
+[0:11] A | given
+[0:11 - 0:16] exercise ra :
+[0:12] aa ता है
+[0:13] ain)
+[0:13] P or that g
+[0:13] 1 अं
+[0:14] Vaamup रा ee
+[0:14] aly
+[0:14 - 0:16] ते given!
+[0:15] | andl वि]
+[0:16] Ey वि]
+[0:17] anal
+[0:17] BF sor that g
+[0:17] हि अं
+[0:18] 038 or that g

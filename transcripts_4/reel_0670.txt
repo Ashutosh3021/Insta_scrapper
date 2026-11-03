@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[670] https://www.instagram.com/reel/DQ_nHZYjBzv/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Imy/emotions dictate
+[0:00 - 0:02] go.aboutimy day”
+[0:01] yy emotions
+[0:02] १1180
+[0:02] dicta
+[0:02] ‘Sie
+[0:03] शत) a
+[0:04] mpleteralliyour’ ॥|
+[0:04] tial ~
+[0:04] i aioe
+[0:04 - 0:08] regardless of how you feel
+[0:05] a él "|
+[0:06] @ all your (Ess
+[0:06] नशे
+[0:07] = él or elo
+[0:08] complete all your tasks ’

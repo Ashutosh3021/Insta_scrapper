@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[583] https://www.instagram.com/reel/DTXTMJ5jNbw/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] you know people talk about getting their protein lab tested and you know what needs to be lab
+[0:04 - 0:09] tested these fucking skincare products bro i swear to god i just feel like there is something
+[0:09 - 0:13] which is happening with these skincare products which i just need to see because i know for sure
+[0:13 - 0:18] some of these skincare products are just water or oil perhaps you know i don't know
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] en ave
+[0:00] You know people
+[0:01] good
+[0:02] isqood 0
+[0:02] tester
+[0:03] क्र
+[0:03] And you know what 7९ ७॥
+[0:04] And you
+[0:04] ‘on whai
+[0:04] to be!
+[0:05] These fucking skincai
+[0:09] something wi
+[0:11] baal
+[0:12] eal
+[0:12] hich | just io Rg
+[0:13] hich I just need t f
+[0:13] ag Iknor
+[0:14] ९ of these
+[0:15] products are jus
+[0:17] Or oil perhaps
+[0:18] ‘oil perhaps you know _

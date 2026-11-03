@@ -1,0 +1,286 @@
+# model: ggml-large-v3
+========================================================================
+[639] https://www.instagram.com/reel/DRzLV7BDO56/
+STATUS: OK
+DURATION: 1:57   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Jeremy Ethia just posted a new study and it says what I've been telling you guys for a long period
+[0:04 - 0:09] of time. You see these guys conducted a study and in this given study they had participants perform
+[0:09 - 0:14] an exercise which is hardest at the stretch position and hardest at the contracted position
+[0:14 - 0:18] and these were same exercises. So for example that would be a pec fly hardest at the stretch
+[0:18 - 0:23] position and a pec fly hardest at the contracted position and they found out that it caused no
+[0:23 - 0:27] difference. There was literally no difference between a pec fly which was done at the stretch
+[0:27 - 0:31] position and a pec fly which was done at the contracted position which is something I've been
+[0:31 - 0:36] telling you guys for a very long period of time that you will max out your stretch mediated
+[0:36 - 0:41] adaptations from a given exercise and you're no longer gonna benefit from stretch mediated
+[0:41 - 0:46] hypertrophy rather you're just gonna be maintaining those stretch mediated adaptations and no matter
+[0:46 - 0:50] how much you try to increase the load you're not going to see extra stretch mediated hypertrophy
+[0:50 - 0:55] from that given exercise purely because the stimulus for stretch mediated hypertrophy
+[0:55 - 0:57] is reaching a longer muscle.
+[0:57 - 1:26] Now I'm just going to give you one example let's take this 45 degree hip extension for an example
+[1:26 - 1:27] right here
+[1:27 - 1:33] I'm holding dumbbells now instead of me holding dumbbells if I looped myself around with a
+[1:33 - 1:39] resistance band now the same exercise which was targeting the hamstring now has become a really
+[1:39 - 1:44] good glute exercise now now it doesn't mean that the stretch position was causing growth for the
+[1:44 - 1:49] hamstring it was just that the hamstrings had good leverage over there it's not the stretch
+[1:49 - 1:54] you know this whole stretch thing could have just been avoided if people just looked into leverages
+[1:54 - 1:57] but yeah anyways that is it hope that was helpful
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ee iy
+[0:00] sHy
+[0:00 - 0:04] Jeremy, ७
+[0:00 - 0:04] Stretch is VAUMED!
+[0:01] chis
+[0:01] ETED
+[0:01] pie. f
+[0:01] yar
+[0:01 - 0:02] Jeremy ३7771 just posted
+[0:02] 31९५५509७99 andit says
+[0:03] what Iihave been telling
+[0:03] ८ / ae
+[0:03] हैँ
+[0:04] guys for along period
+[0:05 - 0:07] Pre
+[0:05 - 0:08] SportRyiv
+[0:05 - 0:08] Stretch vs Squeeze: The
+[0:05 - 0:08] Impact of Varying
+[0:05 - 0:08] Resistance Challenge
+[0:05 - 0:08] at Long vs Short Muscle
+[0:05 - 0:08] Lengths. A Randomized
+[0:05 - 0:08] Controlled Trial
+[0:06] Preprint
+[0:06] You see these guys
+[0:06] conduct
+[0:08] this given ) 5* है
+[0:09] SAME
+[0:09] ANGE OF
+[0:09] MOTI
+[0:09] Cae
+[0:09] हर्ट
+[0:09 - 0:10] STRI
+[0:10] क्र
+[0:10] अकाल
+[0:10] articipants perform an
+[0:10] « which
+[0:11] STRETOH
+[0:11] 1५०५६ हलक
+[0:12] SAME
+[0:12] iain
+[0:12] आधा,
+[0:12 - 0:14] vate
+[0:12 - 0:14] SUEEZE
+[0:13] + dha
+[0:13] and hardest atthe
+[0:13] ia bi
+[0:14] tial
+[0:14] Mane
+[0:15] anol
+[0:15] 1111
+[0:15] Pum
+[0:15] © hem
+[0:15] 1.5 है
+[0:15] "same
+[0:16] a exany
+[0:16] हैँ
+[0:17] ce es
+[0:17] ‘yah
+[0:17 - 0:18] For example that would
+[0:18] Oi de
+[0:18] fet
+[0:18] beapec fly hardest
+[0:19] the stretchiposition and
+[0:20] ह ८3
+[0:20] pect
+[0:20] ly hardest at
+[0:21] & seo}
+[0:21] Flue
+[0:21] Prat छछ Daa)
+[0:21] Primal nae व्ूथ
+[0:21] E se}
+[0:21] 8 soo
+[0:21] Tin
+[0:21] leak
+[0:21] Primal Walaa व्यय
+[0:21] pec fly,
+[0:21] destiat
+[0:21] position and
+[0:21 - 0:22] lad
+[0:21 - 0:22] 5 al
+[0:22] aie
+[0:22] Fuad
+[0:22] Primal बूथ Oat
+[0:22] Primal nese Oa)
+[0:22] Fis
+[0:22] aa ah
+[0:22] Primal Wise Da
+[0:22] ‘they found) ७०१ पु &
+[0:23] fia
+[0:23] ide
+[0:23] aie i] lad
+[0:23] a Wis
+[0:23] Alas
+[0:23] छब्ल्नण्थण Baal
+[0:23] bp Aide,
+[0:24 - 0:25] There was literally no
+[0:25] difference between
+[0:26] 49७
+[0:26] न fly any
+[0:27] - stretch
+[0:28] Rar’
+[0:28] की 3 आओ
+[0:28] क्र
+[0:28] stretch position anda
+[0:31] which Isssemething|
+[0:31] have!
+[0:33] क्र
+[0:33] guys ane cs long
+[0:34] 7 in
+[0:34] ia time that
+[0:35] time that you will max
+[0:36] daptat
+[0:38] ry हु
+[0:39] id yi
+[0:39] long
+[0:41] 108
+[0:41] है 2
+[0:41] प्र
+[0:41] hypertrophy
+[0:42] tyh.
+[0:42] iret ६४०४५ rather
+[0:44] ५३५० ak
+[0:44] es a
+[0:44] maintaining the stretch
+[0:44] media
+[0:45] 4५३1७
+[0:45] rate adaptations and
+[0:48] SAK
+[0:48] tri
+[0:48] toincrea:
+[0:48] se the load you
+[0:48] हैँ
+[0:49] _ ghey ‘
+[0:49] 44 egolng ¢
+[0:50] rey
+[0:51] hypertrophy from that
+[0:52] Purely
+[0:53 - 0:54] _ Purely because the
+[0:54] te श्र
+[0:54] 7, stimulus for
+[0:55] vin
+[0:55] bal]
+[0:55] प्र
+[0:55] 7, ? mediator. hypertrophy
+[0:56] ५1७
+[0:57] longermuscle
+[0:58] _ longer कीट litt not
+[0:58] adding)
+[0:59] 4 addin' बैक load the
+[0:59] Jong
+[0:59] jerymuscle lift not
+[1:00] but ie is Just
+[1:01] issue to
+[1:02] These wi
+[1:03] ct OS
+[1:03] pul 2
+[1:03] These were exercises
+[1:03] doneion
+[1:04] py pe
+[1:04] movements
+[1:05] PY ig
+[1:05] da “im ‘
+[1:06] i hj
+[1:06] The pecs kind
+[1:07] ५86
+[1:07] The pecskind of have
+[1:07] good leverage
+[1:08] the movement.
+[1:10] te waiild bereally
+[1:10] ine a
+[1:11] PRS sng २
+[1:13] A tae
+[1:13] फूल,
+[1:14] pressor likea bicep
+[1:15] ७ १६
+[1:15] phy
+[1:15] j fi
+[1:16] sure the outcomes
+[1:17] ian
+[1:17] different.
+[1:18] sas %
+[1:18] las
+[1:18] ia Cc
+[1:19] fy airy
+[1:19] 5] qi
+[1:19] ~ Because again the
+[1:19] 64% हि
+[1:19] Fesigiance profile
+[1:20] 4४ different
+[1:21] different so the
+[1:22] pwr!
+[1:22] a Ag oingto - different.
+[1:23] Now I'mjust goingt
+[1:24] oe A
+[1:24] t जन
+[1:24] Se. a
+[1:25] ६९71,
+[1:26] ध्(ः ९
+[1:26] बजकर
+[1:27] प्र
+[1:27] me 4
+[1:28] ५. के
+[1:28] hey
+[1:28] lls.
+[1:29] see \
+[1:29] at we
+[1:30] 1S = 2
+[1:30] 19028
+[1:31] se न
+[1:32] Ce g
+[1:32] eee
+[1:32] 1.3. 21
+[1:33] PD vd tad
+[1:33] ln ional
+[1:33] stant
+[1:34] 5 es Cs
+[1:35] 4 पक का now the
+[1:36] targeting
+[1:37] binky
+[1:37] targeting the hamstring
+[1:37] 310५४
+[1:38] Pas]
+[1:38] ha mi
+[1:39] है. 4
+[1:39 - 1:40] “ yt has become areally good
+[1:40] f glute exercise now
+[1:41] whe
+[1:42] tch
+[1:43] 496
+[1:43] a" hiposition was
+[1:43] causil
+[1:44] rel
+[1:44] ७४29
+[1:46] 7 ts
+[1:46] t oy
+[1:46] hamstring it was just
+[1:46] that the
+[1:47] bbe J
+[1:47] क्र
+[1:47] 7५ मु a nad good
+[1:48] Age
+[1:48] vit
+[1:48] ot eS
+[1:48] hamstrings had good
+[1:48] leverage over there it’:
+[1:49] not the stretch you
+[1:50] ABW
+[1:50] 74 wholesstretch
+[1:51] ३४८»
+[1:53] ue 11
+[1:53] "avoided if people just
+[1:54] leverages but
+[1:54] Pe we
+[1:56] ges but yeah
+[1:57] ies tl

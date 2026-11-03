@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[20] https://www.instagram.com/reel/Deu6cr0s5LF/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: ko
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] ♪ And look at me I'm a shithead ♪
+[0:02 - 0:06] ♪ Sorry you came in with me ♪
+[0:06 - 0:08] ♪ Just like that ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] using
+[0:00] thi
+[0:00] itbelt
+[0:00] ith
+[0:00] Connectly?
+[0:01] Soe
+[0:01] ॥8॥1॥16 seatbelt
+[0:01] Correctly?
+[0:02] Conracthy
+[0:04] श्र

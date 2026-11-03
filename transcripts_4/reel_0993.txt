@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[993] https://www.instagram.com/reel/C-snqnmN-h9/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] LET'S GO GAMBLING!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] pox
+[0:04] x NN
+[0:05] Mes
+[0:07] pee

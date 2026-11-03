@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[702] https://www.instagram.com/reel/DQOItxADHNx/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] ( iiting slimed for being science
+[0:00 - 0:06] fe Going to wnbfrn
+[0:00 - 0:06] what are the chances ofime
+[0:00 - 0:06] based?
+[0:02] क्र
+[0:04] getting slimed for being ¥
+[0:05] / é slim
+[0:05 - 0:06] ed for being “y

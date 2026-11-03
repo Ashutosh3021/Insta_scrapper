@@ -1,0 +1,76 @@
+# model: ggml-large-v3
+========================================================================
+[555] https://www.instagram.com/reel/DUVpoqtjHvM/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] i don't know who needs to hear this but just because you're not cutting doesn't mean you
+[0:03 - 0:09] shouldn't do your cardio cardio is so important for your health if you do your cardio on time
+[0:09 - 0:14] you will recover quicker in between of your sets which people don't get a lot of you guys skip
+[0:14 - 0:18] cardio for i don't know why i don't know why some of you guys are even scared of doing cardio you
+[0:18 - 0:23] guys think is you're gonna lose muscle from doing cardio you have to do an insane amount of cardio
+[0:23 - 0:29] to lose muscle and that is a amount which you guys will never be able to do
+[0:29 - 0:32] okay go on the treadmill and start doing your cardio on time bro
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] animes
+[0:00] Cardio
+[0:00] Cardioisibadifor,
+[0:00] I don't know
+[0:01] —— नाक
+[0:01] elie |
+[0:01] hear this but
+[0:02] ee तप
+[0:02] islbad\fon
+[0:02] you are not
+[0:03] doesn:t
+[0:04] Teersibispanier
+[0:04] ६0 ५०७४७
+[0:05] doyourcardio cardiois
+[0:06] important for
+[0:07] जन Ithif
+[0:08] healt
+[0:08] ‘cardio.
+[0:10] aaa
+[0:10] ulwill
+[0:10] uicker,
+[0:10] हैं
+[0:10 - 0:11] ill recover,
+[0:11] uickerin between of
+[0:12] ie ale
+[0:12] tsiwhich) peop!>
+[0:13] your sets which|peopl
+[0:13] geta
+[0:14] all
+[0:15] eal
+[0:15] guys
+[0:15] skipcardioforl| ४७
+[0:15] Toe >
+[0:16] donit
+[0:17] Iidon;tiknow/why/some of
+[0:17] youlguys
+[0:18] fidoing
+[0:19] hink.
+[0:20] aaa
+[0:20] muscle
+[0:20] a ioc
+[0:21] 1115८1९॥/"०7#ध०॥ व८भथा०
+[0:22] ave’
+[0:22 - 0:23] aninsane
+[0:23] ive
+[0:23] A ja of cardio
+[0:24] use
+[0:24 - 0:26] aes
+[0:25] aaa
+[0:25] oan ;
+[0:26] eland hat
+[0:26] 1509
+[0:27] which
+[0:28] Tae ;
+[0:29] okay
+[0:30] eas
+[0:30] Lae
+[0:31] Lily,
+[0:32] aaa

@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[37] https://www.instagram.com/reel/DehIBSWsRfs/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] dude i fucking hate women being told that they cannot build the same amount of muscle
+[0:04 - 0:13] as men men and women can build the same amount of muscle hypertrophy is fiber specific what matters
+[0:13 - 0:19] is mechanical tension nothing else you guys both can build the same relative amount of muscle
+[0:19 - 0:26] compared to each other there is no difference only difference is is the starting point come on guys
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हैः । ब्ड
+[0:01 - 0:26] | swear न
+[0:02] नह ः
+[0:04] rey
+[0:08] १ बज
+[0:08] an bui
+[0:09] ~ | ९७68
+[0:09] क्र
+[0:09] bui
+[0:09] ate t of
+[0:11] ZEN,
+[0:12] fibre
+[0:12] ecific
+[0:13] (९३५
+[0:13] matters
+[0:14] vty
+[0:14] 515
+[0:14] anical
+[0:15] aes
+[0:15] | जहा
+[0:16] thy
+[0:16] hing else
+[0:17] ait
+[0:18] in buil
+[0:19] ४ Iswea
+[0:19] a ive
+[0:20] a है
+[0:20] बनने
+[0:21] Ea Ray
+[0:21] nto
+[0:23] ४०-०३
+[0:24] ५५८
+[0:24] बन कै
+[0:25] Sha)
+[0:25] Ales)

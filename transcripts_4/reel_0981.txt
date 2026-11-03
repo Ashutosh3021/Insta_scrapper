@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[981] https://www.instagram.com/reel/DCbtC25t1P1/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] if this is what you think dieting looks like i think you have the wrong idea about dieting
+[0:04 - 0:11] so this is exactly how i looked at my leanest and guess what i ate pancakes chicken smothered
+[0:11 - 0:17] with cheese protein cookies we have to stop thinking that dieting means that you're gonna
+[0:17 - 0:23] suffer you can still eat a good amount of food if you know how to diet properly if you know how
+[0:23 - 0:29] to make those recipes you will not even feel like you're dieting this is how lean i got just by
+[0:29 - 0:31] Eating whatever you just saw
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Chicken, Rice
+[0:00] Images may be subject §
+[0:00 - 0:01] = is = dieting
+[0:00 - 0:01] ibs
+[0:00 - 0:03] Prep - Eats by April
+[0:00 - 0:03] th Share
+[0:01] 2308
+[0:01] Chicken, Rice and Broccoli Nv
+[0:01 - 0:03] Images may be subject to copyright. Learn,
+[0:02] ee isinotidieting
+[0:02] Chicken, Rice and 80५
+[0:03] wae
+[0:03] ihisiisinot
+[0:03] Chicken, Rice ary
+[0:05] rc का
+[0:07] 1 जय सबक
+[0:09 - 0:11] Pancakes, Chicken smothered
+[0:10] ther
+[0:12] Prot
+[0:12] insti
+[0:13] Protein cookies.
+[0:13] a ag
+[0:13] pen
+[0:15] . जला
+[0:15] y "हे
+[0:15] 36 3
+[0:16] ae (S
+[0:16] via
+[0:17] goingto suffer.
+[0:18] - orca ete
+[0:19] Com
+[0:19] sAa
+[0:23] If you know how to make those ॥
+[0:24] recipes, y
+[0:26] feel like you are dieting
+[0:27] ६७१ हे
+[0:27] Poe
+[0:29] “Teh
+[0:30] by eating whatever you

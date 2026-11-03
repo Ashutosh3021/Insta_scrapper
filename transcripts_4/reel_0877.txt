@@ -1,0 +1,244 @@
+# model: ggml-large-v3
+========================================================================
+[877] https://www.instagram.com/reel/DJuHhJZM_jb/
+STATUS: OK
+DURATION: 2:35   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] अगर तुम्हें लगता है कि एक set add करना progressive overload होता है, you have been misled.
+[0:04 - 0:10] अभी बहुत सारे लोगों को लगता है progressive overload can be quote-unquote achieved by three common ways.
+[0:10 - 0:14] One, by adding load, two, by adding reps, and three, by adding sets.
+[0:14 - 0:19] पर एक set add करना is not an appropriate way of measuring progressive overload.
+[0:19 - 0:23] अभी in order for you to understand what I'm talking about, you have to understand few things.
+[0:23 - 0:25] पहले, progressive overload होता क्या है?
+[0:25 - 0:28] अभी progressive overload एक change होते है तुम्हारे training variable में,
+[0:28 - 0:33] जो तुम्हारे muscle fibers जो high threshold motor units control करते है, for a given muscle group,
+[0:33 - 0:39] उनको same number of stimulating reps experience करने देता है, despite them getting stronger.
+[0:39 - 0:43] अभी after a workout that increases muscle protein synthesis for a period of time,
+[0:43 - 0:47] जो muscle fibers high threshold motor units control करते है, increase in size.
+[0:47 - 0:51] अभी this allows them to produce a greater force at a given shortening velocity.
+[0:51 - 0:55] ये सब तो ठीक है, but does increasing volume count as progressive overload?
+[0:55 - 1:00] नहीं, because it does not indicate that muscular adaptations has occurred since the last workout.
+[1:00 - 1:04] Increasing volume is a choice, not a sign of progressive overload.
+[1:04 - 1:06] I can go to the gym today and increase volume.
+[1:06 - 1:13] Will it be difficult? Yes, but it is a voluntary choice I made, not a sign of progressive overload.
+[1:13 - 1:16] अभी तुम्हारा volume can affect your state of recovery.
+[1:16 - 1:18] Let's say तुम एक type of volume लंबे समय से कर रहे हो,
+[1:18 - 1:21] और उसके अगले हफ़ते तुमने उसको increase कर दिया.
+[1:21 - 1:24] हम most likely एक चीज़ देखेंगे कि हमारी performance गिर जाती है,
+[1:24 - 1:29] and it is not because of lack of adaptation, but rather by slow recovery.
+[1:29 - 1:33] हमारा best bet will be to make sure कि हम volume same रखे एच भी,
+[1:33 - 1:35] ताकि हम observe कर पाए the signs of progressive overload,
+[1:35 - 1:39] whether it be the weight on the bar, the reps you have done, or the reps in reserve.
+[1:39 - 1:42] अगर तुम वॉल्यूम के साथ खिलवार करने का सोच रहे हो,
+[1:42 - 1:45] expect a temporary reduction in your training performance.
+[1:45 - 1:48] अगर तुम्हे प्रोग्रामिंग के बारे में अपना overthink नहीं करना है,
+[1:48 - 1:50] my training group link is in my bio, and yeah,
+[1:50 - 1:51] पब दराल सौफमो.
+[2:15 - 2:33] आपके प्रोग्रामिंग के साथ खिलवार करने का सोच रहे हो,
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ” progressive 4
+[0:00 - 0:01] Forhypertrophy’
+[0:00 - 0:03] ‘Sil
+[0:00 - 0:03] volume
+[0:00 - 0:03] ifyouh,
+[0:01] ry gressivey
+[0:01] if yor
+[0:02] ssivesovenlOad!
+[0:02] शा pe
+[0:02] TOP
+[0:02 - 0:03] Is progn
+[0:03] SSIVEION
+[0:03] load
+[0:03] sas
+[0:04] ” been! misled
+[0:04] ४ video,
+[0:04] ion sp
+[0:06] 170
+[0:07] । / 475
+[0:09] NSS
+[0:11 - 0:14] 1. Adding
+[0:12 - 0:14] 2, Adding reps
+[0:13 - 0:14] & Adking sets
+[0:15] ७ की.
+[0:15] a Le
+[0:16] ~ guy
+[0:17] ioo@
+[0:17] prop! guy:
+[0:18] ड्ट =
+[0:20] Und
+[0:20] emd)
+[0:20] (evenlo
+[0:20] yaa)
+[0:20] For hyp
+[0:20] riroplny
+[0:20] Abhi in order for you to
+[0:20 - 0:22] Progressive ०0
+[0:21] Progressive overload
+[0:21 - 0:22] what I'm talking about you
+[0:21 - 0:23] ॥ hypertrophy
+[0:22] Understi
+[0:22] For hypertrop
+[0:22] oat]
+[0:22] करके
+[0:22] have to understand
+[0:23] rload
+[0:23] fond e
+[0:24] hal
+[0:24 - 0:25] What is progressive
+[0:24 - 0:25] Overload
+[0:25] ade
+[0:25] Mee =
+[0:26] “eee
+[0:28] हैं
+[0:28 - 0:29] Change in training variables»
+[0:29] ile
+[0:33] नशा
+[0:36] mg Sela re reps
+[0:36 - 0:38] Let's them experience,
+[0:37] wife
+[0:37] Let’s themrexp
+[0:37] erience
+[0:37 - 0:38] ‘ A Stimulating reps
+[0:38] खेत
+[0:39] aol (
+[0:39] ot ८:
+[0:39] = the
+[0:40] wor
+[0:40] ree |
+[0:40] 1९ Se
+[0:40 - 0:41] / aftera workout that
+[0:41] अआग्र:
+[0:41] wees
+[0:41] increases 6० “मे
+[0:41] LAL.
+[0:42] wy) ap
+[0:42] phatein synthesis fora
+[0:42] peri
+[0:43] , Joe 10032
+[0:44] threshold
+[0:44 - 0:45] , 70a muscle fibers high
+[0:45] Wag
+[0:45] eat
+[0:45] threshold Pies 5
+[0:46] . Control kartan increase
+[0:47] size AbI
+[0:48] ws them,
+[0:49] lows them,to produce
+[0:50] Boros, ata giveth shortening
+[0:50] hag
+[0:50] क्र
+[0:51] force at a given है.
+[0:51] हर < esecty
+[0:52] जब छल
+[0:52] you can but
+[0:52 - 0:54] Gyaan-Paglu answer Bata
+[0:53] a लक
+[0:53] / you can but does है
+[0:54] a हे
+[0:54 - 0:55] count as =
+[0:55] met
+[0:55] overl
+[0:57] indicate
+[0:58] Sun
+[0:58] that muécul:
+[0:59] ६01
+[1:00] Sy jut
+[1:01] कि has occurred since = last
+[1:01] workout increasing
+[1:02] a3 220.
+[1:02] isa
+[1:02 - 1:04] Increasing volume is
+[1:02 - 1:04] A choice
+[1:03] शा हे
+[1:03] <4 हु
+[1:03 - 1:04] is a choi¢e not a है. =
+[1:04] lane
+[1:04] pes जय
+[1:04] Soe |
+[1:04] progressive overl
+[1:05] _I.can go to the
+[1:06] can go bi eu today
+[1:08] — yes
+[1:09] toe
+[1:09 - 1:10] —, yes but it is a voluntary
+[1:10] choice |
+[1:11] nota
+[1:12] हरि
+[1:12] किक,
+[1:12] hot a sign of progressive
+[1:14] श्र
+[1:14 - 1:15] abut tumhara volume can ~
+[1:15] Lied
+[1:15] affect your state
+[1:16] 21८
+[1:17 - 1:18] Ek type of
+[1:18] ब्याह
+[1:18] है ae
+[1:18] vol
+[1:18] bay samay se
+[1:19] Whe
+[1:19] ae ले
+[1:19] kar
+[1:19] uske
+[1:20] छः ८
+[1:20] nu कि
+[1:20] usko—
+[1:21] usko increase KaH di
+[1:22] Fall
+[1:22] ~ She?
+[1:22] 2. likely Ek chi
+[1:23] Ge @s
+[1:23] most
+[1:23] Ek cheez
+[1:23] dikhi
+[1:23] performance
+[1:23] ki hamari
+[1:24] jati
+[1:25] ' किला
+[1:25] Wa 8
+[1:25] not
+[1:25] a Mt
+[1:26] Tee
+[1:26] ९.८९
+[1:26] jati Hai and it is not because
+[1:26] of lack of adaptations
+[1:27] RRP)
+[1:27] Bie
+[1:27] but rather
+[1:30] ८ पे 7
+[1:32] patie,
+[1:32] Bre
+[1:32] Se व =
+[1:32] a olume same kh
+[1:33] taaki
+[1:34] im observ
+[1:35] exism
+[1:35] शो the i of pi
+[1:35] rogressive
+[1:36] हैँ.
+[1:36] ay OI
+[1:37] Bathe weight on
+[1:37 - 1:39] 1. Weight on“the bar
+[1:38] jl. Wate athe bar
+[1:38] a . 5 i
+[1:38] प्लान ae done
+[1:39] 2. Reps
+[1:39] 3. RIR
+[1:39] the reps you have done or
+[1:39] the'reps in reserve
+[1:41 - 1:42] Ifyou’re thinking about /
+[1:41 - 1:42] a Playing with your volume
+[1:43] ‘iat
+[1:43 - 1:45] «Expect temporary reduction
+[1:43 - 1:45] _In training performance
+[1:45] mance
+[1:45] का A
+[1:46] Training gue gery «
+[1:47] Training 4 .
+[1:47] है 7
+[1:48] 120
+[1:48] 415
+[1:51] Follow for more

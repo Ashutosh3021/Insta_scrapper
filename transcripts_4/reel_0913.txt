@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[913] https://www.instagram.com/reel/DIVwhWIBeji/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: pt
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Na festa do fim de semana
+[0:02 - 0:05] Fala
+[0:05 - 0:08] Fala
+[0:08 - 0:10] Fala
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] f i chest
+[0:00 - 0:10] LY ia log bolenge
+[0:01] Hh uppenichest
+[0:01] \ All
+[0:02 - 0:05] | This is not upper chest
+[0:03] nol
+[0:05] गज log 4
+[0:05] Lil
+[0:06] of I ches;
+[0:06] lll
+[0:07] Bs log हट
+[0:07] f not: |] chest
+[0:07] Y. iil
+[0:08 - 0:10] This is not upper chest +
+[0:09] aol

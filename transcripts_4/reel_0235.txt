@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[235] https://www.instagram.com/reel/Da79SRAsCOb/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Give me what I want, who am I supposed to please, who am I supposed to please, who am I?
+[0:08 - 0:13] Who am I?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] at hy! / a
+[0:00 - 0:01] Do this exercise
+[0:00 - 0:01] Tolyour legs
+[0:00 - 0:02] “To br
+[0:00 - 0:03] fo bring that tone
+[0:01] 7, जे
+[0:01] Lok
+[0:01] Lie
+[0:01] O14 /&
+[0:02] Sey
+[0:02] ala
+[0:02] wa} Do this.ex
+[0:02] EPrcise
+[0:02] Sal
+[0:02] 4 Tolyo
+[0:02] Pa legs
+[0:02] 1 / fh
+[0:03] हक. 0111986)8708596
+[0:03] faves ही.
+[0:03] A /g ml legs
+[0:04] cae
+[0:04] — अध्क-र
+[0:04] yf a
+[0:05] 9 Sa
+[0:06] उठा
+[0:06] home
+[0:06] BSE
+[0:06] AC ek
+[0:07] ben Oo
+[0:08] आयकर
+[0:08 - 0:10] 1 ae |
+[0:09] mM X
+[0:10] a wy |
+[0:10] heh ६
+[0:11] _ >इनननाा
+[0:11] ber, a
+[0:11] ers
+[0:12] rl is
+[0:13] “जूक Fel
+[0:13] Dae

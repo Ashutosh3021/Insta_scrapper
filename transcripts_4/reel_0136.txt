@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[136] https://www.instagram.com/reel/Dc89sQMM0qj/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] one of the dumbest things which i've heard someone say is oh you need to get 15 pull-ups
+[0:04 - 0:11] in order to start doing weighted pull-ups why why just why 10 and that's it you don't need to do
+[0:11 - 0:16] more 10 pull-ups start with the weighted shit bro if you can get 10 clean pull-ups
+[0:16 - 0:19] you should be doing weighted pull-ups
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] One \
+[0:01] pullzups
+[0:01] hae
+[0:02] Nw ०
+[0:03] ) Weightedioulrups
+[0:03] hes
+[0:03] get 15 pull ७
+[0:04] pullsups
+[0:04] get Nas
+[0:05] Nay
+[0:06] क्र
+[0:07] Ree
+[0:08] \F, eS
+[0:10] Ww a
+[0:11] rae
+[0:11] You Na
+[0:12] 10 Ww
+[0:13] athe
+[0:13] 10 Nay u
+[0:14] Ing
+[0:14] get, Nu
+[0:15] get Le
+[0:15] cle
+[0:16] ups
+[0:17] \Pr es
+[0:17] ups Ney
+[0:18] ups Na
+[0:18] weigh

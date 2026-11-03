@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[176] https://www.instagram.com/reel/DcLi0xPTnFW/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] All I ever wanted to see is mine
+[0:04 - 0:08] All I ever wanted was to make you mine
+[0:08 - 0:10] I know that I love you
+[0:10 - 0:12] Oh baby, why don't you see
+[0:12 - 0:16] That all I ever wanted was you and me
+[0:16 - 0:18] All I ever wanted was to make you mine
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Replying to
+[0:01] 8__fitnes:
+[0:01 - 0:05] You're small
+[0:02] Els
+[0:02] dal
+[0:02 - 0:04] mall
+[0:02 - 0:05] Repl
+[0:03] न Vee
+[0:03] 1५ जक os
+[0:04] alt L
+[0:04] way:
+[0:05] fit
+[0:05] है i)
+[0:05] ९ ७ मम
+[0:05] ao 1
+[0:06] LEE
+[0:06] 2 hae
+[0:06] हि है| |
+[0:06] 1 4८
+[0:06] awe है 4
+[0:07] ont
+[0:07] | 1107
+[0:07] vie
+[0:07] 111७
+[0:07] ae 7 a
+[0:07] i SS ere
+[0:08] | aan
+[0:08] spe
+[0:08] a Sl कि १४
+[0:09] ies
+[0:09] en ७
+[0:09] -_ waeAN
+[0:10] ६. ५-औ मल
+[0:10] oO Ray
+[0:10 - 0:12] 110k:
+[0:10 - 0:12] Pans
+[0:11] “7” जाओ
+[0:11 - 0:13] “कर ८ |
+[0:12] gibtw
+[0:12] Vas
+[0:12] है fe
+[0:12] 5४४
+[0:13] ee जा
+[0:13] | aio
+[0:13] és. Be
+[0:14] a ER
+[0:14] wf ७
+[0:14] Hep ah?
+[0:15] ५ ER
+[0:15] Leen
+[0:15] | ह ‘110k
+[0:15] Jo fel ig Hal
+[0:15] lig
+[0:15] 4 pel
+[0:15] ee “SS! ae Pa
+[0:16] ee” ee
+[0:16] Ninel
+[0:17] [ EER
+[0:17] rm bk

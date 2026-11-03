@@ -1,0 +1,151 @@
+# model: ggml-large-v3
+========================================================================
+[202] https://www.instagram.com/reel/DbqRnhZsLBB/
+STATUS: OK
+DURATION: 0:47   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] one of the things which you should stop doing in the gym right now is listening to music in the
+[0:04 - 0:09] gym if you are listening to music in the gym in 2026 there is something wrong with you because
+[0:09 - 0:13] what you're trying to do is increase your motivation levels by listening to music which
+[0:13 - 0:18] is going to motivate you which is in turn going to increase the amount of perception which you're
+[0:18 - 0:22] going to be able to tolerate which will in turn help you increase the performance in the gym
+[0:22 - 0:27] now if i make you listen to music which you don't like for example travis scott you may not really
+[0:27 - 0:32] get that motivation level if i listen to music which i like for example lara del rey or clero
+[0:32 - 0:36] i will increase my motivation level thereby increasing the performance in the gym
+[0:36 - 0:41] it is very well dependent on person to person so if you're someone who finds that okay listening
+[0:41 - 0:47] to music in the gym really helps you get motivated and psyched up for a set do that anyway so that's
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Listenting tomusic
+[0:00] One of the
+[0:00] rerum
+[0:00 - 0:47] “Inthe gym ~
+[0:01] <a aN
+[0:01] ms i
+[0:01] ould stop doing
+[0:01 - 0:02] Lis
+[0:01 - 0:03] nting tom
+[0:02] बछ ५
+[0:02] USI
+[0:02] 4५७६
+[0:02] co हुआ
+[0:02] right now
+[0:02] लि री
+[0:02 - 0:03] tent
+[0:03] SIC
+[0:03] Ing to
+[0:03] Pal
+[0:04 - 0:05] ting }toimusic
+[0:04 - 0:09] Listent
+[0:05] In‘the
+[0:05] M you are listening
+[0:06] tent
+[0:06] सती!
+[0:07] iy twenty
+[0:07 - 0:08] itl
+[0:08] ng'to
+[0:08] bofffething wrong
+[0:09] hat
+[0:09 - 0:14] ting
+[0:10] की ६:
+[0:10] todo
+[0:10 - 0:11] tent
+[0:11] A sf
+[0:11 - 0:12] 7 10 do is increase your
+[0:11 - 0:13] to mUSIC
+[0:12] motivation levels
+[0:12 - 0:14] listent
+[0:12 - 0:16] ning to
+[0:14] SIC
+[0:14] going to motivate
+[0:15 - 0:22] tent
+[0:16] ings th
+[0:16 - 0:18] 9160
+[0:17] 1110
+[0:17] aoe
+[0:17] un perception
+[0:17 - 0:26] ‘olmusiC
+[0:18] Ing toimusic
+[0:18] ही है!
+[0:19] ible to a, nite
+[0:19 - 0:21] ing
+[0:20] Listent
+[0:20] antl ©
+[0:20] <&ः will
+[0:21] 1010
+[0:21] increase your
+[0:21] J performance
+[0:22] fal
+[0:22] the gym now
+[0:23] listenting tomusic
+[0:24] ing
+[0:24] | you listen to music
+[0:24] which you
+[0:24 - 0:27] Listent
+[0:25] example
+[0:25 - 0:30] entingito’music
+[0:26] example Travis Scott you
+[0:26 - 0:28] nting
+[0:26 - 0:33] Listen
+[0:27] may not really
+[0:28] (151६
+[0:28] may 0४ २ in get
+[0:30] “ws listen to music
+[0:31] for example Lara
+[0:31 - 0:32] NUSIC
+[0:32] itl
+[0:32] ng'to
+[0:32] Claro
+[0:32] cee
+[0:33] (431६
+[0:33] increase
+[0:34] in 7
+[0:34] increase my motivation
+[0:34] level
+[0:35] Ing'to 7
+[0:35] हैं मरे
+[0:35] Wha
+[0:35 - 0:36] Bre by increasing the
+[0:36] rformancein —
+[0:36 - 0:37] ing to mUSIC
+[0:36 - 0:39] tent
+[0:37] । क्र
+[0:37] Ne 1
+[0:38] Ll tom
+[0:38] itis very well
+[0:38] dependent
+[0:38 - 0:42] usic in
+[0:39] 91७0
+[0:39] Ing 10110
+[0:39] san to person so
+[0:39] १००]
+[0:40] someone who
+[0:40 - 0:41] ing to
+[0:40 - 0:46] Listent
+[0:41] 1५0
+[0:41] Is out Okay
+[0:42] Listenting tom
+[0:43] ing
+[0:43] * मी a हर
+[0:43] sic in the
+[0:43] Ips you
+[0:43] Or ५.५
+[0:43 - 0:44] Ing to music
+[0:44] , in the gym really
+[0:44] helps you get motivated
+[0:44] ie ee. ll
+[0:45] 1100
+[0:45] psyched up for
+[0:45] फेर के
+[0:45] है 1
+[0:46] Ing'to mu
+[0:46] Ney
+[0:46] Do that
+[0:47] Lis
+[0:47] tent
+[0:47] tom
+[0:47] USIC
+[0:47] Anyways so
+[0:47] mary

@@ -1,0 +1,60 @@
+# model: ggml-large-v3
+========================================================================
+[606] https://www.instagram.com/reel/DS2miYDDKjU/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Form ive jieird
+[0:00 - 0:02] 4228.
+[0:03] * seanes
+[0:03] ax} ige
+[0:03 - 0:04] because if ie re}
+[0:04] = ee mm
+[0:04] ed 4
+[0:05] Se WOU
+[0:05] e-about
+[0:05] la a
+[0:05 - 0:09] e Overload>
+[0:06] जुट ould ¢are about
+[0:06] prognessive overload>
+[0:07 - 0:08] if your technique changed completely; one
+[0:07 - 0:09] Would you call it progres:
+[0:07 - 0:09] the last rep like this?” |
+[0:08] 60४९0
+[0:08] call it progres:
+[0:09] if your technique changed ९
+[0:09] pletely, one
+[0:10 - 0:12] {| (४ 10 experience wl
+[0:10 - 0:13] “aBecause we know in orde
+[0:10 - 0:13] overload we need to keep thing:
+[0:10 - 0:13] standardised °)\” ब
+[0:10 - 0:13] __—_ineludingour form
+[0:11] || © to experience progre
+[0:13] है» जज
+[0:13] vy to experience mu.
+[0:14] श्र
+[0:14] in the hel
+[0:14] would'you need aform
+[0:14] et tia:
+[0:15] {a Sd
+[0:15] inthe {
+[0:15] ~@ woul
+[0:15] uneed aform
+[0:16] है Sd
+[0:16] iil
+[0:16] खा. fa
+[0:16] eno
+[0:16 - 0:18] why dit
+[0:16 - 0:18] the first pl
+[0:17] ts Sd
+[0:17] a) cl in
+[0:17] नन्न्नना
+[0:17] छा. 16:
+[0:18] Ou a in
+[0:18] जज नि
+[0:18] Foe

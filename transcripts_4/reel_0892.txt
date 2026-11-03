@@ -1,0 +1,275 @@
+# model: ggml-large-v3
+========================================================================
+[892] https://www.instagram.com/reel/DJJ0I7LsB_Q/
+STATUS: OK
+DURATION: 0:58   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] तुम सारे साइंस बेस लिफ्टर्स ट्रेनिंग को इतना कॉंप्लिकेट क्यों कर देते हो तो इस विडियो मैं सब कुछ चीजें
+[0:06 - 0:06] एकदम सिंप्लिफाइड में बताऊं ना मैं कोई फैंसी जार्गन यूज करूंगा ना मैं कोई टेक्निकल टर्म यूज करूंगा इस �
+[0:06 - 0:36] लिफ्टर्स ट्रेनिंग को इतना कॉंप्लिकेट क्यों कर देते हो तो इस विडियो मैं सब कुछ चीजें
+[0:36 - 0:58] लिफ्टर्स ट्रेनिंग को इतना कॉंप्लिकेट क्यों कर देते हो तो इस विडियो मैं सब कुछ चीजें
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Replying to liftwithpratham
+[0:00] ed: 2,
+[0:00 - 0:03] Ab gym me bhipadhai =
+[0:00 - 0:03] krni padegi @)
+[0:01 - 0:03] ply
+[0:02] ant
+[0:03] Mak. d
+[0:03] ern»
+[0:03] iftwith
+[0:03] ham
+[0:03] का 5
+[0:04] impl
+[0:04] छत ४
+[0:04 - 0:05] dblifting
+[0:05] Bias
+[0:05] Sim
+[0:05] tit
+[0:06] Riss
+[0:06] CEM
+[0:06] ice base
+[0:06] ale
+[0:07] है औ.
+[0:08] No taney,
+[0:09 - 0:11] No technical terms —
+[0:10] terms
+[0:10] it te
+[0:11] Shin
+[0:11] ५४ ‘ap.
+[0:11] wees
+[0:11] rho
+[0:12] ६८ bro talking'to
+[0:12] ymking/ Queen *
+[0:12 - 0:14] Another:
+[0:13] bf gym\brojtalking}to
+[0:13] i Queen
+[0:13] | VON
+[0:13 - 0:14] Gym king / 0
+[0:14] eee talking}to)
+[0:14] » iad.
+[0:16] Ngee
+[0:16] (How man:
+[0:16] fo train’
+[0:16] muscle ni
+[0:16] ina week) ©
+[0:17] bit
+[0:17] ima
+[0:17] fain)
+[0:17] A Up.
+[0:17] eek) #
+[0:17] १६ न
+[0:17] १4५
+[0:18] (How,manyatimesito ti
+[0:18] A muscle gro: iweel
+[0:18] ons
+[0:19] hoz
+[0:19] Fre
+[0:19] 1250७
+[0:19] man
+[0:19] x 705
+[0:19] cle gr
+[0:19] 508.
+[0:19] wef
+[0:19 - 0:21] 4 (How:
+[0:19 - 0:21] © only train 3x a week if
+[0:19 - 0:21] Your recovery allows
+[0:19 - 0:21] you, if not stick to 2x:
+[0:20] sot time ee
+[0:20] tojtrain)
+[0:20] > (How mi:
+[0:20] ul uscle gi
+[0:20] inl fajweek)s
+[0:20 - 0:21] . ~Frequency,
+[0:20 - 0:22] 2-3x per week
+[0:21] Per
+[0:21] imes to) ‘ie
+[0:21] Scl
+[0:21] 10001 3 week)
+[0:21] » 2-3५ 7०० week "०
+[0:21] 3:९९
+[0:22] ney
+[0:22] (How, many, time:
+[0:22] A’muscle group
+[0:23] fae te
+[0:23] AN in
+[0:23] 1०11) ६) ९४४)
+[0:23] vids
+[0:24] ten:
+[0:24] दक्ष!
+[0:25] dya Bio
+[0:25] vay
+[0:25 - 0:26] Intensity,
+[0:25 - 0:27] Failuresk
+[0:26] (' Palltre k
+[0:26] 19७,
+[0:26] iN Bi
+[0:26] Rukjo
+[0:27] 49७ 8 6) 20॥॥00२0।0०
+[0:28] Pras |
+[0:28] Sap
+[0:28] Nee
+[0:28] cou
+[0:28] ime)
+[0:28] jan
+[0:28] sets per se:
+[0:28] डे Ber muscle group 3} 10७)!
+[0:29] ४4०१
+[0:29] folume:
+[0:29] (Kit
+[0:29] mers
+[0:29] jagane, hai?)
+[0:29] 4551
+[0:29] rai
+[0:29 - 0:30] 5 sets per session
+[0:29 - 0:30] iperemuUscleygroup (Start: low),
+[0:30] Pi a
+[0:30] wer}
+[0:30] ies
+[0:30] 1615
+[0:30] 14 laganey
+[0:30] URefer to volume guide
+[0:30] for further details
+[0:31] |" ५७ i
+[0:31] ४५१
+[0:31] bee
+[0:32] 5 १४
+[0:32] ॥ Dont Boo
+[0:32] 2 sets 4
+[0:32] Volum
+[0:32] Motal spall
+[0:32] कमी
+[0:33] Boniteross over10-12
+[0:33] Total weekly volume;
+[0:33] aes
+[0:33] li f
+[0:34] eross.over 10-12 sets
+[0:34] oti
+[0:34] (- Stay below:this' rang;
+[0:34] ALW:
+[0:34] neineed:
+[0:34 - 0:35] eekly volume
+[0:34 - 0:35] 7 12 weekly Sets)
+[0:35] हैं
+[0:35] Don?t!
+[0:35] 5516)
+[0:35] A2isets)
+[0:35] beloy
+[0:35] Ais fange
+[0:35] ALWAYS
+[0:35] «(Almost Noo
+[0:35] isl
+[0:35] eds)
+[0:35] vy 4
+[0:36] 4 tied %y
+[0:36] Rite
+[0:36] 42५
+[0:36] jt a
+[0:37] RED
+[0:37] range
+[0:37] ४००
+[0:39] Ne od Tang;
+[0:39] ace)
+[0:41] sug days
+[0:42] BNE *
+[0:42] 5 ie
+[0:42] ey SSE CESS
+[0:42] thi!
+[0:42] a ek.
+[0:42] pay
+[0:43] Restidays;
+[0:43] ea totallweek/ f
+[0:44] 17 day;
+[0:44] beret
+[0:44] 2-3ijestidays}
+[0:44] imalweeky
+[0:44 - 0:46] (Can takelmore)>
+[0:45] Aas SA
+[0:45] SEY
+[0:45] aoe
+[0:45] हल लक os Wek
+[0:45] thoie who
+[0:45] 1] wy
+[0:46] AME,
+[0:46] RYSSECENE
+[0:46] daysjinjajwee
+[0:46] करे
+[0:46] eat az
+[0:47] iestidays in a) डे
+[0:47] jou're a By
+[0:47] covery
+[0:48] “ee use:
+[0:48] Kaunse exerci
+[0:48] #ityou re ama
+[0:48] mprecovery, or to mal
+[0:48] exercises
+[0:49] प्र क A
+[0:49] bay
+[0:49] Kaunse oxen
+[0:49] suse kina hi
+[0:49] _Stability's king
+[0:49] ४८4
+[0:49] se can I
+[0:50] ह ७।(80॥156 exercisi 93 0133
+[0:50] haiz,
+[0:50] Stabil
+[0:50] ल्‍्ह
+[0:50] se can | do abot
+[0:50] ‘stable who just
+[0:51] (exe ncisessusi
+[0:51] 31917
+[0:51] ility, 19॥
+[0:51] Pepe
+[0:51] prs
+[0:51] ichines ——. (
+[0:51 - 0:52] © “AiSmithimachines है
+[0:52] % kKaunse exercises: 05७ krna 11819
+[0:52] Stability isiking)
+[0:52] 2. cables
+[0:52] =» 3. Machines
+[0:52] sent achines ७1०5
+[0:53] exercises usejkrnal hai
+[0:53] Stability!
+[0:54] ५ Con
+[0:54] IS YOUTe) ५
+[0:54] pe based)
+[0:54] hed
+[0:54] 1६५
+[0:54] cal
+[0:54] ज्ड
+[0:54 - 0:55] (Commons
+[0:55] way
+[0:55] atulations:
+[0:55] mee based now, fy, os
+[0:55] sjin the)
+[0:55] ६४2 4
+[0:55] हे गे
+[0:55] rid
+[0:55] st oes xe}
+[0:55] general
+[0:55 - 0:56] youire
+[0:56] tel,
+[0:56] igratul
+[0:56] ations yf
+[0:56] Ice) based/nows-* ¥
+[0:56] hat
+[0:56] mmonispl
+[0:56] infthe, &
+[0:56] Capti
+[0:56] pe oe
+[0:56] ASE
+[0:56] ane
+[0:56] of how sciénce
+[0:57] vee 4
+[0:57] rye
+[0:57] X43
+[0:57] + ऋ छू
+[0:57] % peer how scienc!
+[0:57] lifting works
+[0:58] rei
+[0:58] Follow for more hee)
+[0:58] ire yeah
+[0:58] aid

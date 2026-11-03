@@ -1,0 +1,211 @@
+# model: ggml-large-v3
+========================================================================
+[923] https://www.instagram.com/reel/DH3Xf3dtEqi/
+STATUS: OK
+DURATION: 1:30   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] इसलिए heavy weight पे lateral raises कुछ ऐसे दिखने लगता है
+[0:02 - 0:05] इसका solution है momentum का use करना
+[0:05 - 0:08] Coach Anaya no hate towards you but this was a bad take
+[0:08 - 0:12] Coach Anaya यहाँ पे कह रही है कि हमें lateral raises को momentum के साथ करना चाहिए
+[0:12 - 0:14] so that we can lift heavy weight
+[0:14 - 0:15] but my question to you is
+[0:15 - 0:18] is that really the right approach you should take towards training
+[0:18 - 0:21] yes momentum will get you to increase that high threshold motor unit recruitment
+[0:21 - 0:25] but it will not give you the active mechanical tension which you need
+[0:25 - 0:27] अगर तुम lateral raise में progress नहीं कर पा रहो
+[0:27 - 0:30] it is okay you can't progress every single week or every single session
+[0:30 - 0:32] progress is an adaptation
+[0:32 - 0:34] it's an adaptation to a stimulus
+[0:34 - 0:35] you cannot force adaptation
+[0:35 - 0:37] adding stuff like momentum and all of this
+[0:37 - 0:41] shows me that you are trying to force an adaptation which hasn't occurred yet
+[0:41 - 0:45] now the concentric phase जहाँ पे हमारा सबसे ज़ादा active mechanical tension create होता
+[0:45 - 0:48] वही phase अगर हम skip करेंगे तो what will be left
+[0:48 - 0:51] the middle deltoid has the best leverage in that motion
+[0:51 - 0:52] and you are skipping that
+[0:52 - 0:54] yes अगर तुम fast tempo use करेंगे
+[0:54 - 0:56] you will get high threshold motor unit recruitment
+[0:56 - 0:57] but that does not mean
+[0:57 - 0:59] that you will get high amounts of active mechanical tension
+[0:59 - 1:01] now in order for you to achieve that high degree of mechanical tension
+[1:01 - 1:04] you have to have that involuntary slow contraction speed
+[1:04 - 1:06] which here she clearly doesn't
+[1:06 - 1:09] I think she said something about lengthened position for the side delts
+[1:09 - 1:11] side delts don't even reach the descending limb
+[1:11 - 1:13] for it to experience stretch minute hypertrophy
+[1:13 - 1:15] and even if it did
+[1:15 - 1:17] it would only plateau soon
+[1:17 - 1:19] and it does not even have that leverage
+[1:19 - 1:20] towards the lengthened position
+[1:20 - 1:22] so guys if you are trying to grow your side delts
+[1:22 - 1:24] 5-7 reps, high degree of mechanical tension
+[1:24 - 1:26] high threshold motor unit recruitment
+[1:26 - 1:27] and even if you are trying to grow your side delts
+[1:27 - 1:30] इन वॉलेंटेरी स्लोक अंट्रैक्शन स्पीड अब देख सकते हैं
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Stiteh incoming
+[0:00] Thaw why
+[0:01] lat
+[0:01] iE I
+[0:02] 4 bin
+[0:02] nis
+[0:03] wre
+[0:03] Wei
+[0:03] Solutionjh*
+[0:03] ae 7.
+[0:03 - 0:04] Stitch incoming
+[0:04] ‘61S
+[0:04] se kar’
+[0:05] This was a
+[0:05] adita
+[0:07] 3 WES
+[0:07] towards you what हि]
+[0:07] was
+[0:07 - 0:08] Bad take ~
+[0:08] 4 MES ©
+[0:08] wath
+[0:11] Momentum = progrssstehnir
+[0:12] Momentum [21001165510112
+[0:13] 2 Si
+[0:13] Progression’
+[0:13] lat we can
+[0:15] 18 then thie
+[0:15] ROX
+[0:15] towalres
+[0:15] ly question to |
+[0:16] | thatatine)
+[0:16] Right approach }
+[0:16 - 0:17] Training?
+[0:17] Isithat tie’
+[0:17] Righttapproaci towards
+[0:17] वब5110910 take
+[0:18] Lag
+[0:19] tum will get youn
+[0:19] ‘a ta
+[0:19 - 0:20] Fast tampo will inerease
+[0:19 - 0:21] unit recruitment
+[0:20] jentum will get
+[0:20] ise that high t
+[0:21] willl increase
+[0:21] i Oe
+[0:21] le unit recruit
+[0:23] Sey
+[0:23] it will not 9००४
+[0:24] will not give yo
+[0:24] al te:
+[0:24] (7 mecha
+[0:25] h you fa 1.1
+[0:26] Sideidelts
+[0:26 - 0:27] ee no progress
+[0:27] ‘Side
+[0:27] ut oh it is
+[0:29] can't progress every,
+[0:29] single week
+[0:30] jelts)
+[0:30 - 0:32] very single sessil
+[0:31] on fo a stimulus
+[0:31] Is cl adapt
+[0:31 - 0:34] Progressive)
+[0:32] | Eneckpretion to a stimulus
+[0:32] ress is an adaptation
+[0:33] Isfany
+[0:33] edaptation
+[0:33 - 0:35] wa stimulus
+[0:34] 1 Echpvation 99 a stimulus
+[0:35] 100॥€ 9 31५६
+[0:35] टली
+[0:35] Find
+[0:37] id all
+[0:38] Donstif
+[0:38] daptati
+[0:39] 3 Donit
+[0:39] Bows me that you"
+[0:39] to force.
+[0:40] क्र
+[0:42] which hasn't Soule yet
+[0:42] = keep in mind)
+[0:44] Cones
+[0:44] fic
+[0:45] Concantit
+[0:45] nase
+[0:45] ill
+[0:46] Don
+[0:46] 442
+[0:47] Donjtiredinect
+[0:47] its
+[0:47] eal |
+[0:50] 1 हनन
+[0:51] A को
+[0:53] got them fast
+[0:54] teste
+[0:55] le unit
+[0:55] jet high tl
+[0:57] 111 ge
+[0:58] ems
+[0:58] hanical
+[0:59] hanical tension ney
+[1:00 - 1:01] ib achieve that
+[1:01] caf
+[1:01] ee of mechani
+[1:02] u have to have hat
+[1:03] Spi
+[1:03] low contracti:
+[1:03 - 1:04] Involuntary’s!
+[1:04] contract al
+[1:04] which
+[1:05] Involuntary slow contraction
+[1:05] | Spee
+[1:05] vid
+[1:05] wy a
+[1:05] here she
+[1:06] Sideidelt?
+[1:06] lang
+[1:06] इस्छार७,
+[1:06] which here she clearly वेब
+[1:07] Sid
+[1:07] Gel
+[1:07] डर mM
+[1:07] क said somet!
+[1:08] Side dale
+[1:08] for
+[1:10] lon't even
+[1:11] don't even reai
+[1:11] scending limb
+[1:12] age
+[1:12 - 1:13] for it to experient
+[1:13] mitted hyperti
+[1:15] 1९६
+[1:15] ्त हे
+[1:15] even if it did it
+[1:16] ष्ड
+[1:16] e ifitdid it wor
+[1:16] plateau
+[1:18] am 5
+[1:18] loes not even + है |
+[1:19 - 1:20] ‘Active Length-Tension Relationship in Lateral Raises
+[1:19 - 1:20] coy
+[1:20] 2 oa
+[1:20] 100
+[1:20] le towards the lal
+[1:20] Tale
+[1:21] aises
+[1:22] you're tryingito™™ =
+[1:22] tow as idols
+[1:23] ive to seven re|
+[1:24] to seven reps hi
+[1:24] ies
+[1:24] gree of mechani
+[1:25] oe कि
+[1:26] " motor
+[1:26] recruitment
+[1:26] f हैँ
+[1:27] Per involuntary
+[1:28] e for more
+[1:28] low, contraetien
+[1:29] § more
+[1:29] contraction speed hope
+[1:29] it helps follow for more

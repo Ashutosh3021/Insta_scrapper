@@ -1,0 +1,93 @@
+# model: ggml-large-v3
+========================================================================
+[281] https://www.instagram.com/reel/DZ-KCEAM2cK/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] And I can't get the words out
+[0:02 - 0:09] Oh, I wanna be with you everywhere
+[0:09 - 0:18] Oh, I wanna be with you everywhere
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Wistifall sbls stopped ih
+[0:01] x है ]
+[0:01] all sbls | doing
+[0:02] oe D
+[0:02] Akep रत
+[0:02 - 0:03] than
+[0:03] हैः
+[0:03] Ves
+[0:03] ing,
+[0:03] aD. Set
+[0:03] 4 Reps
+[0:04] Ly les
+[0:04] span “
+[0:04] है 0
+[0:04] set
+[0:04] 4’rép
+[0:05] <2 हि
+[0:05] जा 261
+[0:05] qupon
+[0:05] — hae
+[0:05] / ५ को
+[0:05 - 0:06] training experien
+[0:06] are
+[0:06] = epencing!
+[0:06] ndi
+[0:06] ngupon_
+[0:07] Aset
+[0:07] Sjabout 5-7
+[0:07] लुक
+[0:07] 80 11800 0 5
+[0:08] A setihasjabout 5:
+[0:08] y \Stimula
+[0:08] Repsi/
+[0:08 - 0:12] ing
+[0:09] Hie
+[0:09] Ras
+[0:09] 182 13 61 00111 01
+[0:09] धन जल
+[0:09] eps
+[0:09] Y Minit,
+[0:09] Coe,
+[0:09] m6 (CN
+[0:10] करे
+[0:10 - 0:12] Youdo
+[0:11] रे he
+[0:11] tf 4
+[0:11] सिर पह
+[0:12] ७) 07४
+[0:12] bod
+[0:12] | aprons
+[0:13] ls not'aproductive
+[0:13 - 0:18] Rep range? "०:
+[0:14] Vis
+[0:14] roductive
+[0:14] ५6५
+[0:14] बसे
+[0:14 - 0:15] “Is not'ap
+[0:15] 114
+[0:15] produ
+[0:15] ctive
+[0:16] का, oe
+[0:16] pal
+[0:16 - 0:18] Ie Camyou grow from that
+[0:17] Ee il
+[0:17] ou grow from hat
+[0:17 - 0:19] Tihs
+[0:18] fas
+[0:18] 0 he
+[0:19] cowt.a%
+[0:20] im inpossble
+[0:20] aha
+[0:20] youimayjelmissing out
+[0:20] Onisome:gains?
+[0:21] ‘’. 08, के है (02100 issing.o
+[0:21 - 0:22] हि Isitpossib
+[0:22] 2 Ve
+[0:22] NY fac
+[0:22] ea -Bssing ou
+[0:22] aM gains?
+[0:23 - 0:24] Yes

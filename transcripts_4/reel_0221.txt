@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[221] https://www.instagram.com/reel/DbOmKltM92w/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: id
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] Terima kasih telah menonton!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:10] Training/nutrition/anything
+[0:00 - 0:10] How to gain muscle without
+[0:00 - 0:10] working out?

@@ -1,0 +1,84 @@
+# model: ggml-large-v3
+========================================================================
+[542] https://www.instagram.com/reel/DUkkWE7jFbe/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] know you can actually experience progressive overload on a treadmill and let me tell you how
+[0:05 - 0:10] so whenever you walk on the treadmill for example right now i'm working on a speed of four uh an
+[0:10 - 0:15] incline of four and a speed of four right and you can see my target heart rate on my apple watch it
+[0:15 - 0:22] is 111 right the same settings on this machine would land me into 130 bpm and now it's landing
+[0:22 - 0:28] me at 110. what does that show that the same exercise intensity is now easier for me the same
+[0:28 - 0:33] exercise intensity is a lot more easier it's a sign of progressive overload guys it's a sign
+[0:33 - 0:38] of progressive overload so track your heart rate track your inclines track your speeds
+[0:38 - 0:42] and make sure you see those signs of progressive overload anyways
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Expi (10001
+[0:00] liadap,
+[0:00] tio
+[0:00] onatrea
+[0:00] ill
+[0:00] Yor
+[0:00] Now) youl
+[0:00 - 0:01] ” Progressive overloadjadaption
+[0:01 - 0:03] onatreadmill 1%
+[0:01 - 0:03] experience,
+[0:02] Rrogne
+[0:02] essive’ bverloadladaqtan
+[0:03] Progress!
+[0:03] ive overlo:
+[0:03] "हैं
+[0:03] experience progres:
+[0:03] overload on
+[0:06] oul
+[0:06] hai
+[0:06 - 0:07] ‘So whenever ४
+[0:07] the tread rap
+[0:08] example
+[0:08] right
+[0:10] anit ¢
+[0:12] Ws land al
+[0:12] any
+[0:13] __And you
+[0:14] an Oe tet ome me
+[0:14] wos
+[0:15] Ps a
+[0:15] 609०
+[0:15] watch \
+[0:15] hundred
+[0:15] ple
+[0:15] जड़ी.
+[0:16] १08
+[0:17] the
+[0:18] machine
+[0:19] machi would/land/me}
+[0:20] 130
+[0:21] 130 ae
+[0:23] now it's landi
+[0:23] hundred,
+[0:23] melaty
+[0:24] ‘Sig
+[0:25] That the samelexencisc}
+[0:25] inte
+[0:25] ist
+[0:26] That the same}
+[0:26] intensity,
+[0:27] for
+[0:28] same exerci
+[0:29] same exercise intensitys
+[0:30] lot more:
+[0:31] It's
+[0:32 - 0:34] It'sasignof 5
+[0:32 - 0:34] progressiv
+[0:33] overload,
+[0:35] Wily
+[0:35] So, track
+[0:35] की जे
+[0:38] wey
+[0:38] your speeds and
+[0:38] ake}
+[0:38] के के
+[0:41] bo, 4

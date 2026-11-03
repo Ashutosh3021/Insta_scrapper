@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[455] https://www.instagram.com/reel/DWRZ9lFjIDC/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Cause baby now we got bad blood
+[0:02 - 0:05] Now we got problems
+[0:05 - 0:08] And I don't think we can solve them
+[0:08 - 0:11] You made a really deep cut
+[0:11 - 0:13] And baby now we got bad blood
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Renting te most important
+[0:00] 11०1
+[0:00] Fora
+[0:00] ural?
+[0:01] gts most important
+[0:01] muscle
+[0:01] gnowith)
+[0:01 - 0:02] For a natural
+[0:02] Rank
+[0:02] MOS
+[0:02] ingen
+[0:02] leYggont!
+[0:02] aa, ०
+[0:03] Bincining
+[0:05] de Treating
+[0:05] Nutrition
+[0:05] NS te
+[0:05 - 0:06] tayom
+[0:06] aS शत
+[0:07] च्छू
+[0:07 - 0:08] de शत
+[0:08] uit
+[0:08] deyom
+[0:08 - 0:10] 3- lifestyle’ =
+[0:09] ils
+[0:09] 3: lfest
+[0:09] ४+ चाट
+[0:10] Le Trehning
+[0:10] Nutri
+[0:11] fll
+[0:11] Including gh
+[0:11] ndig
+[0:11] है. आह,
+[0:11 - 0:13] HOOTOCOOVO
+[0:11 - 0:13] cheatine
+[0:11 - 0:13] nd all the peptides
+[0:12] 00000
+[0:12] tall
+[0:12 - 0:13] Includingigh’andlig
+[0:12 - 0:13] dayom
+[0:13] tg eee
+[0:13] ial

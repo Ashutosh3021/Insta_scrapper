@@ -1,0 +1,307 @@
+# model: ggml-large-v3
+========================================================================
+[689] https://www.instagram.com/reel/DQj0WggE06c/
+STATUS: OK
+DURATION: 1:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] probably gonna get cancelled by the science-based community for saying this but you do not have to
+[0:04 - 0:09] train with full body every other day you do not have to do low volumes and you do not have to do
+[0:09 - 0:14] keenan flaps if you have less than one to two years of experience you'll see a lot of people
+[0:14 - 0:19] talk about motor unit recruitment mechanical tension fatigue but no one seems to be talking
+[0:19 - 0:24] about this specific topic and that is motor unit recruitment deficit you see whenever we compare
+[0:24 - 0:29] someone who's new to lifting and someone is not new to lifting and see their ability to recruit
+[0:29 - 0:34] motor units the person whose experience is going to have a higher amount of ability to recruit
+[0:34 - 0:39] motor units and the person who is new to lifting will have a lower amount of ability to recruit
+[0:39 - 0:46] motor units which means even if a beginner tries to maximize everything he won't be able to
+[0:46 - 0:50] because of this specific thing if you think you can get away with the motor unit recruitment
+[0:50 - 0:56] deficit by going single joint on every single exercise have a look at this this is untrained
+[0:56 - 0:59] and this is trained and this is during leg extensions
+[0:59 - 1:05] and during an isometric contraction when forces are the highest imagine if this was a regular set
+[1:05 - 1:10] now what does that mean for beginners it means that not everyone is gonna benefit from higher
+[1:10 - 1:15] frequency training as you can see in this study here not everyone benefited from high frequency
+[1:15 - 1:20] training some people benefited from low frequency training and not only that if you have a look at
+[1:20 - 1:26] this specific study untrained individuals didn't even benefit from higher frequency training
+[1:26 - 1:28] and second thing logically speaking
+[1:28 - 1:34] the maximum amount of volume which is required to stimulate additional muscle growth is gonna
+[1:34 - 1:39] be higher in beginners compared to advanced and intermediates because there is a large section of
+[1:39 - 1:45] motor units which are still capable of experiencing muscle growth now what does that mean for beginners
+[1:45 - 1:51] it means that you don't have to train with very low volumes you don't have to do very low rep ranges
+[1:51 - 1:56] you don't have to isolate everything and lastly you do not have to train with full body every other
+[1:56 - 1:58] day so yeah
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ig t
+[0:00 - 0:01] bably goingto
+[0:00 - 0:02] SBiisigonma है
+[0:00 - 0:02] merafter
+[0:01] gonna
+[0:01] ed byt
+[0:02] ed communit
+[0:03] You |
+[0:03] ut you
+[0:04] aS ७०
+[0:04] but you do not
+[0:05] as Me
+[0:05] yu है,
+[0:05] very
+[0:06] lio not
+[0:07 - 0:08] u do not have tod
+[0:08] Mp7”
+[0:08] olumes and yg
+[0:09] have to do
+[0:11 - 0:12] ou have less t
+[0:12] Kee,
+[0:12] to two yea
+[0:13] 14४
+[0:13] pu'll see
+[0:14] प्र
+[0:14] u'll see a lot of
+[0:14] talk about
+[0:15] ae ty
+[0:15] S63
+[0:15] it recruitment,
+[0:16] हरा
+[0:16] sion,
+[0:17 - 0:18] sion, fatigue but
+[0:19] Iking about
+[0:20] है मैं
+[0:20] talking about thi
+[0:20] pecific topic
+[0:21] mui
+[0:21] t is motor
+[0:22] pie @
+[0:22] atis motor unit
+[0:22] itment
+[0:24] 41५
+[0:24] whenever we
+[0:25] a? | hy
+[0:25] Lf j
+[0:25] हैँ
+[0:25] Jae
+[0:26] 54 4
+[0:26] ne is
+[0:26 - 0:27] lifting an
+[0:27] ake 2
+[0:28] i. any
+[0:28] a eX
+[0:28] sles
+[0:28] o lifting and see
+[0:29] हैँ
+[0:29] fod
+[0:30] म्ह,
+[0:30] units,
+[0:31] ste #
+[0:31] 121८6 15
+[0:32] Wea on,
+[0:32] Sry
+[0:32] gad |
+[0:32 - 0:33] lence is goingto
+[0:33] pre
+[0:33] igher amoug
+[0:34] y to recruit
+[0:35] A wg
+[0:35] alte
+[0:36] S07
+[0:36] ९ oe
+[0:36] sae
+[0:36 - 0:37] e person whois,
+[0:37] दिन
+[0:37] ifting will
+[0:38] ९ रू
+[0:38] lower amount of
+[0:39] Yel
+[0:39] ५१७०
+[0:40] uit motor units
+[0:41] =a में
+[0:41 - 0:42] ich means even if
+[0:42] LY 4
+[0:42] hag
+[0:42] ame
+[0:42] inner tries
+[0:44] mise everything h
+[0:46] tee
+[0:46] ecause of
+[0:47] क्रो
+[0:47] D because of this
+[0:47] specific thing.
+[0:48 - 0:49] think you can ge
+[0:49] ith the motor
+[0:50] Via
+[0:50] uitment deficit
+[0:51] sts
+[0:51] rig?
+[0:51 - 0:52] ng single
+[0:52] ing single joint on
+[0:53] 4 he
+[0:53] ave
+[0:54] look
+[0:55] | EP aly
+[0:55 - 0:57] 700
+[0:55 - 0:57] ext
+[0:55 - 0:57] 600
+[0:55 - 0:57] 500
+[0:55 - 0:57] 400
+[0:55 - 0:57] 200
+[0:55 - 0:57] 100
+[0:55 - 0:57] ntrained and
+[0:56] ae ee ७ आ
+[0:56 - 0:57] 300
+[0:57] ee ae
+[0:57] s is untrained and
+[0:58] Sie
+[0:58] ringleg
+[0:59] [श्र
+[0:59] ring leg extension
+[1:00] Awd
+[1:01] Mee
+[1:01 - 1:02] g an isometric
+[1:03] छा f
+[1:03] are the highest
+[1:04] क्र
+[1:04] agine if
+[1:05] magine if this was
+[1:05] regular set.
+[1:06] 4ीः
+[1:06 - 1:07] low what is that
+[1:07] हुनर
+[1:07] for beginner:
+[1:08] ame,
+[1:08 - 1:09] that not every
+[1:09] pe, 4
+[1:09] ito benefit
+[1:10] gee.
+[1:11] awe /
+[1:11] er frequency
+[1:11] aining
+[1:12] ee J Strength Cond Res. 2019 Apr
+[1:12] 901. doi
+[1:12] 10.1
+[1:12] 15८.00000000000
+[1:12] Felipe Damas ', Cintia Barcelos 1, Sanmy R Nébrega
+[1:12] Carlos Ugrinowitsch
+[1:12] Manoel E Lixandrao 2, Lucas M ६ D Santos ", Miguel 5 Conceicao 2, Felipe C Vechin
+[1:12] Cleiton A Libardi *
+[1:12] Affiliations + expand
+[1:12] PMID: 30289872 DOI: 10.1519/JSC.0000000000002864
+[1:12] an see in
+[1:12 - 1:14] Individual Muscle Hypertrophy and Strength
+[1:12 - 1:14] Responses to High vs. Low Resistance Training
+[1:12 - 1:14] Frequencies
+[1:13] a see in this
+[1:13] not
+[1:13 - 1:14] 0000000¢
+[1:13 - 1:14] Affi
+[1:13 - 1:14] PMID:
+[1:14] f है
+[1:15] om Lh
+[1:15] See
+[1:15] fited from high
+[1:15] equency
+[1:16] wry
+[1:17] ane,
+[1:17] ye ot
+[1:17 - 1:18] people benefite
+[1:18] low frequene
+[1:22] Cintia Barcelos
+[1:22] ic study untrai
+[1:22 - 1:23] Randomized Controlled Trial
+[1:22 - 1:23] Felipe Damas
+[1:22 - 1:23] Sanmy Rocha Nébrega *, Carlos Ugrinowitsch 2
+[1:22 - 1:23] Free arti
+[1:22 - 1:24] > Eur J Sport Sci. 2018
+[1:22 - 1:24] 18(8):1077-1082.
+[1:22 - 1:24] doi
+[1:22 - 1:24] 0.1080,
+[1:22 - 1:24] 461391.2018.14
+[1:22 - 1:24] 76590. Epub 2018 May 31
+[1:22 - 1:24] High-frequency resistance training does not
+[1:22 - 1:24] promote greater muscular adaptations compared to
+[1:22 - 1:24] low frequencies in young untrained men
+[1:22 - 1:24] Manoel Emilio Lixandrao ®, Lucas Marcelino Eder Dos Santos
+[1:22 - 1:24] Cleiton Augusto Libardi 7
+[1:22 - 1:24] Affiliations + expand
+[1:22 - 1:24] PMID: 29852092 DOK: 10.1080/17461391.2018.1476590
+[1:23] 808
+[1:23] 107;
+[1:23] 1082,
+[1:23] 91.2018.1476590. Eput
+[1:23] Cintia v
+[1:24] 1 ed
+[1:24] Controlled Trial
+[1:24] Cintia Barcelos ", Felipe Damas ", Sanmy Rocha Nébrega ", Carlos Ugrinowitsch 2
+[1:24] Free a
+[1:24] viduals didn't ev,
+[1:25] Bs 1
+[1:25] क्ष
+[1:26] ame,
+[1:26] equency training,
+[1:27 - 1:28] econd thing
+[1:28] eaking
+[1:29] bw 4
+[1:29] m amount
+[1:30] Ke f
+[1:30] amount vol
+[1:31] है 4
+[1:32] leat
+[1:32 - 1:33] ed to stimula:
+[1:33] usclegr
+[1:34] ito be
+[1:35] hers
+[1:36] ers compal
+[1:36] ance
+[1:37] mediates
+[1:38] ब्म्ममः
+[1:38] diates bec
+[1:40] बिल ।
+[1:40] Y, et
+[1:40] है. प्र
+[1:40 - 1:41] ion of motor u
+[1:41] till cap:
+[1:42] Ful
+[1:42 - 1:43] riencing mut
+[1:43] Spd
+[1:43] growth
+[1:44] pee, 4
+[1:44] a a कै
+[1:44] atis
+[1:45] ame,
+[1:45] what is that mea!
+[1:45] eginners
+[1:46] ser
+[1:46] ५ Ga
+[1:46] है ad
+[1:48] श्र
+[1:48] ery low volu
+[1:49] le i
+[1:49] CAN CO
+[1:49] sets*permm
+[1:49] low vol
+[1:49] ive
+[1:50] beginners
+[1:50] {R33 SES
+[1:50] permmg
+[1:50] low
+[1:51] Lu h
+[1:51] ERS
+[1:51] 4-9 35108
+[1:51] 42.2
+[1:51] per
+[1:51] rep ranges
+[1:52] pee
+[1:52] eto y
+[1:53] ८208
+[1:53] a vi
+[1:53] hing and
+[1:53 - 1:54] have to isolate «
+[1:54] है! प
+[1:54] g and lastly
+[1:55] ot have to
+[1:56] te 4
+[1:56] 202
+[1:57] से for more
+[1:57] है other day so”
+[1:58] follow for more
+[1:58] ly every other day
+[1:58] yeah Abdul

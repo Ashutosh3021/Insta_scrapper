@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[535] https://www.instagram.com/reel/DUvVT59jKO4/
+STATUS: OK
+DURATION: 1:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] today we'll be going over a science-based skincare routine which i use to maximize my skincare so the
+[0:05 - 0:10] first thing which i use is benzoyl peroxide i use this twice a day once in the morning and once in
+[0:10 - 0:15] the night this has really helped me a lot more than any of those skincare products like salicylic
+[0:15 - 0:20] acid and everything else second thing which i use is a vitamin c serum i store this in my fridge
+[0:20 - 0:25] so just that it doesn't get degraded and yeah i use this once a day as well now the third thing
+[0:25 - 0:31] which i use is a moisturizer i use this twice a day whenever i wash my face with this benzoyl peroxide
+[0:31 - 0:37] thing and whenever i just wash my face in general and the fourth and the most important thing is
+[0:37 - 0:43] gonna be a sunscreen you have to use sunscreen if you want good skin like adding a sunscreen onto
+[0:43 - 0:48] this skincare routine has really helped my skincare i was not using a sunscreen i was just
+[0:48 - 0:52] going off of these three products and just adding a sunscreen has made a lot of change and yeah guys
+[0:52 - 0:55] we cannot forget our skincare without our peppermint
+[0:55 - 1:00] all right coming to the peptide there is only one peptide which i'm currently taking for my skin
+[1:00 - 1:06] and that is ghk copper i've been using this for a pretty long period of time it has seen a lot
+[1:06 - 1:10] of benefits i have seen a lot of benefits for my hair for my hair growth and for my skin as well
+[1:10 - 1:15] so it's all over overall pretty good again this is just my skincare routine if you replicate it
+[1:15 - 1:19] you might get a different result so anyways that is it hope that was
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] Skin Care Routine
+[0:02] ati
+[0:02] Optimal
+[0:16] जननी
+[0:18] — CSenum
+[0:19 - 0:20] — OSerum
+[0:21] दर है)
+[0:26] ree
+[0:28] Res
+[0:32] ee a
+[0:36] ins
+[0:40] norm
+[0:41] 1° oA
+[0:46] amo
+[0:51] Sunskeen
+[0:52] Ke, skeen
+[0:58] ann
+[0:59] 3322
+[0:59 - 1:01] current!
+[1:00] ape saa “s y
+[1:01] skin
+[1:02 - 1:03] pper
+[1:03] haye been
+[1:04] चर apretty tong f
+[1:06] whe
+[1:06] हैः
+[1:07] lot of benefits he
+[1:08] wee
+[1:08] ick
+[1:09] I my hair 8
+[1:12] महू
+[1:13] a of
+[1:13] कहा
+[1:15] all,
+[1:17] a ange renee
+[1:18] gine

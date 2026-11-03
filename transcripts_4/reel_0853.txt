@@ -1,0 +1,179 @@
+# model: ggml-large-v3
+========================================================================
+[853] https://www.instagram.com/reel/DKuQcDONRHA/
+STATUS: OK
+DURATION: 1:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Gym is an artificial fitness culture.
+[0:02 - 0:07] It is a place which is pumped with steroids, artificial sweeteners, protein powders, plastic bottles and plastic clothing.
+[0:07 - 0:11] It is a culture where there is recirculating sweat, there is recirculating carbon dioxide, there is recirculating bacteria.
+[0:11 - 0:15] You are basically going from one box where there is AC which is your, let's say your house or your office,
+[0:15 - 0:17] to another daba of AC which is the gym.
+[0:17 - 0:18] No fresh air.
+[0:18 - 0:22] He's right, powerless, polluting than the gym where people just breathe.
+[0:22 - 0:25] The funny thing is you're out of breath when you're speaking.
+[0:25 - 0:27] It means that your cardiovascular system is not good.
+[0:27 - 0:29] Dude, hit the gym man.
+[0:29 - 0:31] There is inherently nothing wrong with the gym.
+[0:31 - 0:34] This is not the gym which you should be focusing on.
+[0:34 - 0:38] There are a lot of people in the gym who have changed their lifestyle.
+[0:38 - 0:41] A lot of people recover from their injuries going to the gym.
+[0:41 - 0:47] If you see a lot of sports, a lot of athletes, they require to go to the gym because it's part of their conditioning work.
+[0:47 - 0:52] And if you have a problem with the gym hygiene, you should just look into a better gym.
+[0:52 - 0:58] Because my gym, I never had that kind of issue because they clean their equipment on an hourly basis.
+[0:58 - 1:03] Dude, it's like, I don't know if you've looked into the research on psychology for this.
+[1:03 - 1:10] There is good enough data showing that resistance training is a very good tool to use for people for depression.
+[1:10 - 1:15] Let alone depression, it is a very good tool to increase your life expectancy.
+[1:15 - 1:18] If you want a prime example, you should look at JC.
+[1:18 - 1:20] Dude is over 30.
+[1:20 - 1:22] He looks younger than me.
+[1:22 - 1:25] So yeah, there's inherently nothing wrong with the gym.
+[1:25 - 1:26] Please do some research, man.
+[1:26 - 1:27] Yeah, hope that was helpful.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] tay? 3
+[0:00 - 0:01] Gymisvatlte vaulted
+[0:00 - 0:03] Stitch incoming |
+[0:02] Gym Baul
+[0:02] pai
+[0:02] हरा
+[0:03] Gymisva vault 60%
+[0:03] \ pte
+[0:03] it ii
+[0:04] ae ७
+[0:04] See.
+[0:04 - 0:05] 7) incoming
+[0:05] pas
+[0:06] Toms #-
+[0:06] Stitch >)
+[0:06] ttles ani
+[0:06] ‘tT 4
+[0:07 - 0:18] Stitch incoming 4 ८ r
+[0:09] thi
+[0:10] Hr ६
+[0:11] y incoming
+[0:11] ols
+[0:12] ae ८
+[0:14] 2७४.
+[0:16] mr 5
+[0:17] ea hte
+[0:17] gil
+[0:18] bid
+[0:18] १), ea
+[0:18] ६ fil
+[0:19] ५5 a I
+[0:19] 1९55७--
+[0:20] fariless polluting than
+[0:20] हैं
+[0:21] ya Peopl
+[0:23] pre
+[0:23] you're
+[0:24] dee
+[0:24] 0 Guti>f breath when
+[0:24] you're speaking
+[0:25] ter
+[0:25] hod
+[0:26] eat your
+[0:26] a cardiov:
+[0:27] matte that your
+[0:27] cardiovascular system is not
+[0:27] good
+[0:28] \ide itsthe
+[0:29] therelis inhérently
+[0:30] (Or a
+[0:30 - 0:31] there is inherently nothing
+[0:31] wrong with the gym
+[0:32] fap.
+[0:32 - 0:33] this is not the gym which
+[0:33] Vee
+[0:33] you should be focusing
+[0:35 - 0:36] é. (there are a lot of people in
+[0:36] the gym who've
+[0:36] लक 6
+[0:37] wit changed their
+[0:38] be 4
+[0:38] hy ४
+[0:38] 3100
+[0:39] iappleirec
+[0:40] going to
+[0:40 - 0:41] pre
+[0:41] ry 3
+[0:41] b going to them if you see
+[0:42] her
+[0:43] a lot of ote
+[0:45] A ee
+[0:45 - 0:46] because
+[0:46] part of their
+[0:46] con
+[0:46] ning
+[0:47] and |
+[0:48] है ७ «
+[0:48] and if youl'Have a problem
+[0:49] andif की
+[0:49] witht
+[0:49] gym hygiene
+[0:49] ea problem
+[0:50] Sortie
+[0:51] a ito
+[0:52] Ser
+[0:52] “आदी
+[0:53] cause gym
+[0:54] > hee
+[0:54] 7 aa
+[0:54] cause myc gym I never had
+[0:54] that kind of issue
+[0:55] Lai
+[0:55] हि ; 4 >> कक clean
+[0:56] अं पु
+[0:56] Mor!
+[0:56] ga ae h
+[0:56] equipments:
+[0:57] Fr i
+[0:57] _ becauseythey clean their
+[0:57] equipments on an hourly
+[0:58] है के ;
+[0:58] 5. कै.
+[0:58] dude
+[0:59] tar
+[1:00] looked
+[1:01] looked into the research on
+[1:02] ~ «lla
+[1:02] है 5009 नि re h
+[1:03] iF but theres good
+[1:04] है का
+[1:04] data showing
+[1:05] resi ; ince training
+[1:06] very
+[1:07] dar
+[1:07] very see”
+[1:08 - 1:09] is a very good tool to use for
+[1:09] आज -7
+[1:09] people for depression
+[1:10] fur
+[1:10] let alot new”
+[1:12] * Piya
+[1:12] her
+[1:13] it is veryigood tool to
+[1:14] ०००० अली expecta
+[1:15] th अं
+[1:15] wanta
+[1:17] you should look at JC
+[1:19] eee 5 / 213० dude is
+[1:20] the looks
+[1:21] 2 Phe looks = than me
+[1:22] hay’:
+[1:22] : he looks younger than me so
+[1:23] b a inheFently
+[1:24] tar
+[1:24] this
+[1:24] i inherently
+[1:24] nothing,
+[1:24] ig with the gym
+[1:25] please lo'some
+[1:26] see
+[1:26] 88S6me rese:
+[1:27] ll ln
+[1:27] her

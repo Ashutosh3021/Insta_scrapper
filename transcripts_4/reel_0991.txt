@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[991] https://www.instagram.com/reel/C-z2XREhj9r/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] weeks out
+[0:02] P mie
+[0:03] Ere
+[0:05] wil LL
+[0:05] 4 pe out
+[0:06] (11 11140 38887
+[0:06] ays
+[0:06] fy डे
+[0:07] kL Ll 7
+[0:07] 4weeks ik
+[0:08] LL Lai =
+[0:08] 4 we on
+[0:08] —a लत
+[0:08] Psa
+[0:09] vib LL
+[0:15] wi Lili a
+[0:15] hd a
+[0:16] B.A Siok
+[0:17] nD ie अ
+[0:18] ce | ३६
+[0:19] wn Wael |

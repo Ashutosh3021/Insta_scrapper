@@ -1,0 +1,199 @@
+# model: ggml-large-v3
+========================================================================
+[592] https://www.instagram.com/reel/DTLLW2mE_6S/
+STATUS: OK
+DURATION: 1:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] just because you're sore doesn't mean that you're not recovered a lot of people think that just
+[0:04 - 0:08] because there is soreness in a muscle it means that the muscle has not recovered yet but that's
+[0:08 - 0:13] really not how things work you see there is a weak relationship between fatigue and muscle soreness
+[0:13 - 0:18] if you do a high volume workout for a long period of time that workout will cause a lot of fatigue
+[0:18 - 0:22] and a lot of muscle damage but as you keep progressing throughout the weeks the amount
+[0:22 - 0:27] of soreness which you'll experience will start to reduce but the amount of muscle damage and
+[0:27 - 0:31] fatigue which the workout generates will stay the same you can even see the same things happening
+[0:31 - 0:36] with beginners and advanced athletes a beginner is going to feel a lot more sore compared to an
+[0:36 - 0:41] advanced athlete who rarely feels sore at all and this is even if the volume and the intensity
+[0:41 - 0:46] stayed the same for both of the groups the funny thing is that fatigue and soreness have a whole
+[0:46 - 0:52] different time course where fatigue peaks within the first 24 hours where soreness peaks within 24
+[0:52 - 0:56] to 72 hours this is why at the end of the day if you're training with recoverable volumes
+[0:56 - 0:57] and go for a high volume workout you're going to feel a lot more sore and you're going to feel
+[0:57 - 1:02] good intensity soreness is not something which you should worry about so as long as the lifts
+[1:02 - 1:07] are progressing soreness is something which you should not really worry about anyways hope that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] | because
+[0:01] id 0
+[0:01] Ju L you are
+[0:01] sorejdoesn't
+[0:02] yi |e enot
+[0:03] Laval
+[0:03] aie
+[0:03] =M1Stofipeople
+[0:05] mre
+[0:05] iss
+[0:05 - 0:06] बिन
+[0:06] rel pila?
+[0:06 - 0:07] meansithat,t!
+[0:07] Pia
+[0:07] tithe muscl
+[0:07] ver
+[0:07] 1७160
+[0:07] has)
+[0:08] BE Aas
+[0:09] “कहता
+[0:09] but i.)
+[0:09] how things ७४०
+[0:09] His
+[0:10] प्र
+[0:10] है. के
+[0:10] thereisa
+[0:11] nai
+[0:11] Kae
+[0:11] al Soand Me
+[0:11] 2002 De
+[0:11 - 0:12] Comparative Study
+[0:11 - 0:12] Delayed-onset muscle soreness
+[0:11 - 0:12] does not reflect the magnitude of
+[0:11 - 0:12] eccentric exercise-induced
+[0:11 - 0:12] muscle damage
+[0:11 - 0:12] Show detaite
+[0:12] (किक
+[0:12] posake
+[0:12] 304 JM
+[0:12] 0७५
+[0:12] ean juscle
+[0:13] डरा
+[0:13] ify
+[0:14] If vant nish volum
+[0:15] nl tae
+[0:15] period
+[0:16] al - <a
+[0:16] that w eae
+[0:17] cause
+[0:18] ause alot of fatigue
+[0:19] damag
+[0:20] But as you
+[0:22] le amoun
+[0:23] oui
+[0:23] nie |
+[0:24] nn खा?
+[0:24] a «ha
+[0:24] willl
+[0:25] # ६१ sh.
+[0:27] mes 2
+[0:27] ee: ou! ६
+[0:28] 4 me Brine amount of muscle
+[0:28] ge and
+[0:29] wan
+[0:29] श्र
+[0:29] si क्र
+[0:29] a < will stay
+[0:30] You can
+[0:31] ac Sen
+[0:31] You can even see the
+[0:31] same things
+[0:32] cones
+[0:32] with beginners
+[0:33] at stp!
+[0:34] Abeginneris
+[0:35] aly
+[0:35] Abegi
+[0:35] going t
+[0:36] compared
+[0:37] nl ne
+[0:38] whi
+[0:38] «eee
+[0:39] vel
+[0:39 - 0:40] And thi
+[0:40] a Bf
+[0:40] ifthe 3.
+[0:41] And this is even if the
+[0:41] volume and the intensity
+[0:42] “ie 2
+[0:42] — fl — a
+[0:42] C ee |
+[0:42] tayed the sam
+[0:43] eal 2
+[0:44] skeletal muscle due to ९८६
+[0:44] nitric
+[0:44] 16 Rodenburg ७९ al Eur J Apo
+[0:44] 1.1984.
+[0:44] Glee)
+[0:44] tHefunnyt
+[0:44] hingis
+[0:44 - 0:45] Changes in phosphorus
+[0:44 - 0:45] compounds and water content in
+[0:44 - 0:45] exercise
+[0:44 - 0:45] ‘Show details
+[0:45] skeletal muscle due to eccentris
+[0:45] 18 Rodent
+[0:45] gota Eu
+[0:45] Physiol ©
+[0:45] Physiol. 1994.
+[0:45] Nera
+[0:45] efunny.thing is that
+[0:45] fatigue and soreness
+[0:46] ria
+[0:46] aveawhole
+[0:47] Course.
+[0:48] wherelfatigue
+[0:49] i | ale
+[0:49] twenty-f
+[0:51] 214
+[0:52] Jom
+[0:52] y NG
+[0:52] A be
+[0:53] itp
+[0:53] > a ee
+[0:53] ost
+[0:53] “Hours.
+[0:54] This is wi
+[0:54] hy at the
+[0:54] रहें
+[0:54] ats
+[0:55] ire
+[0:55] , PS sets per mg
+[0:55] 2 ee
+[0:55] क्र
+[0:55] — i छा,
+[0:56] 195
+[0:58] eal
+[0:58] बता
+[0:58] PSsets
+[0:58] a il
+[0:58] intensity
+[0:58] के 19३०
+[0:58 - 0:59] volumes. ) good
+[0:59] intensity soreness |"!
+[0:59 - 1:00] sets par mal
+[1:00] not something wi
+[1:01] ometh;
+[1:01 - 1:02] progr ssing
+[1:01 - 1:02] littsiang Bi
+[1:01 - 1:02] roken
+[1:02] bon
+[1:02] nic!
+[1:02] <Sotasilongias th
+[1:02 - 1:04] ay fix¥somett
+[1:03] ifthe lifts are शि०्प stag
+[1:03] 1909 to/fixesome:
+[1:03] which isa
+[1:04] VERINE
+[1:04] off
+[1:04] re progr
+[1:04] h isn't brok
+[1:04] CEN
+[1:04] -s6reness is somethil
+[1:04] which
+[1:05] WwW
+[1:05] Of the}
+[1:05] progressing
+[1:05] 10112 something.
+[1:05] bich;isnst broken
+[1:05] ike
+[1:05] ould not really worry
+[1:07] more
+[1:07] ey बी
+[1:07] ay: bebe that I'll

@@ -1,0 +1,322 @@
+# model: ggml-large-v3
+========================================================================
+[248] https://www.instagram.com/reel/Dau-cwmsuEu/
+STATUS: OK
+DURATION: 0:47   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] 1730, I, I, I'm like, hey, what's up, hello
+[0:07 - 0:11] Since you're pretty, as soon as you came in the door
+[0:11 - 0:14] I just wanna chill, got a sack for us to roll
+[0:14 - 0:17] Married to the money, introduced her to my store
+[0:17 - 0:21] Showed her how to whip it, now she remixin' for low
+[0:21 - 0:24] She my track queen, let her hit the bando
+[0:24 - 0:27] We be countin' up, watch how far them bands go
+[0:27 - 0:30] We just set it go, talkin' about the Lambos
+[0:30 - 0:34] That 56-6 brand, 500 grams though
+[0:34 - 0:37] Man, I swear I love her, how she work the damn pole
+[0:37 - 0:40] Hit the strip club, we be lettin' bands go
+[0:40 - 0:43] Everybody hatin', we just call them fans though
+[0:43 - 0:46] In love with the money, I ain't never lettin' go
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Nas
+[0:00] सतत:
+[0:00] ral We
+[0:00] i st letting
+[0:00] ou know
+[0:01] ett
+[0:01] ing you know,
+[0:02] Coe
+[0:02] BAY
+[0:02 - 0:03] bench incli
+[0:02 - 0:03] oes, not matter
+[0:03] SSS
+[0:03] i aa,
+[0:03] ७72
+[0:03] Uf, b
+[0:04] ketaneexercise an | *
+[0:04] mur pec” a,
+[0:04 - 0:05] J doesn't
+[0:05] TES
+[0:05] pempec” ge छः
+[0:05 - 0:08] exercise an |
+[0:06] wee
+[0:06] exencise an upper pec
+[0:07] Cae:
+[0:07] Var
+[0:07] ise an upper oo
+[0:08] thhislexeReise an upper pe
+[0:09] If you said no, i
+[0:09] You're right
+[0:10] iyotfsaid no, congrats
+[0:10] aie
+[0:10] You’r
+[0:10] e right
+[0:11] धार
+[0:11] What.about 1190 |
+[0:11] लन्ड a
+[0:11 - 0:13] ist anupper pec exercise?
+[0:12] ९ ee,
+[0:12] sy ea
+[0:12 - 0:13] What about this2_!
+[0:13] tay
+[0:13] fy ea
+[0:13] Site
+[0:13 - 0:14] 6528
+[0:14] जार
+[0:14] स्का
+[0:14 - 0:15] 7 you said y
+[0:14 - 0:16] ngrats you’re.correct again
+[0:15] किम Pa
+[0:15] Spa (
+[0:16] yaw
+[0:16] nay
+[0:16] mau said yes
+[0:16] is a \ ¥
+[0:17] AG £0)
+[0:17] P| समा
+[0:17] Thelmaintt
+[0:17] 0 ftheu
+[0:17] pen peciis
+[0:17 - 0:18] 10n
+[0:17 - 0:21] Estioulder flexion \—
+[0:18] P73
+[0:18] intunct
+[0:18] war
+[0:18 - 0:19] ‘The
+[0:18 - 0:19] * Of the'upper
+[0:19] Ai £0}
+[0:19] | छाए,
+[0:19] fun
+[0:19] बीज
+[0:19] को J
+[0:20] ash
+[0:20 - 0:21] there is (गा
+[0:21] iy a
+[0:21] { ) sai 4
+[0:22] hie
+[0:22] mithissthere is ty
+[0:22] See
+[0:22 - 0:23] evelstor. shoulder flexion |\—~
+[0:23] Imthhistthere is low
+[0:24] =54W
+[0:24 - 0:25] has higher levels of
+[0:24 - 0:26] ompared toithis
+[0:24 - 0:26] * shoulder-flexion #
+[0:25] his
+[0:25] ast
+[0:26] श्र
+[0:26] =s4W
+[0:26] els of
+[0:26] has higherley
+[0:26] dia
+[0:26] potas?
+[0:26] wiles
+[0:26 - 0:28] Bere
+[0:27] ०0५०
+[0:27] ५५९९५
+[0:27] ९0९
+[0:27] ९५ ९९६
+[0:27] ५0९५
+[0:27] ५१७
+[0:27] se ५५९५८
+[0:27] ९३९
+[0:27] ५९५८
+[0:27] ८९९
+[0:27] 00040 y
+[0:27] heme
+[0:27] ८4९
+[0:27] fore
+[0:27] ५.९६
+[0:27] 40५८
+[0:27] ees
+[0:27] Vale
+[0:27] or 5
+[0:27 - 0:28] ५१५८८
+[0:27 - 0:29] ५0७५:
+[0:27 - 0:29] glelislu
+[0:27 - 0:30] Wane
+[0:28] ५९७,
+[0:28] x 01
+[0:28] XX ‘eh
+[0:28] ५0८५५
+[0:28] 900
+[0:28] शक आ 6
+[0:28] 112
+[0:28] ५०८
+[0:28] BY 4
+[0:28] ३९५९
+[0:28] Net
+[0:28] reli
+[0:28] ५०४९४
+[0:28] nthe be
+[0:28] ५6/५४४५
+[0:28] arene
+[0:28] 4९५९
+[0:28] (MMe
+[0:28] r9 A
+[0:28] ५९4१
+[0:28] WwW
+[0:28] ral
+[0:28 - 0:29] ५५४५
+[0:28 - 0:30] ९९९5
+[0:28 - 0:30] ‘orate!
+[0:29] ७५५
+[0:29] OSX,
+[0:29] orang
+[0:29] ९0८
+[0:29] SSX
+[0:29] aay
+[0:29] १0९
+[0:29] Pain
+[0:29] Th isid
+[0:29] the bench
+[0:29] 2९2
+[0:29] Nee
+[0:29] ५९५५
+[0:29] १ fn
+[0:29] LANTZ
+[0:29] Goleta
+[0:29] ५१९७९
+[0:29] eft
+[0:29 - 0:30] ५५५:
+[0:29 - 0:30] meant
+[0:29 - 0:30] Seless
+[0:29 - 0:30] water
+[0:29 - 0:31] ९५०९
+[0:29 - 0:31] BAX
+[0:29 - 0:31] ५.९४
+[0:29 - 0:33] ५९०९
+[0:29 - 0:33] \ bene
+[0:30] (५0८
+[0:30] ५३८
+[0:30] ५02
+[0:30] 2५2
+[0:30] Roxio
+[0:30] f oa
+[0:30] 11७6
+[0:30] 0५५
+[0:30] ५९९४९
+[0:30] len
+[0:30] ee =r
+[0:31] २५०९
+[0:31] ZL Jo
+[0:31] aia
+[0:31] न चल
+[0:31] one
+[0:31] "Ne Me ५९५.
+[0:31] mee
+[0:31] mos
+[0:31] uP al
+[0:31] 1७४
+[0:31] The
+[0:31] mets
+[0:31] Will'all
+[0:31] SAA
+[0:31] exionlap
+[0:31] propriately
+[0:31] endl
+[0:31] fers
+[0:31] lias
+[0:31 - 0:32] rere
+[0:31 - 0:32] gad shoulder $. -
+[0:31 - 0:32] pon the ex
+[0:31 - 0:33] ५00५५
+[0:31 - 0:33] ९0९५
+[0:32] ५0७४८
+[0:32] OSS
+[0:32] ५७४
+[0:32] ५८५९
+[0:32] ९5८
+[0:32] 4९५८
+[0:32] CK oo
+[0:32] ३९३९५
+[0:32] chian
+[0:32] oat erent
+[0:32] Oult
+[0:32] Om app
+[0:32] opria
+[0:32] eee
+[0:32] Ken
+[0:32] nding
+[0:32] Sed
+[0:32 - 0:33] ९९५९९
+[0:32 - 0:33] Vale
+[0:33] १९९
+[0:33] 0५०८
+[0:33] ५0८
+[0:33] रैक SS
+[0:33] १९५०८
+[0:33] ५९५९७
+[0:33] 100
+[0:33] 1 ay
+[0:33] 0९0०
+[0:33] 00५
+[0:33] ss ms
+[0:33] ९९५८
+[0:33] BY 4
+[0:33] Waren
+[0:33] 2९०८
+[0:33] ate
+[0:33] at ९३
+[0:33] wale
+[0:33] ane
+[0:33] ५०५८०
+[0:34] ial A end
+[0:34] ame
+[0:34] its
+[0:34 - 0:35] Butlitdoes n ot‘playa
+[0:34 - 0:36] i polelin your upper pec training
+[0:35] mead
+[0:35] है! 1001 your upper pec training
+[0:35] sy PS
+[0:36] pau
+[0:36] Butit'does n 2
+[0:37] agmpath does
+[0:38] 59 7
+[0:38] anm
+[0:38] 1081 does
+[0:39] ade
+[0:39] laa)
+[0:39] Lop
+[0:39] aqmpath
+[0:39] docs
+[0:39] 0 46 आकर
+[0:40] रै्‌
+[0:40] bt a
+[0:40] If youwant to i thy
+[0:40] hpec
+[0:40] OwWs th
+[0:40] cked
+[0:40] In i pres. ES
+[0:40 - 0:41] and flys
+[0:40 - 0:43] Always Keep younlelb
+[0:41] NGS
+[0:41] ४ | 10 i
+[0:41] the
+[0:41] a कै
+[0:41 - 0:42] io 4,
+[0:41 - 0:43] ked inva:
+[0:42] If youlwa |
+[0:42] Always r jou) elbows tucked
+[0:42] Inyour al fl
+[0:42] Sin
+[0:43] u want to biasjthe
+[0:43] pec,
+[0:43] Ows fe
+[0:43] our
+[0:43] ressesjand Ns)
+[0:44] ven
+[0:44] a ee कि
+[0:44 - 0:45] ॥ for more=
+[0:45] wil
+[0:45] wis |
+[0:45] Fallo
+[0:45] iss
+[0:46] MEX
+[0:46] tis
+[0:46] Follow for more=
+[0:46] पाए
+[0:46] ७4१)

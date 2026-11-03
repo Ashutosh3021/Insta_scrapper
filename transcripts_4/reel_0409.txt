@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[409] https://www.instagram.com/reel/DXJwpkKjIpr/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] Come on to Rex.
+[0:00 - 0:02] Mix the Waka with my Sprite.
+[0:02 - 0:03] Turn it gel in it.
+[0:03 - 0:04] Too many bitches in my land.
+[0:04 - 0:05] I need some pepper spray.
+[0:05 - 0:07] Me and Esa in a cup.
+[0:07 - 0:07] The cushions having me.
+[0:07 - 0:08] I'm smoking backwards.
+[0:08 - 0:10] I'm going backwards at that wedding cake.
+[0:10 - 0:12] Can you go to public?
+[0:12 - 0:12] Where the fuck you go?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] सर 5
+[0:00] Heneiane3d
+[0:00] nEXE
+[0:00] Csi
+[0:00] रूस
+[0:00] Ls साय
+[0:00 - 0:01] Pr your inner: chest
+[0:01] 1618 वो 22
+[0:02] Herevare’
+[0:02] See
+[0:02] For'your inner
+[0:02] est
+[0:03 - 0:06] 2000000000
+[0:03 - 0:12] You can’t train the inner
+[0:03 - 0:12] Chest but look at this gameplay
+[0:06] 7) te
+[0:07] wile
+[0:08] Vig
+[0:09 - 0:10] 0000000000
+[0:12] Cheha
+[0:12] 2090000000

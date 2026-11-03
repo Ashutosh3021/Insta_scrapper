@@ -1,0 +1,164 @@
+# model: ggml-large-v3
+========================================================================
+[360] https://www.instagram.com/reel/DYFl-nvsfft/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Let's say there's one guy who's doing only 15,000 steps, no cardio at all.
+[0:04 - 0:09] And there's one guy also doing 15,000 steps, which is included in his cardio, right?
+[0:09 - 0:11] 15,000 cardio combined.
+[0:11 - 0:17] That guy who's doing 15,000 steps, combined with cardio, is probably burning more calories.
+[0:17 - 0:20] How? You know how?
+[0:20 - 0:23] Because there is like an elevation in heart rate, right?
+[0:23 - 0:29] So, throughout the whole period, now we actually have that even though he's doing 15,000 steps,
+[0:29 - 0:35] and this guy is also doing 15,000 steps, this guy is burning more calories, right?
+[0:35 - 0:38] Because of the same factor that you're on a treadmill, right?
+[0:38 - 0:43] Then you quantitatively measure, okay, this is exercise activity, this is non-exercise activity as well.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Shovel cartio
+[0:00] eps
+[0:00] sed
+[0:00] 18s
+[0:01] sy fe
+[0:01] auger
+[0:01] (ts say
+[0:01] thereis one
+[0:01] uy who
+[0:01 - 0:02] Should) caraiote tachuy
+[0:02] ois
+[0:02] जब्त
+[0:02] [GBs say there is one
+[0:02] ing steps
+[0:02] Sugprhos dot
+[0:03] Shovel cartio
+[0:03] Iuded
+[0:03] ics
+[0:03] Why
+[0:04] Shrouldicandioloenme|td
+[0:04] Sgr
+[0:04] n@cardio at all and
+[0:05] Should(candiolveimeluded|
+[0:05] कै: Ms
+[0:05] sot
+[0:05] Yj 2
+[0:05] on€guy also doin
+[0:05] yy 3
+[0:05 - 0:09] tense
+[0:06] Shouldlcandiolbeline|ided|
+[0:06] श्र
+[0:07] Should cercto (se fnchualet]
+[0:08] Rely, Wa
+[0:08] A... WR@whictils included
+[0:08 - 0:09] Shoulel carctotne in
+[0:09] ied 7
+[0:09] 4. hiBRardio
+[0:10] Sioulel carrctio
+[0:10] Lens
+[0:10] dé. h@Egrdio right Pandrajyey
+[0:11] Sirouldieanaio)
+[0:11] PMs |
+[0:11] jo right “7५
+[0:11] बड़
+[0:12] 1८25
+[0:12] 60०० दे ‘
+[0:12] that
+[0:12 - 0:14] [candio)
+[0:13] [candiolbeime|ud
+[0:13] कफ, 7 277
+[0:13 - 0:14] Short
+[0:14 - 0:16] J doin§PandraHazar ops
+[0:15] baa
+[0:15] 2 doin§\Pandra Haz:
+[0:15] “gee
+[0:15] quo
+[0:15 - 0:16] Shouldieandiolvelimeluded
+[0:15 - 0:16] tense
+[0:16] Sad #7
+[0:16] ally
+[0:16] has
+[0:16] “ 15 ४ |
+[0:17] beinelnded|
+[0:17] oh my
+[0:17] burning
+[0:17] nr cal
+[0:17] ute
+[0:17 - 0:19] tepsey
+[0:18] Shontlel carctio
+[0:18] luded
+[0:19] Should(candiolgeimeluded|
+[0:19] sys a
+[0:19] My you
+[0:20] ie yout sow nel
+[0:20] q agen
+[0:20 - 0:23] Should(candioloenme|td
+[0:20 - 0:23] 110
+[0:21] SVf<
+[0:21] J. ewye
+[0:21] now how
+[0:21] cause
+[0:21] है। आ
+[0:22] Shontll
+[0:22] carclio
+[0:22] ॥॥6॥ 16110
+[0:22] Wet
+[0:22] d. ye ८.००
+[0:23] कु 7
+[0:23] right
+[0:24] Short]
+[0:24] Candiobeinelidediinya
+[0:24] 1010
+[0:24] 32 कु
+[0:24] 2) 7७
+[0:24] 2 NN
+[0:24] आफ जे
+[0:25] Cie
+[0:25] Z_ Threughout the wha 3
+[0:25 - 0:28] dlinyeurn
+[0:25 - 0:29] Should cerctioine inolus
+[0:26] Glin your
+[0:26] किट)
+[0:26] Thfeghout the whole
+[0:26] Perjod now
+[0:27] >>. havélkey
+[0:28] चित
+[0:28] Cae
+[0:29] Glin your
+[0:29] ips? |
+[0:29] big
+[0:29] 4 _15Ri§teps and a
+[0:29] way
+[0:30] and
+[0:30] alSg.doing
+[0:30 - 0:32] Shouldicandiolyeyimelud
+[0:31] Shovilel carctio
+[0:31] y a are =
+[0:32] * guy
+[0:33] Should carcholre noha
+[0:33] /_calbties
+[0:34] हे a
+[0:34] J a a
+[0:34 - 0:36] Shovildl cartio
+[0:35] IE. See
+[0:35] ess
+[0:35 - 0:37] Should cerctioine inolus
+[0:36] includ
+[0:36] श्र
+[0:36] /__cal6ties alright because? sq
+[0:36] ame factor
+[0:37] on~ d reona
+[0:37] i Ss
+[0:38] [candiolbeime|ud
+[0:38] right
+[0:39 - 0:41] Should cerciolse finely
+[0:39 - 0:41] See
+[0:40] Shouideencto br tnch
+[0:40] théhiyp
+[0:41] J théfiyou quantity za re
+[0:42] Should
+[0:42] [cagdigbeinell
+[0:42] digg)
+[0:42] 16 [03
+[0:42] Pie

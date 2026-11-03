@@ -1,0 +1,61 @@
+# model: ggml-large-v3
+========================================================================
+[325] https://www.instagram.com/reel/DZCD_v0sSbV/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Okay, can somebody explain to me what MOG means?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ly t
+[0:00 - 0:02] । A lot of things can
+[0:00 - 0:03] change
+[0:01] १६६
+[0:02] करे
+[0:02] iii
+[0:02] rely
+[0:02] san
+[0:02] art.
+[0:04] INS
+[0:05] sh 4
+[0:05] ots
+[0:05] pay»:
+[0:05] yAr
+[0:05 - 0:12] In6 months 7
+[0:06] ofa
+[0:07] Lyf
+[0:07] ५4८,
+[0:07] Pia
+[0:08] "4 3४4 4
+[0:09] ons
+[0:10] Cae
+[0:10] 7९५
+[0:10] rey
+[0:10] i हि,
+[0:10] Tal
+[0:11] A In 81॥101018
+[0:11] Sea
+[0:11] aN हर
+[0:11] कलर
+[0:11] 117
+[0:11] revel
+[0:11] i oy
+[0:12] Pei!
+[0:12] fi ve
+[0:12] ana!
+[0:12] leet a
+[0:12] wate 2849०७ sore
+[0:12] at 1uarmos
+[0:12] 98188
+[0:12] AjiaH? 6/18४
+[0:13] आह: wt
+[0:13] cee
+[0:13] ted
+[0:13] yaw
+[0:14] cond
+[0:14] बन्द \
+[0:14] ad a
+[0:14] tas
+[0:14] ary

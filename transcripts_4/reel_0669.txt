@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[669] https://www.instagram.com/reel/DRAH5bPjC1b/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Runnin' through my head, runnin' through my head, runnin' through my head
+[0:02 - 0:05] All the things she said, all the things she said
+[0:05 - 0:08] Runnin' through my head, runnin' through my head, all the things she said
+[0:08 - 0:11] This is not enough
+[0:11 - 0:15] This is not enough
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Clips
+[0:00] physique update
+[0:01] mes
+[0:02] aon
+[0:03] Tus
+[0:03] vim
+[0:03] jc (Ee
+[0:03] ५5 @iy
+[0:05] a | nt
+[0:06] ads
+[0:06] dre
+[0:06] i मी
+[0:07] | ing
+[0:08] | किक +
+[0:10] Y है
+[0:11] ४51]
+[0:12] sce
+[0:13] any
+[0:13] oem
+[0:14] ses
+[0:15] sei
+[0:15] ००2
+[0:17] है ow
+[0:17] a _ ny
+[0:18] Lal रन |
+[0:18] VAN
+[0:19] rr) i
+[0:19] Ye) ome
+[0:20] Bos
+[0:20] isp
+[0:22] वाह
+[0:25] euit
+[0:25] ee क. |
+[0:27] gi, aor

@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[998] https://www.instagram.com/reel/C-aD-vpBd32/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I got ass everywhere so I know where you gon' run
+[0:02 - 0:04] I could drop ties in this bitch
+[0:04 - 0:06] Drop like flies in this bitch
+[0:06 - 0:08] I'll cut ties in this bitch
+[0:08 - 0:10] I'll cut ties in your face
+[0:10 - 0:11] Yeah, cut you like a
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:11] < Pov : you locked in
+[0:03] ine
+[0:06] SOR 5
+[0:06] ५ 10५ : you locked in
+[0:06] ‘igh
+[0:07] oes

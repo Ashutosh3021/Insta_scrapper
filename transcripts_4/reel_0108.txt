@@ -1,0 +1,54 @@
+# model: ggml-large-v3
+========================================================================
+[108] https://www.instagram.com/reel/DdeTJ3msy7T/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Gil
+[0:00] Tell me
+[0:01] Genui
+[0:01] ll me one
+[0:01] Ing
+[0:01] कट Sar.
+[0:01] anne
+[0:02] Bes
+[0:02] 3044 a
+[0:02] 19७४
+[0:02] fea | rg
+[0:03] u pull i
+[0:03] | क्र
+[0:03] eet |
+[0:04] a की
+[0:04] oulder
+[0:04 - 0:05] ing,trontal'plane
+[0:04 - 0:05] adduction!
+[0:05] waa.
+[0:05] min
+[0:05] hould
+[0:05] NM) Set
+[0:05] TEN
+[0:06] you |
+[0:06] pie
+[0:06] ing yourin
+[0:06] eck out?
+[0:06] val
+[0:06] OL Soe
+[0:07] lbeia
+[0:07] 23५ a
+[0:07] how
+[0:07] that even complete
+[0:07] 1080?
+[0:07] eee |
+[0:08] | heared
+[0:08 - 0:09] Whemthe movement
+[0:08 - 0:09] on @one)by/your upper limb?
+[0:09] ths
+[0:09] अमन
+[0:09] wee |
+[0:10] Kou
+[0:10] Stop oll

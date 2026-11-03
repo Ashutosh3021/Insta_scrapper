@@ -1,0 +1,90 @@
+# model: ggml-large-v3
+========================================================================
+[284] https://www.instagram.com/reel/DZ4k0S3MqTh/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: sv
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Och låt era små höftar svänga alla
+[0:03 - 0:04] Gör en sång i
+[0:04 - 0:07] En vänlig fina melodi
+[0:07 - 0:10] Boom, boom, boom
+[0:10 - 0:13] Allt är sann i oss, det kan vara vad det händer
+[0:13 - 0:16] Gör det som ni gör, ta några steg åt vänster
+[0:16 - 0:19] Håll oss på och lämna, missa inte chansen
+[0:19 - 0:21] Nu är vi här, nu är vi kär
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] = oe oe |
+[0:00] Serer rT TTT
+[0:00] amino.
+[0:00] a ae
+[0:00] 5 oe ie a
+[0:00] a on
+[0:00] a ears
+[0:00] ss oe ees
+[0:00] Has
+[0:00] # जु pe
+[0:00] Sid
+[0:00] ees
+[0:00] ern
+[0:00] You'd be surprised to know,
+[0:00] iii रे
+[0:00 - 0:01] ie eae
+[0:00 - 0:04] This
+[0:00 - 0:20] Training/nutrition/anything
+[0:00 - 0:20] How can u bench 140 when i never saw
+[0:00 - 0:20] u do a powerlifting program or even Flat
+[0:00 - 0:20] bench frequently.
+[0:01] You
+[0:01] d'be 7 | to
+[0:01] know)
+[0:02] SUGORISeC
+[0:02] Dal
+[0:03] ser
+[0:03] vay
+[0:03] 00006 surpriseditolknow,
+[0:04] *You'd|be surprised to know
+[0:05] mall
+[0:07] Sima
+[0:07] mith
+[0:07] pach
+[0:07] Carriesto
+[0:07] ver't
+[0:07] the
+[0:07] bench
+[0:08] mith bis
+[0:08 - 0:09] 4810॥8५
+[0:08 - 0:09] o thelbench
+[0:09] Smith po
+[0:10] | Ly alllpnesse
+[0:10] sdo »
+[0:11] ses do“
+[0:11] फुट
+[0:11 - 0:13] tyallipges
+[0:12] fact we do ४
+[0:13] 56940
+[0:13] am: fF
+[0:14] a Aig
+[0:14] a youlhave
+[0:14] esmithimachinelincline
+[0:15] be Ulhave af
+[0:15] plat
+[0:15] ig ¢ incline
+[0:16] vel
+[0:16] be ais
+[0:16] 4 ५1]
+[0:16] 119111॥|165
+[0:16] 2999: fF
+[0:16 - 0:17] ing less
+[0:16 - 0:18] yalihere)isino wa
+[0:17] vere
+[0:17] igonna
+[0:17] belben
+[0:18] najbelbenching less
+[0:18] i re
+[0:18] n pe plates
+[0:19] ReSses
+[0:19] 0४0
+[0:20] Unmpresses

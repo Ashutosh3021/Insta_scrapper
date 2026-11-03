@@ -1,0 +1,141 @@
+# model: ggml-large-v3
+========================================================================
+[869] https://www.instagram.com/reel/DKCW8A3B2Fl/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] If you think starvation mode is a real thing, you have been mislead.
+[0:03 - 0:06] बहुत सारे लोगों क्या लगता है, there is this thing called starvation mode.
+[0:06 - 0:10] Basically, अगर तुम एकदम कम खाना खाओगे, और एकदम बड़े deficit पर होगे,
+[0:10 - 0:14] for a long period of time, your body will then start gaining fat.
+[0:14 - 0:17] The calories you'll eat, you'll start gaining fat from the calories.
+[0:17 - 0:20] Now, not only that does not make sense thermodynamically,
+[0:20 - 0:22] it does not make sense logically.
+[0:22 - 0:25] Think about it, तुम कम calories खा रहे हो,
+[0:25 - 0:28] you're eating less than your body needs,
+[0:28 - 0:31] and your body is going to store that, it does not even make a single sense.
+[0:31 - 0:34] अभी तु prove my point, I want to show you this one study.
+[0:34 - 0:36] This is called the Minnesota starvation study.
+[0:36 - 0:42] इसमें participants were made to eat 1500 calories for 12 weeks.
+[0:42 - 0:43] And guess what happened?
+[0:43 - 0:47] None of them, ऐसा कोई बन्दा नहीं था ये study में, जिसने weight lose नहीं किया.
+[0:47 - 0:50] If the starvation mode was a real thing,
+[0:50 - 0:54] there would have been people who would have been gaining weight,
+[0:54 - 0:57] but it just doesn't work that way.
+[0:57 - 0:58] The starvation mode,
+[0:58 - 0:59] इस नॉट ए रियल थिंग
+[0:59 - 1:00] सो या अब दाल स्वाद्ध मोलो
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Us J
+[0:00 - 0:01] 5. बार fat 881४
+[0:00 - 0:02] Starvation Mode
+[0:00 - 0:02] if you think x mode
+[0:01] 5080००॥ Mode
+[0:01] if you think starvation mode
+[0:02] नह fat gain?
+[0:02] a Wy
+[0:02] is areal thing
+[0:03] You have;ber
+[0:03] misled
+[0:05] th 1 आम
+[0:06] weer
+[0:06] nous
+[0:06] itarvi
+[0:08] प्र.
+[0:09] lie
+[0:09] yore to
+[0:11] wong
+[0:12] nly
+[0:12] ब्रश
+[0:14] your
+[0:14] then start
+[0:14] gaining fat
+[0:15] recone
+[0:16] ays,
+[0:17] youre:
+[0:18] lll
+[0:19] ') Baa
+[0:19] न ot
+[0:20] ot nines not
+[0:22] A wz
+[0:23] Siw
+[0:24] 7 SS
+[0:25] thinkaboutiit to ०
+[0:25] calories calorie
+[0:25] ome
+[0:26] हैः
+[0:26] weer
+[0:26] you're‘eating fess
+[0:29] 7:55
+[0:30] lll
+[0:31] it “tay Fake
+[0:33] want te
+[0:34] Mim
+[0:34] ta Starvation
+[0:34] periment
+[0:34] the Minnesota Semi
+[0:34] ion
+[0:34] Expariment, ha Minnesota Starvation
+[0:34] Study, was acinical study portermed at he
+[0:34] a betaon
+[0:34] 1944, and Oe
+[0:34] ont
+[0:34] signe (७ determine the
+[0:34] (७७९०
+[0:34] se and
+[0:34] dtr estiction and
+[0:34] fective
+[0:34] citar ohatat
+[0:34] rate
+[0:34] | want to show you this’one
+[0:34] ‘study
+[0:34 - 0:35] ‘The Minnesota Starvation Experiment sso
+[0:34 - 0:35] Recovery Experiment andthe Starvation
+[0:34 - 0:35] The
+[0:35] 25 the Minnesota Semi-Starvation
+[0:35] nent
+[0:35] Experiment, he Minnesota 5५
+[0:35] ation
+[0:35] Study, ४५ 3 cia! study performed at he
+[0:35] ember
+[0:35] 19,1944, ana
+[0:35] 1945. The
+[0:35] lonten was designe to dtarmin th
+[0:35] of severe and prolonged
+[0:35] 20४००
+[0:35] sary restiction and 0४
+[0:35] ectven
+[0:35] cietary ebabitaton sate
+[0:35] this is called the Minnesota
+[0:37] scare
+[0:38] “सकी
+[0:39] दा g है
+[0:41] ZA WELLS
+[0:42] eks
+[0:44] Petit
+[0:45] क्र
+[0:46] att
+[0:46] es ay
+[0:47] I need to oe
+[0:49] Hei
+[0:50] mode was a ‘
+[0:50] ling
+[0:51] there le ;
+[0:51] iyit |
+[0:52] reap en
+[0:53] who Pit नि havi bad
+[0:54] ' P Te
+[0:55] ut it
+[0:56] ४७५ «
+[0:56] justietoesn't work /
+[0:57] tee
+[0:58] a जथ
+[0:58] he starvi
+[0:58] toy
+[0:59] lyr
+[0:59] h leas Fran
+[1:00] thy
+[1:00] solves

@@ -1,0 +1,139 @@
+# model: ggml-large-v3
+========================================================================
+[806] https://www.instagram.com/reel/DMqYZuxh9mw/
+STATUS: OK
+DURATION: 1:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Why am I holding a D-handle here during tricep pushdowns?
+[0:02 - 0:07] You see, whenever you hold a D-handle, you get this effect called concurrent activation potentiation.
+[0:07 - 0:11] It is basically an increase of performance due to an activation of a non-working muscle group.
+[0:11 - 0:16] Now that sounds very strange, but it's been used in a lot of different sports as well.
+[0:16 - 0:21] Now whenever I hold a D-handle, I get more reps than I would have gotten if I was not holding the D-handle.
+[0:21 - 0:26] And this situation can be evidently seen in the current research.
+[0:26 - 0:30] There is stuff like jaw opening, jaw clenching, hand gripping, and even valsa maneuver.
+[0:30 - 0:35] These all things actually increase performance and it can be seen very well in the current research.
+[0:35 - 0:38] You will often see weightlifters opening their mouth like this.
+[0:38 - 0:40] It is to create that same effect.
+[0:40 - 0:46] And you will also see powerlifters do these valsa maneuvers before they squat or even do any kind of lifts.
+[0:46 - 0:52] It goes to a certain extent that just wearing a mouth guard and clenching on it can increase leg extension force.
+[0:52 - 0:56] Like, just think about it, how good that is.
+[0:56 - 1:01] All the time, whenever I see a guy on Instagram post a reel with holding a D-handle and cuffs,
+[1:01 - 1:05] there is always going to be a guy who's going to comment, "Why can't you just hold the D-handle?"
+[1:05 - 1:09] Dude, if you're against holding a D-handle and doing cuffs, you are against valsa maneuver,
+[1:09 - 1:14] you're against jaw clenching, you're against all of the CAP variables.
+[1:14 - 1:19] So yeah, if you're trying to eke out that last bit of performance in the gym, you can use a D-handle,
+[1:19 - 1:23] you can use a mouth guard, you can even do valsa maneuvers, there's nothing wrong with all of this.
+[1:23 - 1:24] So yeah, hope that helps, bye-bye.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ee ie
+[0:00] X Bluetooth D, ॥
+[0:00] aaa
+[0:00] wae
+[0:01] SS ५
+[0:01] फनी 01167
+[0:02] Sl २... सम
+[0:02] जा Diane?
+[0:03] wey,
+[0:05] rent:
+[0:06] ivatio:
+[0:06] Ana
+[0:07] aan
+[0:07] हुँ
+[0:07] ane.
+[0:08] i! 1 9
+[0:08] ४ के /
+[0:09] i! Ay
+[0:09] due
+[0:09 - 0:14] ee जी
+[0:11] Laz
+[0:12] that
+[0:13] & 18 6:11 |
+[0:13] Lamar
+[0:14] Lomax
+[0:16] reed
+[0:19] ee जी
+[0:21] vam
+[0:21] = ७७ "ll
+[0:22] cs | S|
+[0:22 - 0:24] 006
+[0:22 - 0:26] A brief review of concurrent
+[0:22 - 0:26] activation potentiation:
+[0:22 - 0:26] theoretical and practical
+[0:22 - 0:26] constructs
+[0:22 - 0:26] Show deta
+[0:23] हिला | S|
+[0:24] cc | जऋण
+[0:25] cca |
+[0:25 - 0:26] jam P Eben. JS
+[0:25 - 0:26] ond
+[0:25 - 0:26] 008
+[0:26] ccc | बा जा
+[0:26] P ak
+[0:26] ” पक 11
+[0:27] sid
+[0:27] बाज
+[0:27] = dum
+[0:28] iil
+[0:29] nal
+[0:30] anu
+[0:32] > piriorm
+[0:32] aad
+[0:34] yall
+[0:35] ee आओ
+[0:35] हक सकी]
+[0:37] क्र
+[0:38] ) ge =i
+[0:39] 07२७५
+[0:44] before
+[0:44 - 0:45] inf
+[0:48] tet
+[0:48] see
+[0:48] ont
+[0:48 - 0:49] 2024
+[0:48 - 0:50] nt Bioeng Biotech
+[0:48 - 0:54] Concurrent activation
+[0:48 - 0:54] potentiation improves lower~
+[0:48 - 0:54] limb maximal strength but not
+[0:48 - 0:54] dynamic balance control in rugby
+[0:48 - 0:54] players
+[0:48 - 0:54] Show details
+[0:49] 11५
+[0:50] S. improves lower-
+[0:51] oP as
+[0:51] ‘lox Rizzto ०
+[0:51] ite
+[0:52] make *
+[0:52] ‘lox Rizato eta. Front Bioeng 8010200०
+[0:52] कः 5
+[0:53] जुआ
+[0:53] ath
+[0:53] tht.
+[0:53] ‘lox Riza
+[0:53] ont Bioeng Biotech
+[0:54] hes.
+[0:54] J idl
+[0:54] ote
+[0:55] brea
+[0:55] good
+[0:57] 7 ww
+[0:58] ee i
+[1:00] eter!
+[1:00] hae
+[1:01] is rs ¥
+[1:02] be 2
+[1:03] why »
+[1:04] if. कं
+[1:06] olding-
+[1:07] handle
+[1:07] पी जे
+[1:08] ४ जम.
+[1:08] cuffs.
+[1:09] चेक:
+[1:10 - 1:11] OW me
+[1:11] Set
+[1:19] can—
+[1:22] $ कैज
+[1:22] lhe

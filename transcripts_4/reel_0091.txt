@@ -1,0 +1,60 @@
+# model: ggml-large-v3
+========================================================================
+[91] https://www.instagram.com/reel/Ddw3o0Ws4eH/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Instead of having PTE classes, if we had full body every other day classes,
+[0:04 - 0:10] every single guy would have been 25 fat-free mass index, bro.
+[0:10 - 0:14] All WNBF competitors, man, holy shit.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a F- ६
+[0:00] jeer
+[0:00 - 0:04] FBEOD classes गन
+[0:00 - 0:12] Instead of PT है
+[0:00 - 0:14] Whatif we had | ;
+[0:01] PT classes
+[0:01] ae D
+[0:01] tat Bin te
+[0:01] Hie’
+[0:02] fiat
+[0:02] कि or.
+[0:02] 4 Teles
+[0:03] body
+[0:04] ह कै
+[0:04] Sad
+[0:04] body every
+[0:05] FBEOD ०२2 p
+[0:05 - 0:07] classes every
+[0:06] classes
+[0:06] aes
+[0:06] ry single
+[0:07] wou
+[0:07 - 0:14] FBEOD classes
+[0:08] aa i
+[0:08] ae डे
+[0:08] Bite
+[0:08] प्र
+[0:08] din tl हा
+[0:08] PA vith
+[0:08] would Haye been 25
+[0:09] 166
+[0:09 - 0:14] Instead of PT classes
+[0:10] free mass index bro
+[0:11] ae J
+[0:11] freem
+[0:11] ide
+[0:12] gf on
+[0:12] be etal
+[0:12] tree mass
+[0:12] lex
+[0:12] WNBF
+[0:12] boa
+[0:13] _— i he
+[0:13] ae competitors
+[0:14] comp
+[0:14] rs man holy
+[0:14] shit $

@@ -1,0 +1,76 @@
+# model: ggml-large-v3
+========================================================================
+[808] https://www.instagram.com/reel/DMlHMwktkZ3/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] See you next time.
+[0:30 - 0:32] This animal, this animal
+[0:32 - 0:36] I can't escape myself
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] mony
+[0:00] ; oral lagi
+[0:00] बार
+[0:01] sat
+[0:02] MY full body routine
+[0:02] pliers
+[0:02] Ley
+[0:03] | Fees
+[0:04] Ss है
+[0:05] ff ern \"
+[0:06] por
+[0:06] home)
+[0:06 - 0:07] lowitojhigh\cuffivanianty
+[0:06 - 0:07] (fongotimy/cuff)
+[0:07] onan
+[0:08] Sy aves
+[0:09] है 3
+[0:09] yy ’ 4
+[0:09] a ce ae
+[0:09] OT eget
+[0:11] ९९७
+[0:11] PCa
+[0:13] ony
+[0:13] a ae
+[0:15] क्र
+[0:15] iol
+[0:16] aah
+[0:16] ead
+[0:16] Uhl /
+[0:17] nal
+[0:20] WL हद डा:
+[0:22] IVA
+[0:22] "अछि =F
+[0:24] हष्
+[0:26] हे २ झ_ंकममम
+[0:26] बह जय
+[0:27] Pes
+[0:27] wpa) 2
+[0:28] 4 जा
+[0:28] ae 1 /
+[0:29] TS ty
+[0:29] All
+[0:30] wee
+[0:30] Shen
+[0:31] io 4
+[0:32] mea’
+[0:32] f Sey
+[0:33] = jes
+[0:33] mn 4m
+[0:33] yp La:
+[0:34] hey
+[0:34] Pid ll
+[0:35] aay)
+[0:35] Io Soe
+[0:35] ll wi
+[0:35] a लता
+[0:36] What
+[0:36] —— TT ore
+[0:37] a mi
+[0:37] idithi Te}
+[0:37] श्र
+[0:37] —— न्ाा ए०--- ०८
+[0:38] _ morei

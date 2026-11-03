@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[987] https://www.instagram.com/reel/C_AoFUKBaoV/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I don't wanna see you out that door, baby
+[0:03 - 0:04] Bye, bye, bye
+[0:04 - 0:07] I don't wanna be a fool for you
+[0:07 - 0:10] Just another player in your game, but you
+[0:10 - 0:14] You may hate me, but it ain't no lie
+[0:14 - 0:15] Baby, bye, bye, bye
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] \ADAR
+[0:02] MES
+[0:02] lost,
+[0:03] 14kgs lost
+[0:05] fer
+[0:05] Se सिर ता
+[0:10 - 0:13] ru kgsjlost,
+[0:11] (Read caption onlhow Ty |
+[0:11 - 0:15] did it)
+[0:12] Presa caption on now जज
+[0:12] क्र
+[0:13] (reat caption गुण A.
+[0:14] a Kgs lost
+[0:14] ae a
+[0:14 - 0:15] (Read caption‘on)how)l) |
+[0:15] P lost
+[0:15] lea al

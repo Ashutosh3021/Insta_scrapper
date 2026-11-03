@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[818] https://www.instagram.com/reel/DMKlXTphCVr/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] कि लास के रेप्स खराब कर रहा हो वाइट
+[0:02 - 0:08] अगर लास के रेप्स सबसे ज़ाला stimulating रेप्स है तो तु उसको क्यों खराब कर रहा हो वाइट को बताओ वाइट
+[0:08 - 0:15] शकेत ने बोला वाइट शकेत ने बोला वाइट तुने देखा नहीं उसका फॉर चलता है लास लास में
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] { withimy/people
+[0:00] During ithell est is okay?
+[0:00 - 0:02] ‘Onm degrading ~
+[0:01] gaining withimy pe
+[0:01] grading
+[0:01] last
+[0:01] ‘ is है
+[0:01] बी 2]
+[0:01 - 0:02] During)
+[0:02] Trainingiwithimy, 7
+[0:02] lastireps is है
+[0:03] a y pool
+[0:04] रात
+[0:04] If the l reps ares the m
+[0:04] ‘Stimulating/ reps
+[0:04 - 0:05] Training)
+[0:04 - 0:07] lwithimy people:
+[0:05] vig
+[0:05] If ) few)
+[0:05] ps arejthe m
+[0:05] ‘Stim
+[0:05] ating) reps
+[0:06] Tretiting
+[0:06] ४४॥७५०॥।७ you a4
+[0:06] m inj th:
+[0:06 - 0:07] jell me ,
+[0:07] thie
+[0:07] Why would you a4
+[0:07] You
+[0:07] m inthem?
+[0:08] 3 4५
+[0:09] ‘in की
+[0:09] Nr v
+[0:09] 3118 76
+[0:09] ARON
+[0:09] ial
+[0:17] कि ha
+[0:20] q गा

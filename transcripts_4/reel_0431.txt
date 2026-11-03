@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[431] https://www.instagram.com/reel/DWvYOwajAH_/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] And I did
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Theisheemfeanimongering
+[0:00] Coachesinavercneated
+[0:00] supplements
+[0:00] eedsito
+[0:00] Votme
+[0:01] sheerfeanmong
+[0:01] fonlpotassiumsupp
+[0:01] @Trexgen
+[0:01] es ne
+[0:01] ce ter
+[0:01 - 0:05] Potassium &
+[0:02] Fire Powde
+[0:02] Pharmaceutical Grav
+[0:02] ०५५
+[0:02 - 0:05] how)to
+[0:03] Pure Powder
+[0:03] Pharmaceutics
+[0:03] ४०4:
+[0:03 - 0:04] ॥ Grad
+[0:03 - 0:05] @Trexg -nics
+[0:04] Justsayoneoneeaaw
+[0:04] Pui
+[0:04] wade:
+[0:04] Phi
+[0:05] Pure oe
+[0:05] rad

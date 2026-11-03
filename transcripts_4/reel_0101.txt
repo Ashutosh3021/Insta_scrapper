@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[101] https://www.instagram.com/reel/Ddn18TUssRj/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ee । अलक
+[0:00] — मरी
+[0:00] ovo
+[0:00] विन
+[0:00] Cy, wae
+[0:00] dis
+[0:00] क्र.
+[0:00 - 0:04] _»-— Aslight change in prionit
+[0:00 - 0:05] Now .
+[0:00 - 0:05] Training/Nutrition/Anything
+[0:00 - 0:05] Why u are not doing close grip anymore
+[0:00 - 0:05] on incline smith chest press
+[0:01] है के
+[0:01] हि 1
+[0:01] an . 7
+[0:02] a tl
+[0:02] ry WA
+[0:02] ble
+[0:03] VO 6
+[0:03] a Aslight change in शा
+[0:04] | Add
+[0:04] malig
+[0:04] bie
+[0:05] eee ह ead)
+[0:05] did
+[0:05] foe
+[0:05] 7 « हे” ३
+[0:05] ange in priority
+[0:05] ee _sAsiight ch
+[0:05] क्र.
+[0:05] जि ५५

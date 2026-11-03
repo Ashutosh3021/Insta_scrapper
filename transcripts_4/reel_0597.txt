@@ -1,0 +1,77 @@
+# model: ggml-large-v3
+========================================================================
+[597] https://www.instagram.com/reel/DTFMor1DPwQ/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] these guys will do anything but a calorie deficit yeah yes you guys are having fun but what are you
+[0:14 - 0:19] gonna lose fat doing that no are you gonna lose fat doing yoga no like have fun but this is just
+[0:19 - 0:20] like not it man
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ea ee
+[0:00] wth
+[0:00] ‘NajkaYoga Mant
+[0:00] oln
+[0:00] motapa has Jayega
+[0:00] los.
+[0:00] श्र
+[0:00] Nai
+[0:00 - 0:02] 100 bar,
+[0:01] Pe Ml
+[0:01] estonia
+[0:01] 100 barboln
+[0:01] pa Bh;
+[0:01] 21 Jayega
+[0:01] vax
+[0:02] [11४
+[0:02] 130011310 13
+[0:02] imal?
+[0:02] soz
+[0:02] of py
+[0:02 - 0:03] fatlos'
+[0:02 - 0:07] Inejse'motapa Bhag Jayega
+[0:03] caw «० 0 ६2५८० “ली ऋ 28
+[0:03] Se RajkaNogaMante
+[0:03] jones!
+[0:03] 1979 Bhag Jayega
+[0:03 - 0:04] 14K
+[0:03 - 0:04] any
+[0:04] . 22016 ही कर पा
+[0:04] 27g
+[0:04] intra
+[0:04] Te we
+[0:04] anbolne.st
+[0:04] curs
+[0:04 - 0:06] anit
+[0:05] as iS
+[0:05] 5 422 10108
+[0:05] “100
+[0:05] sak
+[0:05 - 0:06] ing)|fatlo:
+[0:06] vl bol dl fatal Serta
+[0:06] wer Yo
+[0:06] AajkaogaMantc;
+[0:06] (Opi
+[0:06] £5) Gietmmenetization
+[0:07] 100 bar bo!
+[0:07] itlos'
+[0:07] 14K
+[0:07] ८४ 93 /
+[0:08] ga Ma
+[0:08] HOO bar bolne Se motapaBha
+[0:08] Jaye:
+[0:10] of guys will do
+[0:10] anything but a
+[0:10] cers
+[0:11] Pers
+[0:13] r— yes you guys al
+[0:13] having fun but
+[0:13] ews
+[0:14] v= goingto.
+[0:15] v= that?
+[0:16] y= you goingto lose
+[0:16] yay
+[0:19] ie like

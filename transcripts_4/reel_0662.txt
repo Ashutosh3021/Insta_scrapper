@@ -1,0 +1,255 @@
+# model: ggml-large-v3
+========================================================================
+[662] https://www.instagram.com/reel/DRKl5tijJGY/
+STATUS: OK
+DURATION: 1:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] A calorie surplus is not vaulted. Now arguably one of the most damaging thing which has happened
+[0:05 - 0:11] in the fitness industry is vaulting of bulk in. Now it is completely true that going on a 500
+[0:11 - 0:16] calorie surplus, a 600 calorie surplus or going anywhere at a higher end of a calorie surplus
+[0:16 - 0:22] is not going to end in additional muscle growth. That is completely true. Seems like what has
+[0:22 - 0:27] happened is a lot of people are taking that into consideration and are not really eating at all.
+[0:27 - 0:30] Oh, that means a calorie surplus is not really required for me to grow.
+[0:30 - 0:36] That means I'm just going to be eating in maintenance. Now, you see, when people vaulted
+[0:36 - 0:44] bulking, they vaulted it by saying that maintenance is literally including a 200 calorie surplus. No,
+[0:44 - 0:50] a surplus is not really vaulted. You can definitely utilize a 100 to 200 calorie surplus
+[0:50 - 0:55] and maximize whatever gains which you have on the table. Under the right circumstances,
+[0:55 - 0:56] a calorie surplus is not going to be required for me to grow. That means I'm just going to be
+[0:56 - 0:57] going to be eating whatever gains which you have on the table. Under the right circumstances,
+[0:57 - 1:01] a calorie surplus will be beneficial for you. If you're underweight, if you don't have too much
+[1:01 - 1:07] fat on your body, you can literally utilize a calorie surplus and get most out of what you need.
+[1:07 - 1:13] Now, am I telling you to put in a 500 or 600 or 700 calorie surplus? No, I'm telling you to put
+[1:13 - 1:17] in a 100 to 200 calorie surplus. Anyways, that is it for today. Hope that helps.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] है रे
+[0:00] 11 6
+[0:00] OUSIS
+[0:00] Olea
+[0:01] Y “al
+[0:01] 4, और)
+[0:01] SUI
+[0:01] Sis
+[0:01] Fraulted
+[0:01] ४९१७
+[0:01] “अं ऋरी,
+[0:02] १09
+[0:02] ३.९७
+[0:02] vaulte
+[0:02] hPa
+[0:03] thy
+[0:03] at ह
+[0:04] ‘4 पे
+[0:04] wid
+[0:05] a7, 4
+[0:05] ५0६.
+[0:05] bre gs
+[0:06] Le I
+[0:06] किक
+[0:06] ४०७
+[0:06] A os
+[0:07] = ‘set
+[0:07] T it
+[0:08] Lies
+[0:08] é है
+[0:08] क्र
+[0:08] a ed
+[0:09] cae
+[0:09] xi रे.
+[0:09] a सं
+[0:10] cy 4
+[0:10] है जल
+[0:11] Sa ६.१
+[0:12] i by.
+[0:13] yee
+[0:13] ९७ चर
+[0:13] ita
+[0:13] 2250
+[0:13] aie
+[0:13] A ig
+[0:13] oan
+[0:14] ba A
+[0:14] & Nef
+[0:14] भरे
+[0:14] ८९५
+[0:14] i की 2०
+[0:14] bead
+[0:15] तिल
+[0:15] Su acti
+[0:15] pig
+[0:15] was
+[0:16] श्र
+[0:16] ui it
+[0:16] hee
+[0:16] eam
+[0:17] च्द
+[0:17] हूँ 4
+[0:17] ah fe
+[0:17] a. a आछछस0
+[0:18] ४ om
+[0:18] ee ee
+[0:19] क्र iy
+[0:19] i पे
+[0:19] tay
+[0:20] oth
+[0:20] रैक af
+[0:21] oy 4
+[0:22] Sh a
+[0:22] Ve पु
+[0:22] 7 "fi
+[0:22] जज se i
+[0:23] Nila
+[0:24] eS aed
+[0:24] ake
+[0:24] AGS
+[0:25] rah te
+[0:25] ght
+[0:25] 3137
+[0:25] cy tal
+[0:25] onan
+[0:25] , hie
+[0:25] aang
+[0:26] 07:0५
+[0:26] ane
+[0:27] हैँ
+[0:27] tay,
+[0:27] ite
+[0:27] a Gg ~s
+[0:28] ce 4
+[0:28] kes
+[0:28] te "कि
+[0:29] tas
+[0:29] जाओ ©
+[0:30] nee
+[0:30] Mee
+[0:30] oy 4
+[0:30] was
+[0:30 - 0:31] M4 4
+[0:31] cy 4
+[0:31] eee
+[0:32] हि 2
+[0:32] “age
+[0:32] क्र
+[0:33] १ हैं
+[0:33] Seth
+[0:33] wea
+[0:34] Pte
+[0:34] ake
+[0:34] 1411
+[0:35] Nae.
+[0:35] कक 5
+[0:36] st आक
+[0:36 - 0:38] +. प्र
+[0:37] cy 4
+[0:37] ta है
+[0:37] the
+[0:38] /७ १२२३४...
+[0:38] Jae
+[0:38] wh ow
+[0:39] had
+[0:40] les
+[0:40] tan
+[0:42] ९.५ 3
+[0:42] Cons
+[0:43] fie
+[0:43] Eide
+[0:43] hon
+[0:43] ane 8 !
+[0:44] ey 4
+[0:44] Nifo
+[0:44] tld
+[0:44] 4 teh
+[0:44] be bw
+[0:44] i ne
+[0:45] aay
+[0:45] me कप
+[0:45] हैक
+[0:45] श्र
+[0:46] bia
+[0:46] cal
+[0:47] 1 aoe
+[0:47] lee
+[0:47] ips
+[0:48] ८343
+[0:48] fi a
+[0:49] bef
+[0:49] vig |
+[0:49] tie
+[0:50] 5७ ९६
+[0:51] Perel
+[0:51] bet Ct
+[0:52] i की
+[0:52] सं &.आः
+[0:53] ig 9
+[0:53] s, Se
+[0:53] ile
+[0:53] की 2५
+[0:53] Ge a
+[0:54] (ila
+[0:54] Wwe
+[0:54] है 2
+[0:54] Te वी <
+[0:55] ५ हे
+[0:55] Lees
+[0:55] wit
+[0:55] ae मी.
+[0:56] ia 1
+[0:56] ull
+[0:56] a3 iM
+[0:56] a के 4
+[0:57] ध्छ
+[0:57] प्शे
+[0:58] cy 4
+[0:58] thy
+[0:58] 4%85
+[0:59] 4 ig
+[0:59] के छ
+[1:00] ५०2
+[1:00] llc
+[1:01] oy 4
+[1:01] हक पु
+[1:01] Tes
+[1:02] 40३
+[1:02] vif
+[1:02] 216
+[1:02] S Se |
+[1:02] re = A)
+[1:02] seer,
+[1:03] Le i lh
+[1:03] प्छ
+[1:03] ६:२६
+[1:04] ९७१,
+[1:05] a 7७
+[1:05] Now
+[1:06] Phu
+[1:06] Pet
+[1:06] Mah
+[1:07] ६ 70.1:
+[1:07] aay
+[1:07] skated
+[1:07] Cane
+[1:08] Las
+[1:08] icy
+[1:08] aah
+[1:08] LAG
+[1:09] wae
+[1:09] Dron ta
+[1:09] raul
+[1:10] Ben
+[1:11] Fish
+[1:11] bat ||
+[1:12] Ping
+[1:13] ५८५
+[1:13] ATG
+[1:13] a है|
+[1:13] ro 3
+[1:13] a मी
+[1:14] दम 6 te
+[1:15] Lad
+[1:16] Fan
+[1:16] i — wae
+[1:17] Oct 5
+[1:17] eee
+[1:17] wet

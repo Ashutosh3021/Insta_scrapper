@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[470] https://www.instagram.com/reel/DV8AJx1jMuf/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] if you're consuming fish oil or vitamin d3 always always always consume it with a high fat meal
+[0:07 - 0:12] don't consume it fasted always consume it with a high fat meal these two supplements perform
+[0:12 - 0:19] really well and get absorbed really well if you consume it with a high fat meal anyways
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] signintane
+[0:00] fishoilor'vitaminid3)
+[0:00] lal
+[0:00 - 0:01] fasted
+[0:01] — Secs
+[0:01] नहा
+[0:01] fish 010०7 i id'3)
+[0:02] ‘aft
+[0:02] ahd
+[0:02] " min D3,
+[0:03] A\ हे
+[0:04] ag +2
+[0:07] ail
+[0:09] saat
+[0:10] शर्त |
+[0:12] 7 की
+[0:15] ह्लि
+[0:18] abil
+[0:18] गहन,

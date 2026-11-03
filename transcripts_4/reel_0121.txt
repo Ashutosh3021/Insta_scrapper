@@ -1,0 +1,81 @@
+# model: ggml-large-v3
+========================================================================
+[121] https://www.instagram.com/reel/DdKHHC_sW1Y/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Spamming coconut oil will make you lean as hell.
+[0:02 - 0:02] How do I know?
+[0:02 - 0:06] Because in the 1940s, farmers tried to make their pigs as fat as possible.
+[0:06 - 0:07] They fed them different types of oils.
+[0:07 - 0:10] They started with coconut oil, but the problem was,
+[0:10 - 0:14] as much coconut oil as they fed the pigs, the pigs just got leaner and leaner.
+[0:14 - 0:16] They were like, fuck that, we can't do coconut oil.
+[0:16 - 0:19] Switched to corn and soy oil, and those worked so well at fattening the pigs,
+[0:19 - 0:22] but that's what farmers have used ever since to make their pigs obese.
+[0:22 - 0:24] Now, the reason the coconut oil made the pigs so lean,
+[0:24 - 0:26] because it's extremely pro-thyroid,
+[0:26 - 0:29] and it has a large amount of medium-chain triglyceride.
+[0:29 - 0:32] Yeah, I'm just gonna stop the bullshit right there.
+[0:32 - 0:34] This is my diagnosis on coconut oil and weight loss,
+[0:34 - 0:37] showing no statistical significant difference.
+[0:37 - 0:39] Anyways, calories in, calories out.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aon
+[0:00] Cocon”
+[0:00] Sou 4 hell
+[0:00] ०4 SN
+[0:01 - 0:04] €oconut oil will make,youjleanjas hell
+[0:04] Yrs >
+[0:05] ॥ ५ ae
+[0:05] €oconut oil will make ५ ०/॥€37195॥16॥
+[0:05] है 5
+[0:07 - 0:08] | ५ बह न
+[0:09] 030
+[0:10 - 0:17] Eoconut oil|will make youlleanjas hell
+[0:11] Wires
+[0:12] hes
+[0:13] Ls rs
+[0:14] / ७ Ma
+[0:16] Pes
+[0:16] ar <ह
+[0:18] Wires
+[0:19] will makeyyoujleanjasjhell
+[0:20] Dy Nes
+[0:21 - 0:23] Coconut oil will make\you}leanjas}hell
+[0:22] Wire b
+[0:25] Wire
+[0:26] j eo ६ Py
+[0:26 - 0:27] Coconutoil willl make youjleanias hell)
+[0:27] el a
+[0:28] gal
+[0:29] iat
+[0:29] कक कै
+[0:30] Ber
+[0:30] mes
+[0:30] Ae oe
+[0:31] 7८ रे
+[0:32 - 0:34] Dose-dependent effect of
+[0:32 - 0:34] coconut oil supplementation
+[0:32 - 0:34] on obesity indices: a
+[0:32 - 0:34] systematic review and dose-
+[0:32 - 0:34] response meta-analysis of
+[0:32 - 0:34] clinical trials
+[0:32 - 0:34] Systematic Review | Openaccess
+[0:32 - 0:34] Published: 06 June 2025
+[0:32 - 0:34] Volume 11, article number 113 (2025)
+[0:32 - 0:34] Cite this article
+[0:32 - 0:34] @ You have full access to this open access article
+[0:32 - 0:34] [) Savearticle
+[0:35] 3७5०४
+[0:35] a NP
+[0:35] ह 27
+[0:35] ४) सा
+[0:36 - 0:38] Overall, our findings suggest ino clinically
+[0:36 - 0:38] significant effects of coconut oil
+[0:36 - 0:38] supplementation on weight loss. Further
+[0:36 - 0:38] research is needed to clarify the issue.
+[0:39] >> जे A

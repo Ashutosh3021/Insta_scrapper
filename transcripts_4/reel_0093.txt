@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[93] https://www.instagram.com/reel/DdwxjjOMYNg/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] *phone ringing*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 5 you 0
+[0:00] Running |0॥0॥ steps
+[0:00] Ned
+[0:02] " beter yourjnest
+[0:02 - 0:07] So’ i start doing this Y
+[0:03] f ly 00 yourjnest
+[0:03] Well
+[0:03] be Wi,
+[0:04] ly कि yourinest
+[0:04] 8४००8.)
+[0:05] हर . A yourirest
+[0:06 - 0:07] ou between yourlnest
+[0:07] i te

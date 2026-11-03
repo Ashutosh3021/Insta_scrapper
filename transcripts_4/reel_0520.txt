@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[520] https://www.instagram.com/reel/DVA7JzQDFSE/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:18] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ! 5 जय
+[0:00 - 0:01] drimike
+[0:01] See
+[0:02] हैं |
+[0:03] i “dmimikew
+[0:05] र्रूअ्ष्छच्क्््ज््त्फ्सत
+[0:05 - 0:09] mike)mentzer
+[0:08] tzer
+[0:08] ५७७००,
+[0:08] 71५ i
+[0:08] Nii
+[0:09] IAN
+[0:10] कक mentzer
+[0:12] जया
+[0:13] F il
+[0:15] Mae
+[0:17] ctl

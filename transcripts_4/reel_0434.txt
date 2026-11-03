@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[434] https://www.instagram.com/reel/DWrE4egjOSZ/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Uh-huh, show me what you got now, come and make it worth my while
+[0:04 - 0:05] Give it to me, I'm worth it
+[0:05 - 0:08] Baby, I'm worth it
+[0:08 - 0:10] Uh-huh, I'm worth it
+[0:10 - 0:13] Give me, give me, I'm worth it
+[0:13 - 0:15] Give it to me, I'm worth it
+[0:15 - 0:18] Baby, I'm worth it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] i ना
+[0:00] Gos
+[0:00] i thickiham ring
+[0:00] os bal
+[0:01] Buildithick है
+[0:01] बाइक.
+[0:01] naa
+[0:02] dies
+[0:02] ५ हू rings
+[0:02 - 0:03] re 2) howat
+[0:03] ren
+[0:03] t rings
+[0:04] है. it
+[0:04] igs:
+[0:04] fPat tees 5
+[0:05 - 0:16] Ahhaha
+[0:05 - 0:16] aera colour is your air fryer ७,
+[0:06] Lal
+[0:06] f का
+[0:07] f. ie के
+[0:08] BOs
+[0:10] Cad.
+[0:10] So a
+[0:11] है. भव
+[0:12] a MW '
+[0:13] 996
+[0:14] \Wihaticolour i
+[0:14] our air fryer @
+[0:14] Ect pics ry /
+[0:15] r haha
+[0:15] maT
+[0:16] ५ रहा
+[0:17] od air fryer @®

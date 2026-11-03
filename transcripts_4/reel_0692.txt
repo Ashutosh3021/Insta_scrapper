@@ -1,0 +1,386 @@
+# model: ggml-large-v3
+========================================================================
+[692] https://www.instagram.com/reel/DQepZxoDtZ3/
+STATUS: OK
+DURATION: 1:59   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] ये मैंने कहीं भी पढ़ा था, मुझे याद नहीं है
+[0:01 - 0:03] अगर आप 5 सालों के लिए जिम जा रहे हो
+[0:03 - 0:06] और उन 5 सालों में आपने बहुत सारे बाइसेप करल्स किया है
+[0:06 - 0:09] तो आपका बाइसेप श्रिंक होके, कॉंट्राक्ट होके
+[0:09 - 0:10] इतना टाइट हो जाता है
+[0:10 - 0:10] कि let's say that is an 8 inch �
+[0:10 - 0:12] कि let's say that is an 8 inch bicep
+[0:12 - 0:15] when you start yoga और आप stretching करने लगते हो
+[0:15 - 0:18] आप उस बाइसेप को अपने actual length पे लेके आते हो
+[0:18 - 0:22] तो bodybuilding perspective से you are going to look the best
+[0:22 - 0:24] So does training your biceps cause them to shrink?
+[0:24 - 0:26] No, that's not gonna happen
+[0:26 - 0:29] But what Saket said right over here is the increase in muscle length
+[0:29 - 0:31] which comes from static stretching
+[0:31 - 0:34] and this specific thing is called sarcomyogenesis
+[0:34 - 0:38] You see, there are two specific ways of adding contractile units in your muscle fibers
+[0:38 - 0:40] One is through sarcomyogenesis
+[0:40 - 0:42] which is just increase in muscle fiber length
+[0:42 - 0:44] and one is through myofibral addition
+[0:44 - 0:46] which we just get from regular strength training as well
+[0:46 - 0:47] Now you'd be surprised
+[0:47 - 0:50] the stimulus for both of them are completely different
+[0:50 - 0:55] The stimulus for sarcomyogenesis is reaching a longer muscle length
+[0:55 - 1:00] and the stimulus for myofibral addition is just mechanical tension
+[1:00 - 1:03] Now, whenever we do any kind of strength training exercises
+[1:03 - 1:05] we are going to reach a certain muscle length
+[1:05 - 1:08] but we are not going to be crossing that certain muscle length
+[1:08 - 1:09] so we are not going to get much of that muscle length
+[1:09 - 1:13] we are not going to get much sarcomyogenesis adaptation just from resistance training
+[1:13 - 1:16] That is why if we want to maximize sarcomyogenesis
+[1:16 - 1:18] we have to perform static stretches
+[1:18 - 1:20] But there is just one specific problem to this
+[1:20 - 1:24] Not all muscle groups are capable of experiencing sarcomyogenesis
+[1:24 - 1:29] Only the muscle groups which reach the descending limb of the length-tension relationship curve
+[1:29 - 1:31] are going to experience sarcomyogenesis
+[1:31 - 1:34] And as said by Saket over here with the example of biceps
+[1:34 - 1:36] the biceps do not really reach the descending limb
+[1:36 - 1:38] So no matter how much you try to stretch that,
+[1:38 - 1:42] you are not going to be seeing an increase in muscle fiber length
+[1:42 - 1:44] But the muscles which do reach the descending limbs
+[1:44 - 1:47] are going to have the ability to experience sarcomyogenesis
+[1:47 - 1:51] If you want to know more about which muscles respond to sarcomyogenesis
+[1:51 - 1:53] you can check out my highlights called guide
+[1:53 - 1:56] There is a specific highlight which covers all of the muscle groups
+[1:56 - 1:58] which respond to sarcomyogenesis
+[1:58 - 1:59] So yeah, that's it, one more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] of ime
+[0:00] m ing
+[0:00] ChiSsome’
+[0:00 - 0:05] The Secret to Looking 9५७!
+[0:01] stitch €..
+[0:01] The — to Looking
+[0:01] remember,
+[0:02] stitch icom ing
+[0:02] gals)
+[0:03] stitch Inco
+[0:04] stiteh cs ng
+[0:04] 5185
+[0:04] eal
+[0:05] stitch
+[0:05] | धर 1019
+[0:05] you
+[0:05] did 916.
+[0:05] ‘apt 4
+[0:05] i la
+[0:06] a BS
+[0:06] of bicep cur
+[0:06] all
+[0:07] WD a
+[0:07] incoming
+[0:07] 11021
+[0:07 - 0:08] TRS
+[0:08] WT a«
+[0:08] meoming
+[0:08] bicep)
+[0:09] stitch fot
+[0:10] Lae
+[0:10] 1116
+[0:10 - 0:12] stiteh
+[0:11] का in coming
+[0:12] wer
+[0:13] stitchiineo
+[0:13] है yoge
+[0:13 - 0:18] ; ming
+[0:14] stitch incoming
+[0:14] stretchir
+[0:15] sti
+[0:15] ० aes
+[0:15] |. bring
+[0:16 - 0:18] stitch
+[0:17] stiteh Pg ng
+[0:17] at ee:
+[0:18] Soe
+[0:19] sti
+[0:19] incoming
+[0:19] er ५
+[0:19] WYN
+[0:20] perspective
+[0:20] stifeh
+[0:20] e ng
+[0:20] Lea
+[0:20] ier \
+[0:20 - 0:21] bodybuilding
+[0:21] TRS
+[0:21] perspective say you'
+[0:21] re going to
+[0:21] vil ig
+[0:21] ivr.
+[0:22] 43.4,
+[0:22 - 0:23] does training your biceps
+[0:22 - 0:24] cause them to shrink?:
+[0:23] 5 br
+[0:23] os id
+[0:23] L जु4
+[0:24] yi ‘4
+[0:24] प्‌ हा
+[0:24] oil
+[0:24] \ ces
+[0:24] पता your 0
+[0:24] iceps
+[0:24] Fae,
+[0:25] no lol
+[0:25] O—oa—
+[0:26] ire
+[0:26] it's 1
+[0:26] aly
+[0:26] 10 lol
+[0:26] yall
+[0:27] है el
+[0:27] hon Eel
+[0:27] j Zi
+[0:27] Pre
+[0:28] s कि
+[0:28] cae
+[0:29] a ff
+[0:29] 77१
+[0:29] हा ry
+[0:29] -fCas
+[0:31] ०1 ४९111
+[0:32] eal
+[0:33] gia '
+[0:34] हुँ
+[0:34] Tay
+[0:34] sarc
+[0:34] ogene:
+[0:35] 8 lee
+[0:36] asd 4
+[0:36] IC ४४,
+[0:37] dye
+[0:37] 4, है
+[0:37] > ९३8 ॥ 6६ |
+[0:37] गरजे
+[0:37] 726
+[0:37] 220
+[0:38] Jie
+[0:38] svi > J)
+[0:38] rhe
+[0:39] ye in wnt cle) fiber:
+[0:39] COr
+[0:39] 1 ७०1)
+[0:39] छ््निह्जान्डा बनना
+[0:39] = 1 sarcomere
+[0:40] Eh is
+[0:40] de t
+[0:40 - 0:41] ee चल
+[0:41] asl
+[0:41] ॥ 111190७1€:
+[0:42] oof
+[0:42] क्र
+[0:43] Pie
+[0:43] yi 4
+[0:43] * अधि:
+[0:44] Miochondiie
+[0:44] Myofibnis
+[0:44] Sarcolemma
+[0:44] ele
+[0:44] ss 1
+[0:44] जाग
+[0:44] bas
+[0:44] Ll it
+[0:44] CS oe
+[0:44] at gs
+[0:44] tae |
+[0:44] ser
+[0:45] कर का.
+[0:46] ० Joe
+[0:46] ue Sal
+[0:46] th training
+[0:47] कै th
+[0:47] urprised™»
+[0:47] है अल मु
+[0:48] Ay they, differ,
+[0:50] MUU:
+[0:50] letely differe
+[0:51] nul
+[0:51] ge कक
+[0:52] ३८९
+[0:52] 1. जुआ
+[0:53] कक पे
+[0:53] द्ध
+[0:55] les
+[0:56] aed"
+[0:57] ९1 हू
+[0:57] eye.
+[0:57] yey |
+[0:58] gon
+[1:00] lcd
+[1:00] हैं
+[1:02] याद"
+[1:02] 3 SA
+[1:03] wi f
+[1:03] Sab
+[1:03] ल्‍ हक
+[1:03] rcis
+[1:03] Lay
+[1:03] Mae
+[1:03] cay
+[1:03] i oe
+[1:04] a hy
+[1:05] SAG aw
+[1:05] mus ie
+[1:06] wey
+[1:06] eat
+[1:06] is area
+[1:06] roa
+[1:07] you
+[1:07] We 8
+[1:07] क्र
+[1:07] Fan
+[1:07] 5 br
+[1:07 - 1:08] = Staticgstretch
+[1:08] WANN
+[1:08] Se are r
+[1:08] length
+[1:08] ofl
+[1:09] ‘Sta
+[1:09] welll
+[1:09] S हे
+[1:09] “Vere
+[1:10] tiGgsth
+[1:10] 5००
+[1:11] Bie
+[1:11] 110॥॥ ६
+[1:11] tatiesstreteh
+[1:11] ich
+[1:11] aptation
+[1:11] OR eae
+[1:12] CU] SMU!
+[1:12] Static stret
+[1:13] 6 अत
+[1:14] wi r
+[1:14] = lal |
+[1:14] meee",
+[1:14] के a
+[1:15] है 1५
+[1:15] sarcoplasmi
+[1:16] os aw
+[1:17] SF 4
+[1:17] है. ov
+[1:18] die
+[1:18] retches
+[1:18] sai
+[1:20] dal
+[1:20] “this
+[1:20] aff
+[1:20] vet
+[1:21] 4| tis
+[1:21] may
+[1:22] १९4.
+[1:23] ५०२४७]
+[1:23 - 1:24] periencing”
+[1:24] ot all
+[1:24] comyogenesis
+[1:25] 4“, कं
+[1:25] pill
+[1:26] Lie
+[1:26] Ps m 7 scle
+[1:26] Which reach
+[1:26] eas
+[1:26] 140
+[1:26] Mind
+[1:26] 220
+[1:26 - 1:27] 100
+[1:26 - 1:27] 120
+[1:26 - 1:27] 180 200 220
+[1:26 - 1:28] 60 80
+[1:27] Ane 1 Ui:
+[1:27] svi
+[1:27] b, 16| cies हा ch reach
+[1:27] tne) ae:
+[1:27] 556
+[1:27] 140 160
+[1:28] Stat
+[1:28] 100 120 140 160 180 200 220
+[1:29] lod
+[1:30] ade
+[1:30] ee 4
+[1:30] perience
+[1:30] रे ड़
+[1:31] AES
+[1:31] नी, का
+[1:32] 4 eh,
+[1:33] and as said by Saket ~~
+[1:33] over here with the
+[1:33] example of
+[1:33] of bicep curls,
+[1:34] biceps
+[1:36] 46 ot |
+[1:36] हैं
+[1:37] Sul
+[1:39] il ro
+[1:40] साफ
+[1:41] pot
+[1:42] भ््
+[1:42] iber length है
+[1:42] oo अप
+[1:44] use
+[1:44] ing
+[1:44] male
+[1:44] a हा
+[1:44] eee.
+[1:45] ond
+[1:46] I if
+[1:46] = lle 7
+[1:47] y Fs
+[1:47] erie!
+[1:47] romyogenesi
+[1:49] Ris
+[1:49] ५ fe a
+[1:49] was "है
+[1:49] # lll
+[1:49] mes
+[1:50] ie a
+[1:50] es oe
+[1:50 - 1:51] ० genesis”
+[1:51] you
+[1:51] ab} ४5
+[1:51] y AIS
+[1:51] gop 2
+[1:51] eee
+[1:51] we १३8८
+[1:52] iv 9
+[1:52] ene
+[1:53] lof
+[1:53] bot
+[1:53] WIC
+[1:53] तार
+[1:53] ann
+[1:53 - 1:54] Edit profile
+[1:53 - 1:54] Share profile
+[1:53 - 1:54] New
+[1:53 - 1:54] Nutrition
+[1:53 - 1:54] Guides
+[1:53 - 1:54] Trainin:
+[1:54] SA अे
+[1:54] fet
+[1:54] (spe
+[1:54] pep-talk
+[1:54] ass
+[1:54] oun
+[1:54] fad
+[1:55] MD Sierras
+[1:55] 1:08
+[1:55 - 1:56] An 1895
+[1:55 - 1:57] 8434
+[1:55 - 1:57] a है
+[1:56] 4710356 |
+[1:57] ) ५०७०
+[1:57] © wes
+[1:57] myogenesis’
+[1:57] an r.
+[1:58] ‘omyogene
+[1:58] 1 का
+[1:59] agai!
+[1:59] was helpfu
+[1:59] e that

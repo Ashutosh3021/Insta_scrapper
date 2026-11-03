@@ -1,0 +1,147 @@
+# model: ggml-large-v3
+========================================================================
+[696] https://www.instagram.com/reel/DQZfzFTDAOH/
+STATUS: OK
+DURATION: 0:54   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] one of the most stupidest thing which you can do is perform something called a back offset now what
+[0:04 - 0:09] a back offset essentially is is you perform a set of eight and the second set itself is a set of 15
+[0:09 - 0:14] or like a set a set of 20 now we all know one specific thing that each subsequent set is going
+[0:14 - 0:18] to be less stimulating than the previous one which you just did and if you're performing a high rep
+[0:18 - 0:23] set of set of 20 where burning sensations are going to be high you're going to be limiting
+[0:23 - 0:28] yourself with motor unit recruitment not only the second set has less amount of stimulus you're
+[0:28 - 0:32] making the whole condition even worse by making it a set of 20 there's going to be unnecessary
+[0:32 - 0:36] amount of calcium and related fatigue which is going to be coming in and during the set there
+[0:36 - 0:40] is going to be supraspinal cns fatigue which is going to be there because of the burning sensation
+[0:40 - 0:45] which is there so the best way to go about this method is just to do another set of eight and
+[0:45 - 0:49] this adjust the load according to the given rep scheme with this you'll save yourself from
+[0:49 - 0:54] unnecessary muscle damage and you'll save yourself from fatigue so yeah hope that was fun
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] et the
+[0:00] SELS
+[0:00] ।त the
+[0:00 - 0:01] Back offsets»
+[0:01] ivr 7
+[0:01] | te most
+[0:01] lest thing which
+[0:02] yo Mes do is perform
+[0:02] thing
+[0:02 - 0:03] Backioffisets
+[0:04] Cra
+[0:04] whe
+[0:04] (sa off
+[0:05] 3०८
+[0:05] Low
+[0:05] what a back off set
+[0:05] asentiallyis
+[0:06] | हैं
+[0:06] youperforma set of
+[0:07] pati
+[0:07] Fer
+[0:07] theSecondset
+[0:07 - 0:08] 2nd set high rep (15:20) 1:
+[0:07 - 0:09] Tssetlowrep 3
+[0:08] प्र
+[0:08] नहा setitselfis
+[0:09] KS i
+[0:09] ace
+[0:09] rah,
+[0:09] सके
+[0:09] 211 581 high rep (15-20
+[0:09] thejsecond set itself is
+[0:09] aget of 15 or like
+[0:10] 5 कं
+[0:10] Set asetof twenty
+[0:11] rl ae
+[0:11] i Cra
+[0:12] oir)
+[0:12] arr 4
+[0:12] jow one specifi
+[0:12 - 0:13] है; ५
+[0:13] onl
+[0:13] ats
+[0:13] bsequent
+[0:14] \e by.
+[0:15] 352
+[0:16] icky
+[0:16] Ne 4
+[0:16] | पक one
+[0:17] aie)
+[0:17] > if youare
+[0:18] hig!
+[0:18] i: performing a
+[0:19] aes
+[0:19] 20९.
+[0:20] ere burning
+[0:22] goat
+[0:22] ee A
+[0:22] are oy be high, you
+[0:22] are
+[0:23] हैं ०
+[0:23] २५४३
+[0:24] हें
+[0:24] Pan
+[0:25] Lie
+[0:25] "हैः rd
+[0:26] डरे
+[0:26] ly the second set
+[0:26] jess
+[0:27] bef]
+[0:27] hs iy
+[0:28] ral
+[0:28] = Fan
+[0:28] 7 sini are making
+[0:29] हैं
+[0:29] CAS
+[0:29] congo: even
+[0:30] "पी even worse by
+[0:30] conditio
+[0:31] AnD Oey
+[0:32] Sel
+[0:32] tN i
+[0:32] rae
+[0:32] fans
+[0:32] > ae. goingto be
+[0:32] unnecessary
+[0:33] Vane
+[0:33] 1 है
+[0:34] oa fatigue
+[0:36] yy 5
+[0:36] p> “०० हे,
+[0:37] ४४६ the set there is
+[0:37] goin
+[0:37] be super spinal
+[0:39] Alf
+[0:39] 7 be —
+[0:40] ८३६
+[0:40] Lan.)
+[0:40] be mae re because of the
+[0:40] burt
+[0:40] sensation which
+[0:41] the et
+[0:42] 1 py
+[0:42] illow rep 56
+[0:42] this
+[0:42 - 0:43] "followed by
+[0:42 - 0:43] the best way to go about
+[0:43] 47 ९
+[0:43] set
+[0:43] low rep
+[0:43] this method is just
+[0:44] १ के
+[0:44] other low rep set;
+[0:44] do Ris set
+[0:45] हैक
+[0:45] है ५
+[0:45] and thi 5
+[0:46] Sho
+[0:46] id { ‘ adjust the load
+[0:46] cin
+[0:48] “aay
+[0:52] Bees
+[0:53] a Tren
+[0:53] 1 ne
+[0:53] Rs‘r

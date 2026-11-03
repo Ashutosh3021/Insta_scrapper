@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[824] https://www.instagram.com/reel/DL2wr7ZBtE7/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: sv
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] Undertexter från Amara.org-gemenskapen
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ९५७]
+[0:00] ies vn
+[0:00 - 0:02] (oui) 18
+[0:00 - 0:02] Reply Hide
+[0:01] prow
+[0:02] mi af
+[0:03] Bp vane
+[0:03] OS , शालककरत--
+[0:03] 4५४
+[0:03] = Gee
+[0:04] 5 wey
+[0:04] nies
+[0:04] लक पु
+[0:05] rox
+[0:05] Ai ककलनाा:।
+[0:06] Pi शा
+[0:07] seee
+[0:08] io BODE
+[0:08] 4 hs
+[0:09] 4 my
+[0:09] 71015 0
+[0:10 - 0:11] 458,
+[0:11] ar ८2०2
+[0:11] APA

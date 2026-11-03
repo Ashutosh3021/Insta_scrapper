@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[629] https://www.instagram.com/reel/DSH4WAPjPvv/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] tell me, how is your life as a youngster?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] llerstett
+[0:00] ‘your knowled
+[0:02] jus »
+[0:02] minsvats HR R
+[0:02 - 0:03] liObpmyats0ldegneesicelsius)
+[0:02 - 0:04] (onfalflatisunface\while #
+[0:03] ljustwalkediton
+[0:03] Gotmins/at alHtR}
+[0:03] foffcanbs|
+[0:04] jastvakedion
+[0:04] Goiminsat
+[0:04] Obpmiat:s0idegnees|celsivs
+[0:05] youths ht ll
+[0:05] effect my
+[0:05] penronmancers
+[0:05] ल्चा
+[0:05] फेक अं
+[0:06] 1000
+[0:06] effect my trainingIpenfonmancers
+[0:06] aad

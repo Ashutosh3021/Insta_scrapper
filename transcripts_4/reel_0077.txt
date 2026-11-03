@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[77] https://www.instagram.com/reel/Dd_pyUHs-2b/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] I don't wanna be P.J.P.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ४४//१९९१/ के २
+[0:00] EWNZ
+[0:00] We are.all
+[0:00] ‘Doing ea
+[0:00] Nel
+[0:01] BRN,
+[0:01] ee EC
+[0:01] We are
+[0:01] lest
+[0:02] For ourpecs and trice
+[0:02] — Wie
+[0:02] 1२1
+[0:03] Paro
+[0:03] pecs and 1106
+[0:03] DSP,
+[0:03] 7) me Wes
+[0:03] aes
+[0:03] SST
+[0:04] Foro
+[0:04] ecs and triceps —
+[0:04] Qe eo -
+[0:04] a ae
+[0:04] eae
+[0:05] iN ५
+[0:06] ० बे
+[0:06] pot
+[0:07] Gif,

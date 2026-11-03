@@ -1,0 +1,86 @@
+# model: ggml-large-v3
+========================================================================
+[277] https://www.instagram.com/reel/DaDa9IYMQ6Z/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: es
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] De noche, de día, de noche, de día
+[0:03 - 0:06] You know I'm just a flight away
+[0:06 - 0:10] If you want it, you can take a private plane
+[0:10 - 0:13] A kilómetros estamos conectando
+[0:13 - 0:16] Y me prendes aunque no me estés tocando
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] f श्र
+[0:00] | Same
+[0:00] henge
+[0:00] Jist letting
+[0:00] youk
+[0:00] Lies
+[0:01] =e fs
+[0:01] | AAS
+[0:01] नै. letting ।
+[0:01] oulknow
+[0:02] a yr.
+[0:02] ‘3 ri
+[0:02] ; letting if know
+[0:03] 1 श्र
+[0:04] sa jcintfexercise
+[0:04] afl
+[0:04] a ae हु ly
+[0:04 - 0:06] Trice push d
+[0:05] OM oy
+[0:05] Trice gush down)
+[0:05] jointxexenci
+[0:05] tim
+[0:05] ale
+[0:06] ०2 Simo. cae
+[0:06] hid
+[0:06] sasingls
+[0:06] OINWEXENCISE
+[0:06] atl
+[0:06] del
+[0:07] TJs
+[0:07] axa
+[0:07 - 0:08] Keepiit
+[0:07 - 0:11] that'wa
+[0:08] क्र
+[0:08] on Fal
+[0:08] ' जल ैंक ज्यों
+[0:09] Ail
+[0:09] 1 XN
+[0:09 - 0:11] Kee
+[0:09 - 0:11] pit
+[0:10] 5 “2 कक
+[0:10 - 0:11] eS ae
+[0:11] rss
+[0:11] £6 असल,
+[0:11] | aos
+[0:11] ait
+[0:11] cal
+[0:12] Moy
+[0:12] letyour.s
+[0:12] h guider
+[0:12] Bin
+[0:12] है. 19
+[0:12 - 0:13] Roll forward
+[0:13] we, M8 oy
+[0:13] lety,
+[0:13] OURS
+[0:13] ala) |
+[0:13] att
+[0:14] yourye
+[0:14 - 0:16] This
+[0:15] involve ae chest.into
+[0:16] Domit
+[0:16] invol
+[0:16] Our
+[0:16] Into
+[0:16] hest
+[0:16] Bir
+[0:16] ral
+[0:17] (०100 |
+[0:17] Mie.
+[0:17] Ate

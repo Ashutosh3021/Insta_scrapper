@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[335] https://www.instagram.com/reel/DY4P1P6MYvx/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Oh, I'm falling, so I'm taking my time on my ride.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ustletting you know
+[0:01] कक कर
+[0:01] ही! ०१४
+[0:01] 818968/॥
+[0:01] Ss half 2/
+[0:01] ८१2
+[0:02] सवा
+[0:02] Goma!
+[0:02] 30061 8001 than
+[0:02] 7२५
+[0:02] arionmng it &
+[0:02] हिल
+[0:03] lee
+[0:03] iu orming it
+[0:03] yy ul
+[0:04] 0. के
+[0:04] » Ss he
+[0:04] x Ro
+[0:04] pies) =
+[0:04] Sot
+[0:04 - 0:07] With»
+[0:04 - 0:07] “७ ० Fulliromi
+[0:05] ० जिन
+[0:05] tre
+[0:05] i कै
+[0:05] SS a
+[0:05] bie
+[0:05] a. oe dis
+[0:06] rd हैक के
+[0:06] Lye
+[0:06] Sak
+[0:06] oye जु।
+[0:06] lar
+[0:07] श्र
+[0:07] x Ser
+[0:07] न्यूज ८
+[0:07] Bir
+[0:07] Set
+[0:07] !' Neen

@@ -1,0 +1,153 @@
+# model: ggml-large-v3
+========================================================================
+[65] https://www.instagram.com/reel/DePAUJVsBcz/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] don't care how many people say this but chicken thighs are absolutely better than chicken breast
+[0:07 - 0:14] and there is no debate on it chicken thighs yeah a little bit more fat content yeah it's fine it's
+[0:14 - 0:19] not much i'm on 1800 calories and i can still enjoy this like you're talking about one gram
+[0:19 - 0:27] of fat one to three grams max it's not much like chicken thighs are way better than the breast bro
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] mihi
+[0:00] rea
+[0:00] smogs'b
+[0:00] — ee काओं
+[0:00] on't
+[0:00 - 0:01] Sts
+[0:01] mogs bre
+[0:01] people
+[0:01 - 0:02] don't carehow many |
+[0:02] mjhighsimogs breasts
+[0:02] ple say this but
+[0:03] 749
+[0:03] AAPA ee
+[0:03] ere
+[0:03] 9 vs
+[0:03] oer
+[0:03] 474
+[0:03] ee eet?
+[0:03] sea?
+[0:03] 44 498
+[0:03] a # 171४
+[0:03] 2222
+[0:03] (fe हे
+[0:03] f tad} 2s
+[0:03 - 0:04] S breas
+[0:04] mihighs m
+[0:04] cken thighs are
+[0:04] absolute
+[0:05] Thal
+[0:05] sts
+[0:05] Pre
+[0:05] Cal
+[0:05] हा 5
+[0:06] Tihig
+[0:06] Sat
+[0:06] han chicken
+[0:07] Sibneas
+[0:07] CFT
+[0:07] better than chicken
+[0:07] _ breast and
+[0:07 - 0:08] hs mog
+[0:08] Yer
+[0:08] easts
+[0:08] at Fe
+[0:08] [4 chicken
+[0:08] bre
+[0:08] eis
+[0:09] ris
+[0:09] debate
+[0:09 - 0:11] hsimogs}breasts
+[0:10] a Pp
+[0:10 - 0:11] te on it chicken
+[0:10 - 0:12] Thighs
+[0:11] hig
+[0:11] Fad
+[0:11] 3 बा
+[0:11] SS 7
+[0:11] emi
+[0:11] pare
+[0:11] pfs yeah
+[0:12] easts
+[0:12] egs)
+[0:12] Boe
+[0:12] bit
+[0:12] pete
+[0:13] Win
+[0:13] eae
+[0:13] 'Smogs
+[0:13] e bit more fat
+[0:13] nt yeah
+[0:13] ttt tee
+[0:13] ot es
+[0:13] tte
+[0:13 - 0:15] asts
+[0:14] Sleya
+[0:14] Cas
+[0:14] OGG
+[0:14] teres
+[0:14] eee
+[0:14] toes
+[0:14] +944
+[0:14 - 0:15] it's
+[0:14 - 0:16] teey
+[0:15] hig
+[0:15] hsimogsibre
+[0:15] vray
+[0:15] muchlam
+[0:16] Tin
+[0:16] [02213 ९3
+[0:16] 01165
+[0:16] Onn
+[0:16] nee
+[0:16] Paes
+[0:17] mhighs mogs breas
+[0:17] his
+[0:18] rea
+[0:18] SES
+[0:18] Oot
+[0:18] is like
+[0:18 - 0:19] Tihig
+[0:19] Bal
+[0:19] a है
+[0:20] fatone
+[0:20 - 0:21] hs mogs'breasts™
+[0:21] mhig
+[0:21] Sts
+[0:21] है 2
+[0:21] ane
+[0:21 - 0:22] thee
+[0:21 - 0:22] e to three grams
+[0:22] phi
+[0:22] gs bre
+[0:22] ees
+[0:22] Hee
+[0:22] ax it'
+[0:22] OOS
+[0:22] tess
+[0:23] gsib
+[0:23] SUS
+[0:23] 2) oye
+[0:23] ८ Pay
+[0:23] जन हर.
+[0:23] fat. one to three grams
+[0:23] ax it's not much like
+[0:24] 202
+[0:24] (5131 ०109
+[0:24] 295
+[0:24] Migp>
+[0:24] ort
+[0:24] chicken
+[0:24] tt 4+
+[0:24] ५०, tte
+[0:25] ogs
+[0:25] whe
+[0:25] chicken thighs are
+[0:26] SSS
+[0:26] ral
+[0:26] पर than the
+[0:27] breasts

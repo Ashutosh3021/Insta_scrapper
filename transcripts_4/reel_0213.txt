@@ -1,0 +1,71 @@
+# model: ggml-large-v3
+========================================================================
+[213] https://www.instagram.com/reel/DbbHxCVMzXn/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] I can't get the words out.
+[0:01 - 0:09] I want to be with you everywhere.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Sali
+[0:00] oie
+[0:00] emits
+[0:00] *्कै
+[0:00] Bry
+[0:00] aut
+[0:00] Vas
+[0:00] rrr
+[0:00 - 0:01] Is hulk doing RDLs at
+[0:00 - 0:01] your gym ???
+[0:00 - 0:01] Replying to ryanbhaiya
+[0:01] fie
+[0:01] pry
+[0:01] Les
+[0:02] ery |
+[0:02] फिर
+[0:02] be j
+[0:02] 218. 2
+[0:02] nose,
+[0:02] are
+[0:03] “t's i
+[0:03] doing stifflegs
+[0:03] re ॥ 1
+[0:03] .. कै जे
+[0:03] Sere
+[0:04] ltisjustmetdoi
+[0:04] ngis
+[0:04] as “a
+[0:04] a 1 5
+[0:04] ०. क २६
+[0:04] [sme
+[0:04 - 0:05] egs
+[0:04 - 0:06] Stififil
+[0:05 - 0:06] ustime’
+[0:06] ‘Itsy
+[0:06] doing
+[0:06] a. है
+[0:06] a क जे
+[0:06] bes
+[0:06] Foe
+[0:07] Maske |
+[0:07] me के जे
+[0:07] क्र
+[0:08] a कई
+[0:10] हि नो
+[0:10] ही oe
+[0:10] है 5
+[0:10] =e पहल रे
+[0:10] Funx
+[0:11] कथा कर
+[0:12] Se fa
+[0:12] ors
+[0:13] हे हि 1
+[0:13] le रू
+[0:13] शा छा
+[0:13] ine
+[0:14] हैः
+[0:14] डा (an
+[0:14] ene

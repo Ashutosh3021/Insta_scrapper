@@ -1,0 +1,132 @@
+# model: ggml-large-v3
+========================================================================
+[57] https://www.instagram.com/reel/DeUoHhBMviV/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] is fun fact about warming up,
+[0:02 - 0:05] is that you don't have to rest after each increment.
+[0:05 - 0:09] For example, I did the 45s, I didn't rest.
+[0:09 - 0:12] And then I added another 45, didn't rest.
+[0:12 - 0:14] I did another 45, didn't rest.
+[0:14 - 0:16] I did another 45, didn't rest.
+[0:16 - 0:20] I did a 10, then did one rep, then I rested.
+[0:20 - 0:22] Saves a lot of time.
+[0:22 - 0:24] You don't have to rest after every warmup execution,
+[0:24 - 0:26] simply just not needed.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] WSS
+[0:00] ioe
+[0:00] "We oo
+[0:00] Stee
+[0:01] Lae
+[0:01] il 4
+[0:02] MSVy
+[0:02] ie oP
+[0:02] Bie I
+[0:02] nfact ab
+[0:02] war
+[0:02] up is that
+[0:03] ब्ब्च्ध्ः
+[0:03] jase
+[0:03] Wes
+[0:03] eto
+[0:04] WAG
+[0:04] ५०22
+[0:04] ions
+[0:04] Bi ao
+[0:04] 17 8.
+[0:04] ali
+[0:04] के 4
+[0:04] e to rest after fi
+[0:05] NEWS
+[0:05] च्ब्च्धय्य्
+[0:05] ioe
+[0:05] v4 2
+[0:05] कीट
+[0:05] BAR
+[0:06] THAW
+[0:06] च्च्च्च्ययज
+[0:06] है न |
+[0:06] See:
+[0:06] Wee
+[0:06] xaniple
+[0:07] “Tie
+[0:07] fui.
+[0:08] 2००) [11 *
+[0:08] cli
+[0:08] Ault
+[0:08] lan
+[0:09] eat
+[0:09] pean Cae
+[0:09] 1१३)
+[0:09] करन. रन
+[0:10] iil
+[0:10] eu SLE 2
+[0:10] andl
+[0:10] fai.
+[0:11] WSS
+[0:11] ब्ब्द्धः
+[0:11] jie
+[0:11] Til
+[0:11] 48.९ j/
+[0:11] ar a
+[0:12] e—ar
+[0:12] ५2 कल
+[0:12] Tei,
+[0:12] ses |
+[0:13] “il A
+[0:13] Tex
+[0:13] 150 |
+[0:13] 27 हि
+[0:14] (2 ee |
+[0:14] coy
+[0:14] rua 4
+[0:14] LE 8१!
+[0:14] fai 3
+[0:15] Saw
+[0:15] है पे
+[0:15] 7 ON
+[0:15] Nah
+[0:16] ब्ब्चध्धटः्‌र
+[0:16] pie
+[0:16] कि i
+[0:16] iff)
+[0:16] Lae
+[0:17] 118
+[0:17] Af 7
+[0:18] NEXS
+[0:18] 4 - al
+[0:18] (८ | 12
+[0:18] « the
+[0:19] a धयुऋ
+[0:19] “) 7 पे
+[0:19] BANS
+[0:19] पी अंक
+[0:20] ४454
+[0:21] INS
+[0:21] lotof A
+[0:22] Say
+[0:22] 227
+[0:22] jee
+[0:22] Vig
+[0:23] ioase
+[0:23] Wa Pig #
+[0:23] Are
+[0:23] जा न
+[0:23] thate to rest A,
+[0:24] e—r1
+[0:24] joo ae
+[0:24] ४85
+[0:24] Teil \
+[0:24] <A om
+[0:25] Sey
+[0:25] ioe
+[0:25] sage
+[0:25] ५ किम ap
+[0:25] ane
+[0:25] Cl 11
+[0:25] “a / yr

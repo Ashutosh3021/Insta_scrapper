@@ -1,0 +1,92 @@
+# model: ggml-large-v3
+========================================================================
+[591] https://www.instagram.com/reel/DTNKsAFjNjf/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I don't know who are these people who are telling me to walk 10k steps every day like bro I have
+[0:04 - 0:09] PCOS. I can barely get out of my bed some days like some days the most I walk is from my bed
+[0:09 - 0:14] to the couch and you expect me to walk 10k steps and also keep count of it like bro have you seen
+[0:14 - 0:23] me? Dude just eat less. You have a phone open your fitness app or install a step tracker and use that
+[0:23 - 0:28] and I did not know PCOS makes you crippled. You still have your legs. If you are able to walk to
+[0:28 - 0:32] the kitchen to eat food you can eat less of it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] = eee”
+[0:00] Cre
+[0:00] 7९०0६
+[0:01] \ uae
+[0:01] we 4
+[0:01 - 0:02] Idon'}
+[0:01 - 0:02] people wp
+[0:02] Nee.
+[0:02] walk «.
+[0:03] e ao
+[0:03] getou
+[0:03 - 0:07] everyd
+[0:04] ४४४७
+[0:04 - 0:07] Tcan bi
+[0:05] wa SY
+[0:05] jeve
+[0:06] 1180 2०]
+[0:06] ite o
+[0:07] wu nate
+[0:08] fromf
+[0:08] Ake
+[0:08 - 0:09] some
+[0:09] 12188
+[0:09] fro.
+[0:10] yor
+[0:10] some days
+[0:10] 10004"
+[0:10] from: ty
+[0:10] and
+[0:11] my you expectme to
+[0:11] ate
+[0:11] walk 0 Kste,
+[0:11] Sseel
+[0:11] Hae |
+[0:11 - 0:12] count of iflike bro}
+[0:12] yey
+[0:12] walk 10K,
+[0:12] ones
+[0:12] seen me
+[0:14] of it
+[0:15] Dude,
+[0:16] Dude, just eat less
+[0:18] 2 havea
+[0:19] ca have aphone, open
+[0:19] our
+[0:20] e ha
+[0:20] phone, open
+[0:20] your fitness app
+[0:21] May
+[0:22] हि astep tracker
+[0:22] पट a
+[0:24 - 0:25] ‘ad not know PCOS
+[0:25] makes you crippled.
+[0:25] हैं,
+[0:26] fou sa!
+[0:28] ifyou afeable to Walk 2
+[0:28] A je
+[0:29] rad are able to walk
+[0:29] tothe kitchen to
+[0:30] food you’
+[0:32] pos got uy
+[0:32] We ae
+[0:33] Quy
+[0:33] lon
+[0:34] jotme|guys) i
+[0:34] ny a
+[0:35] REOS gotme guys
+[0:35] ye 18
+[0:35] Via
+[0:35] 11 a
+[0:36] RCOS gotime)
+[0:36] guys
+[0:36] Rows,
+[0:36] i ७ बडे
+[0:37] RCOSigotme: awit
+[0:37] nt) ta

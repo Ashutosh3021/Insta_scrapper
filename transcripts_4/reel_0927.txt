@@ -1,0 +1,150 @@
+# model: ggml-large-v3
+========================================================================
+[927] https://www.instagram.com/reel/DHtXdPQh6WD/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] ये एक upper chest exercise नहीं है और ये भी एक upper chest exercise नहीं है
+[0:04 - 0:10] अभी just because you are pressing on an incline उसका मतलब ये नहीं है कि तुम actually upper pec train कर रहे हैं
+[0:10 - 0:12] अगर तुमारा press एक horizontal path में जा रहा है
+[0:12 - 0:15] you are still biasing your middle chest not your upper chest
+[0:15 - 0:20] अगर तुमें actually upper pec को target करना है you have to understand how the pecs work
+[0:20 - 0:24] तुमारे जो mid pecs होते हैं उनका main function होता है horizontal adduction
+[0:24 - 0:29] तुमारा जो upper chest होता है उसका सबसे best leverage होता है shoulder flexion में
+[0:29 - 0:34] so गलती लोग कहां करते हैं कि जब तुम press कर रहे हो तुम straight forward press कर रहे हो
+[0:34 - 0:36] you are not actually hitting your upper pecs
+[0:36 - 0:41] अगर तुमें सही में upper pecs को bias करना है your pressing movement needs more shoulder flexion
+[0:41 - 0:47] मतलब bar or dumbbell should travel in an upward arc not just straight forward
+[0:47 - 0:49] so yeah hope that helps perform well
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] upper
+[0:00] ( फिक
+[0:00 - 0:01] Thistisinot'
+[0:00 - 0:01] ~ = 1 chest
+[0:01] ॥ chest exercise
+[0:02] Isn
+[0:02] pf ner,
+[0:02] il — this
+[0:02] PASS
+[0:02] Nhi hai or ye
+[0:03] igsmtpe I
+[0:03] a isn’t
+[0:03 - 0:04] Nhi hai or ye bhi ek upper
+[0:04] chest exercise nhi hai
+[0:05] re ie
+[0:05] Abhi just
+[0:06] Incline 7 upperp:
+[0:06] Abhi just because you're_
+[0:06] pressing
+[0:07] agline _ Upper
+[0:07] BSS
+[0:07] lita
+[0:07] ~ UsKa' matlab ye
+[0:08] | actually...
+[0:09] Incline < upperdp:
+[0:09] ees
+[0:09] actually.Tum upper pec train
+[0:10] J th
+[0:11] जज गा पे
+[0:11] Up*andidown
+[0:11] रहे
+[0:12] Movin Se
+[0:12] OWN
+[0:12] es Le
+[0:13] cular
+[0:14] Transvense)plane [16३५७ \
+[0:15] Transvense)plane press ७७ \
+[0:15] 2082७
+[0:15] 225
+[0:15] ostal
+[0:16] Yi a
+[0:16] 4 1 छल
+[0:16] कि 22203
+[0:17] <n # ndersta
+[0:17] AS 6220
+[0:17 - 0:19] Ad हु pecs work
+[0:18] i 1) [KO
+[0:18] 4 jpecs wo ५
+[0:18] 1 पक
+[0:18] 4 | छान
+[0:18 - 0:19] S ८2220
+[0:19] ‘Gi how,
+[0:19] med
+[0:19] 4 | छल
+[0:20] 13) [OY
+[0:20] MGs
+[0:21] ७ आर
+[0:22] Horizon
+[0:22] izomtal
+[0:22] WwWAdduction
+[0:22 - 0:24] 4 १ छा
+[0:23] eng /
+[0:23] श्र
+[0:23] Whilethe whole अं doesjhorizontal adductior
+[0:23] ~ Levenages|matte
+[0:23 - 0:25] A orizontalyAdduction
+[0:24] ५ “he he whole हे horizontal adduction
+[0:24] Leverages) wo
+[0:24] oh © ae
+[0:25] sNeSt
+[0:25] कै. ९
+[0:25] ‘i प्
+[0:26] Re we
+[0:26] 4 | छल
+[0:27] Bis shoul
+[0:27] 1 1t
+[0:27] on ae
+[0:27 - 0:28] Xion,
+[0:28] — कक chest
+[0:28] Sin
+[0:28] shoul
+[0:28] 4 Int
+[0:28] प्र
+[0:28] Vie
+[0:29] ye reine eh
+[0:29] pay . Bel
+[0:29] war \
+[0:29] है. जे
+[0:29 - 0:30] oul
+[0:30] Upperichest
+[0:30] 4 | छान
+[0:30] 5० व
+[0:31] ip 7?
+[0:32] aly
+[0:32 - 0:33] Theamistake
+[0:33] है 1
+[0:33] - cme
+[0:34] te A
+[0:34] म्््-
+[0:34 - 0:35] Theamist
+[0:35] actually
+[0:36] actually hitting
+[0:36] pper pecs _
+[0:36 - 0:37] हर mistake
+[0:38] WS mistake
+[0:40] = sing movement
+[0:41] ass salt aie
+[0:41] mass:
+[0:41] - you're oil शान भा
+[0:41] needs more'shoulder flexion
+[0:42] | eal
+[0:42] ade
+[0:43] 11६
+[0:44] mbbel should
+[0:44 - 0:46] Somethingflike}this
+[0:45] pring
+[0:45] B- should
+[0:45] an upward |
+[0:45 - 0:47] Som;
+[0:47] hingplikeythis
+[0:47] जाप
+[0:47] अदरक
+[0:48] | हू likexthis
+[0:48] (3 cd
+[0:48] ry aight feed so
+[0:49] 2 more
+[0:49] ist straightforward so
+[0:49] ah we 11211: far from

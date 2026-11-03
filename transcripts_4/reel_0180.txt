@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[180] https://www.instagram.com/reel/DcGRMYHM5RW/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] the last thing you should be doing on instagram as a content creator is use ai to post your physique
+[0:07 - 0:14] you're a content creator the last thing you should be using is ai
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] gin
+[0:00 - 0:07] Using Al to post physique हे
+[0:01] बा चर,
+[0:01 - 0:10] *Imagine®
+[0:03] 1३४
+[0:04] hes
+[0:05] प्र
+[0:07] AN ‘Wer
+[0:08] agvr
+[0:08] के d
+[0:08] cee
+[0:08 - 0:11] Using Al to post ra
+[0:10] by. हे
+[0:10] 50९४
+[0:10] ivy
+[0:10 - 0:13] Using Alto post physique’ *
+[0:11] e ine
+[0:11] कं व
+[0:12] eat
+[0:13] Imagine
+[0:13] ध्यीि
+[0:14] © atinfo
+[0:14 - 0:15] knucklehead_warrior When you
+[0:14 - 0:15] start thinking, ‘I'll do it tomorro...
+[0:15] rows) jal
+[0:15] 24% है

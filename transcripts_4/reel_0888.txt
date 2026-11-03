@@ -1,0 +1,208 @@
+# model: ggml-large-v3
+========================================================================
+[888] https://www.instagram.com/reel/DJURI7NBuP6/
+STATUS: OK
+DURATION: 1:12   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Your exercise programming might be killing your gains
+[0:02 - 0:06] So guys this is going to be our 5th episode of the exercise programming series
+[0:06 - 0:09] और आज हम बात करेंगे exercise redundancy के बारे में
+[0:09 - 0:11] पहले what is exercise redundancy
+[0:11 - 0:13] अभी जब भी हम ऐसे exercises चूज करते हैं
+[0:13 - 0:17] जो essentially same moment pattern और same muscles को target कर रहा है
+[0:17 - 0:21] in nearly the same way उसे कहते है exercise redundancy
+[0:21 - 0:24] अभी ये एक ऐसी mistake है जो बहुत सरे लोग करते हैं gym में
+[0:24 - 0:26] without knowing how it's affecting their workout
+[0:26 - 0:27] here are some few examples of it
+[0:27 - 0:31] performing standing bicep curls and then performing barbell curls
+[0:31 - 0:33] pull ups मारने के बाद lat pull down मारना
+[0:33 - 0:36] one arm dumbbell row के बाद एक single arm cable row मारना
+[0:36 - 0:38] अभी यहाँ पे हम देख सकते हैं कि ये moments दिखने में तो अलग है
+[0:38 - 0:40] but इनका function is almost the same
+[0:40 - 0:43] और इसका fix भी बहुत simple सा fix है
+[0:43 - 0:45] जब भी भी हम exercise प्रोग्राम कर रहे हैं
+[0:45 - 0:48] हमें muscles के functions पे ध्यान देना
+[0:48 - 0:49] not कि वो exercise कैसा दिखता
+[0:49 - 0:52] अगर हम देखेंगे one arm dumbbell row compared to a single arm row
+[0:52 - 0:55] ये दोनों दिखने में तो बहुत अलग moments हैं
+[0:55 - 0:56] but इनके functions are the same
+[0:56 - 0:59] ये दोनों perform कर रहे है shoulder extension और elbow flexion
+[0:59 - 1:01] अभी इसका easy fix ये होगा कि
+[1:01 - 1:03] we just move over to a different function of the lat
+[1:03 - 1:05] जैसे कि shoulder adduction
+[1:05 - 1:08] इसलिए in order to make our training as efficient as possible
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] jour exercise
+[0:01] Sep
+[0:01] exercise program mI
+[0:01] 1.५ i
+[0:01] Might
+[0:02] = exercise .- 11110]
+[0:02] gramming
+[0:02] might be kil
+[0:02] your gains
+[0:03] ae programm
+[0:03] Ve BE
+[0:03] — : ong
+[0:04] Episo
+[0:04] de}5)
+[0:04] न eae to be our fifth
+[0:05] hy 5)
+[0:05] eae
+[0:05] 1 vi
+[0:05] ¥ programming —
+[0:06] Exerci:
+[0:06] indancy
+[0:06] = & oh a
+[0:06] or AJ
+[0:07] Bor,
+[0:07 - 0:08] or AJ ham baat kareinge
+[0:08] exercise redundancy
+[0:09] re mi
+[0:10] | IS EXER:
+[0:10] REDUNDANCY.
+[0:10] Ke baare me pehi
+[0:10] exercise 4
+[0:12 - 0:13] abhi jab bhi hay
+[0:14] essentially क
+[0:15] a aa
+[0:15] Same
+[0:15] Ney.
+[0:15] ent
+[0:16] “Saméimovemeiit
+[0:16] Pattern
+[0:16] essentially same moment
+[0:16] Pattern or same
+[0:17 - 0:18] Sametta’
+[0:18] NAL
+[0:18] rah
+[0:18] nearly
+[0:19] cS aS
+[0:20] Pa r
+[0:20] gg ae
+[0:21 - 0:23] bhi yeh E!
+[0:22] (010 21000)
+[0:22] Moe Is
+[0:22] ems
+[0:22 - 0:23] istal
+[0:23] 5 1901४66&)७।1॥78॥, 565
+[0:23] iw To
+[0:23] Hai
+[0:24] aster yeurguy:
+[0:24] © fit
+[0:24] जे २
+[0:24] iw ७
+[0:24 - 0:25] without
+[0:25] A lotto fiy.outg
+[0:25] DO Rye
+[0:25] amt
+[0:25] affectin
+[0:26] pom
+[0:26] ४ of it
+[0:26] है थे
+[0:26] a di,
+[0:26] ७७५
+[0:27] ome
+[0:27] 1:20:
+[0:27] ples of 3
+[0:27] & 22८2
+[0:27] soni ©
+[0:28] \ eae ming'standi 9
+[0:29] ig bicep
+[0:30] Lc have a
+[0:30] ideo.of-barbell
+[0:30] irs. =
+[0:30] ‘ais ie =
+[0:30] and tc performing barbell
+[0:31] IPs
+[0:32] pull UPS bao ke bd be
+[0:33] ज्य तक |
+[0:33] ele
+[0:33] ite |
+[0:34] aye
+[0:35] ens.
+[0:35] ae Ae
+[0:36] any
+[0:36] ४०००
+[0:36] a q's
+[0:36] // ७०५
+[0:36] केक
+[0:37] i आज
+[0:37] i रे
+[0:37] ब्ष
+[0:38] ARS का.
+[0:38 - 0:41] te Lookdifferent right?
+[0:39] parts
+[0:39] La’ but inka
+[0:39] art
+[0:39] a Ui
+[0:40] Pew “जे Pelee A
+[0:41] or its ka fix
+[0:41] tion is almost
+[0:42] r avoid
+[0:42] 2) becundancy,
+[0:42] i bhot
+[0:43] wee
+[0:43] 4७ te
+[0:43 - 0:44] r “How to fix or avoidy
+[0:43 - 0:44] -_Exercise,redundancy
+[0:44] mm को
+[0:44] श्र
+[0:45] rem
+[0:46] 1 at
+[0:46] a eel
+[0:47] कह 110
+[0:47] pandhyaant
+[0:47] cal कं dhyaantd
+[0:47] Opal
+[0:47] न्र्यध्वटत
+[0:49] a बल
+[0:50] ५0 Qs
+[0:50 - 0:51] » ofa
+[0:51] (७ Qs
+[0:51] rt ;०>
+[0:52] Ax, 2}
+[0:52] aes
+[0:53] 7144
+[0:53] २ कक: 2220
+[0:54 - 0:58] 4 ( छल
+[0:55] ma 8
+[0:56] Ay है
+[0:57] 2४ 44
+[0:57] Vie,
+[0:57 - 0:58] हा ension
+[0:58] fe y
+[0:59] elbow fle:
+[0:59] ~ ie 23 ७
+[1:00] oF ie |
+[1:00] aM iol
+[1:00] m ABBY it's got
+[1:00 - 1:02] | ब्र
+[1:01] «sl 4
+[1:02] Just movel
+[1:02] A different
+[1:02] rial
+[1:02 - 1:03] it function of |
+[1:02 - 1:03] Gaga over through
+[1:03] Gifferent functio
+[1:04] to a
+[1:04] रे fugction ७
+[1:04] nfs
+[1:04] Ae shoulde’
+[1:05] it's like in
+[1:06] ey a!
+[1:06] (६ lik
+[1:06] coal
+[1:07] mia
+[1:07] Hl thi
+[1:08] 180
+[1:09] STUD
+[1:09 - 1:10] .. we must avoid exercise
+[1:10] mie
+[1:10] ‘redundancy
+[1:11] for more
+[1:11] | hope that was helpful for
+[1:11] more

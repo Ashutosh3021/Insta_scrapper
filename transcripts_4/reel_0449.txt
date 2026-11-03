@@ -1,0 +1,224 @@
+# model: ggml-large-v3
+========================================================================
+[449] https://www.instagram.com/reel/DWZMYswDFJH/
+STATUS: OK
+DURATION: 1:49   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] I don't know who needs to hear this, but if you're competing thinking you'll get social media fame, a lot of recognition, a lot of different sponsors, you are competing for the wrong reasons.
+[0:09 - 0:20] We all see people on social media competing, getting sponsorships, getting followers, getting fame, and we look at them and we are like, oh, maybe I can also be like that.
+[0:20 - 0:25] But that decision which you just thought about is the worst decision you can make.
+[0:25 - 0:33] Whenever someone decides to compete, their decision is to compete with other people out there on the stage.
+[0:33 - 0:37] It's not, oh, I will get fame and recognition by doing this.
+[0:37 - 0:45] Think about this. You are literally going to be compared with someone else on the stage who probably has better genetics than you.
+[0:45 - 0:51] You have never done a prep, but you see all these guys on social media and you're like, oh, what if I do a prep and I get a gold?
+[0:51 - 0:54] What if you do a prep and you place last?
+[0:54 - 0:55] That was your first prep.
+[0:55 - 1:01] Doing a prep itself is a big thing and getting placed last on your prep is the worst feeling ever.
+[1:01 - 1:07] And I can tell you that it's going to take a very long time for you to recover from it.
+[1:07 - 1:18] And not just that, if you don't have those dietary habits set in for the post-show recovery, you're going to gain more weight back than you started from.
+[1:18 - 1:22] Post-show, I gained 20 kgs and it took me so long.
+[1:22 - 1:25] It was today where I felt like, oh, I can do this.
+[1:25 - 1:28] Okay, I finally regained consciousness with food.
+[1:28 - 1:32] I finally understood what it feels like to have food and not binge.
+[1:32 - 1:38] Once you fall in this pit, it is going to take a very long time for you to come out.
+[1:38 - 1:45] And I can tell you exactly, there is a competitor who's watching this, who's going to tell you that, wow, that happened to me as well.
+[1:45 - 1:48] Don't compete just for social media, man.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Comoe
+[0:00] cing
+[0:00] EVERVONE
+[0:00] doen't know who
+[0:00] fae
+[0:00] awe
+[0:01] canes
+[0:01] 193
+[0:01] his, but if
+[0:01 - 0:03] NOM FORIEVERMONE
+[0:02] Cons
+[0:02] ting
+[0:02] Now,
+[0:02] FORIE
+[0:02] VONE
+[0:02] earthis, at if youjfe:
+[0:02] competing thinki
+[0:03] 001] 81110]
+[0:03] रे media
+[0:03] afi
+[0:04] | PAL |
+[0:04] 80100 21110]
+[0:04] Non
+[0:04] FOR
+[0:04] EVE
+[0:04] BNO ie
+[0:04] 4 के
+[0:05] eting|is
+[0:05] @frecognition, १1०६
+[0:05 - 0:07] EVERYONE
+[0:06] Compcthints
+[0:06] NOT FORIEVERMONE
+[0:06] (f recognition, alotof
+[0:06] ) ifferent sponsors
+[0:07] 001 01111 ~
+[0:08] hacompeting
+[0:08] NOM
+[0:08] Vou are competing for
+[0:08 - 0:09] FORE!
+[0:08 - 0:09] ONE
+[0:09] Competi
+[0:09] 1113]
+[0:09] New
+[0:09] Fy reasons
+[0:10] १ ae
+[0:10] STintisguy
+[0:10] है ty
+[0:10] snl ge
+[0:10] eel /
+[0:11] media =
+[0:11] alllsee peo|
+[0:11] जरा
+[0:12] <. Pose
+[0:12] Eagle
+[0:12] SEH «
+[0:12] sponsorships, x
+[0:12] ranaaafit and rai
+[0:12] 7) Fivunaily By ५०
+[0:13] ol Oe
+[0:13 - 0:14] Eagle = <Pose 4
+[0:14] hes
+[0:14] ९५ hA-
+[0:14] followers, gettin
+[0:16] Mit
+[0:18] | Fal
+[0:19] Rac
+[0:19] jaybe|canalso
+[0:19] > कीं:
+[0:21] Vay
+[0:21] Py i
+[0:22] ‘abi fics the’
+[0:23] Maye
+[0:23] wih
+[0:23] about is the worst}
+[0:24] VAY
+[0:25] si रे
+[0:26] Someone
+[0:26] decid
+[0:27] I lenever someone decides)
+[0:27] & grpets,
+[0:28] lel
+[0:28] icision
+[0:29] 4; wh
+[0:29] ज्श
+[0:29 - 0:30] DF Videcisionis
+[0:30] शोक
+[0:30] to compete with
+[0:31] Thi
+[0:32] Bie there on
+[0:33] alah
+[0:33] peo}
+[0:33] it thi
+[0:33] the
+[0:35] tai
+[0:35] 5 10 5108, oh, | will
+[0:36] \ ane
+[0:36] aye iti
+[0:38] ouare
+[0:40] pared with
+[0:41] if {, 1
+[0:41] 221०५ with someone
+[0:42] 4५९
+[0:42] fompared with someone!
+[0:42] lonthe stage
+[0:43] probably
+[0:44] probably has bette!
+[0:45] गा hever
+[0:46] Nig
+[0:47] But you see all these
+[0:48] ५१ [३
+[0:48] oer
+[0:48] कै 4
+[0:48] (on social media
+[0:49] ra A
+[0:49] 9 ५७
+[0:52] Budo aprep
+[0:53] se cat
+[0:53] के लीं
+[0:53] you do a prep andyou
+[0:53] place
+[0:56] doing a prep itself
+[0:58] 4) wh
+[0:58] And getting
+[0:59] and
+[1:00] | Ka P
+[1:01] Seas
+[1:01] श्र
+[1:01] pepe? 1 the worst
+[1:03] And 1can tell you
+[1:04] aan
+[1:05] sv ac] है
+[1:05] sage take 2
+[1:06] a हा
+[1:08] 4 Ww?
+[1:08] Fy not just tha
+[1:10 - 1:11] Votlidon't have those
+[1:11] ry Ay Ee
+[1:11] fietary habits
+[1:12 - 1:13] for the
+[1:13] 111५
+[1:13] t-show हा ry
+[1:15] heme
+[1:16] | t है
+[1:16] ht back
+[1:17] od te
+[1:19] Ly ta
+[1:19] कि show | gained
+[1:19] aA 1४८77
+[1:20] 441
+[1:20] Rost show | gained 20)
+[1:21] ittook
+[1:21] दें
+[1:22] a meso
+[1:23] ॥ व. जज
+[1:24] fay wi
+[1:24] क्ष |
+[1:26] 1 inally
+[1:29] fil
+[1:29] ‘4 di
+[1:30] Vebate prep के के
+[1:30] yore
+[1:31] लि vee
+[1:32] a prep के के
+[1:32] eae
+[1:32] "हक n
+[1:33] ies
+[1:33] lane
+[1:33] Longe
+[1:33] ued
+[1:34] 44 wh
+[1:34] you fall in
+[1:35] et 4
+[1:35] क्र
+[1:35] nice you fall in this
+[1:35] pit
+[1:36] 47 ३ ry
+[1:36] igaing to
+[1:36] ef ae
+[1:36] Hon
+[1:37] he e
+[1:37] ing to take a vel
+[1:37] long
+[1:41] PAA
+[1:41] there i:
+[1:41] mpetit
+[1:42] hing thi
+[1:43] uy ३
+[1:43] going to tell you
+[1:44] cle
+[1:45] क्र
+[1:45] thatlhappened to me
+[1:45] anf
+[1:46] jude
+[1:48] bad
+[1:48] ‘hat

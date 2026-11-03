@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[475] https://www.instagram.com/reel/DVyejpOk1kw/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] no no no no no bro bro bro bro bro bro no no you have to train the longer of the biceps on one day
+[0:07 - 0:12] and shorter of the biceps on one day or else they will snap out and your biceps will tear bro
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] can you
+[0:00] 195 all heads of a bicep ina
+[0:00 - 0:11] training/nutrition/peps
+[0:00 - 0:11] single bicep day?
+[0:01 - 0:11] can you bias all heads of a bicep ina
+[0:05] Ton
+[0:11] हें

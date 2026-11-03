@@ -1,0 +1,88 @@
+# model: ggml-large-v3
+========================================================================
+[468] https://www.instagram.com/reel/DV_Tj-GjLyS/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I don't know who needs to hear this, but you are not hyper-responding to creatine, man.
+[0:04 - 0:06] I don't know who told you guys this.
+[0:06 - 0:11] I don't know why are you guys thinking this, but you cannot hyper-respond to creatine.
+[0:11 - 0:16] Creatine, all it's gonna do is pull water into your muscles, bro.
+[0:16 - 0:20] Bro, how can you even hyper-respond to that?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ५:६९ 4
+[0:00] Creenine
+[0:00] eo a
+[0:00 - 0:01] ivger-responder
+[0:01] EEN
+[0:01] who needs to
+[0:01] hear
+[0:01] ppt you
+[0:02] der
+[0:02] ‘espn
+[0:02] प्र
+[0:02] hoy
+[0:02 - 0:03] ake
+[0:02 - 0:03] reatine
+[0:03] iyjer-responden ©
+[0:03] कार
+[0:03] not
+[0:03] ionding to
+[0:03] wigs
+[0:04] aa a
+[0:04] \ 4002
+[0:04] Pad
+[0:04] 1९1
+[0:04] Low
+[0:04] , Sate
+[0:05] Pin हैं:
+[0:05] ras
+[0:06] re के
+[0:06] Jake
+[0:06] ion.)
+[0:06] कक.4
+[0:06] क्र
+[0:06] बाई
+[0:06] wal
+[0:06] ou guys this
+[0:07] 7० | 5
+[0:07] 7 ee |
+[0:08] Bo ae
+[0:08] tBiiking this but
+[0:08] aie
+[0:09] the 3
+[0:09] ea 2
+[0:09] Siu
+[0:09] cal
+[0:10] क्र
+[0:10] ane
+[0:10] ae Oe
+[0:10] ar ms
+[0:10] ree
+[0:10] & respond
+[0:11] uae
+[0:11] बीत
+[0:11] ९22 /
+[0:11] कु थी
+[0:12] he ae
+[0:12] ria
+[0:13] tke me
+[0:13] Aue
+[0:13] हैः do
+[0:13] चलन
+[0:13] Zee
+[0:14] fra
+[0:14] War
+[0:14] geingto dois pull
+[0:15] है १]
+[0:15] १४ 7"
+[0:16] Lo 4
+[0:16] tes
+[0:16] wes
+[0:17] 4 er
+[0:18] ats
+[0:19] aa ~d
+[0:20] jue”

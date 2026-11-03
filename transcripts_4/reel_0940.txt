@@ -1,0 +1,170 @@
+# model: ggml-large-v3
+========================================================================
+[940] https://www.instagram.com/reel/DHLyEX-tlJf/
+STATUS: OK
+DURATION: 1:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] There is a concept called muscle cell hypoxia, right?
+[0:02 - 0:04] That is stimulant for growth in your muscles.
+[0:04 - 0:09] Hypoxia training isn't causing any muscle growth and if you think it does, you have been misled.
+[0:09 - 0:12] Bhushan sir here got everything completely wrong.
+[0:12 - 0:18] I don't think he's aware of the fact that a heavy set to failure creates more muscle cell hypoxia than any of these intensifier can do.
+[0:18 - 0:23] When you train a muscle in a low oxygen environment, that is basically muscle cell hypoxia.
+[0:23 - 0:29] Now, Bhushan sir here claims that cluster sets, drop sets, supersets increase muscle hypoxia thereby increasing hypertrophy.
+[0:29 - 0:31] But this is completely wrong.
+[0:31 - 0:35] A regular set to failure creates more muscle hypoxia than any of these intensifier combined.
+[0:35 - 0:39] It seems like Bhushan sir is also confusing hypoxia with metabolic stress.
+[0:39 - 0:42] But those two things are not really the same thing.
+[0:42 - 0:49] Now, eccentric training creates more hypoxia than concentric training even though the amount of metabolites which were accumulated was low.
+[0:49 - 0:54] Now, this proves us that hypoxia does not occur with correlation with metabolic stress.
+[0:54 - 0:59] If hypoxia created muscle growth, we'd really see that in blood flow restriction studies
+[0:59 - 1:04] and you know what we see in blood flow restriction studies, muscle loss.
+[1:04 - 1:10] And we already know that we need long rest periods in order to perform our best, which I don't know why he denies.
+[1:10 - 1:17] So, if you're using stuff like drop sets, supersets, cluster sets, you're just creating unnecessary CNS and calcium ion fatigue.
+[1:17 - 1:20] Instead, stick to training heavy, 5-7 reps, longer rest periods.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] There is
+[0:00 - 0:01] oe Fly poxia)istal
+[0:00 - 0:02] timulant for growth)
+[0:01] Imulant ter
+[0:01 - 0:02] hypoxia,
+[0:01 - 0:02] ive >
+[0:01 - 0:04] growth in yo
+[0:01 - 0:04] Stim
+[0:02 - 0:03] Hypoxiajistal
+[0:03] . Kor
+[0:03] Lge
+[0:04] eia
+[0:04] when
+[0:06] ~ ining isn’
+[0:08] Sweat it di
+[0:09] if yougiur
+[0:09] ink it d
+[0:09] in mish
+[0:10] श्र
+[0:11] ees here got
+[0:13] think he's a)
+[0:14] ral
+[0:14] This study investigated the changos in muscua
+[0:14] aoa
+[0:14] set to failure
+[0:14 - 0:15] Effects of load magnitude बन्द
+[0:14 - 0:15] muscular activity and tissue
+[0:14 - 0:15] oxygenation during repeated
+[0:14 - 0:15] elbow fle:
+[0:14 - 0:15] ns until failure
+[0:14 - 0:15] Show details
+[0:14 - 0:15] Abstract
+[0:15] This stu
+[0:15] the changes in muscular
+[0:17] BES
+[0:18] xygen'contigming
+[0:18] response
+[0:18] ifier can do
+[0:22] केक
+[0:25 - 0:26] HAClustenisets)
+[0:25 - 0:26] ShSame)musclelsupensets
+[0:25 - 0:27] 2sDroplsets)
+[0:26] ८३३33)
+[0:26] isters has dre
+[0:27] LChstersss
+[0:29] pert
+[0:30] This isn’t right!
+[0:30] — ऑकी
+[0:31] completely wi
+[0:33] — musecl
+[0:34] द्धि ra
+[0:34] in any of
+[0:34] ~ sill sae
+[0:35] xia than any of t!
+[0:35] nsi
+[0:35] ied combi
+[0:36 - 0:37] Iiypoxiagemetabolicistnesscay y
+[0:37] 5 fille.
+[0:38] liso confusi
+[0:38] a ia
+[0:38] ith
+[0:41] \3 noe
+[0:41] fo things
+[0:42] om things are
+[0:42] he same thin:
+[0:43] Wetislunderstandisomething
+[0:43] ‘Vastus lateralis oxygenation
+[0:43] ‘dynamics during maximal
+[0:43] fatiguing con
+[0:43] tric and
+[0:43] eccentric isokinetic muscle
+[0:43] actions
+[0:43] a J Eee
+[0:43] Kins
+[0:43] Show detaits
+[0:43] Abstract
+[0:43] “ecentric
+[0:44] lWetislundenstand
+[0:44] Tessmetabolic
+[0:44] Wome
+[0:44 - 0:45] leccentuiciinainingh
+[0:44 - 0:47] jEccentniclonlyjtnainingjcneateslmonelhypoxialthan)
+[0:45] Letts
+[0:45] feo
+[0:45] wes 4
+[0:45] hai
+[0:46] (causeslessmetabolicy
+[0:47] Eccentaiennainin
+[0:47] jetaboliclaccumulation
+[0:47] igieause:
+[0:51] iypoxiadoesinotaccuniny
+[0:51] is thi
+[0:51 - 0:54] Conrelation
+[0:52] | ७:७१
+[0:53 - 0:54] Hypoxial
+[0:57] Poe
+[0:57] ia created
+[0:57] growth
+[0:58] see that
+[0:58 - 0:59] pol
+[0:59] see that in bi
+[0:59] ion studies
+[1:01] (क्र
+[1:01] we see in blood fu
+[1:01] ctio
+[1:02] Resistance Trait
+[1:02] ing With Blood
+[1:02] Emerson Tetra eta. J Ste
+[1:02] (0008 Res.
+[1:02] 2021
+[1:02] Show details
+[1:02] जाए
+[1:02 - 1:03] Blood Flow Restriction Does Not
+[1:02 - 1:03] Attenuate Short-Term
+[1:02 - 1:03] Detraining-Induced Muscle Size
+[1:02 - 1:03] and Strength Losses After
+[1:02 - 1:03] Flow Restriction
+[1:03] Resistance Training With Blood
+[1:03] seta J
+[1:03] nat ८
+[1:03] show d
+[1:03] its
+[1:03] fess |
+[1:07] perien
+[1:07] rform
+[1:12] 613]
+[1:12] 01081
+[1:12] (Cluster'sets
+[1:13] 10 09898
+[1:13] 24001 11006 60७६0]
+[1:14] ADroplsets)
+[1:14] musclejsupemsets)
+[1:14] r sets you'r
+[1:15] Unnsesssany Os tattqusend|
+[1:16] BOA
+[1:17] Im and fatigui
+[1:17] sert
+[1:17 - 1:20] iRollow for more
+[1:18] ses
+[1:18 - 1:20] jing heavy
+[1:19] raining hea’
+[1:20] ger as perio

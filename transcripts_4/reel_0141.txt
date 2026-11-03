@@ -1,0 +1,95 @@
+# model: ggml-large-v3
+========================================================================
+[141] https://www.instagram.com/reel/Dc31-XRMK0w/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] На пуху трать мою бабло, заезжай за гандонами, я читал переписки, не чистишь шаты своё время.
+[0:08 - 0:15] На пуху трать мою бабло, заезжай, возьми овесы, все палетки делают, которых тащат за школицей.
+[0:15 - 0:19] На пуху трать моё бабло, возьми прокладки овесы.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 8, Vy
+[0:00] bo I
+[0:00 - 0:01] Training/Nutrition/Anything
+[0:00 - 0:01] tierlist/order of things that make a
+[0:00 - 0:01] difference in lifting. theres a lot of sbl
+[0:00 - 0:01] info out there
+[0:01] ray
+[0:01] ae gote
+[0:01] Here-are things which
+[0:01] A adiffer
+[0:01] ence for lifting
+[0:02] ail
+[0:02] Number 1
+[0:02] AES
+[0:02 - 0:03] Adhering tothe cep
+[0:02 - 0:03] Consistently
+[0:03] rii
+[0:03] yon
+[0:03] of बिल
+[0:03] é program
+[0:04] perl
+[0:04] Ne? i 4
+[0:04 - 0:05] equency, intensity)
+[0:05] iN ia
+[0:05] । Number 218
+[0:05] NP 00.1०
+[0:06] Having a jameth
+[0:06 - 0:08] _ Number 3 i.
+[0:07] Having a PY ofiprogression
+[0:08] ~The exe
+[0:08] ciseiselection which you 47
+[0:08] Qe NY
+[0:08 - 0:09] \ choose:
+[0:09] Number 4 his
+[0:09] liheiexe
+[0:09] cise selection ff you {
+[0:09] VARY
+[0:10] Rep range
+[0:11] Sau Numb
+[0:11] ae . ७५० 1.
+[0:12] ii |] a
+[0:12] eft sf
+[0:12] a lon
+[0:12] a nough
+[0:12] ‘Between
+[0:12] oat
+[0:12] VY as
+[0:12] “502
+[0:13] Fi 4)
+[0:13] Resting long.enough
+[0:13] Betweeén’sets
+[0:13] rel a
+[0:14] "Fi PNuihber 4 as
+[0:14] Resting igen
+[0:14] ugh
+[0:15] Git
+[0:15] mber
+[0:15] "eine
+[0:15] guards
+[0:15 - 0:16] like seatbelt Vstraps, mouth
+[0:16] श्र
+[0:16] (Number 6;
+[0:16] External to
+[0:16] 104
+[0:16] wards
+[0:16] wre
+[0:16] fay
+[0:16] pet =
+[0:17] nal iis (
+[0:17] Like seatbe
+[0:17] ltstraps, mouth
+[0:17] ete”
+[0:18] “Yr — "nae
+[0:18] Sey
+[0:18] i 8॥॥॥ 1195 [066
+[0:18] cts NG
+[0:18] seal
+[0:18] इक करने
+[0:18 - 0:19] 3... That's mostly,itfon—
+[0:19] cae
+[0:19] Si 1151]
+[0:19] 1 ed

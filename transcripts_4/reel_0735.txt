@@ -1,0 +1,209 @@
+# model: ggml-large-v3
+========================================================================
+[735] https://www.instagram.com/reel/DPWh2WvjPDe/
+STATUS: OK
+DURATION: 1:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] dr mike is it in one of his podcasts says if you're getting stronger week to week you're
+[0:04 - 0:10] under training now that's just a very questionable thing to say because if someone is a beginner or
+[0:10 - 0:16] if someone is just introducing a new exercise they are going to be progressing each subsequent
+[0:16 - 0:22] week or each given session right because again the exercise is new and the guy is new to the gym
+[0:22 - 0:29] so it means that they are going to be progressing each session right so if the guy let's say if
+[0:29 - 0:33] some guy who doesn't know what they're talking about has a look into the podcast and watches
+[0:33 - 0:39] this one specific line that if you're progressing each session you're under training they might just
+[0:39 - 0:44] ramp up their volume quite pretty high which they don't even need to do apart from all of that
+[0:44 - 0:50] progressive overload is one of the key stones of muscle growth the moment we experience
+[0:50 - 0:56] progressive overload it just shows us that there is adaptation which is occurring now again there
+[0:56 - 0:58] are a lot of different variables which will
+[0:58 - 1:03] cause increase in strength but again at the end of the day once you max out those certain limited
+[1:03 - 1:09] adaptations what is it that's going to increase your strength there is your answer so no you're
+[1:09 - 1:16] not really under training if you're progressing each session it's fine to progress each session
+[1:16 - 1:21] sometimes when i add in a new exercise i also progress each session because again there's other
+[1:21 - 1:25] adaptations which are occurring so please don't go ahead and ramp up your volume because you think
+[1:25 - 1:26] you're under training so anyways hope that will swap more that's it for today i hope you enjoyed this video and i'll see you in the next one bye bye bye
+[1:28 - 1:30] Does anyone know what a standard deviation is?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ०९००-००
+[0:00 - 0:02] Dr mike ‘
+[0:00 - 0:02] L take
+[0:01] we ay |
+[0:01 - 0:02] Dr Mike is it in one of
+[0:02] ७35० EM ‘AY
+[0:02] his podcast says
+[0:03] one tN
+[0:03] Ge Natt
+[0:03 - 0:04] if you're getting
+[0:03 - 0:05] “if you’re getting stronger
+[0:03 - 0:05] week to week
+[0:03 - 0:05] you’re under training”
+[0:04] Foo
+[0:04] sous 0०
+[0:04] se Rt ot Ml
+[0:04] Nv, i en Gi Ns
+[0:04] stronger week to
+[0:04] week
+[0:05] 2 Ske
+[0:05] sous we
+[0:05] Fro The Vue Ran ६००
+[0:05] Neen
+[0:05] ee Naat
+[0:06] tha
+[0:06] t's just a
+[0:06] ‘oot
+[0:07 - 0:08] that's just a very.
+[0:07 - 0:08] questionable thing १
+[0:08] to say
+[0:09] because if someone
+[0:11 - 0:13] or if someone is just.
+[0:12] bone
+[0:12 - 0:13] introducing a new
+[0:13] rm पर
+[0:13] Maeda D
+[0:13] exercise
+[0:15] ame
+[0:15] Ria
+[0:15 - 0:16] they are going to bet
+[0:15 - 0:16] Progressing each
+[0:16] subsequent
+[0:18] 2247 -
+[0:18] oreach given session nN
+[0:19] tow
+[0:19 - 0:22] because’again the _
+[0:20] exercise is
+[0:21] the guy is
+[0:21 - 0:22] exercise is new and
+[0:22] 8 9५
+[0:22] the guy is new to the
+[0:22] gym
+[0:23] Onan,
+[0:23] int 2,
+[0:23 - 0:26] so it means that they
+[0:24] हक ri
+[0:24] nt en
+[0:24] A ne
+[0:24 - 0:26] are going tobe ~
+[0:24 - 0:26] progressing each
+[0:25] Ri ive
+[0:25] 114810156 technique
+[0:25] Las
+[0:25] session
+[0:26] ins
+[0:26] गा once
+[0:26] dardise tech’
+[0:26] ique)
+[0:26] session right
+[0:27] sme
+[0:27] soif
+[0:28] ifthe guy
+[0:29 - 0:30] ifssome guy who <
+[0:30] रु क्र
+[0:30] 7 te
+[0:30] doesn't know what
+[0:30] they're
+[0:31] has a
+[0:32 - 0:34] has a looK into the
+[0:32 - 0:34] podcast and
+[0:33 - 0:34] Watches this one
+[0:34] ot mee
+[0:34] specific
+[0:35] 12K
+[0:35] bs h)
+[0:35] veal
+[0:35] Ds Sp
+[0:35] pu ee ae
+[0:35] oe ah
+[0:35] oak
+[0:36] pe 2,
+[0:36] thi
+[0:36] u're
+[0:36] each
+[0:36] i Progres
+[0:36] ee oe
+[0:36] + fiat TL
+[0:36] oi Le
+[0:36] Cee
+[0:37] eye |
+[0:37] yeu
+[0:37] rea
+[0:37] raining \f ©
+[0:37] tol tT
+[0:37] Phe
+[0:38] they
+[0:39 - 0:41] they might just ramp
+[0:40] quite
+[0:40 - 0:41] Up their volume
+[0:41] how
+[0:41] quite pretty high
+[0:42] ५ जे
+[0:42] which they don't
+[0:42] even need
+[0:44] apart from all of that
+[0:45] progre:
+[0:46] Tl 2
+[0:47] iP a
+[0:49 - 0:50] the moment we
+[0:50] experience
+[0:50] progressive
+[0:51] Nu N
+[0:52] SIs
+[0:53] 7 ul
+[0:53] STS
+[0:54] Sl, i
+[0:54] uaa
+[0:55] Pe = 9\
+[0:56] here are
+[0:57] (99911 there are
+[0:57] jot of different
+[0:57] variables
+[0:58 - 0:59] which will cause
+[0:59] increase in strength
+[1:02] nce m
+[1:03 - 1:04] ofice you max out
+[1:03 - 1:04] those certain limited
+[1:04] adaptations
+[1:05] at isit
+[1:06] Wid
+[1:06] What is it that's
+[1:06] gonna increase your
+[1:06] ‘strength
+[1:08] ८; hat is
+[1:09] १९. २
+[1:09] “that is your answer
+[1:09] sono
+[1:10] 1७१७ २
+[1:10 - 1:13] y you're not really
+[1:11] Kir
+[1:11 - 1:13] undertraining if you
+[1:12 - 1:13] are progressing each
+[1:13] oe 4|
+[1:13] session
+[1:14] it's fine
+[1:15] it'S\fine to progress
+[1:15] each
+[1:16 - 1:17] ‘Sometimes when |
+[1:17] add in a new
+[1:19] gre:
+[1:19] 7S «gi
+[1:20] i? pe
+[1:20] ogress each
+[1:21] ah ree]
+[1:21 - 1:22] re's other
+[1:22] iS Whi
+[1:22] ware curr
+[1:23] so please
+[1:24] 10 please don't go
+[1:24] “ahead and ramp up
+[1:24] your
+[1:25] becausewyou think
+[1:25] you're undertraining
+[1:27] गति =
+[1:27] rong
+[1:28] “helpful does anyone
+[1:28 - 1:29] hope that was
+[1:29] — क्र
+[1:29] joes anyone
+[1:29] know what a
+[1:29] standard

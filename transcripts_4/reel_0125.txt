@@ -1,0 +1,68 @@
+# model: ggml-large-v3
+========================================================================
+[125] https://www.instagram.com/reel/DdHfjFSMjVU/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Thank you for watching.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Vas
+[0:00] 021
+[0:00] eps
+[0:00] cae
+[0:00] Ise
+[0:00] ahs
+[0:01] Alielbig,
+[0:01] triceps
+[0:02] trl
+[0:03] Bil
+[0:03] jowjextension
+[0:03] Component
+[0:03 - 0:04] eural shoul
+[0:03 - 0:04] Trainssthe'elbow,
+[0:04] क्र
+[0:04] छुपा
+[0:04] Eby
+[0:04] 81101)
+[0:04 - 0:06] Componentiofithe)
+[0:05] pa hi
+[0:05] deriposi
+[0:05] \J Inneu
+[0:05 - 0:07] Trains,theelbowextension:
+[0:06] owe LW
+[0:06] ba Inneu
+[0:06] jowextension
+[0:06] inst
+[0:06] | Com
+[0:07] J ext
+[0:07] SION)
+[0:07] Inielevatedish
+[0:07] lemposition =
+[0:07] a आजा
+[0:07] mE ie
+[0:07] pee ompenent
+[0:07] lateral head
+[0:07 - 0:08] (Component of the'medialand
+[0:08] JH pen
+[0:08] 12008]
+[0:08] In clevgfeusrould
+[0:08] var
+[0:08] aig
+[0:08] Faz
+[0:08] Ors: the elbowlexten
+[0:08] head
+[0:09] 4 i ler extensian,
+[0:09] roel ol oa
+[0:09] component of the long head of the
+[0:09] Fae
+[0:09 - 0:10] é p half
+[0:09 - 0:10] Trains the shoulder extension
+[0:09 - 0:10] tricep
+[0:10] r extel A
+[0:10] 3 of the long head of the
+[0:11] Vie
+[0:11] ASTIN
+[0:12] tis

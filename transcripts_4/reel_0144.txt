@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[144] https://www.instagram.com/reel/Dc1DBS9MiIG/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] He was not in a calorie deficit, and that's it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] \ sag
+[0:04] ~ शक ho ~
+[0:05] क्र नो
+[0:07] ike
+[0:07] ष्छु

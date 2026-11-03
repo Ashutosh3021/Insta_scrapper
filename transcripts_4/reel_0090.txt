@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[90] https://www.instagram.com/reel/Ddw-z7vsrLM/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Just lean back into it. Look at this.
+[0:08 - 0:12] I perform it all the time. You can perform it bilaterally.
+[0:12 - 0:14] It's not a big of a deal.
+[0:14 - 0:17] And again, if you like the movement, do it, bro. It doesn't matter.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Zt «७
+[0:02] हैः e
+[0:03] प्र छः
+[0:03] mys
+[0:04] | ड्ै
+[0:06] hg wit
+[0:06] diy Nt
+[0:07] 67 a
+[0:08] Pos >>
+[0:08] eee
+[0:08] se eer
+[0:09] 4०८८
+[0:10] y ae
+[0:12] 13522
+[0:14] Sil
+[0:15] 10 le
+[0:16] 7०४००)
+[0:16] क्र
+[0:17] ल्‍्च्क

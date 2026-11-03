@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[58] https://www.instagram.com/reel/DeT3DYpMKY2/
+STATUS: OK
+DURATION: 0:41   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] they are not eating 6 000 calories no any influencer who's telling you they're eating
+[0:05 - 0:13] 6 000 calories every single day is straight up lying to your face straight up lying to your face
+[0:13 - 0:20] because if that person were to eat 6 000 calories every single day depending upon how tall you are
+[0:20 - 0:24] how much activity levels you have right okay now this is where this is where the thing's coming
+[0:24 - 0:29] right if your activity levels are high if you have a lot of muscle mass and you're tall as shit
+[0:30 - 0:36] 6 000 doesn't seem bad man but if you don't have all of this probably 6 you won't be able
+[0:36 - 0:40] to get away with 6 000 i don't know a lot of bachelors who can get away with 6 000
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:40] Training/Nutrition/Anything
+[0:00 - 0:40] How are these natural athletes eating 6k
+[0:00 - 0:40] calories and not getting fat?
+[0:00 - 0:40] Bodybuilder

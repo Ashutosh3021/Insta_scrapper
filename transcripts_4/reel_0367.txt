@@ -1,0 +1,84 @@
+# model: ggml-large-v3
+========================================================================
+[367] https://www.instagram.com/reel/DX9c0dDMqAx/
+STATUS: OK
+DURATION: 0:34   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Only people who want to do an aggressive cut are the ones who have never cut before.
+[0:03 - 0:09] Genuinely speaking, all the guys who want to do this aggressive cut shit genuinely have never done a cut.
+[0:09 - 0:12] I swear no one has done a cut before.
+[0:12 - 0:14] None of these guys have ever done a cut.
+[0:14 - 0:19] Because if aggressive cut was that easy, everyone would be doing it.
+[0:19 - 0:22] Why aren't you successful with an aggressive cut?
+[0:22 - 0:25] Because if you cannot walk, why are you trying to run?
+[0:25 - 0:31] Genuinely speaking, why are you trying to do an aggressive cut when you have never done a cut in the first place?
+[0:31 - 0:34] Just do a normal cut bro. Just trust me one.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] - pear
+[0:00] Che
+[0:00 - 0:07] aggressivelc lites
+[0:01] Only people who w:
+[0:02 - 0:04] poe
+[0:03] cut
+[0:03] the ones who have hewn:
+[0:03] २०.७? जे.
+[0:03] Ady
+[0:04] 11८01
+[0:04 - 0:05] before genuinely
+[0:05] peaki
+[0:06] aggnessi
+[0:06] yee
+[0:06] who want to
+[0:07] eSsive\cuitas
+[0:07] ho want to do this
+[0:07] uss
+[0:08] shit ae
+[0:09] 2 | Var
+[0:09] donea
+[0:09 - 0:10] ggressivelc lites
+[0:10] pee
+[0:10] ne Iswear
+[0:11] बयां
+[0:11] mh ०
+[0:11 - 0:12] ag gnessivelcuita
+[0:11 - 0:12] done a cut | swear noone’
+[0:12] has done ac
+[0:13] none of these
+[0:13 - 0:14] aggressive
+[0:14] ere
+[0:14] ever done a cut
+[0:14] none of these guys have
+[0:15] aggressivelc Utes
+[0:16] gressi
+[0:17] out”
+[0:18] % evel
+[0:18 - 0:33] aggressivelc lites
+[0:19] “easy everyone would
+[0:20] doing it why
+[0:21] ० aS
+[0:21] why arent you
+[0:22] with an ae a
+[0:24] 327२
+[0:24] You an walk, why are
+[0:26] (911
+[0:26] yen
+[0:26 - 0:32] an aggressive
+[0:27] pee
+[0:27] Genuinely speaking like
+[0:27] are yous
+[0:27] aad
+[0:29] Curt
+[0:30] ४60
+[0:30] bat
+[0:31] bay
+[0:32] bs Mi
+[0:33] Cut
+[0:33] Just do a normal cut
+[0:34] श्र
+[0:34] 3800
+[0:34] essive
+[0:34] Cue
+[0:34] Just just trust

@@ -1,0 +1,327 @@
+# model: ggml-large-v3
+========================================================================
+[931] https://www.instagram.com/reel/DHiyRheh75N/
+STATUS: OK
+DURATION: 1:29   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] कार्ब्स हमारी बॉडी का पैमरी फ्यूल है
+[0:01 - 0:04] तो ये असेंशल कार्बोहाइड्रेट की जड़ा लिस्ट बता रहा मुझे
+[0:04 - 0:07] ये कीटो वर्यस के बास एक ही आर्गिमेंट होती है बोलने के लिए
+[0:07 - 0:10] और उन्हें लगता है उन्हें कुछ प्रूव कर दिया ये बोलके
+[0:10 - 0:10] ब
+[0:10 - 0:11] but this is where they are wrong
+[0:11 - 0:13] yes, carbohydrates are non-essential
+[0:13 - 0:16] उसका मतलब तुम्हारी बॉडी उसके बिना survive कर सकती है
+[0:16 - 0:18] but does that mean your body will function at its best?
+[0:18 - 0:19] absolutely not
+[0:19 - 0:22] human body को ना efficiency बहुत पसंद है
+[0:22 - 0:25] and the most efficient way it can get energy is through carbohydrates
+[0:25 - 0:29] तुम्हारे जो muscles होते, basically the type 2 muscle fibers
+[0:29 - 0:31] वो glycogen पर rely करते हैं energy के लिए
+[0:31 - 0:34] which is just stored glucose
+[0:34 - 0:37] अगर हम देखेंगे high carb vs low carb training for muscle growth
+[0:37 - 0:40] the high carb group will always perform
+[0:40 - 0:42] the best, why? because of more fatigue
+[0:42 - 0:44] अब low glycogen and low blood sugar levels
+[0:44 - 0:45] create CNS fatigue
+[0:45 - 0:47] and higher the CNS fatigue, the more you feel
+[0:47 - 0:49] that your training is harder
+[0:49 - 0:52] and the more CNS fatigue you have, the less amount of
+[0:52 - 0:53] motor units which you can recruit, which in turn
+[0:53 - 0:54] causes less muscle growth
+[0:54 - 0:57] और fiber कहां गया भाई? fiber is also a carbohydrate
+[0:57 - 1:00] और मैं मेरको तो ये बिलकुल नहीं सुनना
+[1:00 - 1:01] कि भाई carbs तुम्हें मोटा करती है
+[1:01 - 1:03] because it doesn't, if you overfeed people
+[1:03 - 1:05] with 50% above their maintenance calories
+[1:05 - 1:07] one with carbs and one with fats
+[1:07 - 1:09] सिर्फ 75-80% of that carbs
+[1:09 - 1:11] are stored as fat, if you see the fat group
+[1:11 - 1:13] the fat group gain 90% of fat
+[1:13 - 1:15] we circle back to the same thing again
+[1:15 - 1:17] कि बॉडी को efficiency पसंद है
+[1:17 - 1:19] it's far more efficient कि भाई तुम्हारी बॉडी
+[1:19 - 1:21] fat को fat में store करेगी
+[1:21 - 1:23] then to convert that carbs into fats
+[1:23 - 1:25] and to store it as energy
+[1:25 - 1:27] let's hope that you are aware of the fact that low carb environment
+[1:27 - 1:29] creates a higher risk of heart disease
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 61160
+[0:00 - 0:03] coming
+[0:00 - 0:04] Carbs are our primary fuel
+[0:02] a in
+[0:03] Stit
+[0:05] We essential)
+[0:06] ; 11255
+[0:06] tial
+[0:06] Cali
+[0:07] ist essential
+[0:07] ‘arbohydrates:
+[0:07] eet oe
+[0:09] Lae)
+[0:10] Ai y
+[0:10] theyare)
+[0:10 - 0:11] A Therelisiwiherey
+[0:12] Gari
+[0:12] SURMIN
+[0:13] SURV,
+[0:13] that
+[0:15] Cafies erent cssenial for
+[0:15] SURMIM,
+[0:15] oor
+[0:17] ‘A mation fatlits
+[0:18] पा 81115]
+[0:18] AAS
+[0:19] ‘a हज गले
+[0:20] ‘Sjeffi कप है
+[0:20] sbsolutely oy humai
+[0:20 - 0:21] । uma] body)
+[0:21] LOVES efficiency»
+[0:21] / प्यारी
+[0:21] ot human bod;
+[0:21] gonna efficiency
+[0:21] Mla
+[0:21] Camby
+[0:22] e passenger ence
+[0:23] au 2
+[0:24] Umi
+[0:25] id AT
+[0:25] is through ८;
+[0:26 - 0:27] gh carbohydrates to
+[0:27] aye
+[0:27] ars
+[0:27] janage your muscles with a
+[0:28] sae
+[0:28] Pras
+[0:28] lly the type 2
+[0:29] man tome
+[0:29] fibres
+[0:29] typez
+[0:29] हैं P
+[0:30] apy Find 5
+[0:30] है. Perry
+[0:31] Copy Find Sel
+[0:31] LookUp >
+[0:31] if s
+[0:31] glycogen Perry Ii
+[0:31] the Energy Killer
+[0:32] EVs
+[0:33] है के
+[0:33] just stored
+[0:34] that
+[0:36] न्द
+[0:36 - 0:37] The Effects of Carbohydrate Intake
+[0:36 - 0:37] ‘on Body Composition and Muscular
+[0:36 - 0:37] Strength in Trained Men
+[0:36 - 0:37] Undergoing a Progressive
+[0:36 - 0:37] Resistance Training
+[0:36 - 0:37] (5 208
+[0:36 - 0:37] infor
+[0:36 - 0:37] PMC\O: PMC10126722 PMID: 7
+[0:36 - 0:37] Abstract
+[0:36 - 0:37] farb versus low carb
+[0:37] ig for muscle growth:
+[0:38] fue
+[0:38] “ihe
+[0:38] (> लेख
+[0:39] Conclusion: Our results suggest that a lower
+[0:39] CHO intake does not 11
+[0:39] atively influence
+[0:39] Lsf
+[0:39] strength,
+[0:39] weeks of regimented ए
+[0:39] Howev
+[0:39] ; individual
+[0:39] analyses suggest that a CHO intake of
+[0:39] gkg hd
+[0:39] seen
+[0:39] 10 increase the
+[0:39] responsiveness for gains in LST and arm curl
+[0:39] ins
+[0:39] Eat
+[0:39 - 0:40] Ih carb: group il
+[0:40] ह् the
+[0:40] yan
+[0:41] } cari Ss fatigue
+[0:42] = Tal
+[0:42] fed S
+[0:42] an: 2 छः
+[0:42] Academie Editor
+[0:42] i of more fatigul
+[0:42 - 0:44] CNS fatigue and prolonged
+[0:42 - 0:44] exercise: effect of glucose
+[0:42 - 0:44] supplementation
+[0:42 - 0:44] Lars Ny
+[0:42 - 0:44] Sports Exer
+[0:42 - 0:44] Show details,
+[0:42 - 0:44] Reduced Muscle Glycogen Differentially
+[0:42 - 0:44] Affects Exercise Performance and Muscle
+[0:42 - 0:44] Fatigue
+[0:42 - 0:44] Jay Hams कक Timothy W. Batts, Simon Lee
+[0:42 - 0:44] 03 December 2012
+[0:42 - 0:44] hutps//dol.org/10.1155/2013/371235
+[0:43] Clinical Trial
+[0:43] }. effect of glucose
+[0:43] Med Sci Sports Exere. 2003 Apr
+[0:43] Say HW
+[0:43] 28 Timothy W. Batts Simon Lees
+[0:43] Academic Editor:
+[0:43] Rn pt
+[0:44] हल Tia
+[0:44] 2003 Apr
+[0:44] Academic
+[0:44] itor
+[0:44] ras
+[0:44 - 0:45] blood sugar levels ~~
+[0:45] ate cns fatigue y
+[0:46] esti
+[0:46] feelSmidifficulty
+[0:46] igher thélens ke
+[0:46] yak
+[0:47] More}fatiguel=itraining}
+[0:48] 4 fatigu bifeelsuidifficult
+[0:48] jore you feel that
+[0:48] training
+[0:49] itm
+[0:50] at Pivcieicnsiis
+[0:50] fe Motor Oe R
+[0:50] themmore cns fz
+[0:51] More)
+[0:51] of Unie
+[0:51] ruitment)
+[0:51] Bina
+[0:51] re less
+[0:51] ral
+[0:52] गजल रा
+[0:52] i iMotonUnitiReemuitmenty
+[0:54] 1२6६
+[0:54] 12010 2110 1110॥|
+[0:54] don causes less nifusctt
+[0:55] | causes less m ide
+[0:55] growth or
+[0:56] i es less muscli
+[0:56] h or fiber,
+[0:57] EEE
+[0:57] indon cau:
+[0:57] less)
+[0:57] gro’
+[0:57] or fil
+[0:58] males your
+[0:58] Chinon causes less muscle,™
+[0:58] growth or fiber
+[0:59] Cards male aes
+[0:59] > Yuan!
+[0:59] TAG
+[1:02] हैँ,
+[1:02] ark
+[1:02] 5 Bice it
+[1:03] कै: it doesn't if you
+[1:03] Wes’
+[1:03 - 1:04] J Horton et al, Am J Clin Nutr. 1995 Jul
+[1:03 - 1:05] Clinical Trial
+[1:03 - 1:05] .# Fat and carbohydrate overfeeding |
+[1:03 - 1:05] in humans: different effects on
+[1:03 - 1:05] energy storage
+[1:03 - 1:05] Show details
+[1:04] i IM.
+[1:04] it doesn't
+[1:04] real
+[1:04] Lie
+[1:04] people ~
+[1:05] oy N
+[1:05] Horton ef
+[1:05] 1. Am J Clin Nutr. 1995 Jul
+[1:05] above the a
+[1:05] at i
+[1:05] wae
+[1:06] from fag
+[1:06] = with ay
+[1:07] ith carbs
+[1:07 - 1:09] fats
+[1:08] १. Carboy
+[1:08] overfeeding produced progressi
+[1:08] increases in
+[1:08] carbohydi
+[1:08] 1७ oxidat
+[1:08] and total
+[1:08] ing in 75:
+[1:08] energy bein:
+[1:08 - 1:10] composition of energy stored. Carboh
+[1:08 - 1:10] expenditure rest
+[1:08 - 1:10] Alternativel
+[1:09] drate
+[1:09] ert
+[1:09] ding 91000
+[1:09] ed pr
+[1:09] sive increas
+[1:09] carbohydrate oxidation and total €
+[1:09] exper
+[1:09] ture
+[1:09] ulting in
+[1:09] being stored
+[1:09] 80% of
+[1:09 - 1:10] nergy
+[1:10] rfe
+[1:10] ding produced pr
+[1:10] 10६
+[1:10] bol
+[1:10] oxidation
+[1:10] otal energ)
+[1:10] ultin
+[1:10] in 75
+[1:10] ton
+[1:10] 10% of that carbs arey,
+[1:10] “Stored as
+[1:10 - 1:12] ly, fat
+[1:11] u see thi
+[1:12] energy being stored. Alternativ
+[1:12] overfeeding had minimal effects on fat oxidation
+[1:12] and total energy expenditure, leading to storage
+[1:12] of 90-95% of excess energyl Excess dietary fat
+[1:12] = 2५४
+[1:12 - 1:13] See the fat group tl
+[1:13] Alte
+[1:13] jati
+[1:13] had minimal ef
+[1:13] n fat
+[1:13] and total
+[1:13] tur
+[1:13] ding t
+[1:13] ietary fat
+[1:13] foup gain 90% aR
+[1:14] cticiengy
+[1:14] oi tetircis)
+[1:14 - 1:15] Fluman
+[1:15] wi Giiicle back to the डे
+[1:15] ~ thing
+[1:16] Auman
+[1:19] ser"
+[1:19] By ited
+[1:22] then|to: Bonvert
+[1:22] apes है
+[1:23] then t
+[1:23] vert that 4
+[1:23] at ial
+[1:23] ito
+[1:24] andjto store
+[1:26] 5 शो
+[1:26] क्र
+[1:26] e that you're
+[1:26] wal *
+[1:26 - 1:28] Followjform
+[1:27] follow fonjmore
+[1:27] lomen
+[1:28] JAHA
+[1:28] Low-
+[1:28] Carbohydrate
+[1:28] Diets and Risk of
+[1:28] Incident Atrial
+[1:28] Fibrillation:
+[1:28] A Prospective
+[1:28] Cohort Study
+[1:28] women creates
+[1:28] Pr ae

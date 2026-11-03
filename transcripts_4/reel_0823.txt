@@ -1,0 +1,138 @@
+# model: ggml-large-v3
+========================================================================
+[823] https://www.instagram.com/reel/DL78ycZN47a/
+STATUS: OK
+DURATION: 1:10   SPOKEN LANGUAGE: km
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] ប្រាប់កម្រាប់កម្រាប់កម្រាប់កម្រាប់កម្រាប់ប់កម្រាប់កម្រាប់កម្រាប់កម្រាប់កម្រាប់កម្រាប់កម្រាប់កម្
+[0:30 - 1:00] ស្វាប់ក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្នុងក្�
+[1:00 - 1:30] ស្លាប់ក្រាប់ក្រូវប់ក្រូវប់ក្រូវប់ក្រូវប់ក្រូវប់ក្រូវប់ក្រូវប់ក្រូវប់ក្រូវប់ក្រូវប់ក្រូវប់ក្រូវប�
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fas
+[0:00 - 0:03] Can you post about which
+[0:00 - 0:03] muscles grows good from
+[0:00 - 0:03] smh so i avoid
+[0:00 - 0:03] unnecessary stretching in
+[0:00 - 0:03] almost all my exercises,
+[0:01] ing
+[0:04] Oey
+[0:04] ere youl
+[0:05 - 0:06] ry here youlg
+[0:10] ator Right Vow
+[0:10] CHe
+[0:10] | NEY
+[0:11] “THN = Uw
+[0:12] Lin €
+[0:12] achestD0 e
+[0:12] stretch mediated jpertrophy
+[0:12] ome
+[0:12 - 0:13] E if encerlittle
+[0:13] SAN;
+[0:13] irr (
+[0:13] Say
+[0:13] stretch गुड jpertrophy
+[0:13] pas
+[0:16] el chet
+[0:16] = 3 मर के
+[0:16] ticulation. Glenohumeral
+[0:17] प्र
+[0:17] Sas 6.
+[0:17 - 0:20] प्य्््ज ll - Tension Relationship
+[0:18] peer enn -
+[0:18] tia
+[0:18] Lats do
+[0:18] big 4
+[0:18 - 0:20] Lats donot experience stretch,
+[0:18 - 0:20] mediated’ hypertrophy,
+[0:18 - 0:20] (Needimoreidata on'this
+[0:19] “Sete
+[0:19] Lats dofnot éxperience stretch,
+[0:20] fee rn ll
+[0:20] Length
+[0:20] का मिलकर
+[0:24 - 0:26] ‘ Quads DO expegencer
+[0:24 - 0:26] Stretch mediated 1)॥08|
+[0:24 - 0:26] ‘ophy
+[0:25] Quads DO ०0०६३
+[0:28] “HAMSTRINGS ~
+[0:29] Motion Mode: Sastre ut)
+[0:29] Fleion 5
+[0:29] ‘ition:
+[0:29] owe nt
+[0:29] ange of Motion:
+[0:29] exon o-120°7150)
+[0:31 - 0:32] f Hamstringso experience SMH
+[0:31 - 0:33] Hs - Tension Relationship
+[0:32] नाल
+[0:33] Hamstri
+[0:33] ngsdo\experience SMbi
+[0:34] १३०
+[0:36] Delts
+[0:38] Stretch mediated hypertrophy
+[0:38 - 0:39] Front delts do not experience
+[0:39] ial
+[0:39] Oxy
+[0:39] Stretch mediated ye
+[0:40] Semtex 2 “By
+[0:41 - 0:42] Abduction: 110°
+[0:42] a DELTs|
+[0:43] Br = Side delts do WR 00
+[0:43] के ejretch mediated 100
+[0:47] ar delts
+[0:47] Transver
+[0:48] 1880 06॥510॥0!
+[0:48] stretch i hypert
+[0:48] wadl«
+[0:48] Pea il
+[0:49] nuh
+[0:49] rien J
+[0:49] stretch | 4. hh :
+[0:49] Ly si
+[0:49] Wo u
+[0:49] Baas
+[0:49 - 0:50] Reanidelts{doino
+[0:50] stretchimediat
+[0:50] ad «I
+[0:51] SSN
+[0:51] (CAPA
+[0:54] eS AEN
+[0:55 - 0:56] paDONOMerperience
+[0:55 - 0:56] stretch mediated hypertrophy
+[0:57] है ee 7
+[0:57] Biceps
+[0:57] { Xperience
+[0:57] stretch me
+[0:57] ted hypertrophy
+[0:58] Qenne af कल ला
+[0:58 - 1:00] MOTION MOGE: Long Head of Triceps Bracti Muscte (Let
+[0:58 - 1:00] Articulation:
+[0:58 - 1:00] Elbow
+[0:58 - 1:00] Extension 145". 0°
+[0:59] Renne af hinting:
+[1:00] @anne of bantion
+[1:01] कर Ten:
+[1:01] Relat
+[1:01] करा
+[1:01 - 1:02] = experience stretch
+[1:01 - 1:03] बी. Mediated hypertrophy
+[1:02] की eS
+[1:02] & fos
+[1:03] Len
+[1:03] Ten:
+[1:03] gic
+[1:03] wis
+[1:04] Calves
+[1:04] Plantarflexio
+[1:07] है doesn't oa 0
+[1:07 - 1:08] Solues does exp
+[1:07 - 1:08] cestretch
+[1:07 - 1:09] Stretch mediated hypertrophy |!
+[1:08] Gastroc cosa e
+[1:08] Be: ited hyper का y 9
+[1:09] Gastroc a. expe
+[1:09] tretch mediated i
+[1:09] nay
+[1:09] Solues does experiencestretch

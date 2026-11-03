@@ -1,0 +1,68 @@
+# model: ggml-large-v3
+========================================================================
+[190] https://www.instagram.com/reel/Db8USgMs0QJ/
+STATUS: OK
+DURATION: 0:50   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] this is probably the first time you're going to hear this, but you do not need to warm up in the
+[0:05 - 0:11] gym. Yes, you can right away go into your exercises without any kind of dynamic warmups.
+[0:11 - 0:16] You're going to be fine. Guess what I do for my warmups? I cycle my way to the gym. That is it.
+[0:16 - 0:24] That's my warmup. All you need to do is raise that given muscular temperature. That is about it.
+[0:24 - 0:29] If that means you're going to walk to the gym, cool. If that means you're going to sit in a car
+[0:29 - 0:34] with a heater on, cool. If that means you're going to do the elliptical, cool. Whatever
+[0:34 - 0:39] increases your body temperature up, that's what matters. Once your body temperature is raised up,
+[0:39 - 0:45] what you're going to do is get to your first exercise, potentiate. Potentiation is not the
+[0:45 - 0:49] same thing as a warmup. Anyways, I'll see you in the next one.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] this is probably
+[0:00 - 0:50] You'donitt need'to
+[0:00 - 0:50] Warmup iin the gym
+[0:01] time
+[0:02] this but
+[0:04] need to warm
+[0:05] ‘ver
+[0:05] need to warm up in the
+[0:05] gym
+[0:06] Yes,
+[0:07] Yes, you can right away
+[0:08] अर्थ
+[0:08] into your
+[0:09] any
+[0:10] any kind of dynamic
+[0:11] warm ups
+[0:12] You're going to be fine
+[0:13] जला e
+[0:13] Guess what
+[0:14] ups
+[0:15] I cycle my
+[0:16 - 0:17] That's
+[0:18] That's my
+[0:19] All
+[0:20] All you need to
+[0:21] that
+[0:22 - 0:23] that given muscular
+[0:23] temperature,
+[0:25] If that means you're
+[0:26] walk to the
+[0:28] If that your
+[0:30] the NA on, cool
+[0:31] “wun
+[0:31] If that means
+[0:32] do the
+[0:33] do the elliptical, cool
+[0:34] Whatever increase
+[0:35] Wiatexdt increase your
+[0:36] temperature up,
+[0:37] matters
+[0:38] once your body
+[0:39] is raised
+[0:40] what you going to
+[0:41] to your first
+[0:42 - 0:43] to your first exercise,
+[0:43] potentiate,
+[0:45] is not the
+[0:46 - 0:47] is not the same thing as
+[0:49] Anyways

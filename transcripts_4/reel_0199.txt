@@ -1,0 +1,111 @@
+# model: ggml-large-v3
+========================================================================
+[199] https://www.instagram.com/reel/Dbqu1O2My_f/
+STATUS: OK
+DURATION: 1:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Bad news for air fryer lovers.
+[0:01 - 0:07] The healthy basket you cook in is coated in the same forever chemicals as Teflon.
+[0:07 - 0:10] But it's not just the coating, it's what it does to your food.
+[0:10 - 0:13] Here's the problem. An air fryer isn't a flat pan.
+[0:13 - 0:20] It's a sealed box with a fan blasting hot air straight onto non-stick coating, batch after batch.
+[0:20 - 0:27] At that heat, the PTFE breaks off, fuming chemicals into the air and shedding tiny flakes into everything you cook.
+[0:27 - 0:29] And every scratch from the basket speeds it up.
+[0:30 - 0:35] And with years of daily use, studies have linked that PFA's buildup to a higher risk of...
+[0:35 - 0:39] No one says anything to my precious air fryer.
+[0:39 - 0:44] By the way, we actually have a study on this Teflon degradation, which this AI bot is talking about.
+[0:44 - 0:52] And it clearly says one thing, that as long as you're below 250 degrees Celsius and below 45 minutes, you're fine.
+[0:52 - 0:56] And these are for pans, by the way. For air fryer, it may be even lower, bro.
+[0:56 - 0:59] Regardless, we have so many studies showing that an air fryer...
+[1:00 - 1:01] Is actually healthy.
+[1:01 - 1:08] Like, using an air fryer is way, way, 10 times better, 20 times better than deep frying shit.
+[1:08 - 1:10] Like, stop the fucking fear-mongering, bro.
+[1:10 - 1:12] Don't say anything to my air fryer.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:05] _ Leaking in an air fryers
+[0:00 - 0:34] Attack on air fryers?
+[0:00 - 0:34] - Lab tests just found pfa's
+[0:04] sf WV
+[0:04] 2 Yate
+[0:05] SAME,
+[0:06 - 0:07] in an air fryers
+[0:08] Soy
+[0:08 - 0:22] हि Leaking in an air fryers
+[0:09] Irs
+[0:09] ALS,
+[0:10] in an air fryers
+[0:13] Sa 1
+[0:14] ee SEALED BOX
+[0:14] vis
+[0:15] WITH A FAN
+[0:16] acs
+[0:20] Leaking in ai
+[0:20] n Se fryers
+[0:20] TATSTHAT/ HEAT
+[0:21] wad
+[0:23] air fryers
+[0:23 - 0:24] Leaking inanair oz
+[0:24] bie
+[0:25 - 0:34] हल Leaking in an air fryers
+[0:27] in an air fryers
+[0:28] THE)| BASKET,
+[0:30] fis
+[0:31] adie
+[0:31] aes
+[0:31] f om
+[0:32] in an air fryers
+[0:32] THAT
+[0:32] cua
+[0:34] RISK:
+[0:35] bos
+[0:35] ८४4
+[0:35] iad
+[0:35] fg Why
+[0:36] ant
+[0:36] allie. «
+[0:36] \ eae
+[0:37] en G
+[0:40] have
+[0:40] i शी क
+[0:42] (degradation;
+[0:42 - 0:44] sed
+[0:42 - 0:45] Influence of heating temperature and time
+[0:42 - 0:45] on mechanical-degradation, microstructures
+[0:42 - 0:45] and corrosion performances of
+[0:42 - 0:45] Teflonjgranite coated aluminum alloys used
+[0:42 - 0:45] for non-stick cookware
+[0:43 - 0:45] ructure:
+[0:44] talking
+[0:45] it's
+[0:46] one
+[0:48] belew
+[0:49] degree
+[0:50] and
+[0:51] minutes,
+[0:52] fine
+[0:53] pans
+[0:53] ६०७
+[0:55] ५. Vices
+[0:57 - 1:00] ‘he Concentration of Benoiipreneln Fos Cocke by A Fryer an
+[0:58] D> vw?
+[1:01] traditional de
+[1:01] fat trying
+[1:01 - 1:05] Effect of आ fryer frying temperature on the quality attributes
+[1:01 - 1:07] ‘of sturgeon steak and comparison of ts performance with
+[1:03] tect
+[1:03 - 1:07] traditional deep fat trying
+[1:04] ecto
+[1:05] fue
+[1:06] jae
+[1:06 - 1:07] fect of ai fryer frying temp
+[1:06 - 1:07] ture on the quality attributes
+[1:07] iia
+[1:08] Syms
+[1:09] tel
+[1:09] err
+[1:10] ia armongering,
+[1:10] Ay कक
+[1:11] il g

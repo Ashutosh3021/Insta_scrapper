@@ -1,0 +1,104 @@
+# model: ggml-large-v3
+========================================================================
+[92] https://www.instagram.com/reel/Ddw1sMjsMDN/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] is a big difference between wanting to eat something and actual hunger you wanting to eat
+[0:06 - 0:13] a shawarma you wanting to eat chocolates you wanting to eat an xyz item which is already
+[0:13 - 0:21] there in your head is not hunger hunger is me looking at this grass and wanting to eat that
+[0:21 - 0:27] grass obviously i'm over exaggerating here but i would find a broccoli tasty is what i'm trying to
+[0:27 - 0:35] say that is hunger i would find a broccoli appetizing that is hunger you wanting to eat
+[0:35 - 0:41] ice cream from the ice cream corner is not hunger let's try not mixing those two feelings up yeah
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Driveltoleatusinunges
+[0:00] is abig
+[0:01] nivewtoleatus
+[0:01] xX ५
+[0:01] is abig difference ~=
+[0:01 - 0:02] ड़ y between wanting co
+[0:02] RiVestole ats re
+[0:02] हैः छाप difference
+[0:03] itoleativs| unge P
+[0:03] ig and
+[0:04] eat
+[0:04] 6 OF
+[0:04] ‘hing and actual
+[0:04] क्र
+[0:05] Dhivestoleatusihnung
+[0:06] foeaiushunger
+[0:06 - 0:08] fou wanting to eat a
+[0:07] Driveytoleatys nun
+[0:07] a पा;
+[0:08] Drive
+[0:08] tgeatvs)
+[0:08] हैं
+[0:08] shawarma, you wanting to
+[0:09] a VS
+[0:09] ‘chocolates,
+[0:10] Drive\toleatvs
+[0:10] = haa you
+[0:11] all
+[0:11] itoleat a unger
+[0:12] _ Drivettoeatisihunge
+[0:13] XYZ item whic
+[0:13] already
+[0:13 - 0:14] hunger.
+[0:14] head
+[0:15] veo
+[0:16] ; tOle: ae
+[0:16] r hi
+[0:16] her
+[0:16] ३ not hunger
+[0:17] Driveltojeat
+[0:17] lunger
+[0:18] ; mbrigsoest vsihunger,
+[0:19] _ Sis
+[0:19] VSINUNG 6७
+[0:19] this\grass
+[0:19] whi
+[0:20] Drive
+[0:20] oeat
+[0:20] hunger
+[0:20] grass and wanting
+[0:20] ris me looking at
+[0:21] Je to eat vs "
+[0:21] wh4
+[0:21] eatthat
+[0:22] : eat vs 4
+[0:22] sly,
+[0:23] exaggerating
+[0:23] viously, I'm over
+[0:23 - 0:24] कै. ito eat vs hunger
+[0:24] हुं of
+[0:25] ativs hunger
+[0:25] would find a broccoli
+[0:26 - 0:28] Drive\toleat vs hunger
+[0:27] है ito eat vs hunger
+[0:27] s is A ad
+[0:28 - 0:30] is hunger
+[0:30] Dee
+[0:30] Cah
+[0:30] १७-४7.
+[0:30] “2 a broccoli A
+[0:31] nivejtojeat vs hunger
+[0:32 - 0:33] Drive tio cat vs
+[0:33] 52 thatis
+[0:33] unger
+[0:34] tocatushthger .
+[0:35] foleatws
+[0:36] Drive'to
+[0:36] hunger.
+[0:38] nun
+[0:38] gar
+[0:38] ” is not hunger
+[0:39] itoleatvsihungel
+[0:39] Let's
+[0:40] ws huge
+[0:40] pr mixing
+[0:40 - 0:41] Drive to
+[0:41] = twofeelings
+[0:41] 's try not mixing

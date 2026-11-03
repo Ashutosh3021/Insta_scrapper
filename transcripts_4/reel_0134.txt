@@ -1,0 +1,165 @@
+# model: ggml-large-v3
+========================================================================
+[134] https://www.instagram.com/reel/DdCQ-2DMbLM/
+STATUS: OK
+DURATION: 0:45   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] fitness industry has again scammed you about protein intake now a lot of science-based lifters
+[0:05 - 0:11] i saw four reels today by the way saying that you don't even need more than 1.6 grams per kg
+[0:11 - 0:16] body weight protein because that's all you need to maximize growth i never said that and i never
+[0:16 - 0:22] will because when you go on a calorie deficit a higher protein intake helps having a higher
+[0:22 - 0:27] protein intake gives you satiety we have data showing that a higher protein intake preserves
+[0:27 - 0:32] muscle mass anyways if you're on a fat loss phase you can go above 1.6 you can be at 1.7 you can be
+[0:32 - 0:37] at 1.8 you can be at 1.8 fuck it you can be at 2.2 grams per kg body weight as long as the carbs
+[0:37 - 0:42] are enough to fuel your training performance it's fine you don't really have to worry about
+[0:42 - 0:44] the protein intake that much anyways hope that has helped you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] आ्न्छ
+[0:00] ‘Si 4
+[0:00] pte:
+[0:00] fitness ae
+[0:00 - 0:04] teinin
+[0:00 - 0:44] We have a problem”
+[0:01 - 0:02] Prot
+[0:02] ehavea
+[0:02] prob
+[0:02] Re 4
+[0:02] ammed you
+[0:03] otein intake
+[0:03] intake
+[0:04] ies
+[0:04] Now alot .
+[0:05] rot
+[0:05] nta
+[0:05] [eA Re
+[0:05] We have ap
+[0:05] roblem
+[0:06] posel
+[0:06] saw four Ne
+[0:07] es in
+[0:07] way saying
+[0:08] vinta
+[0:08] don't
+[0:08 - 0:10] otein)|
+[0:09] 2/"01611769
+[0:09] don't even need more
+[0:10] ita
+[0:10] WS 2.
+[0:10] le we i
+[0:10] 6 grams
+[0:11] otel
+[0:11] Mil ata
+[0:11] 5९ २८
+[0:11] 6 grams per KG body
+[0:12] protein because that's
+[0:12 - 0:13] es inta
+[0:13] need to
+[0:13 - 0:17] Proteiniin
+[0:14] WIN
+[0:14] Lard naa
+[0:14] cae ५
+[0:14] Ee «बह
+[0:14] growth!
+[0:15] 1116
+[0:15] growth I never said that
+[0:16] Protel
+[0:16] We'havea
+[0:16] time wh
+[0:16] proble
+[0:16] Sake
+[0:16] never
+[0:17] never will because when
+[0:18] cae ‘
+[0:18] Let
+[0:18] go onacalorie
+[0:18 - 0:21] otein y
+[0:19] Pro
+[0:19] VIN
+[0:19] Wejhave apr
+[0:19] oblem
+[0:19] deficit a higher
+[0:20] cee «
+[0:20] fe es
+[0:20] EF a
+[0:20 - 0:22] intake
+[0:21] helps हे
+[0:21 - 0:24] mint
+[0:22] Proteinin
+[0:22] ata
+[0:23] ial
+[0:23] otel
+[0:23] tue
+[0:23] Sui
+[0:23] you
+[0:24] otein
+[0:24] We hav
+[0:24] probl
+[0:24] 5 ue
+[0:24] 3३३ *
+[0:24] | mes
+[0:24] ब्द्
+[0:24 - 0:25] you satiety we have «ata
+[0:25] Ree
+[0:25] showing that 5
+[0:25 - 0:26] protein intake
+[0:26] ran
+[0:26] tie
+[0:26 - 0:28] otel
+[0:27] Vinta
+[0:27] muscle
+[0:27 - 0:29] Protein
+[0:28] Int.
+[0:28] Anyways if
+[0:29] nta
+[0:29] roblem
+[0:29] have ap
+[0:29] loss phase
+[0:30] ein
+[0:30] you can go above ©
+[0:30 - 0:34] Prot
+[0:31] wea
+[0:31] einiin
+[0:31] 6 you can
+[0:32] tel
+[0:32] 9६८
+[0:32] nint
+[0:32] "2 dy
+[0:32] 7 you
+[0:33] het in
+[0:33] atake
+[0:33] 8 you
+[0:34] tein
+[0:34] Wehave a
+[0:34] blem
+[0:34] New’
+[0:35] 8 fuck it _ can be at
+[0:35 - 0:36] Protein intake”
+[0:36] 2 grams per KC
+[0:37] hel
+[0:37] mint
+[0:37] ake
+[0:37] as long as
+[0:38] Pro
+[0:38] nta
+[0:38] as long as the carbs are
+[0:38] enough to
+[0:38 - 0:42] tein’!
+[0:39] ein intake
+[0:39] aie
+[0:39] I ae
+[0:39] training
+[0:39] performance (5८
+[0:40] hel
+[0:40] 1111
+[0:41] oteinin
+[0:41] you don't really have to
+[0:41 - 0:42] intake
+[0:42] Pro
+[0:42] i" ly
+[0:43] Protein intake
+[0:43] intake that much
+[0:43] nyways
+[0:44] otel

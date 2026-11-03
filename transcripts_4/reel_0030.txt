@@ -1,0 +1,113 @@
+# model: ggml-large-v3
+========================================================================
+[30] https://www.instagram.com/reel/DekEjS3sYuj/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] One of the well-known pre-workout ingredient, L-citrulline, is not doing shit for you.
+[0:05 - 0:13] A lot of people think that citrulline malate or L-citrulline basically are going to help you increase performance in the gym.
+[0:13 - 0:21] When we have a look at the current data, which was just published, we actually see zero differences in training performance.
+[0:21 - 0:29] Supplementing with 8 grams of L-citrulline or 12 grams of citrulline malate did not budge the training performance.
+[0:30 - 0:34] If you're taking it just for the vasodilation purposes to get a nice pump, go ahead.
+[0:34 - 0:36] But it's not really doing shit for training.
+[0:36 - 0:40] Well, to be fair, no one really takes it for training performance. I just wanted to cover this study.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] utiin
+[0:00] rimat
+[0:00 - 0:03] L citrulline & train
+[0:00 - 0:05] Pre work
+[0:01] Pre we
+[0:01] ent]
+[0:01] pine
+[0:02] nin
+[0:02] onmant
+[0:02] ade
+[0:02] bi rhe
+[0:02 - 0:04] 1 citrulline &
+[0:03] orkoutjingredient]
+[0:03] performance)
+[0:03] tas
+[0:03] ee ia
+[0:03 - 0:04] jredient L
+[0:05] tin
+[0:05] ine & trainin:
+[0:05] mance
+[0:05] 104
+[0:07] think
+[0:07] ath
+[0:08] it sy
+[0:08] ANY
+[0:09] Soa
+[0:09] yes
+[0:09] War
+[0:09] ria
+[0:09] ulline ma
+[0:10] + gos
+[0:10] Malate or L
+[0:10] sally
+[0:10] nm oh
+[0:11] pee
+[0:11] alle हर
+[0:12] get”
+[0:13] nly
+[0:14] stanenianeea nes
+[0:14] oud pt Mohamad Naar Bhp et Tey
+[0:14] oni
+[0:14] wcrc
+[0:14] meen
+[0:14] When welhave'a
+[0:14 - 0:17] Acute effects of L-Citrulline vs. Citrulline malate
+[0:14 - 0:17] supplementation on resistance training performance,
+[0:14 - 0:17] ‘muscle soreness, and blood biomarkers in resistance-
+[0:14 - 0:17] trained men: a double-blind placebo-controlled
+[0:14 - 0:17] counter-balanced trial
+[0:15] peer
+[0:15] esanent ane
+[0:15] Dod yt: Moh AN मनन
+[0:15] जिम
+[0:15] When we have a look at
+[0:15] the currentdata
+[0:15 - 0:17] rat
+[0:16] Beater enae kr
+[0:16] sesame
+[0:16] ont
+[0:16] ८८८
+[0:16] was just published,
+[0:16 - 0:17] Dod apt: Mohr Naar Baby Tey
+[0:17] 3-30: 230:
+[0:17] estan
+[0:17] actually
+[0:18] ee &s
+[0:18 - 0:19] zero
+[0:19] Srey
+[0:20] training
+[0:21] ince
+[0:24] red
+[0:24] NG ae
+[0:24] Aint
+[0:24] feitrullin
+[0:24] eight
+[0:27] ० ei
+[0:27] ४310 4
+[0:27] ७७४4
+[0:27] ‘padi
+[0:28] hoe
+[0:28] budge
+[0:29] judge the
+[0:29] ‘mance
+[0:30] हि हा
+[0:30] iff
+[0:33] =F मे
+[0:33] ier
+[0:33] Sid
+[0:33] Sisk s
+[0:36] ally doing
+[0:37] Yo उब
+[0:37] Th ॥ 30३1४
+[0:38] = oe 7
+[0:39] i Cait
+[0:39] “ty क्र
+[0:40] Cand i

@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[375] https://www.instagram.com/reel/DXzSvtysoUc/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I'm no longer running full body every other day I'm not sure how much I can say this
+[0:04 - 0:07] but this situation is f**ked stay tuned
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 68.2
+[0:00] peo
+[0:00] Ana
+[0:00] y os
+[0:00 - 0:02] BEOD
+[0:01] noll
+[0:01] eh bi
+[0:01] है 1
+[0:02] 010 0
+[0:02] हि है
+[0:02] wre
+[0:03] Ls a
+[0:03] hnmol
+[0:03] ongel
+[0:03] a है
+[0:03] God
+[0:03] Cbs
+[0:04] mino}l
+[0:04] ere ran ;
+[0:04] FBEOD
+[0:04] 2०५
+[0:05] Onger 4 q
+[0:05] Cre
+[0:05] Wis
+[0:05] ‘be का
+[0:06] किक,
+[0:06] हा 4
+[0:06] 010
+[0:07] FBEOD
+[0:07] Axa
+[0:07] lad

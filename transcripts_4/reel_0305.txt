@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[305] https://www.instagram.com/reel/DZcjTwpMizG/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Yeah, we can jump out
+[0:03 - 0:05] We can get down low
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] owigvin =)
+[0:00] Just started
+[0:00] caw
+[0:01] ovie.interval
+[0:02] =) he we doing?
+[0:03] fhe
+[0:03 - 0:05] e maxxing
+[0:04] Step maxxing
+[0:04] aol
+[0:04] श्र

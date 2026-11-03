@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[414] https://www.instagram.com/reel/DXCMenzjEeo/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] i can't move on baby doll wait no can anyone find a difference between this guy and this guy
+[0:07 - 0:12] i can't find a difference bro the funny thing is i always knew brayden was talented i know
+[0:12 - 0:19] he could do something but i was not expecting this but he sings well though brayden sings well
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Is ye
+[0:00] ait
+[0:02] Is that
+[0:02] Leek
+[0:03] yas
+[0:03] lon
+[0:03] Ph GD
+[0:03] ५९५
+[0:04] | न्ज्ज
+[0:04] ibe
+[0:04] Sir
+[0:05] प्र
+[0:05] i. sla ia
+[0:05] Laie
+[0:05] vale
+[0:05] you
+[0:08] bow
+[0:08] Sei
+[0:08] कै 4
+[0:08] nee} o
+[0:08] SS ca
+[0:10] है! Fi
+[0:10] लीं
+[0:11] जज = 2
+[0:12] Nfl
+[0:12] ब्रा
+[0:13] ows
+[0:15] nye
+[0:15] ALY
+[0:15] Ste gy
+[0:15] SATS
+[0:15] ire
+[0:16] Des
+[0:18] _ ८ जल 4
+[0:19] लक ९
+[0:19] we AAS

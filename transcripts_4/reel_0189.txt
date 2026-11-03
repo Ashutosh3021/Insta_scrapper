@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[189] https://www.instagram.com/reel/Db8m6ofMuYR/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] one of the most annoying things to experience in the gym is whenever you're alternating with
+[0:03 - 0:08] someone and it's your turn to perform that set you're gonna sit down you're gonna take your
+[0:08 - 0:14] time to get ready whenever you dare take your time that guy is staring right into your soul
+[0:14 - 0:19] it's signaling you why aren't you performing that set i'm just getting ready give me
+[0:19 - 0:25] fucking two minutes no when are you performing the set i don't want to alternate with you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] perform, one of
+[0:00 - 0:25] Most annoying feeling
+[0:00 - 0:25] r In the gym
+[0:01] perform, one of the most
+[0:01] annoying things
+[0:02] In ray
+[0:02] lle
+[0:02] Nai
+[0:03] Most
+[0:03] nneying feeling
+[0:03] aur
+[0:03] LS you are
+[0:03] ordinating
+[0:04] with someone and it
+[0:05] turn to perform,
+[0:06] 77:7०
+[0:07] tr jou
+[0:08] your time to
+[0:09] whenever
+[0:10] whenever you dare
+[0:11] he feeling)
+[0:11] Hl you dare tak
+[0:11] your time _ ७.
+[0:13] Gil,
+[0:13] into
+[0:14] right into yoursoul is
+[0:14] Staring
+[0:15] signalling
+[0:16] signalling you why
+[0:17] performing that
+[0:18] getting
+[0:19] give me
+[0:20] hi feelil
+[0:20] Bs. Ss
+[0:20] o- if
+[0:21] no when
+[0:22] no whenare you
+[0:22] performing
+[0:23] the set!
+[0:23] _ .ः&: नी आदी
+[0:24] the set Idon't
+[0:25] want to alternate with
+[0:25] ele

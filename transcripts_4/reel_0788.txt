@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[788] https://www.instagram.com/reel/DNSu2QuMGwN/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:12] Oh your optimal hula?
+[0:05 - 0:09] ao get
+[0:05 - 0:12] many bowls of
+[0:10 - 0:12] do gets

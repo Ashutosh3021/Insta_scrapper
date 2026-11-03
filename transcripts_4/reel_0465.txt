@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[465] https://www.instagram.com/reel/DWBXEPQjAgH/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] you should never train your biceps before your back because your biceps will fatigue out and it
+[0:05 - 0:10] will affect your back is something which a lot of people say but that is not how things work
+[0:10 - 0:15] in order for you to specifically prioritize a given muscle group you have to train it first
+[0:15 - 0:22] if it means the biceps are gonna go first then let it be it is not going to make a very big
+[0:22 - 0:27] significant impact just because you trained bicep first if you're seeing a huge reduction in strength
+[0:27 - 0:31] just because you trained bicep first there is something wrong with your programming anyways
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Bicepsibefore
+[0:00] ick:
+[0:00] uid
+[0:00] 1 पु
+[0:00 - 0:02] Newer ttretin
+[0:01] Bicep
+[0:01] befo
+[0:01] bac
+[0:01] uld never trait
+[0:02] befone|back
+[0:02] VEE
+[0:07] k is somethit
+[0:07] t of
+[0:09] Bes
+[0:09] jat is not how,
+[0:11] in order for
+[0:12] ly priori
+[0:14] i ie
+[0:15] pmuscle group
+[0:15] 0 train it
+[0:15] aay
+[0:18] aN Ta
+[0:19] gofi
+[0:19] है है ३1
+[0:20] Piro
+[0:24] Bas just
+[0:26] ing ahi
+[0:29] हैः
+[0:29] 1 es

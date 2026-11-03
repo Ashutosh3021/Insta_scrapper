@@ -1,0 +1,427 @@
+# model: ggml-large-v3
+========================================================================
+[67] https://www.instagram.com/reel/DeNJN-YsCDB/
+STATUS: OK
+DURATION: 1:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Got updates, sized updates, some better, some worse
+[0:03 - 0:07] If none of it makes sense to you, you wouldn't be the first
+[0:07 - 0:11] Welcome to Team Fortress, please select a class
+[0:11 - 0:15] Would you like to buy some taunts or pay a fee to talk and chat?
+[0:15 - 0:17] There's a few things to tweak first
+[0:17 - 0:19] This view's not the best
+[0:19 - 0:23] Just go online and you can find out the rest
+[0:23 - 0:26] Welcome to Team Fortress, I don't mean to deter
+[0:26 - 0:30] Use a weapon that you like and then be called a racial slur
+[0:30 - 0:35] Be friendly, be angry, be filled with dismay
+[0:35 - 0:38] Our own developers don't want us to play
+[0:38 - 0:41] Welcome to Team Fortress, for content we're on top
+[0:41 - 0:45] Watch reactions, watch the drama, watch the analytics drop
+[0:45 - 0:49] We got hoovies and box buys and fresh new installs
+[0:49 - 0:53] And a bunch of lazy clipart skins with neon colors that'll make your eyes bleed
+[0:53 - 0:56] Welcome to Team Fortress, hold on to your hats
+[0:56 - 0:59] 'Cause a random guy is spamming links to scamsites in the chat
+[0:59 - 1:03] There are 8 bots, and pockets, and full-NG teams
+[1:03 - 1:05] Don't look at me, I just came here from the memes
+[1:05 - 1:08] See a man get headshot, push the payload, kick a bot
+[1:08 - 1:11] Go get balance to the red team whether you like it or not
+[1:11 - 1:13] Buy balloons or magic brooms or spread some rumors
+[1:13 - 1:15] Bout YouTubers or unbox unusual bloomers
+[1:15 - 1:17] Attempt humorous maneuvers on the hills
+[1:17 - 1:20] A $40 hat to knock, it's on the rise
+[1:20 - 1:23] Here's a weapon you've already found a hundred thousand times
+[1:23 - 1:25] How would you rate your last game like we give a shit?
+[1:25 - 1:30] Your history could look better if it had a random crit
+[1:30 - 1:33] Could I interest you in everything all of the time?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Day
+[0:00] now
+[0:00 - 0:01] Just letting\you k
+[0:01] Pi : Mlle.
+[0:01] Pay
+[0:01] द्ध
+[0:01] श्र
+[0:01] u Mi 4
+[0:01] 1 नाक
+[0:02] 6101 ही
+[0:02] Eachisessio
+[0:02] mM) AW
+[0:03] 2 iq
+[0:03] our
+[0:03] e daing|so
+[0:03] Bs ong
+[0:03 - 0:04] mething
+[0:04] क्र
+[0:04] [011 6
+[0:04] रैक:
+[0:04] Oing|so
+[0:05] Rew
+[0:05] cause.
+[0:05] Pete
+[0:05] Sr as
+[0:05] है कप |
+[0:05 - 0:06] ear!
+[0:05 - 0:07] Hes
+[0:05 - 0:07] aie 7
+[0:06] le a
+[0:06] Si AD
+[0:06] ies
+[0:06] a ee लना
+[0:06] Sel
+[0:06] cil
+[0:06] vee
+[0:07] v b&b.
+[0:07] Sal
+[0:07] Ber a
+[0:07] Eason
+[0:07] ell
+[0:07] hatil
+[0:07] naling) bi ॥
+[0:07] Thy]
+[0:07 - 0:08] there;
+[0:08] Bs 4
+[0:08] करे,
+[0:08] » 42479 अाना-
+[0:08] Cel
+[0:08] 6880
+[0:08] a as
+[0:08] ENEVE
+[0:08] Tego.
+[0:08] i Ss,
+[0:09] i! (is
+[0:09] 2330७.
+[0:09] श्र
+[0:09] 81॥1700॥७6४॥॥॥॥0
+[0:09 - 0:10] (01५६ exercise;
+[0:09 - 0:10] the session’ »
+[0:10] Is introducediinto
+[0:11] ell
+[0:11] Wil
+[0:11] ress ae
+[0:11] it i}
+[0:11] oe ee
+[0:11] fil
+[0:11] . Tall
+[0:11 - 0:12] करे,
+[0:12] sslon
+[0:12] गटर
+[0:12] ms Cn
+[0:13] “ you 1
+[0:13] io iV
+[0:14] ii you |
+[0:15] somethin
+[0:15] gwr
+[0:15] Sa sone ¥
+[0:15 - 0:16] Wondering '\ifiyouire doing )
+[0:16] दूर
+[0:16] श्र
+[0:16] Thenjyou \
+[0:16] something wrong
+[0:16] , tin
+[0:16] neo
+[0:17] Saved के
+[0:17] ie Ge thing i"
+[0:17] VES
+[0:17] . ees
+[0:17] ths
+[0:17] ५ १31
+[0:18] शाही
+[0:18] The best thifg y
+[0:18] WES
+[0:19] नह १
+[0:19] Vis
+[0:19] 2227
+[0:19 - 0:21] Nothin
+[0:20] ०” भा
+[0:20] ON Ny,
+[0:20] res
+[0:20] हा जा
+[0:21] all /
+[0:22] on साथ
+[0:22] f ti)
+[0:22] edt
+[0:22] = we hh,
+[0:22 - 0:23] the progre
+[0:22 - 0:23] lon y
+[0:23] Las “ay
+[0:23] wm हु
+[0:23] Oy ff
+[0:23] Pes
+[0:24] cme
+[0:24] wees
+[0:24] ression
+[0:24] soEN|
+[0:24] prog
+[0:24] Pgs
+[0:24] a Mi
+[0:24] bes
+[0:25] Leal
+[0:25] Muscle|gain
+[0:25] Sane
+[0:25 - 0:26] isia’slow pr
+[0:26] जाता
+[0:26] py डर
+[0:26] Py 7
+[0:26] #* Sep BR
+[0:26] lelgain
+[0:26] के ४
+[0:27] fay
+[0:27] aw.was neuraligains
+[0:27] , gin
+[0:27] St <#»मूलुंक ¥
+[0:27 - 0:28] Thoselgains\you| /
+[0:28] fai
+[0:28] hc a
+[0:28] Saw was new
+[0:28] ral
+[0:28] gains
+[0:28] Se <a है रा
+[0:29] sy डर
+[0:29] withe p the M1 pessignt
+[0:29] AN ay
+[0:29 - 0:30] है Isjgonnatbe slow
+[0:30] 2403७... Co
+[0:30] Liiva
+[0:30] ime
+[0:30] Ste,
+[0:30] . YY LY
+[0:30] withe p rogressio
+[0:30] 3 el 27
+[0:31] Ask?
+[0:31 - 0:32] How slow you may,
+[0:33] ‘Well'that oes de
+[0:33] we ot
+[0:33] कच्चा
+[0:34] Well that Pistia de
+[0:34] nd a
+[0:34] atl
+[0:34] है J
+[0:34] लाला
+[0:35] bil
+[0:35 - 0:37] 77-11 alot of factors
+[0:36] rill
+[0:38] hay
+[0:38] e\you inal deficit ie
+[0:39] Wil
+[0:39] Are'you in’alhuge detic
+[0:39] यार
+[0:39] aan
+[0:40] tale
+[0:40] बढ Gi
+[0:40] ou day atthesame
+[0:40] fui
+[0:40] Nyt
+[0:40 - 0:41] Are you sleeping
+[0:41] ‘day atithesam Sip
+[0:41] watt
+[0:41] wee
+[0:42] Wal
+[0:42] tall
+[0:42] itionte
+[0:42] lellel
+[0:42] ndfexercise?
+[0:42] हैः
+[0:42] क्र
+[0:42] a4 Be
+[0:43] he you |
+[0:43] Enou
+[0:43] ghicarbohy h 0000 2
+[0:44] Ve | oo
+[0:44] Seni AD
+[0:44] : rive गाल
+[0:44] ronnie :
+[0:44] 1905
+[0:44] Bef
+[0:44] ill
+[0:44] क्रय Wye
+[0:44] jad
+[0:44 - 0:45] gym?
+[0:45] Tle A
+[0:45] OU) rn a youlmalow- + ७__
+[0:45] 185,
+[0:45] Bet
+[0:45] Dlg
+[0:46] Hie
+[0:46] क्या
+[0:46] थ्र्
+[0:46] है Are\yourtgaining | i
+[0:46] v6 lum eum १
+[0:46] 52 samen इ
+[0:47] DAL SF
+[0:47] reyou
+[0:47] tae.
+[0:47] Rix y gut
+[0:47] / Mssueswhichtneeds'torb
+[0:47] ' 2 ia
+[0:48] Age you re
+[0:48 - 0:49] To go tothe gym?)
+[0:49] NE —Areyoumotivated
+[0:49] > जेल
+[0:49] कि अब
+[0:50] wilong is the
+[0:50] ternalmomentarm
+[0:51] mall
+[0:51 - 0:52] Are\youluntrained?
+[0:51 - 0:52] (Undemt\year of lifting)
+[0:53] 60७!
+[0:53 - 0:54] 4 et
+[0:54] Pe ae
+[0:55] pam हरे
+[0:55] 4 = ry
+[0:55] Reyoutraining.——__
+[0:55] 8 ; Rangers
+[0:56] “Tete
+[0:56] Where is the\plac
+[0:56] 4 your A}
+[0:57] i is the)place
+[0:57] In your ‘<<
+[0:58] "६. मी
+[0:58] How long fer
+[0:58] sting bet
+[0:58] weemse
+[0:59] How longline ७0
+[0:59] ८20 3
+[0:59] as Ss
+[0:59 - 1:02] Of that exercise?
+[1:00] How, pore isjth
+[1:00] act eccentni
+[1:00] Oft
+[1:01] be a
+[1:01 - 1:02] What's the ‘
+[1:01 - 1:02] Se eal
+[1:02] ba a
+[1:03] Is the pro
+[1:03] Rad
+[1:03] HOMES
+[1:03] ver
+[1:03 - 1:04] 444
+[1:04] बने
+[1:04] 4 Is
+[1:04] he F pale
+[1:04] y doing\tooifast?
+[1:04] y 99
+[1:05 - 1:06] you
+[1:05 - 1:06] \ Fastie
+[1:06] CHGS
+[1:07] [die
+[1:07] 53 on point?
+[1:07] ४ की ८
+[1:07 - 1:08] your pre workout
+[1:08] Cos point?
+[1:09] wil
+[1:09] Is that a cardiovas
+[1:09] culanly,
+[1:09] rey.
+[1:09] Demanding A
+[1:10] finat a cardiovasculanly) ।
+[1:10] emanding exercise?
+[1:11] 4 es
+[1:11] im. 2]
+[1:11] Ard
+[1:11] aan.
+[1:11] / Tfayes
+[1:11] how'isayo
+[1:11] Mei. health?,
+[1:12] mS . The
+[1:12] Bak
+[1:12] / Ifyes
+[1:12] sony Ca
+[1:12] nape health?
+[1:13] fe ardiac health?
+[1:13] + Ifijesshow'isyy ge
+[1:13] हें
+[1:13] चला.
+[1:14] ery
+[1:14] LIN
+[1:14] / Ifivesshow''s
+[1:14] ज्र ay
+[1:14] ५ a का
+[1:15 - 1:16] 2 Are youwearing this
+[1:16] p बन
+[1:17] youlw
+[1:17] eqangthis ९
+[1:18] 10७७ 2
+[1:18] act
+[1:18] Orsican
+[1:18] fip
+[1:18 - 1:19] Iti ples
+[1:18 - 1:19] Influence y
+[1:18 - 1:19] progression
+[1:19] ‘But
+[1:19] how
+[1:19] ctonsica
+[1:19] 18.0
+[1:19] ड्ड 1:
+[1:20] eator
+[1:20] ॥ 50 ब#
+[1:20] < @ का या (8 & 9d
+[1:20] Q yYooos
+[1:20] Ro tis
+[1:20] THE
+[1:20] Ts ie ५11 ts FO FEI
+[1:20] | 21 6 ५ 98 IND IM) id
+[1:20 - 1:21] QweR
+[1:20 - 1:22] her
+[1:20 - 1:22] bexting i
+[1:20 - 1:22] Viot
+[1:20 - 1:22] that
+[1:20 - 1:22] APSPOPTE Pop g dp sgl
+[1:20 - 1:22] 123
+[1:21] texting a ii On anyjother
+[1:21] Crea
+[1:21] ito
+[1:21] < @ Reghaval oranges) & dD
+[1:21] Q YOOO BRO HOW OF
+[1:21] Tex
+[1:21] OFC
+[1:21] YUE Pope
+[1:21] APSPOTP PoP d pepe
+[1:21] Z) PX) CN ५४ 981 ING IM) का
+[1:21 - 1:22] alse &
+[1:22] Vou
+[1:22] il Onan
+[1:22] < ७) Raghuvel Tha 69, (९५. 1)
+[1:22] ‘ise BRO HOW OFTEN SHOULD | @
+[1:22] “PRO
+[1:22] PROGRH
+[1:22] PROESS
+[1:22] OPW Pepe pup gud l poprP
+[1:22] 21 2 ५४ 91 ४ Pe को
+[1:23] SWEh
+[1:23] ive ‘ i
+[1:24] Willnot के ॥00ह॥
+[1:25] Becaus
+[1:25] CAN
+[1:25] To\givelyou
+[1:26] ॥ 01४6४0॥॥0॥
+[1:26] eV a ,
+[1:26] ca, 9
+[1:26] m6 (CN
+[1:26 - 1:27] But still
+[1:26 - 1:27] were) to od
+[1:27] \» Give eS Vv
+[1:27] a रा
+[1:28] Bare A eal
+[1:28] uldlb
+[1:28] or str
+[1:28] htdmaintenance
+[1:28] nth)!
+[1:28] ब्प्ख्णर
+[1:29] Bare a would'
+[1:29] strenghtimaint
+[1:29] fenance
+[1:29] A month)’
+[1:30] Followite
+[1:30] more’
+[1:30] ate
+[1:30] है Pw
+[1:31] 1७८०३ i
+[1:31] हे. ed
+[1:31] me ON i
+[1:31] Cee
+[1:31 - 1:32] / Followifor;more
+[1:32] NG a
+[1:32] ot के

@@ -1,0 +1,256 @@
+# model: ggml-large-v3
+========================================================================
+[296] https://www.instagram.com/reel/DZryJyVMNQo/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] The time at which you go to the gym matters a lot.
+[0:02 - 0:07] If you are going to the gym anywhere past 6 p.m., you are not making any gains.
+[0:07 - 0:08] That's not really how it works.
+[0:08 - 0:11] You can go to the gym at any time and still make great gains.
+[0:11 - 0:13] But there is something which you can take into consideration.
+[0:13 - 0:16] If you are performing any kind of high-demand cognitive task,
+[0:16 - 0:19] you are going to have increased levels of mental fatigue,
+[0:19 - 0:22] which is going to lead you to have increased levels of perception of effort.
+[0:22 - 0:24] When you have increased levels of perception of effort,
+[0:24 - 0:28] you are not going to be able to get higher amounts of motor unit recruitment
+[0:28 - 0:32] than you would have if you didn't have those increased levels of perception of effort.
+[0:32 - 0:36] The best way to go about this is just to go to the gym prior to the mental fatigue state.
+[0:36 - 0:39] So let's say you have worked from 9 a.m. to 5 p.m.
+[0:39 - 0:42] Ideally, going in the morning is going to be better
+[0:42 - 0:45] compared to going in the night where you are completely tired from working.
+[0:45 - 0:48] The amount of difference which this will make is probably a small difference,
+[0:48 - 0:49] but it is something to take a note of.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ast
+[0:00] “his
+[0:00] thing the time
+[0:00] ry J
+[0:00 - 0:02] Timing
+[0:00 - 0:02] matters
+[0:01] wat!
+[0:01] ers
+[0:01] weet e
+[0:01] 3 at
+[0:01] thing the time at which
+[0:01] which you go to
+[0:01] 9१३ ५ .Cre,
+[0:02] OA OUKE
+[0:02] श्र
+[0:02] see Dy
+[0:02] oP une
+[0:02] i ait
+[0:03] Matt
+[0:03] 81७
+[0:03] पक ol
+[0:03] ard
+[0:03 - 0:04] Workout
+[0:04] Himin
+[0:04] See Matte
+[0:04] past
+[0:05] Mim
+[0:05] et as
+[0:05] Veal
+[0:05] past 6 PM
+[0:05] 7१५ ofr,
+[0:05 - 0:06] Ing)
+[0:05 - 0:08] + करे
+[0:06] Poe
+[0:06] kourt
+[0:06] 1 if
+[0:06] att
+[0:06] 686७
+[0:06] a2 J
+[0:06] cai \
+[0:06] New?
+[0:06] past 6 PM you are not
+[0:06] —, 002७
+[0:07] 4.57
+[0:07] Wor
+[0:07] Ut Himin
+[0:07] a अल
+[0:07] any gains
+[0:08] te errs!
+[0:08] i 44,
+[0:08] Fee
+[0:08] i es
+[0:08] Mise
+[0:08] Workourtalimin
+[0:08] Pal
+[0:08] Ma j
+[0:08] that's not really how it
+[0:08 - 0:09] bile
+[0:09] re ot
+[0:09] Psd
+[0:09] om f+
+[0:09] you can go to the
+[0:09 - 0:12] , iming
+[0:10] OnKO
+[0:10] a Na
+[0:10] Prag
+[0:10] a My,
+[0:11] Lan
+[0:11] make great gains आशिक
+[0:11] oat
+[0:11 - 0:13] kourtallimin
+[0:12] Work
+[0:12] Out
+[0:12] 4४) कर
+[0:12] tte
+[0:12] something which
+[0:13] bee
+[0:13] ten
+[0:13] consideration
+[0:14] Bey
+[0:14] if you are pe'
+[0:14 - 0:15] gitig
+[0:14 - 0:15] ( itive tasky
+[0:15] हि. pong
+[0:15] GED,
+[0:15] bby
+[0:15] kind of high
+[0:15 - 0:16] Cogn
+[0:16] TT leln Ckamemne]
+[0:16] dema
+[0:16] itive
+[0:16] 7 हब
+[0:16] Boece
+[0:16] cognitiv:
+[0:17] AISA
+[0:17] 495
+[0:17] ing to
+[0:18] ats
+[0:18] hat
+[0:18] ऊझू
+[0:18] lu are.g
+[0:18] ncrease levels
+[0:19] SHE pd
+[0:19] Which
+[0:20] Which is going to lead
+[0:20] i आग )
+[0:21] ie a
+[0:21] fork
+[0:21] १८६१ प्र
+[0:21] 220
+[0:21] have increased
+[0:22] HST
+[0:22] A da
+[0:22] ine
+[0:22] 0८४१ 4,
+[0:22] melee
+[0:22] have increased levels of
+[0:22] perception
+[0:23] cll
+[0:23 - 0:24] when you have increased
+[0:24] हज 7. pt
+[0:24] 4०) ee a
+[0:24] wae
+[0:24] fre,
+[0:24] नशा
+[0:24] ५ Px) :
+[0:24] levels of perception
+[0:25] effort, you are
+[0:25] pa, cer |
+[0:26] 145
+[0:26] स्व
+[0:26] be able to
+[0:27] vag
+[0:28] a pa
+[0:28] hue
+[0:28] ७०220
+[0:29] te २० है
+[0:29] bet” i
+[0:29] bythe!
+[0:29] १३१
+[0:29] arf
+[0:30] ww: ee
+[0:30] if you didn't have those
+[0:31] afe
+[0:31] शर्त
+[0:31] perception
+[0:32] हैं +
+[0:32] DY a)
+[0:32] try
+[0:32] en i
+[0:32] the
+[0:33] Poe
+[0:33] MA ०
+[0:33] aed
+[0:33] जता
+[0:33] oil
+[0:33] the best way to go about
+[0:33] this
+[0:34] fee
+[0:34] बढ़े
+[0:34] NT PN a=
+[0:34] sia
+[0:34] is just to go to
+[0:35] 584
+[0:35] mc it ’
+[0:35] the
+[0:36] Pow
+[0:36] TESS
+[0:36] 733०
+[0:36] है हे
+[0:36] the mental fatigue
+[0:37] DLY
+[0:37] Solet sh
+[0:38] A” pets
+[0:38] Sis.
+[0:38] 011
+[0:38 - 0:39] from a
+[0:39] is i P
+[0:39] ALY
+[0:40] SHE
+[0:40] ata
+[0:40] १५०
+[0:40] Nie
+[0:40] ideally
+[0:41] bad
+[0:41] 28५
+[0:41] हे १
+[0:41] ideally going in the
+[0:41] morning
+[0:42] Pow
+[0:42] REF ०३०२
+[0:42] wer
+[0:42] 022
+[0:42] पु an
+[0:42] जा जन
+[0:42] going to be better
+[0:42] compared
+[0:43] Par
+[0:43] (ae Se
+[0:43] 041
+[0:43] नि PS NY »
+[0:43] Ths
+[0:43] to going in
+[0:44] wed
+[0:44] Wes?
+[0:44] Pog
+[0:44] Ey ९
+[0:44] nie
+[0:44] ४ 40
+[0:44] when you are
+[0:45] when you are completely
+[0:45] tired from working
+[0:46] Mie
+[0:46] amount of difference
+[0:46] with
+[0:47] श्र
+[0:47] Ses
+[0:47] his will make is
+[0:47] सका
+[0:47] probably a
+[0:47] aml #
+[0:48] small difference but
+[0:49] May
+[0:49] it is something to
+[0:50] र्ल्ल्‌ः
+[0:50] ६. ie
+[0:50] aids
+[0:50] ate
+[0:50] note of anyway so

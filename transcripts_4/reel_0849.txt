@@ -1,0 +1,310 @@
+# model: ggml-large-v3
+========================================================================
+[849] https://www.instagram.com/reel/DK4oFyIB84f/
+STATUS: OK
+DURATION: 0:54   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] अभी a lot of people ask me this question asking me
+[0:04 - 0:06] how do you see new research coming in
+[0:06 - 0:09] how do you make sure that you see the new research on time
+[0:09 - 0:12] now I have a good option for you
+[0:12 - 0:13] so the first thing you wanna do is
+[0:13 - 0:16] you wanna go to this website and make an account over there
+[0:16 - 0:18] जैसे ही तुमने वापे अपना account बना लिया
+[0:18 - 0:20] you type the kind of research you wanna see
+[0:20 - 0:22] let's say for example I write testosterone
+[0:22 - 0:24] I'll write testosterone over there
+[0:24 - 0:26] you'll see यहाँ पे there is a button called create alert
+[0:26 - 0:28] you have to click on that button
+[0:28 - 0:30] moment you click on that button it will ask you
+[0:30 - 0:34] how often do you want new research to be emailed to you
+[0:34 - 0:36] you can choose whatever option which is present over here
+[0:36 - 0:39] and once you choose the option and proceed further
+[0:39 - 0:41] आपको on a daily basis या फिर weekly basis
+[0:41 - 0:44] depending upon the type of frequency which you chose
+[0:44 - 0:45] आपको mails आते रहेंगे
+[0:45 - 0:48] about new studies coming in, new data coming in
+[0:48 - 0:49] this is how it looks like in your mail
+[0:49 - 0:53] so yeah, this is how you stay on track with current research which is coming in
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] body
+[0:00] नहीं
+[0:00 - 0:01] Raghu how
+[0:00 - 0:02] Raghu how do you keep up with the
+[0:00 - 0:02] current research can you please
+[0:00 - 0:02] help?
+[0:01] #हुं)
+[0:01] + 48९.
+[0:01] you keep up
+[0:01] e current
+[0:02] १२८
+[0:02] I'll be
+[0:03] afr
+[0:03] , Illbe वह of people ask me
+[0:03] this
+[0:04] has
+[0:04] 3८.2०
+[0:04] asking me
+[0:05] / asking meow do you see
+[0:05] new
+[0:06] i आखि
+[0:06] how a
+[0:07] hg Oe
+[0:07] ror
+[0:07] bad
+[0:07] Figs
+[0:07] how do you make sure
+[0:07 - 0:08] > tale,
+[0:08] ६7 की
+[0:08] ७६४
+[0:08] हैँ
+[0:08] Wi Yoursee the
+[0:09] bow
+[0:09] that you see the new
+[0:09] es on time
+[0:10] DS ail
+[0:11] » ine
+[0:11] hte
+[0:11] now I have a good option
+[0:12] bon
+[0:12] m* ०2
+[0:13] mea)
+[0:13] “i first thing you
+[0:14] lg tl
+[0:14] Met
+[0:14] you 1 go to
+[0:15] 0% Library of Medicine
+[0:15] rv 4
+[0:15] fen
+[0:15] ian]
+[0:15] you wanna go to this
+[0:15] website and make
+[0:15 - 0:16] onal Center for Biotechnology
+[0:15 - 0:16] pubmed. nebi.nim.nih.gov
+[0:15 - 0:17] PubMed Cer
+[0:15 - 0:23] ‘Advanced
+[0:15 - 0:23] PubMed® comprises more than 38 million
+[0:15 - 0:23] citations for biomedical literature from MEDLINE,
+[0:15 - 0:23] life science journals, and online books. Citations
+[0:15 - 0:23] may include links to full text content from,
+[0:15 - 0:23] PubMed Central and publisher web sites.
+[0:16] National Library of Medicine
+[0:16] 1०9४] |
+[0:16] है। Pierced
+[0:16] ibt
+[0:16] sites.
+[0:16] publisher
+[0:16] over there”
+[0:17] aes
+[0:17] bi.nim
+[0:17] OVE
+[0:17] e tum ne
+[0:17] wapa
+[0:17] Jone
+[0:17] WER |
+[0:17 - 0:20] बा 5G OF)
+[0:18] "Tes"
+[0:18] Yes
+[0:18] aS fel tii
+[0:18 - 0:20] want
+[0:18 - 0:20] @ pubmed.ncbi.nim.n,
+[0:18 - 0:20] you
+[0:18 - 0:20] qwe
+[0:19] ail 5G O%)
+[0:19] you type the kind
+[0:19] “Testostero”
+[0:19] asd f
+[0:19 - 0:22] 7:33
+[0:20] न्ज़्ज्ल्ड
+[0:20] yone
+[0:20] you type the kind of researc
+[0:20] anna see
+[0:20] au st (dn iii
+[0:21] SED DD
+[0:21 - 0:23] 5G 04)
+[0:21 - 0:23] 11 Learn
+[0:21 - 0:23] Abou
+[0:21 - 0:23] FAQs
+[0:21 - 0:23] Findir
+[0:22] lé | write
+[0:22] Lean 5
+[0:22] US SANS:
+[0:23] 7:34
+[0:24] ec ae
+[0:24] 118,579 results
+[0:24] ove
+[0:24] Testdsterone fépiac
+[0:24] and cardiovascular’
+[0:24] Auerbach JM, et al
+[0:24] PMID: 34999717 R
+[0:24] Given the utility of
+[0:24] treating the sympt'
+[0:24 - 0:26] An official website of the United States government
+[0:24 - 0:26] Here's how you know ४
+[0:24 - 0:26] National Library of Medicine
+[0:24 - 0:26] National Center for Biotechnology Information
+[0:24 - 0:26] NIH
+[0:24 - 0:26] remains crucial to closely examine the safety ...
+[0:24 - 0:27] PubWed*
+[0:24 - 0:27] Advanced Create alert Create RSS
+[0:24 - 0:27] User Guide
+[0:24 - 0:32] Testosterone
+[0:25] है... match
+[0:25] eee
+[0:25] 118,
+[0:25 - 0:26] Page
+[0:25 - 0:26] Test
+[0:25 - 0:26] lacem ent therapy
+[0:25 - 0:26] Isease
+[0:25 - 0:26] mpot Res. 2022
+[0:25 - 0:26] eview.
+[0:25 - 0:26] Given the utility of testosterone therapy in
+[0:25 - 0:26] treating the symptoms of hypogonadism, it
+[0:26] “ दिए
+[0:26] ooo
+[0:26] 118,579 t
+[0:26] create
+[0:26 - 0:27] ail.
+[0:26 - 0:28] Best match
+[0:27] Would,
+[0:27] of new search
+[0:27] result
+[0:27] -nih.gov
+[0:27 - 0:31] * Search terms:
+[0:27 - 0:32] Test search terms
+[0:28] chi.nim.nih.gov
+[0:28] AR click on that
+[0:28] xe oT Y U
+[0:28] ©) Fle
+[0:28] APS POP Po हि J gig
+[0:28 - 0:29] button
+[0:28 - 0:30] Your saved search
+[0:28 - 0:30] * Name of saved search:
+[0:29] moment you click.on,that
+[0:29] 2 5 2025 09
+[0:29 - 0:32] Would you like email updates of new search
+[0:29 - 0:33] @ pubmed.ncbi.nim.nih.g
+[0:30] it will ask
+[0:30] QWeERT Y
+[0:30] A S D F G
+[0:30 - 0:32] 506 %
+[0:30 - 0:33] The
+[0:31] ame OT Save
+[0:31] ध्श्वाए
+[0:31] O) No
+[0:31 - 0:32] it will ask you how.oftendo
+[0:31 - 0:33] results?
+[0:31 - 0:34] (0) Yes
+[0:32] you want | ५५३
+[0:32] || 111 DSS
+[0:32] 32 | 9 7०075 0०४७
+[0:32 - 0:37] Email:
+[0:33] The first Sunday
+[0:33] new resource to be enaailes ailed
+[0:33] @) WV) FE RRS le
+[0:33 - 0:37] Frequency:
+[0:33 - 0:37] Vv Monthly
+[0:33 - 0:37] Which day?
+[0:34] QO) No
+[0:34] md e
+[0:34] call
+[0:34] ial
+[0:34 - 0:37] ooo
+[0:34 - 0:37] Weekly
+[0:34 - 0:37] Daily
+[0:34 - 0:37] Back
+[0:34 - 0:37] imi Send even when there aren't any new resul TOP
+[0:34 - 0:39] Summary
+[0:34 - 0:39] Vv 5items
+[0:35 - 0:36] ७छे Yes
+[0:36] हा are
+[0:36] MSS SSS
+[0:37] © Yes
+[0:38] Serre , .
+[0:38] hen there aren't any new results
+[0:38] Opti ahd °
+[0:38] AN/OL] CNOOSS ४
+[0:38] ptio
+[0:38] Cancel
+[0:38 - 0:39] Report format:
+[0:38 - 0:39] Send at most:
+[0:39] Send even
+[0:39] 1item
+[0:39] Opti
+[0:39] a dee youchoose the
+[0:39] hd proceed further
+[0:39] 100 items
+[0:39] Save
+[0:40] bal]
+[0:40] sid
+[0:40] १111 /
+[0:40] - iyeigOt On a daily
+[0:41] Vie
+[0:41] lai) 4
+[0:41] ११५
+[0:41] चर 4
+[0:41] ™ सात
+[0:41] “A you have a weekly
+[0:42] छ-ौ८
+[0:42] ae iN upon
+[0:42] quit
+[0:43] भले
+[0:43] depen
+[0:43] id te upon the type of
+[0:43] freque
+[0:44] yA es
+[0:44] ide
+[0:44] प्र
+[0:44] ०५७ ९-«-कि
+[0:44] Pad
+[0:45] कुल
+[0:45] ix = that they're
+[0:46] whe
+[0:47] wre
+[0:47] bay *,
+[0:47] a ip
+[0:47] A ew st
+[0:47] /~ coming in new
+[0:48] What's new for ‘resistance
+[0:48] Jun
+[0:48] Set
+[0:48 - 0:49] training’ in PubMed (inbox
+[0:48 - 0:49] My NCBI
+[0:48 - 0:49] Unsubscribe
+[0:48 - 0:49] tome v
+[0:48 - 0:49] This message contains My NCBI what's
+[0:48 - 0:49] new results from the National Center for
+[0:48 - 0:49] Biotechnology Information (NCBI) at the
+[0:48 - 0:49] U.S. National Library of Medicine (NLM).
+[0:48 - 0:49] Do not reply directly to this message.
+[0:48 - 0:49] Sender's message:
+[0:48 - 0:49] Sent on Friday, 2025 June 13
+[0:48 - 0:49] Search: resistance training
+[0:48 - 0:49] View complete results in PubMed (results
+[0:48 - 0:49] may change over time).
+[0:48 - 0:49] Edit saved search settings, or unsubscribe
+[0:48 - 0:49] from these email updates.
+[0:48 - 0:49] PubMed Results
+[0:48 - 0:49] Items 1-5 of 26 (Display the 5 citations in
+[0:48 - 0:49] PubMed)
+[0:48 - 0:49] © Reply
+[0:48 - 0:49] > Forward
+[0:49] wu 8S
+[0:49] १2६
+[0:49] his isshow it 100
+[0:49] aon
+[0:49] your
+[0:51] NSS, हे
+[0:51] क्र
+[0:51] this is ho
+[0:51] stay
+[0:51] MEN
+[0:52] 38 है
+[0:52] Mat
+[0:52] i $ how है... on track
+[0:52] ७६ ९ urrent
+[0:53] yay 4
+[0:53] h is cofMing

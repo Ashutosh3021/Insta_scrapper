@@ -1,0 +1,84 @@
+# model: ggml-large-v3
+========================================================================
+[983] https://www.instagram.com/reel/DB8116GtE6o/
+STATUS: OK
+DURATION: 0:55   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] I got 90 for 5 last week, Diwali celebration, diet was shit, let's see how it goes.
+[0:30 - 0:55] 7, 7, 7, fuck, see ya, 7, yeah, nice, nice, nice.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ULKING
+[0:00] UPRISEL Fi
+[0:02] - Week 3 60,
+[0:03] SING
+[0:03] Om us
+[0:03] श्र LETS
+[0:04] कर ऋ
+[0:04] ae 4s
+[0:04] SIX. LETS
+[0:04] HOPE,
+[0:06] 1० COUNTER
+[0:06] wel
+[0:06] 22८६
+[0:07] REP COUNTER
+[0:07] 5 LAST 2112!
+[0:07] ‘WEEK.
+[0:08] न्न्श्च्यु
+[0:08] णए५७0 CELEBRATION 3
+[0:09] DIWALI weed J नह
+[0:10] mie
+[0:10] aie
+[0:10] DIET WAS
+[0:14] i कं 6
+[0:14] mak
+[0:14 - 0:15] क्र
+[0:15] ee २1
+[0:16] mae
+[0:19 - 0:36] थ् —RED.COUNTER?
+[0:21] क्र
+[0:21] बलि!
+[0:22] mie
+[0:24] Pin
+[0:24] है 1
+[0:24] Ltt
+[0:25] Win,
+[0:25] 427
+[0:27] war
+[0:28] mae
+[0:30] bos
+[0:30] थ्र््ल
+[0:31] iat
+[0:32] ont
+[0:32] a mt
+[0:32] yy, UN
+[0:33] Pim
+[0:34] int
+[0:34] “wo INTER:
+[0:35] if oT
+[0:36] 75.1
+[0:40] -P cou
+[0:40 - 0:42] INTER,
+[0:41] बाल
+[0:41 - 0:44] REP COUNTER:
+[0:42] ott
+[0:45] a COUNTER:
+[0:45] ieee
+[0:46] mie
+[0:46] ह ॥ THOUGHT
+[0:47] mat
+[0:47] I-7-7
+[0:48] el=7-7
+[0:49] ai por Ln <
+[0:50] a CAN WE
+[0:51 - 0:52] HAY SEVEN. _
+[0:51 - 0:52] ‘SAHI HAI
+[0:52] Bi ff
+[0:52] छह 1.
+[0:53] P Tc
+[0:53] 182
+[0:53 - 0:54] YEAH.
+[0:53 - 0:54] NICE.
+[0:54] | | cen

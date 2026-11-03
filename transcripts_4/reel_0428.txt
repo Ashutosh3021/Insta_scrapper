@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[428] https://www.instagram.com/reel/DWy5DrqDJ1f/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] And I did.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ace
+[0:00] ings
+[0:00] meson musclelg
+[0:01] iwinictdonjtimatteny
+[0:01] = For muscle\grow;
+[0:01] eo 4
+[0:02] Li TMhingsiwhichidonst
+[0:02] age
+[0:02] eon muscle a
+[0:02] oe “ad
+[0:03] Bos
+[0:03 - 0:05] Your'natural
+[0:03 - 0:06] Testosterone levels
+[0:04] Your Fare i,
+[0:04] Tips oa
+[0:05] Testost
+[0:05] rone levels
+[0:05] iy oe
+[0:06] a natural

@@ -1,0 +1,191 @@
+# model: ggml-large-v3
+========================================================================
+[66] https://www.instagram.com/reel/DeO-rTuMbv1/
+STATUS: OK
+DURATION: 1:02   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] this is just a reminder if you eat very close to your bedtime and you're wearing any of these
+[0:05 - 0:10] smart watches your smart watch is going to tell you that you're not recovered and i'll tell you
+[0:10 - 0:16] exactly why when you eat a particular meal your heart rate goes up in accordance to the food which
+[0:16 - 0:22] you eat ideally when you go to sleep what ends up happening is your heart rate goes down you see a
+[0:22 - 0:29] u-curve which happens especially when you sleep but if you ingest something before going to sleep
+[0:29 - 0:34] is going to increase your heart rate right that is not normal for your body which means instead
+[0:34 - 0:38] of showing a u-curve which is normal it's going to show a flat curve your heart rate essentially
+[0:38 - 0:45] stays elevated throughout your throughout the night which tells the algorithm on the smart watch
+[0:45 - 0:49] that you're not recovered obviously i'm not saying that you should eat very close to your
+[0:49 - 0:55] bedtime ideally trying to finish your meal three hour prior bedtime should be ideal what i'm trying
+[0:55 - 0:58] to say here is you should not let that number on your smartwatch
+[0:58 - 1:00] On your smartwatch, dictate how your day goes.
+[1:00 - 1:01] Anyways, I'll see you in the next one.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ant
+[0:00] “aie
+[0:00] ७०४३५
+[0:00 - 0:01] "watch
+[0:00 - 0:01] this is
+[0:00 - 0:09] Pre
+[0:00 - 0:09] recovery”
+[0:01] Smart
+[0:01] t a reminder
+[0:02] रेड
+[0:02 - 0:04] ¥ you
+[0:02 - 0:07] mart watch
+[0:03] Sma
+[0:03] Ly Ph
+[0:03] your b
+[0:03 - 0:04] If yo
+[0:03 - 0:04] very close to
+[0:04] Sie
+[0:04] time and you're
+[0:05] wearing any of these
+[0:05 - 0:06] sleep)meall&
+[0:06] Smartwateh
+[0:07] Aan
+[0:07] watc!
+[0:07] rsmart
+[0:08] el MES
+[0:08] ite
+[0:08] wtb
+[0:09] Smart watch
+[0:09] ii as
+[0:09] wie
+[0:09] ered
+[0:10] Und
+[0:10] 2 और
+[0:10] x ia
+[0:10] ॥ you
+[0:11] B yw
+[0:12] — you eat a
+[0:12 - 0:13] ‘were
+[0:12 - 0:14] Acta Physiol Scand 1991, 142, 3:
+[0:12 - 0:14] The effect of meal size on postprandial increase in
+[0:12 - 0:14] cardiac output
+[0:12 - 0:14] B.A. WAALER, M. ERT.
+[0:12 - 0:14] EN and K. TOSKA
+[0:12 - 0:14] Department of Physiology,
+[0:12 - 0:14] Iniversity of Oslo
+[0:12 - 0:14] Norway
+[0:13] crease in
+[0:13] B.A. WAALER, M. ERIKSEN and
+[0:13] TOSKA
+[0:13] Department of Physiology, University of
+[0:13] ite
+[0:13] Whenyou eat a
+[0:13] particular meal,
+[0:14] heart rate
+[0:15] heart Fate goes up in
+[0:16] eat
+[0:16] food
+[0:17] beatsemin
+[0:17 - 0:19] Ideally,
+[0:18] beats.
+[0:18] "eRe
+[0:18] Ideally, when
+[0:19] nyou go to
+[0:19] slee
+[0:20] ly DP
+[0:20] happe
+[0:22] You see
+[0:22 - 0:24] 100 BPM
+[0:22 - 0:24] 40 829७
+[0:22 - 0:24] 10 0
+[0:22 - 0:24] 12AM
+[0:22 - 0:24] 4am
+[0:22 - 0:24] 6AM
+[0:23] Bea
+[0:23] 408M
+[0:23] 1PM
+[0:23 - 0:24] You see a U curve which
+[0:24] pr Waa)
+[0:24] mah,
+[0:24] happens especially
+[0:25] a DP
+[0:25] but
+[0:25 - 0:26] yous
+[0:26] p but if
+[0:27] er if
+[0:27] ONS डे
+[0:28] goin
+[0:29] weer
+[0:29 - 0:30] beatsemin’
+[0:29 - 0:30] 1००
+[0:31] Pha
+[0:31] heart
+[0:31] ight that
+[0:32] A ‘Se:
+[0:32] norm
+[0:33] के i
+[0:33 - 0:35] which V4
+[0:34 - 0:35] ans instead of
+[0:35] showing a U curve which
+[0:36] normal
+[0:38] eart rate
+[0:39] a जक
+[0:39] sta
+[0:40] “a tas
+[0:40] GS op
+[0:40] ९१३
+[0:41] yd We
+[0:41] coud J
+[0:41 - 0:42] night
+[0:42] paths
+[0:42] ody,
+[0:42] ell
+[0:42] W tells
+[0:42 - 0:43] Also
+[0:42 - 0:44] body temperature
+[0:43] 1950॥8॥
+[0:43] 00/1शा॥00/80॥
+[0:43] Igorit
+[0:43 - 0:44] ich tells the
+[0:44] Al = ital
+[0:44] बे ०.
+[0:44] Dye
+[0:44] algorit V the
+[0:45] watch
+[0:46] ane
+[0:46] watch that you are
+[0:48] at im,
+[0:48] हैं
+[0:48] Sex
+[0:48] Sew
+[0:49] that you s
+[0:49] t ve’
+[0:49] close
+[0:50] cae
+[0:50] OF xs
+[0:51] wat
+[0:51] wag
+[0:51] Ideally tryi
+[0:51] ish
+[0:51] your
+[0:52] 2 Ve
+[0:52] Sor
+[0:52] prior '¥
+[0:53] wee
+[0:53] prior bec
+[0:53] id be
+[0:54] a He,
+[0:54 - 0:55] Whatla
+[0:55] हैः
+[0:55] डी का
+[0:55] हि oa
+[0:55] to say
+[0:55] here
+[0:56] ate ik ]
+[0:56] 457
+[0:56 - 0:57] क्र
+[0:57] e हा
+[0:57 - 0:58] that numb
+[0:58] PT a
+[0:58] ae (१७:
+[0:59] ्थर
+[0:59] sats
+[0:59 - 1:00] voice dict
+[1:00] has
+[1:00] ny ie "
+[1:00] your
+[1:00] day

@@ -1,0 +1,67 @@
+# model: ggml-large-v3
+========================================================================
+[155] https://www.instagram.com/reel/DcnfCPTzb2V/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] *Dramatic music*
+[0:11 - 0:22] *Dramatic music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] RNTRAINS
+[0:00] fim
+[0:01] SF a
+[0:02] जजों
+[0:02] fel
+[0:02] Ben!
+[0:03] gen
+[0:03] any
+[0:04] ae a
+[0:04] कट: 4s
+[0:04] im i
+[0:04] Son?
+[0:05] eee
+[0:05] kee
+[0:06] wal
+[0:06] “AS eee.
+[0:07] crv
+[0:07] ‘a2 ४
+[0:07] kL 1
+[0:07] Figs
+[0:07] SAD
+[0:08] ess
+[0:08] ३९५
+[0:09] aes
+[0:09] B | गईं
+[0:09] Nee
+[0:09] २७७५८.
+[0:10] Bing
+[0:11] i ame
+[0:11] jas
+[0:11] sais
+[0:12] ve ij
+[0:12] Crug
+[0:13] aed.
+[0:13] 7 Aa
+[0:13] 81 eS
+[0:13] ewoaee
+[0:13] Tare
+[0:14] fo 3
+[0:14] mm i,
+[0:14] eee!
+[0:15] छा लन-
+[0:15] कारक a
+[0:15] | a NY
+[0:16] bs 5
+[0:16] हैं
+[0:17] 32. A
+[0:17] D v4
+[0:18] {s* se
+[0:20] sole
+[0:20] Say
+[0:20] ‘fos
+[0:20] Cle
+[0:21] mm 7
+[0:21] oes

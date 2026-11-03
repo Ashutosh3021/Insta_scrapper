@@ -1,0 +1,63 @@
+# model: ggml-large-v3
+========================================================================
+[216] https://www.instagram.com/reel/DbWLx2nsZX0/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] Can you blow my whistle, baby?
+[0:10 - 0:12] Whistle, baby, let me know
+[0:12 - 0:14] Girl, I'm gonna show you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] een |
+[0:00] ou know
+[0:01] eet |
+[0:01] ke a
+[0:01] Pod
+[0:01] ustletting youlk
+[0:02 - 0:04] Re oe dumbbells
+[0:03] elo |
+[0:03] Re an mbbells
+[0:03] als
+[0:04] it ie
+[0:05] een |
+[0:05] ate
+[0:05] est aliimpnoy
+[0:05] ing your
+[0:05] Punching speedioripower | .
+[0:05 - 0:06] 4 heb
+[0:06] ayy
+[0:06] est atliimproving,your-
+[0:06] remy <>
+[0:06] eres
+[0:06 - 0:07] g\speedionlpower |
+[0:06 - 0:07] Punching
+[0:07] the best at TPN your.
+[0:08] aah |
+[0:08] yee
+[0:08] somejactual
+[0:08] 6101॥10॥119168
+[0:09] x 10
+[0:09] trengthinonkinstead »
+[0:09 - 0:11] een |
+[0:10] vr है
+[0:10] eon actu
+[0:10 - 0:11] instead .
+[0:10 - 0:11] onstrength work i
+[0:11] it hi
+[0:11] दिल ie
+[0:11] है. do some actual
+[0:11] See
+[0:12] Seat
+[0:12] Fol
+[0:12] aw fo
+[0:12] "(7० 9
+[0:12] Ing
+[0:12] gS 0.
+[0:12] a ae
+[0:12 - 0:13] 7) aan
+[0:13] “अत बा
+[0:13] Flow fo
+[0:13] ee “16

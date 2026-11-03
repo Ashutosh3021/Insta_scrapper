@@ -1,0 +1,388 @@
+# model: ggml-large-v3
+========================================================================
+[672] https://www.instagram.com/reel/DQ9c5HOjCgI/
+STATUS: OK
+DURATION: 1:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] If you think you need a lot of supplements, if you want to maximize muscle growth, you have been misled.
+[0:05 - 0:12] A lot of people have this weird misconception that you need to have a whole different list of supplements if you want to maximize muscle growth.
+[0:12 - 0:18] But in reality, there are only few supplements which actually cause meaningful effects towards muscle growth.
+[0:18 - 0:21] On the number one, it's obviously going to be caffeine.
+[0:21 - 0:25] Caffeine is literally going to help you increase motor unit recruitment.
+[0:26 - 0:31] So you need to take, if you want to maximize muscle growth, you need to take caffeine.
+[0:31 - 0:32] And the last one is going to be creatine.
+[0:32 - 0:39] Creatine has so much more cognitive benefits that it makes it a very good supplement for you to take it.
+[0:39 - 0:41] It's going to help you look a bit more fuller in the gym.
+[0:41 - 0:44] It's going to keep your cognitive function a bit more better.
+[0:44 - 0:46] It's just overall a good supplement.
+[0:46 - 0:50] And that's where the list actually ends, by the way.
+[0:50 - 0:55] It is called a supplement for a reason because your diet doesn't consist of it, right?
+[0:55 - 0:59] If you have a vitamin D deficiency, take vitamin D.
+[0:59 - 1:05] You can come to me and tell me that, oh, you can take magnesium before your sleep and you can take this specific supplement at this specific time.
+[1:05 - 1:06] You can take this and that.
+[1:06 - 1:10] Yeah, all of those are going to create this much impact.
+[1:10 - 1:15] And that's not going to be impact towards muscle growth, but towards other factors.
+[1:15 - 1:21] The only supplement which directly impacts how much stimulus you can give is probably going to be caffeine.
+[1:21 - 1:22] So yeah, hope that helps.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] A yr
+[0:00] hat 11002 6
+[0:00] should
+[0:00] ou foe डे
+[0:00] ay" Os
+[0:00] fora vated) 43
+[0:00] you *
+[0:01] J oy
+[0:01] hat aaa
+[0:01] nts
+[0:01] youpta kegs हर g
+[0:01] you think you need a lot
+[0:01 - 0:04] (for a natural)
+[0:02] hattsu
+[0:02] yourta
+[0:02] keg
+[0:02] want
+[0:03] ‘eo Su
+[0:03] Puen
+[0:03] you
+[0:03] Say
+[0:03] wantto maximize muscle
+[0:03 - 0:05] hould
+[0:04] take
+[0:04] on Cad
+[0:04] you have
+[0:05] WWAMEIE S
+[0:05] pplem en
+[0:05 - 0:06] ou have been'misled a
+[0:06] Pace Set Gd
+[0:06] lot of people have this
+[0:07] bets
+[0:07] छः hy
+[0:07] 1% हि > 1
+[0:07] cn 3
+[0:07] en दस,
+[0:07] weird misconception
+[0:08] ९५०
+[0:08] need to have a
+[0:09] शतक
+[0:09] 415
+[0:09] GSA
+[0:09] nee है व have awhole
+[0:09] erent list
+[0:10] supplements
+[0:11] (To, A
+[0:11] supplements if you want
+[0:11] tomaximize
+[0:12] ९७०१
+[0:12] ree
+[0:12] 1. oe
+[0:12] fort
+[0:12] — सत्य 7
+[0:12] vel
+[0:12] » oe 20
+[0:12] ef कै
+[0:12 - 0:14] muscle growth but in
+[0:13] y atts
+[0:13] lym
+[0:13] Gs oo
+[0:14] १५१
+[0:14] reality there
+[0:15] ब्रा
+[0:15] हैः
+[0:15] S4r
+[0:15] few supplements
+[0:16] he as
+[0:16] cause)
+[0:17] Pag
+[0:17] श्र
+[0:17 - 0:18] cause\meaningful effects
+[0:18] mele
+[0:18] क्र
+[0:18] towards muscle
+[0:19] 7 bs
+[0:19] we A
+[0:19] (249
+[0:19] ४17:५
+[0:19] thenumBer
+[0:20] lye
+[0:20] aay ©
+[0:20] Ate vd
+[0:20] shit.
+[0:20] obvi हक goingto
+[0:21] Poh
+[0:21] “LT 2
+[0:21] Caffeine - Wikipedia
+[0:21 - 0:22] obviously goingto be
+[0:21 - 0:22] eine caffeine
+[0:22] 1748
+[0:22] biG
+[0:23] ay 1
+[0:23] ee 2
+[0:23] १३७
+[0:23] itefatly going
+[0:24] Poy:
+[0:24] ies
+[0:24] ‘Ste
+[0:24] ase
+[0:25] Ls hy
+[0:25] increase
+[0:25] otor unit
+[0:25 - 0:26] recruitment so y«
+[0:26] increase motor unit
+[0:27] ९५०
+[0:27] १ क्र
+[0:27] elt
+[0:28] race
+[0:28] bid ५४1
+[0:28] e if you want to
+[0:28] to a
+[0:28] maximize
+[0:29] “aes
+[0:29] ‘ewig
+[0:29] a « growth
+[0:29 - 0:30] ३ करे
+[0:30] है 16
+[0:30] Met
+[0:30] Lg 2०
+[0:30] ‘Eee
+[0:30 - 0:31] ' growth you to
+[0:31] bee”
+[0:31] OMe
+[0:31] ०९७
+[0:31] 1 Pa
+[0:31] caffeine and the
+[0:32] १०७
+[0:32] baat
+[0:32] lastione is goingto be
+[0:33] Pron
+[0:33] Creftine
+[0:34] १७ Z
+[0:34] ५ oe
+[0:34] tar
+[0:34] ane
+[0:34] Peat
+[0:34] mor:
+[0:34] i.” has so much
+[0:35] D rr
+[0:35] alt
+[0:35] (82८
+[0:35] bh Pn
+[0:35] Creatine has so much
+[0:35] more cognitive
+[0:36] 3 we
+[0:36] डर 5
+[0:36] 2° Ih,
+[0:36] wwe
+[0:36] that it
+[0:37] 200
+[0:37] ‘all
+[0:37] that itmakesit a very
+[0:38] An he
+[0:38] (श्र
+[0:38] ल्छ०्ट
+[0:38] 42-68
+[0:38] ire
+[0:38] | णण for
+[0:40] fo है
+[0:40] ल्हैं
+[0:40] an iA
+[0:40] > looks,
+[0:40] oingto help you
+[0:41] w Ne’ ४
+[0:41] ips
+[0:41] 9 ४६
+[0:41] pet
+[0:41] ५ कर
+[0:41] ‘in the
+[0:42] ‘et id
+[0:42] wey
+[0:42] शी. 6८9
+[0:42 - 0:43] It's goingto keep your
+[0:43] whe ;
+[0:43] है हे.
+[0:43] कक why कब it
+[0:43] Paapitive function
+[0:43 - 0:45] it’s wat reasonable to if
+[0:43 - 0:45] get creatine from your diet हि
+[0:44] 3 re
+[0:44] हो bette
+[0:44 - 0:45] that’s why i included it
+[0:45] Why
+[0:45] sor
+[0:45] not
+[0:45] llysgonn
+[0:45] 112]
+[0:45] 810॥॥
+[0:45] ~ Sep
+[0:45] Wee
+[0:45] tim
+[0:45] WMS
+[0:45] rw Alan
+[0:45] १ overall
+[0:46] sey
+[0:46] REMY 6)
+[0:46] [11112]
+[0:46] Stin
+[0:46] mulus
+[0:46] rect
+[0:46] चक्की a)
+[0:46] 1४71
+[0:46] ५5007
+[0:46] cn ऊँ
+[0:46] lement
+[0:46 - 0:47] It's just overall a good
+[0:47] है [४
+[0:47] १ करे
+[0:47] lyn F
+[0:47] शर्त
+[0:47] yy — and that's
+[0:48] pie
+[0:48] 9) ye
+[0:48] where the list actually
+[0:49] ५ 0२
+[0:49] Satan ~
+[0:49] fae
+[0:49] Pe oghs
+[0:49] की आ
+[0:50] odd
+[0:50] ay Sa
+[0:50] wwe
+[0:50] By the way, it
+[0:51] a ae
+[0:51] ris
+[0:51] By the wlth is called
+[0:51] # a supplement for
+[0:51 - 0:52] Ph Ae:
+[0:52] ९५७
+[0:52] 712
+[0:52] 92०1
+[0:52] 49१
+[0:52] reason ww
+[0:53] LT hy
+[0:53] reason because your
+[0:54] Wea
+[0:54] 128
+[0:54] चयन
+[0:54] + nye
+[0:54] yh 4
+[0:54] consist
+[0:55] है १6०
+[0:55] Ph, A
+[0:55] for
+[0:55] Ras
+[0:55] iil ‘wg of it, right?
+[0:55 - 0:57] ae ee,
+[0:56] f iw
+[0:56] poet
+[0:56] ६ है
+[0:56] If you®
+[0:56 - 0:57] ca 3
+[0:57] ‘See
+[0:57 - 0:58] If you have avitamin 0
+[0:58] की. ही
+[0:58] MEX
+[0:58] cn 3
+[0:58] Cod
+[0:58] defi
+[0:58] ncy,
+[0:58 - 1:00] pte,
+[0:59] eae
+[1:00] ay” 8
+[1:00] ras
+[1:00] on की
+[1:00] oe ela tome
+[1:01] ३ ee
+[1:01] fh ae
+[1:01] if A
+[1:01] ४40७
+[1:01] हे fi
+[1:01] You ¢ e come to me and
+[1:01] tell me that oh you can
+[1:02] 9५४
+[1:02] are
+[1:02] च््"
+[1:02] take magnesium before
+[1:02] your
+[1:03] sleep and you can take
+[1:04] Sts
+[1:04] ध्ड्
+[1:05] ५ ye
+[1:05] vid r
+[1:05] 955 a
+[1:05] at Ig specific time
+[1:06] ie a
+[1:06] You can take this
+[1:08] ५45
+[1:08] ५७१
+[1:08] vos
+[1:08 - 1:09] Ph As
+[1:08 - 1:09] Yeah) all of those are
+[1:09] ५ पर
+[1:09] ee उ
+[1:09] goingtocreate this
+[1:10] Tas
+[1:10] है 3
+[1:10] wage
+[1:10] tod
+[1:10] impact.
+[1:11] ve a
+[1:11] rad
+[1:11] And khat's
+[1:12] via a
+[1:12] WES
+[1:12] evembitathe) im
+[1:12 - 1:13] And that's not goingto
+[1:13] ४ जे
+[1:13] Very,
+[1:13] [21०]
+[1:13] which are
+[1:13] out’
+[1:13] theretfon
+[1:13] other tings
+[1:13] stimusculangro
+[1:13] be impact towards
+[1:13 - 1:14] but fon
+[1:13 - 1:15] ) there
+[1:13 - 1:15] Se thereisn’t much
+[1:14] pte,
+[1:14] VETY!
+[1:14] Goce] suppSs Winkel mere OUL
+[1:14] fOr
+[1:14] ngs
+[1:14] sti
+[1:14] ular कल
+[1:14] fig
+[1:14] growth but
+[1:15] ils
+[1:15] ) there arewany
+[1:15] 090
+[1:15] cnr 5 ajeyourt
+[1:15] 1105
+[1:15] ५ रू
+[1:15] त1096111 0
+[1:15] grown
+[1:15] Pa ee
+[1:15] 223
+[1:15] हरे
+[1:16] wee
+[1:16 - 1:18] The only supplement
+[1:17] aS* 3
+[1:17] श्र
+[1:17] which directly
+[1:18] big
+[1:18] directly impacts
+[1:19] for
+[1:19 - 1:20] howmuch stimulus you
+[1:20] » मै 4
+[1:20] e cangiveis
+[1:21] ९३०
+[1:21] ५ करे
+[1:21] Ph aa
+[1:21] "है ः
+[1:21] ‘hk bably goingto be
+[1:21] caffeine.
+[1:22] ५ wh
+[1:22] thal

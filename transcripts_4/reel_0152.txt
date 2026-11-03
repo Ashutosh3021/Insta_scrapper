@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[152] https://www.instagram.com/reel/DcqwiJJtJVh/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] this is
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] The bite that changed
+[0:00 - 0:03] everything
+[0:01] kis #६०९
+[0:02] oma
+[0:03] ORTAS NEED LOVE
+[0:04] Pay
+[0:04] all
+[0:04] var
+[0:04 - 0:06] Calories dictate fat 1055. —
+[0:04 - 0:08] Who cares
+[0:05] geen
+[0:05] cad
+[0:06] oe. ican
+[0:07 - 0:08] lories
+[0:07 - 0:08] fatiloss
+[0:08] | ‘self

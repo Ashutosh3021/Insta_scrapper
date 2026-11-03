@@ -1,0 +1,86 @@
+# model: ggml-large-v3
+========================================================================
+[389] https://www.instagram.com/reel/DXkDpaUDFwa/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Bro, what is this?
+[0:01 - 0:03] So these are our upcoming pre-workout.
+[0:03 - 0:05] These two are pre-workout shots.
+[0:05 - 0:06] Not just liquid.
+[0:06 - 0:10] These are pre-workout shots in green apple flavor.
+[0:10 - 0:11] So, tell me one thing.
+[0:11 - 0:13] Which one has ANOVA in it?
+[0:13 - 0:14] Sorry?
+[0:14 - 0:15] Which one has ANOVA in it?
+[0:15 - 0:17] It's not in there bro.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] =. Never'signing'mel=
+[0:00] 2 wha’
+[0:01] wold
+[0:01] Wellcors meyer
+[0:01] 119 5
+[0:01] 0 अत.
+[0:01 - 0:02] © these are our upcoming
+[0:01 - 0:02] pre-workout
+[0:02] Wellcore in 11605
+[0:03] 2॥007 8
+[0:03] 00101
+[0:03] jes
+[0:03] oming
+[0:04] शव आ
+[0:04] hots}
+[0:05] Pe Dy.
+[0:06] Bebo: ts in ah green
+[0:06] eit
+[0:06 - 0:08] Se me never signing{me:
+[0:06 - 0:08] ‘Theselarelpre;
+[0:06 - 0:08] flavour’
+[0:07] Wellcore} ni
+[0:07] er signing me
+[0:07] Mihese,are pre-workou
+[0:07] ) 51005 in'ah green apple
+[0:08] Welloare
+[0:08] _ shots in’ah gre
+[0:08] ASS »
+[0:09] ellcore never’signim
+[0:09] Ter
+[0:09] heselare}
+[0:09] Dre
+[0:09] in pple
+[0:10] ellconemevensigning me &
+[0:11] NEVER SIGMNGI
+[0:11] iwhichlonejhas anavar
+[0:11 - 0:14] Sampling Zone
+[0:12] mnt eas
+[0:12] Wellcore n;
+[0:12] लता
+[0:12] ‘Petey
+[0:12] has anavar
+[0:12 - 0:14] wellversed
+[0:13] ampling |
+[0:13] 5 Ins
+[0:13] ०1१
+[0:13] core ne SIG MING Me
+[0:13] ‘Poa
+[0:13] ५0५
+[0:13 - 0:15] ‘Well
+[0:14] प्र
+[0:14] (alla
+[0:14] ORE NEVERSIG
+[0:14] Mee
+[0:14] Sexo
+[0:14 - 0:16] ॥) 0011 130 010
+[0:15] fits
+[0:15] nin
+[0:15] cere
+[0:15] 11011 111 31210 |
+[0:16] Sampling 20
+[0:16] aad
+[0:16] ee Wel
+[0:16] Icore’
+[0:16] emsigning Mep— te
+[0:16] gant

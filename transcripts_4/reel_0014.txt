@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[14] https://www.instagram.com/reel/De4hH2uhKxV/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] And look at me, I'm a shitload of story you came in with
+[0:05 - 0:10] Just like that, and then you had to play it just to leave
+[0:10 - 0:13] Before you didn't have me right
+[0:13 - 0:18] And baby, I know, I know what I'm saying
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] dhe
+[0:00] tea
+[0:00] ithinkithe
+[0:00] | Pee fin
+[0:00] a= dh
+[0:01] *—| think the cut
+[0:01] finally paying/off
+[0:03] t rb
+[0:04] ९र्थ |
+[0:04] uP if
+[0:05] RS il|
+[0:06] if d
+[0:06] CES
+[0:06] mak
+[0:06] 17८
+[0:07] के Mil | i
+[0:07] ih A
+[0:10] © hes

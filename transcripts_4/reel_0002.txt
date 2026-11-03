@@ -1,0 +1,54 @@
+# model: ggml-large-v3
+========================================================================
+[2] https://www.instagram.com/reel/DfK6mGKzr1J/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] guys the meetup is here it's going to be held tomorrow 3 p.m at relentless domlur do know that
+[0:07 - 0:14] tomorrow is going to be my last day in bangalore and after that i'll be back to mumbai now these
+[0:14 - 0:18] are the topics and sections which are going to be covered in the workshop if you want to join
+[0:18 - 0:22] you can join click the link in my bio fill the form up and i'll see you there
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ॥ Workshop)
+[0:00] pdate'
+[0:00 - 0:10] IMeetiup)/)
+[0:01] kshop)
+[0:01] 1०2७५
+[0:01 - 0:02] ate’
+[0:02] Meetiup)/ Workshop)
+[0:03] pdate
+[0:03 - 0:04] Workshop)
+[0:04] pda
+[0:04] HAN
+[0:05] hop)
+[0:05] ern
+[0:05] hee
+[0:06] | Wor
+[0:06] pdate)
+[0:06 - 0:08] kshop)
+[0:07] Meetiup)/\Wor
+[0:08] 208
+[0:08] ६० 8
+[0:09] hop)
+[0:09] pdate
+[0:09] 9२४
+[0:10] lonkshop)
+[0:10] ied
+[0:14] E oo
+[0:14] mation fr roth
+[0:14 - 0:15] Special ese somaion
+[0:15] ation forgot
+[0:15] wes
+[0:15] cal ja
+[0:16] al ore sarin
+[0:17] 8२४
+[0:17] igo
+[0:18] mae
+[0:18] ain
+[0:21] eat
+[0:21] te F
+[0:22] 4 श्र
+[0:22] हैक

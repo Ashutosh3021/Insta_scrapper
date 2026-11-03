@@ -1,0 +1,278 @@
+# model: ggml-large-v3
+========================================================================
+[918] https://www.instagram.com/reel/DIJpns_BU26/
+STATUS: OK
+DURATION: 1:26   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] तुम्हारा exercise order is the reason your arms are lagging behind
+[0:02 - 0:06] तो गाईज ये हमारा पहला episode होने वाला है exercise programming series का
+[0:06 - 0:09] और आज हम बात करेंगे exercise order के बारे में
+[0:09 - 0:14] अभी exercise order बहुत बड़ा role play करता है कि कितना stimulus तुम अपने muscles को provide कर पाओगे
+[0:14 - 0:18] Now in order for you to understand what I am talking about you have to understand few things
+[0:18 - 0:25] जब भी तुम एक set perform करते हो हर एक next set पे muscle को मिलने वाला stimulus कम होते जाता है
+[0:25 - 0:30] मतलब अगर तुम तुमारा workout start करते हो bench press से और end करते हो lateral raises के साथ
+[0:30 - 0:36] तो end तक fatigue होने की वज़े से lateral raises में उतना stimulus नहीं मिलेगा जितना मिलना चाहिए
+[0:36 - 0:41] fatigue जैसे जैसे accumulate होता है the ability to generate mechanical tension also reduces
+[0:41 - 0:45] भी ये याद रखना की mechanical tension is what causes muscle growth
+[0:45 - 0:51] so if you want to grow efficiently you have to set the exercise order in such way where it meets your specific goals
+[0:51 - 0:56] एक common complaint जो लोग मुझे देते है एक भाई मेरे arms grow नहीं हो रहे
+[0:56 - 0:59] especially जब वो push-pull leg split follow करते है
+[0:59 - 1:02] जब भी I review their program their program looks exactly like this
+[1:02 - 1:06] अब जब तक तुम tricep पे पहुसते हो तुम already fatigue हो चुके हो
+[1:06 - 1:09] because of how things are programmed in a push-pull leg split
+[1:09 - 1:12] tricep never gets the kind of stimulus which it requires
+[1:12 - 1:15] the solution is very simple here
+[1:15 - 1:18] if your priority is to grow your triceps you have to hit them first
+[1:18 - 1:21] this goes with every single muscle group
+[1:21 - 1:24] what gets hit first will get the most amount of stimulus
+[1:24 - 1:25] so yeah I hope that helps far far more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ial
+[0:00 - 0:01] tumhara ‘exercise order is
+[0:00 - 0:02] Your Exercise order
+[0:00 - 0:02] ee killing your ज्कु
+[0:01] the reason
+[0:02] ier
+[0:02] Bi 2 *
+[0:02] your arms are lagging
+[0:03] STV \
+[0:03] Bev
+[0:03] ee. program
+[0:03] A (Exei
+[0:03] orn हु अर (शत |
+[0:04] ERY
+[0:04] | Gao” ys
+[0:05] Rog famm
+[0:05] | 00०७0 जा
+[0:05] उतर
+[0:05] any
+[0:05] 3334
+[0:06] हा 6 Piegram
+[0:06] Ba be P74
+[0:06] क्र
+[0:08] . Exercise |
+[0:10] ५४ i
+[0:10] A Bice
+[0:11 - 0:12] lays)
+[0:11 - 0:12] ४ role:
+[0:11 - 0:13] Exe!
+[0:11 - 0:13] }. order
+[0:12] छः onder
+[0:13] Taysta
+[0:13] pangs Tole)
+[0:13] Ane €7
+[0:14] as mm
+[0:14] कक SN
+[0:14] a के.
+[0:15] हर ey
+[0:15] eo कहा
+[0:15 - 0:17] { \ Understan
+[0:16] vad = प्
+[0:16 - 0:17] \ " exercise)
+[0:17] Gad = प
+[0:18] बज है
+[0:18] veo
+[0:19] Each '
+[0:19] 3310
+[0:19] Provides le:
+[0:19 - 0:21] mulus}
+[0:20] rovices|icss Sunnis
+[0:20 - 0:21] Each comsecutive set
+[0:21] ॥0%/0 5 | ६55
+[0:21] 36112 0.75 AU ofstinmus
+[0:21 - 0:22] Example)
+[0:21 - 0:22] oe Sete
+[0:21 - 0:22] AU Gi
+[0:22] IEachiconsecutiv
+[0:22] rovickesiless summits
+[0:22 - 0:23] Sis 0.75 AU ofstimus
+[0:23] less}
+[0:23] a सम 1
+[0:23] 3520011[01९,
+[0:23] Set 1 (211
+[0:23 - 0:24] Each Gonsscuniive set
+[0:24] essstimulus
+[0:24] art
+[0:24] आल f
+[0:24] imple,
+[0:24] seul
+[0:24] Sais 0.75 AU 1 511111॥15]
+[0:26] If yours |
+[0:26] <a pres:
+[0:27] If yours sta 4 fi
+[0:27] \Be hp
+[0:28] | r pre:
+[0:28] 01518 hea ith
+[0:29] Eateral
+[0:29] yaar,
+[0:29 - 0:30] r, aay eA
+[0:30] fi with
+[0:30] Eateralraise
+[0:31] Ending with
+[0:31] ieraljraise
+[0:31] Tay =A
+[0:32] lyr
+[0:32] चक्र
+[0:33] Kine os we née
+[0:33] Teed
+[0:33 - 0:34] ldn’t create the
+[0:34] kinds
+[0:34] f stimulus we need
+[0:35] | i. create thi
+[0:35] indies smyulus wen
+[0:35] Tacs
+[0:36] ast
+[0:36] Vee
+[0:37] Ree
+[0:37 - 0:38] less, Bn
+[0:37 - 0:41] i fatigued
+[0:37 - 0:43] hanical tension
+[0:38] haa fatigued
+[0:38] <a Va
+[0:38] rary
+[0:38] डंडा
+[0:39] है जे
+[0:39] Sia
+[0:40] iT ia
+[0:40] less ime
+[0:40] i rR cater
+[0:40] ia FF
+[0:41] less, fd
+[0:41] yy 4
+[0:42 - 0:43] ned
+[0:43] aia a
+[0:44] lapel tep
+[0:44] SION)
+[0:44] SY | ci
+[0:44] क्र
+[0:45] i oA
+[0:46] ।ज बा
+[0:46] I] रद
+[0:46] wm बे
+[0:46] 0 if Yor
+[0:46] Saks Sy
+[0:46] nae
+[0:47] SS बन
+[0:47] you have
+[0:48] yi हि
+[0:48 - 0:50] Sale Sy
+[0:49] IK ict ordenshould
+[0:49] 522]
+[0:49] = you hi
+[0:49] order ii
+[0:49] t tI
+[0:49] psy.
+[0:49 - 0:51] Speciticfgoal: Is
+[0:50] 0. जन
+[0:50] Exercis
+[0:50] i हज,
+[0:50] / अली.
+[0:50] क्र
+[0:50 - 0:52] where it
+[0:51] Bit
+[0:51] पा eee ordenshould
+[0:51] YOUR
+[0:51] igi
+[0:51] ल्‍्ण्
+[0:51] ॥8 ay
+[0:51] where itini
+[0:51] eific
+[0:51 - 0:52] goals a
+[0:52 - 0:53] your specific
+[0:52 - 0:58] Common complaint
+[0:53] sue
+[0:53] ak ७
+[0:53] pry
+[0:53] where it me
+[0:53] —.goals a col
+[0:53] है complaint
+[0:53] बह! धृ
+[0:54] moplaint
+[0:54] jeer:
+[0:54] a नली
+[0:55] ~ IGS
+[0:55] aby
+[0:55 - 0:58] “| can’t grow my arms = \
+[0:57] igh
+[0:57] पी by
+[0:57] ak Lo
+[0:57] Pay
+[0:57] _ Specially ts |
+[0:58] Ona a
+[0:58] ~ IGS
+[0:58] dey 4
+[0:58] leg Spit | |
+[0:58] क्ष
+[0:59] हु Fa
+[0:59] ५26५
+[1:00] nfl
+[1:01] the.prograrn क्
+[1:01] lip
+[1:03] Push 1:
+[1:03] Barbell Bench 3x6-10
+[1:03] Incline dumbbell 3x6-10
+[1:03] Pec fly 3 sets of 6-10]
+[1:03] Shoulder press 3x6~10
+[1:03] Lateral raise 3x15
+[1:03] Tricep push down 3x12-15
+[1:03] Skull crushers 3x12-15
+[1:03] pom
+[1:04] mee i
+[1:04] andithis many,
+[1:04] a rf
+[1:04] Ags
+[1:04] me हे
+[1:04] 7 aba
+[1:05] andithis 4;
+[1:05] ‘er 7
+[1:05] Se a AS
+[1:05] ool =
+[1:05] to tricép
+[1:05] already
+[1:06] Pr bi
+[1:06] With ‘a \
+[1:06] and'this sy)
+[1:06] 5 422
+[1:06] Hoc
+[1:07] apes
+[1:07] WEE
+[1:07 - 1:12] Push 1:
+[1:07 - 1:12] Barbell Bench 3x6-10
+[1:07 - 1:12] Incline dumbbell 3x6-10
+[1:07 - 1:12] Pec fly 3 sets of 6-10
+[1:07 - 1:12] ‘Shoulder press 3x6-10
+[1:07 - 1:12] Lateral raise 3x15
+[1:07 - 1:12] Tricep push down 3x12-15
+[1:07 - 1:12] ‘Skull crushers 3x12-15
+[1:08] rari
+[1:08 - 1:09] aja
+[1:10] 15 5;
+[1:10] Stee
+[1:10 - 1:11] apie at
+[1:12] श्ल
+[1:13] Wh: ih
+[1:14] Wh: hy
+[1:16] if youPenBrity is to grow
+[1:18] है ake have.to ¥
+[1:18] yl ityfirst
+[1:18] you have (lees them fi .
+[1:19] this goes —
+[1:20] this goe: wer ary single
+[1:20] a पद
+[1:21] lus
+[1:21] wide.
+[1:21 - 1:23] a gets trained) first
+[1:21 - 1:23] Will get the
+[1:22] » pith: sal, wad
+[1:22] what gi
+[1:22 - 1:23] rie
+[1:22 - 1:23] most'stimulus
+[1:23] wil
+[1:23] 5 ७४४1० ge
+[1:23] I ak
+[1:24] rie (४० ८४
+[1:24] ge We
+[1:25] s6-hope that helps follow

@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[840] https://www.instagram.com/reel/DLPyeAStHlV/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] मैंना कभी भी leg curls मारने का सोचता हूँ ना
+[0:02 - 0:03] The first thing I think about is
+[0:03 - 0:06] क्या Mike Izzetel मेरे साथ leg curls मार रहा है
+[0:06 - 0:08] What if in another universe
+[0:08 - 0:10] Me and Mike Izzetel
+[0:10 - 0:12] Are doing leg curls at the same time
+[0:12 - 0:13] Eccentric
+[0:13 - 0:15] Stretch, stretch, stretch, stretch
+[0:30 - 0:43] Thank you for watching
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Bvhen Iwas
+[0:00 - 0:03] Mike Miuitiverse
+[0:01] प्र
+[0:01] Marne
+[0:01 - 0:02] wre.
+[0:02 - 0:03] Marne Ke sasta the first
+[0:03] thing | think about
+[0:04] ill
+[0:05] Pee
+[0:06] like curls Mar raha
+[0:09] | इक हे
+[0:09] a है
+[0:10] नली
+[0:11] पु os
+[0:11] " ४ ike
+[0:12] sox
+[0:12] are doing like curls at the
+[0:12] same time
+[0:13] Ser व f
+[0:13] decent trick
+[0:14] Sor 3 ae
+[0:14 - 0:15] decent trick stretch stretch
+[0:15] a है
+[0:15] ‘dec
+[0:15] stretch stretch
+[0:17] b ej
+[0:18] ej 7
+[0:20] ae 4
+[0:20] ४ at
+[0:22] dor
+[0:22] L se
+[0:22] ee 7
+[0:22] ome
+[0:23] ib6yo accunacy)
+[0:23] - EERE
+[0:24] ७३7) &
+[0:24] Cah
+[0:25] ms 2
+[0:25] = Ave
+[0:26] हें
+[0:28] Ave ॥
+[0:30] O94
+[0:32] - Sere
+[0:32] soll
+[0:33] किए ag
+[0:33] हे 2“
+[0:35] h oh,
+[0:35] ee ५
+[0:36] ५ rj
+[0:36] १1% eS जज
+[0:37] Ses
+[0:38] 1 के
+[0:38] ५ है
+[0:38] te tl ‘tl
+[0:39] cabs =f\
+[0:39] हू a
+[0:40] “lege,
+[0:40] | nal
+[0:42] VA है |

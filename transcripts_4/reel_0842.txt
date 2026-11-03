@@ -1,0 +1,192 @@
+# model: ggml-large-v3
+========================================================================
+[842] https://www.instagram.com/reel/DLKoMU1tvbf/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Stable, stable, stable, stable, go, one more, one more, one more, push, push, push, push,
+[0:06 - 0:07] rack.
+[0:07 - 0:11] What I was seeing was there was like an inconsistency in the range of motion, like we are coming
+[0:11 - 0:17] till here in one rep and here on the other rep, instead of doing that, just put it at
+[0:17 - 0:21] somewhere where you want it to be stable and just dead stop, basically if you're let's
+[0:21 - 0:31] say performing a movement, so it stops here, till the time this stack comes down, let's
+[0:31 - 0:37] say it's here, now the moment the stack comes down, it's already down, so for example
+[0:37 - 0:44] if I'm using a D handle or something, this should be a better representation, by the
+[0:44 - 0:50] time I come down and come up, this will every time, the moment I hit this, this will standardize
+[0:50 - 0:51] the range of motion.
+[0:51 - 0:55] Because at the end of the day, I just have to come here and it will stop it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] il at
+[0:01] चल ie
+[0:01] ani
+[0:01] le किक
+[0:02] wal
+[0:05] BY= x
+[0:05] eeu if
+[0:05] Ani
+[0:06] (है, a
+[0:07] “what
+[0:07] ef a -
+[0:08] ere
+[0:08] CY) ee
+[0:09] inconsis'
+[0:09] ofa -
+[0:09 - 0:12] like
+[0:10] like call
+[0:10] incol
+[0:10] in the
+[0:10] tion
+[0:11] al ching
+[0:11] ef a -_
+[0:12] ॥ Ul ims
+[0:12] al 0७
+[0:13] and here
+[0:14] ब्द्ल्-
+[0:14] ili
+[0:14] 42 a
+[0:14] inst
+[0:15] ४3 (॥ है
+[0:15] Icey
+[0:15] ages
+[0:15] WIS &
+[0:15 - 0:16] just
+[0:16] AUS ||
+[0:17] tee
+[0:17] Aas.
+[0:17] just put if at |
+[0:17] eof ०
+[0:18] wee
+[0:18] पे fori ageaeee”
+[0:19] and just.
+[0:20] fet
+[0:20] CY ae
+[0:21] ww 1
+[0:21] ef «a =
+[0:21 - 0:22] if you're rl F
+[0:22] id, 73
+[0:22] alt
+[0:22 - 0:23] “ies
+[0:23] a th)
+[0:24] 1 Veer
+[0:24] Cima
+[0:24] bent
+[0:24] pale
+[0:24] 4) कद
+[0:25] lie
+[0:25 - 0:26] VOL Veeny
+[0:26] Ke 45
+[0:26] श्पै it
+[0:26] por
+[0:27] \Wol eR
+[0:27] Ni "Gey
+[0:27] Ei =e
+[0:27] जा ae
+[0:28] ani:
+[0:28] feat E
+[0:29] i oe
+[0:29] so let tiff " the tii
+[0:29] Bois.
+[0:30] 5 43 «4
+[0:30] sol
+[0:30] ॥ the ti
+[0:31] iit f
+[0:31] Ne A
+[0:31] Zw 7 =
+[0:32] Mol Veen
+[0:32] Vat
+[0:32] oS t's hi
+[0:32] Bots |
+[0:33] ol WERIN
+[0:33] हट 2
+[0:34] a it
+[0:34] Varn
+[0:34] N72
+[0:34] i nowii the: joment ti
+[0:34] | > Bn है
+[0:35] ब्ल्न्-
+[0:35] 60३
+[0:35] ‘it's
+[0:35] RPL
+[0:36] > म अलइक..
+[0:36] Fat a
+[0:36] | re siigedy down ae —_
+[0:36] poe
+[0:37] LO, Veen,
+[0:37] के आजा
+[0:37] aan}
+[0:37] soir
+[0:37] ample
+[0:38] ey मा
+[0:38] 50 for &xa
+[0:39] 50 for example if I'm.
+[0:39] or something
+[0:40] sage
+[0:40] | thi
+[0:40] she |
+[0:40] 1.० ७
+[0:41] ae is =
+[0:41] this'sh
+[0:41] id be a
+[0:41] pon
+[0:42] बता
+[0:42] ५७५),
+[0:42] 11901
+[0:42] OD ats
+[0:42] esi ol
+[0:42] pom
+[0:43] “iis
+[0:44] ail
+[0:44] ॥0080॥
+[0:44] ५ like *
+[0:44] Botan
+[0:45] yp ul
+[0:45] vent
+[0:45] ihe
+[0:45] Jal
+[0:45] like Tr 1८०
+[0:45] pen
+[0:45 - 0:49] ब्द्ल्ट-
+[0:46] yp पा
+[0:46] ५७०४
+[0:46] ! (mao
+[0:46] like by'the|time | ८०
+[0:46] come एप
+[0:46] pon
+[0:47] eet
+[0:47] EIA oa
+[0:47] Ske"
+[0:47] pa ALR:
+[0:48] I every ti
+[0:48 - 0:49] ep पा
+[0:49] awe
+[0:49] like'this
+[0:49] int | hit ti
+[0:49] ll every ei
+[0:50] wees
+[0:50] eS ~ aa
+[0:50] | this
+[0:50] ill standardi:
+[0:51] A il
+[0:51] (Vit
+[0:51] Ned
+[0:51] this will stlihordh
+[0:51] range of motion —
+[0:51] > | Lene
+[0:51] ee ee
+[0:52] iL Tl
+[0:53] ब्त्ल्-
+[0:53] per
+[0:53] eine
+[0:54] हु Lz
+[0:54] ave’
+[0:54] el eer
+[0:54] Dies
+[0:55] Ja =z
+[0:55] lh il gaol
+[0:56] ब्द्ल-
+[0:56] eae!
+[0:56] a er 8
+[0:56] कै | ies

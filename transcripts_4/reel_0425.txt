@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[425] https://www.instagram.com/reel/DW1Eo_6DBm0/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Straight back home to you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] SS की
+[0:00] चलन मनन“ कह.
+[0:00 - 0:02] 2561 Chest
+[0:01] आता
+[0:01 - 0:03] set Chest
+[0:02] Ce ae
+[0:03] ee कस
+[0:03] bil
+[0:04] een ।
+[0:04] gem
+[0:04] Ne U
+[0:04 - 0:05] repirange
+[0:05] cient
+[0:05 - 0:06] rene
+[0:06] a ae
+[0:06] | the
+[0:06] tof
+[0:06] smith
+[0:06] 4-10 (0, 3 range
+[0:07] free
+[0:08] ent
+[0:08] smi
+[0:08] ANY
+[0:09] fipec fly, a
+[0:10] ofipec.tly
+[0:10] 7 ksst
+[0:10] esp
+[0:10 - 0:11] 4-10 re
+[0:11] / kt ofipec 100.
+[0:11] Liq
+[0:12 - 0:14] fipec tli
+[0:13] Jkt ofipecfly ५
+[0:13] | रे - Ni
+[0:13] \y AN

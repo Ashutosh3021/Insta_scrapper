@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[899] https://www.instagram.com/reel/DI4ESNMMDM8/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:22] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] / intensity 7.
+[0:00] a AXA
+[0:00] ON a
+[0:01] lie:
+[0:01] ENS A
+[0:01] A CO
+[0:01] lags
+[0:01] eta --८%हत.. सा
+[0:02] les
+[0:02] 790 ॥
+[0:02] ओह के r
+[0:03] le पी
+[0:03] 1 आन
+[0:03 - 0:11] “intensity की
+[0:04] wales)
+[0:06 - 0:07] क्ष०
+[0:08] कष्ट
+[0:12] ii an
+[0:13] 1, images “
+[0:15] ’ iftensity" जे
+[0:16] yo जे
+[0:18] iy 4
+[0:18] F ig
+[0:19] esi
+[0:20 - 0:21] intensity +

@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[568] https://www.instagram.com/reel/DTyEfjxDI9x/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Я искал тебя, хотела, плакал под луной
+[0:07 - 0:15] Я искал тебя, хотела, плакал под луной
+[0:15 - 0:21] Я искал тебя, хотела, плакал под луной
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Whe
+[0:00 - 0:01] ill people
+[0:00 - 0:01] understand that
+[0:01] 14६
+[0:02] | Strengh
+[0:02] thainifig do
+[0:02 - 0:03] | right
+[0:03] Strenght training io
+[0:03] vif
+[0:04] Is fi
+[0:04] tic
+[0:05] iy MN
+[0:06] ८33:
+[0:06] Is एव
+[0:07] Cha
+[0:07] “1 funoti
+[0:07] j S re N
+[0:08] SSS SS ५८२५5
+[0:08] ail
+[0:08] ‘ Is a
+[0:08] ris:
+[0:09] ral
+[0:09] is fungtional
+[0:09] mir
+[0:10] al i =
+[0:10] yon
+[0:12] 1 101
+[0:12] onal]
+[0:13] mCP
+[0:13] | ता 0
+[0:14] Is functi
+[0:15] हर 1014॥018॥
+[0:16] Ae ctional
+[0:17] sfumetional)
+[0:18] ils
+[0:19] ii un
+[0:20] ii in

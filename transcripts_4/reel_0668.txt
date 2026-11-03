@@ -1,0 +1,210 @@
+# model: ggml-large-v3
+========================================================================
+[668] https://www.instagram.com/reel/DRAbnokjAec/
+STATUS: OK
+DURATION: 1:45   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] होता है जितना मरजी उतना पीओ अब तो रिसर्च में भी प्रूव हो गया है कि इससे कैंसर नहीं होता समझे भाई
+[0:06 - 0:11] ने बोला कैंसर नहीं होता रिसर्च में भी मता दिया गया बट उसके अलावा क्या होता है वह मैं आपको बताता
+[0:11 - 0:11] हूं जब आप डाइट को पीते हो
+[0:11 - 0:28] जब आप diet को पीते हो, aspartame, acesulfame, जैसे artificial sweetener जब आपके tongue पे लगते हैं, तो यहाँ पे आपका होता है sensory nervous system, यह brain को signal देता है, यह बईया sugar आया है, brain क्या करता है, insulin भेजता है, और यहाँ पे insulin को क्या मिलता है, chiro sugar, यानि कि एक तरीके से आप अपने ecosystem का,
+[0:41 - 1:08] glucose level, in healthy people, it's not supposed to give a spike, Siddharth in his comment says that, he's just showing the science, but the science itself is wrong, see diet coke पीना तो पीओ, it's not that deep, and I don't wanna be that guy, but dude, stop chat GPT-ing everything man, this is so bad, like it's embarrassing for people, honestly like, your audience watches you for you, and you're replying with chat GPT to every single comments, it's like, it's not even you at that point,
+[1:08 - 1:37] throughout of my whole fitness content creation journey, I've probably used like GPT like one to two times, and that too because I was just starting out, and उसके बाद I just stopped, you see, chat GPT is gonna confirm your bias, chat GPT loves confirming your bias, it will literally agree with you, anyways guys, you guys can definitely use artificial sweeteners, there's nothing wrong with it, it's not gonna cause insulin resistance, or it's not gonna do a blood glucose crash,
+[1:37 - 1:44] now, now some guy who's built like a box is gonna stitch this video and be like, oh, actually causes cancer, so yeah, anyways, hope that I'll talk more.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Pal
+[0:00] aS lt,
+[0:00 - 0:01] ming
+[0:00 - 0:04] Zero calorie drinks: for fat loss...
+[0:01] Stitchiin
+[0:01] हक लो
+[0:02] ks for fat loss...
+[0:02] Mea)
+[0:02] pcre १४
+[0:02 - 0:04] ‘oming '
+[0:03] Stitchyineom ng)
+[0:03] Ke RK
+[0:04] Stitchine
+[0:04] (९16
+[0:06] a imcoming
+[0:06] nal
+[0:07] Ton
+[0:07 - 0:11] 4 incoming
+[0:08] ‘ook Gal
+[0:09] lee
+[0:10] o mein aap
+[0:10] za wr
+[0:11] dis 4
+[0:11] Wy istwokd y4r
+[0:13] in 7
+[0:13] eed
+[0:16] डे ae
+[0:16] mn ee
+[0:22] छाओं।
+[0:23] z 15 a
+[0:24] Fone
+[0:24 - 0:25] 3 insulin
+[0:25] Niel
+[0:26] af Dre
+[0:26] BS en
+[0:28] dys
+[0:29] ecosystem this is
+[0:30] ecosystilffthisis not
+[0:30] ‘true
+[0:32] हक +5
+[0:32] न का के
+[0:33] yy 4
+[0:33] that when we
+[0:33] rch we
+[0:34] paper
+[0:34] people with aSpartame
+[0:35] ‘at we
+[0:36] really seegmpkind
+[0:37] ५ aut’
+[0:37] really seeany kind of
+[0:37] spike in
+[0:38] What we
+[0:39] ५४४
+[0:39] uh on
+[0:39] ge wee don't see
+[0:40] है yA
+[0:40] all’
+[0:41] glucose
+[0:42] ms‘: 2
+[0:43] Neg
+[0:43] 90 ;*7 f
+[0:43] In healthiypeople
+[0:44] 5] Ar हे
+[0:45] aay
+[0:46] i कक
+[0:46] Siddhat
+[0:46] comments
+[0:46 - 0:48] people want to acknowledge it or not.
+[0:46 - 0:48] I'm only explaining the science. What
+[0:46 - 0:48] people choose to do with it is entirely
+[0:46 - 0:48] up to them. 56s
+[0:46 - 0:48] © Reply
+[0:47] just showing
+[0:48] in 2
+[0:48] just showing the science
+[0:49] कि y4s 2
+[0:49] science itselfis
+[0:50] ray
+[0:50] Ayr
+[0:50] See हल
+[0:51] 5०० di8€€0ke peanut
+[0:51] opioid
+[0:52] Das
+[0:52] ee r
+[0:52] deep बा
+[0:53] SS 4
+[0:53] 3g x
+[0:53] yar
+[0:53] deep गाव मा
+[0:54] Bar
+[0:55] guy butigude stop
+[0:56] Ans,
+[0:56] GPTint
+[0:56] guy EMRE stop chat
+[0:57] imple
+[0:57] itand than
+[0:57] this
+[0:57 - 0:58] ४० 9
+[0:57 - 0:58] ng fact
+[0:57 - 0:59] Let
+[0:57 - 0:59] Stitch
+[0:57 - 0:59] ging hi
+[0:57 - 0:59] vm not
+[0:57 - 0:59] and nn
+[0:57 - 0:59] ering. My
+[0:57 - 0:59] kine
+[0:57 - 0:59] entra
+[0:57 - 0:59] tion, ७५९ ७
+[0:57 - 0:59] lke it
+[0:57 - 0:59] your text “Diet Coke"
+[0:57 - 0:59] show signs of Al generation
+[0:58] points
+[0:58] tin contro
+[0:58] this is squad like
+[0:58 - 0:59] ple
+[0:58 - 0:59] ॥ 864 than
+[0:59] 1०9 fact
+[0:59] embarrassing for
+[1:00] for peopl
+[1:01] sg i
+[1:01] audience
+[1:02] audience Watches
+[1:03] ४ जे
+[1:03] 195-
+[1:03] Dir.
+[1:03] ches you for
+[1:03] 0 and
+[1:04] pty 4
+[1:04] youre! ply
+[1:05] है. 52
+[1:05] Bi4r
+[1:05] je replying with chat
+[1:06] Bur ४
+[1:06] ‘uae
+[1:07] It's \e
+[1:09] ag, ४
+[1:09] a out of
+[1:10] fie ~
+[1:10] Twoout ofmy whole
+[1:10] fitness content
+[1:11] sla:
+[1:11] journey.
+[1:13] Pie
+[1:13 - 1:14] I probably used like GPT
+[1:14] श्रम
+[1:15] eer
+[1:16] bac
+[1:16] Mur
+[1:16] अप too
+[1:17] jeg ou
+[1:18] shin out and
+[1:18] just
+[1:19] i “x 2
+[1:19] 5; hi Cd
+[1:20] rie
+[1:21] कान
+[1:21] confirm
+[1:21 - 1:22] See chat GPT is goingto
+[1:22] confirm your bias.
+[1:23] हे ५
+[1:23] chat apr
+[1:24] ver
+[1:24] tnd
+[1:24] Chat GPT loves
+[1:24] confirming
+[1:26] had
+[1:26] ae, 5:
+[1:26] It willliterally agree
+[1:27] Rar a
+[1:27] Anyways
+[1:28] ९: है
+[1:28] Anyways guys, you guys
+[1:28] can definitely
+[1:29] Ay, 4
+[1:30] there
+[1:31] nothing wrong with
+[1:32] te 4
+[1:32] It's
+[1:33] By, 4
+[1:34] ee j
+[1:35] itisnot.goingto do
+[1:37] पे श्र
+[1:37] 528. 3
+[1:37] now
+[1:38] a6 ९
+[1:38] noi - who's bit
+[1:39] og पु
+[1:39] wis
+[1:40] Hox.
+[1:40] stitch this video and
+[1:42] oha oe causes
+[1:44] Bie +
+[1:44] So yeahjanywaysshope

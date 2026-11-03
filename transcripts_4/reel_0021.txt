@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[21] https://www.instagram.com/reel/Deu5vz9sycz/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: ko
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] ♪ Only only only only only only ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Noo
+[0:00] awe
+[0:00 - 0:02] No one'in this plane knows
+[0:00 - 0:03] & What FBEODis
+[0:01] “her
+[0:02] “eer
+[0:03] ‘tht
+[0:03] lan
+[0:04] का. in
+[0:04] What Fi Healy is,
+[0:04] evant
+[0:05] plem
+[0:05] BEODIis)
+[0:05] oad
+[0:05 - 0:07] Noone in
+[0:06] ane)
+[0:06] she
+[0:06] a बे
+[0:06 - 0:07] What:
+[0:07] 10/0)
+[0:08] Nojonelin this}
+[0:08] WhatiBEODIis}

@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[227] https://www.instagram.com/reel/DbGEVaNsyjr/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] just a reminder this is not a muscle it's called your thoracolumbar fascia fascia or whatever bro
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] back exercises ?
+[0:00] Replying to abed_xyz.n
+[0:00 - 0:01] When will you do Lower
+[0:01] back
+[0:01] Keo
+[0:02] ७4223
+[0:02] he पक
+[0:05 - 0:06] ‘THORACOLUMBAR FASCIA
+[0:06] ‘this
+[0:06] fondant
+[0:06] gon
+[0:06] SCA

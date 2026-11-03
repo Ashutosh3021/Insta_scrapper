@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[512] https://www.instagram.com/reel/DVIsJRAjBxO/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] guy over there doing what is this what is this form if you guys do you guys see this form this
+[0:04 - 0:09] is so dog shit these bro lifters need to stop and instead of doing a vertical shrug you know
+[0:09 - 0:11] what they need to do they need to do a calc
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] her
+[0:00] fi. ०
+[0:00 - 0:10] need (० stop
+[0:00 - 0:10] - Se is not optimal
+[0:00 - 0:11] These bro lifters
+[0:01] है) ६
+[0:01] 334
+[0:01] “प्र
+[0:01] 4 aS
+[0:01] > com
+[0:01] tis
+[0:01] खनन
+[0:03] ता Se,
+[0:03] Rell |
+[0:03] a aa
+[0:03] wee
+[0:04] बल्ब
+[0:04] (है I
+[0:04] 5) Cy
+[0:04] see this this
+[0:04] == isso
+[0:05] 1688 (० stop
+[0:05] अर Ss,
+[0:05] हैः
+[0:05] 9, के
+[0:05] 334
+[0:05] Md hn
+[0:05] shit th
+[0:05] tla
+[0:06] eal श्र
+[0:06 - 0:07] जनक
+[0:07] | ॥ tosto
+[0:08] tead of i.)
+[0:08] wet’
+[0:09] _ अेड
+[0:09] ee अआ
+[0:10] boll!
+[0:10] ही 4d
+[0:10] ~ shrub ५
+[0:10] Aad
+[0:10] need
+[0:10] Oe aa
+[0:11] need EB sto
+[0:11] 1 is

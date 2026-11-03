@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[452] https://www.instagram.com/reel/DWWpvXrDDKz/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I can see it in your eyes that you wanna get out
+[0:04 - 0:08] I can see it in your eyes that you need it right now
+[0:08 - 0:09] That you need it right now
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] uys
+[0:00] Illost
+[0:00 - 0:02] theldebate
+[0:01] lest
+[0:01] ele
+[0:01] ate
+[0:01] 4Vi
+[0:01] ail
+[0:02 - 0:05] se es
+[0:03] se के
+[0:03] chanical reat 180
+[0:03] ७5. [06/1018/3|1910186 @
+[0:03 - 0:08] theldebate
+[0:04] Van J
+[0:04] Jebate
+[0:04] क्र
+[0:04 - 0:09] echanical tension is cre
+[0:04 - 0:09] ~~ peripheralfatigue $ 6 sit
+[0:05] sti
+[0:05] Abi?
+[0:05] ITI
+[0:06] _ peripheralfatigque $ $ 4 ४४5
+[0:07] UVS
+[0:07] lost
+[0:07] se के
+[0:07] vin
+[0:07 - 0:09] the)
+[0:08] Uys
+[0:08] ted
+[0:08 - 0:09] के के के
+[0:09] Res;
+[0:09] dlby;

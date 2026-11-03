@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[700] https://www.instagram.com/reel/DQR-omvjOSk/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:22] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ce ee
+[0:00 - 0:04] कर How to maximize
+[0:00 - 0:04] hamstring growth >
+[0:02] श्र
+[0:03] bli
+[0:03] How —_ maximize A
+[0:05 - 0:09] Nhing
+[0:06] 1१०७४
+[0:07] ७ ASNhing
+[0:08] वि न
+[0:09] 10५
+[0:09] ith
+[0:09] 135
+[0:09] ell
+[0:10] श्र ==
+[0:11] CUA
+[0:12] Seatedllegicu
+[0:13] "o leg +
+[0:14] lad >
+[0:14] ox al I
+[0:15] Seatedllegic,
+[0:15] unl
+[0:16] te cunl
+[0:16] Awe
+[0:16] ba b
+[0:16] हि ail
+[0:17] ile
+[0:17] gicun|
+[0:17] mee 9
+[0:18] rey ९
+[0:18] unl |
+[0:18] et ded
+[0:19] c ZZ
+[0:19] re legicur|
+[0:20] J rad b
+[0:20 - 0:21] kg legicunl
+[0:21] 1! ! है

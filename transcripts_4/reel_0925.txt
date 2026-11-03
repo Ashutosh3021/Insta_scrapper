@@ -1,0 +1,184 @@
+# model: ggml-large-v3
+========================================================================
+[925] https://www.instagram.com/reel/DHyNFkYhF7o/
+STATUS: OK
+DURATION: 1:15   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Death stops are everywhere right now, but are they optimal? Should you really use them?
+[0:03 - 0:08] Now most people don't really have an idea about death stops, so they end up just slamming the weights down.
+[0:08 - 0:17] Death stop basically होता है, you basically do not control the eccentric, you have a minimal control, enough कि free fall ना हो, and you just push the concentric.
+[0:17 - 0:24] जैसे ही weight reset होता है, you explode back up, now what this does is this cancels out the stretch shortening cycle, puts more force on your muscle.
+[0:24 - 0:29] Now this specifically benefits in two specific ways, one it reduces the amount of fatigue which is generated,
+[0:29 - 0:32] two it reduces the amount of muscle damage which is going to be occurring,
+[0:32 - 0:35] which in turn helps us get that one to two extra stimulative reps which we need.
+[0:35 - 0:39] Now this all sounds good कि भाई मैं जादा वॉल्यूम कर सकता हूँ, I can get more stimulative reps and right?
+[0:39 - 0:44] अभी यहाँ पे आते हम दो प्रॉब्लम्स पे, अभी सारे एक्सेजेजे डेथ स्टॉप से बेनिफिट नहीं करने वाले,
+[0:44 - 0:49] पर एक्जांपर अगर हम लाट पूल डाउन को देखेंगे, लाट की लेवरेज 120 के ऊपर लूज हो जाती है,
+[0:49 - 0:51] so we don't really need to do a dead stop over there.
+[0:51 - 0:55] अगर similarly अगर हम leg extensions को देखेंगे, quads की leverage throw out होती है,
+[0:55 - 0:57] तो we can perform dead stops over there.
+[0:57 - 1:00] Problem number two, this is the most important problem,
+[1:00 - 1:02] even with minimal control you still will make some noise,
+[1:02 - 1:08] and dead stops will be loud and gym owners will probably not be happy with you slamming down weights.
+[1:08 - 1:12] तुमारी gym allow करती है, you can do it, but if your gym doesn't allow it,
+[1:12 - 1:14] I don't think it's worth risking that thing, bro.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] (Ne cdeacktops optimal?
+[0:00] id stops
+[0:01] opt
+[0:01] are
+[0:01] id,stops are eve:
+[0:01] right now
+[0:02] \ Ave deadstopsigottinkle
+[0:02] but
+[0:02] hey optimal ~~ |
+[0:03] GeadStops optimal?
+[0:03] ie they optimal should
+[0:03] ryou really
+[0:05] peak
+[0:05] eople don't re:
+[0:05 - 0:07] Deackstops
+[0:06] ॥८00910[05
+[0:06] Vat
+[0:06] ple don't reall:
+[0:06] lea about deai
+[0:06] stops
+[0:07] Unelerstane
+[0:07] 117
+[0:07] 913
+[0:07] So at the end
+[0:08] eel
+[0:08] This ain’t it
+[0:08] 519
+[0:08] ig the weights
+[0:08] the end of just, 'y'
+[0:10] ass
+[0:10] Som
+[0:10 - 0:11] 0. Deadstopping *
+[0:10 - 0:16] ke. this, J
+[0:11] fiery
+[0:11] his
+[0:11] ण्छूछ
+[0:11 - 0:12] a 7S
+[0:12] ically.
+[0:12] the eccen'
+[0:13] a “Gy
+[0:13] Someth
+[0:13] ket
+[0:13] a mini
+[0:14] प्र
+[0:14] १ ४:1५
+[0:14] “tp 2
+[0:14 - 0:16] key हि
+[0:15] Som
+[0:15] his
+[0:16] omet
+[0:16] ingili
+[0:16] __. Deadstopping *
+[0:16] just
+[0:18] का |e
+[0:19] ehi weight reset
+[0:19] you explode
+[0:20] ) हूछ
+[0:20] that this
+[0:21] णीड्ड्ठ
+[0:21] hat this does
+[0:21] els
+[0:22] off
+[0:22] wal
+[0:22 - 0:23] SSC
+[0:23] jing cycle putsif
+[0:24] haa 4
+[0:25] 1080)
+[0:25] Benefits’ ‘
+[0:25] 1 les
+[0:25] ह ऋरछ
+[0:25] लाना
+[0:25] mm 4
+[0:25] his spec
+[0:25] ally
+[0:25] afits °)
+[0:26] Duejto
+[0:26] Cad
+[0:26] am १
+[0:26] jis specificall
+[0:26] Bhefits ae
+[0:26] , + in two speci
+[0:27] Dueytolminimallecce
+[0:27] 1 Lessiiatigue
+[0:27] खनन
+[0:27] [श्र
+[0:27 - 0:29] ene fit
+[0:28] Dustomttinal coven
+[0:28] educes the ai
+[0:28] fatigue
+[0:29 - 0:30] Dueytolminimalleccentni
+[0:29 - 0:31] 1, Less
+[0:30] Bensits
+[0:30] essifatigue
+[0:30] =2.\ess muscle damage)
+[0:30] ३ the amount
+[0:30] nm ff
+[0:31] eccentric)
+[0:31] Bene
+[0:31] 220 2550
+[0:31] cle’dam:
+[0:31] nage’
+[0:31] amount of mus:
+[0:31] lage is going
+[0:32] Dus tontiinel coosntris
+[0:33] inturn helps us
+[0:36] need all thi:
+[0:37 - 0:38] क्र
+[0:40] aig
+[0:40] ela
+[0:41] ५ 7? हक
+[0:41] 5 ee
+[0:42] aoe]
+[0:42] otal exereisas will
+[0:42] Benefittfrom
+[0:42] ideadstopping}
+[0:42 - 0:43] (Weverage matters)
+[0:43] roblem
+[0:43] Eien adsto}
+[0:43] img)
+[0:45] - मानों
+[0:45 - 0:50] for example
+[0:47] pul-cowm
+[0:47 - 0:48] Fats)
+[0:48] pull?down|
+[0:49] On fet.
+[0:49 - 0:51] Lets
+[0:50] 11॥01,
+[0:50] tin a
+[0:51] pul-clowm
+[0:51] for exampl
+[0:52] aie
+[0:53] 62061 9108)
+[0:55] ies
+[0:57] Wegkex'
+[0:57] consions
+[0:57] a36
+[1:00] approvell
+[1:00] Gyn
+[1:00] fs 5
+[1:01] ae i
+[1:01] with minimal
+[1:01 - 1:02] Gym approval
+[1:02] ॥॥ will mi
+[1:03] |. jat dead
+[1:04] dead will be Ii
+[1:05] vas
+[1:05 - 1:06] d gym owners
+[1:06] not
+[1:07] Tra}
+[1:08] ‘ wn weights” \
+[1:09] ihari gym
+[1:13] 4 fon more
+[1:14] श्र for more
+[1:14] % n't think it's wort!
+[1:14] ing that
+[1:14] sib

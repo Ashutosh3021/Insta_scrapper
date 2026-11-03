@@ -1,0 +1,443 @@
+# model: ggml-large-v3
+========================================================================
+[690] https://www.instagram.com/reel/DQhSlzWjCA_/
+STATUS: OK
+DURATION: 2:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] i ordered all the flavors of ocean water and i'm gonna rank them from which is the best one and
+[0:05 - 0:10] which is the worst one so as you guys can see this is the lineup which we have over here the first
+[0:10 - 0:15] thing we are going to be starting from is this this is called orange and lime flavor
+[0:15 - 0:24] this is this is uh it tastes like tang this thing tastes like tang so i'm gonna rate it a four next
+[0:24 - 0:30] flavor we have is lively lychee flavor all right i've heard really good things about this flavor
+[0:30 - 0:31] i'm gonna give it a try
+[0:31 - 0:40] perfect dude this is so good this is so good i'm gonna give it a nine it tastes like it tastes
+[0:40 - 0:45] exactly like what do you think tastes exactly like lychee amazing and the next top contender
+[0:45 - 0:51] we have is guava i've heard a lot of good things about this as well so let's give it a try
+[0:54 - 1:01] i'm not gonna lie the lychee one is gonna rank on 10 so this is 10 out of 10 and this thing is
+[1:01 - 1:08] gonna rank as 7 out of 10 the guava one is good but not as good as the lychee one dude the lychee
+[1:08 - 1:15] one is just and the next flavor we have is strawberry i've heard bad reviews about this
+[1:15 - 1:19] a lot of you guys are tagging me in your stories and i'm getting like a bad review for this
+[1:19 - 1:24] i see why
+[1:24 - 1:32] this is ass this is 2 out of 10 this is very bad you know what it tastes like it tastes like if you
+[1:32 - 1:36] took cough syrup and you mixed it in water and some sugar that's what it tastes like it's bad
+[1:36 - 1:43] all right next contender we have is pineapple let's go i'm not gonna lie this is good the
+[1:43 - 1:48] pineapple one is pretty good compared to the guava one and the lychee one obviously the lychee one is
+[1:48 - 1:53] gonna be ranking first but there's like a draw between these two so i'm gonna give this like a
+[1:53 - 1:54] 7 out of 10
+[1:54 - 2:00] as well all right the next flavor we have is the peach passion flavor honestly you know
+[2:00 - 2:05] this goes a 8 out of 10. this is better than the guava one this is better than the pineapple one
+[2:05 - 2:11] this goes 8 out of 10. this is good but it's not beating the lychee though the final flavor which
+[2:11 - 2:19] we have is mango straight 10 straight 10. there's a draw between two there's a draw between lychee
+[2:19 - 2:24] and mango they both are so good i suggest you guys give these two a try
+[2:24 - 2:29] because these two are very good and please do not buy this shitty ass strawberry flavor it's
+[2:29 - 2:33] it tastes like cough syrup all right that is it for today hope that i'll talk more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हि 77 l
+[0:00] WEG
+[0:00] gamesm
+[0:00] red
+[0:01] L के
+[0:01] llorder,
+[0:01] alll
+[0:01] fave
+[0:01] Wap
+[0:01 - 0:03] niwater
+[0:02] Wocean water
+[0:03] Sina
+[0:03] titer)
+[0:03] : STRINg Hy
+[0:04] Wiiigames
+[0:04] hich is,
+[0:04] Thy
+[0:05] 9ू०0८2०४०४५४३४८
+[0:05] 5 games®
+[0:05] 5 एए
+[0:05] ee 15 the best
+[0:05] and
+[0:06] Ocea
+[0:06] m\water
+[0:07] 5035
+[0:07] = you! yauysiean ja
+[0:08] ७०७
+[0:08 - 0:09] e/a draft
+[0:09] Y, LET
+[0:09] whi over
+[0:10] आग्रह OUT
+[0:10] WORLONTOE:
+[0:10] : of पट
+[0:11] Mas
+[0:12] yes
+[0:12] Noe,
+[0:12 - 0:14] This is
+[0:13] a 3 नर
+[0:13] TRIE,
+[0:13] wor
+[0:13] allediona’
+[0:14] STRIDE OUT *
+[0:14] WORLDWIDE ©
+[0:14] andilime
+[0:14 - 0:16] range
+[0:14 - 0:18] “Orange & lime
+[0:15] Cea.
+[0:17] ae ene
+[0:17] moe
+[0:18] wei
+[0:18] SS ८7 जता
+[0:18] “te a
+[0:18] isthi
+[0:20] aE ees
+[0:20] ae: a) "रचा
+[0:20] tang
+[0:20] WORLINEE
+[0:20] litjtaste)
+[0:20 - 0:21] sree OT
+[0:21] 5 410 ७
+[0:21] Thiskthing}east
+[0:22] Faro a
+[0:23] ens
+[0:23] 4/10,
+[0:23] oft
+[0:23] ‘Soll
+[0:23] gtorate it
+[0:24] Giese ener Ua UU =
+[0:25] worLee
+[0:25] Next flavourwe have;
+[0:25] lively
+[0:26] lyche
+[0:26] (ORLOWDE ®
+[0:26] Next flav
+[0:26] aVelis}
+[0:26] ligase
+[0:27] meine
+[0:27] enone
+[0:28] mee
+[0:28] aa d
+[0:29] Fn 4
+[0:29] wor
+[0:29] Mreallyigo
+[0:30] Se ena
+[0:30] STRIDE,
+[0:30] won
+[0:30] ws 4
+[0:31] vim'g giveit
+[0:33] ciate
+[0:33] angie
+[0:34] wee
+[0:34] >शाक्राध OUT *
+[0:34] + WORLOWOE®
+[0:37] wee
+[0:37] lihisjis solgeod. *
+[0:39] nectar
+[0:39] eer
+[0:39] WORLDWIDE’
+[0:39] It taste
+[0:39 - 0:40] iewachanges.. es
+[0:39 - 0:40] Blater One
+[0:40] meee
+[0:40] sane ६
+[0:40 - 0:41] litttastellike, itta
+[0:41] iss
+[0:41 - 0:43] lexactlyilike)
+[0:42] Pee Bat
+[0:43] माल
+[0:43] शा0६0//* i
+[0:43] paste
+[0:44] meee
+[0:44] aah
+[0:44] svat
+[0:44] Poe hei
+[0:45] STE WUT «
+[0:45] fazing and the|
+[0:45] Xt top)
+[0:45] fist
+[0:46] gauva’sss
+[0:46] andith:
+[0:47] Tinie
+[0:48] आओ ** मे
+[0:49] aie
+[0:49] lasivell
+[0:50] या अं
+[0:52] IRL
+[0:55] meee
+[0:55] Jaminotigaingtollies
+[0:56] The lychee}
+[0:56 - 0:58] Wort
+[0:57] WORLDWi
+[0:57] eelonelisy
+[0:57] Thely
+[0:57 - 1:02] + STRIDE OUT
+[0:58] shee
+[0:58] Y तु
+[0:58] 1614]
+[0:58] 9०19६०४॥|
+[0:58 - 1:00] 10/10
+[0:59] 10/40,
+[0:59] (४7०
+[0:59] So thi
+[1:00] | ८८1९6
+[1:00] bir
+[1:00] WORLOWs
+[1:00] Andy
+[1:01] sre Ot
+[1:01] > WoRLWOE
+[1:01] ing
+[1:01] lis}
+[1:01] Goingt
+[1:02] ७ 190४8
+[1:02] 7/10
+[1:02] + WORLIWIDE
+[1:03] waitin
+[1:03] auya
+[1:03] 710 3७ tine
+[1:03] oat
+[1:04] ition
+[1:04] SE AUVs
+[1:04] TAO
+[1:04 - 1:05] The'gu:
+[1:05] += STRIDE 00 *
+[1:05] but not!
+[1:05 - 1:08] + WORLOWIDE *
+[1:06] wei
+[1:06] तर खान
+[1:06 - 1:08] + STRIDE QUT «
+[1:08] enelis)
+[1:08] Dudeythe
+[1:08] just
+[1:09] jem
+[1:09] r Bal
+[1:09] helleechyi
+[1:09] anes)
+[1:10] eal
+[1:10] 3) eee
+[1:10] STR. OUT
+[1:10] iDude; thelleechy oneiis)
+[1:10] andithe next
+[1:11] aie
+[1:11] Strawberry a
+[1:11] Welliave}isy
+[1:12] munities
+[1:12] suanbeniy |
+[1:12] Welhavelis/strawbenny
+[1:13] I've
+[1:14] ae ae pee
+[1:14] Vyeline
+[1:14] aoe
+[1:15] * WORLOWNE
+[1:15] ofiyou}
+[1:16] eG fe eee गा
+[1:16] jORLOWIDE:
+[1:16] a er"
+[1:16 - 1:17] STRIDE OUT:
+[1:17] aan ee ena
+[1:17] ‘y ORLO
+[1:17] ae © and I'm
+[1:18] ories anal
+[1:18] like
+[1:18] im getting
+[1:19] ee tle
+[1:19] 7 this.
+[1:20] Mor
+[1:20] owe
+[1:22] mineicion
+[1:22] है. a
+[1:22] sre wt
+[1:22] = WORLOWSE:
+[1:23] वात ४ ee
+[1:23] ro रतन
+[1:23] रैक
+[1:23] "डाक Out
+[1:23] = WORLIWOE®
+[1:24] maine
+[1:24] yy ही
+[1:24] प्र
+[1:25] aes
+[1:25] 17 3
+[1:26] SSH IVs
+[1:26] 2/10"
+[1:27] ities
+[1:27] DARE tAWDETIY gs
+[1:27] ‘Thislisttwoloutiofitens
+[1:28] iets
+[1:28] SINE HAWIDE TI
+[1:28] lis}
+[1:29] OEE HAWDE TI
+[1:29] 2/108
+[1:29] TF ee
+[1:29] Ministisweny bad
+[1:30] cee
+[1:30] + STRIDE OUT
+[1:30] nowiwhatitstaste)
+[1:30 - 1:35] «+ WORLOWIE®
+[1:31] aE eee
+[1:31] आता
+[1:31] रख &ः
+[1:32] sree ee
+[1:32] “iis
+[1:32] ‘ out’
+[1:32] It tastellikeliflyour
+[1:32] took cough
+[1:33] ete
+[1:33 - 1:38] + STRIDE OUT *
+[1:34] «srr OUT
+[1:34] + WORLIWOE
+[1:34] © -“Seulmixediiginjwaters
+[1:34] and
+[1:35] a मन
+[1:36] G शक
+[1:37] pineapp
+[1:37] WORLIWOE
+[1:37] Alright
+[1:38] + WORLOWIDE «
+[1:38] भी A
+[1:38 - 1:39] Alright;mexticontenders
+[1:39] pine
+[1:39] WOR Wing ०
+[1:39] welhaveiis pin
+[1:40] हां मी व...
+[1:40] \ Seg
+[1:43] STR
+[1:43] wee
+[1:43] प्रा
+[1:44] wei
+[1:45] aE nai
+[1:45] STi 00५
+[1:45] Comparedit
+[1:46] a Naan
+[1:46] WORLDWIDE»
+[1:46] ‘one and ६|
+[1:46] ‘Compareditostiel
+[1:46] tke
+[1:46 - 1:47] + STRIDE OUT *
+[1:47] लक ee
+[1:47] es अल
+[1:47] + WORLOWIQE ©
+[1:47] है obviously
+[1:48] ra ie
+[1:48] STAN
+[1:48] ‘Obvioush ec vi
+[1:48] one i:
+[1:49] STAM
+[1:49 - 1:51] Wort
+[1:50] “है. i
+[1:51] STR
+[1:51] But thi:
+[1:51] betweenjthese)
+[1:52] mene
+[1:52] sre 0
+[1:52] woRLoW
+[1:52] 50171 gail
+[1:53] es ji
+[1:53] sre? ०
+[1:53] oni,
+[1:53] aiinepogfive tis
+[1:53] like’
+[1:54] ZHAKO)
+[1:54] 7 on
+[1:55] २0805
+[1:55] he next
+[1:55 - 1:56] Alrigh
+[1:56] ER आगरा
+[1:56] sore
+[1:56] ‘WORE
+[1:56 - 1:58] ' peach Passion.
+[1:57] Re a i
+[1:57] आशा या
+[1:57] ‘STRIDE OUT
+[1:57] fORLOWIDE
+[1:57] peach
+[1:58] * WORLD
+[1:58] Wide
+[1:58] Our.
+[1:58] peach pas:
+[1:59] en mnt,
+[1:59] wore
+[2:00] wei
+[2:00] Honestlynyoulkn
+[2:01] uae
+[2:01 - 2:02] Thi:
+[2:02] जा ८ 3.
+[2:03] =SEpeach.
+[2:03] hale
+[2:03] 8/॥10७0
+[2:03] STRIDE 0४/
+[2:03 - 2:05] This is better thamptine)
+[2:04] 1 [2128८९10
+[2:04] STRIDE OUT
+[2:04] WORLDWIDE
+[2:04] Thisis
+[2:04] tery
+[2:04 - 2:05] 8/10
+[2:05] SECA CH
+[2:06] कु ec
+[2:06] Thi:
+[2:09] +॥४0४०७४६ .
+[2:09] Butit’s
+[2:09] tingithe
+[2:09] lye
+[2:09 - 2:11] STRIDE. QUT «
+[2:10] = WORLDWIDE «
+[2:10] ‘Final
+[2:11] ma 1000०:
+[2:11] ourswhich)
+[2:11] Per
+[2:11 - 2:12] wee
+[2:12] mangos
+[2:13] ngo
+[2:13] पक आए8-
+[2:13] mai
+[2:14] STR
+[2:14] 001#7
+[2:15] सा. मे
+[2:15] ight.ten)
+[2:15] mie
+[2:15 - 2:16] WORLOWHE*
+[2:15 - 2:17] sTRIgE OUT *
+[2:16] meee
+[2:16] SSimango
+[2:16 - 2:17] 10/10
+[2:17] * ‘mango
+[2:17] WORLDWIDE
+[2:18] को 11:11]
+[2:18] Sono
+[2:18] AIDE,
+[2:18] 6॥ 665 3013
+[2:19] ee ke
+[2:19] sie
+[2:19 - 2:20] wortDY
+[2:19 - 2:20] There}:
+[2:19 - 2:20] etweenl@)
+[2:19 - 2:20] lychi
+[2:20] mae
+[2:20] STRIDE Ges
+[2:21] mansions
+[2:21] र्ल्ड .
+[2:21] TRIE OU!
+[2:21] wonLowt
+[2:21] They bot!
+[2:23] STAID)
+[2:23] worl
+[2:23] ive
+[2:23] ५५६५७
+[2:24] iat
+[2:24] a cae a Ca) “
+[2:25] cet! "सनम
+[2:25] these'two
+[2:25] Wery good)
+[2:25] ow 5
+[2:25 - 2:26] + STRIDE OUT:
+[2:25 - 2:26] + WORLDWIDE ®
+[2:26] me S&S
+[2:26 - 2:27] please
+[2:27] ee ie
+[2:27] Bed
+[2:28] please dofnot buyithis)
+[2:28] shitty as:
+[2:29] ‘STRIDE QUE
+[2:29] ‘eat
+[2:30] a a Mena
+[2:30] woRLOWIOE
+[2:30] 10.53 tastellike
+[2:32] Iright, that is it fol

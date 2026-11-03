@@ -1,0 +1,44 @@
+# model: ggml-large-v3
+========================================================================
+[677] https://www.instagram.com/reel/DQ4kHHaDBEE/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Excuse me, excuse me
+[0:02 - 0:05] And I might drink a little more than I should tonight
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ५252
+[0:00] eee.
+[0:00] bese
+[0:00] base
+[0:00] | a vel sy i
+[0:00] cardi
+[0:00] kin
+[0:00] Ane)
+[0:00] oats
+[0:00] rr ४
+[0:00] — लाल ु
+[0:00 - 0:01] wate!
+[0:01] | 6 81 001
+[0:01] (0 016,
+[0:01] analdo}
+[0:02] ink water
+[0:02] 0 086
+[0:03] sis
+[0:03] rik
+[0:03] q site ae iff
+[0:03] evel water
+[0:03] ॥010॥0105॥॥ care
+[0:03 - 0:05] lock in twin
+[0:04] water;
+[0:04] lofcardio
+[0:04] ane
+[0:04] है 1 कई ie
+[0:05] Eat i
+[0:05] trainjhan
+[0:05] Canalo}
+[0:05] kinjcane
+[0:05] ६ है

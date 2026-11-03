@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[962] https://www.instagram.com/reel/DGVeJAStHID/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Редактор субтитров А.Семкин Корректор А.Егорова
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] ' it started
+[0:04] iad
+[0:04] ४४४ going
+[0:05] rag
+[0:06] Mow it’s going
+[0:07] if ता
+[0:08] usi
+[0:08] SO ow
+[0:08] ०0५
+[0:09] 110॥॥|45 going}
+[0:10 - 0:11] oe it's going)

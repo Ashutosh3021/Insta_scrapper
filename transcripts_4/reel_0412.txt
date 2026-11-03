@@ -1,0 +1,76 @@
+# model: ggml-large-v3
+========================================================================
+[412] https://www.instagram.com/reel/DXHTct1jNCT/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Another day of me telling you some vitamin facts.
+[0:02 - 0:08] If your vitamin D is not above 60 nanogram per milliliter,
+[0:08 - 0:11] NG per ml, I'm not talking about nanomole, NG per ml,
+[0:11 - 0:13] you're not going to lose weight.
+[0:13 - 0:16] That is very funny because mine's at 40.
+[0:16 - 0:20] Then I am still in like a pretty decent shape, I would say.
+[0:20 - 0:24] I am not here saying that you shouldn't supplement with vitamin D.
+[0:24 - 0:26] You should if you're deficient in it,
+[0:26 - 0:29] but it's not gonna make or break your fat loss.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] other.
+[0:00 - 0:13] If your Vit D is not above 60ng/ml
+[0:00 - 0:13] you are not going to loose weight,
+[0:00 - 0:13] no matter how hard you try
+[0:01 - 0:13] Why is that?
+[0:01 - 0:13] Check below! कै
+[0:02] ‘some vitamin fact:
+[0:02] ff (i
+[0:02] झ- कक कुछ
+[0:03] It ४
+[0:03 - 0:05] ievital
+[0:04] It ye
+[0:04] Nour vita
+[0:04] Dism
+[0:05] Dist
+[0:05] above 60
+[0:05 - 0:13] If your
+[0:06] VitD
+[0:06] jot abov
+[0:06] Ong/ml
+[0:06] not
+[0:06] pin
+[0:06] to loose
+[0:06] hard
+[0:06] ७७ ६
+[0:06] iff
+[0:06] your vitamin Dlisinod
+[0:06] above 60 nanogram
+[0:08] frnilliliters
+[0:10] Not talking about
+[0:10] nanomole,
+[0:11] no matter how ha
+[0:11] d you try
+[0:11] jer
+[0:12] @perml, you'
+[0:12] प्र
+[0:13] tolose
+[0:14] that is vs 1
+[0:16] fart
+[0:16] Nor
+[0:18] Jam 4
+[0:19] 12161) ०
+[0:21] Now
+[0:22] हैं;
+[0:23] men
+[0:23] ait
+[0:25] defi
+[0:25] ent
+[0:25] ou are’
+[0:25 - 0:26] shoul
+[0:26] ient init bu'
+[0:26] yor
+[0:27] Yeke
+[0:27] not
+[0:27] gonn:
+[0:28] wen
+[0:28] ५७९९

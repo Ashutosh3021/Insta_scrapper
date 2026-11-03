@@ -1,0 +1,89 @@
+# model: ggml-large-v3
+========================================================================
+[572] https://www.instagram.com/reel/DTp1zoZjMJg/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] tiger shiroff i have had it with you last time you made an incline dumbbell press
+[0:04 - 0:10] into a flat press this time you're performing an unstable version of an overhead extension like
+[0:10 - 0:16] at least you can do is take a seat why are you doing it standing you can literally see him like
+[0:16 - 0:21] wobble here and there because he knows the movement is so unstable like tiger shiroff
+[0:21 - 0:24] needs to tap in bro this is getting out of hand right now
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a ee 21,
+[0:00] P “es!
+[0:00] jer sheroft
+[0:00] uit
+[0:00] Mad
+[0:00 - 0:01] y Tap to apaly
+[0:00 - 0:01] isinot optimal
+[0:01] a a ee
+[0:01] 4 xy, ८
+[0:01] Tiger, Shiroff,, Ihave
+[0:01 - 0:05] —-Tiger Sherofff *
+[0:02] Last
+[0:02 - 0:05] > needs, to LAP om
+[0:03] one
+[0:03] aan 6
+[0:03] ५ आए
+[0:03] eS west time you made an
+[0:03] incline
+[0:04] needs to 00 /
+[0:05] बब्बा
+[0:05] a\flatjpress
+[0:06] “क्र
+[0:06] ay A
+[0:07] this time you are;
+[0:07] rforming a unsta
+[0:07] i " Ope
+[0:07] aoe .
+[0:08] Ovo
+[0:08] versionjof
+[0:09] असल
+[0:09] Boi
+[0:09] version of an overhead
+[0:09] extension
+[0:10] है को |
+[0:10] Gtk.
+[0:10] प्र
+[0:10] say
+[0:10] atleast ०
+[0:11] mil
+[0:11] at least you cand
+[0:12] BPS
+[0:13] Why'you
+[0:14] Why. Py: गा it
+[0:14] standing?
+[0:15] LIT 25
+[0:15] AoA
+[0:15] You can
+[0:16] A हु
+[0:16] You can literally see
+[0:17] (फ्रकमा फा
+[0:17] ‘Sp ४०
+[0:17] like ७४०७
+[0:19] ध्प्य
+[0:19] ‘noe ४
+[0:19] movementie enews the
+[0:20] Saad |
+[0:21] wn, है
+[0:21] eee ee ee ee
+[0:21] rhe
+[0:21] foe |
+[0:21] Like Tiger Sheroff
+[0:21 - 0:24] % Tap to apply
+[0:22] ee aD int eee ee #
+[0:22] atte’)
+[0:22 - 0:24] 7 al
+[0:23] भी ae ee >>
+[0:23] ye Tap to LP
+[0:23] ths
+[0:23] $ आशा
+[0:23] ब्क
+[0:24] ee ae ns eee ee #
+[0:24] Gin”)
+[0:24] ere
+[0:24] right!

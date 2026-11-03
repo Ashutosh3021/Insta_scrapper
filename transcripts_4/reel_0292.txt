@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[292] https://www.instagram.com/reel/DZuXQAZMcpy/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Don't wait to meet you
+[0:04 - 0:07] So join the animatronic family
+[0:07 - 0:10] We open real soon
+[0:10 - 0:11] Try your best to hold off
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] wat
+[0:00] क्र
+[0:00 - 0:01] a ” Before birthdayh
+[0:01] LG to hits PR
+[0:02] 7 Dy.)
+[0:02] S11
+[0:02] aa) ee
+[0:02] seo 1
+[0:02] ital
+[0:03] खरा,
+[0:03 - 0:04] So all
+[0:04] WYP
+[0:04] at_ coy
+[0:04] wef
+[0:04] tae
+[0:04] छा s
+[0:05] ow * है|
+[0:05] pal
+[0:05] aon
+[0:05] 26 कर: सकी पकक क्त
+[0:05] PIO
+[0:05] ace
+[0:06] hig
+[0:06] = alt
+[0:06] के का
+[0:06] फल ले । ०
+[0:07] 'अचयाफ
+[0:07] oma
+[0:08] = vie
+[0:08] gs: ae rT.
+[0:08] 1@ age
+[0:08] nem
+[0:08] R ye
+[0:09] the
+[0:09] 000 \\
+[0:10] lus
+[0:10] श्र
+[0:11] ~ eg/00hu pees

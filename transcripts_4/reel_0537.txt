@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[537] https://www.instagram.com/reel/DUqaBQQDG1q/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I feel so close to you right now
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] CORTISOL
+[0:02] MEDIUM
+[0:04] ORTISOL LEVEL
+[0:04] lags
+[0:04] है शी
+[0:05] COR
+[0:05] Thi
+[0:05 - 0:09] EVE
+[0:06] 60रा। EVE
+[0:06] Jam
+[0:06] cal
+[0:06] the
+[0:06] 7. बज
+[0:06] Wai
+[0:07] 60रा।
+[0:08] Ais
+[0:08] फैल
+[0:08 - 0:09] क्र
+[0:10] ८ कै
+[0:10] yyy
+[0:11] ‘age
+[0:12] Jas
+[0:12 - 0:16] CORTISOL LEVEL
+[0:13] “Wee
+[0:14] COR
+[0:14] हे a
+[0:15] yyy
+[0:15] जन्नत
+[0:16] Jas
+[0:16] ९३५
+[0:17] श्र
+[0:17] Was
+[0:17] ¥7 Ud
+[0:17] ie (७.

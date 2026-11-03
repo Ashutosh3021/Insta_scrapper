@@ -1,0 +1,69 @@
+# model: ggml-large-v3
+========================================================================
+[274] https://www.instagram.com/reel/DaIfMPyMSRO/
+STATUS: OK
+DURATION: 0:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] it should be very obvious that just because you eat healthy doesn't mean you are not going to
+[0:04 - 0:09] gain body fat you can eat oats you can eat peanut butter you can eat eggs you can eat chicken you
+[0:09 - 0:16] can eat all kind of healthy food sources possible but if you're in a calorie surplus you're gonna
+[0:16 - 0:22] get fat doesn't matter if it's oats doesn't matter if it's a fucking black coffee i mean probably
+[0:22 - 0:26] black coffee doesn't have that much calories but those food sources which you're eating
+[0:26 - 0:32] have calories what matters is calories you can eat as much amount of quote-unquote
+[0:32 - 0:35] healthy food if you're eating too much of it you're gonna get fat
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ile
+[0:00] 811
+[0:00] yeu
+[0:00] 2७७.
+[0:01] food!
+[0:01] 31110]
+[0:01] yourat
+[0:02] eal
+[0:03] jetyoura
+[0:03] Fr doesn't jf
+[0:04] ile
+[0:04] OESMut
+[0:04] jou fat
+[0:04] uf not going to f
+[0:06] ‘ne al
+[0:06] sath
+[0:06] iy fo
+[0:07] yn Pe
+[0:09] ५23
+[0:09] 4 ity
+[0:10] chicken, you cai
+[0:10] inéat
+[0:10] Chel
+[0:12] of healthy food sources
+[0:12] possible
+[0:13] Ure
+[0:13] But
+[0:14] 4५6
+[0:14] बज लत १५
+[0:15] "surplus, y
+[0:15] if y
+[0:16] RR है.
+[0:16] के अर
+[0:16] खाया
+[0:17] you're going to vy
+[0:19] oats,
+[0:19 - 0:21] doesn't matter if it;
+[0:20] doe:
+[0:20] imattergifiitssta)
+[0:21] fucking black coff
+[0:22] mm PI
+[0:25] UNG
+[0:28] it matters
+[0:28] | fort
+[0:29] matters is calories)
+[0:30] \ aes
+[0:32] शक्ल
+[0:33] ANS
+[0:33] of quote unquote healthy
+[0:34] Yow
+[0:34] Ifyou're “aff
+[0:35] vf you're going

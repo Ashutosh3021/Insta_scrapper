@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[814] https://www.instagram.com/reel/DMR2YtaBHfM/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] “Form breaks down in 5-8 reps”
+[0:02] aks down ARE reps
+[0:02] eae
+[0:02] f AP
+[0:03] lim gonna
+[0:03] say this again
+[0:04] Iniaset ef 0-8
+[0:04 - 0:06] If you're form breaks down
+[0:05 - 0:06] Inaset of 5-8
+[0:07] issue
+[0:08 - 0:16] That’s a skill issue
+[0:09] pry
+[0:11] Fix the root cause
+[0:12] issue
+[0:12] PS Fixthelgoot pause
+[0:13] » Fixtthejgoot eae
+[0:13 - 0:16] Dont blame a rep range |
+[0:14] Dont blame 8
+[0:14] aa range
+[0:14 - 0:16] Fix the root cause
+[0:16] on “ee.

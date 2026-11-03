@@ -1,0 +1,60 @@
+# model: ggml-large-v3
+========================================================================
+[19] https://www.instagram.com/reel/Dew6dSvuqqE/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] There's no water, there's nothing special
+[0:03 - 0:07] There's all these women, all of the good building
+[0:07 - 0:10] For me, oh my
+[0:10 - 0:12] For me, oh my
+[0:12 - 0:14] Oh yeah
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] jum |
+[0:00 - 0:02] eached 8
+[0:01] eae.
+[0:01] SWAY
+[0:01] | Nita
+[0:02] san
+[0:03] ne ches amen in
+[0:03] 1॥ दे
+[0:04] mheachied eee
+[0:04] june
+[0:05] neached Bangalor
+[0:05] tes
+[0:05] ean coy
+[0:05] pla
+[0:05] aw iy
+[0:05] tii
+[0:05] eal
+[0:06] aan
+[0:06] thes 1॥
+[0:07] heacte
+[0:07] Sic
+[0:07] ey ee 1॥
+[0:08] ang
+[0:08] Sia
+[0:08 - 0:09] ates
+[0:08 - 0:11] \ eal
+[0:09] si me
+[0:10] Itis
+[0:10] 5, Ged Ip
+[0:10] WA Rs
+[0:11] Reinet
+[0:11] eX ५
+[0:11] LM a
+[0:12] [tisitimestorse
+[0:12] res
+[0:12] wre
+[0:13] —) Ga IS
+[0:13] It oo ae ~
+[0:13] (5 ्ि
+[0:13] Ait
+[0:13] \ cal
+[0:14] Neto Se,
+[0:14] 5, fey IS
+[0:14] Ww Bh
+[0:14] Naat //

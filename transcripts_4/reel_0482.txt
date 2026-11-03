@@ -1,0 +1,20 @@
+# model: ggml-large-v3
+========================================================================
+[482] https://www.instagram.com/reel/DVsxjuFjEvG/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] POV: it’s 2am
+[0:03] Bro, |knew
+[0:04] Lex Little is
+[0:05] प्र
+[0:06] | हैः
+[0:07] hel
+[0:08] Ss «2
+[0:08 - 0:09] — joe
+[0:10] 8 aa

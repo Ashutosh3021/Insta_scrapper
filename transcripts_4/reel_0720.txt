@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[720] https://www.instagram.com/reel/DPx4GYvDPrB/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Still posted at your station
+[0:01 - 0:05] Always on about the day it should have flown
+[0:05 - 0:08] You're still teething to start
+[0:08 - 0:09] Got your heart in your hands
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iyi)
+[0:00] met |
+[0:00] फल अत
+[0:00] 3 ७ a 'ेकरामामामाात
+[0:00 - 0:04] “Allof this doesn’t’
+[0:00 - 0:04] _carry over to-anything” —
+[0:01] ee कमा
+[0:02] tld
+[0:02] लत अत
+[0:02] ae पेड
+[0:03] —_— जा सा के
+[0:03] जी पाल का
+[0:03] fan ting
+[0:03] ———— स्‍अिनतीनओ
+[0:03] OE ' कमा.
+[0:04] inn
+[0:04] re i\
+[0:04] boo I |
+[0:04] ————— जाती जहूल
+[0:04] a, ead
+[0:05] faite 1 try btw
+[0:05] ar sf
+[0:05 - 0:08] rights
+[0:06] ney t tr
+[0:07] first'try'b
+[0:07] 4 wi |
+[0:07] स्व
+[0:08] "ale t tr

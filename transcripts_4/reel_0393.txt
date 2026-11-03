@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[393] https://www.instagram.com/reel/DXgQVfhDEeG/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iota
+[0:00] ipe
+[0:00] मैं.
+[0:00 - 0:01] MWhe'
+[0:01] 1०० . -
+[0:01] 3 pire
+[0:01] tel
+[0:01] ecipe
+[0:02] ent
+[0:02] iv tain
+[0:02] wheyipnotein
+[0:04] But the first a. ignedient
+[0:04] Is whey Zz
+[0:05] But th
+[0:05] firstin
+[0:05] dient
+[0:05] 4 7a
+[0:05 - 0:06] Wwhey/protein
+[0:06] ingredient .«
+[0:07] But the first ingr
+[0:07] 4 रच
+[0:07 - 0:09] Is whey protein
+[0:09] ip frst ingredient

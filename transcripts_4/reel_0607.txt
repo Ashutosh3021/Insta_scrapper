@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[607] https://www.instagram.com/reel/DS2VqYtjIPQ/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] I got to my place. I got to my place. I got to my place. I just spent the class.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] jentle
+[0:00] a= AS
+[0:00] a (ia
+[0:00 - 0:01] ‘eminder,
+[0:01] Nae
+[0:01] Yessy
+[0:02] flow लक ४००काए।
+[0:02] dort'cause muscle growth
+[0:03] Rear
+[0:03] ५ Doésn’t meanit’s 6 |
+[0:03 - 0:05] ‘or you'get'to perform it poorly
+[0:04] n't mean it’s uséle:
+[0:04] 21101 0॥ 10000.
+[0:04] eet
+[0:05] Ni Si
+[0:05] bar
+[0:05] “Doesn't mean it’s useless
+[0:06] I’velfixed, 1810 ॥01 0111
+[0:06 - 0:07] Joint & Tendon
+[0:07] xediallot ajlot ci m
+[0:08] Just by
+[0:08] ing e:
+[0:08] tog
+[0:08 - 0:09] \ eccentr
+[0:08 - 0:10] and adding better पाक 2
+[0:09] Siz
+[0:09] बडे न
+[0:09 - 0:10] uust by fixing execuiti
+[0:10] RX. 5
+[0:10] Ww 2००आए
+[0:11] = प्लि
+[0:11] itis not always,u
+[0:11] Bas
+[0:12] = eee
+[0:12] 115 not always, 1
+[0:12] 4228.
+[0:12] हे See
+[0:13] it’s not “a :
+[0:14] i... i it L
+[0:14] Pugs
+[0:14] ae ie
+[0:15] si some.) ‘you 7 5
+[0:15] 2 Fr
+[0:16] ah) som
+[0:16] Lag
+[0:16] ८55.

@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[265] https://www.instagram.com/reel/DaZIdHLT_ZI/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] i ४८
+[0:00] don
+[0:00 - 0:01] WNBF POLYGRAPH
+[0:00 - 0:02] tell
+[0:00 - 0:02] happensiat
+[0:00 - 0:02] Testing
+[0:01] what people donititell
+[0:01] You
+[0:01] PES
+[0:01] ६. ६६
+[0:02] a POL
+[0:03] 0222
+[0:03] ३ ४४)
+[0:03] Lal ून्‍यक >-
+[0:03] oS व वकननननक
+[0:03] ail
+[0:03] rit
+[0:03] ie Soe
+[0:03 - 0:04] They have games
+[0:04] CHA |
+[0:04] PNM I
+[0:04] 4 wos
+[0:04] b+ जड़ छा
+[0:05] Ih oe
+[0:05] हे आए games
+[0:05] जज |) em
+[0:06] Sif
+[0:06] ५46 =
+[0:06] igal
+[0:06] am oS
+[0:06] EE a —)
+[0:07] ्च्य्ट्ा
+[0:07] They havergame:
+[0:07] Famed

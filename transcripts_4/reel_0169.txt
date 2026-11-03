@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[169] https://www.instagram.com/reel/DcY7mg0MR9r/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: id
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] Terima kasih telah menonton!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:11] Training/Nutrition/Anything
+[0:00 - 0:11] How to make body like david laid in
+[0:00 - 0:11] 6 days

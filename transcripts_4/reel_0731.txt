@@ -1,0 +1,390 @@
+# model: ggml-large-v3
+========================================================================
+[731] https://www.instagram.com/reel/DPehCZDDG-2/
+STATUS: OK
+DURATION: 2:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] if you think creatine causes muscle growth you have been misled now a lot of people think that
+[0:04 - 0:08] supplementing with creatine is going to help them grow muscle thinking that supplementing with
+[0:08 - 0:12] creatine is going to act as a stimulus which is going to help them grow muscle but that's not how
+[0:12 - 0:16] it works you see creatine works in such way that supplementing with creatine is going to help you
+[0:16 - 0:21] increase your phosphocreatine to creatine ratio in your skeletal muscle mass now as a result of
+[0:21 - 0:26] supplementing with creatine it is going to increase your body water specifically the intracellular
+[0:26 - 0:31] water which is found in your muscles now if you use a bia machine or a dexer scan it will show
+[0:31 - 0:36] that our lean mass has increased one of the biggest problems with a lot of these hypertrophy studies
+[0:36 - 0:42] is they use lean body mass as a measure of hypertrophy now if you supplement with creatine
+[0:42 - 0:47] and you get your lean body mass up which means your intracellular water is up it will show that
+[0:47 - 0:51] creatine itself is a stimulus for muscle growth because you're using lean body mass as a metric
+[0:51 - 0:55] for muscle mass now that itself is very problematic because lean body mass
+[0:55 - 0:56] is not a metric for muscle mass so if you supplement with creatine and you get your lean body mass up
+[0:56 - 1:00] which is not just muscle it consists of a lot of different variables which also includes your
+[1:00 - 1:06] intracellular water as well now if we put all of that into a hypertrophy study which uses lean
+[1:06 - 1:11] body mass as a metric for muscle growth we'll see that creatine supplementation increases muscle mass
+[1:11 - 1:16] in just five days now don't get me wrong creatine has a lot more benefits which are not just specific
+[1:16 - 1:21] to muscle growth now the increase in water is going to help you look a bit bigger which is
+[1:21 - 1:26] a benefit now creatine also seems to delay metabolite accumulation which is a benefit
+[1:26 - 1:31] which means that you can get an extra rep or two but those extra rep or two are not going to be
+[1:31 - 1:37] stimulating reps means for muscle growth purposes creatine itself is not a stimulus if creatine was
+[1:37 - 1:42] really a stimulus for muscle growth if we immobilized people and just feed them creatine
+[1:42 - 1:47] they wouldn't atrophy but that's not what we see here now when we take into consideration of all of
+[1:47 - 1:52] this and make a study guess what we see it will show us that there is no statistical significant
+[1:52 - 1:56] difference or a very very very minute difference between creatine and muscle growth which means that
+[1:56 - 1:59] there is no statistical significant difference so creatine is going to help you look a bit bigger
+[1:59 - 2:03] help you get an extra rep or two but those reps are not going to be stimulating reps but
+[2:03 - 2:07] creatine itself is not a stimulus for muscle growth so yeah hope that helps one more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ioe
+[0:00] we gro:
+[0:00] if you %,
+[0:01] ral
+[0:01] us elfior
+[0:01] 103
+[0:01] causes
+[0:01 - 0:02] if you think creatine
+[0:02] Us 2101
+[0:02] growthi
+[0:02] wre
+[0:02] causes muscle
+[0:03] for —
+[0:03] छा 5,
+[0:03] cle)
+[0:03] yous
+[0:03] jave been
+[0:03] “misled
+[0:04] a igre people think
+[0:05] a lot of people think
+[0:05] that supplementing
+[0:05] with
+[0:06] = to help
+[0:07] ) is going to help
+[0:07] them grow muscle
+[0:08] Exe \
+[0:08] that sUpplementing
+[0:09] 3 के
+[0:09] 991
+[0:09] that 2ubeTe menting
+[0:09] with creatine is
+[0:09] going to act
+[0:10] Gceinais a stimulus?
+[0:10] which
+[0:11] stimulus?
+[0:11] व 156]
+[0:11] which is going to
+[0:11] help them
+[0:13] seat
+[0:13] तर्ज
+[0:13] avr
+[0:13] you
+[0:14] श्र
+[0:14] y6u see creatine
+[0:14] works in
+[0:15 - 0:16] that supplementing
+[0:16] >428७]
+[0:16] Bie
+[0:16] with creatine is
+[0:16] going
+[0:17 - 0:19] your
+[0:18] Bae
+[0:18] he hh
+[0:18] creatine
+[0:18 - 0:19] phosphocreatine to
+[0:19] mat «
+[0:19] creatine ratio
+[0:20] your skeletal muscle
+[0:20] mass
+[0:21] हक ting
+[0:21] result of
+[0:23] increase
+[0:23 - 0:24] it iS going to
+[0:24] oon
+[0:24] 51५५
+[0:24] increase your body
+[0:24] water
+[0:25 - 0:27] specifically the
+[0:26] aan
+[0:26] ७१५
+[0:26] Pay
+[0:26 - 0:27] intracellular water
+[0:27] ter
+[0:27] bodyAwa
+[0:27] CEW,
+[0:27] as wall
+[0:27] which is found in
+[0:27] your muscles
+[0:28] श्र
+[0:28] कक लक,
+[0:28 - 0:29] now if you use a BIA
+[0:29] machine
+[0:30] now i
+[0:30] use a BIA
+[0:30] machine or a DEXA
+[0:31] WP G\
+[0:31 - 0:33] it will
+[0:32] wey
+[0:32] it will/show that our
+[0:32] ‘lean’
+[0:33] ५४३ |
+[0:33] how that our
+[0:33] lean mass has
+[0:33] increased
+[0:34 - 0:36] one ofithe biggest
+[0:35] one
+[0:35] he biggest
+[0:35 - 0:36] problems with a lot
+[0:36] of these hypertrophy
+[0:37] श्र
+[0:37] theyllte
+[0:38 - 0:40] they use lean body
+[0:39] ion
+[0:39 - 0:40] mass as a measure
+[0:40] due
+[0:40] 1०८
+[0:40] unavailatlity)
+[0:40] हि A
+[0:40] “of hypertrophy
+[0:41] ; ts Fis
+[0:41 - 0:42] ‘now if you
+[0:42] him
+[0:42] creatine
+[0:42 - 0:43] supplement with
+[0:43] CaS
+[0:43] a है
+[0:43] रूम
+[0:43] me if you
+[0:43] creatine and you get
+[0:43] your lean body
+[0:44] b> se means
+[0:45] which'means your
+[0:45] intracellular water is
+[0:46] red
+[0:46] it will
+[0:47] it Will/Show that
+[0:47] creatine
+[0:48] ey show that
+[0:48] cre
+[0:48] ine itself is a
+[0:48] stimulus
+[0:49] श्र
+[0:49] bh because
+[0:50] > ‘re using
+[0:51] | हैं#
+[0:51] ०००१ You're using
+[0:51] कर body mass as a
+[0:52] a 44,
+[0:52] becauseyou're using
+[0:52] lean body mass as a
+[0:52] metric for muscle
+[0:52] mass
+[0:53 - 0:54] How that itself is
+[0:54] ane.
+[0:54] very problematic
+[0:55] ००८, body
+[0:55] mass
+[0:56] ies >
+[0:56] as, 4
+[0:56] becattel lean body
+[0:56] mass is not just
+[0:57] > it consists
+[0:58] bide
+[0:58] ‘emt nny
+[0:58] it consists of a lot of
+[0:58] different
+[0:59] J Pb
+[1:00 - 1:02] whidh les so includes
+[1:01] low)
+[1:01] a fe
+[1:01] Myke
+[1:01 - 1:02] your intracellular
+[1:02] Ken
+[1:02] ater as well
+[1:03] now —— का
+[1:04] nee
+[1:04] now if you put all of
+[1:04] ithat into
+[1:05] now if कह all of
+[1:05] hee into a
+[1:05] hypertrophy
+[1:06] ahi
+[1:06 - 1:08] whichluses lean,
+[1:07] 74.३४ |
+[1:07] metric
+[1:07 - 1:08] body mass as a
+[1:08] metric for muscle
+[1:08] growth
+[1:09 - 1:11] supplementation
+[1:10] double)in}5)
+[1:10] days}
+[1:10] श्र
+[1:10] increases
+[1:11] gain
+[1:11] कै Yr
+[1:11] increases muscle
+[1:11] mass in just
+[1:12] / अल, ः
+[1:12] now don't
+[1:13] ae oe
+[1:13 - 1:14] now don't get me’
+[1:13 - 1:14] wrong creatine has a
+[1:14] lot of more benefits
+[1:15] aan
+[1:15 - 1:16] which are not just
+[1:16] specific to
+[1:17] MAG
+[1:17] ॥ हैः
+[1:17] now >
+[1:18] mh A
+[1:18] water
+[1:18 - 1:20] now the increase in
+[1:19] ayr
+[1:19] now tl
+[1:19] icrease in
+[1:19] hep
+[1:19 - 1:20] water Is going to
+[1:20] help you look a bit
+[1:20] bigger
+[1:21] छः न
+[1:21] wach is
+[1:22 - 1:24] now
+[1:23 - 1:25] now créditine also
+[1:24] iA 4,
+[1:24] छू 4
+[1:24] ios
+[1:24] seel
+[1:24] latine also
+[1:24] to delay
+[1:25] ५७७,
+[1:25] concn
+[1:25] herrea ra eM
+[1:25] aes,
+[1:25] one
+[1:25] eae
+[1:25] icant ens ete pose
+[1:25] कली
+[1:25] seems to delay
+[1:25] metabolite
+[1:25] accumulation
+[1:26 - 1:28] which means that
+[1:27] ton ७०७७९ ter rein
+[1:27 - 1:28] you can get an extra
+[1:28] rep or
+[1:29] ne a
+[1:29] a Ar os
+[1:29] but करा
+[1:30] 34 4,
+[1:30] or two
+[1:30 - 1:32] but those extra rep
+[1:31] iA 4,
+[1:31 - 1:32] or two are not going
+[1:31 - 1:32] to be stimulating
+[1:32] reps
+[1:33] muscle growth ~
+[1:33] this means for »
+[1:34] creatine
+[1:35] ati ह सह. इ हू...
+[1:35] ti itself
+[1:36] creatinelitself is not
+[1:36 - 1:39] a stimulus for
+[1:37] oes
+[1:37] a की
+[1:37 - 1:39] if creatine was really
+[1:39] है Ar
+[1:39] muscle growth
+[1:40] cof.
+[1:40 - 1:42] if We immobilized
+[1:41] van
+[1:41] sae ett न
+[1:41] sen + मन
+[1:41] people
+[1:41 - 1:42] Impact of creatine on muscle performance and
+[1:41 - 1:42] phosphagen stores after immobilization,
+[1:42] mors
+[1:42] ones
+[1:42] rect >
+[1:42] Perera
+[1:42] ‘Creatine Loading Does Not Preserve Muscle Mass or
+[1:42] ‘Strength During Leg Immobilization in Healthy,
+[1:42] Young Males: A Randomized Controlled Trial
+[1:42] —mcP
+[1:42] ७००००
+[1:42] people and just feed
+[1:42] them creatine
+[1:43] Pe Idn't
+[1:43] atrophy
+[1:44] hail
+[1:44] they Wouldn't
+[1:44] atrophy but that's
+[1:46] Ayr
+[1:46] ww k
+[1:47] now when we take
+[1:47 - 1:48] inte consideration of “Si
+[1:48] be pe
+[1:48] now
+[1:48] en we take
+[1:48] alliof this and make
+[1:49] oe ३. 9
+[1:49] guess
+[1:50] | ucrients
+[1:50] mente
+[1:50] Resistance Trai
+[1:50] ‘on Regional Measures of Muscle
+[1:50] 6a 8 eA ise’ Mee A
+[1:50] getter eee cote rr ope
+[1:50] it will
+[1:50 - 1:51] ‘The Effects of Creatine Supplementation Combined with
+[1:50 - 1:51] Hypertrophy: A Systematic Review with Meta-Analysis
+[1:51] ‘The Effects of
+[1:51] Resistance Training on Regional Measures of Muscle
+[1:51] mon ane cin ae iets aT
+[1:51] tenon n'a
+[1:51] net
+[1:51] there is no
+[1:51 - 1:53] it will show us that
+[1:52 - 1:53] theres no statistical
+[1:53] significant
+[1:53] difference
+[1:54] imedian}
+[1:54] rovemel
+[1:54] itoythnelplacebolangi
+[1:54] from O:10'to 171
+[1:54] क्र
+[1:54] ma dA
+[1:54] oravery »
+[1:55] lj 4
+[1:55] ith
+[1:55] impjovements)
+[1:55] lative)
+[1:55] the |
+[1:55] cebo “4
+[1:55 - 1:56] from)0:10 to 0.16 cms) ५४
+[1:55 - 1:56] ora very very very
+[1:56] placeboranging? #
+[1:56] cms,
+[1:56] mst
+[1:56] minute differen
+[1:57] हैः
+[1:57] so) है ine
+[1:58] 21 4,
+[1:58 - 1:59] so yeah creatinejis
+[1:58 - 1:59] going to help you
+[1:59] k a bit bigger
+[2:00] चूत
+[2:00] की Ar
+[2:00] help you get a extra
+[2:01] ४ ee
+[2:01] श्र
+[2:01] but those 4 “
+[2:02] but thosé reps are
+[2:02] not gonna be ~
+[2:02] stimulating
+[2:04] ५47
+[2:04 - 2:06] but creatine ie 1 is
+[2:05] but ti itself
+[2:06] not a stimulus for
+[2:06] for
+[2:06] muscle
+[2:07] प्र
+[2:07] Psy
+[2:07] so yeah hope Jy <

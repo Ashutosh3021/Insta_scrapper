@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[410] https://www.instagram.com/reel/DXHoBTSjGYX/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Z iW
+[0:01] fie
+[0:01] Cals
+[0:01 - 0:03] Why the sbls a
+[0:01 - 0:03] talkin bout. fatigui
+[0:02] kag
+[0:02] vi the A...
+[0:03] lif
+[0:04] Got
+[0:04] mostal
+[0:04] teral singleijoint
+[0:04] | cise in their routine.
+[0:05] jounts
+[0:05] hed
+[0:05] eral sing
+[0:05] 4 in their. * }
+[0:05 - 0:06] tthe most
+[0:05 - 0:06] po ne}
+[0:06] ‘a yA
+[0:06] “Unilateral sing
+[0:06] ise in their. cf }
+[0:07] La tints
+[0:07] > arc Helou
+[0:07 - 0:09] case|bro (#
+[0:08] 2 arc गण
+[0:08] ry A
+[0:08 - 0:09] La tinal
+[0:09] 2 eared Heligeyour
+[0:09] all 4

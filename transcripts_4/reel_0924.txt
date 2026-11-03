@@ -1,0 +1,294 @@
+# model: ggml-large-v3
+========================================================================
+[924] https://www.instagram.com/reel/DH03pN4BJO5/
+STATUS: OK
+DURATION: 1:09   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] You are eating way more protein than you need and I can prove it to you.
+[0:02 - 0:09] भी बहुत सारे लोगों को लगता है कि there is a dose-response relationship between the amount of protein which you eat to the amount of muscle which you grow.
+[0:09 - 0:10] But that's clearly not true.
+[0:10 - 0:14] भी over-consumption of protein मतलब under-consumption of carbohydrates.
+[0:14 - 0:17] अगर तुम कम carbohydrates खा रहे हो, this will actually impact your training performance.
+[0:17 - 0:23] अभी तुमारी बॉडी को सिर्फ 1.2-2 ग्राम पर केजी बॉडी वेट की प्रोटीन की जरूत होती है to maximize muscle growth.
+[0:23 - 0:28] अगर तुम उसके आगे जा रहो, there is no kind of magical benefits which you will get from eating more protein.
+[0:28 - 0:33] अभी प्रॉब्लम होती है कि when you over-consume protein, you actually over-consume fats as well.
+[0:33 - 0:39] Because these animal sources and these dairy sources always don't just come with protein, they also come with fats.
+[0:39 - 1:09] अभी तुम उसके जा रहे हो, अभी तुम उसके जा रहे हो, अभी तुम उसके जा रहे हो, अभी तुम उसके जा रहे हो, अभी तुम उसके जा रहे हो, अभी तुम उसके जा रहे हो, अभी तुम उसके जा रहे हो, अभी तुम उसके जा रहे हो, अभी
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] You
+[0:00] ting}
+[0:00] f UGhFpKotel
+[0:00 - 0:02] i re eating
+[0:01] क्र
+[0:01] a eating way m
+[0:01] protein than
+[0:01 - 0:02] q Too much protein
+[0:03] BE ७६६
+[0:03] vii,
+[0:03] ab af
+[0:04] ‘a यु
+[0:04 - 0:06] espom
+[0:04 - 0:06] | Relationsh %
+[0:05] mie.
+[0:05 - 0:08] DOSES
+[0:06] दर न
+[0:06] ५४४
+[0:06] लड़ा
+[0:07] Piersin intake ancl muscle
+[0:07] mass
+[0:07] Wis
+[0:07] क्र
+[0:07 - 0:08] pon
+[0:08] Preiicin intake anc] muscle mass
+[0:08] wate
+[0:08] Lat
+[0:09] nie
+[0:10] ६ clearly
+[0:11] wwe ८
+[0:11] १6४. ee
+[0:11] 142:
+[0:11] 7 ९७ |
+[0:12] ats
+[0:12] at Hy
+[0:12] Mes?
+[0:12] war
+[0:12] Bee है
+[0:13] rder eating carbs
+[0:13] Bees:
+[0:15] rn 2
+[0:15] vet
+[0:15] raat
+[0:15] ree
+[0:15 - 0:17] Effectiveness of high-fat and
+[0:15 - 0:17] high-carbohydrate diets on body
+[0:15 - 0:17] composition and maximal
+[0:15 - 0:17] strength after 15 weeks of
+[0:15 - 0:17] resistance training
+[0:15 - 0:17] Marek Kruszewski et al. Adv Med Sci. 2024 Mar.
+[0:15 - 0:17] Show details
+[0:16] “4 hog
+[0:16] eee
+[0:16 - 0:17] High carb gained
+[0:16 - 0:17] more strength and muscle रे
+[0:17] Roe 4
+[0:18] Pros
+[0:19 - 0:20] Recent Perspectives Regarding the
+[0:19 - 0:20] Role of Dietary Protein for the
+[0:19 - 0:20] Promotion of Muscle Hypertrophy
+[0:19 - 0:20] with Resistance Exercise Training
+[0:19 - 0:20] Tanner Stokes 1, Amy J Hector ?, Robert W Morton },
+[0:19 - 0:20] Chris McGlory ?, Stuart M Phillips >”
+[0:19 - 0:20] >» Author information » Article notes
+[0:19 - 0:20] > Copyright and License information
+[0:19 - 0:20] PMCID: PMC5852756 PMID: 29414855
+[0:21] प्पा | POsiDUcr te Crete is oer tote
+[0:21] ome
+[0:21 - 0:23] daily protein intake. In a large meta-analysis,
+[0:21 - 0:23] protein intake was shown to promote
+[0:21 - 0:23] additional gains in lean body mass beyond
+[0:21 - 0:23] those observed with resistance exercise
+[0:21 - 0:23] alone; however, beyond a daily intake of 1.6
+[0:21 - 0:23] g/kg body mass per day (up to as high as 2.2
+[0:21 - 0:23] g/kg/day), the additional effects of protein
+[0:21 - 0:23] are greatly diminished. Rather than further
+[0:21 - 0:23] stimulating MPS, large intakes of protein
+[0:21 - 0:23] beyond what we are recommending may
+[0:21 - 0:23] modulate anabolism by suppressing
+[0:22] fii 1 ou LULaL
+[0:22] ५१६
+[0:23] S1Le
+[0:23] Lucan
+[0:23] बस 13
+[0:25] ena
+[0:25] ere's no kind
+[0:26] बनी
+[0:26] 's no kind of magical
+[0:26] benefit
+[0:26] Pad
+[0:27] 115
+[0:27] from
+[0:27] Satiation
+[0:27] whieh you ॥ get from ©
+[0:27] Vy, a
+[0:27 - 0:28] ene
+[0:28] fits
+[0:28] डर you'll get fr
+[0:28] more protel
+[0:28] हैः
+[0:29] a कट,
+[0:30] Inchiract reladionsinip between
+[0:30] &00 (हो
+[0:30] क्र
+[0:30] lem with it whelgyou
+[0:30] over consume
+[0:30] SNe
+[0:31] Wea
+[0:31 - 0:33] l relationship
+[0:31 - 0:33] Betweent
+[0:31 - 0:33] fats
+[0:32] ia tually over consul
+[0:32] hee
+[0:33] use
+[0:34] ase
+[0:34] nae
+[0:34] ः these animal
+[0:34] ica
+[0:34] 2 चर
+[0:35] [08170 Soul
+[0:35] tgs
+[0:35] Cneass
+[0:35] Milka
+[0:35] e dairy
+[0:35] sat
+[0:35] die
+[0:35] 45:52.
+[0:35 - 0:36] 41 Panesar
+[0:35 - 0:38] 2, Cure]
+[0:36] Dainy SOU
+[0:36] feces
+[0:36] Ees
+[0:36] ory
+[0:36] had
+[0:36] p Powe
+[0:36 - 0:37] 4, Fish
+[0:36 - 0:38] & Eggs
+[0:36 - 0:38] 4, MAI
+[0:37] है गण
+[0:37] is don't just
+[0:37 - 0:38] [Del
+[0:37 - 0:38] SOULESSS
+[0:37 - 0:38] 4. Paneer 7
+[0:38] Nom veg 8907858
+[0:38] isin
+[0:38] hed
+[0:38] ५८2.
+[0:38] bad
+[0:39] so come with fats
+[0:39] ४7५
+[0:40] Yea
+[0:40] Sie
+[0:41] th are consum
+[0:41] IngyOs,
+[0:41 - 0:43] Over
+[0:41 - 0:43] provein
+[0:42] WKS)
+[0:42] Consumption) of:
+[0:42] prowsin &
+[0:42] sover consumptio
+[0:43] २ which
+[0:44] ich kind of doesmt
+[0:44] ae (2
+[0:44 - 0:46] wats
+[0:45] S67
+[0:45] करू
+[0:45] Ped is
+[0:45] ae wr ED
+[0:45] ae gf
+[0:45] a wa
+[0:45] ‘so if
+[0:46] yams ==
+[0:46] जता हक
+[0:46] ed 5 ra
+[0:46] you wanna Mma
+[0:46] mah
+[0:46] muscle
+[0:46] sped
+[0:46] arn
+[0:47] eer
+[0:47] ० set
+[0:48] ey i
+[0:48] ake to 1.6
+[0:48] maT
+[0:48] v7.6
+[0:48] shh
+[0:48 - 0:49] Uyhave to set your.
+[0:49] JtC
+[0:49] ह जज
+[0:49] “intake to 1.6 to 2
+[0:49] iS or ko ४
+[0:49] Chet fe
+[0:49 - 0:50] 18-98 per keg
+[0:50] age &
+[0:50] , bod
+[0:50] eight
+[0:50] है. e—
+[0:51] [as r
+[0:51] dy weight 20 ta
+[0:51] pe कज्ब
+[0:52] [607 ८2080)
+[0:52] कल न
+[0:52] Boe? अन्य
+[0:52] TTR
+[0:52] nding
+[0:52] iva
+[0:52] a lea
+[0:52 - 0:53] Or OSke/iow) the minimum
+[0:53] Fata20°50
+[0:53] उच्च
+[0:53] Tent
+[0:53] aur
+[0:53] aepending upon you
+[0:53] hormonal
+[0:54] phe
+[0:54] “ine
+[0:54 - 0:55] REST IS CARRS
+[0:55] Ties Niel
+[0:55] fill the rest wi
+[0:57] Sati
+[0:57] for
+[0:57] 0 kg meal i
+[0:57 - 0:59] a 5G @ )
+[0:57 - 0:59] Protein - 11
+[0:57 - 1:04] 70kg male
+[0:57 - 1:04] 2300kcals
+[0:57 - 1:08] 5:48
+[0:57 - 1:08] < All iCloud
+[0:57 - 1:08] 2300k
+[0:58] ©o hf ©
+[0:58] 140
+[0:58] lead
+[0:58] iting
+[0:58 - 0:59] for 70
+[0:58 - 0:59] meal who's
+[0:59] Carbs
+[0:59] ind 23 calories
+[0:59 - 1:01] Fat -35
+[1:00] is protein i
+[1:00 - 1:01] Protein - 1124440
+[1:01] und 112
+[1:01 - 1:02] this protein intake is oing
+[1:01 - 1:02] to be
+[1:01 - 1:03] 112-140
+[1:02] 21016
+[1:02] Fat
+[1:02] round 112 or
+[1:03] ०1 5G @ )
+[1:03] ependin
+[1:04] a) 5G |
+[1:04] Protein - 112/140
+[1:04] Fat -35
+[1:04] i pm ~
+[1:04] Carbs
+[1:04] depe
+[1:04] ding upon whatever
+[1:04] you wanna choose
+[1:05] 70kg
+[1:05] , cai
+[1:05] we f
+[1:06] & male
+[1:06] this
+[1:06] rbohydrate intake is
+[1:06] going to be
+[1:06 - 1:08] Follow for more
+[1:07] ०1 5G @ )
+[1:07] Protein - 112/1
+[1:07] Carbs
+[1:07] le 3 कर
+[1:07 - 1:08] 70kg male
+[1:07 - 1:08] 2300kcals
+[1:08] ‘lly
+[1:08] Vie
+[1:08] yeah

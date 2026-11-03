@@ -1,0 +1,72 @@
+# model: ggml-large-v3
+========================================================================
+[206] https://www.instagram.com/reel/DblMjahMdVS/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] just because you're tired doesn't mean that you're fatigued what is fatigue at
+[0:04 - 0:08] the end of the day fatigue is an objective reduction in your exercise
+[0:08 - 0:13] performance because of the previous part of your exercise which means what you
+[0:13 - 0:18] did in the previous session and you came back to the next session and you're now
+[0:18 - 0:24] weaker you're fatigued if you maintain the same performance you're not fatigued
+[0:24 - 0:30] fatigue is not because you feel tired tiredness has got nothing to do with
+[0:30 - 0:35] fatigue you can be tired and hit a PR but if you are fatigued you won't hit
+[0:35 - 0:39] that PR let me know if that makes sense anyways of the resolve
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] , you
+[0:00 - 0:04] Feeling\tiged # Fatigue
+[0:01] a: di
+[0:01] mean
+[0:04] 365, 4
+[0:04] end
+[0:05 - 0:08] Feeling
+[0:05 - 0:08] Fatigue) >
+[0:06] may
+[0:06] sobje'
+[0:07] rad. A
+[0:07] PE \y
+[0:07] कल नम.
+[0:07] our
+[0:08] soe
+[0:08] lon
+[0:08] ice)
+[0:09] है “Wy
+[0:09 - 0:24] | Feelingitiged # Fatigue
+[0:10] part
+[0:11] ie dag
+[0:11] exercise
+[0:12] means
+[0:13] ly fe
+[0:13] yg ae
+[0:13] ‘ क्र
+[0:13] you
+[0:14] नमन
+[0:14] Whee
+[0:15] दी गा # ६2
+[0:15] ess
+[0:15] aga =
+[0:15 - 0:17] and
+[0:16] back
+[0:18] /जुमैओ |
+[0:18] weaker
+[0:19] jd ue 3
+[0:19] you
+[0:20] é 7. fF)
+[0:20] हज 191९6
+[0:22] = 4 same
+[0:24] fatigue
+[0:25] श्र
+[0:26] (all
+[0:26] jyou
+[0:27] oe 1
+[0:27] tired »
+[0:27 - 0:37] | Feelingjtiged # Fatigue
+[0:29] “Nothing
+[0:30] fatigue
+[0:31] _ tired
+[0:32] Sigs
+[0:34] ‘fatigued,
+[0:37] Anyways

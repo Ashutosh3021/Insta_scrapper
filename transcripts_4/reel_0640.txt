@@ -1,0 +1,89 @@
+# model: ggml-large-v3
+========================================================================
+[640] https://www.instagram.com/reel/DRxQcQNDEh3/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] You spin my head right round, right round
+[0:07 - 0:10] When you go down, when you go down, down
+[0:10 - 0:15] You spin my head right round, right round
+[0:15 - 0:18] When you go down, when you go down, down
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Just'so you kno Le 1 Ti
+[0:01] * — Just sory kne
+[0:01] hae
+[0:01] p> Fe
+[0:01] TEN
+[0:01] i 47
+[0:02] domntinavel do |
+[0:02] epstomwarmup —
+[0:02] बाहर in
+[0:02] खडे
+[0:02] ९ र--पर
+[0:02] a no
+[0:02] ey SP,
+[0:02 - 0:04] high
+[0:03] You
+[0:03] have to do
+[0:03] fomwanmup
+[0:03] ter
+[0:04] i. रू
+[0:04] anmup
+[0:04] — New
+[0:04] r= »b oy
+[0:04] के a
+[0:05] hep ar
+[0:06] ह iT
+[0:06] pbs
+[0:06] ha i
+[0:07] १५०
+[0:08] ia 1
+[0:08] ial
+[0:09] Wai -
+[0:09] i tbhep
+[0:10] a Le |
+[0:11] Warmups al tsupposed to)
+[0:11] al fatigue
+[0:11] fu? oe
+[0:12] (ay 3
+[0:12] Pal
+[0:12] mal
+[0:12] Rmups
+[0:12] n't supposed to)
+[0:12] 218
+[0:12] बहु
+[0:12 - 0:13] Wet
+[0:12 - 0:13] Create! fatigue
+[0:13] Mer
+[0:13] ral
+[0:13] its 2 leat
+[0:13] sed ta
+[0:13] Se hcl
+[0:13] A चक
+[0:13] ६३२५८“
+[0:14] Nag
+[0:14] 11905 aren't supposed to
+[0:14] bi fatigue
+[0:14] Car”
+[0:15] थे बच
+[0:15] 1॥8॥/8 supposed to. /
+[0:15] exepcise performance
+[0:15] 2.18
+[0:15 - 0:17] increaseyyour
+[0:16] | eee
+[0:16] 0000
+[0:16] 188 performance
+[0:16] 2a? ae
+[0:16 - 0:17] They're supposed to ,
+[0:16 - 0:18] (PAPE)
+[0:17] : (Say
+[0:17] iSé performance
+[0:17] | Re hed
+[0:18] pposedto ,
+[0:18] ereasejyour
+[0:18] XEHCISE, Per
+[0:18] ance
+[0:18] ca छेक

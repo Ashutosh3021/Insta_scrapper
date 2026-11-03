@@ -1,0 +1,135 @@
+# model: ggml-large-v3
+========================================================================
+[929] https://www.instagram.com/reel/DHn98BXN0D-/
+STATUS: OK
+DURATION: 0:53   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] टाइम अंडर टेंशन डस नोट स्टिमिलेट मसल ग्रोथ
+[0:02 - 0:04] बढ़ भाई मेरे ट्रेनर ने तो मुझे बोला था
+[0:04 - 0:07] मसल को एक्जाक्ली 40 सेकेंड के लिए टेंशन में रखना
+[0:07 - 0:09] मसल अपने आप ग्रोव होगा
+[0:09 - 0:10] या या दे डोन नो वो दे टाकें अबाउट
+[0:10 - 0:10] अभी टाइ
+[0:10 - 0:12] अभी टाइम अंडर टेंशन सिबे एक टूरे जो मैजर कर दा
+[0:12 - 0:14] तुम्हें एक सेट मारने में किता टाइम लगा
+[0:14 - 0:20] अब सारे रेप्स इक्वली कंट्रिब्यूट नहीं करेंगे
+[0:20 - 0:21] मसल ग्रोथ के लिए
+[0:21 - 0:29] अगर तुम जान बुचके एक वेट को कंट्रोल कर रहे हो
+[0:29 - 0:53] तुम्हें एक सेट मारने में किता टूरे जो मैजर कर दा
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Time
+[0:00 - 0:01] mime)
+[0:00 - 0:01] tensiog)
+[0:01] MUS:
+[0:01] eles
+[0:01] Time under tension does not
+[0:01] stimulate
+[0:02] ore ‘ion doe!
+[0:02 - 0:05] timulate muscle
+[0:03] १ छा
+[0:03] ler tension dor
+[0:03] we So
+[0:04] 40 ssconel mytin
+[0:04] der * « does
+[0:04] Ths
+[0:05] lan
+[0:05] are
+[0:05] A, does ni
+[0:07] seconel mytin a
+[0:08] myth
+[0:13] Possible
+[0:13] enemical]
+[0:13] 124
+[0:14] Pessina
+[0:14] Mechanical
+[0:15] ae ae
+[0:15] @uanti
+[0:15] n Of
+[0:15] tension
+[0:15] क्र
+[0:16] fir
+[0:17] @uantiication of
+[0:17] - ome
+[0:18] sss @tantiicstion of
+[0:18] call tension
+[0:18] ‘4 ss
+[0:19] ५७७
+[0:19] Not all reps न
+[0:19] fly
+[0:20] कि Notjall ‘Sy ‘a
+[0:20] Same;
+[0:20 - 0:21] reps equally contribute:
+[0:21] Cael
+[0:21] whe
+[0:21] ‘karenge muscle growth ;
+[0:21] leye
+[0:22] Tide SAE
+[0:22] ‘ Fir:
+[0:22] rst 5
+[0:22] 5. है
+[0:22] the poy few reps
+[0:22 - 0:23] * ina set of 10
+[0:22 - 0:23] First 5 reps do nothing)
+[0:23] F Bthe first few reps.will
+[0:24] "Sin एज.
+[0:24] rom
+[0:24] 4 re
+[0:24] “tana the last
+[0:25] Pre.
+[0:25] val
+[0:25] rth I
+[0:25] + ast Sire
+[0:25] Pp wil ty
+[0:25] ‘one
+[0:25] the last few reps Ak, है
+[0:26] Og Sreps willl
+[0:26] your
+[0:26] कि लक
+[0:30] Jas
+[0:32] never reachir
+[0:34] py re really just
+[0:35 - 0:37] Last 5 raps dlose to fallure
+[0:35 - 0:37] the most stimulus
+[0:36] Lest 8 reps close to feflure
+[0:36] uscle growt!
+[0:36] four last 5
+[0:37] to failure n
+[0:39] ee... High mech
+[0:39] ical
+[0:39] a cruite
+[0:39] 2 Gish motor)
+[0:39] where the amount of
+[0:39] mechanical tension is high
+[0:40] a hm
+[0:40] 1. High mi
+[0:40] calltension
+[0:41] 1 High mechanical tension
+[0:41] a Wu
+[0:41 - 0:42] on unit recruitment
+[0:42] Pialisin
+[0:42] tension
+[0:42] fora.
+[0:42] nit
+[0:42] 2. Hig!
+[0:42] also
+[0:44] ling down yor
+[0:45] Sahn
+[0:45 - 0:46] ‘contraction fe
+[0:46] Inger
+[0:47] e you magic:
+[0:48] \ Ves
+[0:48] n't make you mi
+[0:48] jrow more musi
+[0:50] to failure training
+[0:51] fal
+[0:51 - 0:52] fo failure
+[0:51 - 0:52] Followfor mone
+[0:52] O2RR
+[0:52] श्र
+[0:52] केक
+[0:52] jaximize mechai
+[0:53] के for mone
+[0:53] yeah hope that

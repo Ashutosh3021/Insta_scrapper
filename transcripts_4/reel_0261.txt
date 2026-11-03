@@ -1,0 +1,111 @@
+# model: ggml-large-v3
+========================================================================
+[261] https://www.instagram.com/reel/Dafr_AkMbMJ/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] If you want to get injured as fast as possible, the best thing which you can do is have no methods of progression.
+[0:05 - 0:09] You see, what a lot of people do in the gym is they don't really have a method of progression.
+[0:09 - 0:15] What they do is they go to the gym, try the heaviest weight which they can, come back to the next session and try that same thing again.
+[0:15 - 0:20] Now, this entire casket of things is not really optimal for load management.
+[0:20 - 0:25] Now, you see, whenever I'm performing two sets of a given exercise, now, on the first set itself, I do somewhere about five reps.
+[0:25 - 0:33] I work my way up from five reps to eight reps over the course of weeks, over the course of months, depending upon the rate of progression which I'm having.
+[0:33 - 0:38] Now, the moment I reach eight reps, I don't just increase the weight in the next session itself.
+[0:38 - 0:42] I wait one extra session before I increase weight.
+[0:42 - 0:47] Now, what this allows me to do is it keeps me from overloading too soon and too quickly.
+[0:47 - 0:51] And at the same time, it keeps my rate of progression standardized.
+[0:51 - 0:54] Now, obviously speaking, I am not progressing each week.
+[0:54 - 0:55] Yes, this cat is being.
+[0:55 - 1:00] But whenever I do progress, this is the method of progression which I'm going by.
+[1:00 - 1:01] Anyways, hope that has helped more.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Get injured asifast
+[0:00] get
+[0:00 - 0:04] sas possible
+[0:01] है. asjiast
+[0:02] ree fast
+[0:02] Get inj
+[0:02] thes >
+[0:03] Se red asfast
+[0:03] धुत]
+[0:03] 060
+[0:04] Get injured 30]
+[0:04] Late)
+[0:05] progression
+[0:06] कल श्र
+[0:06] Ory
+[0:11] है / रद हिल
+[0:11] हज than |
+[0:11] atime
+[0:11] ० | (५३१६
+[0:11] ais
+[0:11] 149
+[0:11] the
+[0:11] rcs
+[0:11 - 0:12] RAS
+[0:12] 4 te
+[0:12] 2111
+[0:12] heavier
+[0:12] which
+[0:13] ५ A. fie
+[0:13] Sil i
+[0:13] pully
+[0:13] back
+[0:13] Cis
+[0:14] Be Za
+[0:14] and
+[0:15 - 0:17] things
+[0:16] this
+[0:18] optimal
+[0:19] ) wr LL ?
+[0:19] load
+[0:20] you
+[0:22] xercise
+[0:22] Sa Be
+[0:23] the
+[0:25] reps
+[0:26] Sin te
+[0:27] है. ५
+[0:27] a. te
+[0:28] ४ Ns
+[0:28] | lx 4
+[0:29] reps
+[0:30] ही. कक
+[0:30] (jog
+[0:32] the
+[0:34] oe ०
+[0:34] हि i
+[0:35] SS, a
+[0:36] विज
+[0:36] ners
+[0:36] crease
+[0:37] next
+[0:38] itself
+[0:39] Ly ८
+[0:39] ana
+[0:39] a नस
+[0:39] Site
+[0:40] चना,
+[0:40] i ite
+[0:41] ५90.
+[0:41] “Zul
+[0:42] Now,
+[0:44] teers,
+[0:45] Ove:
+[0:45] efloading Wi
+[0:45] एटा
+[0:46] जैज
+[0:46] ब्छ 3
+[0:46] we ०,
+[0:46] Seo
+[0:48] Xe oe
+[0:50] progression
+[0:51] standardised
+[0:53] negsing
+[0:56] but
+[0:58] हे fe
+[1:01] a है
+[1:01] has

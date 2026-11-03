@@ -1,0 +1,98 @@
+# model: ggml-large-v3
+========================================================================
+[979] https://www.instagram.com/reel/DCjb-vjNTYq/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] a lot of people think that using the same weight every week will make them grow muscle
+[0:03 - 0:09] they think that you know using the same weight every week and you know feeling the fibers out
+[0:09 - 0:12] are the ones which are going to help you grow muscle but let me tell you that's not really
+[0:12 - 0:18] the case so whenever we work out we give our body a stimulus to grow after you give that stimulus
+[0:18 - 0:24] your body goes through a recovery period where it creates a specific adaptations to the stimulus
+[0:24 - 0:31] which you gave now that adaptation is now your new baseline which means that the stimulus which
+[0:31 - 0:38] you gave in the previous session is no longer a stimulus for the current session in order for you
+[0:38 - 0:46] to create the same cycle again you'll have to either increase in load or increase in reps so
+[0:46 - 0:50] don't think that you can get away with this cycle because this cycle is what determines muscle growth
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Progressive Overload ~/
+[0:01] ५ पु
+[0:01] Nel
+[0:02] PRO™ A,
+[0:03] PROG’
+[0:03] evel
+[0:04] PROGRESS"”” SVERLOAD
+[0:05] PROGRESSIV® 7५९7२ 080
+[0:05] f हर के
+[0:05 - 0:09] DONT USE THE SAME WEIGHT,
+[0:06] woe,
+[0:06 - 0:08] PROGRESS"
+[0:07] PROGRE Ps 54
+[0:10] DONT की ता
+[0:10] Fil
+[0:11] PROGRESSIVE OVERLOAD
+[0:11] Fness Love
+[0:11] SION
+[0:11 - 0:12] Wrong <><
+[0:12] ES a कर OVERLOAD
+[0:12] Fitness Level
+[0:12] | Ney
+[0:13 - 0:14] Training
+[0:13 - 0:15] Session
+[0:13 - 0:18] Stimulus!
+[0:13 - 0:25] Fatigue
+[0:14] Fatiqug
+[0:16 - 0:17] Seeman
+[0:16 - 0:31] Adaptation
+[0:17 - 0:21] Training
+[0:18 - 0:19] Session
+[0:20 - 0:22] cen
+[0:22 - 0:25] Stimulus!
+[0:23 - 0:24] YeSSION
+[0:23 - 0:25] SPECIFC ADAPATION
+[0:25] sean
+[0:25 - 0:27] Training
+[0:26] Traij
+[0:26] Recovery
+[0:27] Session
+[0:27 - 0:30] yery
+[0:28 - 0:37] New!
+[0:30] | Stimi
+[0:30 - 0:34] Session
+[0:30 - 0:35] Training
+[0:31] Fatigue
+[0:31 - 0:32] Stimulus!
+[0:32] ation
+[0:32 - 0:33] covery
+[0:33] Secale
+[0:33 - 0:34] Stig
+[0:34] | कक 258
+[0:34] Fai
+[0:34 - 0:39] Adaptation
+[0:34 - 0:42] lecovery
+[0:36] Trai
+[0:38 - 0:45] Increase load or reps ~/
+[0:39] Training
+[0:41] Tra
+[0:43] ery
+[0:44 - 0:45] Recdvery
+[0:46] So don't think that you can
+[0:46] इच्छा
+[0:46 - 0:47] OAD
+[0:46 - 0:48] PROG
+[0:47] PROF
+[0:47] Followsformore)
+[0:47 - 0:48] get away with this cycle
+[0:47 - 0:49] Level
+[0:48] OVERLOAD
+[0:48] Frtness Level
+[0:48] fonimone
+[0:49] पार आल कह ०87
+[0:49] Follow)
+[0:49] Because this cycle 1s what
+[0:50] OAD
+[0:50] vs forme
+[0:50] determines muscle growth.
+[0:50] iret

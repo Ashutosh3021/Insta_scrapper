@@ -1,0 +1,208 @@
+# model: ggml-large-v3
+========================================================================
+[920] https://www.instagram.com/reel/DH_BbDlB_hM/
+STATUS: OK
+DURATION: 1:08   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] If you think muscle damage causes muscle growth, you have been misled.
+[0:03 - 0:09] बहुत सारे लोगों लगता है कि जब तुम exercise करते हो, तुम्हारे muscles में एक micro tear create होती है,
+[0:09 - 0:12] which is then like built back stronger, that's not true either.
+[0:12 - 0:16] देखो muscle damage is a side effect of training, not the reason which you grow.
+[0:16 - 0:23] अगर तुमने इतना ज़ादा muscle damage कर लिया कि तुम्हारी body वो ही energy which it utilizes into creating new muscle fibers,
+[0:23 - 0:27] वो repair करने में ही डाल देगी, अभी एकदम simple terms में मैं समझाता हूँ,
+[0:27 - 0:33] जब भी तुम train करते हो, your body goes through this biochemical response which causes muscle damage, not your workout.
+[0:33 - 0:40] अब जब भी तुम exercise करते हो, after the exercise there is an increase in myops, अभी myops दो reason के वज़ से उपर जाते हैं,
+[0:40 - 0:49] muscle growth और muscle damage. अगर तुमने इतना muscle damage create कर लिया कि तुम्हारी body muscle damage को repair करने के लिए myops को redirect कर लिया instead of muscle growth,
+[0:49 - 0:59] तो क्या फायदा? अगर muscle damage सही में muscle growth cause करता, भाई endurance runners jacked होते, one more thing, अगर muscle damage सही में muscle growth cause करता,
+[0:59 - 1:08] मैं एक ट्रक के सामने खड़े हो जाता, और वो ट्रक मेरे को ठोक के चल जाता ना मैं jacked बन जाता, because that will create muscle damage, but would that cause muscle growth? नहीं, स्वयाब दे, I'll stop now.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Muscl
+[0:00] damage)
+[0:00] cle}
+[0:00] gro)
+[0:00] think
+[0:01] Mus
+[0:01] — With
+[0:01] think filuscle dai
+[0:01] ises
+[0:02] clelgrowsth,
+[0:02] ink muscle Me
+[0:02] muscle growth
+[0:03] s (damage:
+[0:03] clelgiowtti™
+[0:03] ad misled
+[0:04] क्र. misled Boh
+[0:05] aac ki jabh bhi tum Ei
+[0:06] — ki jabh bhi tu
+[0:06] cise krte
+[0:06] ait
+[0:06 - 0:08] /- igang
+[0:07] _ tearigang?
+[0:07] muscles me हु
+[0:07] कर जन
+[0:08] Micro-tearg
+[0:08] ied
+[0:08] =='™"Tumbhare muscles me el
+[0:08] Create hota hi
+[0:10] mm=wWhieH'is then like build ७;
+[0:11] lot
+[0:11] हटा
+[0:12] SFr
+[0:12] aay
+[0:13] luscle damagelistafsidete ttc
+[0:13 - 0:14] juscle damage
+[0:14] lerdamage
+[0:14] 18 a cide aits
+[0:14] Raining}
+[0:14] mem. le effect of
+[0:16] the reason whic!
+[0:16] ais
+[0:17] Too mu
+[0:17] More\volume = more damage
+[0:17 - 0:18] len Gamage can
+[0:17 - 0:18] feduce;
+[0:18] Aer
+[0:18] ich
+[0:18 - 0:19] More'yolume
+[0:18 - 0:20] Growin
+[0:18 - 0:21] more damage)
+[0:19] ymuchidama
+[0:19] (२९०७८,
+[0:19] Jamage}
+[0:19 - 0:20] moreld
+[0:20] ५22
+[0:20] ०0,110
+[0:20] ten
+[0:20] ican)
+[0:20] educelmuscle)
+[0:20] volume
+[0:21] Monelvolume=
+[0:21] करा
+[0:22] FG EE
+[0:22] tae
+[0:22] Mone}
+[0:22 - 0:23] orewolume = ore damage)
+[0:26] 292
+[0:26] = Mor:
+[0:26] imple}
+[0:26] tance
+[0:26] The development of skeletal muscle hypertrophy throu
+[0:26] traning: the role of muscle damage and muscle protein synthesis,
+[0:26] anne
+[0:28] eat”.
+[0:29] ६7०७०: ae
+[0:29] ‘onatie lomo
+[0:29] Local >>
+[0:29] rracebtarCa*
+[0:29] Degradation of Z ics
+[0:29] and regulatory proteins g
+[0:29] Change
+[0:29] 11077]
+[0:29] 7725 | write
+[0:29] ‘Swoling and gee
+[0:29] cat coon) मा
+[0:29] ination
+[0:29] ‘Z (coms)
+[0:29 - 0:31] gh mechanical fees ie
+[0:29 - 0:31] {et eccantne cortracions)
+[0:29 - 0:31] ‘Sructurl damage
+[0:29 - 0:31] (hn sarcomere cytoskeleton)
+[0:29 - 0:31] Pan
+[0:30] conse
+[0:30] 2. ecoenie cntactons)
+[0:30] ‘Seu!
+[0:30] Local (0 sarcomere ojtskeiton)
+[0:30] |ै wincontr
+[0:30] ory poten
+[0:30] rf Inflammation
+[0:30] ‘metaty twice
+[0:30] ७७५५ ge Ecko) **
+[0:30 - 0:31] dation ofZ ses
+[0:30 - 0:31] 1171]
+[0:31] Model
+[0:31] ‘onatie men
+[0:31] || eacnsar ०४
+[0:31] raquo pote
+[0:31] carga) ntayraon
+[0:31] ‘ometary | wnte
+[0:31] Satna 2९ ge tacos) मिंक
+[0:31] (cous)
+[0:32] क्र
+[0:32] ens
+[0:32] fae
+[0:32] af causesymuscle
+[0:33] ANeimvour workolk ==
+[0:34] ds Workout abh “Si
+[0:36] कम कप
+[0:36] क्र ho after the ७१८९।८ 5३०
+[0:37] mummKrie WO'after the exercise!
+[0:38] lYOPS:
+[0:39] i sirib 2
+[0:40] fe 2ireasons =
+[0:41] Musdls =i)
+[0:41] (67 protain ingestion
+[0:41] yourwanna nitpick
+[0:41] ५. है
+[0:41 - 0:42] iscle growth or
+[0:42] Muscle growin
+[0:42] ingestion
+[0:42] Wann
+[0:42] luscle
+[0:44] ४6 3
+[0:45] LIAR
+[0:45 - 0:47] REPAIR-ORIENTED
+[0:45 - 0:47] HYPERTROPHY-ORIENTED,
+[0:45 - 0:47] eof MU
+[0:45 - 0:47] With the progressiv
+[0:45 - 0:47] ‘damage throughout,
+[0:45 - 0:47] RT (repeated bout effect), the increases in MyoPS after each
+[0:45 - 0:47] RT bout
+[0:45 - 0:47] yy contribute to increases in muse!
+[0:45 - 0:47] mass. Es
+[0:45 - 0:47] stat
+[0:45 - 0:47] ze is minim:
+[0:45 - 0:47] cially in a train
+[0:45 - 0:47] which muscle damay
+[0:46] क्र
+[0:51] 1B al
+[0:53] 7 iz
+[0:54] Soe
+[0:54] Wie
+[0:54] wis
+[0:54] श्र
+[0:54] ~ hell
+[0:55] Rendupance) re
+[0:55] sjaftenallong? gun}
+[0:55] havelhigh' chilevels
+[0:56] ९5 ज्शुछ
+[0:56] 1271. |
+[0:56 - 0:58] a> wa
+[0:57] (Ya. ५
+[0:57] नशा बड़, छः
+[0:57] १२१० en la Se
+[0:57] आन ०
+[0:57] a + कुल
+[0:58] o2\8
+[0:58] 25 नकाः
+[0:58] Ae ७2
+[0:59] ot 4
+[0:59] J ba
+[1:00] Acdidenteinetese]
+[1:00] Nolet
+[1:00 - 1:01] \e EMyofibyadditioni
+[1:01] Acdident.in
+[1:01] We N
+[1:01] (\ hell son
+[1:01] Gol ed
+[1:01] है! pe
+[1:01] By Ae
+[1:01] Woe
+[1:04] ध्ब!
+[1:04] yak |
+[1:05] all
+[1:07] Bry
+[1:07] Followifonmone
+[1:07] Readicaption’aswell

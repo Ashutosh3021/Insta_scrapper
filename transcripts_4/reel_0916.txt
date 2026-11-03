@@ -1,0 +1,207 @@
+# model: ggml-large-v3
+========================================================================
+[916] https://www.instagram.com/reel/DIOr-7ktN5m/
+STATUS: OK
+DURATION: 1:20   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] बहुत सारे लोग मुझे पूछते है, what is 0-2 RIR and how do you train at it?
+[0:03 - 0:09] So this video is the only video you'll need to know what and how to train at 0-2 RIR.
+[0:09 - 0:15] अभी RIR is basically how close you are to failure during a set. इसे usually 5-0 के range में गिना जाता है.
+[0:15 - 0:22] अगर तुमने 8 reps मारे थे एक lift में और तुमने estimate किया था कि तुम और 2 मार सकते थे with good technique, you would be at 2 RIR.
+[0:22 - 0:28] अगर तुम एक beginner हो, the best thing you can do is just go to failure, like actually fail your reps.
+[0:28 - 0:33] Feel what it feels like to struggle, feel what it feels like when you cannot lift the weight anymore.
+[0:33 - 0:38] Because अगर तुम्हें पता नहीं failure क्या feel करता है, you will never know how close you are at it.
+[0:38 - 0:41] अगर तुम failure के पास जा रहे हो, please make sure your form stays intact.
+[0:41 - 0:47] अगर तुम एक intermediate या फिर advanced lifter हो और तुमने कभी RIR track नहीं किया, this is what I'll suggest you.
+[0:47 - 0:53] Spend one week pushing all of your sets to failure और उसके अगले हफ़ते leave one rep in the tank.
+[0:53 - 0:55] Literally एक rep पहले बस रुख जाना.
+[0:55 - 1:01] अगर ये तुम बार-बार करोगे, you will figure out what failure actually is and what 1-2 RIR feels like for you.
+[1:01 - 1:07] अभी the best way to figure out if you are close to failure or not is watch how fast the weight moves.
+[1:07 - 1:12] If your bar speed or the way the weight moves is super fast at the end of the set, you are nowhere near failure.
+[1:12 - 1:17] But if your last reps looks like this, this is when you should know that you are
+[1:17 - 1:18] close to failure
+[1:18 - 1:18] so yeah
+[1:18 - 1:19] hope that helps
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aa. Wie,
+[0:01] कल १
+[0:01] Beilin
+[0:01] BOHOT
+[0:01] MUJHE ’ mw
+[0:02] aay
+[0:03] h HOW'DO You.
+[0:03] TIS On? RI
+[0:03] , AT है
+[0:04] thy
+[0:05] कै हि
+[0:05] tas
+[0:05] हि f
+[0:06] है पा
+[0:07] व हर
+[0:08] * Wie
+[0:09] Sees
+[0:10 - 0:11] Bid
+[0:11] r ae
+[0:11] = 93७ छ
+[0:11] HE PR
+[0:11] ITY 4५] FAILURE
+[0:11] ns S
+[0:12] ‘MAXIMUM INTENSITY. NO REPS LEFT IN RESERVE.
+[0:12] VERY HGH INTENSITY. ONE REP LEFT N RESERVE.
+[0:12 - 0:14] RIR SCALE
+[0:12 - 0:14] REPS IN RESERVE
+[0:13] Re eremereebis
+[0:13 - 0:14] AS WELL,
+[0:14] BE MORE THAN S:
+[0:17] ape
+[0:19] COULD
+[0:19] peop
+[0:20] ope
+[0:20] “dnp
+[0:21] te yl
+[0:21] Ries 9»
+[0:23] 3 as
+[0:23] 1 Rl agar Tum ek beginner
+[0:24] If Youn
+[0:24] © a ba,
+[0:24] g ५०%
+[0:24] or the best thing
+[0:25] If Yournerallts
+[0:25] failuine
+[0:25] or the best thing you can do
+[0:25 - 0:26] Inner pe
+[0:26] If Yi
+[0:26] ure & bag
+[0:26] rain 09
+[0:26] FES
+[0:26] like
+[0:27] «११४
+[0:27] Train t Us /
+[0:27] हु like actually fail |
+[0:28] feel ™
+[0:30] Dt — oN!
+[0:31] , पैर
+[0:31] feelwhat it
+[0:32] wed
+[0:33] because
+[0:34] L247
+[0:34 - 0:35] because Agar tum 9:
+[0:35] बाद
+[0:35] fail
+[0:36] ae 3m
+[0:37] rie
+[0:37] C0 i
+[0:37] है Fre:
+[0:37] yeu pew r know how
+[0:38] in al
+[0:38 - 0:41] Prioritise Tec ait
+[0:39] ral
+[0:39] जय व्याया:
+[0:39] ष्प्यहि
+[0:39] ~fl हू
+[0:40] १2७, ;
+[0:40] nique
+[0:40] pleas
+[0:41] ary
+[0:41] aay, Seal
+[0:41] - अशम
+[0:41] = stays rd
+[0:43] to make interm
+[0:43] diate
+[0:43] idvance
+[0:44] श्र di
+[0:45] | ke kabhi RIR track
+[0:47] you
+[0:48] a= खा
+[0:48] tinew
+[0:48] 11 18
+[0:48] you aod Ihweek
+[0:48] eee
+[0:48 - 0:50] है ‘Week 1: 2 set/mg @ Faittife a
+[0:49] ies /
+[0:49] all of-your
+[0:49 - 0:50] you spend 1-week pushing
+[0:50] a Ss
+[0:50] all of-your sets to failure
+[0:50] नकल
+[0:51] ० as |.
+[0:51] hl i
+[0:51] oe Failure
+[0:51] fis
+[0:51] or uske agley
+[0:52] he F
+[0:52] | प्र
+[0:52] wee ‘Set/mg
+[0:52] ae aa
+[0:52] / 56 RIR 4
+[0:52 - 0:53] or uske agley aftd feave’ohe
+[0:53] Sh I
+[0:53] ima “|
+[0:53] Pt a Le
+[0:53] te @1 RIRG|
+[0:53] ‘= a lal
+[0:53] rep in-the tank
+[0:54] » जप F
+[0:54] i TAB
+[0:54] eel
+[0:54] cs ar at rg)
+[0:54 - 0:56] literally a ek
+[0:55] are
+[0:55] ye k 1: 2 set
+[0:55] go tle
+[0:55] शु tera a oP fehie =
+[0:56] ‘Pony
+[0:56] Week 1: 2 set/m
+[0:56] Fail el
+[0:56] Week 2: 2’sets/mg @1 RIR’
+[0:56] Jai
+[0:58] स्पा
+[0:58] you'll figure
+[0:59] Pan
+[0:59] EIEN Ey
+[0:59] you'll aes, :7
+[0:59] lure
+[1:00] Inverse Relationship Between Reps in
+[1:00] Reserve and Mean Velocity
+[1:00] and what 1
+[1:01] Meals >
+[1:02] eae:
+[1:02] Til be
+[1:03] rife
+[1:03] way = figure out
+[1:04] way to figure out if you're
+[1:04] close to failure
+[1:05] ii ye
+[1:05 - 1:06] 1. ‘CONTRACTION VELOGITY.
+[1:06] wi iow:
+[1:07] ria
+[1:07] is watch how fast the weight
+[1:07] moves
+[1:08] if your bar speed
+[1:09] > jay
+[1:09] CONTRACTION VELOCITY
+[1:09] or the ee the weight moves
+[1:10] भर i
+[1:10] = weight moves
+[1:10] super aay ms
+[1:11] हक 5
+[1:11] tise
+[1:12] 54 5
+[1:12] f the set you're
+[1:12] near :
+[1:14 - 1:15] but if yourJast reps looks
+[1:15] oes /
+[1:15] like this
+[1:16] whi
+[1:17] rue
+[1:17] नजर
+[1:17 - 1:18] when tbe should know that
+[1:18] ers
+[1:18] you're close to failure
+[1:19] — a. we
+[1:19] So-yeah hope that helps
+[1:19] follow
+[1:19] wee

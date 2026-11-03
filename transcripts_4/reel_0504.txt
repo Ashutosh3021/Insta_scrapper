@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[504] https://www.instagram.com/reel/DVRNnryjJEn/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ian
+[0:00] Just
+[0:00] letting you
+[0:01] ISS
+[0:02] Your a=
+[0:02] don't
+[0:02] i Hh (oe
+[0:02] चना
+[0:03] Your optimal
+[0:03] Nap
+[0:03] mmacros don’t m
+[0:03] bee
+[0:03] 1 जे
+[0:04] if your 2 B
+[0:04] ie AY
+[0:05] isn'tonp
+[0:05] aay
+[0:05 - 0:06] if your gut पट
+[0:06] la aA
+[0:06] isn't on point हि
+[0:07] stop 4, =
+[0:07 - 0:09] | ‘the symptoms
+[0:08] stop है ना
+[0:09] la ignor
+[0:09] Wh eal
+[0:10] 4 Wi
+[0:10] a पक
+[0:10] श्र
+[0:10 - 0:11] washroom visits
+[0:11] Stop ignoring th
+[0:11] बना
+[0:13] lz ——s
+[0:13] the bloating “a
+[0:14] 4 Wi
+[0:14] ree कि.
+[0:14] sen
+[0:15] Stop ignori
+[0:15] aes reflux
+[0:15] ये Wis
+[0:15] ios
+[0:15] haji

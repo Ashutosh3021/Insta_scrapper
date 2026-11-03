@@ -1,0 +1,106 @@
+# model: ggml-large-v3
+========================================================================
+[301] https://www.instagram.com/reel/DZh1RU3s0UV/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] है; कर
+[0:00] Wee
+[0:00] T hus letting
+[0:00] yaukno
+[0:00] eS के
+[0:00] नशे
+[0:01] Feuer
+[0:01] Mie
+[0:01] ASE
+[0:01] oesn am
+[0:01] ty th
+[0:01 - 0:03] Mas
+[0:01 - 0:03] NOVE Mass
+[0:02] Mrs.
+[0:02] TAL
+[0:02] er 4
+[0:02] 3 Pn
+[0:02] sit
+[0:02] Bef
+[0:02] 651
+[0:02] move
+[0:02] 11853 =
+[0:02] eer
+[0:02] pes
+[0:03] Muscle
+[0:03] Sey
+[0:04 - 0:05] Muscle mass MOVES Mass
+[0:06] जज 11 0/68 11855
+[0:06] Oe oe
+[0:07] PF < «७
+[0:07] — MOVESTUESS
+[0:07] co 4
+[0:08] _ iil
+[0:08] ay iN
+[0:08] Makifg:you permanently stron
+[0:08] is your muselesnass
+[0:08 - 0:10] “Only thing that’s
+[0:09] १11
+[0:09] |80॥॥॥/00॥ permanently stro gen
+[0:09] 18 your,masglemass ~
+[0:10] Ls you perm
+[0:10] anently str
+[0:10] is your,masclemags
+[0:10] श्र
+[0:10] है हा
+[0:11] allthe
+[0:11] everagelgains
+[0:11] | ally
+[0:11] Kite \
+[0:11 - 0:12] [8110)/80/0
+[0:12] elgaln 5990
+[0:12] fluff
+[0:12] | क्र
+[0:12] — अमन
+[0:13] eapeme हार
+[0:13] UWI
+[0:13] all a7
+[0:13] als
+[0:13] ॥ "8110४
+[0:13] yourilutt
+[0:13] AES
+[0:14] Fr अल
+[0:14] \ A AS
+[0:14] Ve PPM
+[0:14] nya
+[0:14] 9 Youc
+[0:14 - 0:15] a canlarp strength
+[0:14 - 0:16] On alfiew lifts
+[0:15] Ye DN
+[0:15] NWS
+[0:15] श्र
+[0:16] Neal
+[0:16] Ne DON
+[0:16] जाओ
+[0:16] You can [arp st
+[0:16] rength
+[0:16] bee
+[0:17] VAS
+[0:17] Ne BN
+[0:17] pre
+[0:17] 22 You.canlarp strength
+[0:17] <> > 20 lifts
+[0:18] J as
+[0:18] Ae a
+[0:18] cannotila
+[0:18] pil
+[0:18] Inallthe
+[0:18] EXERC
+[0:18] ISES
+[0:19] wae
+[0:19] 4 जि]
+[0:19] But y
+[0:19] 00७8
+[0:19] annowlanpiit™
+[0:19] In all the.exercises

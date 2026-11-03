@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[515] https://www.instagram.com/reel/DVGk-2ljAsH/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] Thank you for watching.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] ee कमल
+[0:02 - 0:03] a इुकन+>-
+[0:03] ies
+[0:05] ist
+[0:05] a रन स कल
+[0:06] - isnot Sp
+[0:07] yey
+[0:07] ail!
+[0:07] a नस इन
+[0:08] a सनक
+[0:10] 4 05१
+[0:10] किक !|
+[0:10 - 0:12] eS कर
+[0:11] r t state

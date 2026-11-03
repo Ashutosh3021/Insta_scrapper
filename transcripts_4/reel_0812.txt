@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[812] https://www.instagram.com/reel/DMYOr60ttcz/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] अरे लाट फोल्ड, वा वा, पीनन को क्या हुआ, केवल, टाइम कम है, टाइम कम है, एट्स टाइम, एट्स टाइम, टाइम कंस्ट्रेंट्स, और, ठीक है फिर ड्रॉप सेट भी करी लेते हैं, चुप,
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Raghu cheats son keenamflaps)
+[0:01] an I a
+[0:01 - 0:04] Raghu cheatior keena
+[0:01 - 0:04] aps)
+[0:02] न. ae
+[0:02] aie
+[0:03] RAs
+[0:05] | Raghu
+[0:05] mae
+[0:06] है नगर
+[0:06] Raghu cheat 0 eenan flap
+[0:07] “yes
+[0:07] i | onlkee nan if
+[0:08] ffs
+[0:08] है | 8 onlkeenamila
+[0:09] 5 kee, a i
+[0:09] Hiss
+[0:10] Ge कक
+[0:10] Raghucheats o
+[0:10] Ler
+[0:10] i पर
+[0:10] bth
+[0:11] Raghtugh ‘
+[0:11] Sue
+[0:12] mi gl
+[0:13] a h | ol
+[0:13] Tae

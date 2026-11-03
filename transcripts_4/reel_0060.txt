@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[60] https://www.instagram.com/reel/DeR45zsMkML/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] \y ta
+[0:00] Kitchen lighting crazy,
+[0:01] 4 lighting crazy
+[0:02] hited
+[0:03] law
+[0:03] ania 4
+[0:04] के 23
+[0:04] ti जे
+[0:05] घ-« pom
+[0:06] ण्ग्ग्ग्ग््िगा
+[0:06] areas
+[0:06] ate
+[0:06] ete
+[0:06] attr
+[0:06] ote
+[0:06] wae
+[0:06] कक ett ty
+[0:06] Bae
+[0:06 - 0:07] ees
+[0:06 - 0:07] कफ कक कक
+[0:07] ‘pag
+[0:07] sats
+[0:07] tat
+[0:07] ose
+[0:07] ++ ett
+[0:07] tet
+[0:07] tatty
+[0:07] + कक कक कक
+[0:07] ree
+[0:07] Parse:
+[0:10] awe wer

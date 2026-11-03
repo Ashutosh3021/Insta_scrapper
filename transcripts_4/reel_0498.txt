@@ -1,0 +1,244 @@
+# model: ggml-large-v3
+========================================================================
+[498] https://www.instagram.com/reel/DVZIrzkjAXm/
+STATUS: OK
+DURATION: 1:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] you're measuring your blood pressure with any of these blood pressure machine you need to hear this
+[0:04 - 0:08] you see what a lot of people do is they just grab the machine sit down measure it and find a reading
+[0:08 - 0:12] which they don't like and that is not what you are gonna do i'm gonna teach you a way to measure your
+[0:12 - 0:17] blood pressure so that you don't get worried about your blood pressure first things first we look at
+[0:17 - 0:22] the environment we want to be in an environment which is completely quiet in a comfortable
+[0:22 - 0:26] temperature where you ideally don't want to be sweating second thing which you want to make sure
+[0:26 - 0:32] is before you take your measurements no smoking no caffeine no exercise prior checking your blood
+[0:32 - 0:36] pressure third thing which you want to do is you want to make sure that your bladder is empty yeah
+[0:36 - 0:40] go ahead go to the bathroom pee and come back next thing which you want to do is you want to sit on a
+[0:40 - 0:44] chair which has this back support and you want to sit upright on it now the next step before you
+[0:44 - 0:49] even start measuring is relax for three to five minutes after relaxing you can put this around
+[0:49 - 0:53] your arm make sure this fits your arm pretty well and it's your own arm size the next thing which
+[0:53 - 0:56] you want to do is you want to keep your arm in a place where you can rest it to the ground and then
+[0:56 - 1:00] rest it comfortably now before you start the machine and start measuring your blood pressure
+[1:00 - 1:06] make sure while this machine is measuring your blood pressure you are not talking during the
+[1:06 - 1:10] measurements you're going to take the first measurement wait for one minute take one more
+[1:10 - 1:15] measurement wait for one minute and then take one more measurement then what you're going to
+[1:15 - 1:19] do is you're going to take the last two measurements and take the average of both of
+[1:19 - 1:23] the measurements that is gonna be your blood pressure anyways that is it hope that has fun
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ity
+[0:00] IME!
+[0:00] THI
+[0:00] "६७७७७ NADA
+[0:00] Quire measuri
+[0:00 - 0:03] Blood pressure
+[0:00 - 0:03] Machines?
+[0:01] pressure
+[0:01] mat
+[0:01] chine
+[0:01] joulre]
+[0:01] bloodip
+[0:01] Imeasuninglyours
+[0:02] 1149
+[0:02] vO NAS
+[0:02] these
+[0:03] M TH
+[0:03] १४५७७ NAG
+[0:03 - 0:05] TIME!
+[0:04] atl
+[0:04] IMEs
+[0:04] ४ 111५
+[0:04] uit
+[0:04] NAG
+[0:04 - 0:07] don't be like
+[0:04 - 0:07] ily lot ofjpeople
+[0:05] THI
+[0:05] VOR NAA
+[0:05] ido}
+[0:06] lomjtibe like
+[0:06] ‘ee people)
+[0:06] ist
+[0:06] dojisttheyjustignabythe}
+[0:07] 322
+[0:08] ire it andyfint
+[0:08] ichith
+[0:11] flow
+[0:11] optimally
+[0:11] mea
+[0:11] NAD
+[0:11] Gormgenna)
+[0:11 - 0:13] measure blood pressure
+[0:12] yy youal
+[0:12 - 0:13] How to optimally
+[0:13] blood:
+[0:14] TIME!
+[0:14] ४ THI
+[0:14] in NA
+[0:15] —— शशि
+[0:15] donjt}
+[0:16] i il
+[0:16] aitiget worried abouty
+[0:16] blood press,
+[0:17] IME!
+[0:17] von NAD:
+[0:17] ithe}
+[0:17 - 0:21] UM THI
+[0:18] ॥॥॥१01॥116
+[0:18] YER
+[0:18] ES, Hi
+[0:18] SOMETIME!
+[0:18] REFORM TH
+[0:18] a oe
+[0:18 - 0:20] REVOR NAB
+[0:19] aly
+[0:19] 1४४०० NADA
+[0:19 - 0:20] 1. Environment
+[0:19 - 0:21] ETIME!
+[0:20] ily
+[0:20] KM 1111
+[0:21] ‘RSVOR NAD
+[0:21] alge eat
+[0:22] x ww
+[0:22] IME!
+[0:22] THI
+[0:22] 7०७६ NADA
+[0:22] linfa}
+[0:22] completely)
+[0:24] ETIME!
+[0:24] RM THI
+[0:24] छाए NAD
+[0:25] IME!
+[0:25] THI
+[0:25] TREVOR NADA
+[0:26 - 0:29] ino'smoking, coffee or exercise
+[0:26 - 0:32] 30/mins\prior
+[0:28] coffee or exercise
+[0:28] PLE
+[0:28] hyoultakeyyourg
+[0:28] imeasunement
+[0:29] Thy
+[0:30] व no\smoking, coffee or 6/810196
+[0:31] proving! coffee or exerci:
+[0:31] aby »
+[0:31] ETIME!
+[0:31] cM THI
+[0:31] +६॥७छह NAT
+[0:31] prior
+[0:32] 12110 31001
+[0:32] coffee or exercise
+[0:32] ily »
+[0:32] TREVOR NADH
+[0:32] fehecking yo
+[0:32 - 0:36] TIME!
+[0:32 - 0:36] THI
+[0:33] NADA
+[0:33 - 0:37] 3- go pee bro
+[0:34] 3- go ok
+[0:34] wocbisyou wel
+[0:34 - 0:36] ‘SIVOR NADA
+[0:35] ray
+[0:35] हें ४७
+[0:35] ws 5
+[0:35] NEVOR NADA
+[0:35] Curelthatyourbla
+[0:35] dei
+[0:36] 3-00 nee bro
+[0:36] eah,
+[0:36] 932
+[0:37] ES, छा
+[0:37] vit
+[0:37] F¢ Ra THI
+[0:37] IGojtojehe)
+[0:37 - 0:38] >)METIME!
+[0:38] ES, i
+[0:38] 21९५ TH
+[0:38] wwe - स्व
+[0:38] Goto the washroom,
+[0:39] श्र
+[0:39] ४ ० व
+[0:39] t thing which
+[0:39 - 0:41] ©, onaback supported chair
+[0:39 - 0:42] जे 4- Sit comfortable
+[0:40] one)
+[0:40] fon}
+[0:41] _ & Sit
+[0:41] ‘onal
+[0:41] back
+[0:41] ok) it
+[0:42] on a oly chair |
+[0:42] ES, Hi
+[0:42] METIME
+[0:42] oM TH
+[0:42] nena
+[0:44] iva 5
+[0:45] iva की
+[0:45 - 0:46] RM TH
+[0:45 - 0:47] “VOR NAB
+[0:45 - 0:48] METIME
+[0:46] a wy
+[0:46] ily 2
+[0:46] TT छ
+[0:46] hyoulevenistant) 1118]
+[0:46] ॥511613 21
+[0:46 - 0:47] 5- Relax
+[0:47] sii
+[0:47] youeven Seles
+[0:47] asuring
+[0:47] 013 5 111
+[0:49] Tie AR
+[0:49] youlcan put this around
+[0:49] youn,
+[0:53] नजर
+[0:53] til
+[0:54] not toohigh
+[0:54] THiS
+[0:54] keepjyourg
+[0:54 - 0:55] MakelsUgelitésinot:toollow,
+[0:55] @ndmantoonigh ५
+[0:55] AYER
+[0:55] ORM Tei
+[0:55] oe २ जेट.
+[0:55 - 0:56] SOMETIMES®
+[0:56] sae
+[0:56] iwhere\youlcanjrest
+[0:58] HER
+[0:59] atl
+[0:59] hafhahahaah
+[1:00] fhaltahahaah
+[1:00] TEN
+[1:00] i mt
+[1:02] 4 ai}
+[1:02] eat
+[1:02] yw Ss
+[1:04] ard
+[1:04 - 1:05] 7-no talking
+[1:05] notitalkii
+[1:06] 1-0 talking
+[1:07] take 3 measurements at 7 min
+[1:07] tiethe
+[1:07 - 1:14] interval
+[1:08] है take *... at Iimin
+[1:08] पडता
+[1:09 - 1:11] है itakeld measurements at 1 min j |
+[1:10] ह take PR oer at 1 min f
+[1:10] nuite ntl
+[1:11] VA aSuremé
+[1:12] itakel3 0 at min
+[1:12] Pad
+[1:13] है take BAM cent at limin
+[1:13] wai
+[1:13] elminute, and)
+[1:14] ‘takelg measurements at 1 min
+[1:15] iWwhatyounelgc
+[1:16] Syoutins
+[1:17 - 1:19] : use the average of the last 2 f
+[1:17 - 1:19] measurement
+[1:18] Natta
+[1:18] takelthelayenage)
+[1:18] ons. $
+[1:19] fanditakett
+[1:19] avatasere
+[1:22] » follow >
+[1:22] adil
+[1:23] a ०0 that

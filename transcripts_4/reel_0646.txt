@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[646] https://www.instagram.com/reel/DRmdmplEy7Z/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] I want to hold them like they.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] गा बुआ
+[0:00 - 0:02] It goes)
+[0:00 - 0:02] yi without saying
+[0:02] i हे
+[0:03] हु 05900
+[0:03] [2८६१
+[0:03] श्र
+[0:03 - 0:04] Your isnit
+[0:04] clung
+[0:04] —aae,
+[0:04 - 0:05] 1 OURpISS p
+[0:05] Your seat loaheisine
+[0:05 - 0:08] ares
+[0:06] goingito be fixingyour ९
+[0:06 - 0:08] better choicelsh
+[0:07] IAYS ,
+[0:07] first
+[0:07 - 0:08] goingjto be fixingyour execi jon |
+[0:08] WAYS Ss
+[0:08] क्र
+[0:09] pos
+[0:09] 9988108॥ 389
+[0:09 - 0:12] ye And not using
+[0:09 - 0:12] bandaid to fix your technique \
+[0:10 - 0:12] aseatbelt asa
+[0:12] न्न

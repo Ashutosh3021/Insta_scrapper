@@ -1,0 +1,193 @@
+# model: ggml-large-v3
+========================================================================
+[867] https://www.instagram.com/reel/DKH4y49hNTv/
+STATUS: OK
+DURATION: 1:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] What is going to be a limiting factor in a wide grip row?
+[0:02 - 0:04] Is it the traps or is it the rear delts?
+[0:04 - 0:08] Now there is a big debate going on between what is going to be a limiting factor in this movement
+[0:08 - 0:11] so I am going to test this theory out myself.
+[0:11 - 0:14] So I performed a set of wide grip rows followed by calso shrugs
+[0:14 - 0:16] to see what is the limiting factor for me
+[0:16 - 0:19] and to my surprise I got 3 extra calso shrugs
+[0:19 - 0:22] which means for me the limiting factor was my rear delts.
+[0:22 - 0:24] Now does that mean that it is going to be the same for everyone?
+[0:24 - 0:24] No!
+[0:24 - 0:28] You see on paper you can say that a wide grip row is horizontal abduction
+[0:28 - 0:30] followed by scapular retraction
+[0:30 - 0:32] which means if you are not able to perform horizontal abduction
+[0:32 - 0:35] you won't even reach scapular retraction.
+[0:35 - 0:39] Now in theory you can say that the rear delts are going to be the limiting factor
+[0:39 - 0:42] but there are going to be individual differences in this.
+[0:42 - 0:45] If you have been around any kind of powerlifting athletes
+[0:45 - 0:47] you will quickly realize what I am talking about.
+[0:47 - 0:49] Now if we take the bench press for an example
+[0:49 - 0:54] where we fail in the bench press gives us an insight on what is the limiting factor for us.
+[0:54 - 0:56] Usually when we fail at the bottom
+[0:56 - 0:58] the limiting factor is going to be the chest.
+[0:58 - 1:00] When we fail at the lockout
+[1:00 - 1:02] the limiting factor is going to be the triceps.
+[1:02 - 1:06] You see the kind of individual differences which I am talking about?
+[1:06 - 1:08] Similar to a wide grip row
+[1:08 - 1:10] someone may have weak rear delts
+[1:10 - 1:12] and someone may have weak traps.
+[1:12 - 1:15] There is no objective limiting factor for this movement.
+[1:15 - 1:17] It is going to depend on the individual.
+[1:17 - 1:21] It is going to vary from individual to individual.
+[1:21 - 1:22] So yeah, I hope that helps for everyone.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] mi है
+[0:00 - 0:01] 3234 vs'Kelsoidebate
+[0:01] ATENSS
+[0:01] what i:
+[0:01] ares
+[0:02] | 6 row)
+[0:02] elso
+[0:04] Wey
+[0:04] is it the ti
+[0:04] ey it ‘|
+[0:04] delts
+[0:05] Sal
+[0:05 - 0:07] yer
+[0:07] coal
+[0:07] whi
+[0:07 - 0:08] 9 joing ६
+[0:08] Yen
+[0:08] what)
+[0:08] limiti:
+[0:09] wines J
+[0:11] i 7A,
+[0:11] sol
+[0:12] y “Th,
+[0:12] Pane]
+[0:12] sol performed
+[0:12] gri
+[0:12] ver
+[0:13] icy
+[0:13] TLE
+[0:14] है «व
+[0:14] 4 kN
+[0:14] 140००
+[0:15] rye
+[0:15] va Ay >.
+[0:15] ” ites
+[0:15 - 0:16] ‘to see what i:
+[0:16] factor for me: ,
+[0:17] éjicw
+[0:17] bode
+[0:17] and to my surprise ७०६
+[0:18] १1 कक
+[0:18] three extra Kelso,
+[0:19] which means
+[0:20] hint
+[0:20] hich means for me the
+[0:20] limiting
+[0:21] h means for me न ie
+[0:21] limiting factor was my
+[0:22] now does that
+[0:23] now does that mean that it's
+[0:23] gonna be the same
+[0:24] Ca Ae
+[0:24] for everyone no
+[0:25] -" youséé on - "Yn
+[0:26] foal
+[0:26] you say that awid —
+[0:27] San:
+[0:27] rizntal
+[0:27] fay’
+[0:28] Ee कि
+[0:28] is horizontal
+[0:29] at हजट्व- >.
+[0:30] १ es
+[0:31] क्र
+[0:31] if you're not able
+[0:32] ‘if हि ० not able to perform
+[0:32] horizontal abduction
+[0:33] 714
+[0:33] you won't
+[0:34] you won't even reach
+[0:34] scapular
+[0:36 - 0:37] now in theory you can say a
+[0:37] that the rear
+[0:38] J \ ao
+[0:38] iat
+[0:38] are going to be
+[0:39] I ip |
+[0:39] are going to be the limiti d
+[0:39] factor
+[0:40] but
+[0:41 - 0:42] there are going to be
+[0:42] individual differences
+[0:43] 221
+[0:43] if yc
+[0:44] kind
+[0:44 - 0:45] if you've been around any
+[0:45] kind of powerlifting athletes
+[0:46] you'll quickly
+[0:47] you'll quickly realize what I’
+[0:47] m talking
+[0:48] iow if we take
+[0:49] now if we take the bench
+[0:49] press for an example
+[0:50] Bes
+[0:50 - 0:51] where we
+[0:51] gay
+[0:51] in the bench
+[0:52] क्र
+[0:52] res us an insight
+[0:53] gives us an insight on P| ay
+[0:54] for
+[0:55] कर, v
+[0:55] Aon
+[0:57] te + Ee:
+[0:57] htm ॥
+[0:57] बी Mr
+[0:57] the
+[0:58] हैः दर ८““
+[0:58] 10९ ४
+[0:58] the limiting, fi
+[0:59] 7 ye
+[0:59] when we
+[0:59] हैः
+[1:00] SS जी
+[1:00] जाके Be
+[1:00] aia
+[1:01] sale hee EY
+[1:01] ti limiting fae
+[1:02] ज्ू
+[1:02] ied = Ae 1 ८
+[1:02] SS oe
+[1:02] cid
+[1:02] the limiti =)
+[1:03] hs fa
+[1:03] avy
+[1:03] you
+[1:04 - 1:05] you see the kind of
+[1:05] individual differences
+[1:06] ich I'm talking 300
+[1:07] hich I'm talking about
+[1:07] similar to a wide
+[1:08] ~ उद्े
+[1:08] ‘someone
+[1:09 - 1:12] | Someone may have weak
+[1:12] weak traps
+[1:13 - 1:15] re is no objective li
+[1:14] re is no objective limiting
+[1:14] factor
+[1:15] factor for this movement
+[1:16] श्र
+[1:16] joing to depend
+[1:17] fons to depend on | le
+[1:17] individual
+[1:18 - 1:20] it is going,
+[1:19] it is going to vary fro!
+[1:20] A= es
+[1:20] 822
+[1:20] individual
+[1:21] val
+[1:22] Followifon
+[1:22] mone)

@@ -1,0 +1,197 @@
+# model: ggml-large-v3
+========================================================================
+[938] https://www.instagram.com/reel/DHQwXtdBqyc/
+STATUS: OK
+DURATION: 1:07   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] A lot of people think that the more advanced you get, the more volume you need to just keep on adding in order to keep growing.
+[0:05 - 0:12] अभी ये main idea कहां से आता है कि उन्हें लगता है कि एक adaptation create हो चुकी है, volume get words.
+[0:12 - 0:16] So progress बनाने के लिए हमारा main motive होगा कि volume बढ़ा जाए.
+[0:16 - 0:20] But if this was really the case, you'd really see pro bodybuilders in the gym doing 200 or 300 sets.
+[0:20 - 0:24] Now the truth is, beginners can handle more volume compared to advanced people.
+[0:24 - 0:28] Now this is because they have not yet maxed out their motor unit recruitment.
+[0:28 - 0:33] They can recover faster and fatigue is just not a limiting factor for beginners.
+[0:33 - 0:36] Now for an advanced guy, it's completely different thing.
+[0:36 - 0:44] Every set for that guy creates more fatigue, which means if there is fatigue, there is reduction in the high threshold motor unit recruitment.
+[0:44 - 0:50] Now this guy has already maxed out his medium threshold motor units, which means that this guy just won't grow if he is fatigued.
+[0:50 - 0:58] So the more volume you add as an advanced athlete, the more fatigue you are creating, which will reduce the amount of motor units.
+[0:58 - 0:59] So the more volume you add as an advanced athlete, the more fatigue you are creating, which means that this guy just won't grow if he is fatigued.
+[0:59 - 1:03] So if you are adding sets thinking that it's gonna increase the stimulus of muscle growth, you're just creating unnecessary fatigue.
+[1:03 - 1:04] So if you are adding sets thinking that it's gonna increase the stimulus of muscle growth, you're just creating unnecessary fatigue.
+[1:04 - 1:05] So if you are adding sets thinking that it's gonna increase the stimulus of muscle growth, you're just creating unnecessary fatigue.
+[1:05 - 1:07] Hope that helps, all the best.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] tei
+[0:00] ‘ne lot of,
+[0:00 - 0:05] Advanced lifters
+[0:00 - 0:05] Need| more volume?.
+[0:01] Bali
+[0:01] fad
+[0:01 - 0:02] ple think that tl
+[0:02] 11228 more volume?
+[0:02] ave
+[0:02] fiw lot
+[0:02] ivanced you gi
+[0:03] ९७४४
+[0:03] ‘volume you
+[0:04] lume you need
+[0:04 - 0:05] कीं
+[0:04 - 0:05] keep.on
+[0:05] Lad
+[0:06] eSensi
+[0:06] ation
+[0:06] (981
+[0:06] हक ss:
+[0:07] itisation
+[0:07 - 0:13] fofistimulus?
+[0:08 - 0:13] Desensitisation @
+[0:10] Von
+[0:12] sitisation e
+[0:15] Volumemaxxing?
+[0:17] lly the ca:
+[0:18] you really see pro
+[0:18 - 0:20] Natural pros
+[0:20] doing 300
+[0:20] Low»
+[0:21] veh
+[0:21] wes @ sen
+[0:21] Imai
+[0:21] Recaytwoty Sere
+[0:21] OMedwwrr)
+[0:21] nig
+[0:21 - 0:22] Matos unt =
+[0:21 - 0:22] Fah
+[0:22] Beanne
+[0:22] ० 25
+[0:22] en Per
+[0:22] 20१४“ ay
+[0:22] Kor (्‌
+[0:22] Aine
+[0:22] Ses
+[0:22] WS 1901
+[0:23] कक सका |
+[0:24] pdvari eae
+[0:24] pai
+[0:24] ३१00०
+[0:24] 92५७
+[0:24] (०0०0)
+[0:24] ९१०) (००
+[0:24] ५४४९
+[0:24] Ve anit
+[0:24] Tons
+[0:24] )०० ५
+[0:24] ern प
+[0:25] Ww iS\because
+[0:26] : aie
+[0:26] now this
+[0:26] cause they
+[0:26] maxed
+[0:26] have not eee
+[0:26 - 0:27] = Motoriunit recruitment
+[0:27] th ocr
+[0:28] eee
+[0:28] fli.’
+[0:28] 5 by
+[0:28] A es
+[0:28 - 0:29] के Each set{isnit
+[0:28 - 0:29] that stimulative
+[0:29] पक हि
+[0:29] can recover
+[0:29] y पर
+[0:30] Eatig, a
+[0:32] aby A
+[0:32] and fatigue is just not a
+[0:32] limiting factor
+[0:32] as i
+[0:33] A an
+[0:33] 1५२४ १
+[0:33] Vida
+[0:33] खा 7 १
+[0:33] 1८९३०
+[0:33] #1/2०४४/६
+[0:33] led toe =
+[0:33] Nie
+[0:33] ) stirs sont
+[0:33] aye 2
+[0:33] [205७ | (owe.
+[0:33] Mechan
+[0:33] (030४९
+[0:33 - 0:34] Dine
+[0:34] Milos unite
+[0:34] Receuitmmt
+[0:34] 9.59
+[0:35] जे 2
+[0:35] het
+[0:35] condincen
+[0:35] Recautm
+[0:35] sie wh isn't
+[0:35] Med ७०
+[0:35] New
+[0:35] High
+[0:35] canny (५४४९
+[0:35] Mechanieal
+[0:35] (oowliweb
+[0:35] Tensi
+[0:35] 91100:
+[0:35] ile 1६
+[0:35] dyanced guy i
+[0:35] 11०० 0४"
+[0:38] Pe set cre.
+[0:39] क्त्स्श्‌-<
+[0:39] ly creates
+[0:40] = Eachiseticreates\fatigue,
+[0:40] means if there
+[0:43] ese nan high
+[0:43] shold motor
+[0:44] ६ ४४
+[0:44] a id mot
+[0:44] wast high
+[0:45] Bdvanc
+[0:45] ie ser
+[0:45] श्र
+[0:45] vice
+[0:45] Recauihmet
+[0:45] orp
+[0:45] praulh smth
+[0:45] Med tom
+[0:45] @ PMelarsike
+[0:45] sie 7
+[0:45] aan (ove 7
+[0:45] Mecha
+[0:45] orca}
+[0:45] ६०॥४थ ००
+[0:45] [0०४५४
+[0:45] 4. ५८५७ i
+[0:45] las already
+[0:45] 1००५ 1s ni
+[0:46] Py! ® 1
+[0:46] medium
+[0:46] La 4
+[0:47] medium threshold mot:
+[0:48] Nol
+[0:48] which mi
+[0:49] = Sa ae
+[0:49] which means Sie this guy
+[0:52] pres caais
+[0:52] y eS m 4
+[0:54] ६ ढक | ७
+[0:54] > की mor.
+[0:54 - 0:56] Fatiguemaxxing
+[0:55] the moresfatigue you're
+[0:55] रबी.
+[0:55 - 0:56] श्र
+[0:56] = ६ ale
+[0:56] which ier"
+[0:56] ha. 2
+[0:58] Bees tide
+[0:58] which Mi reduc
+[0:58] e tl
+[0:59] a ene
+[0:59] 4 Ay
+[1:00] Ls s >
+[1:04] बा आर
+[1:06] _followfor more
+[1:06] ० helps

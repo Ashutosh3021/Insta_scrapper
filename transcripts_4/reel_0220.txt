@@ -1,0 +1,124 @@
+# model: ggml-large-v3
+========================================================================
+[220] https://www.instagram.com/reel/DbQct4cM3QM/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] you know one of the weirdest experiences which you'll ever experience in the gym as a science
+[0:03 - 0:07] based lifter let's say you're working in with someone you're doing like an alternative set with
+[0:07 - 0:11] someone that guy is not science based he's doing somewhere about 15 20 reps on a particular set
+[0:11 - 0:16] and you over here you're gonna do two sets of five yeah the moment you load in that weight
+[0:16 - 0:22] and this guy's watching you perform that set he's expecting you to do about 10 reps 15 reps 20 reps
+[0:22 - 0:28] but the moment you just stop in after five reps he's gonna question you that's it just five reps
+[0:28 - 0:32] and then now you have to explain what the stimulating reps model is now you have to
+[0:32 - 0:35] explain what motor unit recruitment is now you have to explain supraspin and cns putting now
+[0:35 - 0:40] you have to explain catch your mind mechanisms bro like i don't want to do all that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Onaortine
+[0:00] iy ae
+[0:00] ibe
+[0:00] weirdest, you know one
+[0:00] ihe
+[0:00 - 0:02] Expeqiemcesiastal
+[0:00 - 0:02] Clen
+[0:00 - 0:03] dilifiter,
+[0:01] ७7०७७) te
+[0:01] Tun
+[0:01] 16 सु experiences
+[0:01 - 0:02] 019 ४ 8
+[0:01 - 0:02] lencelbased)
+[0:02] हैं |)
+[0:02] 921.
+[0:03] peRien
+[0:03] Scienc
+[0:03] 7 Vad
+[0:03] asa
+[0:04] One
+[0:04] oft
+[0:04] बाहर
+[0:04] क्र
+[0:04] jaa
+[0:04] aLet's Gam
+[0:04 - 0:06] he) weirdest
+[0:04 - 0:06] » Science based x
+[0:04 - 0:07] * ~ Experiences.as-a7)_
+[0:05] 1 One / जज thes La
+[0:05] b) sy based lift
+[0:05] mel
+[0:05] mecrmasconn
+[0:05 - 0:07] fame
+[0:06] One of
+[0:06] To, 6 >
+[0:06] ine
+[0:06] like
+[0:06] हि 7s
+[0:07] One pp weirdest
+[0:07] है! Seance bases
+[0:07] amt
+[0:07] fer.
+[0:07] set wi
+[0:08] pe n e हे
+[0:08] हूँ. ७७
+[0:09] SAS
+[0:09 - 0:11] Onejofithelweindest
+[0:09 - 0:11] asia)
+[0:09 - 0:11] lifiters
+[0:10] hiwap
+[0:10] Vitec
+[0:11] Pacuiat set
+[0:12] Ye py
+[0:12 - 0:14] Exieniemeestasial
+[0:13] Expeniemcestasya
+[0:13] ट्र्
+[0:15] Onaortna marcas
+[0:15] asia)
+[0:15] lifiters
+[0:15] है हो
+[0:15] Me dit
+[0:16] Expeniemcestasya
+[0:16] sass
+[0:17] Bex
+[0:17] ome
+[0:17] me you है ५ in that
+[0:17] eig
+[0:17] and this guy
+[0:18] 641)
+[0:18] wat
+[0:18] . you perform
+[0:20] Sos
+[0:20] i” ut
+[0:22] CaF
+[0:23] moment you
+[0:24] Ny iy
+[0:24] joment you jus
+[0:24] t after
+[0:25] ४० हो!
+[0:25] wii
+[0:26] rae)
+[0:26] ne te
+[0:26] पु to question you
+[0:28] aoe
+[0:28] Wwe
+[0:28] 1] प्र
+[0:28] : हा five reps
+[0:29] now you have te
+[0:31] AFI
+[0:31] i ulating reps model
+[0:32] | to explain
+[0:32] what
+[0:33] > recruitment
+[0:33] ‘thy
+[0:34] Now,
+[0:34] u have to
+[0:35] क्म्य
+[0:35] e to explain
+[0:35] sup
+[0:35] inal
+[0:36] है: 2 &
+[0:36] low you have to
+[0:37] हे you Have toexpla
+[0:38] bro
+[0:39] broli

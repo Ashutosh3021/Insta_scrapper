@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[971] https://www.instagram.com/reel/DF-aDb1txv-/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] पुल: रब
+[0:00] ower the ‘obtptecement 1
+[0:01] ower the idbplacement
+[0:02] 4 fot placemer
+[0:03] है नया
+[0:03] yi ah ad
+[0:03] Deeper the} =
+[0:03] lie
+[0:04] ie दर !
+[0:04] alle
+[0:04 - 0:06] wa ee the squat
+[0:05] "Ray
+[0:05] NN the squat
+[0:07] att
+[0:08] 7) Eerie squat g
+[0:08] ह 320. -
+[0:09] (Read'caption
+[0:09] eeper the squ:
+[0:09] Bis
+[0:10] tye
+[0:10] | =. the 890०६ of
+[0:10] wails

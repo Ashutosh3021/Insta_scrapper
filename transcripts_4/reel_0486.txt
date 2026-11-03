@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[486] https://www.instagram.com/reel/DVoHRQ3DBPg/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Lines, tell me lines, baby, tell me how you hate me
+[0:04 - 0:05] Hate me, hate me
+[0:05 - 0:07] Still tryna replace me
+[0:07 - 0:09] Chase me, chase me
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] » “sbls stay the same size
+[0:00] SSCS»
+[0:01 - 0:03] A not gonna
+[0:01 - 0:03] get you anywhere”
+[0:05] | ope

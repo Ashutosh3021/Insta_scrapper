@@ -1,0 +1,69 @@
+# model: ggml-large-v3
+========================================================================
+[725] https://www.instagram.com/reel/DPq1sS8jMWy/
+STATUS: OK
+DURATION: 0:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] The secret side of me, I never let you see
+[0:16 - 0:20] I keep a cage but I can't control it
+[0:20 - 0:23] So stay away from me, the beast is ugly
+[0:23 - 0:27] I feel the rage and I just can't hold it
+[0:27 - 0:31] It's scratching on the walls, in the closet, in the halls
+[0:31 - 0:34] It comes awake and I can't control it
+[0:34 - 0:36] Hiding under the bed
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] 1 Let merask
+[0:00 - 0:01] y you a question
+[0:02] il 3 2
+[0:02 - 0:12] #Let’s sayiijperformed
+[0:02 - 0:12] Sreps like,
+[0:02 - 0:12] this on’
+[0:02 - 0:12] week 1
+[0:03] | कु5
+[0:03 - 0:04] eae \
+[0:05] Sit
+[0:05] fLet’ss
+[0:05] ayillpenformed
+[0:06] 9. कफ
+[0:08] (कर जा
+[0:08] IAW
+[0:09] & 187-94॥1670/0180
+[0:11] | किड
+[0:12] il gl
+[0:13] iia
+[0:13 - 0:29] 4. and'on week 2
+[0:13 - 0:29] Siperformediaset
+[0:13 - 0:29] = ofGihere
+[0:14] Ip ze
+[0:15] हैँ
+[0:15] ॥1 We
+[0:19] i 3 “om
+[0:19] aaa
+[0:21] ॥ | कुल
+[0:22] boas |
+[0:25] We. a
+[0:25] | Gud
+[0:25] Wize
+[0:26] || स्श
+[0:26] 1.19 ez
+[0:27] bas |
+[0:28] We oan
+[0:30] led
+[0:30] Id you count
+[0:30] HAT 85
+[0:30] erload?
+[0:30] _ progressive ov
+[0:31] tid
+[0:31] any!
+[0:31] eee -3
+[0:31 - 0:36] the | ‘would you count
+[0:31 - 0:36] =" THAT’as
+[0:32] u count
+[0:32 - 0:36] progressive overload?
+[0:34] mse
+[0:34] 10266
+[0:35] किक
+[0:36] com

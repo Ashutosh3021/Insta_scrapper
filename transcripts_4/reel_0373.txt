@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[373] https://www.instagram.com/reel/DX0eNk8IQ-L/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] So I send a key up in the sky and I burn fire
+[0:04 - 0:07] I run, spend money, baby, I don't spend time
+[0:07 - 0:10] Every hot tray got something on the side
+[0:10 - 0:13] It's like a stage, whatever you decide on
+[0:13 - 0:19] I get up, roll up, fall out, hoes come easy
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 6 kg
+[0:03] a Xx
+[0:04] ! T3kgs
+[0:04] Pit
+[0:04 - 0:06] 66 kgs
+[0:04 - 0:06] 145 lbs
+[0:04 - 0:11] 160 |bs
+[0:05] kgs
+[0:05] हुए”
+[0:05] ian
+[0:05 - 0:06] © 78kgs
+[0:05 - 0:06] Fit |
+[0:06] hie
+[0:07] Aiea
+[0:08] mel
+[0:08] 652 af.
+[0:08] B Ae
+[0:09] sail
+[0:09 - 0:10] 145 Ibs
+[0:09 - 0:10] © T3kgs
+[0:09 - 0:12] 66 kgs
+[0:10] 5711
+[0:10] eat ay
+[0:11] 66188
+[0:11] 161 0
+[0:11] 145॥8
+[0:11] Sit
+[0:12] 18105
+[0:12] 145॥5
+[0:12] eit
+[0:14] ahr
+[0:15] 68198
+[0:15] ) 13165
+[0:15] 145॥5
+[0:15] हुए”
+[0:15] atin
+[0:15 - 0:16] Sit
+[0:15 - 0:20] 160 Ibs
+[0:16] §78kgs
+[0:16] Papo
+[0:16 - 0:18] 145 Ib:
+[0:16 - 0:18] 66 kgs
+[0:18] 5 1306
+[0:19] 145॥5
+[0:19] 68198
+[0:19] 10018
+[0:19] 18105
+[0:19] eit
+[0:20] sit

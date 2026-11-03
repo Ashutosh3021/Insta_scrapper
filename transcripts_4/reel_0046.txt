@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[46] https://www.instagram.com/reel/DeZ6Ff6sTNs/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] *outro music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 5] youl feel it? |
+[0:01] a feellit?
+[0:02] »-Dojyou feel it?
+[0:03 - 0:05] Oooo | feel it
+[0:05] क्र
+[0:06 - 0:10] % | feel it
+[0:07] 4 it :
+[0:07 - 0:10] Yeah lf
+[0:08] Hy) I fi
+[0:09] i) fi
+[0:10] h Ife

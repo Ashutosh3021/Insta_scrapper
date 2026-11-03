@@ -1,0 +1,135 @@
+# model: ggml-large-v3
+========================================================================
+[741] https://www.instagram.com/reel/DPHd6fmE-9z/
+STATUS: OK
+DURATION: 0:50   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] अब मैं बेटर हूँ, अब मैं जानता हूँ कि लाग्स में जो अनेटमी है, यही लगता है कि यार ये अड़क्शन मूवमंट तो बहुत अच्छा होगा लाग्स के लिए, बट ऐसा होता है नियान करने से लिखी बिट में पांच बिट बिट मिलागा।
+[0:30 - 0:50] अब मैं बेटर हूँ, अब मैं जानता हूँ कि लाग्स में जानता हूँ कि लाग्स में पांच बिट मिलागा।
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Now | know >
+[0:02] omy
+[0:03] eople th nk thatthe adduction movel
+[0:04] faLEtion move
+[0:04 - 0:05] k that tht
+[0:05] x ps
+[0:05] il है
+[0:05] ti6
+[0:05] move
+[0:06] \ Set
+[0:06] r id forladsyBut it's
+[0:07] Has
+[0:07] Res a ‘snot
+[0:08] she
+[0:08] plicat
+[0:09] isa <
+[0:09] श्र
+[0:10] TEs
+[0:10] NECK
+[0:10] MACHI
+[0:12] Brutal
+[0:13] rossing the
+[0:13] [irate i} eri ow | =a)
+[0:13 - 0:14] omic
+[0:13 - 0:14] ulder
+[0:13 - 0:15] have good leverage in frontal plane
+[0:13 - 0:15] Abstract
+[0:13 - 0:16] Here’s the
+[0:13 - 0:16] INTERNAL moment arm data
+[0:13 - 0:16] showing that lower lats.
+[0:14] ng the
+[0:14] eset eons
+[0:15] arms of the m
+[0:15] ng the anatomical shoulder
+[0:15] ‘how tate
+[0:15] [inate | ecm |=)
+[0:15] Figg
+[0:16] havesgoodslev.
+[0:16] infrontalplane
+[0:16] ation
+[0:16] ०1६
+[0:16] on and
+[0:16] है a
+[0:17 - 0:18] hou
+[0:17 - 0:18] tal flexion and
+[0:17 - 0:19] Here another one
+[0:19] 29 ५
+[0:19] a Ls
+[0:20 - 0:21] Both of these
+[0:20 - 0:21] IMAL studies show that
+[0:20 - 0:21] lats have good leverage in frontal
+[0:20 - 0:21] plane
+[0:21] tole
+[0:22] ७110
+[0:22] hil
+[0:22] ich yor
+[0:22] ulp
+[0:23] Wsing rapid movement withIhighteftont
+[0:23] jelps us get to hig
+[0:23] level]
+[0:23] cil
+[0:23] ised
+[0:23 - 0:25] motor unit recruitment
+[0:23 - 0:25] that is literally why i
+[0:23 - 0:25] that paper,
+[0:24 - 0:25] fort
+[0:24 - 0:25] helps us get to high level of
+[0:25] § movement 2
+[0:26 - 0:27] § you wouldn’t
+[0:27] lifferently just becai
+[0:27] u wan:
+[0:27 - 0:29] muscles are magically पु g
+[0:28] bui
+[0:28] wouldn't b है
+[0:28] rt gonn:
+[0:28] act differently just 0९९8
+[0:29] lactidifferently just because youl
+[0:30] and wait
+[0:32] wait}
+[0:32 - 0:34] little bi
+[0:32 - 0:34] plicate
+[0:33] Ce a
+[0:34] ष्य्म
+[0:34] 1010» bitimore)
+[0:34] compli
+[0:34] Anatom)
+[0:34 - 0:35] catedithanithat?)
+[0:35] itt
+[0:35] bit
+[0:35] more)
+[0:35] Col
+[0:36] ब्ट्को
+[0:36] matomy is little bitim
+[0:36] m@acomplicatedithan that
+[0:37 - 0:38] tal
+[0:37 - 0:38] Shoulder,
+[0:37 - 0:38] Extension)
+[0:37 - 0:38] Lower Lats
+[0:37 - 0:38] Rowing
+[0:37 - 0:38] Upperiats
+[0:37 - 0:38] ment
+[0:37 - 0:39] ‘With scapular depression)
+[0:39] Brutal
+[0:39] pes
+[0:40] a ow oll isa
+[0:40 - 0:43] ‘Shoulder.extension'
+[0:40 - 0:43] /movement
+[0:41] a Bisa ary
+[0:42] rec
+[0:42] A row a
+[0:43] a rowis ai
+[0:43] >धनन न
+[0:44] आस ककया फ
+[0:44] रेत]
+[0:44] Vibe
+[0:44] om ie
+[0:45] ii dd
+[0:45] t_bro
+[0:45] “See
+[0:46] ietibro
+[0:47] an | ae
+[0:47 - 0:48] Just adduct bro)
+[0:48] iF: 4

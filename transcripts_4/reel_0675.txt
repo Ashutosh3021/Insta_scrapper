@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[675] https://www.instagram.com/reel/DQ6M1IsDN7B/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:03 - 0:06] ♪ Grab somebody sexy, tell 'em, "Hey!" ♪
+[0:06 - 0:09] ♪ Give me everything tonight ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Somu
+[0:00] hfe:
+[0:00 - 0:02] when you love it
+[0:01] # ५5 थे
+[0:01] ॥॥ 01900
+[0:01] 2६111
+[0:02 - 0:03] (Allfofithisis so much easier
+[0:03] Voulovans
+[0:03] 2६1५2
+[0:04] Hot a
+[0:04] SIS
+[0:04] much
+[0:04] ल्‍ ve
+[0:04 - 0:06] ulovelit
+[0:05] is SOMMUCH ऋण
+[0:05 - 0:07] when youllove lite
+[0:06] “Allfof thi
+[0:06] Pn «हैं;
+[0:06] naw
+[0:07] Alllof thisis'so
+[0:07 - 0:08] ‘ead caption)

@@ -1,0 +1,402 @@
+# model: ggml-large-v3
+========================================================================
+[744] https://www.instagram.com/reel/DO_kdFkjK8z/
+STATUS: OK
+DURATION: 2:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Most people make mistakes in the size of their lats.
+[0:02 - 0:06] If you pull down your lats like this, you won't be able to train your upper back instead of your lats.
+[0:06 - 0:08] The grip is so wide and the elbows are flared out.
+[0:08 - 0:13] If you want to dominate your lats, first of all, the shoulder width grip...
+[0:13 - 0:15] Wait, wait, wait, wait. I think I've seen this video somewhere else.
+[0:15 - 0:19] When you turn your palms outward to do the traditional wider grip lat pulldown,
+[0:19 - 0:23] you'll take some advantage away from the lats and you'll shift it toward the upper back muscles
+[0:23 - 0:25] and the teres major, the rear delts, and the rhomboids.
+[0:25 - 0:29] Jokes aside, a wide grip lat pulldown is lower lats.
+[0:29 - 0:32] You see, your lats have two specific functions.
+[0:32 - 0:34] One is to extend the shoulder.
+[0:34 - 0:37] Another one is to adduct the upper arm.
+[0:37 - 0:42] In a wide grip pulldown, we are essentially performing the function of adduction of the lats.
+[0:42 - 0:47] In a close grip or a shoulder width pulldown, we are essentially performing shoulder extension movement of the lats.
+[0:47 - 0:50] As you can see in the internal movement arm data,
+[0:50 - 0:54] we can see that the lower lats have good leverage in this specific range of motion.
+[0:54 - 0:55] Now, you know what's the most shocking part?
+[0:55 - 1:01] That this specific exercise which Shanaya showed is not really a good exercise for the upper lats.
+[1:01 - 1:04] You see, your upper lats have good leverage from here to here.
+[1:04 - 1:08] And your chest and triceps have good leverage from here to here.
+[1:08 - 1:12] Which means essentially the portion from here to here is not really that much of lats.
+[1:12 - 1:14] It's more chest and triceps.
+[1:14 - 1:17] And movement from here to here is going to be more lats.
+[1:17 - 1:23] Now, there are so many better options to use instead of a close grip pulldown for your upper lats.
+[1:23 - 1:25] One of the best options is
+[1:25 - 1:27] to do a chest supported row.
+[1:27 - 1:30] If you perform the wide grip pulldown in the frontal plane,
+[1:30 - 1:33] you are going to have more lower lat activation.
+[1:33 - 1:35] As you can see in this specific study,
+[1:35 - 1:39] we can see that the lower lats are preferentially more activated in a wide grip pulldown.
+[1:39 - 1:44] And in this study, you can see that the upper lats are more specifically activated in a shoulder extension movement.
+[1:44 - 1:51] Now, this is what happens when we try to quantify what muscle is being worked with the help of skeletons and rubber bands.
+[1:51 - 1:55] You have to understand one thing that skeleton and rubber bands are not how human body
+[1:55 - 1:56] performs.
+[1:56 - 1:59] You can try attaching as many rubber bands as you want on a skeleton,
+[1:59 - 2:02] but that is not how the human body performs.
+[2:02 - 2:06] The human body is much more complex than a skeleton and rubber band.
+[2:06 - 2:10] This is why when we use this, we end up saying that the wide grip pulldown is more upper back,
+[2:10 - 2:11] which is not.
+[2:11 - 2:17] Anyways, if you see someone trying to use skeleton and rubber bands to quantify what muscle is being worked,
+[2:17 - 2:20] I would want you to think twice before following anything.
+[2:20 - 2:21] Anyways, that is it for today.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] . VAN
+[0:00] This happens because mo:
+[0:00 - 0:11] ©. stitchincoming @
+[0:01] lats exercises in av
+[0:03] ANY
+[0:03] is न
+[0:03] If you do lat pull do
+[0:03] जल आय
+[0:04 - 0:06] you will train your lats inst
+[0:05] कं के ee
+[0:06] pes 4 3
+[0:06] 33024 incoming
+[0:07] ANY
+[0:07] है है The grip is ३7
+[0:08] tum |
+[0:08] ill
+[0:08] and the elbows रह
+[0:09] mae -
+[0:09 - 0:10] it you want to domir’
+[0:10] sift
+[0:11] hal
+[0:11] first of ail hold the 5
+[0:12] 0 incoming
+[0:12] q Ps
+[0:12] uae of all hold the shy
+[0:13] Lod
+[0:14] wait | think I've seen
+[0:15] a= fH
+[0:15] Boats Ban
+[0:15] avi
+[0:15 - 0:16] but when you turn your palms
+[0:16] outward
+[0:17] foo
+[0:17] to do the traditional wider grip
+[0:18] 27८ -
+[0:18] उक्त
+[0:18] Saw
+[0:18] 28००
+[0:18] lat pull down
+[0:19 - 0:20] you'll take some advantage away
+[0:19 - 0:20] from the lats
+[0:21 - 0:22] and you'll shift it toward the upper
+[0:21 - 0:22] back muscles
+[0:26] Gulp
+[0:26] @s aside a
+[0:27 - 0:29] pull=do,
+[0:27 - 0:29] islats
+[0:27 - 0:29] ee aside a wid)
+[0:27 - 0:29] rip lat pull doy
+[0:28] Ras. 2
+[0:28] 15॥ 815 a
+[0:28] कह awi
+[0:29] age
+[0:29] eye
+[0:29] है है
+[0:29] lower lai
+[0:30] = see your I.
+[0:31] ial
+[0:31] 51 see your lat
+[0:31] have two spe:
+[0:33] All La
+[0:33] ~ one is toe
+[0:33 - 0:34] -f Shoulder
+[0:34] 5 "डे
+[0:34] toe.
+[0:35] biel be -
+[0:35] we have to
+[0:36] है है.
+[0:36] / ral
+[0:36] which do
+[0:36] rare
+[0:36] another
+[0:36] adduct th
+[0:37] ५ wide
+[0:38 - 0:39] down we ai
+[0:38 - 0:39] essentiall,
+[0:38 - 0:41] im a wide grip pul
+[0:39] for’
+[0:40] FASS ENO C ९०
+[0:40] Wises.are.g,
+[0:40] 4- Wide पाएँ up
+[0:40] 3- Keenan flap frontal plane
+[0:40 - 0:41] 2. Wide grip, latipulldown |
+[0:41] lent
+[0:41] = a are good
+[0:41] 3- Keenan flap fron’
+[0:41] of adductio
+[0:41] ate |
+[0:42] Pra:
+[0:43] 20४
+[0:43] width
+[0:43 - 0:44] ia ora shot
+[0:44] width pull di
+[0:44] are e:
+[0:45] cumgate
+[0:45] houlder
+[0:45] width pull down we
+[0:45] are essentially
+[0:45 - 0:47] These movements are good
+[0:46] These nA, are good,
+[0:46] 1- Kenann shoulda Medici’ '
+[0:46 - 0:47] La, 2- Chest Supportes'row ©
+[0:47] tic
+[0:47] 7/1 Kenann shoulder extension
+[0:47] shdaicerecterision
+[0:47] movement of the
+[0:47 - 0:49] lat ors
+[0:48] as you can es in
+[0:49] Co! 3 tojthe
+[0:49] lata
+[0:49] 1815 havelleyera’
+[0:49] 1- shouldemaddti
+[0:49] in fronti
+[0:49] aif plane.
+[0:49] Saggital.plane
+[0:49] wie
+[0:49] tat don
+[0:49] aS you can see in the
+[0:49] arm data
+[0:49 - 0:50] internal momentfanmydata
+[0:49 - 0:50] ont angle (७०9)
+[0:49 - 0:51] during
+[0:49 - 0:51] Shoulder extension in saggi'
+[0:50] mic
+[0:50] 1- shouldenadduetion in front
+[0:50] - Shoulder extensionligys imsaggital, plane
+[0:50] Supa at dr
+[0:50] we can see
+[0:50 - 0:51] dingjtosthe
+[0:50 - 0:51] thé lats havelleverag
+[0:50 - 0:51] 1, plane)
+[0:50 - 0:51] Tio
+[0:50 - 0:51] ta ors
+[0:50 - 0:51] Infor lt dos
+[0:51] pinternal momentfarmydata
+[0:51] 1- shouldenaddux
+[0:51] ion in fro:
+[0:51] 3 angi (७०9)
+[0:51] have
+[0:51] कला
+[0:51 - 0:52] — - -Middle
+[0:52] (ats have
+[0:52] untag
+[0:52] 11५
+[0:52] ~Supeiior lat dorsi
+[0:52 - 0:53] Slag
+[0:52 - 0:53] Joint angle (deg)
+[0:52 - 0:53] - Inferior lat dorsi
+[0:53] (ats तह
+[0:53] 11112]
+[0:53] ~Supevio.
+[0:53] SEC}
+[0:53] 2 Middle
+[0:54] रत O
+[0:54 - 0:55] 5. कि you know
+[0:55] 5 the most s
+[0:56] cma
+[0:56 - 0:58] है Chest In
+[0:57] AVANT
+[0:57] 333 >नननान०»५
+[0:57] किए
+[0:58] es WV
+[0:58] स्थल
+[0:58] musclenaewils esuzitieate
+[0:58] ise which
+[0:58] Shania showed // i |
+[0:59] EB A
+[0:59] er really a
+[1:00] 4m really a gor
+[1:00] exercise for
+[1:02] yor ar upper
+[1:03] ar a | |
+[1:03] hit el ~
+[1:03] mdi s
+[1:03] shave jer.
+[1:03] lat:
+[1:03] rage
+[1:03] igo)
+[1:04] you,sé
+[1:04] ir upper
+[1:04] 's have good
+[1:04] rage from
+[1:05] 4s A
+[1:05] and your’chest
+[1:06] WwW
+[1:06] क्र
+[1:06] ब्र al
+[1:06] ‘iceps have
+[1:07] ANY
+[1:07] Chest in
+[1:07] have
+[1:07] je from,
+[1:08] BY ic
+[1:08] nt “ay
+[1:08] कक which
+[1:09] ng your chest out
+[1:10] dl के
+[1:10] fet
+[1:10 - 1:12] Chest In
+[1:10 - 1:12] | your chest in
+[1:10 - 1:12] orti
+[1:10 - 1:12] fro!
+[1:13] Fale |
+[1:13] The costal pec has.a better
+[1:13] Tha
+[1:13] ha 3
+[1:14] Check,
+[1:14] पर if
+[1:14] ne 3
+[1:15] it's
+[1:15] | here
+[1:15 - 1:17] > a In
+[1:15 - 1:17] +k muscles will dominate
+[1:16] ~ aA if)
+[1:18] '5 gonna be mo:
+[1:18 - 1:20] :5 now there
+[1:19] ‘s gol
+[1:19] be mo
+[1:19 - 1:20] many better.
+[1:20] fam gonna be moi
+[1:21] बकरा
+[1:21] ica
+[1:21] grip
+[1:21 - 1:22] instead of a clo:
+[1:22] grip pull doy
+[1:23] Ars
+[1:23] bad
+[1:23] one
+[1:24] जज 4
+[1:24] Pigg
+[1:24] _ ww a
+[1:24] 3 moventeits are good:
+[1:24] ट्री
+[1:24] anal
+[1:24 - 1:26] one of | st
+[1:25] ~§These movements & [000
+[1:25] options
+[1:25 - 1:27] 7/14 Kenann shoulder extension
+[1:25 - 1:27] 2- Chest Supportes row
+[1:25 - 1:27] 3- Any good stable row ,
+[1:25 - 1:27] one of the best
+[1:26] PLA
+[1:26 - 1:27] These movements are good
+[1:26 - 1:27] options is to do a
+[1:28 - 1:30] if you perform,
+[1:29] down,
+[1:29 - 1:30] ‘ide grip pull do}
+[1:30] iol
+[1:30] nM पर
+[1:30] nti
+[1:31] ju are gonna
+[1:32] a gonna hi
+[1:32] more lower
+[1:32] acti)
+[1:33] jim can
+[1:33 - 1:34] (MUSCLES WITHIN MUSCLES: THE CLASSICAL TRIPHASIC EMG
+[1:33 - 1:34] 'BURST AND ITS APPLICABILITY TO SEGMENTS OF LARGE
+[1:33 - 1:34] RADIATE AGONISTIANTAGONIST MUSCLES
+[1:34] ‘MUSCLES Wi
+[1:34] 1.20 can see i
+[1:34] specific
+[1:34] stu
+[1:35] कक ००
+[1:35] 5 a ae
+[1:35] 0०.४
+[1:35] whe
+[1:35] fe can see
+[1:36] i ja he
+[1:36 - 1:37] null
+[1:37] का see that the
+[1:37] lower lats are’
+[1:37] preferentially/m:
+[1:38] lll
+[1:39] pas
+[1:39] jm a wide grip pl
+[1:39] down
+[1:40] ja see
+[1:41] ६201
+[1:41] = jerior view
+[1:41 - 1:42] can see that the.
+[1:42] view
+[1:42] 4 pper lats are
+[1:42] pecifically acti
+[1:43] fension
+[1:43 - 1:44] in a shoulder
+[1:44] ०3007: 7 a
+[1:44] xtension movemel
+[1:45] a tr is
+[1:46] w this is whi
+[1:46] jappens whi
+[1:48] = muscle is
+[1:48] worker
+[1:49 - 1:50] ial the help of.
+[1:50] 240
+[1:50] actions anc]
+[1:50] eee
+[1:50] Tr bands
+[1:50] feletons and
+[1:51] ‘andy.
+[1:51] nds)
+[1:51] = have to
+[1:52] | Skalsions
+[1:52] nas)
+[1:53 - 1:55] jat skeleton and.
+[1:54 - 1:55] bber bands ai
+[1:55] ३ रे
+[1:55] how humai
+[1:56] क्र
+[1:56] 1.40 can try
+[1:57] है 144
+[1:57] is many
+[1:57 - 1:58] can try attac!
+[1:58] हैः
+[1:58] Gi wth
+[1:58] ey many rul
+[2:00] बी A
+[2:00 - 2:01] ay that is not,
+[2:01] t ja human,
+[2:02] क्र
+[2:03 - 2:05] ie human body,
+[2:03 - 2:05] uch more ८०
+[2:04] uch more congi
+[2:05] han a skel:
+[2:07] foe
+[2:07] re end
+[2:08 - 2:09] fe end up sa!
+[2:08 - 2:09] hat the whit
+[2:09] be. lly
+[2:09] ull down,
+[2:10] tb "by
+[2:10] which
+[2:11] pom}
+[2:11] which is not
+[2:12] jou 56७
+[2:13 - 2:14] jou see someo:
+[2:13 - 2:14] trying to u:
+[2:14] leton a
+[2:16] 0 quantify whi
+[2:16] muscle is
+[2:16] ein
+[2:17] हैक
+[2:17] पंत want you
+[2:18] ia न]
+[2:18] क्र
+[2:18] 0५106 want yo!
+[2:18] hink twice b:
+[2:19 - 2:20] juld want youito.
+[2:19 - 2:20] ink twice befol
+[2:19 - 2:20] following anythil
+[2:20] anyways

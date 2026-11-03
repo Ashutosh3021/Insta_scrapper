@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[865] https://www.instagram.com/reel/DKMV1JDBB8H/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] And so, but if you're looking for me, I'll be on the clock.
+[0:05 - 0:10] I'ma think I'm possibly sitting on a drop down because I'm a rider.
+[0:10 - 0:13] Yeah, I'm just a sole survivor.
+[0:13 - 0:18] Yeah, everybody know the game don't stop trying to make it to the top.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 3 प्र
+[0:00 - 0:02] Ohiyou're a
+[0:00 - 0:02] science basedlifter,
+[0:00 - 0:02] ? So you train with deep stretch
+[0:00 - 0:02] And time under tension?
+[0:01] दया
+[0:03] oly
+[0:03] ram
+[0:04] ARE
+[0:05] avg tf
+[0:06] No lol
+[0:07] is lol
+[0:07] “oye.
+[0:07] 1 अल
+[0:08 - 0:09] - lol
+[0:10 - 0:12] प्र /
+[0:10 - 0:17] Nollol
+[0:11] weit
+[0:11 - 0:16] Read Caption
+[0:15] rj 3
+[0:15] ‘Nal
+[0:17] प्र i

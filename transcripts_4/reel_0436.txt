@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[436] https://www.instagram.com/reel/DWqRHOWjJIH/
+STATUS: OK
+DURATION: 0:53   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] is just a simple reminder for you to know that you are probably probably probably underestimating how
+[0:05 - 0:10] much calories which you're eating a lot of people what happens is they think okay i'm eating 2100
+[0:10 - 0:15] calories 2200 calories but in reality when you actually go ahead and have a look at what they're
+[0:15 - 0:23] eating what happens is they are actually eating 2200 2300 which itself is not wrong what we are
+[0:23 - 0:27] trying to look at is not the number what we are trying to look at is consistency right if you have
+[0:27 - 0:32] the same meal plans and you're following them through day in and day out what you can now do
+[0:32 - 0:37] is now you are consistent with it right so now you can remove things from the meal plan even though
+[0:37 - 0:43] the number on the calorie scale is not accurate you end up being in a calorie deficit just because
+[0:43 - 0:49] you know okay now i have to reduce this from the meal plan right that puts you in a calorie deficit
+[0:49 - 0:53] just because you're removing things right anyways hope that helps out more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Justa ships reminclar
+[0:00] Bad
+[0:00] is just
+[0:01] Wusital
+[0:01] lsremindsr
+[0:02] Justa simple reniindar
+[0:02] ibably,
+[0:04] timating
+[0:05] stint HOW 005५
+[0:06] Sar
+[0:07] 3 people
+[0:09] ting
+[0:11] int
+[0:19] 32200, 2300
+[0:20] ONS
+[0:20] lol}
+[0:21] wa. 4 more lo
+[0:24] ५४ we are trying
+[0:26] rying
+[0:29] taf
+[0:30] ing them through
+[0:34] adh
+[0:36] you can removi
+[0:36] from
+[0:41] yew
+[0:42] ध् है
+[0:46] luce this fro “te
+[0:47] 2 this from
+[0:47] plan, right?
+[0:47] कै ७
+[0:50] it just be
+[0:52] 7 ae

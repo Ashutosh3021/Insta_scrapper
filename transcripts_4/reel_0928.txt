@@ -1,0 +1,157 @@
+# model: ggml-large-v3
+========================================================================
+[928] https://www.instagram.com/reel/DHqdtzRh-Xz/
+STATUS: OK
+DURATION: 0:58   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] बहुत सारे लोग वो लगता है कि progressive overload का मतलब आपको weight या reps हर session बढ़ाना है
+[0:04 - 0:09] Now this all sounds good in theory but if you are really training hard at 0 to 2 RIR or to failure
+[0:09 - 0:12] You won't be able to make that progress every single session
+[0:12 - 0:15] The truth is कि भाई progressive overload is not something which you force
+[0:15 - 0:19] It happens as a by-product of training with the right intensity
+[0:19 - 0:21] अगर आपकी training और intensity dialed है न
+[0:21 - 0:24] You will experience progressive overload
+[0:24 - 0:28] अब बहुत सारे लोग progressive overload को intensity की साथ confuse करते हैं
+[0:28 - 0:34] What they do? कि week 1 में they will train with 2 RIR, week 2 में 1 RIR, week 3 में failure तक
+[0:34 - 0:38] On paper उनको दिख रहा है कि हाँ भाई मैं progress बना रहा हूँ, मेरे reps बढ़ रहे
+[0:38 - 0:42] But in reality कि सिब उनकी intensity ही बढ़ी है और कुछ नहीं
+[0:42 - 0:45] अब progressive overload वो होता है कि when you maintain a level of intensity
+[0:45 - 0:51] And over time naturally तुम जादा reps मार पाओगे, जादा weights मार पाओगे
+[0:51 - 0:53] Not because you want to up the intensity
+[0:53 - 0:56] Don't try to force the adaptation, you let the adaptation come to you
+[0:56 - 0:58] So yeah, that's for now
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] Pie
+[0:02 - 0:03] Erogressing each session?
+[0:04] od i
+[0:04] | oak
+[0:04] 2 २०
+[0:04 - 0:05] << -now this
+[0:05] "ZA ig
+[0:05] aia
+[0:05] 161]
+[0:05] theory
+[0:06] a Ne F
+[0:06] was
+[0:06] किले
+[0:06] but if you |
+[0:07] at a
+[0:08] zal
+[0:08] y iy
+[0:08] है हे
+[0:08] ey, af
+[0:08] at O:t6 2
+[0:09] Eg 7
+[0:09] D to 2 RIR or to
+[0:10] ou ३४1 .
+[0:10] baa!
+[0:11] oD a
+[0:11] singl
+[0:12] ogy
+[0:12] t मच
+[0:12] _svenz single stesibn
+[0:12] बनकर
+[0:12] a ौी ीा|ू६3ल णआआल9 थझग
+[0:13] १८6
+[0:13] ajonerarm है
+[0:13] at 4
+[0:13] 2rogressive
+[0:13] — /आधिया
+[0:13] I 7०००-22: पाप _
+[0:13 - 0:14] Me'trying to force a’ > rm a
+[0:14] TAWe ol
+[0:14] काश
+[0:14] 5५.4
+[0:14 - 0:15] ‘ogressive overlodd EE
+[0:15] ००८६ -|
+[0:15] STomM
+[0:15] ‘sPonrs $y)
+[0:15] :2&4८७८ sem
+[0:15] Towe,
+[0:15] Me'trying.to force ajone,arm pull
+[0:15] WN | pm
+[0:15] =——somethin
+[0:15] whic
+[0:15] ZZ D-PEZZ
+[0:15] ee ee eee
+[0:15] — ब्-॑
+[0:15] SSS 7.
+[0:16] ahd
+[0:17] ns as a bypro
+[0:18] ॥ ६.5 ca
+[0:18] 5 a byproduc
+[0:18] ining
+[0:19] ZAond
+[0:19] t ey intensity
+[0:21] y है
+[0:21] afi
+[0:21 - 0:23] If training intensity jis-dialed ind
+[0:22] «3 ८०.
+[0:22] Youjwill experience PO
+[0:23] aN हे
+[0:23] diate in
+[0:23] | gmap
+[0:23] Youjwitt exponen
+[0:23] ceRO!
+[0:24] Bina 2
+[0:24] १७७०,
+[0:24] rie
+[0:25] 111[01156
+[0:25] wes.
+[0:25] vile
+[0:26 - 0:27] intense:
+[0:27] काल Oe
+[0:27] Dos
+[0:28] pes
+[0:31] mis
+[0:31 - 0:35] Week 12 100kgs 24] 2ih
+[0:32] SERVE
+[0:32] Clkgsx8] 1 in 4
+[0:32] Gg a
+[0:33] Week 13 100kgs x42 In resenve
+[0:33] OOkgspxd5ilhikininesenve
+[0:33] Week 100kgs x6 | Reilure
+[0:33] att
+[0:34] Cokgsx 8] 1 i Y
+[0:34] Weck @ 100hgsx6]
+[0:34] Fail
+[0:34] Week 4: Rom Karel (cuz 1
+[0:34] ‘tojprogress)
+[0:35] OOkgs x81
+[0:35] reserve
+[0:35] Weck & 100kgs x6] Raita
+[0:35] Weeks 4s [वा Karel (eur 0 0550 to |)
+[0:35] all
+[0:37] Are
+[0:38] Cae
+[0:39] You only upped tie
+[0:39] lei
+[0:40] inte
+[0:40] Nsity,
+[0:40 - 0:41] You onlly
+[0:41] intensity,
+[0:43] ral]
+[0:43 - 0:45] reality
+[0:44] 9687
+[0:44] bra
+[0:46] Pay कर
+[0:47 - 0:50] Week & 100kgs x8 | 8 in reserve
+[0:47 - 0:50] Weck 2 same
+[0:48] Week 1४ 1001698%&4 | 8 in reserve
+[0:48] ayn
+[0:49] Week 2 came
+[0:50] Weck &9 joke B
+[0:50] Aliniresenve)
+[0:50] = 9०5
+[0:53] 17 हि
+[0:54] B का
+[0:54 - 0:55] Don't try to fieres the ackptation
+[0:55] Cam
+[0:55] Ti a
+[0:56] Don't ty to force the
+[0:56] Follow for mone
+[0:56] ha AS
+[0:57] a for-more

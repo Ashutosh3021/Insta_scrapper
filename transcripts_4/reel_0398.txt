@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[398] https://www.instagram.com/reel/DXZh-lHDNFl/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Love is good
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हैः
+[0:00] a a i 5
+[0:00 - 0:03] 65kgs bw. -
+[0:00 - 0:05] 14:00 kcals—
+[0:01] Wwf
+[0:01] Sas
+[0:01] oon | B
+[0:01] _Last week \ os
+[0:02] phe
+[0:02] i, ee
+[0:02] WwW
+[0:02] lon 4
+[0:02] fs Tw
+[0:02 - 0:03] Last week Witz
+[0:03] er nll
+[0:03] mae
+[0:03] ies
+[0:03] is a
+[0:04] हैः
+[0:04] SASS
+[0:04 - 0:09] «5 This week
+[0:04 - 0:10] 66.5kgs..
+[0:05] है 2
+[0:05] | ) आईं
+[0:05] ie, aa
+[0:06] rts
+[0:06] 1800kc Ais
+[0:07] me ay
+[0:07] This w
+[0:07] cals
+[0:07] ६ dt So |
+[0:07 - 0:10] 1800kc
+[0:09] " 1800kcals
+[0:10] SENN
+[0:10] है 9)
+[0:10] ही नि
+[0:10] iss
+[0:10] This w
+[0:10] ébk

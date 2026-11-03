@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[377] https://www.instagram.com/reel/DXzaayUs4XG/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Damn, I ain't bein' sober
+[0:02 - 0:05] I'ma smoke, I'm afraid of a drink
+[0:05 - 0:08] I said I want my new order
+[0:08 - 0:09] But we can't spell sober
+[0:09 - 0:11] But I roll up
+[0:11 - 0:13] When we roll up
+[0:13 - 0:15] Bitches be on us all
+[0:15 - 0:17] I hope that love's smoking
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Lie
+[0:00] A, a ime
+[0:00] v7 workout:
+[0:01] Vig
+[0:01] ‘fl aye
+[0:01] Pa व
+[0:02] aan.
+[0:02] Skilllissue
+[0:02] lene’sjayminimalist
+[0:02] day
+[0:02] RAY.
+[0:04] = Sets of 1S
+[0:04] Supepsetted with
+[0:05] हनन
+[0:05] setsvof, ini
+[0:06] GRO
+[0:06] 1000 thi
+[0:07] हैं; sett this
+[0:08] i Sof vet
+[0:08] Supersetted with 3
+[0:08] ie LJ
+[0:09] i fo
+[0:09] '2 sets of thi
+[0:10] किट,
+[0:10] fet}:
+[0:11] 13 Of
+[0:11] APY
+[0:12] sp set
+[0:12] ५. अजहर
+[0:13] 2 setsiof this.
+[0:14] ‘ Ilital
+[0:14] 119॥ 1
+[0:15] Thatillitake)
+[0:15] 45 minsimaxi
+[0:17] aed
+[0:17] Follow for mone)
+[0:17] हक अं

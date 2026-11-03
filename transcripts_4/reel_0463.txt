@@ -1,0 +1,54 @@
+# model: ggml-large-v3
+========================================================================
+[463] https://www.instagram.com/reel/DWEYI0QDA8P/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] On his broke-ass soul
+[0:01 - 0:04] No, I don't want your number, no
+[0:04 - 0:07] And I don't wanna give you mine, and no
+[0:07 - 0:09] I don't wanna meet you, no
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] alori
+[0:00] eficit
+[0:00 - 0:01] doesn’t work for PCOS women
+[0:01] Calorie deficits
+[0:01] a ee
+[0:02] ae (weeks)
+[0:02] >+- २2005
+[0:02] का Non-Pcos|
+[0:02] 12.5
+[0:02] Open ina new tab
+[0:02] Weekly weight change for participants with and i
+[0:02] without PCOS (12-week BOCE, n=508 for each
+[0:02] group).
+[0:03] “Nwom
+[0:03] anwith PCOS
+[0:03] ill
+[0:03] To one who doesn’t have. POS
+[0:03] ane
+[0:03 - 0:04] Lose less weight compared
+[0:04] woman.with PCOS will
+[0:04] To one who doesn
+[0:04] ithave PEOS
+[0:04] जला
+[0:05] a (weeks)
+[0:05 - 0:06] —* Pcos
+[0:05 - 0:06] 12.5
+[0:05 - 0:06] Open in a new tab a. tab
+[0:05 - 0:06] Weekly weight change for participants with and
+[0:05 - 0:06] without PCOS (12-week BOCE n=508 for ~
+[0:05 - 0:06] group).
+[0:06] ie (weeks)
+[0:06] ang
+[0:06] = १००००
+[0:07] 5 womenin the st
+[0:07] ४16
+[0:08] 1000 women inthe studylbtw
+[0:08] Cm. 7
+[0:09] 1000 wom
+[0:09] the studyb
+[0:09] जूक

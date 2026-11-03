@@ -1,0 +1,260 @@
+# model: ggml-large-v3
+========================================================================
+[861] https://www.instagram.com/reel/DKZoi--MXcJ/
+STATUS: OK
+DURATION: 1:30   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] तो अगर तुम्हें लगता है तुम्हारा ईसेंट्रिक इस मोर्ड स्टिमुलेटिव दन या कंसेंट्रिक यू हाव बिन मिसलाइड अभी बहुत सारे लोगों क्या लगता है कि जो तुम्हारा ईसेंट्रिक पोर्शन ऑफ थे रप होता है बेसिकली लोरिंग डाउन वे�
+[0:30 - 0:36] में यूज कर पाओगे बट अगर तुम वाइस वर्सा देखोगे जो वेट तुम इसेंट्रिक के लिए यूज करोगे वह बिल्कुल नहीं
+[0:36 - 0:36] यूज कर पाओगे तुम कंसेंट्रिक के लिए बिकॉस दी सेंट्रिक इज मच मोर स्ट्रॉंगर लेट से कि हम एक रेगुलर
+[0:36 - 0:41] यूज कर पाए तुम कंसेंट्रिक के लिए बिकॉस दी सेंट्रिक इज मच मोर स्ट्रॉंगर तो लेट्स से कि हम एक
+[0:41 - 0:48] रेगुलर सेट कर रहे हैं रेगुलर सेट ऑफ 8 वह सेट ऑफ 8 इज सेट ऑफ 8 ऑफ कंट्रैक्शन विच वह डोएं ठीक है
+[0:48 - 0:48] विच मीज देट तु
+[0:48 - 0:52] which means that तुम्हारे eccentric होगा उसके लिए तो कुछ नहीं होगा
+[0:52 - 0:57] तुम्हारा motor unit recruitment जो है it will reduce in an eccentric phase
+[0:57 - 1:02] और अगर तुम्हारा motor unit recruitment कम होगा which means less muscle fibers are going to be active
+[1:02 - 1:09] अगर less muscle fibers are active which means that less muscle fibers are going to experience high degree of active mechanical tension
+[1:09 - 1:17] this is why the concentric is going to be more stimulating because उसमें तुम जादा motor unit recruitment कर पाओगे
+[1:17 - 1:20] अभी इसका मतलब ये नहीं कि eccentric important नहीं है
+[1:20 - 1:28] but on a stimulus perspective तुम्हारा concentric is going to be providing you with more stimulus compared to your eccentric
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] more
+[0:00] >11॥॥ 31४८0
+[0:00] 0४111
+[0:01] Baccnttic is mone
+[0:01] fol
+[0:01] ह मान
+[0:01 - 0:02] uscle growth)
+[0:02] sacs
+[0:02] for
+[0:02] >> 1911101८0
+[0:02] with
+[0:03] inn
+[0:03] Muscle
+[0:04] have been|misled
+[0:05] 4३ न
+[0:05] lle
+[0:05] फूल
+[0:07] seonlpeee 2
+[0:08] देश
+[0:08] Pat =
+[0:08] seal
+[0:09] + Zz P43
+[0:10] है AS
+[0:12] Oey
+[0:12] Compared to किए
+[0:13] erent concentric
+[0:15] ॥ bhi ae |
+[0:16] y ae 20”
+[0:16] हैः
+[0:16] हि 4
+[0:16] tum ecentric
+[0:16] kul bhee.nahi Hai
+[0:17] air
+[0:17] Fis
+[0:17] क्र
+[0:18] ain
+[0:18] Fig
+[0:18] P we
+[0:18] ley ya phir concen
+[0:19] RAY
+[0:19] ogey ya
+[0:19] ir किक
+[0:19] only training karogi
+[0:20] Bir
+[0:20] क्र
+[0:20] lhe अगवा.
+[0:21] ie jaldi hi pata ८|
+[0:21 - 0:23] agp
+[0:22] 2९३
+[0:22] paar:
+[0:22] jo tumhara ecentric
+[0:23] busy 30101 2
+[0:23] LAAQ
+[0:24] CEMHIGISIW AYA
+[0:24] mgers
+[0:24] wayistronger
+[0:25] 4३ Air
+[0:25] cemtnic
+[0:25] ie खा
+[0:25] ‘Way १९७ nser than
+[0:25] concentric
+[0:26] Zin
+[0:26] wv f
+[0:26] stronger than youl
+[0:26] concentric jo weight
+[0:27] hue
+[0:27] ही, न्आा,.
+[0:28] 44७
+[0:28] har“
+[0:28] um concentric pe use
+[0:28] karogey
+[0:29] ain
+[0:29] ven
+[0:29] tum oe
+[0:30] air
+[0:30] tum easily ecentrielme
+[0:30] me kar paoge
+[0:31] १० २८
+[0:31] jut
+[0:32] 1 क्र
+[0:32] it Agettam vice y
+[0:33] के 4”
+[0:34] 9० ००५
+[0:34] पा eccentric)
+[0:35] uAy
+[0:35] igs
+[0:36] Ne 4)”
+[0:36] ul nahi use kar 9:
+[0:37] air
+[0:37] ae 2.
+[0:37] tumiconcentric Ke lié
+[0:37] ilkul nahi use kar pai
+[0:38] \ aid
+[0:38] ye कं
+[0:38] ane
+[0:39] 9० ४
+[0:39 - 0:40] cause the eccentric
+[0:40] iv ० ही
+[0:40] नबी.
+[0:40] much more stronger
+[0:41] 9० Sa!
+[0:41] poe
+[0:41] frow tet y ki
+[0:42] Peis air
+[0:42] hain
+[0:42] a regular set karjfhe
+[0:43] Fe\s dr
+[0:43] im Ek regular set kal
+[0:43] hain tegular set of 8
+[0:44] ४९३ air
+[0:44] (set
+[0:44 - 0:45] Gone
+[0:45] 4 air
+[0:45] TACHONS =)
+[0:45] ‘eal
+[0:46] ‘Concantute
+[0:46 - 0:47] tc ‘of contractions ~~
+[0:47] igs
+[0:47] : we are doing
+[0:48] १० ०
+[0:48] yay
+[0:49] 11 45;
+[0:49] ४” 54%
+[0:49] which means
+[0:49 - 0:50] हैः
+[0:50] hyp
+[0:50] wHE
+[0:50] iin
+[0:50 - 0:51] hara e centric ho
+[0:51] Ress
+[0:51] dir
+[0:51] uski liya toh
+[0:52] Fe\s diy
+[0:52] pumbaza
+[0:53] a का ।
+[0:53] ruitment
+[0:53 - 0:54] Here you canjsee
+[0:53 - 0:55] Quadticeps
+[0:53 - 0:55] Concentric EMG
+[0:53 - 0:55] Activity Is Greater
+[0:53 - 0:55] than Eccentric EMG
+[0:53 - 0:55] Activity during the
+[0:53 - 0:55] Lateral Step-Up
+[0:53 - 0:55] Exercise
+[0:53 - 0:55] In emg data as well:
+[0:53 - 0:55] tumhara motor unit,
+[0:54] oueanesee
+[0:54] ५७ ०७७७ ६४०
+[0:54 - 0:55] NG diferences between concentric and eccentric maximum voluntary
+[0:54 - 0:55] recruitment jo Hai it will
+[0:54 - 0:56] contractions are evident prior to movement onset
+[0:55] Acti
+[0:55] MD Gear EM Og
+[0:55] Here youleanjsee
+[0:55] reduce
+[0:56] रहे
+[0:56] Air
+[0:56] cance and eccentric maximum voluntary
+[0:56] we See
+[0:56] in an eccentric
+[0:58] agg’
+[0:58] r vue motor 7
+[0:58 - 0:59] recruitment
+[0:59] ‘Agar Tum! ere motor
+[0:59] me on
+[1:00] nee
+[1:01] fibers
+[1:01 - 1:02] ) means less yO 4
+[1:02] are going to be acti}
+[1:03] jess Wluscle
+[1:04] 4 रा
+[1:06] 15८1९ fibers
+[1:07] sed
+[1:07] le fibers ge v4
+[1:08] eae
+[1:08] Sey
+[1:08] degreg of ti
+[1:09] echaniealt
+[1:09] ih di
+[1:09] tension
+[1:09] e of active
+[1:10] aps
+[1:10] i mag
+[1:10] degite of active
+[1:10] chanical téhsion this 18
+[1:10] why .
+[1:11] Dior)
+[1:11] concentlie
+[1:12] centric is going ६०
+[1:13] a \ we
+[1:13] 799
+[1:13] श्र
+[1:13] centr’
+[1:13] joing to.
+[1:13] more stimulating 7
+[1:14] yay
+[1:15] ere tum
+[1:16] [449
+[1:16] ९८६
+[1:16] use usme tum 2363
+[1:16] for unit
+[1:17] poe
+[1:17] juse
+[1:17] tum zada
+[1:17] or uniter. ruitment kar
+[1:17] paoge
+[1:18] ane
+[1:18] abhi iska matlab 7
+[1:19] al Ry
+[1:19] cut
+[1:19] Y ea
+[1:19] ii ki eccentric
+[1:20] air
+[1:20] but
+[1:21] pi Re
+[1:21] ips
+[1:21] Al a
+[1:21] but o1
+[1:22] 2 \ se
+[1:22] Pee
+[1:22] but ona stimulus
+[1:22] perspective
+[1:23] ain
+[1:23] aff
+[1:23] ree
+[1:23] tomorrow
+[1:24] ES id
+[1:24] tomorfow concentric: 4
+[1:24] eel
+[1:25] 4 air
+[1:25] rrow concent!
+[1:25] going to be
+[1:26] providing you with
+[1:27] with mi
+[1:27] jus
+[1:29] sol
+[1:29] Ive

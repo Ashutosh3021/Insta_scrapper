@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[369] https://www.instagram.com/reel/DX86TYUsXWo/
+STATUS: OK
+DURATION: 0:05   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Leave me alone!
+[0:01 - 0:04] Akira!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] i सर
+[0:00] hen|
+[0:00] ying .to_—
+[0:00] Exe
+[0:00] sein
+[0:00] lly,
+[0:01] , etflashibanged
+[0:01] By the gymlight
+[0:01] iy i :
+[0:02] teh
+[0:02] maf
+[0:02] बह! १
+[0:02] 2 चक
+[0:02] १८८४/72%%5 (0) a Gia,
+[0:02 - 0:03] SS ae
+[0:03] zal
+[0:03] 4 Lal
+[0:03] 1188.
+[0:04] \ ies <é
+[0:04] ald
+[0:04] pes
+[0:04] १८८/6/प्क्रक्र-

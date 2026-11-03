@@ -1,0 +1,167 @@
+# model: ggml-large-v3
+========================================================================
+[286] https://www.instagram.com/reel/DZ2H142s2Pf/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] i would much rather want you to change your entire split then change the exercises which
+[0:04 - 0:07] are there in the split whenever you go ahead and change in the exercises which are there in your
+[0:07 - 0:12] split you have to go through that neural adaptation again you have to adapt to that given exercise
+[0:12 - 0:18] that takes time if you change your frequency that is fine it's not really much change if
+[0:18 - 0:21] you go ahead and change in the exercises that is problematic don't do that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] uld
+[0:00] Rather
+[0:00] thanlexer
+[0:00] ग्रे
+[0:00] how
+[0:00] va mu
+[0:00 - 0:01] youl
+[0:00 - 0:01] hangelsplits
+[0:01] RCISES#
+[0:01] ify
+[0:01] vom
+[0:01] ont,
+[0:01] rather want
+[0:01] tochange
+[0:02] I hathemyou
+[0:02] ५९१३
+[0:02] 6१७98
+[0:02] आय च
+[0:02] samt
+[0:02] “vere
+[0:02 - 0:03] entire.
+[0:02 - 0:04] Gelsplits
+[0:02 - 0:11] thane
+[0:03] uldir
+[0:03] hemyoulchangelsplits
+[0:03] pen Exer
+[0:03] Vas
+[0:03] RNY
+[0:03] NAD me
+[0:03] t than change
+[0:04] t ie
+[0:04] you
+[0:04] all
+[0:04] would
+[0:04] ISES
+[0:04] Gat,
+[0:04] & which
+[0:04 - 0:12] tat he
+[0:05] athemyou
+[0:05] hangelspli
+[0:05] 1 Wo
+[0:05] i हु
+[0:05] nae
+[0:05] oa if
+[0:05] Wane
+[0:05] Whéhever
+[0:05 - 0:07] ular
+[0:05 - 0:07] thanlexer
+[0:06] BAM Nae
+[0:06] enamge Splits
+[0:06] MEXER
+[0:06] CISE 5 im
+[0:06] 15 शक व
+[0:06] je ins
+[0:07] peel
+[0:07] CIs
+[0:07] af there in
+[0:07 - 0:09] Gasol
+[0:08] Woulelr
+[0:08] ina
+[0:08] Exercise
+[0:08] aye
+[0:08] fay,
+[0:08] शा अल
+[0:08] wet’
+[0:08] split, you have to
+[0:09] र्थे
+[0:09] bas
+[0:09] testa
+[0:09] nm Exerci
+[0:09] Sip
+[0:09] tel >>
+[0:09] Wad,
+[0:09] that neural
+[0:09 - 0:14] you
+[0:10] 9५9
+[0:10] athe myo
+[0:10] 19 87105
+[0:10] XEN
+[0:10] Cis
+[0:10] tak
+[0:10] that neural adaptation
+[0:11] शव 83 Splits
+[0:11] nv Ex
+[0:11] rie
+[0:11] Encl
+[0:11] २.७४ ४
+[0:11] हु छा
+[0:11] have to adapt to
+[0:12] ey A
+[0:12] ors
+[0:12] Ulditr
+[0:12] Cc nam agol
+[0:12] its
+[0:12] than XENCISESH,
+[0:12] 409
+[0:12] WAY,
+[0:12] given exercise
+[0:13] youchange
+[0:13] Splits
+[0:13] would
+[0:13] EnCISES
+[0:13] ५ धर
+[0:13] 101५
+[0:14] fia
+[0:14] the’,
+[0:14] की ग3 8 li
+[0:14] MEXERCISES
+[0:14] Wak
+[0:14] That takes time
+[0:15] 194
+[0:15] its)
+[0:15] ae 1
+[0:15] Vii
+[0:15 - 0:16] hange Splits
+[0:15 - 0:16] thanlExercises
+[0:15 - 0:16] If you change your
+[0:15 - 0:21] ather
+[0:16] hati
+[0:16] hel
+[0:16] frequency, that
+[0:17] youn
+[0:17] han
+[0:17] 019 8718
+[0:17] XENCISESS:
+[0:17] ae SS
+[0:17] कई कल
+[0:17] Cay,
+[0:17] (क्र
+[0:17] + notreally =
+[0:17 - 0:21] tha
+[0:18] oe i)
+[0:18] Lad
+[0:18] ETe|
+[0:18] If a
+[0:18 - 0:20] hangelsplits)
+[0:18 - 0:20] Exercises
+[0:19] शाह
+[0:19] hangeysplits
+[0:19] thanlexer
+[0:19] 61989)
+[0:19] bad
+[0:19] in the ence
+[0:20] veg
+[0:20] > fh P
+[0:20] श्र
+[0:20] problematic
+[0:21] dir
+[0:21] ronan Splits
+[0:21] EXencises)
+[0:21] te ty
+[0:21] 1 Don't

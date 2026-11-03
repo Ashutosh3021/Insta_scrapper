@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[826] https://www.instagram.com/reel/DLxDpjFBE9D/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] तब ये researches नहीं थी
+[0:01 - 0:05] तब ये angles वाली studies नहीं थी
+[0:05 - 0:08] उन लोगों के पास इतनी researches नहीं थी
+[0:08 - 0:09] उन लोगों के पास रभ एक चीज थी
+[0:09 - 0:13] जो कि दुनिया की सबसे important चीज है कुछ भी करने के लिए
+[0:13 - 0:14] और वो है
+[0:14 - 0:20] steroids, steroids, anovar, train, d-ball, deca
+[0:20 - 0:24] do anything in life to be successful in life
+[0:24 - 0:28] तो ये studies ने हमें ये बताए वाला mindset
+[0:28 - 0:30] दिमाग से निकाल के फेको
+[0:30 - 0:32] जितना थोड़ा बहुत समझ सकते हो
+[0:32 - 0:34] जितना अच्छे से समझ सकते हो समझो
+[0:34 - 0:37] पर the one thing that's most important is that
+[0:37 - 0:38] steroids, steroids
+[0:38 - 0:40] और जब तक steroids नहीं लगवाओगे
+[0:40 - 0:42] बॉडी नहीं बनेगी
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] (chashjout:
+[0:01] Chilo
+[0:01] jtojnighicable flies
+[0:01 - 0:41] \Vxrmasisecond crash out
+[0:02 - 0:41] On low to high cable'flies} हम
+[0:04 - 0:06] हि second crash out
+[0:09] Writes secon "जान"
+[0:13] 4 ae
+[0:17] Vxrmas second
+[0:17] cnashiout}
+[0:19] sal!
+[0:24] प्र
+[0:26] Citi ctl ay

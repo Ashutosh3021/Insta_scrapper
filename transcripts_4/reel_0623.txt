@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[623] https://www.instagram.com/reel/DSXPTqlk8ho/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Girl, I got you so high
+[0:03 - 0:05] And I know you like
+[0:05 - 0:07] So come on, push it on me
+[0:07 - 0:09] If it feels alright
+[0:09 - 0:11] Would you drop it low and break me up?
+[0:11 - 0:13] No, she doesn't mind
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Pec flysthuntimy shoulders,
+[0:01] श्र
+[0:02] Pec flys hunt
+[0:02] y भी0॥ 1
+[0:03] Bay \
+[0:03] __ iwondenw
+[0:04] ans
+[0:04] iwonder,why ५
+[0:05] BY ७*३
+[0:05] denawh
+[0:06] inder,
+[0:07] iiWonder + 7
+[0:08] Ke wonder न
+[0:09] Th os
+[0:09] iwiider why
+[0:11] Ye i es why
+[0:12] iWonder ase ix
+[0:12] aux

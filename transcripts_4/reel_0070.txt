@@ -1,0 +1,107 @@
+# model: ggml-large-v3
+========================================================================
+[70] https://www.instagram.com/reel/DeFJnWTMaHZ/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] It takes so long to get to my house
+[0:02 - 0:04] To take me out
+[0:04 - 0:07] Tonight I'm gonna give you all my love
+[0:07 - 0:09] In the backseat
+[0:09 - 0:11] Bubble, pop, electric
+[0:11 - 0:13] Bubble, pop, electric
+[0:13 - 0:17] Gonna speed it down and slow it up
+[0:17 - 0:19] In the backseat
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ee, CY
+[0:00] polsg wich
+[0:00] paying off
+[0:00] a जा
+[0:01] बडे
+[0:01] 1९ ४२. =P
+[0:01] छाप
+[0:01] ras
+[0:01] Jas
+[0:01] WSS
+[0:01 - 0:03] Nee |
+[0:02] sie
+[0:02] y/ EN
+[0:02] a hit
+[0:02] Th a
+[0:02] Pa Si
+[0:03] ‘S63
+[0:04] ten
+[0:04] Fillhese
+[0:04] ose
+[0:05] iihese
+[0:05] “ngs
+[0:06] aif
+[0:06 - 0:08] True forearm exercise
+[0:06 - 0:08] (brachioradialis)y
+[0:07] sh ii
+[0:07] BN) AS
+[0:08] oor "aa
+[0:08] bidet
+[0:08] had
+[0:09] Ven
+[0:09] Dioustand uselstraps
+[0:09] Whenou Pe perform 115 |}
+[0:09] कर 7>-
+[0:09] aie
+[0:09] a sl
+[0:09] oe पैर कि
+[0:10] ousted ann |
+[0:10] Whenwou
+[0:10] 4 rm this
+[0:11] . Dbustfic हैः ae strap
+[0:11] gett this
+[0:11] ४. We
+[0:12] Des
+[0:12] ThetGpnp
+[0:12] where ,
+[0:12] lis,
+[0:12] a good leverag
+[0:12] मद कफ क
+[0:12] चना
+[0:12] Om Yi
+[0:13] र्न्न्नि
+[0:13] etop-h
+[0:13] cf RO
+[0:13] wherejthe
+[0:13] raed
+[0:13] 90000 leverage |!
+[0:14] 222
+[0:14] Being
+[0:14] seated a
+[0:14] off the
+[0:14] Pad: nk )21५
+[0:14 - 0:15] Andistan
+[0:14 - 0:15] dises}the. zal
+[0:15] poe"
+[0:15] Being seated हि: हा
+[0:15] off therrom
+[0:15] poll
+[0:15] Zaa
+[0:16] eing seated ~~ tf the,
+[0:16] And,st
+[0:16] ardises}the.ROM
+[0:16] YA Sat a
+[0:17] fis
+[0:17] nfor
+[0:17] mn 3xawveek
+[0:17] eee
+[0:17] tag
+[0:18] 722:
+[0:18] Perf.
+[0:18] a ox‘ayweekiy,
+[0:18] fal
+[0:18] खिल
+[0:18] i Ss
+[0:18] Sac
+[0:18] Nae Zo
+[0:19] vg ill
+[0:19] form 3
+[0:19] ayweek

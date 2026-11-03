@@ -1,0 +1,63 @@
+# model: ggml-large-v3
+========================================================================
+[177] https://www.instagram.com/reel/DcLJOKQs3f5/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] the last step towards failure is the most stimulating rep is exactly the opposite bro
+[0:05 - 0:12] the last step to failure is not the most stimulating rep in fact it's probably less
+[0:12 - 0:17] stimulating than the other four stimulating reps think about this the last step you have the highest
+[0:17 - 0:22] amount of calcium ion built up the highest amount of metabolite built up the highest amount of
+[0:22 - 0:29] perception of effort you think that rep is gonna be stimulating you will have reduction in motor
+[0:29 - 0:35] unit recruitment in that last step to failure compared to the other four reps which means the
+[0:35 - 0:41] last four reps to failure are going to be more stimulating than the rep to failure anyways
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] isithe ०
+[0:01 - 0:03] stimulating
+[0:02] गाए
+[0:03] Failurejisithe
+[0:03] mpst St
+[0:04] Noit’s r
+[0:05] t’snot
+[0:06] Nojtis
+[0:07] 105
+[0:07] not
+[0:07] to failure
+[0:08] Nojit!s not
+[0:08] my 4
+[0:09] Us not
+[0:09] Fig
+[0:09] "पे हे
+[0:09] ati
+[0:10 - 0:19] not
+[0:11] Noitis
+[0:14] Nojtis
+[0:14] हैँ >
+[0:16] Nojit!s not
+[0:17] \War Br
+[0:18] Noi
+[0:18 - 0:20] tis not
+[0:21] Noit'sir
+[0:21] cue
+[0:22] ase
+[0:22] 7s not
+[0:23] Noit/s'not
+[0:24] not
+[0:24] है; ae
+[0:25] Nojtis
+[0:25] wer
+[0:26] Noit/sir
+[0:27] not
+[0:28] ०7 3
+[0:28] हे 2
+[0:29] “ont
+[0:30] खाक
+[0:31] 7a ह ३ —=
+[0:34] नील. मत
+[0:38] Kite
+[0:39] than the rep
+[0:40] के | कि
+[0:41] lad

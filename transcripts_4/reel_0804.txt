@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[804] https://www.instagram.com/reel/DMvXPVKNVXo/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] _ ss Y
+[0:00 - 0:01] Koay BODYBUILT a
+[0:02] eave BODYBUILT a
+[0:02] i aN
+[0:03] coco BODY/BUIN a
+[0:04] The
+[0:04 - 0:13] speak for yourself
+[0:04 - 0:13] queen
+[0:09] way
+[0:13] int

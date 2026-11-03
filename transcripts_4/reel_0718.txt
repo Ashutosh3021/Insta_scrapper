@@ -1,0 +1,391 @@
+# model: ggml-large-v3
+========================================================================
+[718] https://www.instagram.com/reel/DP3_6eVjO9r/
+STATUS: OK
+DURATION: 1:47   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] if you think higher reps are less fatiguing than lower reps you have been mislead now a lot of
+[0:05 - 0:09] people have this misconception that higher reps is going to create less fatigue compared to lower
+[0:09 - 0:14] reps they think because they have to use heavier weight on a lower rep set their cns gets quote
+[0:14 - 0:19] unquote fried but that's not how it works now you see cns fatigue is usually measured right after
+[0:19 - 0:24] the training session now we see that in studies which use low amount of forces to task failure
+[0:24 - 0:28] produce more amount of fatigue now this is not just one specific scenario when we have someone
+[0:28 - 0:34] run 3 kilometers that is more fatiguing than doing a whole strength test and a strength training
+[0:34 - 0:40] workout this whole thing essentially tells us one specific thing that any kind of exercise which is
+[0:40 - 0:45] done for a longer duration is going to cause more fatigue in this one specific study you can see
+[0:45 - 0:51] that lower load exercises causes more post-workout fatigue than higher load exercises now all of this
+[0:51 - 0:57] is happening due to three specific mechanisms one being that whenever we do something which is higher
+[0:57 - 1:01] reps it is going to cause more metabolite accumulation and that metabolite accumulation
+[1:01 - 1:06] causes this burning feeling now that burning feeling is going to take up space in your
+[1:06 - 1:11] perception of effort which is going to limit your motor unit recruitment similarly when we have a
+[1:11 - 1:16] look at lighter rep sets they are generally more cardiovascularly tasking now when something is
+[1:16 - 1:20] more cardiovascularly tasking it is also going to take up some space in your maximum perception of
+[1:20 - 1:25] effort which means that it is also going to be reducing motor unit recruitment now when we do a
+[1:27 - 1:31] lower rep set it is going to cause more calcium ion accumulation which is going to cause more
+[1:31 - 1:38] excitation contraction coupling failure and muscle damage which means on paper a higher rep set
+[1:38 - 1:43] is going to be more fatiguing than a lower rep set so ideally we want to train in a lower rep set
+[1:43 - 1:47] somewhere between four to eight is a really good spot so yeah hope that helps one more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] क्र
+[0:00] aye *:
+[0:00] thin
+[0:00] if ye
+[0:00 - 0:01] weightis}
+[0:00 - 0:02] MOE}
+[0:00 - 0:03] ifatgiving
+[0:01] morelfatgiving
+[0:01] if youtuntnic higher
+[0:02] welleinetis
+[0:02] think higher
+[0:02] aan
+[0:02] reps are less
+[0:02] fatiguing than lower
+[0:03] pot
+[0:03] ash,
+[0:03] श्र
+[0:04] weightyis}
+[0:04] moreltatgiving
+[0:04] | पता
+[0:04] misled
+[0:05] a A> people have
+[0:06] Ned
+[0:07] "ar 4
+[0:07] thi
+[0:07] igher rep:
+[0:08] kre
+[0:08] thatjhigher reps is
+[0:08] gonna create less
+[0:08] fatigue
+[0:09] fee
+[0:09] Gye
+[0:09] 4 ' AN to lower
+[0:10] श्र
+[0:10] हैँ is ae
+[0:11] ३७ है
+[0:11] ayy,
+[0:11] ६६3
+[0:11] because
+[0:11] heavier
+[0:11 - 0:12] lave to use
+[0:12] vad
+[0:12] sal
+[0:12] hy ithink because
+[0:12] hea’
+[0:12] ॥ weight ona
+[0:12] lower
+[0:13] 7 का
+[0:13] the
+[0:14] their 4. gets code
+[0:14] and
+[0:15] getstinied
+[0:15] fal
+[0:15] “गैर gets code
+[0:15] and code fried
+[0:16] 19५
+[0:16] | not how it
+[0:16] : works
+[0:17] ror
+[0:17] { cns 1 a
+[0:18] me iret
+[0:18 - 0:19] J ns fatigue is usually
+[0:19] ant
+[0:19] red right after
+[0:20] now
+[0:20 - 0:22] f Central fatigne of the first dorsal inreroseeous
+[0:20 - 0:22] submaximal contractions
+[0:20 - 0:22] muscle during low-force and high-force sustained
+[0:21 - 0:23] ‘We see'that in
+[0:21 - 0:23] studies which use
+[0:22] muscle
+[0:22 - 0:23] low Smount of forces
+[0:23] ae” En
+[0:23] to task failure.
+[0:23 - 0:25] 120
+[0:23 - 0:25] 100} ८
+[0:24] produce
+[0:25] Broduce more
+[0:25] amount of fatigue
+[0:26] fea»
+[0:26] oat ~
+[0:26] nor mies is not
+[0:26 - 0:28] क्री
+[0:27] ice
+[0:27] no} hoes is not just
+[0:27] cific scenario
+[0:27] dope
+[0:28] fra»
+[0:28] aye ©
+[0:28] in we have
+[0:28] one
+[0:29] when we have
+[0:29] someone run 3 km
+[0:29 - 0:31] ‘Acute effects of aerobic exercise performed with
+[0:29 - 0:31] different volumes on strength performance and
+[0:29 - 0:31] neuromuscular parameters
+[0:30] “Why
+[0:30] elf
+[0:30] thee
+[0:31] fatighing
+[0:31 - 0:32] that is more
+[0:32] रू ay
+[0:32] fatiguing than doing
+[0:32] a whole strength
+[0:32 - 0:33] क्र
+[0:33] (Gag
+[0:33] ant
+[0:34] (५४9
+[0:34] ars
+[0:34] id a strength
+[0:34] ining workout
+[0:35] De ae |
+[0:35] WA j
+[0:35] thig whole
+[0:36] ayy
+[0:36 - 0:37] this whole thing
+[0:36 - 0:37] essentially tells us
+[0:37] one specific thing
+[0:37 - 0:39] है Intensiry-Dependent Contribution of Neuromuscular
+[0:37 - 0:39] Fatigue after Consrant-Load Cycling
+[0:38] toad
+[0:38] that any
+[0:39] है inten:
+[0:39] that any kind of
+[0:39] exercise
+[0:40] ary
+[0:40] whe is done for
+[0:41] re ‘done fora
+[0:41 - 0:42] jer duration is
+[0:42] CD 4
+[0:42] mse his done for a
+[0:42] fo cause
+[0:43] wey
+[0:43] lone for a
+[0:43] sduration is
+[0:43] ito cause more
+[0:43] fatigue
+[0:44] बजे.
+[0:44] $n: nt rt
+[0:44] sortase
+[0:44] rw james $
+[0:44] in this one
+[0:44 - 0:46] Lighter-Load Exercise Produces Greater Acute- and
+[0:44 - 0:46] Prolonged-Fatigue in Exercised and Non-Exercised
+[0:44 - 0:46] _) Limbs
+[0:44 - 0:46] David 6. Behm, Matin Skvington & ames
+[0:45] 0 et na te
+[0:45] you can
+[0:45 - 0:46] ua Farrow Jame
+[0:45 - 0:46] tee
+[0:46] tt nt ert
+[0:46] Haher
+[0:46] you, can see that
+[0:46] lowefload exercises
+[0:47] aor
+[0:48] cauzes more
+[0:49] ioe.
+[0:49] 1000 pore
+[0:49] causes more post
+[0:49] workout fatigue
+[0:50] then, higher load
+[0:50] exercises
+[0:51] ers"
+[0:51] anh ४
+[0:51] “a; r 4
+[0:51] nowialli’
+[0:52] ay 4%
+[0:52] ote
+[0:52] ining due
+[0:52 - 0:53] ‘all of this is
+[0:53] 7 oe
+[0:53] ening due to
+[0:53] three specific
+[0:54] ‘one
+[0:55] क्र
+[0:55] aos
+[0:55 - 0:57] one being that
+[0:55 - 0:57] whenever we do
+[0:56] ५53
+[0:56] 7 i é
+[0:56] never that
+[0:56] lever we do
+[0:56] som
+[0:56] jing which is
+[0:57] jecumulati
+[0:57] fon
+[0:57] something which is
+[0:57] higher reps
+[0:58] iti
+[0:58] * "ial cause
+[0:58] mol
+[0:58 - 1:01] accumulation
+[0:59] ~~. cause
+[0:59 - 1:02] that metabolite
+[1:00] freq
+[1:00] and, on
+[1:01] ran
+[1:01] and
+[1:01] acc
+[1:02] Frey
+[1:02] imulation causes
+[1:02] this burning
+[1:03] rei
+[1:03] ayAr
+[1:03] nol
+[1:04] क्र
+[1:04] soy
+[1:04] Gag
+[1:04] now that burning
+[1:04] feeling
+[1:05] is gohna take
+[1:06] ies
+[1:06] ORES
+[1:06] ih ks
+[1:06] ein
+[1:06 - 1:07] ina take up
+[1:07] egy
+[1:07] करे
+[1:07] ice in your
+[1:07] perception of effort
+[1:08] Or 4
+[1:08 - 1:09] प्र ‘Is going to
+[1:09] ५१५
+[1:09] Cnet
+[1:09] , trl
+[1:09] jyour motor unit
+[1:10] Lay.
+[1:10] ERE Jimitation
+[1:10] ary
+[1:10] amr ५५
+[1:10] j a Nd
+[1:11] REI
+[1:11] ation)
+[1:11] (3 0५७
+[1:11] ere
+[1:11] vee
+[1:11] va larly when we
+[1:11] hav,
+[1:11] look at
+[1:12] RE limitat
+[1:12] 1On
+[1:12] similarly when we
+[1:12] haveja look at lighter
+[1:12] Tep sets
+[1:13] DMR
+[1:13] {+ a NG generally
+[1:14] thy
+[1:14] ar 4%
+[1:14] far
+[1:14] noe are generally
+[1:14 - 1:17] cardiovascular
+[1:15] er 4
+[1:15] now
+[1:16] a soft
+[1:16 - 1:17] ft when
+[1:16 - 1:17] something is more
+[1:17] aoe ५0
+[1:17] tasking
+[1:18] all
+[1:18] het!
+[1:18] it is also
+[1:19] #० (५९
+[1:19] it is
+[1:19] gonna take
+[1:19] me space
+[1:20] > च्य
+[1:20] wll
+[1:20] ae ५९
+[1:20] ion
+[1:20 - 1:21] in per maximum
+[1:20 - 1:21] pel
+[1:21] ition of effort
+[1:22] jae
+[1:22 - 1:23] S wre Means that it
+[1:23] er (oy
+[1:23] whi
+[1:23] & going to
+[1:24] है ४
+[1:24] एक unit
+[1:24 - 1:25] Ar 4
+[1:25] motor unit
+[1:25] al now.
+[1:26] ar ५"
+[1:26] ate unit
+[1:26] ndlave os now
+[1:26] wwe do a higher
+[1:26] rep
+[1:27] er. ५"
+[1:27] itis
+[1:28] it is going to cause
+[1:29] itis 2.1 to cause
+[1:29] mote Calcium ion
+[1:29] umulation
+[1:30] हैँ
+[1:30] which
+[1:31] Whichiisgoing to
+[1:31] NG more
+[1:32] श्र
+[1:32] whe
+[1:32] whi
+[1:32] न to
+[1:32] luse more
+[1:32] citation
+[1:32] intraction
+[1:33] j os
+[1:33] ५ fw 2.
+[1:34] हि lingifailure and
+[1:34] 1521९ damage
+[1:35] 11०
+[1:35] feays
+[1:35] Pox
+[1:35] gee
+[1:35 - 1:36] wifich means on
+[1:36] caro
+[1:37] ALY,
+[1:37] a higher
+[1:37] rep
+[1:38] 5104
+[1:38] श्र
+[1:38] er ९०
+[1:38] oan
+[1:38 - 1:40] a है her rep set is
+[1:39] कटी
+[1:39] a higher rep set is
+[1:39] fa Mocs
+[1:39 - 1:40] gonna be more
+[1:40] fatiguing than a
+[1:40] lower rep
+[1:41] es. 8"
+[1:41] 50 yeah ideally
+[1:42] whe train
+[1:42] कटी
+[1:42 - 1:43] क्र
+[1:42 - 1:43] h.ideally we
+[1:43] 18611
+[1:43] awa}
+[1:43] तह्यी॥ 10 4६8
+[1:43] Pirange
+[1:43] (८11 5]
+[1:43] a trainina
+[1:43] rep set
+[1:44] alii
+[1:44] 32४8)
+[1:44] 11 311॥]|
+[1:44] Eek
+[1:44] 0५7
+[1:44] है 4
+[1:44] som
+[1:44] + ani between
+[1:45] Cticalitakelaway,
+[1:45] itraiminy4=s)
+[1:45] Om ge
+[1:45] उत्ड थी
+[1:45] ifnyAY OUT:
+[1:45] somewhere between
+[1:45] 4 to 8 is a really
+[1:46] लए. ५९
+[1:46] oe! 9
+[1:47] | hope that
+[1:47] was helpful

@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[878] https://www.instagram.com/reel/DJrJt2bBuxz/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] I'm just tryna be myself
+[0:01 - 0:03] I got everybody mad at me for it
+[0:03 - 0:04] I hate to be so hot
+[0:04 - 0:06] They give me a surplus battery for it
+[0:06 - 0:08] This an expensive cut
+[0:08 - 0:09] Ten times whatever your salary is
+[0:09 - 0:11] Eat some big ass pockets
+[0:11 - 0:13] I probably should get up my salad or something
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] youhear about the
+[0:00] l'ats discussion?”
+[0:01] lim i changing a single
+[0:01] hing about my
+[0:01] i] Programming
+[0:02] क्र
+[0:03] oat
+[0:03 - 0:04] Nuance exists!
+[0:05] | fr aiid I
+[0:06] hs >t
+[0:07] Nothat’sinotime
+[0:07] “Ignoring” data
+[0:08 - 0:09] It'sime’considering the other
+[0:08 - 0:09] Vaniablestatiplay
+[0:09] ale
+[0:10 - 0:11] Sciencelisnit का
+[0:10 - 0:11] Speaking im
+[0:12] But
+[0:12] ispeakingjinfabsolutes)
+[0:12] Drives

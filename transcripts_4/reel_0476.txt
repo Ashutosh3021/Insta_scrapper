@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[476] https://www.instagram.com/reel/DVx4wwkE1GO/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Oh, man.
+[0:01 - 0:02] What the fuck?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Whatis\anodoing ७» ,
+[0:01] Ginepri
+[0:02] a ee
+[0:02] <V PER
+[0:02] Witatis
+[0:02] odoin
+[0:02] Bef i
+[0:02] an 1
+[0:02] omg
+[0:03] eee
+[0:03] cil
+[0:03] हित OS
+[0:03] rainy
+[0:03] doe
+[0:04] Leite
+[0:04] Ale
+[0:04] fe SS ee
+[0:04] Nis
+[0:05] ail
+[0:05] st oie
+[0:05] poe =
+[0:05] क्र
+[0:06] bef
+[0:07] mee
+[0:07] TZN
+[0:08] > Seer
+[0:08] pee साफ
+[0:10] sia 7 आए पक
+[0:11] (aan *
+[0:11] हि ली सका पदा
+[0:12] pe ea
+[0:12] aa छुटा
+[0:12] ey pe aa
+[0:12] eae
+[0:13] ~ कुछ
+[0:13] ee 22
+[0:15] a छुदा
+[0:15] ical eee
+[0:15] 524
+[0:16] Fe as
+[0:17] Lee
+[0:17] tis
+[0:18] अगर 1
+[0:18] Pn oie
+[0:18] CB. we
+[0:18] [aE ne
+[0:19] कर Ee
+[0:19] | ee ee
+[0:20] a ही
+[0:20] eee न्‍ल

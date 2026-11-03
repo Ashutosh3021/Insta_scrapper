@@ -1,0 +1,89 @@
+# model: ggml-large-v3
+========================================================================
+[730] https://www.instagram.com/reel/DPhAkzOjKrd/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] every single guy that is strong and as a result is dense
+[0:03 - 0:07] has trained in a progressive overload manner with no reps in reserve
+[0:07 - 0:16] every single time i watch a video like this i don't know about you guys it just makes me just
+[0:16 - 0:22] go you know i just want to go to the gym just push some heavy ass weights just go to the pendulum
+[0:22 - 0:27] squat just fail on the machine you know and to be honest that is exactly what science based lifting
+[0:27 - 0:34] is pushing with intent which is not what i see anymore pushing with intent with each given
+[0:34 - 0:41] exercise making sure you perform it flawlessly making sure you push your hardest that is what
+[0:41 - 0:47] science based lifting is not just going through the motions and seeing oh now the reps get
+[0:47 - 0:52] difficult which means that now i'm at zero rir that is not what science based lifting is about
+[0:52 - 0:56] this this stuff which you just watch that is science based lifting
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] किए singe Auy thats strong and as a resultis dense,
+[0:00 - 0:07] tbJP
+[0:01] bins Fiat wr
+[0:01 - 0:02] ~~ AW remain,
+[0:02] "Angle guy Ect AAR
+[0:02] ult is der
+[0:02] ७६७
+[0:03] “Tow
+[0:03] tis strong भूत result is
+[0:04 - 0:05] has got has trained in a progressive overl®ad manner
+[0:04 - 0:06] with no reps in reserve.
+[0:05] (७77
+[0:06] ota
+[0:06] 175
+[0:06] ae. a ७
+[0:09] . tilideath.
+[0:13] om Wa
+[0:13] #249
+[0:13] 12 आ 2
+[0:13] कफ . time I
+[0:13] video like
+[0:14] Pes
+[0:17] ail
+[0:17] wri
+[0:20] Can
+[0:20] wer
+[0:21] er A
+[0:22] a 9७
+[0:22] Wri
+[0:23] Can
+[0:23] Wr 4
+[0:24] era
+[0:24] a the
+[0:27 - 0:29] y > what
+[0:27 - 0:29] based lifting
+[0:28] hay
+[0:28] lifting
+[0:28] ing
+[0:29] ing with
+[0:32] : with
+[0:33 - 0:35] = with intent
+[0:35] e Kel
+[0:35] pre
+[0:35] each given
+[0:39] ing sure you
+[0:40] hardest
+[0:43] Ww iat
+[0:44] a? just going
+[0:45] ००९
+[0:46] Ah 8
+[0:46] a going
+[0:46] ie motions
+[0:47] pe c
+[0:49] 7 that
+[0:50] = itil
+[0:50] bl a
+[0:51] jad till
+[0:51] mild\dise
+[0:51] omfort isn’t
+[0:51] sbi
+[0:51] :& based lifting
+[0:52] ied
+[0:54] ues
+[0:54] . stuff which
+[0:54] just watched
+[0:56] Ce a
+[0:56] Wve
+[0:56] 2 science based
+[0:56] lifting

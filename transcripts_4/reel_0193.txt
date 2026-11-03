@@ -1,0 +1,90 @@
+# model: ggml-large-v3
+========================================================================
+[193] https://www.instagram.com/reel/Db3IQb0MtFj/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Just because you gained strength, it doesn't mean you gained muscle.
+[0:03 - 0:09] But if you gained muscle, it definitely means that you gained strength.
+[0:09 - 0:10] Let me know if that makes sense.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] viva =
+[0:00] क्र «थी
+[0:00] Just he
+[0:00] ‘4 ne
+[0:00] tee
+[0:00] 1000+
+[0:00] Viet
+[0:00] | pitt
+[0:00] ttt
+[0:00] «६ ६ ६ be
+[0:01] v beca
+[0:01 - 0:02] ou gain
+[0:01 - 0:03] strength it
+[0:02] ञ्े
+[0:02] yY bec.
+[0:03] oes
+[0:03] ‘a gai
+[0:03] Hee’
+[0:03] ५८८०५
+[0:03] itt
+[0:03] ६ ६ ६ ६
+[0:03 - 0:04] (tlle
+[0:04] है 5"
+[0:04] Rts he
+[0:04] 132.
+[0:04] But
+[0:04] aos
+[0:04] iis
+[0:05] But ¥ you
+[0:05] [हैं
+[0:05] wth
+[0:06] क्र
+[0:06] wey
+[0:06] But if Bi
+[0:06] uscle
+[0:06] tre
+[0:06] He N
+[0:06] TICES
+[0:06] (ttt
+[0:07] 122 cme
+[0:07] fit
+[0:07] (aie
+[0:07] Lille
+[0:07] V1tCA
+[0:07] 12५
+[0:07] ivf
+[0:07] aAAMAAS
+[0:07 - 0:08] definitel
+[0:08] cle
+[0:08] eng
+[0:08] fies
+[0:08] Mi» ak
+[0:08] १5०)!
+[0:08] >> जे ५
+[0:08] aii,
+[0:08] that
+[0:08] She
+[0:08] WIP PAG
+[0:08] (LCCC
+[0:08] 11! «६६९९
+[0:08 - 0:09] Lay
+[0:09] strength
+[0:09] a aon)
+[0:09] ५७१७
+[0:09] bbb
+[0:09] gain
+[0:09] Cree
+[0:09] Aa eo
+[0:09] 1OLKC
+[0:09] rave
+[0:10] ral
+[0:10] rengt
+[0:10] outs
+[0:10] =musc
+[0:10] (459
+[0:10] y mekn
+[0:10] PISS

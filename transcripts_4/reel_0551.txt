@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[551] https://www.instagram.com/reel/DUYdVw5DLqb/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] but currently the pre-workout i am using is this uh i actually stole this from one of my friends
+[0:07 - 0:12] i went to pune okay when i went to pune i was like bro i saw one of my one of my friends have
+[0:12 - 0:18] this for pre-workout and i was like oh shit dozing is pretty neat right so i was like i fucking
+[0:18 - 0:25] slanked it out of his fucking bag bro this is my it's with me now it's mine bro it's mine
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:25] It’s the usual suspects
+[0:01] But
+[0:02 - 0:03] But currently the pre
+[0:03] workout I
+[0:05 - 0:06] this
+[0:06] alee
+[0:06] ah lactually stole
+[0:07 - 0:08] from one of my friends |
+[0:08] went to Pune okay
+[0:09] went
+[0:10] bro
+[0:11] छा०1539४ one of my one
+[0:12] my friends have this for
+[0:14] like oh shit dozing is
+[0:15 - 0:16] neat right sol
+[0:17] neat right so | was like
+[0:20] slanked
+[0:21] all
+[0:21] fucking
+[0:22] ०१: = i
+[0:22] bag broit's
+[0:23 - 0:24] bag bro it's with me now
+[0:24] it's mine bro |

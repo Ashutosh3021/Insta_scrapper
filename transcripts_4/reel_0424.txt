@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[424] https://www.instagram.com/reel/DW3hQESjLsx/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: id
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] Terima kasih telah menonton!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:09] Training/Nutrition/Peps/Anything
+[0:00 - 0:09] mei Dose gooning falls under NEAT
+[0:01 - 0:02] ate.
+[0:03] oo i
+[0:05 - 0:08] ote.

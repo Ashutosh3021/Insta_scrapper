@@ -1,0 +1,261 @@
+# model: ggml-large-v3
+========================================================================
+[760] https://www.instagram.com/reel/DOY6v1NDEh0/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] dude i just got a mail from icn they just drug tested this athlete dude i don't know if he
+[0:07 - 0:13] accidentally mistook like a natural competition versus like a regular competition but this guy
+[0:13 - 0:18] is using virtually everything which is there on the fucking ped stack this is odd man after he
+[0:18 - 0:23] got caught this is like dude at least try to hide it this guy's not even trying to hide it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] sw haha
+[0:00] 2025 mam
+[0:00] “Analtical Finding (AF) for
+[0:00] bbonne substances Canrenons,
+[0:00] ‘Oranrolone,
+[0:00] enolone. Bleenone,
+[0:00] ant ह
+[0:00] (Dude,
+[0:00 - 0:01] little bit of this
+[0:00 - 0:01] pitestostrone (VE) ratio
+[0:00 - 0:02] Event retired an Adverse
+[0:00 - 0:03] ahh
+[0:00 - 0:11] ‘tonbuterol and Stanozool and
+[0:00 - 0:14] Trenboione, 19:
+[0:00 - 0:16] Ietmancanone metabolites,
+[0:00 - 0:17] ‘contained Testosterone to
+[0:00 - 0:23] ‘above the allowance a 4
+[0:01] 22a
+[0:01] beamed
+[0:01] ‘nla Finding (AAF fo
+[0:01] tances Canrenone
+[0:01] role, Oxandrolone,
+[0:01] its
+[0:01] jude, Ijust gota
+[0:01 - 0:02] 2025,
+[0:01 - 0:03] randrostrone,
+[0:01 - 0:04] ‘Metnenolone, Boldenone,
+[0:02] mF shat
+[0:02] ih zee
+[0:02] Anais Fn
+[0:02] A) fo
+[0:02] 5 of this
+[0:02] enone
+[0:02] but of that
+[0:02] ion
+[0:02] e700] and
+[0:02] entaine Tesoro o
+[0:02] Po (1) rato
+[0:02] ; gota
+[0:02] romicn.
+[0:03] ws cna
+[0:03] पावन Fnging (AAP) or
+[0:03] [ittlelbit'
+[0:03] ‘The'
+[0:03] ist
+[0:03] Pal
+[0:03 - 0:04] Latrozoe, Oxandrolne,
+[0:03 - 0:04] 88000 substances Canrenone,
+[0:03 - 0:17] Epitestosterone (7) rato
+[0:04] a oe
+[0:04] Event rtur
+[0:04] an Adverse
+[0:04] this
+[0:04] ranrostrr
+[0:04] ttl
+[0:04] lat
+[0:04] st drug
+[0:04] »/ sae te:
+[0:04 - 0:10] ‘Analieal Fnging (AAP) or
+[0:05] si ats cram
+[0:05] Cannone,
+[0:05] Senne ance
+[0:05] little bit this
+[0:05] Metrenoione. +
+[0:05 - 0:06] sect
+[0:05 - 0:06] Event return an Adverse
+[0:05 - 0:06] {ittle\but o
+[0:05 - 0:09] orandosteror
+[0:06] 22 20०५० cam
+[0:06] beamed 4 Cannone,
+[0:06] littlelbitof
+[0:06] roranarosteron,
+[0:06] ath
+[0:06] t hn
+[0:06 - 0:07] Levozole, Oxanaroion,
+[0:06 - 0:10] Iethenolone. Bolsenane,
+[0:07] seh seni Gaze
+[0:07] vont rtur
+[0:07] fat
+[0:07] ahh,
+[0:07] 42 if
+[0:07] eet he
+[0:07] ery
+[0:07 - 0:08] an Adverse
+[0:07 - 0:08] little
+[0:07 - 0:14] ‘boned substances Canrenone,
+[0:08] sw haha
+[0:08] it अर
+[0:08] “Analtiea Finding (AF) for
+[0:08] lone,
+[0:08] this
+[0:09] ५१ eo
+[0:09] sect
+[0:09] (205०७ Oxandrolne,
+[0:09] littlelbity
+[0:09] but
+[0:09] if that
+[0:09] (Te) rato
+[0:09] 0 WE
+[0:09] q mistooklikea |)
+[0:09 - 0:12] Event return an Adverse
+[0:10] swe shad
+[0:10] ध्ाणाण
+[0:10] ‘Oranrlone,
+[0:10] it of this
+[0:10] but of that
+[0:11] sw hah
+[0:11] सह अर
+[0:11] ‘Analytea
+[0:11] vont rtur
+[0:11] "Adverse
+[0:11] (RAF) fo
+[0:11] role, Oxandrolone,
+[0:11] ~ little bit ofthis
+[0:11] randrostrone,
+[0:11] ahh
+[0:11] tol
+[0:11] competition versus
+[0:11] like a regular
+[0:11 - 0:14] Metnenolone, oldenone,
+[0:11 - 0:15] 2025,
+[0:12] come
+[0:12] 22 20०५० cna
+[0:12] Latrozoe, xandrolne,
+[0:12] his
+[0:12] oranarostoror
+[0:12] lat
+[0:12] ‘tenbuterol and + and
+[0:12] mpetition.
+[0:12 - 0:13] littlelbit
+[0:12 - 0:14] ‘Annies Finding (AF) for
+[0:13] we sha
+[0:13] sb हुं- 22 June
+[0:13] Event returned an Aor
+[0:13] Off
+[0:13] ithis)
+[0:13] aboltes,
+[0:13] ‘Boldenone,
+[0:13] ‘Stanozolol and
+[0:13] ye this guy is usiga
+[0:13 - 0:18] littlelbitiofithis)
+[0:14] ‘Oranrlone,
+[0:14] [ittlelbitofithis}
+[0:14] ‘Ctonbuterol and Stanozool and
+[0:14] which ose
+[0:14 - 0:15] bene
+[0:14 - 0:16] oranda
+[0:14 - 0:16] ahh
+[0:15] Event
+[0:15] stance
+[0:15] conta
+[0:15] ostorone ७७
+[0:15] whichis there on
+[0:15] nif
+[0:15 - 0:17] rane mataboltes
+[0:15 - 0:18] ‘Anal i
+[0:16] न पर
+[0:16] ‘ony ing AAP or
+[0:16] Latroroe, Oandroine,
+[0:16] bittol
+[0:16] littl
+[0:16] tof that
+[0:16] stack
+[0:16 - 0:17] : This is
+[0:16 - 0:17] ‘Clenbutoro and Stanezolot and
+[0:16 - 0:18] Trenboo
+[0:16 - 0:22] ‘Canrenone,
+[0:17] bbeoned
+[0:17] Hittlelbitorjthis)
+[0:17] Trenboioe, 10.
+[0:17] ora
+[0:17] one,
+[0:17 - 0:18] खरा
+[0:17 - 0:18] tatoo
+[0:17 - 0:18] ‘Metnenolone, Boldenone,
+[0:17 - 0:21] Event returna
+[0:18] fevorse
+[0:18] AF) fo
+[0:18] rolone,
+[0:18] 11000 0 0 ॥ 0
+[0:18] १०७५०
+[0:18] none metabolites,
+[0:18] ‘Stanozolol and
+[0:18] containe
+[0:18] Epitst
+[0:18] erone ७
+[0:18] i is odd run.
+[0:18 - 0:20] ato
+[0:18 - 0:21] ore
+[0:18 - 0:21] beamed
+[0:18 - 0:21] ‘tenbutero!
+[0:19] 2025,
+[0:19] fits)
+[0:19] ligtle}outtofjthat
+[0:19 - 0:21] After he got this is
+[0:20] 22.4une
+[0:20] etna
+[0:20] little|buaotthraty
+[0:20] alain
+[0:20] like
+[0:20 - 0:21] Anaiyiea 8
+[0:20 - 0:21] “Trento
+[0:20 - 0:21] ites,
+[0:20 - 0:21] Matnenoone,
+[0:20 - 0:21] rool and
+[0:20 - 0:22] litslelbigorithis)
+[0:20 - 0:23] १०७७७
+[0:20 - 0:23] ‘contained Testosterone to
+[0:20 - 0:23] Eplestosterone (7) rato
+[0:21] ams
+[0:21] ate
+[0:21] renee,
+[0:21] 1110 010 0॥
+[0:21] ethan
+[0:21] ॥10॥ | । 0111 01
+[0:21] efnla
+[0:21] / like dude at
+[0:22] tw stab
+[0:22] ‘nal
+[0:22] Event
+[0:22] ning (AAP) fr
+[0:22] tbe
+[0:22] (०००,
+[0:22] Trenboion
+[0:22] oranda
+[0:22] Hit
+[0:22] Rofithat
+[0:22] tonbutr
+[0:22] Star
+[0:22] Epitestosterone (7) rato
+[0:22] tohide it.
+[0:22] sal
+[0:22 - 0:23] Ietmancanone metabolites,
+[0:22 - 0:23] IMetnenolne, Bolsenane,
+[0:23] nan -
+[0:23] 2025 mann
+[0:23] Event rturnd an Adverse
+[0:23] “Analtieal Finding (AA) for
+[0:23] Latrozoe, xandroine,
+[0:23] 83000 substances Canrenons,
+[0:23] Tronboione, 19.
+[0:23] little)
+[0:23] ito
+[0:23] ‘tonbuterol and Stanozool and
+[0:23] ahh
+[0:23] ‘Thi guy is note
+[0:23] ing

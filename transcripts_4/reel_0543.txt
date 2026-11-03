@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[543] https://www.instagram.com/reel/DUi61xqEw7X/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Since the morning, I've been tagged in this one specific reel for a thousand times.
+[0:04 - 0:06] I don't know how many times I've been tagged in this reel.
+[0:06 - 0:09] A lot of you guys are saying, I look like this guy.
+[0:09 - 0:13] But I swear, I do not look like this guy at all.
+[0:13 - 0:16] I don't.
+[0:16 - 0:17] I don't even see it.
+[0:17 - 0:20] Dude, this is like, dude, it looks so different.
+[0:20 - 0:21] Look at this.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Since
+[0:00 - 0:24] हू DONT LOOK LIKE THIS'GUY,
+[0:01] Since themorning, |
+[0:02 - 0:03] been tagged in this 0।
+[0:03] specific reel
+[0:04] times,
+[0:05] I don't knoWifioW many
+[0:07] Alot of
+[0:09] 110०८ like this
+[0:10 - 0:11] swear,! do
+[0:12] like ths
+[0:16] Idon'tl
+[0:18] P LOOK LIKE THIS. GUN
+[0:18] see it dude
+[0:19] ». dude this i8 like
+[0:20] itleoks so

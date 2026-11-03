@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[161] https://www.instagram.com/reel/DcgdB3MsVXU/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I just found out that if you drink coffee before sex
+[0:02 - 0:07] I just found out that if you don't take all of your sex to failure you're gonna make better progress
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] von
+[0:04] tewo:
+[0:05] desom
+[0:06] Yew!

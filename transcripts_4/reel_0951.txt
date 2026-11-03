@@ -1,0 +1,87 @@
+# model: ggml-large-v3
+========================================================================
+[951] https://www.instagram.com/reel/DGvRehbhiOt/
+STATUS: OK
+DURATION: 0:45   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] you know everyone will blame their genetics for the lack of progress but what if i told you that
+[0:04 - 0:09] that's just a big excuse which they pull out yes your genetics will determine where your starting
+[0:09 - 0:14] physique is going to be but what it does not define is what your end physique is going to be
+[0:14 - 0:17] they're going to be a lot of people who are going to be having easier time building muscle
+[0:17 - 0:23] easier time staying lean but that does not mean that you have bad genetics you know there's a
+[0:23 - 0:28] big difference between people who succeed and who don't consistency training intensity and
+[0:28 - 0:33] nutrition you're skipping workouts under eating protein and not tracking your progress genetics
+[0:33 - 0:37] is not the issue here it's you who's the issue you know at the end of the day you cannot really
+[0:37 - 0:42] change your genetic structure but what you can change is your work ethic so please stop blaming
+[0:42 - 0:45] your genetics and start maximizing on what you have for that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] ¥ Oi Mr
+[0:01] 1 everyane will blame
+[0:01] genetics
+[0:02] causing \
+[0:02] lackiofj
+[0:02] की आओ
+[0:02] k of prog
+[0:02] fe A
+[0:03] ५्थ
+[0:03] bay’
+[0:03] lack of proofs but. N
+[0:03] at if
+[0:04] कटी
+[0:04] NN 40
+[0:05] i} bi
+[0:06] ts just a big excuse
+[0:06] hich they pull out
+[0:08] your genetics will
+[0:08] determine
+[0:09] our starting
+[0:09] Bete
+[0:10] 4 Starti g instigua
+[0:10] where your starting
+[0:10] physique is going to be
+[0:14] png
+[0:14] ing
+[0:15] ies
+[0:15] ig to be a lot o}
+[0:15] ople
+[0:16] Bras
+[0:16] to be having
+[0:17] हि. ae
+[0:17] ‘building
+[0:19] ime staying lean’
+[0:21] २०७.
+[0:21] loe: t mi
+[0:22] ‘does not me:
+[0:22] ve bad genetics
+[0:24 - 0:25] ig differenc
+[0:25] eople who
+[0:25] icceed
+[0:26] val
+[0:26] Eonsistency
+[0:26] leit
+[0:27] a Eat
+[0:27 - 0:28] flew to builel musclks
+[0:27 - 0:28] ५ Stay
+[0:27 - 0:28] Train
+[0:28] ig intensity ai
+[0:29] iping
+[0:31] wal
+[0:31] Mit
+[0:31 - 0:32] 9 protein a
+[0:32] jour progress’
+[0:35] you who's the i:
+[0:36] the end of
+[0:37] cannot
+[0:38] cannot really’
+[0:38] ir genetic
+[0:40 - 0:41] nat you can chal
+[0:41] aed
+[0:41] your work ethic
+[0:42] stop blaming:
+[0:44] art maximizing 01
+[0:45] ind sti
+[0:45] jaximizi
+[0:45] =| | hat you have f

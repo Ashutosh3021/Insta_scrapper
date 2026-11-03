@@ -1,0 +1,124 @@
+# model: ggml-large-v3
+========================================================================
+[278] https://www.instagram.com/reel/DaC4UoGsnwh/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] no one wants to admit this but 9 out of 10 times whenever someone gets some kind of pain from a
+[0:04 - 0:10] given exercise it's almost always a technique issue half of you guys are not even controlling
+[0:10 - 0:15] your eccentrics half of you guys don't know what the fuck is standardization half of you guys
+[0:15 - 0:20] are loading things too early that's it that's most likely the issue if you just fix all of
+[0:20 - 0:23] these three things you probably won't get the pain obviously there are some exceptions to this but
+[0:23 - 0:25] most of the times it's just that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] this;
+[0:00] हैँ
+[0:00] 10९!
+[0:00] - - जिओ
+[0:00] eve
+[0:00 - 0:04] Pain
+[0:01] ithis\but;
+[0:01] ase या
+[0:02] thisibutinineloutiofiten
+[0:02] timesiwhene
+[0:02] ver
+[0:02] tal
+[0:02] = क्या
+[0:03] — pd ee
+[0:03] 9, ny
+[0:03] क्र
+[0:04] somelkind
+[0:04] rom
+[0:04] W 20
+[0:04] *te5)
+[0:04] Pas i
+[0:05] A fr
+[0:05] 00९
+[0:05] 003
+[0:05] Hig
+[0:06] Itisjalmost-always'
+[0:06] ee का
+[0:07] [t:stalmostralwaysral
+[0:07] technique ”
+[0:07] tay
+[0:07] ‘een
+[0:07] man)
+[0:08] Painvin
+[0:08] Half,
+[0:08] a re é
+[0:08] ल्‍्ट
+[0:09] Exel
+[0:09] CISE
+[0:09] Halfiofiyoulguysarelne
+[0:09] > Kare”
+[0:09] है पे
+[0:09] जिक
+[0:09 - 0:12] even
+[0:10] youlguy anjeinot
+[0:10] controlling
+[0:10] ann
+[0:10] eo we
+[0:10] ELF
+[0:10] ait
+[0:10] ४“ 20%
+[0:10] ny 7
+[0:10 - 0:11] exercise
+[0:10 - 0:15] है from
+[0:11] Halify
+[0:11] roan
+[0:12] Pain
+[0:12] iysidon
+[0:12] you g
+[0:12] Wien
+[0:12] Pm iis
+[0:12] १ ७०-३६,
+[0:12] iy 7
+[0:12] bet.
+[0:13] Whee tne tek is
+[0:13] 11 मे
+[0:14] , ati
+[0:14] ey tom ||
+[0:14 - 0:16] ley
+[0:15] ‘a this
+[0:15] 2777
+[0:15] La a
+[0:16] Sito:
+[0:16] 77 3
+[0:16] \ iim
+[0:16] नर कर
+[0:16] aoe i
+[0:16] eee
+[0:16] a~S2 —
+[0:17] f fr
+[0:17] jihat's
+[0:17] Nes
+[0:17] 2117
+[0:18] a २5
+[0:18] PF ihe |
+[0:18 - 0:21] है from
+[0:19] 721
+[0:19] सत्र
+[0:19 - 0:21] ae ae
+[0:20] स्का =
+[0:20] ~hag
+[0:21] /001910/231100 00107
+[0:21] fey»
+[0:21] Zon
+[0:21] Panta
+[0:21] Saar’
+[0:21] iy 7
+[0:22] Coy
+[0:23] “कर fom
+[0:23] Com
+[0:23] = -झन्
+[0:24] Swe
+[0:24] jaar’
+[0:24] कर. जकक;
+[0:24] ॥ ane
+[0:25] frromlexencise
+[0:25] Pe ae
+[0:25] sii
+[0:25] 118

@@ -1,0 +1,105 @@
+# model: ggml-large-v3
+========================================================================
+[204] https://www.instagram.com/reel/DboDUkOMH7o/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:25] *Dramatic music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ng|li
+[0:00] this
+[0:00] — त-ब्य
+[0:00 - 0:02] Love.training
+[0:01] rghit
+[0:01] fens \
+[0:01] "अन्य
+[0:01] पान
+[0:01 - 0:02] like} this?
+[0:02] oY a
+[0:02] ९, ee
+[0:02] Boe
+[0:03] this?
+[0:03] My C
+[0:03] wey
+[0:03] ONG
+[0:03 - 0:08] Love training|like this”
+[0:04] th पट
+[0:04] Ls 2 4
+[0:04] \ > ee v
+[0:04] SS अंग
+[0:05] Nim
+[0:05] "2 oy
+[0:05] vex oe
+[0:05] a ee
+[0:06] पा पे
+[0:07] Love traini
+[0:07] ay if
+[0:07] सका
+[0:07 - 0:08] ~\ wey
+[0:08] ote
+[0:08] iter i
+[0:08] नर os
+[0:08] meq!
+[0:09] Batt
+[0:09] a आक
+[0:09 - 0:10] Love tral
+[0:10] e this!
+[0:10] Be =S
+[0:10] BAN
+[0:10] Lip
+[0:10] 22222
+[0:11] b से
+[0:11] ध्कह्‌।
+[0:11 - 0:24] Love training like
+[0:12] eee
+[0:12] like this?
+[0:12] Nant
+[0:12 - 0:14] ~\ wey
+[0:13] like
+[0:13] this?
+[0:13] mati!
+[0:13] Neon?
+[0:14] Love training like this”
+[0:14] ay वश
+[0:14] may!
+[0:15] ike this’
+[0:15] NY WA
+[0:15] hse a
+[0:15] 6३4 !
+[0:15] AN y}
+[0:16] hist |
+[0:16] SS वश
+[0:16] BET
+[0:17] traini
+[0:17] SE बम
+[0:17] SACEL
+[0:18] ke this
+[0:18] Lig
+[0:18] ans
+[0:19] Love tra
+[0:19] Owe
+[0:19] Bayt
+[0:19 - 0:21] hist |
+[0:20] Batt
+[0:21] gliket
+[0:21] = मन्॥
+[0:21] NOY
+[0:21] ~ Wey
+[0:21] Patt
+[0:21] अत 1
+[0:22] Love tra
+[0:22] 8 881
+[0:22] ot J
+[0:22] 2322
+[0:22 - 0:23] like this?
+[0:23] क्र
+[0:23] के जल
+[0:23] Bat!
+[0:23] Ss 2 ke’
+[0:24] his”
+[0:24] हैं
+[0:24] LAN
+[0:24] ज्छ्क

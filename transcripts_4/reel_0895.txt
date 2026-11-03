@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[895] https://www.instagram.com/reel/DJCO5FEhHEn/
+STATUS: OK
+DURATION: 0:41   SPOKEN LANGUAGE: de
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Und die Welt zählt laut bis 10
+[0:03 - 0:09] 1. Hier kommt die Sonne
+[0:09 - 0:15] 2. Hier kommt die Sonne
+[0:15 - 0:21] 3. Sie ist der Held für Sterne von allen
+[0:21 - 0:28] 4. Hier kommt die Sonne
+[0:28 - 0:35] 5. Hier kommt die Sonne
+[0:35 - 0:41] 6. Hier kommt die Sonne
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] a. Indian|
+[0:00 - 0:02] Science based
+[0:00 - 0:02] community does:
+[0:00 - 0:02] exist
+[0:03] Los
+[0:03 - 0:05] It does
+[0:04] Veg
+[0:05] Taare
+[0:05] बाड़
+[0:06 - 0:07] itidoes)
+[0:07] ate
+[0:08] It x
+[0:09] It हे
+[0:10] a ee ॥
+[0:10] vane
+[0:10] Ties
+[0:10] idl
+[0:10] D a ye ||
+[0:10 - 0:11] It does |
+[0:12] It q
+[0:13] It sy
+[0:13] ea irl iA tbh that aS
+[0:14] vec
+[0:14] el hin ni NEN
+[0:14 - 0:22] Itidoes wv
+[0:15] ail
+[0:15] ie le in nS GROEN
+[0:16] ~ अकक
+[0:16] he hie nl EN
+[0:17] an does
+[0:19] fe does “~
+[0:19] dnl
+[0:20] R eh!
+[0:21] श्री
+[0:21] Ur does
+[0:22] aisimple way to know
+[0:22] करे ctually
+[0:22] 2] ए 6०० 2 ५]
+[0:23] way to know
+[0:23] if you're actuall
+[0:23] Trainin
+[0:23] d'Enough
+[0:24] a simple way,
+[0:24 - 0:25] if you're a
+[0:24 - 0:25] Training Hard/Enough
+[0:25] Itidoes'
+[0:25] NOW
+[0:25] actually
+[0:26 - 0:27] 4 It really
+[0:26 - 0:27] possible
+[0:26 - 0:27] without
+[0:27] vay
+[0:27] ust
+[0:27] ‘wouldn't have been
+[0:27] Ei के
+[0:28] 20" 4
+[0:29] Pix
+[0:29] the ¢
+[0:30] हैँ
+[0:30] ree
+[0:32] दूं
+[0:34] {a8 <A
+[0:34] ral
+[0:35] ry aw
+[0:37] zea

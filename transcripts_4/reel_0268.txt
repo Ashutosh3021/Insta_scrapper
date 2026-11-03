@@ -1,0 +1,79 @@
+# model: ggml-large-v3
+========================================================================
+[268] https://www.instagram.com/reel/DaQKaRGs5pM/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I don't care
+[0:04 - 0:06] Who you are
+[0:06 - 0:08] Where you're from
+[0:08 - 0:11] What you did
+[0:11 - 0:14] As long as you love me
+[0:14 - 0:16] Who you are
+[0:16 - 0:18] Where you're from
+[0:18 - 0:21] Don't care what you did
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] eee:
+[0:00] 2 59971/525८1९॥८९ based 1!
+[0:00] kar,RAA hu
+[0:00] oie
+[0:00 - 0:02] lifting kar |
+[0:01] 2 saal se science based optimal.
+[0:01] lifting kan RAA hu
+[0:01] (hij
+[0:02] 2 saal se science
+[0:02] optimal
+[0:03] Same team?
+[0:04] weallin
+[0:04] team?
+[0:05] Aren't wealliinthe same team?
+[0:06] Hecked
+[0:07] gel anna get jacked
+[0:08] Cis
+[0:08] 108
+[0:08] प्र
+[0:08] tye
+[0:08] gor
+[0:08] Welall wann jacked 7
+[0:09] ie 4%
+[0:09] iy 7.
+[0:09] Havelwe all lostit
+[0:09] he plot?
+[0:10] Havelwe
+[0:10] alos the plot?
+[0:11] y did we all
+[0:11] start ता out?
+[0:11] Yas
+[0:12] ek .. हैं
+[0:12] id weal stare raking out?
+[0:13] any
+[0:13] | 1198 8/00106 behind it
+[0:13 - 0:14] nisbl
+[0:13 - 0:15] Every choicelofran\sbl
+[0:14] Ever
+[0:14] hoicelofia
+[0:14 - 0:15] a Has evidencellehnind it
+[0:15] 224
+[0:15] ८42
+[0:16] Ngee
+[0:16] हे के.
+[0:16] Sbl gets youjto\your goal
+[0:16 - 0:17] Quicker
+[0:17] | gets you 10 four goa
+[0:17] के 9
+[0:18] syou toyo
+[0:18] Hal
+[0:18] 221
+[0:18] om 010७6
+[0:19] | There’stnothing wrong W
+[0:19 - 0:21] hoosinglits
+[0:20] N प्र
+[0:20] | lan
+[0:20] There'stnothing inning Ue I
+[0:20] बा । , कह it
+[0:20] Vij
+[0:21] Wes
+[0:21] Therejs'nothinghgong with

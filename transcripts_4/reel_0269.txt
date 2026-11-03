@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[269] https://www.instagram.com/reel/DaN290iMC0D/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] «1४४ |€10//00॥0100
+[0:01] 108 letting youknow,
+[0:01] हे s
+[0:02] क्र
+[0:02] थ्थ ॥
+[0:02] हक मै
+[0:02 - 0:03] lelgnoup
+[0:02 - 0:04] ne biases a different
+[0:03] bam
+[0:03] 4) की अब
+[0:04] le Sa
+[0:04] Frida
+[0:05] [ha i)
+[0:05] का Gitfenent
+[0:05] nae
+[0:05] है हैः
+[0:05 - 0:07] Muscle
+[0:05 - 0:07] alll
+[0:06] LL है
+[0:06] Sa different
+[0:06] 4. te
+[0:07] ed दि
+[0:07] war.
+[0:07] बेड.
+[0:07] Te “4
+[0:08] ४; कि diee
+[0:08] Ss m
+[0:08] ovementiat thesp
+[0:09] भ्फृः
+[0:09] CC १
+[0:09] OVE
+[0:09] पर atthe sp
+[0:10] lle
+[0:10] 2 < अंडर atytihe’spine
+[0:11] 4: 5 tat i thespine
+[0:12] न्‍े
+[0:12] less movemen Wat dthe’spine:
+[0:12] al L
+[0:13] | Fon for mp
+[0:13] Ste
+[0:13] है ै
+[0:14] का २
+[0:14] mor
+[0:14] { Flr

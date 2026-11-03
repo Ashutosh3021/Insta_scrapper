@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[59] https://www.instagram.com/reel/DeR8BthspCk/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] The funniest thing to hear from someone who doesn't go to the gym or doesn't diet is they'll look at your food and they'll be like, oh, how can you eat this and that on a daily basis?
+[0:08 - 0:10] It tastes so bad.
+[0:10 - 0:12] Bro, you're fat.
+[0:12 - 0:16] If you were lean like me, this shit would be tasting good.
+[0:16 - 0:20] You don't know how food tastes when you're lean, bro.
+[0:20 - 0:22] This is a different feeling.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हैं,
+[0:00] h ate
+[0:00] ac a8
+[0:00 - 0:06] unHowicamyouleatrall
+[0:01] voureatrall
+[0:01] tha
+[0:01] 100
+[0:02] thatz,
+[0:02] Aig
+[0:02] ine
+[0:02] is a
+[0:03] haty a8
+[0:04 - 0:05] “that
+[0:05] tis
+[0:06] ico
+[0:07] eanhyouleatiall
+[0:07] thaty
+[0:08 - 0:09] (1667
+[0:08 - 0:09] eattall
+[0:08 - 0:10] you
+[0:10] aust al
+[0:11] Mes
+[0:11 - 0:14] “uHowicamyouleatrall
+[0:11 - 0:21] tha; ‘at,
+[0:12] ath
+[0:13] val
+[0:13] AH «4
+[0:13] Agel
+[0:13] oor”
+[0:15 - 0:17] vou
+[0:15 - 0:18] eattall
+[0:16] mHOWICAMYOU)
+[0:17] inn
+[0:18] 10/८9/5५01
+[0:18] nate)
+[0:18] Ath
+[0:19] Canlyouleatzall
+[0:19] ere
+[0:20] “HOW.
+[0:20] ८70
+[0:20] tha
+[0:20 - 0:22] iniyouleatrall
+[0:21] you
+[0:21] eattall
+[0:22] > t वा
+[0:22] a ae ae

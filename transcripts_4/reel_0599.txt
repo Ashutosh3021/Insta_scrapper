@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[599] https://www.instagram.com/reel/DTCeJakjB2F/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] you know when a lot of guys talk about oh i want to get a buzz cut i have an urge to get a buzz cut
+[0:03 - 0:08] you guys don't know what you're getting yourself into bro you guys don't know what you're getting
+[0:08 - 0:13] yourself into first thing which you gotta look into is your fucking hairline bro take a good
+[0:13 - 0:20] look at your hairline if your hairline falls anywhere in any of these things do not get a
+[0:20 - 0:22] buzz cut i'm not even kidding
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] of Cutstane 8
+[0:00] Lid
+[0:00 - 0:02] not optimal है
+[0:01] ड़ &॥197
+[0:01] guys talk about
+[0:02] aif Onsen
+[0:02] Wantto get a oul |
+[0:03] stan urge to getia
+[0:05] ‘You guys don't know what
+[0:08] ae) me
+[0:08] You guys don't kni
+[0:08] you are getting yourself
+[0:09] first thing
+[0:10] 8 thing which you
+[0:10] Gotta look into
+[0:11] हैं
+[0:11] Sali
+[0:11] fucki
+[0:12] fucking hairline oro
+[0:13] ram
+[0:13] eat resth,
+[0:13] take a good look
+[0:15 - 0:17] ‘your hairline fa
+[0:16] ey hairiine fis ४
+[0:16 - 0:17] anywhere in
+[0:17] Bs SaaS. Doak Yee)
+[0:17] Ze) ३७७ ३
+[0:17 - 0:18] Am AM AA
+[0:17 - 0:18] aA AA WA
+[0:18] ७ /१/७ १/७
+[0:18] Zu) Zul Ze)
+[0:21] Fa) # ] Tamnot

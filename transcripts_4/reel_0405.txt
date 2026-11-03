@@ -1,0 +1,83 @@
+# model: ggml-large-v3
+========================================================================
+[405] https://www.instagram.com/reel/DXPdJRqjD9G/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I don't know who needs to hear this but you gotta stop obsessing over your body weight.
+[0:03 - 0:07] A lot of people measure how much muscle they have with how much amount of body weight which
+[0:07 - 0:12] they're carrying. Well in reality you can really just weigh the same and probably have a different
+[0:12 - 0:20] body composition. This is me at 65 kgs and this is also me at 65 kgs. Both of them are the same
+[0:20 - 0:24] body weight but the only difference is the amount of muscle I'm carrying and to the amount of fat
+[0:24 - 0:29] I'm carrying. What you should be obsessing over is are my lifts going up? Is my physique improving
+[0:29 - 0:34] in the mirror? Do not look at your body weight. Look at the mirror and the lifts. Apart from that
+[0:34 - 0:36] you don't have to look at anything else.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Fy ५
+[0:00] A 1 अ row ho 7
+[0:00 - 0:01] * odyweightobsessiont
+[0:01] was
+[0:02] Bod
+[0:02] >> 101 36331011
+[0:02] 6 obsessing "
+[0:03] 1025
+[0:04] Cie
+[0:04] है measure
+[0:05] h muscle
+[0:05] Red
+[0:06] with how
+[0:08] jee.
+[0:08] ye GE
+[0:08] tight which Ae
+[0:08] learrying
+[0:08] हे ४०५
+[0:10] ail
+[0:10] ¢ Neen cally
+[0:11] # atl
+[0:11] UN am
+[0:12] Gules
+[0:12] आप the same and
+[0:12] jably have
+[0:13] ae bt
+[0:13] 75४]
+[0:13] oan 4
+[0:13] erent body
+[0:13] josition
+[0:15] श्र
+[0:15] this is me at)
+[0:16] re 4 | q
+[0:18] ery,
+[0:18] try
+[0:18] Gan
+[0:19] bagel
+[0:19] Fly \
+[0:19] Bin, है. - a
+[0:19] Hem af
+[0:21] 7 हे
+[0:21] ; Pp Z
+[0:22] boll TH
+[0:22] of misc!
+[0:23] tal
+[0:24] 34° (१
+[0:24] if Fats
+[0:25] . है कक >
+[0:25] should ६
+[0:26] lay
+[0:26] ay should be
+[0:26] over is
+[0:27] ib a1)
+[0:27] Aly «
+[0:28] myr >
+[0:28] हु. 2)
+[0:29] tor
+[0:31] lau
+[0:31] का 5
+[0:33] bel)
+[0:35] hey
+[0:35] 89६
+[0:35] from that you
+[0:35] val
+[0:36] anything el:

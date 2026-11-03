@@ -1,0 +1,96 @@
+# model: ggml-large-v3
+========================================================================
+[952] https://www.instagram.com/reel/DGsnMnGtnm6/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] The biggest lie I've heard in the fitness industry is that you need to buy this specific supplement in order to grow muscle.
+[0:07 - 0:12] You know most people think that buying ashwagandha, sheelajit will help them grow more muscle.
+[0:12 - 0:21] In reality, all you need is creatine and whey and you don't even need whey if you have adequate protein intake from the diet which you have.
+[0:21 - 0:28] Most of these supplements are being sold by a fitness influencer because he's getting paid for it so he'll advertise it the way he wants.
+[0:28 - 0:31] Please stop wasting your money on stuff like this.
+[0:31 - 0:35] Start investing in your diet, training, sleep, recovery and that should do most of your work.
+[0:35 - 0:40] There is no such magic pill which is going to help you grow muscle unless it's steroids.
+[0:40 - 0:41] So yeah, hope that helps.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] LE 17)
+[0:01] ithebfitmess}
+[0:01] jie I've
+[0:02] Wihe\BIGGESiTg" fin)
+[0:02] the fitness incuisthy
+[0:02] he fagest lie I've hear,
+[0:04] grow
+[0:04] ४४ mu:
+[0:04] Fil wil
+[0:04] is thatyou
+[0:05] put
+[0:05] is thi
+[0:05 - 0:07] iS dl will grow musi
+[0:06] “This. a will/grow musel
+[0:07] “Thi
+[0:07] jer t
+[0:08] का J en people think
+[0:09] fk r
+[0:09] ist people think
+[0:10] legit
+[0:11] legit will help ४
+[0:12] १७४ more muscl
+[0:12] it will help thi
+[0:14] ॥ ५ eed
+[0:15] Creatine)
+[0:15] 2 Wingy (Optional)
+[0:15] ‘ine
+[0:15] all you need is
+[0:15 - 0:16] Wiatiworks’
+[0:16] 2. Whey
+[0:16] ‘eality all you need.
+[0:16] reatine and wh
+[0:17] 00160 Wrens
+[0:17] Greeti
+[0:17] (Opti
+[0:17] aan
+[0:17] id you don't even
+[0:19] जे 3
+[0:19 - 0:20] 2 adequate pri
+[0:20] e from
+[0:22] Pik
+[0:22] [y FS
+[0:22] ost ’
+[0:22] lements
+[0:23] Vie
+[0:24] ual
+[0:24] sold by a)
+[0:24] influens
+[0:25] Hypemaxxinge
+[0:26] poy
+[0:26] se he's getting
+[0:28] vertise it the w:
+[0:29] rit
+[0:29] pine
+[0:29] ct ४
+[0:29] ayes
+[0:30] “as wastin:
+[0:31] op wasting you
+[0:31] n stuff likeshis
+[0:32] ing in 4 4
+[0:33] nal
+[0:33] 3 .1Sleep)
+[0:34] 3.31
+[0:34] ह७७ ४४
+[0:34] sleep recov
+[0:35] शक २
+[0:35] EVs
+[0:35] that should do
+[0:37] ag tl
+[0:37] Sis no such magi
+[0:39] joing to help yo
+[0:39] grow muscle
+[0:40] Follow for more
+[0:40] 5० } less it's steroids
+[0:41] 2 more.
+[0:41] # ५ 4७3
+[0:41] ~ yeah hope
+[0:42] fogmone

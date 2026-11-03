@@ -1,0 +1,99 @@
+# model: ggml-large-v3
+========================================================================
+[31] https://www.instagram.com/reel/DekBZ0Fs2sF/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] there is this weird misconception that if you slowly slowly slowly add on 100 calories on your
+[0:04 - 0:09] diet you're all of a sudden going to be able to eat more than your maintenance and maintain the
+[0:09 - 0:16] same body weight and body composition there's a thing called energy balance it consists of your
+[0:16 - 0:24] total daily energy expenditure either you have to change any of these variables or to accept that
+[0:24 - 0:29] there's going to be some changes which is going to be happening in your body composition just for
+[0:29 - 0:33] the extra food which you're going to be eating like it doesn't make sense
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] owl eat 4500kcals'
+[0:00 - 0:18] “Added/100kcalsfevenyiweekt
+[0:01] JOSE
+[0:01] weird
+[0:01] iv ati
+[0:01] att
+[0:01 - 0:03] ow lleat’
+[0:01 - 0:05] Cals’
+[0:02] lV i)
+[0:03] -- हैं
+[0:03] हि slowly
+[0:04] IST
+[0:04] हर y
+[0:04] hui ired
+[0:04 - 0:05] Nowleat 4500k«
+[0:05] “लें
+[0:05] hui
+[0:05] on your
+[0:06] owleat4
+[0:06] 800kcals:
+[0:06] Pe ag
+[0:07] y अं
+[0:07] f asudden
+[0:07 - 0:08] Nowll'eat4500kcals
+[0:09] fee
+[0:09 - 0:12] OO0kcals;
+[0:10] the same
+[0:10 - 0:11] Nowlleat
+[0:11] sition
+[0:12] wil'e
+[0:12] Hal
+[0:13] it 4500kcals;
+[0:13] iit
+[0:14] owl'eat-4500kcals'
+[0:14] led
+[0:15] (O0kcalsi
+[0:15 - 0:16] lowl’eat
+[0:16] Cals)
+[0:17] NEAT
+[0:17] ree
+[0:17] daily
+[0:17 - 0:18] Nowllleat4500kcalsie
+[0:17 - 0:18] BMR
+[0:17 - 0:18] It Consist of your total
+[0:18] nee
+[0:18] daily nergy expenditure
+[0:19] low! eat 451
+[0:19] 0068
+[0:20] के al
+[0:20] evehy)
+[0:20] Nowlleat
+[0:20] OO0keal:
+[0:20] not
+[0:21] 06016 6/
+[0:21] N7 al
+[0:21] Either you
+[0:22] PEE 5०
+[0:22] Wariables
+[0:22 - 0:23] “AddedhlOOkcals\evenyineek
+[0:22 - 0:23] une
+[0:22 - 0:23] fee
+[0:22 - 0:32] Nowil eat’4500kcals¥
+[0:23] Neat |
+[0:24] cept
+[0:24] {iit
+[0:24 - 0:25] “Added
+[0:25] fo be
+[0:26] er US
+[0:26] be some
+[0:26] which
+[0:27] in your
+[0:28] “Add
+[0:28] enyl
+[0:28] your body
+[0:28] just
+[0:28] ahi
+[0:29] “Added tl
+[0:29] बाण
+[0:29] it 4500kcals
+[0:30 - 0:32] OOkcalsleve
+[0:31] Add
+[0:31] low'l eat
+[0:31] kcals

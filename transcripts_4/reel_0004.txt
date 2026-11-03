@@ -1,0 +1,70 @@
+# model: ggml-large-v3
+========================================================================
+[4] https://www.instagram.com/reel/DfHN_VnvAHH/
+STATUS: OK
+DURATION: 1:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I wanted to show you guys what I eat for my pre-workout meal to maximize my performance output
+[0:05 - 0:12] see for a particular pre-workout meal we want to make sure we maximize the carbohydrate intake in
+[0:12 - 0:17] it and the way we go about doing that is just by having carbs right so one thing we should add is
+[0:17 - 0:23] rice flour right so this is a concoction which I've made here the open hanger concoction which
+[0:23 - 0:31] I've made here is made up of 40 grams of rice flour two rice cakes about 100 grams of bananas
+[0:31 - 0:37] 30 grams of honey and then we have added a little bit of seasoning on top of it
+[0:37 - 0:45] by adding some cinnamon by adding some coffee powder by adding some stevia artificial sweetener
+[0:45 - 0:51] it's not that bad if you use it in moderation and 10 grams of dark chocolate for that nitric
+[0:51 - 0:52] oxide boost
+[0:52 - 0:57] this is what I have every single day for my pre-workout sometimes I switch things up
+[0:57 - 1:02] make it make it oats make it rice flour whatever I feel like having but yeah this is exactly what
+[1:02 - 1:05] I eat I'm gonna chow this down and get to my workout
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] want
+[0:00 - 0:05] Whatilieat pre workout
+[0:00 - 0:05] To maximize muscle growth in they) ।
+[0:00 - 0:05] gym
+[0:01] guys
+[0:04] prea
+[0:04] ize
+[0:05] To maxi
+[0:05] perf
+[0:06 - 0:08] MACROS 4 THE END “Wy
+[0:08] हैँ
+[0:13] and =
+[0:14] we go about,
+[0:14 - 0:15] 1. Have i in meal
+[0:15] हैँ
+[0:15] ura,
+[0:16] 1. Have carbsin meal
+[0:18 - 0:20] (Fast digesting carbs)
+[0:19] Right,
+[0:19] isis the.
+[0:20] " concoction wh
+[0:24] ABP s:
+[0:26] © Frore
+[0:28] aes
+[0:34] grams of honey’
+[0:37] Pal जय
+[0:38] cal
+[0:38] a aes
+[0:47] a | हें
+[0:48] in न
+[0:49] rea
+[0:49] “eS moderatio,
+[0:52] CBs
+[0:52] this
+[0:55] single Com
+[0:56] off
+[0:57] 2 रे
+[0:59] ces
+[1:00] अली ==
+[1:02] vere
+[1:02] reste
+[1:02] K CHOCOLATE
+[1:02] eon
+[1:02] Honey ©
+[1:02] somo
+[1:02] ity’
+[1:03] having —
+[1:03] exactly

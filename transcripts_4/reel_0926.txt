@@ -1,0 +1,316 @@
+# model: ggml-large-v3
+========================================================================
+[926] https://www.instagram.com/reel/DHv2aUHBMMX/
+STATUS: OK
+DURATION: 1:12   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] अगर तुमें एक bro split follow कर रहे हो, thinking you'll get as jacked as possible, you have been misled.
+[0:04 - 0:11] अब problem क्या होती है कि लोग bodybuilders को देखते हैं, वो भी ये split follow कर रहे हैं, so they think this is the best way to gain muscle.
+[0:11 - 0:15] अभी तुमें ये नहीं पता कि एक bodybuilder बैठे बैठे तुमसे जादा muscle grow कर सकता है.
+[0:15 - 0:22] अभी जो bro split होती है वो हर muscle group को हफ़ते में एकी बार train करती है, and as a natural this is the worst thing you can do.
+[0:22 - 0:27] अभी तुमारे जो muscles है, या तो either they are growing or shrinking depending upon the stimulus which you give them.
+[0:27 - 0:35] जब तुम train करते हो and you give your body that stimulus to grow, that stimulus only lasts for 48 hours, उसके बाद you start losing muscle.
+[0:36 - 0:39] But ये same चीज bodybuilders के साथ बिल्कुल नहीं होती है.
+[0:39 - 0:43] Their muscles are not just growing from training, but there is something else in the play.
+[0:43 - 0:49] जब भी कोई बन्दा steroids लेता है, उसके muscle fiber size और satellite cell count दोनों बढ़ जाता है.
+[0:49 - 1:02] अगर कोई बन्दा 200 mg of testosterone ले रहा है 8 हफ्तों के लिए, and he is not training, he will still gain 2.7 kgs of lean body mass, which is way more than a natural can gain in 3 months.
+[1:02 - 1:11] If you are following a bro split thinking that it is going to grow you more muscle because a bodybuilder does it, just know that he can sit and grow more muscle than you with your perfect diet and training.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] =e, yt isoptimalz
+[0:01] ty wa splitissoptinvall?,
+[0:01] ब्रा
+[0:01] sy. Abodybuilders approach’ 4
+[0:01] Agar
+[0:01] : ek Bro split follow
+[0:02] ह हे
+[0:02] c body juildérs Bratt
+[0:02] “thinking you'll
+[0:03] Sis
+[0:03] / emo
+[0:03] thinking you'll get as jacked
+[0:03] as possible
+[0:04] ल हु
+[0:04] 7 ae
+[0:04] रा you have been
+[0:04] led
+[0:05] alk,
+[0:05] mS 2० ३6
+[0:06] AALS
+[0:06] हि: है
+[0:06] हैं. ७००५४७॥
+[0:07] boriveuid
+[0:08] i athe: id
+[0:09] a ft
+[0:09] ays
+[0:09] © 5० they th
+[0:09] जब ea.
+[0:10] AAG
+[0:10] Sa s
+[0:10] So they thi
+[0:10] ee 5
+[0:11] vi “कि.
+[0:11] canal,
+[0:11 - 0:12] they
+[0:11 - 0:12] he best
+[0:11 - 0:15] ee The Effects =|
+[0:11 - 0:15] Supraphysiologic Doses
+[0:11 - 0:15] of Testosterone on
+[0:11 - 0:15] Muscle Size and
+[0:11 - 0:15] Strength in Normal
+[0:11 - 0:15] “ Men
+[0:12] Vy “SD
+[0:12] ios
+[0:16] न ता
+[0:17] कि आए. =
+[0:17] SUN
+[0:17] Ungerer |
+[0:17 - 0:19] DAY BRO SPLIT
+[0:17 - 0:19] WED THU
+[0:17 - 0:19] ‘SAT
+[0:18 - 0:19] Frequency 1x
+[0:20] 1 12118
+[0:20] wavolum
+[0:20] uency
+[0:20] e'training
+[0:20 - 0:21] “is better.)
+[0:21] aad ॥
+[0:21] sae igh
+[0:21] wavelume:train
+[0:21] ing
+[0:22] te’ 7
+[0:22] wmf
+[0:22] हि ery fd
+[0:22] Sees
+[0:23] Poe”
+[0:23] 7 a i
+[0:23] e either
+[0:23] & ५ ZZ
+[0:23] 411
+[0:23] हब. 5
+[0:24] i \at
+[0:24] lle
+[0:24] As a
+[0:24] 10211 (hypertrophy)!
+[0:24] a छा
+[0:24] आज ३
+[0:24 - 0:25] Muscles are either l
+[0:25] 1011) 10/900 11)
+[0:25] ot ge, ©
+[0:25 - 0:26] mshi
+[0:25 - 0:26] King (atrophy);
+[0:26 - 0:27] as are either i
+[0:27] hypertrophy)!
+[0:27] Zashrinking (atrophy); |
+[0:28] S41
+[0:29] om है a
+[0:30] Bia
+[0:31] fo! Sy
+[0:31] 2० ९.
+[0:32] may
+[0:32] 7 NI
+[0:32 - 0:34] hat.stimufus
+[0:33] ran
+[0:33] HiT
+[0:33] 1 minute
+[0:33] heart rate
+[0:33] Resi
+[0:33] fib
+[0:33] in fraction
+[0:33] 0 rest at
+[0:33] hours f
+[0:33] 1nd |॥॥ The incre
+[0:33] ein
+[0:33] fibrilar fractional sync (3
+[0:33] greater
+[0:33] following Rl
+[0:33] HIIT at both time
+[0:33] ode:
+[0:33] 0 increase
+[0:33] thatstimus only iets for 4
+[0:34] Bro
+[0:34] lit eae
+[0:34] As th
+[0:34] lis 7 7, days)bet
+[0:34] tween
+[0:34] mad
+[0:34] 8 0५
+[0:34 - 0:36] Optimal.
+[0:34 - 0:37] essionp a/)}
+[0:35] a 4b -
+[0:35] Bro splt'No
+[0:35] As there isi UCENS
+[0:35] Eac
+[0:35] ६551
+[0:35] you states!
+[0:36] Bro oe
+[0:36] As there iS
+[0:36] 7 daysibetween
+[0:36] Bs N
+[0:36] but aol
+[0:37] sii
+[0:37] A os)
+[0:37] Bro split Not optimal
+[0:37] As there is) 7. days
+[0:37] ween)
+[0:37] but ५६
+[0:37] jeez
+[0:37] bodybui
+[0:38] bodybuilders
+[0:39] 1 है
+[0:40] 1. कि
+[0:42] pos
+[0:42] but there's >
+[0:43] Pod
+[0:43] = but thei
+[0:44] हर f
+[0:44] be re's somet!
+[0:44] 111
+[0:44 - 0:47] band.
+[0:45] numbe
+[0:45] significantly increased th
+[0:45] on tk
+[0:45] een thle number ०
+[0:45] per Gal
+[0:45] luscle fiber, (६291 and remodeling
+[0:45] the steroids leta hai uske
+[0:45 - 0:47] histology any
+[0:45 - 0:47] fluorescent antibody labeling
+[0:45 - 0:47] ved that
+[0:45 - 0:47] has:
+[0:45 - 0:47] s increased the diame
+[0:45 - 0:47] surface area of muscle fibe
+[0:45 - 0:47] and also
+[0:45 - 0:47] of satellite
+[0:45 - 0:47] fit
+[0:45 - 0:47] face. Th
+[0:45 - 0:47] relat
+[0:45 - 0:47] ons bet
+[0:45 - 0:47] gSctellite cells ares
+[0:45 - 0:47] thejmuscle Stem cellSifesponsible
+[0:46] ६५५
+[0:46] hefnus
+[0:46] Ezz
+[0:46] lat
+[0:46] juscl
+[0:46] » till
+[0:46] muscle fiber size
+[0:46 - 0:47] ncreased th
+[0:46 - 0:47] num
+[0:46 - 0:47] significantly
+[0:46 - 0:47] lls on th
+[0:46 - 0:47] een thle number of satellite
+[0:46 - 0:47] muscle fiber, jepair and remodeling
+[0:47] Vga
+[0:47] het
+[0:47] Wie)
+[0:47] muscle fiber size or satellite
+[0:48] Penny
+[0:48] a ite
+[0:49] 1 Hv
+[0:49] Dono bai ite
+[0:50] ७४७०, Dan Lorezanza *, Ido Badash t, Max
+[0:50] PMCID: PMC5555502 PMID: 28840147
+[0:50 - 0:51] Author information
+[0:50 - 0:52] Perioperative Testosterone
+[0:50 - 0:52] Supplementation Increases Lean
+[0:50 - 0:52] Mass in Healthy Men Undergoing
+[0:50 - 0:52] Anterior Cruciate Ligament
+[0:50 - 0:52] Reconstruction: A Randomized
+[0:50 - 0:52] Controlled Trial
+[0:50 - 0:52] 1, Christiane Lane*, Jonathan ८ Sum *, George ६
+[0:50 - 0:52] Hatch ॥ ', E Todd Schroeder *
+[0:50 - 0:52] Article notes
+[0:50 - 0:52] Copyright and License information
+[0:51] 1, Christiane Lane t
+[0:51] , Jonathan ८ Sum , Geor
+[0:51] orge
+[0:51 - 0:52] Dan Lorezanza
+[0:51 - 0:52] Ido Badash *, M
+[0:51 - 0:52] ion
+[0:51 - 0:52] PMCID: PMC55555
+[0:51 - 0:52] MID:
+[0:51 - 0:52] of testosterone lerha hai 8
+[0:52] George F
+[0:52] Hatch ut
+[0:52] eder
+[0:52] Author i
+[0:52] mation
+[0:52] _-hafto k leye
+[0:53] fa 5
+[0:53 - 0:54] ft TRAINING.-.*
+[0:54] dia
+[0:54] int 4
+[0:54] (9 185 =
+[0:54] he's not
+[0:55] Py i
+[0:55] ञ्ढ
+[0:55] है| ड़
+[0:55 - 0:56] There was an increase in lean ma:
+[0:55 - 0:56] mean 2.
+[0:55 - 0:56] kg at 6 weeks
+[0:55 - 0:56] postoperatively in the testosterone grou
+[0:55 - 0:56] he will stil
+[0:55 - 0:59] d with a de
+[0:55 - 1:01] compare
+[0:55 - 1:01] e of a mean O.1 +
+[0:55 - 1:02] Copy
+[0:55 - 1:02] Find Selection
+[0:55 - 1:02] Look Up
+[0:55 - 1:02] ofa
+[0:56] id with
+[0:56] lwp
+[0:56] gain 2.7
+[0:56 - 0:58] Pp ii
+[0:57] postope
+[0:57] atively in the
+[0:57] p il
+[0:57] (ida
+[0:57 - 0:58] he will still) Rath 2.7 kgs of
+[0:57 - 0:59] estosterone
+[0:57 - 0:59] group,
+[0:57 - 1:01] There wa:
+[0:57 - 1:01] n inerease in lean ma
+[0:57 - 1:01] 1.7 kg at 6 w
+[0:58] STM
+[0:58] Buse
+[0:58] Jean body mass
+[0:58 - 0:59] postoperatively in the
+[0:59] which is way
+[1:00] mer
+[1:00] ‘iil
+[1:00] ‘Watural,
+[1:00 - 1:01] ith a d
+[1:00 - 1:02] mean 2.7
+[1:00 - 1:02] postoperatively in the testosterone group
+[1:00 - 1:02] which is way more than a
+[1:01] ‘atural can gainin
+[1:02] The
+[1:02] an increas:
+[1:02] in lean ma
+[1:02] at 6 weeks
+[1:02] compared with a decrease of a mean 0.1 +
+[1:02] Deel can gain in3 months
+[1:03] is Al’
+[1:04] id al
+[1:04] Goin si
+[1:05] oe है
+[1:05] १. का.
+[1:05] का ning ta hat is going to
+[1:05] grow
+[1:05] more muscle
+[1:07] ~ BEA |
+[1:07] ene
+[1:09] पक wifor more
+[1:09] A Fa be
+[1:09] ig कर
+[1:09] ind grow moré
+[1:09] le than
+[1:10] sn BO
+[1:10] ooh
+[1:10 - 1:11] With your perfect d
+[1:11] Follow for'more,
+[1:11] ५. | at
+[1:11] =asining

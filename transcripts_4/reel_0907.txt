@@ -1,0 +1,201 @@
+# model: ggml-large-v3
+========================================================================
+[907] https://www.instagram.com/reel/DImCoAqNm-G/
+STATUS: OK
+DURATION: 1:08   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] If you are only doing squats for your quads, you are missing out on a lot of games
+[0:03 - 0:07] अभी बहुत सारे लोगों को लगता है कि squats are the king of quad exercises
+[0:07 - 0:08] But ऐसा बिल्कुल भी नहीं है
+[0:08 - 0:12] अभी मुझे गलत मत समझो, squats are an amazing exercise for your quads
+[0:12 - 0:15] अभी squats बहुत सारे quad muscles को train करते हैं
+[0:15 - 0:17] But there is one specific muscle जो वो train नहीं कर पाता
+[0:17 - 0:19] It's your rectus femoris
+[0:19 - 0:22] अभी ये rectus femoris एकदम unique muscle है
+[0:22 - 0:24] Because वो दो joint cross करता
+[0:24 - 0:25] Hip joint और knee joint
+[0:25 - 0:27] ये एक hip flexor जैसे भी act करता
+[0:27 - 0:29] और ये एक knee extensor जैसे भी act करता
+[0:29 - 0:31] Which creates a problem
+[0:31 - 0:33] अभी exercises like leg press or squats
+[0:33 - 0:35] तुम hip extension और knee extension
+[0:35 - 0:37] Almost relatively same time पे कर रहे हो
+[0:37 - 0:38] और इसके वज़े से तुमारा rectus femoris
+[0:38 - 0:41] Ends up acting as an agonist at one joint
+[0:41 - 0:42] और antagonist at the other joint
+[0:42 - 0:45] अभी इसके वज़े से उसकी activation बहुत गिर जाती है
+[0:45 - 0:47] और to confirm this अगर हम hypertrophy studies देखेंगे
+[0:47 - 0:49] We will see the same thing
+[0:49 - 0:51] Squats or leg press do not grow the rectus femoris
+[0:51 - 0:54] But this is happening because of the principle of two joint muscle
+[0:54 - 0:57] And because rectus femoris suffers from active insufficiency
+[0:57 - 0:59] तो अगर तुम्हें पूरी quad development चाहिए
+[0:59 - 1:00] तुम्हें leg extensions करना पड़ेगा
+[1:00 - 1:02] To target that lower rectus femoris
+[1:02 - 1:05] अगर तुम्हें rectus femoris की upper region की growth करनी है
+[1:05 - 1:07] तुम्हें एक hip flexion exercise भी करनी पड़ीगी
+[1:07 - 1:08] For the rules, for for more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Only Squats;
+[0:00] Quad gro’
+[0:00] if you're only~
+[0:01] ty if you're only doing squats
+[0:01] for your
+[0:01 - 0:02] = ae Squatsifon
+[0:01 - 0:02] Quadjgjowth?,
+[0:02] - हैक? am
+[0:02 - 0:04] you're missing out
+[0:03] i Squatsifon
+[0:03] idignowthZ,
+[0:03] Not optimal
+[0:03] Ses
+[0:03] you're missing out on a lot of
+[0:03] gains
+[0:04] तार On Tat O
+[0:05] hey
+[0:05] - कूल के
+[0:05 - 0:06] प्‌ के Squad are king of
+[0:05 - 0:06] Quad exercises? /
+[0:06] - छू हि
+[0:07] ail
+[0:07 - 0:08] That’s not
+[0:08] wal
+[0:09] r Ap Z
+[0:11] great
+[0:11] a fare)
+[0:11] प्र
+[0:11] बेर
+[0:11] aay
+[0:13] zs ff jj
+[0:14] at 2 lotlof,
+[0:16] a - क्र
+[0:16 - 0:17] Oe doesnit
+[0:16 - 0:17] es Train one)
+[0:17] वर्क -
+[0:20] वर्क 1
+[0:21] BAD
+[0:22] ayg\=
+[0:23] ४११४.
+[0:24] Crosses 1 kmee)
+[0:24 - 0:25] Joint;
+[0:25] “7 hiprand knee
+[0:27] हू i 7“
+[0:27] ae ek hip fe
+[0:28] “सके
+[0:28] —_ ay 4
+[0:29] Ins Gxaension
+[0:29] Grigor jaise
+[0:29] A ic
+[0:29] चर जा
+[0:30] Whltshl'G
+[0:30] aaa
+[0:30] wat
+[0:33] fig
+[0:33] ¢ any,
+[0:33] ==Tiiin hip extension”
+[0:34] -==Téim hip extension-and ki
+[0:35] Ant
+[0:35] ~<<Ttiin hip extension-ahd knee
+[0:37] ast,
+[0:40] ््रं
+[0:40] mn A
+[0:43] RETWAION
+[0:44] Boe N
+[0:46] Keitaro Kubo et al, Eur J Appl Ph
+[0:46] 1. 2019 Sep.
+[0:46 - 0:47] Effects of squat training with
+[0:46 - 0:47] different depths on lower limb
+[0:46 - 0:47] muscle volumes
+[0:46 - 0:47] Show details
+[0:46 - 0:47] to confirm this agarom
+[0:47] Keitar
+[0:47] Kubo et al, Eur J Appl
+[0:47] ysiol.
+[0:47] Sep
+[0:47] fis cne J
+[0:47] hypertrophy studies
+[0:48 - 0:49] Be N
+[0:48 - 0:49] we will see sami
+[0:49] juats
+[0:50] Whereas that
+[0:50] and hamstring mus:
+[0:50] es di
+[0:50] han
+[0:50] TThe volume
+[0:50] add
+[0:50] sic
+[0:50] nificantly increased in FST (6.2 + 2.6% and.
+[0:50] do not
+[0:50 - 0:51] ing
+[0:50 - 0:51] Copy
+[0:50 - 0:51] Find Selection
+[0:50 - 0:51] Look Up
+[0:50 - 0:51] ‘ectus femori
+[0:50 - 0:51] ither छा
+[0:50 - 0:51] adductor and gluteus maximus must
+[0:51] 05 ७.
+[0:51] mrt
+[0:51] js), whereas tal
+[0:51] and hamstring muscles did not,
+[0:51] ther gi
+[0:51] volum
+[0:51] signifi
+[0:51] antly increased in
+[0:51] EST i
+[0:51] and
+[0:51] femoris
+[0:51 - 0:52] do not grow the rectus
+[0:52] Be N
+[0:52] femoris but this is
+[0:52] happening
+[0:53] Bi-articulat muscles are
+[0:53] upper and lower extremities
+[0:53] 2000 human body.
+[0:53 - 0:54] ‘Two joint muscle 9७७
+[0:53 - 0:54] principle
+[0:53 - 0:54] ‘commonly found in the
+[0:53 - 0:54] hese muscles generally cross
+[0:53 - 0:54] two Joints and influence
+[0:53 - 0:54] ‘movement at both.
+[0:53 - 0:54] because of the principle of
+[0:54] A joint muscle 99
+[0:54] गा musclgs are
+[0:54] Toor andiowor exomities
+[0:54] of the human body.
+[0:55] inl
+[0:55] femoris
+[0:55 - 0:56] j ~ Active insufficiency is the
+[0:55 - 0:56] decreased tension of a
+[0:55 - 0:56] multiarticular muscte when
+[0:55 - 0:56] it isshortened across one or
+[0:55 - 0:56] more of its joints.
+[0:56] nce
+[0:56] Nene
+[0:56] afr,
+[0:56] femoris suffers from active
+[0:57] गम कील ५
+[0:58] >> समा
+[0:58] a से
+[0:58] tae
+[0:58 - 1:00] Toh agar tumhe puri quad
+[1:00] i ni
+[1:00] development chaheye
+[1:01] 144 4
+[1:01] lege
+[1:01] egjextensions,.
+[1:01] as 1७० "
+[1:01 - 1:02] q quad develop:
+[1:02] ladies extensions; sd
+[1:03] ट्िः
+[1:03] oa आ
+[1:03] ane
+[1:05] on i
+[1:06] ie hip) oN
+[1:06] ree
+[1:06] om aS
+[1:07] i hipkilexion,
+[1:07] प झुका ay
+[1:08] ate

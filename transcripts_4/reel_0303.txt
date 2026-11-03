@@ -1,0 +1,122 @@
+# model: ggml-large-v3
+========================================================================
+[303] https://www.instagram.com/reel/DZfgrwDsd3E/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] If you want to waste your time in the gym, the best thing which you can do is focus on stretch
+[0:03 - 0:07] on an exercise like this. You see an exercise like this or this is essentially training the
+[0:07 - 0:12] same function which is called shoulder extension. Whenever we are hyperfixating on a stretch of a
+[0:12 - 0:17] given exercise, what we are trying to get is something called stretch mediator hypertrophy.
+[0:17 - 0:21] Now in order for us to get stretch mediator hypertrophy from a given muscle group,
+[0:21 - 0:25] we have to focus on where that muscle lands in the length tension relationship curve.
+[0:25 - 0:29] Whenever a muscle lands on the descending limb of the length tension relationship curve,
+[0:29 - 0:33] it is going to be able to experience stretch mediator hypertrophy adaptation. Now especially
+[0:33 - 0:37] for a muscle like lats, they do not reach the descending limb of the length tension relationship
+[0:37 - 0:41] curve which means focusing on the stretch on an exercise like this is just going to end up
+[0:41 - 0:45] creating more fatigue which is going to be counterintuitive to our training performance.
+[0:45 - 0:48] Standardizing your range of motion is going to be much more better for you
+[0:48 - 0:50] than focusing on the stretch. Anyways, hope that I spoke more.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] BEST WAY TO o/
+[0:00] ०23
+[0:01] je WAY,
+[0:01] anal
+[0:01] iin
+[0:01] yor
+[0:01] yi कै
+[0:01] Baa)
+[0:01] fo ५१
+[0:02] Stre
+[0:02] CAN
+[0:02] a. Sor
+[0:02] fas)
+[0:03] tLe
+[0:03] ee oi
+[0:03 - 0:04] Stretch max Bil
+[0:03 - 0:04] On this
+[0:06] pth ie
+[0:06] है से
+[0:07] | essentially y>
+[0:07 - 0:08] tion
+[0:08] ae Ela ie
+[0:08] wie
+[0:08] jfunction
+[0:09] Training the
+[0:09] unctiot
+[0:09] shoulder.
+[0:09] {tit
+[0:10] ary =
+[0:11] 1 gem |
+[0:12] wae
+[0:12] ae 4
+[0:12] Orr
+[0:12 - 0:13] When focusing on the
+[0:12 - 0:13] Stretch?
+[0:13] ae 1
+[0:13] en! a
+[0:15] eee ty
+[0:15] को 3
+[0:15] Sia
+[0:16] TOO eo
+[0:16] tar
+[0:19] Se a '
+[0:20] कद 4 )
+[0:23] pos
+[0:23] ays ७००४
+[0:24] LON
+[0:24] भर “Ay
+[0:26] ye oO
+[0:26] 140
+[0:26] 160
+[0:26 - 0:27] 100
+[0:27] कु ०
+[0:27] है बताए
+[0:28] felati
+[0:29] fee
+[0:31] icc
+[0:32] ७ एक
+[0:32] हैं
+[0:33] ow #७
+[0:33] Taw
+[0:33] muscle
+[0:34] Se Ae —>
+[0:34] bie
+[0:34] j > % hey
+[0:35] j descending
+[0:36] . y Gog
+[0:37] |] aay
+[0:37] > curve
+[0:37] ता it
+[0:37] + ऑस्र-3
+[0:39] exercise
+[0:39 - 0:41] Stretch maxxing
+[0:40] ere
+[0:40] NEY,
+[0:40] nyu
+[0:40] | प्र जल
+[0:41] nus
+[0:41] end.
+[0:41] "क्र
+[0:42] (ivr
+[0:42] fatigue
+[0:43] vere
+[0:43] vy RMEANCE:
+[0:43] bil:
+[0:43] हे ५
+[0:44] Lior
+[0:44] i RMN
+[0:44] poo
+[0:45] Li ING'TRAININ
+[0:45] PEREQRINNGE
+[0:45] performance
+[0:46] Standard
+[0:46] fll}
+[0:46] i छान
+[0:47] कि ROM i
+[0:47] ANA
+[0:48] Standardise ROM
+[0:48] प्र

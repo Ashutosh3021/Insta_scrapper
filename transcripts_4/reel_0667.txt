@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[667] https://www.instagram.com/reel/DRC6W7gDDZh/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Love my friend, but the answer is no
+[0:03 - 0:06] Why you gotta be so rude?
+[0:06 - 0:09] Don't you know I'm human too?
+[0:09 - 0:13] Why you gotta be so rude?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] mie
+[0:01] hing
+[0:01 - 0:02] Spent 5 weeks onjaiminijcut
+[0:02] जन ०३.
+[0:02] _@e enjoy)
+[0:03] pent “ie ona minicut
+[0:03] Ge njoy this,
+[0:04] ayy
+[0:05] Any)
+[0:06] हैः
+[0:06] ate |

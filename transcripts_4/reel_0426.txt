@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[426] https://www.instagram.com/reel/DWzRlF2DJDA/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] And I guess he's my, my new windshield
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ate
+[0:00] क्र
+[0:01] Bos
+[0:01] Grown
+[0:01] wal
+[0:01] the
+[0:01] PMI
+[0:01] 400
+[0:01] wy 2
+[0:02] सना 3
+[0:02] Growl muscle
+[0:02] me} ati
+[0:02] a ae
+[0:03] -—s MG
+[0:03 - 0:05] a 50
+[0:03 - 0:05] 2 30
+[0:03 - 0:05] ०९८ 20
+[0:03 - 0:05] pre
+[0:03 - 0:05] post
+[0:03 - 0:05] Ohjsamejgoes} ®
+[0:03 - 0:05] “with'strength toon
+[0:04] Sat
+[0:05] p47"
+[0:05] ‘ath

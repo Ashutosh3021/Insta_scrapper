@@ -1,0 +1,292 @@
+# model: ggml-large-v3
+========================================================================
+[820] https://www.instagram.com/reel/DMDmB7whqyn/
+STATUS: OK
+DURATION: 1:55   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] stop confusing myofibril hypertrophy to stretch medial hypertrophy i'm seeing a lot of people say
+[0:04 - 0:09] that you got to hold the stretch position to get extra growth but that's just wrong now you have
+[0:09 - 0:14] to understand the stimulus for myofibril addition is mechanical tension and the stimulus for stretch
+[0:14 - 0:19] medial hypertrophy or also known as sarcomogenesis is reaching a longer muscle length now i'm not
+[0:19 - 0:24] here saying that you cannot experience stretch medial hypertrophy from weight training but how
+[0:24 - 0:28] long can you get these adaptations for let's take this quad for an example the quads are going to
+[0:28 - 0:32] be lengthened here now which means that they are going to be going through a longer muscle length
+[0:32 - 0:38] which means that it is going to be triggering sarcomogenesis but after they get that adaptations
+[0:38 - 0:44] done that's it there is no more further adaptations which is going to be created after reaching that
+[0:44 - 0:49] muscle length right you can add as much weight as you want but you are not going to be reaching a
+[0:49 - 0:53] longer muscle length which means that there is potentially more sarcomogenesis which you can
+[0:53 - 0:57] experience which you are just leaving onto the table by just trying to get sarcomogenesis
+[0:58 - 1:04] just from weight training now instead if we just kept the weight training the same and we did
+[1:04 - 1:08] static stretching on the other hand after our workout sessions we are now experiencing longer
+[1:08 - 1:13] muscle lengths and we are able to reach even longer muscle lengths than we did just by doing
+[1:13 - 1:17] a squat one more problem with trying to get sarcomogenesis adaptations while training for
+[1:17 - 1:23] mechanical tension is the fact that if we do that we open these stretch iron channels which are
+[1:23 - 1:28] going to cause extra fatigue which you don't want we do not want this fatigue interference mechanism
+[1:28 - 1:32] occurring which is going to reduce the amount of mechanical tension which is being experienced by
+[1:32 - 1:38] muscle fibers this is why we cannot mix these two together or get confused with these two we need to
+[1:38 - 1:42] make sure that we get our weight training done first then we follow that up with static stretching
+[1:42 - 1:48] and during our workouts we do not emphasize the deep stretch and during our static stretching
+[1:48 - 1:53] sessions we do static stretches for muscle groups which are able to experience stretch
+[1:53 - 1:55] mediated hypertrophy so yeah hope that's what more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] MYORIB:
+[0:00] EAT
+[0:00] ERTROBHIN
+[0:00] 15 Nouns SAMS AS Sh)
+[0:00] doubt.
+[0:00] stop confusing
+[0:00 - 0:01] n flaps be
+[0:00 - 0:01] lats get more
+[0:00 - 0:01] stret
+[0:00 - 0:01] nth
+[0:00 - 0:03] Je for lat
+[0:01] all
+[0:01] SAORI 1
+[0:01] IMBERMT
+[0:01] /01001 72751 51/॥ 1
+[0:01] for
+[0:01 - 0:02] stop confusing myofibrillar | |
+[0:01 - 0:03] IS NOT 1॥
+[0:02] ERT
+[0:02] 1513७
+[0:02] SAME AS SM
+[0:02] Ore
+[0:02] mor
+[0:02] hypertrophy to stretch
+[0:03] wyoriele MRE!
+[0:03] ANG
+[0:03] EISAMIEVASISM Et
+[0:03] oe ina de
+[0:03] नकद
+[0:04] के 9 3, ४
+[0:04] @ शक e0I0
+[0:04] laps be
+[0:04] I'm seeing a lot of people
+[0:05] sta
+[0:05] anf
+[0:05] bec
+[0:05] for
+[0:05] the
+[0:05] uld
+[0:05] you gotta hold
+[0:06] ae ts
+[0:06] puin
+[0:06] oubt.
+[0:06] Je for lat
+[0:06] if के
+[0:06] you gotta hold the stretch
+[0:06] position
+[0:06 - 0:08] ian flaps be
+[0:07] Viee
+[0:07] to get extra'growth
+[0:08] yenuine doubt.
+[0:08] (orl
+[0:08] t mi
+[0:08] ret
+[0:08] nth
+[0:08] to get Growth but th:
+[0:08] 5 just
+[0:09] jow you have to
+[0:11] tel
+[0:11] dua
+[0:11] the stimulus for हक.
+[0:11] addition
+[0:11 - 0:12] IMyofib addition im imect के tension
+[0:12] is mechanical
+[0:13] ind th
+[0:14] and the stimulus for stre'
+[0:14] mineral
+[0:15] matin
+[0:15 - 0:18] | =ireaching a |
+[0:16] igth
+[0:16] imuselejlen:
+[0:16] 03150 known as
+[0:16] sarcomerogenesis
+[0:17] j = reaching ajlongemmuscle)l
+[0:17] Tan
+[0:17] A थे
+[0:18] math)
+[0:18] muscle)
+[0:18] 54 2
+[0:18 - 0:19] is reaching a longer 4
+[0:19] Smh = reaching it
+[0:19] 10 80 } ley
+[0:19] rie
+[0:19] length
+[0:20] ow I'm / 3 here saying hi
+[0:21] ee amet
+[0:22] हू. मा.
+[0:22 - 0:23] mediated hypertrophy fro!
+[0:23] et ame
+[0:23] weight training
+[0:24] but how (०... ८
+[0:25] but >) long can you get
+[0:25] thes adaptations
+[0:26] p Ager
+[0:26] let's take
+[0:27] G Py
+[0:27] Ct is
+[0:27] = take this squat for
+[0:27] example
+[0:28] "i Es
+[0:28] the quads h
+[0:29] eet E>
+[0:29] SS 1/
+[0:29] the quads a goni
+[0:29] lengthened here
+[0:30] iss en
+[0:30] CPs
+[0:30] ब्क्ु
+[0:30] 2 is
+[0:30] which means
+[0:31] going to “a
+[0:32] (8 ०१९
+[0:32] going to be a thi
+[0:32] longer
+[0:33] which means”
+[0:34] ene
+[0:34] which means that it is goi
+[0:34] to be triggering
+[0:35] mont
+[0:35] veg
+[0:35] sore jasmic Genesis
+[0:36] La 5
+[0:36] कक ८
+[0:36] but
+[0:37] ill,
+[0:37] but after
+[0:38] but after'they get that
+[0:38] adaptations
+[0:39] that's
+[0:40] wel
+[0:40 - 0:41] that's it there is no more
+[0:41] further adaptations
+[0:42] which is going to be creat
+[0:43] after
+[0:44] after rea
+[0:44] aehting that musel
+[0:45] after reaching that muscl
+[0:45] length right
+[0:46] id you cal Facile much
+[0:47] but you
+[0:48] "117
+[0:48] Longer, melavailable}
+[0:48] fi Squat
+[0:48 - 0:49] but you are not going to
+[0:49] Longer,
+[0:49] amonelavailable|
+[0:49] inkthatisqua
+[0:49] lla
+[0:49] reaching a longer
+[0:50] muscle length which
+[0:51] muscle ea which means
+[0:51] पक is potentially
+[0:52] more sarcoplasmic
+[0:53] yar
+[0:53] you cai pel
+[0:54] ४२ ५७
+[0:54] which you are
+[0:55] which you are just leaving
+[0:55] “onto the
+[0:57] ney
+[0:57] ul rs
+[0:57] sarcoplasmic
+[0:57 - 0:58] by just trying to get
+[0:58] 4 wy
+[0:58] sarcoplasmic Genesis
+[0:58] adaptation
+[0:59] just from weight
+[1:02] ine ;
+[1:03] है. = not em
+[1:03] phasising Des?
+[1:03] Sure
+[1:03] if we jute ept the weight
+[1:03] training the same
+[1:04] vai
+[1:04] aun
+[1:04] thw
+[1:04] and we did static
+[1:04 - 1:05] = notlemphasisingiD)
+[1:05] URIEL
+[1:05] (Chl
+[1:05] on the otis
+[1:06] on theléther hand after ०
+[1:06] workout
+[1:07] ill
+[1:07] ] are now experiencing
+[1:08] longer muscle
+[1:10] and we are able to reach
+[1:11] ता to reach
+[1:11] muscle length —
+[1:13] ay 5
+[1:13] 4. पद just by doing हे H |
+[1:15 - 1:16] one more problem with
+[1:16] meganesis
+[1:16] get sacro
+[1:17] Deep sti ee exercise
+[1:17 - 1:18] adaptations while training
+[1:18] Deep stretchtonfeve!
+[1:18] 5 ajpnoble
+[1:18] for '
+[1:19] Deep ee
+[1:19] prob
+[1:19] is the
+[1:20 - 1:21] is the fact that if we do th
+[1:22] we open tHe stretch
+[1:23] aay |
+[1:24] ४4६०
+[1:24] which ed going to cause
+[1:25] which you
+[1:27] we do ii want this wl
+[1:28] A सु
+[1:28] terferefice mechanism
+[1:30] the amount
+[1:31] which
+[1:32] hich is being experienc: ed
+[1:34] प्र
+[1:35] | is why we cannot mix
+[1:35] these two
+[1:39] we ae to make sure that }
+[1:41] | we follow
+[1:42] 1 we follow, that up with
+[1:43] and duri
+[1:43] yar
+[1:45] Seswwihich| have)
+[1:45] Holding 18 ae
+[1:45 - 1:46] 2 She
+[1:45 - 1:47] Using €;
+[1:45 - 1:47] ‘an emphasisio
+[1:45 - 1:47] jathen|pesitio;
+[1:45 - 1:47] we do not
+[1:46] hwinich}
+[1:46] an emp!
+[1:46] ar th
+[1:46] ngthen}
+[1:46] fpositio
+[1:46] fil
+[1:46] Holding
+[1:46] eee
+[1:46] the
+[1:46] a we do
+[1:46] deep
+[1:46 - 1:47] not emphasize the
+[1:47] Ink
+[1:47] nave)
+[1:47] is fim
+[1:47] Holding tht oe
+[1:47] a oa
+[1:47] @€7 stretch
+[1:48] agi
+[1:48] and during our static \
+[1:49] lay
+[1:50] | अं x
+[1:51] we do static stretches for
+[1:51] @muscle groups
+[1:53 - 1:54] ‘stretch mediated
+[1:54] hypertrophy
+[1:55] rid
+[1:55] yeah hopé that wa
+[1:55] Feira

@@ -1,0 +1,326 @@
+# model: ggml-large-v3
+========================================================================
+[633] https://www.instagram.com/reel/DSAmMD7jAJ7/
+STATUS: OK
+DURATION: 0:45   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] eggs from this is not gonna give you fucking cancer you guys have to understand one thing
+[0:04 - 0:08] this drug which you guys are scared of is literally being used in clinical research
+[0:08 - 0:12] to treat people and i'm not even kidding you'd be surprised with the kind of dosage which
+[0:12 - 0:16] they give to people and no it's not in the fucking microgram scales and not even that
+[0:16 - 0:22] the international agency of research on cancer have said that it is not classifiable as a
+[0:22 - 0:28] carcinogen in humans and without you guys doing any of your research on your own you guys decided
+[0:28 - 0:33] oh it's a carcinogen now yeah it is very bad for this kind of drug to be there on their lab test
+[0:33 - 0:39] but at the same time it doesn't mean you guys have to not stop eating eggs man this is like
+[0:39 - 0:44] so much more protein you know anyways i'm gonna go have my carcinogenic eggs uh yeah
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] श्र्ए
+[0:00 - 0:02] EGGS CAUSING CANCER?”
+[0:00 - 0:02] Eggs
+[0:01] va from)this is
+[0:02] 5 hom this is not
+[0:02] hes
+[0:02] goingto'give you
+[0:03] | i Talk
+[0:03] / जिदड
+[0:03 - 0:05] Nitrofurans
+[0:03 - 0:05] structural
+[0:04] rticle Talk
+[0:04] ibic
+[0:04] Wer
+[0:04] You guys have to
+[0:04] understand one
+[0:05] 22220 ::27 2:
+[0:05] Class
+[0:05] i drug which you guys
+[0:06] (ence)
+[0:06] Original Investigation
+[0:06] Effect of 5-Day Nitrofuran-
+[0:06] toin vs Single-Dose Fos-
+[0:06] fomycin on
+[0:06] olu-
+[0:06] tion of U
+[0:06] Urinary }
+[0:06] Women
+[0:06] A Rand
+[0:06] Angela Huttner, M
+[0:06] etal
+[0:06] man, MSc
+[0:06] > Author Affiliations |
+[0:06] JAMA
+[0:06] vlitera
+[0:07] 1744 |
+[0:07] in Zhao
+[0:07] of G
+[0:07] Univ
+[0:07] “Iiterally being used
+[0:07 - 0:08] esearch
+[0:07 - 0:08] Foun
+[0:07 - 0:09] ee / Volume 23, Issue 2/ e12468
+[0:07 - 0:09] REVIEW ARTICLE
+[0:07 - 0:09] Furazolidone treatment for Helicobacter
+[0:07 - 0:09] Pylori infection: A systematic review and
+[0:07 - 0:09] meta-analysis
+[0:07 - 0:09] Liya Zhuge, Youhua Wang
+[0:07 - 0:09] Zhen Li, Yong Xig
+[0:07 - 0:09] First published;
+[0:07 - 0:09] https://doi.org®
+[0:07 - 0:09] Citations: 60
+[0:07 - 0:09] Funding info
+[0:07 - 0:09] This work was
+[0:07 - 0:09] and Develor
+[0:07 - 0:09] 2016YFC
+[0:07 - 0:09] ecial Funds
+[0:07 - 0:09] Nanchang
+[0:08] Helicobacter / Volume 23, Issue 2/ e12468
+[0:08] hao
+[0:08] rch
+[0:08] of 7
+[0:08] Gomes enrazy
+[0:09] 0 Zhao,
+[0:09] Four
+[0:09] Live
+[0:09] researc to treat
+[0:10] tibiotics. Recruitment took place from October 2013
+[0:10] ०००)
+[0:10] ratio to
+[0:10] हुई
+[0:10] col!
+[0:10] lete
+[0:10] / a people
+[0:10] and! am not even
+[0:10 - 0:11] through April 2017 at
+[0:10 - 0:11] nd.outpatient
+[0:10 - 0:11] clinics in Geneva
+[0:10 - 0:11] Pet
+[0:10 - 0:11] Intervens
+[0:10 - 0:11] days (n
+[0:10 - 0:11] 258)
+[0:10 - 0:11] completio
+[0:10 - 0:11] utcome
+[0:10 - 0:11] ig therapy
+[0:11] ti otics. Recruitment *
+[0:11] ctober 2013
+[0:11] Copy
+[0:11] ratio 10 ५
+[0:11] collect’
+[0:11] prior
+[0:12] assessment
+[0:12] NYY
+[0:12] 2000-Muatekzatteh
+[0:12] Dunvy
+[0:12] 1999-00
+[0:12] 199%
+[0:12] ५१ Belen)
+[0:12] rised with
+[0:12] the kin
+[0:12] dosage
+[0:12 - 0:13] TABLE 1 Study characteristics
+[0:12 - 0:13] Risk of bias
+[0:12 - 0:13] Year Author
+[0:12 - 0:13] 2016-Farahmand’
+[0:12 - 0:13] 2015:Mokhtare!?
+[0:12 - 0:13] 2013-Zheng'
+[0:12 - 0:13] 2013-Liang’®
+[0:12 - 0:13] :2007-Khatibian®*
+[0:12 - 0:13] 2005-Amini™*
+[0:12 - 0:13] 2005: Nijevitch
+[0:12 - 0:13] 2004-Guo"”
+[0:12 - 0:13] 2001-Xiao"
+[0:12 - 0:13] 2001-Fakher!"®
+[0:12 - 0:13] UUNNYY
+[0:12 - 0:13] levofloxacin: (?.
+[0:12 - 0:13] lansoprazole: 1,
+[0:13] 2004-0०”
+[0:13] er a
+[0:13] 2000-Malekgader
+[0:13] करत
+[0:13] 1999-97
+[0:13] 10000
+[0:13] 19998
+[0:13] i nad :
+[0:13] they
+[0:14] tibiotics. Recruitment took place from October 2013
+[0:14] through April 2017 at hospital units and outpatient
+[0:14] clinics in Geneva, Switzerland; Lodz, Poland; and
+[0:14] Copy
+[0:14] Find Selection
+[0:14] Look Up
+[0:14] Interventions
+[0:14] articipants were randomized in a 1:1
+[0:14] ratio to oral nitrofurantoin, 100 mg 3 times a day for 5
+[0:14] days 0०2०8 or 3 51016 3-g dose of oral fosfomycin
+[0:14] (15258). TheYreturned 14 and 28 days after therapy
+[0:14] completion for clinical evaluation @ urine cultug
+[0:14] collection.
+[0:14] Main Outcomes and Measures The p
+[0:14] was Clinical response in the 28 days
+[0:14] completion, defined as clinical resolu
+[0:14] resolution of symptoms and signs o*
+[0:14] failure), failure (need for additi”
+[0:14] tibiotic treatment due to UTI ¢
+[0:14 - 0:15] Piet
+[0:15] belies att A
+[0:15] Bisse wep जा 0 पाकर शक हुक है.
+[0:15] OABF (10 mg/kg/d)
+[0:15] OAC?
+[0:15] 08855 + M5
+[0:15] R?BAF (200 mg bid)
+[0:15] EABL!
+[0:15] L?BTF (100 mg tid)
+[0:15] L?BTM
+[0:15] L?BAT
+[0:15] OABM
+[0:15] OABF7 + M7
+[0:15] OBTM
+[0:15] OABN
+[0:15] OCF (100 mg bid)
+[0:15] OCA
+[0:15] OAF (200 m
+[0:15] tid)
+[0:15] R°BAF (10
+[0:15] injthe fucking
+[0:15] OBAF (2
+[0:15] L?CF (400 mg ad)
+[0:15] e; C2, ciprofloxacin; 8, bismuth; M, metronidazole; E, €'
+[0:16] t LZ
+[0:16] even
+[0:17] é ON Neale agency
+[0:19] ७ ढें
+[0:20] Jf 2 mf
+[0:20] as s
+[0:21] ean ws ae
+[0:21] tumours were
+[0:21] observed, there was no signin
+[0:21] although a few rare
+[0:21] the third study in rat
+[0:21] purszonoone |
+[0:21] ‘pearenjrurazona
+[0:21] 31, 5957
+[0:21] {gues
+[0:21] A Other reievane cae
+[0:21] + oon accociated with birth defects. The
+[0:21] a अक लल
+[0:21] dal
+[0:21] ity of nitrofurantoin in humans.
+[0:21] inadequate evidence for the Gareinogenici
+[0:21] nce for the areinogenicity of nitrofura
+[0:21] ntoin in experimental anim:
+[0:21] There is limited evide!
+[0:21] For definition of the italicized t
+[0:21] ts Care
+[0:21] inbgenicity to humans (Group 3).
+[0:21] Nitrofurantoin is not classifiable as to i
+[0:21] are
+[0:21 - 0:22] frivoturan |
+[0:21 - 0:22] There is lim
+[0:21 - 0:22] erms, see Preamble Evaluation.
+[0:21 - 0:22] Overall evaluation
+[0:21 - 0:22] Synonyms
+[0:21 - 0:22] * Berkfurin
+[0:21 - 0:22] + Chemiofural
+[0:21 - 0:22] * Cistofuran
+[0:21 - 0:22] * Cyantin
+[0:21 - 0:22] = Cystit
+[0:21 - 0:23] Search:
+[0:21 - 0:23] 1980
+[0:21 - 0:24] Volume
+[0:21 - 0:24] CAS No.
+[0:21 - 0:24] ‘Agent
+[0:21 - 0:24] Group
+[0:21 - 0:24] publication
+[0:21 - 0:24] 5.5 Evaluation
+[0:21 - 0:24] ‘Additional information
+[0:21 - 0:24] 67-45-8
+[0:21 - 0:24] Furazolidone
+[0:21 - 0:24] 1987
+[0:21 - 0:24] Showing 1 to 1 of 1 entries (filtered from 1,123 total entries)
+[0:21 - 0:24] Previous
+[0:21 - 0:24] Agents classified by the IARC Monographs, Volumes 1-140
+[0:21 - 0:24] 67.209
+[0:21 - 0:24] nitrofurantoin durin
+[0:21 - 0:24] 1989
+[0:21 - 0:24] 1 | Next
+[0:21 - 0:24] Last updated: 2025-11-21 09:00 (CEN)
+[0:22] fhird study t's
+[0:22] genicity data
+[0:22] Human carcine
+[0:22] sccurt
+[0:22] 101 been assUCTatess
+[0:22] pregnancy 1851
+[0:22] Ise of
+[0:22] oo Ghrosis, hepatocellul
+[0:22] a a ie. ae मर
+[0:22] garcinogénicity
+[0:22] of nitrofurantoly Hf 7175
+[0:22] lence for the
+[0:22] There is inadequate evid
+[0:22] experimental animals
+[0:22] ntoin in
+[0:22] sROgenicity of nitrofura
+[0:22] ited evidence for the care
+[0:22] Pre:
+[0:22] For definition of 0
+[0:22] che italicized terms, see
+[0:22] ty to humans (Group 3)
+[0:22] arcinogenicil
+[0:22] assifiable as to its 6६
+[0:22] Nitrofurantoin is not cla
+[0:22] ५ 2०८
+[0:22] tab
+[0:22 - 0:24] ea ee
+[0:22 - 0:24] 31, Sup7,
+[0:22 - 0:24] year
+[0:22 - 0:24] classifiable as a
+[0:23] dearer:
+[0:23] erszeuaone
+[0:23] jone
+[0:23] Ih cD LP नशमीए पान पर नाना < पायल
+[0:23] frets —_—«d
+[0:23] en अब
+[0:23] pane
+[0:23] oor
+[0:23] carcinogen
+[0:24] Sebreh:jurazonoone |
+[0:24] ih een Lc
+[0:24] len
+[0:24] [Copy] [sv] Lexcet] [POF] [Print]
+[0:24] Search:[nivoturan |
+[0:24] 1990
+[0:24] carcinogen in humans
+[0:26] aes
+[0:27 - 0:28] your research on your
+[0:28] ao you
+[0:28] own you\guys decided oh
+[0:29] del
+[0:29] . ‘a Carcinogen
+[0:30] Mey
+[0:30] ie is
+[0:31] mee
+[0:31 - 0:32] ri bad for this
+[0:32] 1 of drug to be
+[0:34] ail
+[0:35] | ithe’ same time it
+[0:35] doesnit)
+[0:37] cS a
+[0:37] org
+[0:37] ied
+[0:37] CS ४ /
+[0:39] Pal
+[0:39] एक हक
+[0:40] ite
+[0:40] This ig like'so much
+[0:40] ps ae P
+[0:40] << you
+[0:41] a Anyways I'm
+[0:42] okt
+[0:42] tet
+[0:42] De eel
+[0:42] Anyways I'm goingto go
+[0:42] have my carcinogenic
+[0:44] Loi
+[0:44] " yh Abdul
+[0:44] 4 ag

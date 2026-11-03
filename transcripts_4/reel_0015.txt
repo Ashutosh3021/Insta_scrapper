@@ -1,0 +1,204 @@
+# model: ggml-large-v3
+========================================================================
+[15] https://www.instagram.com/reel/De15lEMuK96/
+STATUS: OK
+DURATION: 1:47   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] dude this is such a cute thing to see he's trying to train his 50 year old mother and uh for this
+[0:05 - 0:10] i'm gonna give you guys some tips for training older people first things first you have to
+[0:10 - 0:15] understand the mechanisms of why i'm saying what i'm saying now especially with older people there
+[0:15 - 0:21] are two particular things which we see one of them is being a slower recovery rate now that is purely
+[0:21 - 0:25] because of the secondary inflammatory response which you see which is a little bit more slower
+[0:25 - 0:32] to recover from especially with older people and another thing is the reduced capacity to handle
+[0:32 - 0:37] lateral force transmission now that kind of creates like an overstretching phenomenon now
+[0:37 - 0:42] because of that overstretching phenomenon there is a higher tendency or a higher risk of getting
+[0:42 - 0:49] injured which just essentially means few things practically speaking one you cannot train them
+[0:49 - 0:53] with a higher frequency that is three times frequency which means you gotta train them with
+[0:53 - 0:55] two times frequency second they can
+[0:55 - 1:01] not handle a larger amount of volume training them with two to three sets per muscle group
+[1:01 - 1:08] per session would be enough even if you're doing two times frequency especially if you're doing two
+[1:08 - 1:14] times frequency third thing is you choose exercises which are rather not eccentrically
+[1:14 - 1:19] loaded but are more concentrically loaded so that at least we can make sure the chances of
+[1:19 - 1:25] injury is less obviously that doesn't mean that you will never have any eccentrically
+[1:25 - 1:30] loaded exercises what i'm trying to say here is not have the entire program eccentrically loaded
+[1:30 - 1:36] again rep ranges are fine but ease your way in you don't really have to rush the process
+[1:36 - 1:40] give us some time perfect the form and technique first get the execution correct
+[1:40 - 1:46] and then get into the lower rep ranges as it's going to be less fatiguing anyways
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:08] ito handle training}forg
+[0:00 - 0:08] ' हिल ५ my 50 year old mother,
+[0:00 - 0:08] should I make her do the
+[0:00 - 0:08] 6-8 reps with heavy
+[0:00 - 0:08] weight, or should | make
+[0:00 - 0:08] her do high reps with a lig
+[0:00 - 0:09] Wour;parents/older people)
+[0:01] Your
+[0:01] श्र
+[0:01 - 0:07] ing}
+[0:02] How to handlers
+[0:02 - 1:46] for
+[0:03] Wour parents/olde|
+[0:03] people
+[0:04] Q Ae.
+[0:05 - 0:07] How'to handle tr.
+[0:06] eople)
+[0:07] kas, ।
+[0:09] low to handi
+[0:10 - 0:11] Lig)
+[0:10 - 0:11] Yous parents/olde
+[0:10 - 0:11] rople)
+[0:10 - 0:16] ow to handle tr,
+[0:11] low:to h.
+[0:11] le tr,
+[0:12] tor
+[0:12 - 0:14] Wour:parents/older people)
+[0:13 - 0:15] ito handle tr,
+[0:14] low)
+[0:14] Lig)
+[0:14] pec
+[0:15] tHe
+[0:15 - 0:16] + people
+[0:15 - 0:18] Wour parents/older
+[0:17 - 0:18] ito handle training)
+[0:17 - 0:29] Woursparents/older people)
+[0:18] q eo
+[0:19 - 0:20] Lig)
+[0:19 - 0:22] How to handle
+[0:20] parents/olde
+[0:20] eople!)
+[0:23] ito handle tr.
+[0:23] ing}
+[0:23] vlad
+[0:24] 0119
+[0:24] le tr:
+[0:24] Nour
+[0:24] wey
+[0:25 - 0:26] ito h
+[0:26] low to handle trai
+[0:26] ing}
+[0:27] 1100४ to
+[0:27] ind
+[0:27] parents/olde
+[0:27] 12919
+[0:28 - 0:29] ttolhandle trainin
+[0:28 - 0:29] Your
+[0:30] ur parents/o! rp
+[0:30 - 0:31] rople)
+[0:30 - 0:33] ow'to handle tr.
+[0:31 - 0:33] Nour parents/older/people}
+[0:31 - 0:34] Lig)
+[0:32] 12919
+[0:34] Your
+[0:34] parents/older/people’
+[0:34] hia
+[0:34 - 0:38] ow'to handle tr,
+[0:35] itolhand!
+[0:35] Faith}
+[0:35] ran
+[0:35] a le
+[0:35 - 0:39] Wour/parents/older pe
+[0:36] ing}
+[0:37] ito
+[0:37] opie)
+[0:38] Yous parents/older
+[0:38 - 0:39] rople)
+[0:39] has, ५
+[0:39] bic
+[0:39 - 0:40] ito handle training}
+[0:40 - 0:47] Wourzparents/older people)
+[0:41] low’to handle trai
+[0:41] ing}
+[0:42] ito hai
+[0:43] low:to hai
+[0:43] Lig)
+[0:43] ett
+[0:44] to handle training}for
+[0:45 - 0:47] ito handle tr,
+[0:46] ow to handi:
+[0:46] aining)
+[0:47 - 0:51] Lig)
+[0:48 - 0:49] rople)
+[0:48 - 0:52] our ‘parents/older people)
+[0:48 - 1:04] How/to handle tr.
+[0:50] ing}
+[0:50] ily!
+[0:51 - 1:45] Yous parents/older Be opie!
+[0:54] witl
+[0:54] pty
+[0:54 - 0:58] Lig)
+[0:55] Your
+[0:55] 3९५
+[0:56] q ee
+[0:56] cal
+[0:59] Wour parents/older
+[0:59] rople)
+[1:00] Q ce
+[1:01] 41% B
+[1:03] our parents/olde
+[1:03] rople)
+[1:03] ९४६
+[1:03 - 1:04] Lig)
+[1:04] टॉप
+[1:05] owito hand
+[1:05] ing}
+[1:06] + Brty
+[1:06 - 1:07] to)handle training}
+[1:06 - 1:07] Your
+[1:07] ््न्जु
+[1:07] at ia
+[1:08] our parents/olde
+[1:08] people
+[1:08 - 1:10] Lig)
+[1:08 - 1:16] How to handle tr:
+[1:11] ito handle
+[1:14] Wour parents/olde
+[1:14] rople)
+[1:16] Lig)
+[1:17 - 1:19] ow'to handle
+[1:18] ito handle training}
+[1:18] iit
+[1:19] our parents/olde
+[1:19] eople)
+[1:19] q eS
+[1:19] eds
+[1:19 - 1:24] Lig)
+[1:20] Boi
+[1:20 - 1:23] ow!to handle tr.
+[1:21] raining)
+[1:22] Howito handle tri
+[1:22] our parents/olde
+[1:22] rople)
+[1:23] 12919
+[1:24] 1100४ (0 handle
+[1:25] ito handle tr.
+[1:26] 1101//00 #॥910॥6 tr.
+[1:26] Wour'parents/older
+[1:26] rople)
+[1:27] How to handle training}for
+[1:28] sae
+[1:28 - 1:45] How/to handle tr:
+[1:30] Lig)
+[1:31] vill
+[1:32] ing}
+[1:32] "ies
+[1:33] Wour parents/old
+[1:33] eople)
+[1:34] How) Po handle training}forg
+[1:34] iui
+[1:36] aining}
+[1:38 - 1:39] Lig)
+[1:39] tech
+[1:39] a irs
+[1:41] Wour parents/older,
+[1:41] people
+[1:43] iow to hand!
+[1:43] ing)
+[1:44] rople)
+[1:44 - 1:46] parents/older'p
+[1:46] itolhandle'ti
+[1:46] Lig)
+[1:46] Your
+[1:46] People

@@ -1,0 +1,265 @@
+# model: ggml-large-v3
+========================================================================
+[767] https://www.instagram.com/reel/DOJlvCJk9m3/
+STATUS: OK
+DURATION: 2:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] electrocuted myself to maximize motor unit recruitment now as you can see in this video
+[0:04 - 0:09] as soon as the electrical signals is sent to my muscles my muscles contract and they contract
+[0:09 - 0:14] hard harder than if i would have done it by myself now why did this happen see you have to understand
+[0:14 - 0:18] one thing that motor units are recruited in an orderly fashion they are recruited from smallest
+[0:18 - 0:24] to largest depending upon the size of the stimulus now the specific size is just referred to the size
+[0:24 - 0:28] of the center motor command signal now the center motor command signal is nothing but a signal which
+[0:28 - 0:33] is sent from your motor cortex to recruit motor units the larger center motor commands you send
+[0:33 - 0:37] the more motor unit recruitment you're going to have now there is one specific problem with this
+[0:37 - 0:42] case see the moment your brain sends this signal called the central motor command there's a copy
+[0:42 - 0:47] of this specific signal called the culinary discharge which is also being sent now this
+[0:47 - 0:52] culinary discharge it increases your perception of effort it basically increases how hard the
+[0:52 - 0:57] exercise feels the larger center motor command you send there's going to be a similar larger culinary
+[0:57 - 1:01] discharge which is going to be created now after a certain point you will reach something called
+[1:01 - 1:06] your maximum tolerable perception of effort now once you reach your maximum tolerable perception
+[1:06 - 1:11] of effort you won't be able to send a larger center motor command signal now this essentially
+[1:11 - 1:17] means that the motor unit at the top end of the motor unit pool are not recruited because you
+[1:17 - 1:21] reached your maximum tolerable perception of effort and there are motor units which could have
+[1:21 - 1:26] been recruited but your central motor command signal was just not big enough to even recruit
+[1:26 - 1:32] those units now this specific phenomenon can be seen in larger muscles such as glutes and quads now
+[1:32 - 1:36] because they have a large amount of muscle mass they'll also need a larger amount of central motor
+[1:36 - 1:41] command signal now because the amount of central motor command signal is going to be high there is
+[1:41 - 1:45] a copy of it which is going to be created this is called the culinary discharge which is also going
+[1:45 - 1:51] to be high making us reach our maximum tolerable perception of effort quicker than before which
+[1:51 - 1:55] means we are essentially leaving out a lot of motor units at the top end of the motor unit pool
+[1:55 - 2:00] because we just reached our maximum tolerable perception of effort now this whole specific
+[2:00 - 2:05] phenomenon is called voluntary activation deficit now that's why you'll see me stabilize myself in
+[2:05 - 2:10] leg extensions because the quads are already suffering from voluntary activation deficit
+[2:10 - 2:14] rather than losing out the motor unit recruitment why not stabilize it even
+[2:14 - 2:18] more and get the most out of it so for the sophomore
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ™ MUR
+[0:00] ay rocul
+[0:00] 31) - 1 ६०)
+[0:01] ted 4
+[0:01] for ॥|
+[0:01] 1६86७॥
+[0:01] Ome
+[0:01] 0111-11:
+[0:01 - 0:02] Taxi
+[0:02] lElec
+[0:02] है गा
+[0:02] ory R
+[0:02] moto
+[0:02] Uitmentay
+[0:03] IGalilsec)
+[0:04] ivr
+[0:06] Sen
+[0:06] LOWY MHUSGICSI
+[0:07] rN Hl
+[0:07] 1090॥8/
+[0:07] Gon
+[0:08] Contract?
+[0:09] wae,
+[0:09] 1212 1121-37 (5
+[0:10] 1214 12121. Ad
+[0:11] itr
+[0:13] aka)
+[0:14] ना Motor units;
+[0:14] Large mi
+[0:14] www
+[0:14] fod Mus
+[0:14 - 0:16] Non recited
+[0:15] ai units
+[0:15] vis
+[0:15 - 0:16] tor Unt Reerukment
+[0:15 - 0:16] wwe
+[0:15 - 0:16] Recruifed MUs
+[0:16] Pech —_
+[0:17] They ate
+[0:17] EET ILC
+[0:17 - 0:19] Tire FR
+[0:17 - 0:19] ‘Toe FF
+[0:18] बला
+[0:18] toad smallest
+[0:18] eestor gest)
+[0:19] ae teh mpd
+[0:19] pending
+[0:19] 333 ललललललथ 1 0 01 112 55122
+[0:21] Sysclile tis
+[0:22] ete
+[0:22] wee,
+[0:23] 01698]
+[0:24] f tHENGen
+[0:24] TOK
+[0:25] Gombi
+[0:25] vd gna
+[0:26] deg
+[0:26] ee जलन
+[0:26] ५1:20 Al
+[0:27] 10111| 13 10011
+[0:28] हद an
+[0:28] pues) “Al
+[0:29] a है.
+[0:29] froma Al
+[0:29] Cortexa
+[0:30] COMLEX
+[0:31] to 13:
+[0:31] THOLOTAUMNISH
+[0:32] Conimnants)
+[0:33] ade iy
+[0:33] 13 11121: 11 गज
+[0:35] Goi
+[0:35] Ver
+[0:36] Now tists > on
+[0:38] Contr age
+[0:38] EE theymonienta
+[0:39] ve nce
+[0:39] i 5 moenva
+[0:41] FFP
+[0:42] a जा 6८85]
+[0:42] dom
+[0:43] ._ जी 3 | ना
+[0:44] Ne 6
+[0:45 - 0:46] (७७०७ cn
+[0:47] 1 हक
+[0:47] low this culifanyam
+[0:48] MM ky Now ——
+[0:49] (७७०७ cn
+[0:49] i ० पा
+[0:50] ii sie
+[0:52] 151
+[0:53] 424
+[0:53] EXENCISCHCEISN
+[0:54] 10 060)
+[0:55] [37 55४३
+[0:55] oko concn
+[0:56] ne #4
+[0:57] + कहे
+[0:57] 3111॥ 81]
+[0:57] 10126
+[0:57 - 0:58] hone
+[0:58] sullieiry
+[0:58] cisthiange?
+[0:59] oS tc
+[0:59] lee,
+[1:00] NOW
+[1:00] 5 al Points
+[1:01] al 10)
+[1:02] ad yo
+[1:02] ४12.0/111/ ९५
+[1:03] 1५:55
+[1:04] oil
+[1:07] oC 7070
+[1:07] है ८2101
+[1:10] git
+[1:10] Cou
+[1:10] 1111-11:
+[1:11] add
+[1:12] ioe
+[1:13] नमन
+[1:13] 1119-14 (113
+[1:13] top)
+[1:14] ta of
+[1:14] 10५१
+[1:14] 110 /००॥|
+[1:15] eye”
+[1:15] cle molrecidited
+[1:16] ates
+[1:16] 313 1०6 है
+[1:18] ais
+[1:18] 115)
+[1:19] fori
+[1:20] otk
+[1:20] 412०2 Un
+[1:21] nN 10 De
+[1:22] हैः
+[1:22] ak a
+[1:24] Nas)
+[1:25] prj;
+[1:25] Bigiial)
+[1:25] 1050 15010 69
+[1:27] sf 1
+[1:27] Bev.
+[1:27] 13351 111]
+[1:32] 111 elt
+[1:34] USGIENTaSS)
+[1:35] STGUNHGHiCentery
+[1:36] TOUREGRICentery
+[1:38] enon
+[1:39] oth
+[1:39] ९३६
+[1:40] A Ig,
+[1:41] oak i
+[1:45] wd 72७5
+[1:46] 35८८ COMENTIGHIN
+[1:47] ९३८६
+[1:47] Ue काठ Tents
+[1:48] A tet Hts)
+[1:50] luicker
+[1:50] [170 टगट)
+[1:52] sin 7 wwe
+[1:52] a Whichnes
+[1:53] vA é
+[1:53] age oo
+[1:53] IIb
+[1:53] lot of motor.
+[1:53] it SACHEM J
+[1:53 - 1:55] 1007
+[1:55] 709°
+[1:55] Parcertage
+[1:55] Ila
+[1:55] nL end of the motor
+[1:57] ue Tax PT
+[1:58] Perception
+[1:59] NowWiEHis who)
+[2:00] 11151
+[2:00] peciiat
+[2:01] as A
+[2:01] Yoltiniesipy.
+[2:02] voluntany acti
+[2:02] ict isthe)
+[2:02] ene
+[2:02] muscle force) ise the
+[2:02] nenvous)
+[2:02] tem fails to.
+[2:02] 18०११
+[2:02] a effort
+[2:02 - 2:03] inabilit
+[2:02 - 2:03] jaximum
+[2:02 - 2:03] ‘on fire all available motor
+[2:02 - 2:03] unit
+[2:02 - 2:03] inamuscle during a
+[2:03] voluntal
+[2:03] 01 16101 is the]
+[2:03] enc
+[2:03] mus icelbecause the
+[2:03] inenvoussystem fails to
+[2:03] recrt
+[2:03] a imal effort
+[2:04] nn D
+[2:05] Ale
+[2:05] you séemme
+[2:05] babilizeinyse
+[2:06] Ayu
+[2:06] 7 ऑन
+[2:08] Jee
+[2:08] owt
+[2:08 - 2:09] Fromwoluntarys
+[2:09] is b
+[2:10] Mes
+[2:10] aif
+[2:10] sclaficte,
+[2:11] TT 3
+[2:11] +E ae
+[2:11] ४४-11] 1०111] ०॥।॥
+[2:12] is b
+[2:12] ile
+[2:13] ri b
+[2:13] lie
+[2:13] कटा
+[2:13 - 2:14] Riore)
+[2:14] ‘as b
+[2:14] eat
+[2:14] wed
+[2:14] tab
+[2:14] iDEVER)

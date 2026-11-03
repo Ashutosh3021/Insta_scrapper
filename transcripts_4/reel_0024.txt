@@ -1,0 +1,70 @@
+# model: ggml-large-v3
+========================================================================
+[24] https://www.instagram.com/reel/DepAYt4MU8z/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Take Kyoto to the bay, strolling so casually.
+[0:04 - 0:12] We're different and the same, gave you another name, switch up the batteries.
+[0:12 - 0:16] You gave me a chance.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ee 22
+[0:00] pre)
+[0:00] What if !'m doing t
+[0:00] y ee 3
+[0:00 - 0:02] volume
+[0:01] nee:
+[0:01 - 0:02] % if I'm doing too
+[0:02] हैः
+[0:03] + these 2aquest
+[0:04] A as
+[0:04] ourself these 2, a
+[0:05] ie youtrainingjalmuscle]
+[0:05 - 0:07] 2 times a week?)
+[0:06] r md
+[0:06] as अली
+[0:07] Pr ae
+[0:07] Areyouitr:
+[0:07] क्र
+[0:07 - 0:08] प्र
+[0:08] ste,
+[0:08] Pho
+[0:08] xine
+[0:08] Minim
+[0:08] set
+[0:08] am oe
+[0:08] ina
+[0:08] hwo
+[0:08 - 0:09] auido In|
+[0:08 - 0:09] _ functionyou earea
+[0:09] Ne yo
+[0:09] Minimumsl'set peter 7
+[0:09] Ay 4
+[0:09] yeu
+[0:09] कष्ट
+[0:09] पे पल,
+[0:10] lic
+[0:10] a if
+[0:10] wid
+[0:10] he your.d
+[0:10] Mini umitset
+[0:10] RMU
+[0:10] functionyou caresabc
+[0:11] oll .
+[0:11] ब्लड
+[0:11 - 0:12] Q both,
+[0:11 - 0:13] Isyes ज|
+[0:12 - 0:13] a fs nswel
+[0:13] Key
+[0:14] ongratulations
+[0:14] to'startmoving!
+[0:14 - 0:16] “you're doing enoughito fs.
+[0:15] 80117'31॥|910
+[0:15] » Cay
+[0:15] tostantimoyingy..
+[0:15] बंध.
+[0:16] Cal
+[0:16] ite 210 २५

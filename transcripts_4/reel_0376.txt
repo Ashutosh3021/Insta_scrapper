@@ -1,0 +1,205 @@
+# model: ggml-large-v3
+========================================================================
+[376] https://www.instagram.com/reel/DXzq0obMCMG/
+STATUS: OK
+DURATION: 3:34   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] There are a lot of people who look at you guys, like you, Yash and everyone else and they think, okay, maybe I can compete.
+[0:06 - 0:11] They think like, okay, this is my chance to blow up on social media.
+[0:11 - 0:19] The whole purpose of wanting to compete is not even driven by the love towards bodybuilding, not even driven by, okay, I want to compete.
+[0:19 - 0:23] It's driven by the validation I'll get on social media.
+[0:23 - 0:29] Correct. Correct. Recently, I got this DM from this one guy. He is, what, 16 years old.
+[0:29 - 0:36] Tells me that, brother, I want to compete. 16 years old, okay? He wants to compete this year in ICN, etc.
+[0:36 - 0:39] So, I was like, I could not respond to him. What do I tell him?
+[0:39 - 0:43] I just thought that, okay, if I have to compete, then I'll do it. What else?
+[0:43 - 0:49] But you cannot expect that, now he's expecting that, brother, I will win, I will get a medal.
+[0:49 - 0:53] Brother, at least train for long enough.
+[0:53 - 0:58] And then, after that, even if you think about all this, it did not come across my brain.
+[0:58 - 1:02] That day, we went and watched, we went to watch last year.
+[1:02 - 1:05] That day, I decided that my love for the sport increased so much, you know.
+[1:05 - 1:12] Because I watched it with my eyes, front, with my own eyes and I looked at them and I was like, I used to think of them as fake.
+[1:12 - 1:16] And now, looking at them with my eyes, I understood that this is so much achievable.
+[1:16 - 1:20] So, that made me like, okay, now I have to do it. I will do it.
+[1:20 - 1:23] And that day, I was like, okay, now I will do it.
+[1:23 - 1:30] But you are 16, I mean, you are 16. You will think that you will achieve everything at this age.
+[1:30 - 1:34] It does not work like that. A successful bodybuilder, okay?
+[1:34 - 1:37] Okay, let's talk about anyone who has a pro card over here, okay?
+[1:37 - 1:41] I think Ajay, brother, is 30 plus, right?
+[1:41 - 1:46] Anuf is, I think, again, 27, 28. I don't know exactly, but I...
+[1:46 - 1:50] Swapnil, Swapnil right now, he is also 30 plus right now.
+[1:50 - 1:53] Do you realize that? That is the amount of time it takes.
+[1:53 - 1:56] It is not easy to win a pro card.
+[1:56 - 2:00] The way you are thinking that being 16 years old, I will play and do anything, it does not happen like that.
+[2:00 - 2:03] It will end up like something which I felt, you know, honestly.
+[2:03 - 2:08] First time for me competing was depressive, bro.
+[2:08 - 2:12] Genuinely depressive because I was like, I didn't have that much amount of muscle mass to begin with.
+[2:12 - 2:16] I was over there just thinking about one thing and that was the fact that I don't belong here.
+[2:16 - 2:22] And that's the worst feeling you can feel, especially for the sport which you love or you want to build a career towards.
+[2:22 - 2:22] Right?
+[2:23 - 2:28] So, what I am going to do is actually put some time in. There is a reason why I am not competing right now.
+[2:28 - 2:36] Because you know exactly when you should be competing and it's not... And if it's driven by social media, bro, I am just telling you, bro.
+[2:36 - 2:38] Find a different hobby, but not this.
+[2:38 - 2:45] Don't learn validation. You need to be proud of yourself. If you are not proud of what you have built already, then what are you doing there?
+[2:45 - 2:48] At the end of the day, you guys just need to...
+[2:48 - 2:52] Give some time. Give some time. Give some time.
+[2:52 - 2:56] This is something which I will tell people every single day.
+[2:56 - 2:58] You know, people come up to me and they are like, I want to compete.
+[2:58 - 3:02] I want to build a good physique in six months, bro.
+[3:02 - 3:06] I want to get to single digit in three months, bro.
+[3:06 - 3:09] Like, it's difficult for me and this guy, right?
+[3:09 - 3:11] It's difficult for us to get to single digit.
+[3:11 - 3:18] And if you are someone who doesn't have that experience, how the fuck are you expecting, bro, to get to single digit in three months?
+[3:18 - 3:21] Or like, bro, beach, I want to get to 12% body fat in three months, bro.
+[3:21 - 3:23] Cool for the summer.
+[3:23 - 3:27] Yeah, you can get cool for the summer, but it wouldn't be cool for your mental health.
+[3:27 - 3:31] It wouldn't be cool to look at the physique, okay, I don't have that much muscle. Now what?
+[3:31 - 3:32] Now what?
+[3:32 - 3:34] Now what, bro? Like, just give some time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:05] if q
+[0:05] के ल्‍
+[0:05] me They
+[0:05] May’
+[0:05] atc
+[0:05] ern up’
+[0:10] ART
+[0:10] pose;
+[0:10] nein
+[0:10] etelis'
+[0:10] ng “oy the lov
+[0:10 - 0:15] किन कि,
+[0:15] हि 4
+[0:15] HARTI
+[0:15] building,
+[0:15] 1g, not
+[0:15] Pe ae
+[0:20] ‘cin
+[0:20] nik
+[0:20] Social)
+[0:25] CARHART
+[0:25] ther."
+[0:25] this'DI
+[0:25] “frommit one gu!
+[0:30] ral
+[0:30] se nee
+[0:30] m want to
+[0:30] “compete
+[0:35] fan
+[0:35] cin
+[0:35] nd! ८०
+[0:40] and
+[0:40] Foe
+[0:40] kay;
+[0:40] lo it
+[0:45] ik q
+[0:45] expect
+[0:45] now)
+[0:45] ecti
+[0:45] cal willg
+[0:50] itrainjfor |
+[0:50] ‘abot
+[0:50] en\thint
+[0:55] fc 3
+[1:00] ity
+[1:00] jwent and
+[1:00] sthat-s | decided farm
+[1:05] AHAR है
+[1:05] ‘id for they
+[1:05] jit
+[1:05] myleys
+[1:15] HAR
+[1:15] ली (1190
+[1:15] ० ‘Ce
+[1:15] at's 1
+[1:15] चले
+[1:20] vie
+[1:20] safe
+[1:20 - 1:30] किन कि,
+[1:25] ime
+[1:25] een sont
+[1:25] een, AS
+[1:30] lc Th!
+[1:35] CARHARI
+[1:35] _anyone wii
+[1:35] hefer
+[1:40] right Ani
+[1:40] fisill
+[1:40] justi
+[1:40] exgetly
+[1:45] ht ann
+[1:45] k ag:
+[1:45] exactly
+[1:45] ityeal
+[1:50] cmt
+[1:50] aes
+[1:50] apnillrightin
+[1:50] Swapnil
+[1:50] IsorsOlplusirigh;
+[1:50] 48 ४०
+[1:50 - 1:55] Lie ।
+[1:55] thinkil
+[1:55] layed)
+[1:55] Will
+[2:00] pHARTT
+[2:00] aie likey
+[2:00] Nay
+[2:00] ime
+[2:05] Ie ॥॥ Y
+[2:05] nui
+[2:05] ike Ndidn't have t
+[2:05 - 2:10] cate
+[2:10] mal
+[2:10] e just, it tf
+[2:10] gin!
+[2:15] fay
+[2:15] ket
+[2:15] weeds
+[2:15] ially foi ort
+[2:15] ortwhichyoullove
+[2:20] ante
+[2:20] cal
+[2:20] ‘you cand
+[2:20 - 2:30] fon
+[2:25] hyfli
+[2:25] com eting right wih
+[2:30] bas!
+[2:30] andiif ii
+[2:35] गाए
+[2:35] i Sei
+[2:35] tihobb
+[2:40] u're.
+[2:40] ithen
+[2:45] aaa
+[2:45] hap
+[2:45] uiguys
+[2:50] ca we
+[2:50] >> कक Sr
+[2:50] 142८
+[2:50] Il peor
+[2:50] Yom
+[2:55] (Fie
+[2:55] Ali")
+[2:55] hit
+[2:55] (0110 :
+[2:55] ry Sil
+[2:55] oe OW
+[2:55] 323 003)
+[2:55] _ छीन.
+[3:00] 1४8 हक
+[3:00] 00189 &
+[3:05] ist
+[3:05] dich
+[3:05] ult form:
+[3:05] ike)
+[3:10] Ger
+[3:10] gle di
+[3:10] id sen you are
+[3:10] 35०
+[3:15] mths" fae
+[3:15] fwant to gét to 1:
+[3:20] 126
+[3:25] will
+[3:30] की कमा.

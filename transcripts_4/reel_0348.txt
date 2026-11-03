@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[348] https://www.instagram.com/reel/DYaB5SpM2zW/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:17] No assistance, no assistance, bro, almost caused insane amount of fatigue bro, bro, assisted
+[0:17 - 0:19] reps are not optimal.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] woe
+[0:00] a4 9
+[0:00 - 0:04] oS NEED Loy ~
+[0:01] Assi
+[0:01] ‘sul
+[0:01] a Re:
+[0:01 - 0:04] “Sit
+[0:02] 190 more, कुछ
+[0:02 - 0:07] sted reps /
+[0:03] raw
+[0:03] (Sg el
+[0:03] teat
+[0:04] mer
+[0:04] Y rf,
+[0:04] few
+[0:05] ही NED LOY
+[0:05] Lea
+[0:05] nll,
+[0:06] Or aR
+[0:06] लें
+[0:06] वश NEED Loy,
+[0:06] 4S ay
+[0:07] हें
+[0:07] NSS
+[0:07] 1700S NEED LOVE |
+[0:07 - 0:08] @No assistance
+[0:08] naw
+[0:08] Ton
+[0:08] alm
+[0:08] er ५
+[0:08] -- ८ Ab
+[0:08] ( ५०७७४०७७३४ Co
+[0:09] Pie call
+[0:09] ted
+[0:09] reps
+[0:09] rot?
+[0:09] fey
+[0:09] bro
+[0:09 - 0:11] in le
+[0:10] lia
+[0:10] Nhe |
+[0:10] Tie
+[0:10] ee ee
+[0:10] #््क्ष
+[0:10 - 0:11] “Assis
+[0:11] Nps |]
+[0:11] y Ly
+[0:11] wae
+[0:13] ah ae
+[0:13] it cau
+[0:13] WO Imos
+[0:14] NG, nae
+[0:14] ies o2
+[0:14] 0६४४७
+[0:16] «०» पर
+[0:16] git
+[0:17] oho
+[0:17] bro you legit bro
+[0:17] assisted
+[0:18] are not
+[0:18] Re NL
+[0:19] are not optimal Asi
+[0:19] Sey.

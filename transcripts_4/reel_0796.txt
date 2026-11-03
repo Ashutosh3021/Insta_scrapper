@@ -1,0 +1,114 @@
+# model: ggml-large-v3
+========================================================================
+[796] https://www.instagram.com/reel/DNFzHsRB-e_/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] That was 6 good reps. You see the last step had a contraction velocity slowdown. Now I
+[0:19 - 0:26] do not see any of these contraction velocity slowdown in any of your lift. And you call
+[0:26 - 0:33] that 1 RIR or 0 RIR, I don't believe that. I need to see slowing down of the reps. If
+[0:33 - 0:37] the reps here in a given set is not slowing down, you are not close to failure.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] reamot Trainin
+[0:01] tS i
+[0:01] pole
+[0:01 - 0:04] eynot, Training
+[0:02] mur
+[0:02] slow ७
+[0:02 - 0:03] itch.
+[0:02 - 0:03] the
+[0:02 - 0:04] oldintary
+[0:02 - 0:11] of the reps
+[0:03] 179 11100 ॥/
+[0:03] Ww do
+[0:04] reanot. Tr
+[0:04] a? igs
+[0:04] ale
+[0:04 - 0:10] Watch |
+[0:05] ॥॥1101.1॥911116
+[0:05] ilar
+[0:05] teh
+[0:05] ind
+[0:05] low
+[0:05] ‘Olt
+[0:05] als
+[0:06] Gntary
+[0:06] Sa) ee
+[0:06 - 0:08] the!
+[0:06 - 0:09] reynot, Training
+[0:07] the invol
+[0:07 - 0:10] aining
+[0:07 - 0:11] lard)
+[0:07 - 0:11] slow down |
+[0:08] UTS fh}
+[0:08] 100 ॥(
+[0:08] iar |
+[0:08] oldintary)
+[0:09 - 0:11] the inyol ntary|
+[0:10] reanot Tr
+[0:10] the involu
+[0:10] slow ७
+[0:10] own
+[0:10] 5 ee
+[0:11] Wate!
+[0:11 - 0:17] eynot, Training
+[0:12] bak
+[0:12] Nek
+[0:12] em rae
+[0:13] you
+[0:14 - 0:15] mm thelastrep
+[0:15] Kew:
+[0:15 - 0:16] ard |
+[0:15 - 0:16] Nes
+[0:16] contraction.
+[0:16 - 0:17] mmm thelastrep trada~
+[0:17] ive
+[0:17] contraction velocity.
+[0:17] slowdown
+[0:18] rl a
+[0:19] now |
+[0:19] sal eee*
+[0:20] now \do not see 5
+[0:21] y of
+[0:22] क्त =
+[0:22] raction हिंद
+[0:23] ais
+[0:24] your lift
+[0:26] that
+[0:27] call that TRI
+[0:27 - 0:28] ™ "and
+[0:28] ‘call ne Th Thor 0
+[0:28] 117
+[0:29] 1 fii
+[0:29] in't
+[0:29] ve that
+[0:30] NE: जल
+[0:31] ™ "Meedrtosee—
+[0:32] PS ५
+[0:32] “Theedto-see-slowing down
+[0:32 - 0:33] ™ ‘fthe reps —
+[0:33] ide
+[0:34] lal
+[0:34 - 0:35] '™ ‘ifthe reps here i
+[0:35] java uhtary 4
+[0:35] isc.
+[0:35] ७“ की
+[0:35 - 0:36] ‘slowdown
+[0:35 - 0:36] a given set
+[0:36] x capti
+[0:36] 433
+[0:36] follovifor more
+[0:36] Invo}
+[0:36] ary
+[0:36] = आन reps’ Here
+[0:36] down
+[0:36] is not slc
+[0:37] ६७.1,
+[0:37] 7 even 0-1 4
+[0:37] fall
+[0:37] more
+[0:37] eel
+[0:37] न you're not close to

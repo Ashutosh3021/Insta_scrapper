@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[5] https://www.instagram.com/reel/DfC7geGNJxg/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] I didn't know that I was starving till I tasted you
+[0:09 - 0:13] Don't need no butterflies when you give me the heart
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Eye
+[0:01] Fas
+[0:01] shat
+[0:01] Frew
+[0:01] parew
+[0:02] ary
+[0:02] rewe
+[0:02] or thelwi
+[0:03] ean lay.
+[0:04] sti
+[0:12] S| es
+[0:12] 5 ay
+[0:12] F हु
+[0:13] abet
+[0:13] SAS

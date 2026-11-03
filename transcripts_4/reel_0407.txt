@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[407] https://www.instagram.com/reel/DXO3nU0jJg4/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 5 Se
+[0:00] कैट हे
+[0:01] WZ cur!
+[0:01] ही Ts
+[0:02] Making sure an
+[0:02] Extended po
+[0:02] ——sil
+[0:03] SORT
+[0:03] ray.
+[0:03] Va. + J
+[0:04] CORTISOL
+[0:04] 1. जा
+[0:04] ye ऑ
+[0:04 - 0:05] ‘MEDIUM
+[0:05] eTISOL
+[0:06] Cn “ia Ame co fF
+[0:08 - 0:09] ‘Arm upj
+[0:09] Pgeachen
+[0:09] ik गा
+[0:09] Arm dow
+[0:10] है आशा
+[0:10] clos
+[0:10 - 0:11] Arm
+[0:10 - 0:19] Preacher
+[0:11] Jaz
+[0:11] Taina WI
+[0:12] Arm di
+[0:12] Cee
+[0:12 - 0:17] ‘Arm'up,
+[0:13] Arm down
+[0:14] om hve
+[0:14] m dow
+[0:15] Arm
+[0:16 - 0:17] aS down 8
+[0:18 - 0:19] Arm
+[0:19] नि को
+[0:19] rm down}
+[0:20] Jaz
+[0:20] Ts f
+[0:20] eS el
+[0:20 - 0:21] Preac

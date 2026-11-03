@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[552] https://www.instagram.com/reel/DUYMp_qDMIS/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ssiveloverloadiis)
+[0:00] gre
+[0:00] alifonmuscle|growth
+[0:01] progressive overload
+[0:01 - 0:02] essentialifor muscle growth
+[0:02] pogness!
+[0:02] VE)OVER
+[0:02] load
+[0:02] ‘aie
+[0:03 - 0:09] Why/are youllateral|raising .
+[0:03 - 0:09] 9 the same weight'since a yeam’
+[0:07] ue same weight snes yean
+[0:09] ale
+[0:10] mus:
+[0:10] cle
+[0:10 - 0:13] i stronger muscle ='bigger muscle
+[0:10 - 0:13] getistnongers
+[0:11] 09" ७
+[0:11] ngemmuscle = bigger muscle
+[0:11] i हे
+[0:12] २४ 5
+[0:12] (Tihs
+[0:12] gas SPONYya

@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[247] https://www.instagram.com/reel/DavHFq8M_LV/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] be showing you my current pre-workout meal while i don't have a gas stove an air fryer or a microwave
+[0:05 - 0:09] the meal which i eat about two to three hours prior working out so it starts off with this
+[0:09 - 0:16] this is called muesli i just take a decent amount of it put it in the bowl yeah yeah i'm not
+[0:16 - 0:24] measuring it and then i take about two bananas put it in there and then i fill this up with skimmed
+[0:24 - 0:28] milk and that is my pre-workout meat after i'm done eating that i wait about two to three hours
+[0:28 - 0:32] and then i have this rice cakes and honey 45 minutes prior working out to
+[0:32 - 0:37] increase blood glucose levels again and then i hit my first session bye
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Currentare workout
+[0:00 - 0:02] WithtO equipment’s
+[0:01] Curremt one
+[0:01] WORKOUt
+[0:01] ithiOlequipmentys)
+[0:02 - 0:04] fore workout
+[0:03 - 0:04] ॥॥॥ equipment
+[0:04] Wit
+[0:05] Noy
+[0:06] NOush
+[0:07] aes
+[0:15] ™oush
+[0:21] p= सच्अ |
+[0:22] Meets,
+[0:24] Nou,
+[0:26] Rica
+[0:28] Dene
+[0:28] moush
+[0:36] ह0051

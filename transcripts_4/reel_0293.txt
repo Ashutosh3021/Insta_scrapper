@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[293] https://www.instagram.com/reel/DZsT1Q5MhfC/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Any relationship with your mother?
+[0:01 - 0:01] What's that?
+[0:01 - 0:04] What's a father?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] al हँ
+[0:00] Olmeeds'to hear this
+[0:00] 4 Py
+[0:01] DA 1100 711]
+[0:01] amlextra
+[0:01] rep
+[0:01] Mi hi
+[0:01] fu ४
+[0:01] [8 Gera
+[0:02] Bueliiyoulgetti
+[0:02] mextharep
+[0:02] क्र.
+[0:02] लहर
+[0:02] Me जज
+[0:03] yoursfo
+[0:03] Maes
+[0:03] anil!
+[0:03] ata
+[0:03] Su ४
+[0:04] Zan
+[0:04] si dh
+[0:04] ४1६.
+[0:04] Bu i
+[0:04 - 0:05] ihelreplis not
+[0:04 - 0:05] [ eee
+[0:04 - 0:06] n'your bag
+[0:05] है Ji
+[0:05] al t
+[0:06] alive
+[0:06] epis no
+[0:06] ein
+[0:06] r oN
+[0:06] Wad
+[0:06] ॥ 1७ Z|

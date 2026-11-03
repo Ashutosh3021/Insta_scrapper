@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[83] https://www.instagram.com/reel/Dd6RlLMsgrh/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] : mt letting you हे
+[0:00] क्र
+[0:01] 5 Justiletting
+[0:01] law /
+[0:02] Yours
+[0:02] eny musels
+[0:02] all
+[0:02 - 0:05] yimachine
+[0:03] can machine
+[0:03] 3111 0 0 8
+[0:03] ९81:
+[0:03] ह्र्ड
+[0:03] 6 थे
+[0:03] “हे सी... वार
+[0:04] Youcen usa
+[0:04] ranygmuscle
+[0:05] Voulca
+[0:05] 1110 6|6|
+[0:06] | iid
+[0:06] जल a
+[0:06] Rasa
+[0:06] oT ie
+[0:06 - 0:07] ahe|primar
+[0:06 - 0:10] function\is
+[0:06 - 0:10] Being
+[0:07] aay
+[0:07] DP ye.
+[0:07] 0 iia,
+[0:08] Onl
+[0:08] erfonm
+[0:08] een ee
+[0:08 - 0:10] prit
+[0:09] functi
+[0:09] OnIS —
+[0:09] Thos
+[0:09] कै जल
+[0:09] is जल
+[0:09] aad
+[0:09 - 0:10] joint
+[0:10] प्र
+[0:10] anf
+[0:10] 2 any
+[0:10] 572
+[0:11] RyMjointiunction is
+[0:11] Beingipenton
+[0:11] fxg
+[0:11] ce 7०03...

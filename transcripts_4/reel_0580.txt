@@ -1,0 +1,311 @@
+# model: ggml-large-v3
+========================================================================
+[580] https://www.instagram.com/reel/DTcs12sDORT/
+STATUS: OK
+DURATION: 1:02   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] if you're someone who's taking carbohydrates pre or intra workout you need to hear this a lot of
+[0:04 - 0:09] people think that taking carbohydrates pre or intra workout is going to cause a massive increase in
+[0:09 - 0:14] exercise performance but that is not how things work you see taking carbohydrates pre and intra
+[0:14 - 0:19] workout is going to cause an increase in exercise performance but there are few contexts where it's
+[0:19 - 0:23] going to be yielding a lot more results than usual example let's say if your training session is
+[0:23 - 0:29] lasting more than 45 minutes taking carbohydrates intra or pre is going to help or for example your
+[0:29 - 0:34] fast and you haven't eaten anything since the last eight hours taking carbohydrates pre or intra
+[0:34 - 0:38] is going to help now ingesting carbohydrates are not really going to do shit if your sessions last
+[0:38 - 0:44] shorter than 45 minutes if you're already in a well-fed state or if the training volume is too
+[0:44 - 0:48] low only thing which we are doing when we are taking carbohydrates pre and intra workout is
+[0:48 - 0:53] to suppress supraspinal sinus fatigue that is why there is no dose dependent relationship between
+[0:53 - 0:56] taking more carbs pre and intra workout and having a better performance
+[0:56 - 0:59] anyways if you guys are taking carbohydrates pre or intra
+[0:59 - 1:01] workout just keep that in mind hope that helps five more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Unclars
+[0:00] ena
+[0:00] UtyAlnit
+[0:00] Onkoult |
+[0:00] car
+[0:00] nae if you are
+[0:01] Prew,
+[0:01] koutealmti
+[0:01] rawonkouGanos
+[0:01 - 0:02] carbohydrates pre or
+[0:02] हैंड
+[0:02] 7 [7117
+[0:02] koune:
+[0:02] anbs
+[0:02] faery
+[0:02] Seg
+[0:02] intra
+[0:03] mye
+[0:03] > Understne!
+[0:03] Prework
+[0:03] Utdlntra
+[0:03] WOrkKOUIt "i
+[0:03] 4 i NN need
+[0:04] noe
+[0:04] L Ae
+[0:04] Neg
+[0:04] Nae
+[0:04] roll
+[0:04] "Wes
+[0:05] pe A
+[0:05] v ol
+[0:05] ict
+[0:05] Var
+[0:06] A 2B
+[0:06] ०० सी.
+[0:06] Ber acne
+[0:06] carbohydrates
+[0:06 - 0:08] 9 मे
+[0:07] as 9 |
+[0:07] Cues
+[0:07] iiney
+[0:07] ‘re not var ar
+[0:07] wh है pre कि, workout is
+[0:08] ४९ oh
+[0:08] रे के
+[0:08] iia qoudl cause a massive
+[0:08] increase
+[0:08 - 0:09] They're not var bro
+[0:09] ao 4
+[0:10] राज 0
+[0:10] eee
+[0:10] wis
+[0:11] ars
+[0:11] hat is not how
+[0:11] _ ““Athings
+[0:12] "all
+[0:12] चर see
+[0:13] a. Ss
+[0:13] i पे
+[0:13] (४६९
+[0:13] see taking
+[0:13] af i carb
+[0:13] drates
+[0:14] fetys
+[0:14] wi "7
+[0:14] हर 7 —_
+[0:15] ७७ A
+[0:15] noe
+[0:15] क्र,
+[0:15] Tod
+[0:15] Midd
+[0:15] Lal
+[0:16] lig
+[0:16] inc
+[0:16] perf
+[0:16] ance
+[0:16 - 0:17] increase in exercise
+[0:16 - 0:18] i पे
+[0:17] we i
+[0:17] performance but there
+[0:18] 9 मे
+[0:18] AGE
+[0:18] १71
+[0:18] few
+[0:18 - 0:19] 316
+[0:19] kes
+[0:19] ४९३ ५
+[0:19] few éontext where it's
+[0:20] isi |
+[0:20] Lit
+[0:20] net
+[0:20] goingto be yielding a
+[0:21] 124
+[0:21] we A
+[0:21] ४६ A
+[0:21] of sf more Ns than
+[0:22] i पर
+[0:22] "310
+[0:22] Vee
+[0:22] example
+[0:23] 91 01110]
+[0:23] 10116
+[0:23] Bey
+[0:23] mn A
+[0:23 - 0:24] training
+[0:23 - 0:28] 2 45\mins
+[0:24] mars
+[0:24] SUS
+[0:24] aim
+[0:24 - 0:26] longerthan
+[0:24 - 0:26] Mins
+[0:25] ‘4k Teething lasts
+[0:25] longer
+[0:25] Sli
+[0:25] Woe
+[0:25] yy (il morelthan 45
+[0:25 - 0:27] than
+[0:26] 1, 1७]
+[0:26] lasts
+[0:26] ANS) i
+[0:26] (९६८
+[0:26] ue 4
+[0:26] “Vee
+[0:26] taking carbohydrates
+[0:26 - 0:27] 9 मे,
+[0:27] raining}lasts}longer
+[0:27] शक कर
+[0:27] re ० शै
+[0:28] Apa
+[0:28] pirainin
+[0:28] agilastsilongen
+[0:28] ell
+[0:28] १ है or pre a
+[0:29] क्र
+[0:29] ies 2. r
+[0:29] Me or for@kample
+[0:30] {8} OURS
+[0:30] ४६३०:
+[0:30] ia or foréxample you are
+[0:30] fasted and
+[0:30 - 0:31] Tood|
+[0:31] mrs
+[0:31] 49०
+[0:31] Wastes
+[0:31] anosisin
+[0:31] — “जी oe
+[0:31] at 7
+[0:32] ve AR ५
+[0:32] Fas
+[0:32] tes
+[0:32] foodior,
+[0:32] Sent
+[0:32] ue eighthours taking
+[0:33] oncarbsisince
+[0:33] NOUR
+[0:33] (api
+[0:33] ४०2. taking
+[0:33] carbohydrates
+[0:34] sta
+[0:34] ०00
+[0:34] hcarbsisin
+[0:34] ate
+[0:34] Celsihours
+[0:34] 4 intra
+[0:35] we ig
+[0:35] fis
+[0:35] vat
+[0:36] ५ है
+[0:36] fee
+[0:36] (del a.
+[0:36] rye
+[0:36] श्र
+[0:36] y f* ingesting carbohydrates
+[0:37] if “कु
+[0:38] we Ad
+[0:38] डर NY
+[0:38] eee
+[0:38] youllast less than’45 mins
+[0:38] apy
+[0:38] y / al if volt sessions
+[0:39] Leaf,
+[0:39] aA 0
+[0:39] Uilast |
+[0:39] 9 than 45m
+[0:39] ins
+[0:39] thal 45
+[0:40] “हु ५
+[0:40] netal
+[0:40] Rie
+[0:40] if you
+[0:40 - 0:41] state
+[0:40 - 0:42] You
+[0:40 - 0:42] already.in a well fed
+[0:40 - 0:42] i.e matching tdee § 3
+[0:41] nit
+[0:41] ० है|
+[0:41] na *s
+[0:41 - 0:43] is ig
+[0:42] ies
+[0:42] Yalre
+[0:42] fed state or
+[0:43] (है 0
+[0:43] 4 ta fz ia
+[0:43 - 0:44] aining volume is too low!
+[0:43 - 0:44] " sessions last shorter
+[0:44] see >
+[0:44] तर ९
+[0:44] ane A
+[0:44] volume is
+[0:45] ARS
+[0:45] ifn —
+[0:45] ४२७ ०
+[0:45] only thing which
+[0:45 - 0:48] motive for'carb useage
+[0:45 - 0:48] during resistance training =
+[0:46] only ip
+[0:46] ig which we are
+[0:46] doing
+[0:46] len we are
+[0:46 - 0:47] mori
+[0:47] mre
+[0:47] Thy
+[0:47] carbohydrates pre
+[0:48] may
+[0:48] 1294:
+[0:48] UES
+[0:49] any
+[0:49] mrs
+[0:49] ned
+[0:49] 61118
+[0:49] praspinal
+[0:49] ans
+[0:49] Spi
+[0:49 - 0:50] fatigue
+[0:50] heduicing
+[0:50] isupraspinalicnsy
+[0:50] isto suppress super
+[0:50] “| scene as fatigue
+[0:51] ५93
+[0:51] 6५1
+[0:51] Mae
+[0:51] » hencswny
+[0:51] बाधा गा
+[0:51] formance
+[0:51] ivieldimore per
+[0:51 - 0:53] more
+[0:51 - 0:53] Rather
+[0:51 - 0:54] hather just having some carbs)
+[0:52] nit
+[0:52] ence
+[0:52] redoes
+[0:52] mit
+[0:52] pend there is no dose
+[0:52] ent
+[0:52 - 0:53] ore performencel
+[0:52 - 0:54] bsjintrata
+[0:53] UB 4
+[0:53] r है
+[0:53] 1012]
+[0:53] Sting
+[0:53] (31910
+[0:53] esmat
+[0:53] Walle!
+[0:54] ars
+[0:54] BE A
+[0:54] fie doesn
+[0:54] yieldimonelperformance
+[0:54] hat
+[0:54] Les
+[0:54] between taking more
+[0:54] के carbs
+[0:55] oe 8 |
+[0:55] / Ber के?
+[0:56] dy NI
+[0:56] yy i Sot and
+[0:56] ing a better
+[0:57] 419०.
+[0:58] Lae
+[0:58] s, if you guys are
+[0:58] taki
+[0:58 - 1:01] है follow for more
+[0:59] fees
+[0:59] ४९ श्र
+[1:00] «० हे है.4
+[1:00] — 7 ae
+[1:01] नष्ट
+[1:01] Dm hat assy”

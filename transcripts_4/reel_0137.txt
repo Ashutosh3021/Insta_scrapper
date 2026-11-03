@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[137] https://www.instagram.com/reel/Dc8zsvSMNme/
+STATUS: OK
+DURATION: 0:05   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] | have some news for you
+[0:00 - 0:05] Training/Nutrition/Anything
+[0:00 - 0:05] im at 15% dexa scanned bodyfat but my
+[0:00 - 0:05] abs arent visible
+[0:01] Shy
+[0:03 - 0:05] You're not 15% bodyfat

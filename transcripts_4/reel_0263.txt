@@ -1,0 +1,1145 @@
+# model: ggml-large-v3
+========================================================================
+[263] https://www.instagram.com/reel/DaayMkRT_vH/
+STATUS: OK
+DURATION: 1:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] mind if i ask you like five questions about fitness okay how many calories is in a carbohydrate
+[0:06 - 0:14] is it carbohydrate yeah one gram of carbohydrate maybe 10 10 okay whenever you are doing a
+[0:14 - 0:21] barbell squat what are the muscles being trained thigh okay thigh which part of the thigh
+[0:21 - 0:28] i i'm not that much technical okay i know it's related to it's a legged size so thighs will be
+[0:28 - 0:34] you know strained okay and uh maybe this part this part also i don't know what is this part
+[0:34 - 0:38] i'm saying something okay when it comes down to food what is the most important
+[0:38 - 0:45] macronutrient protein carbs or fats protein okay when it comes down to building muscle
+[0:45 - 0:51] what is the most important thing when it comes to the gym what is more important intensity volume
+[0:51 - 0:56] or like how often you hit the muscle i think how often how often frequency yeah okay that is the
+[0:56 - 1:01] perfect yeah okay that is very good that is very good so one last question i want to ask
+[1:01 - 1:06] do you think the pump is important for muscle growth which pump muscle pump the burn pump which
+[1:06 - 1:12] i mean it motivates you to you know walk out more if you see the results right okay when you're
+[1:12 - 1:17] walking out and if you see the muscle is growing then you will get that motivation okay why i'm
+[1:17 - 1:21] able to get the muscle so i can continue doing this yeah that's kind of motivation a pump is
+[1:21 - 1:26] motivating and motivation drives for perception of effort so you will get better motor unit
+[1:26 - 1:30] recruitment guys yeah i mean that is very good man thanks thank you thank you so much
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] MEP
+[0:00] BOs
+[0:00] 5010
+[0:00] SIONS
+[0:00] ‘of;sbl
+[0:00] wer
+[0:00] hale
+[0:00] diy
+[0:00] TEI
+[0:00] oulmt
+[0:00] ind
+[0:00 - 0:02] Asking random
+[0:00 - 0:02] people
+[0:01] फिर
+[0:01] Sat.
+[0:01] Dy ty
+[0:01] a. ed
+[0:01] ‘apr
+[0:01] श्र
+[0:01] lestions
+[0:01 - 0:02] 5 questions of
+[0:01 - 0:02] sble
+[0:02] ५2277
+[0:02] 487
+[0:02] PA. 2
+[0:02] ehy
+[0:02] tay “
+[0:02] Questionsjaboutsfitness
+[0:03] है 2.४५
+[0:03] Nes
+[0:03] (५३३६
+[0:03] 1 Ini
+[0:03] the
+[0:03] oNY
+[0:03] ees
+[0:03] aay
+[0:03] bee
+[0:03] end
+[0:03] wit
+[0:03] Roe
+[0:03] ai ca
+[0:04] wae
+[0:04] wer
+[0:04] 1००४
+[0:04] eee
+[0:04 - 0:05] W many} kcals
+[0:04 - 0:06] Inagram of. carb
+[0:05] hat
+[0:05] » ४३७३
+[0:05] woah
+[0:05] 3०१ ५
+[0:05] Cay «te:
+[0:05] Tet
+[0:05] How. m
+[0:05] lonies i
+[0:06] Pap
+[0:06] ity,
+[0:06] “yoy
+[0:06] ‘bit
+[0:06] n y kcals
+[0:06] i ee
+[0:06] v8 3
+[0:06] प्र
+[0:06] dies
+[0:06] hydrate?
+[0:06] 1 ies
+[0:07] ane
+[0:07] cme)
+[0:07] cay
+[0:07] Sey
+[0:07] um H
+[0:07] ant
+[0:07] in: HE
+[0:07] Tele
+[0:07] Zit
+[0:07] Lonny
+[0:07] ae, जब
+[0:08] Hy Aimy) 4)
+[0:08] AYN.
+[0:08] Sa ag
+[0:08] Seales
+[0:08] Pry,
+[0:08] 2 ys
+[0:08] meh.
+[0:08] ry el
+[0:08] oe ०
+[0:08] ५24
+[0:08] Solt
+[0:08] ea 6
+[0:09] ve 4
+[0:09] s\ay
+[0:09] rey
+[0:09] हैः
+[0:09] ety
+[0:09] Sy ty
+[0:09] ४४.1
+[0:09] fax,
+[0:09] “waa
+[0:09] है, 4
+[0:10] ve y
+[0:10] Neen,
+[0:10] ०१६
+[0:10] Wet
+[0:10] Cbs
+[0:10] rod
+[0:10] है 5,
+[0:10] wee
+[0:10] Naty
+[0:10] rhe
+[0:10] Cees
+[0:10] com |
+[0:10] hae
+[0:10] १२५
+[0:10] eee
+[0:10] है y
+[0:10 - 0:12] LAA
+[0:11] lich
+[0:11] 5५21४
+[0:11] ee 4
+[0:11] | है २
+[0:11] hab
+[0:11] Wingy
+[0:11] ४ ity
+[0:11] vag
+[0:11] matt
+[0:11] ied
+[0:11] श्र
+[0:11] ५ (61719
+[0:11] | #्क्रफ्ा
+[0:12] ९४९
+[0:12] Rat
+[0:12] ray
+[0:12] tea
+[0:12] ake
+[0:12] Aint
+[0:12] 10kcal
+[0:12] देव
+[0:12] Thi
+[0:12] 1908
+[0:12] बम हैँ
+[0:12] स्कूल
+[0:13] 1७5 ४
+[0:13] peal
+[0:13] ins
+[0:13] muscles are be
+[0:13] Trained ina ba bell squat
+[0:13] edad
+[0:13] ‘ tal
+[0:13] aan |
+[0:13] vals
+[0:13] Whenever
+[0:13] amt |
+[0:13 - 0:14] Lar
+[0:14] MAS
+[0:14] aoe
+[0:14] ee 1४
+[0:14] youtareidoing a
+[0:14 - 0:15] e bein
+[0:14 - 0:15] barbell squa
+[0:14 - 0:15] Train edin abar
+[0:14 - 0:17] What: m
+[0:15] ४ ४ 6
+[0:15] kin
+[0:15] 1८१
+[0:15] 383 4
+[0:15] Sle
+[0:15] afr
+[0:15] lenevermy,
+[0:15] ane.doing a
+[0:15] anbel
+[0:15] all
+[0:15] ba’: 4
+[0:15] | कमा
+[0:16] ae) A
+[0:16] ५१५
+[0:16] melt
+[0:16] 311 /
+[0:16] 4 JR
+[0:16] १४५
+[0:16] ate
+[0:16] See
+[0:17] ttt:
+[0:17] Sault
+[0:17] ५१३
+[0:17] ned
+[0:17] wes
+[0:17] lly
+[0:17] ACY
+[0:17] her
+[0:17] LAM
+[0:17] Uisclés |
+[0:17] elm
+[0:18] be, Git
+[0:18] fh te
+[0:18] ANY. 41)
+[0:18] ins
+[0:18] 2 il
+[0:18] श्र
+[0:18] os Bee
+[0:18] bie
+[0:18] ETT]
+[0:18] (1000
+[0:18] iihig
+[0:18] an Se
+[0:18] he ‘i
+[0:19] iy 1
+[0:19] Neh?
+[0:19] sre
+[0:19] ‘Wey
+[0:19] Aah
+[0:19] roy
+[0:19] hia
+[0:19] नकल.
+[0:19] ४४1
+[0:19] Roe)
+[0:19] abe
+[0:19] kay,
+[0:19] pate we
+[0:19 - 0:20] eae
+[0:20] de. bot
+[0:20] Perl
+[0:20] Ry vy:
+[0:20] hice
+[0:20] Noe
+[0:20] eid
+[0:20] SSS
+[0:20] ५7९५
+[0:20] nie
+[0:20] 1877
+[0:20] mn x
+[0:20] 4 oe
+[0:20] aif
+[0:20] क्र
+[0:20] Sai
+[0:20] f “के
+[0:20 - 0:21] Whi
+[0:21] Nak
+[0:21] ony
+[0:21] 25८
+[0:21] Fae
+[0:21] sth DP
+[0:21] Pore
+[0:21] Shy
+[0:21] eal
+[0:21] thy
+[0:21] chipantiof
+[0:21] igh?”
+[0:22] ant
+[0:22] 2 ell
+[0:22] hey,
+[0:22] rev.
+[0:22] rus’
+[0:22] wit
+[0:22] aot fF
+[0:22] Ral
+[0:22] TS le ap Ne
+[0:23] 300५
+[0:23] \ vary
+[0:23] De rp
+[0:23] rete 4
+[0:23] aby
+[0:23] She
+[0:23] tes
+[0:23] ‘ikaminot
+[0:23] ick |
+[0:23] pace
+[0:23] seo
+[0:24] da WK
+[0:24] regal
+[0:24] en td
+[0:24] vid
+[0:24] wet
+[0:24] 1७७7४
+[0:25] GR i
+[0:25] PR o
+[0:25] mie
+[0:25] प्र
+[0:25] ome)
+[0:25] LA a?
+[0:25] Nit
+[0:25] 5 oi
+[0:25] Lay:
+[0:25] 2232
+[0:25] eee
+[0:25] जा af
+[0:25] ५३३
+[0:25] know
+[0:25] ‘relat
+[0:25] oY चं
+[0:25] / at a
+[0:25 - 0:27] ane
+[0:26] haf
+[0:26] ih हि
+[0:26] ihe’
+[0:26] We Ga
+[0:26] See
+[0:26] chy,
+[0:26] Ay AY
+[0:26] है ri
+[0:26] 1.2 41
+[0:26] Cee
+[0:26] Lae
+[0:26] 1४9
+[0:26] 28:22
+[0:27] pls
+[0:27] s\ay
+[0:27] wer
+[0:27] cas
+[0:27] ३. के
+[0:27] Pag
+[0:27] x My ty
+[0:27] ice
+[0:27] eer
+[0:27] acl.
+[0:27] tie
+[0:27] ied
+[0:27] 19 ed
+[0:27] wee
+[0:28] de, Ge
+[0:28] iy ND
+[0:28] Ney
+[0:28] Ad Yh
+[0:28] oad
+[0:28] tol
+[0:28] ase
+[0:28] eae)
+[0:28] Dy t
+[0:28] है 2४%
+[0:28] “>खके
+[0:28] है uy
+[0:28] & 5 22
+[0:28] ighs:
+[0:28] ssi 2 ol
+[0:29] fa. ie
+[0:29] Ps रे
+[0:29] vas
+[0:29] Pa of
+[0:29] wes #र्थ
+[0:29] i ss
+[0:29] Ana
+[0:29] wit §
+[0:29] १३५
+[0:29] veh
+[0:29] okay:
+[0:30] ant
+[0:30] hs. Ge
+[0:30] 28०
+[0:30] Rik:
+[0:30] A pa
+[0:30] tg oe
+[0:30] IN 1)
+[0:30] date
+[0:30] Pe us”
+[0:30] mes ते
+[0:30] hia
+[0:30] nd_ah
+[0:30] strainiokay:
+[0:30] Ch PN
+[0:31] Rint
+[0:31] Sait
+[0:31] wom
+[0:31] Hy i
+[0:31] (७५३
+[0:31] ude
+[0:31] 4205:
+[0:31] wert
+[0:31] है 3 /
+[0:31] लें
+[0:31] Wea
+[0:31] Whe
+[0:31] 56:22.
+[0:32] Sr iN is
+[0:32] s\ay
+[0:32] pats
+[0:32] 2 is
+[0:32] aos
+[0:32] waa?
+[0:32] prey
+[0:32] Anh
+[0:32] f ry
+[0:32] Set
+[0:32] ins
+[0:32] eee
+[0:32] २९८
+[0:32] ial
+[0:32] न्यूड
+[0:32] Sam :
+[0:33] an, We
+[0:33] PRO
+[0:33] 3 pie
+[0:33] ele)
+[0:33] dha
+[0:33] a Ay
+[0:33] 1०8 ee
+[0:33] led
+[0:33] oy A
+[0:33] alsojlidon
+[0:33] Know what
+[0:34] wis
+[0:34] fa ५
+[0:34] pad 7
+[0:34] and हा
+[0:34] rus"
+[0:34] 8. be,
+[0:34] way ¥
+[0:34] Sea
+[0:34] ist
+[0:34] Pantiha
+[0:34] ai =A
+[0:34] tee
+[0:34] Bmore
+[0:35] 4 ५५
+[0:35] PA. 3
+[0:35] >४ॉ७)
+[0:35] Sih
+[0:35] Quads and hams
+[0:35] Ses.
+[0:35] wok
+[0:35] tt Ae!
+[0:35] 016
+[0:35] / अ्कि
+[0:35] _— of aml PE है|
+[0:36] wh 4
+[0:36] veh
+[0:36] vad
+[0:36] nye
+[0:36] is Pi,
+[0:36] eee
+[0:36] eae
+[0:36] hg A
+[0:36] aah By
+[0:36] WwW
+[0:36] SSS
+[0:36] kayAwhenjita=
+[0:36] nt Ne
+[0:36 - 0:37] We fa
+[0:37] rat
+[0:37] e import
+[0:37] yes
+[0:37] हैः
+[0:37] ‘am ape
+[0:37] down
+[0:37] PT Oe
+[0:37 - 0:39] What:
+[0:37 - 0:39] Pro, carb, |fat?
+[0:38] RYAN" Ch
+[0:38] Nite
+[0:38] rey
+[0:38] y, if
+[0:38] §more et
+[0:38] ate
+[0:38] Og 4
+[0:38] Spey
+[0:38] ase |
+[0:38] जला
+[0:38] 1०1 1 ६८)
+[0:38] Pig
+[0:39] more importan
+[0:39] oat
+[0:39] 1:72
+[0:39] २५ ee gi Pry,
+[0:39] CEO,
+[0:39] utrient
+[0:39] Psi.
+[0:39] ay ee
+[0:39 - 0:40] importantima
+[0:39 - 0:41] ३३४
+[0:40] ‘ia a
+[0:40] aval
+[0:40] oles
+[0:40] Lis
+[0:40] हो Be
+[0:40] छः पर
+[0:40] स्का
+[0:40] Gay
+[0:40] aXe
+[0:40] macron
+[0:40] ent
+[0:41] nit
+[0:41] de. G
+[0:41] हे ebm
+[0:41] ts i
+[0:41] Vis)
+[0:41] ३३६
+[0:41] ist ¥
+[0:41] bay Vt
+[0:41] Seg
+[0:41] TST]
+[0:41] itantimacronutrient
+[0:41] impor
+[0:41] fats
+[0:41] फिर“: व
+[0:41 - 0:42] proteinjok:
+[0:42] > Ing
+[0:42] s\ap
+[0:42] श्र
+[0:42] nd 3
+[0:42] 7 ४ 1८
+[0:42] Ban ५
+[0:42] oa yy
+[0:42] ht NS
+[0:42] aaa BO
+[0:43] wh i
+[0:43] Aes
+[0:43] 18१
+[0:43] ANS
+[0:43] adn
+[0:43] le 4
+[0:43] १62 |
+[0:43] AK tap
+[0:43] yh ys
+[0:43] Ppt.
+[0:43] Nat
+[0:43] pro
+[0:43] injokaywhenit
+[0:43] geist
+[0:43] a आनाऊ
+[0:43] ats] 4
+[0:43 - 0:45] ath
+[0:43 - 0:45] Seay
+[0:44] 108
+[0:44] pol
+[0:44] Nga
+[0:44] wie
+[0:44] eT i.
+[0:44] de पु
+[0:44] bet
+[0:44] yea
+[0:44] j a a
+[0:44] Nis
+[0:44] ito):
+[0:44] Lyf,
+[0:44] ff I
+[0:44] a 7 ame
+[0:44 - 0:45] रू (है
+[0:45] Neds
+[0:45] 1८7१
+[0:45] oh eh
+[0:45] Dee कफ
+[0:45] aly
+[0:45] fav.
+[0:45] iis
+[0:45] lee
+[0:45] ०9 ge By.
+[0:45] aya.
+[0:45] downjto)buildi
+[0:45] muscle
+[0:45] १ हे
+[0:45] f em
+[0:46] PA. 3
+[0:46] set
+[0:46] जा 00
+[0:46] A det
+[0:47] vee
+[0:47] 3७७
+[0:47] 9१३
+[0:47] ५५५
+[0:47] i ३४
+[0:47] ve की
+[0:47] i है,
+[0:47] aad
+[0:47] Bee
+[0:47] Lad
+[0:47] Mi 1
+[0:47] mpoK
+[0:47] tant
+[0:47] ngwhen
+[0:47] feo
+[0:48] of 4
+[0:48] Sal
+[0:48] Wis
+[0:48] apis
+[0:48] Pury
+[0:48] Soa Op
+[0:48] Cy a
+[0:48] प्रजा
+[0:48] lial
+[0:48] gon
+[0:48] ५1 way
+[0:48] “als
+[0:48] impontantthi
+[0:48] ent
+[0:48] Col
+[0:48] wWtheg um
+[0:48] (5०८८३
+[0:49] Pos
+[0:49] yf 4
+[0:49] XG I,
+[0:49] a iY
+[0:49] wey
+[0:49] कह) हर
+[0:49] शिव
+[0:49] Whiat’s mar
+[0:49] éimp
+[0:49] int
+[0:49] ens
+[0:49] Frequ
+[0:49] ency
+[0:49] हा APY
+[0:49] way yy
+[0:49] ॥611510॥
+[0:49] ore
+[0:49] १ चल
+[0:49 - 0:52] volum rm
+[0:50] de. t
+[0:50] Si कि
+[0:50] ba Y
+[0:50] Fre
+[0:50] ney intensity
+[0:50] Bas
+[0:50] vo दि
+[0:50] tna 9
+[0:50] Neh
+[0:50] LT ome
+[0:50 - 0:51] What
+[0:50 - 0:52] ay vi
+[0:51] ५४5
+[0:51] 1४१
+[0:51] ge 200
+[0:51] Sapp
+[0:51] <i ते
+[0:51] mis
+[0:51] ST me
+[0:51 - 0:52] Frequency intensi
+[0:52] de. ५
+[0:52] Verney:
+[0:52] Khe’
+[0:52] impor
+[0:52] See
+[0:52] met
+[0:52] BAW
+[0:52] Wess
+[0:52] kejihow often
+[0:52] 7 चर
+[0:53] Je Sim) |
+[0:53] de, हि
+[0:53] wei
+[0:53] s\Ay
+[0:53] ant
+[0:53] ala,
+[0:53] ice
+[0:53] ay" i
+[0:53] / 40५
+[0:53] प्र
+[0:53] bie
+[0:53] 1 ४0 aio a
+[0:53] fut
+[0:53] 17a
+[0:53] tial
+[0:53] muscle:
+[0:54] ve A
+[0:54] 0७ Oe
+[0:54] Vie’
+[0:54] VAN
+[0:54] x) ५४६
+[0:54] NING
+[0:54] TR Ne
+[0:54] bit
+[0:54] Mein 2
+[0:54] Fae
+[0:54] Sin
+[0:54] Sas
+[0:54] yell wy
+[0:54] ths
+[0:54] Sav 5
+[0:54] 2% iis
+[0:54] often
+[0:55] 2५2४:
+[0:55] कं 4
+[0:55] है छ
+[0:55] SN a
+[0:55] 1५.५
+[0:55] ae vi
+[0:55] ६83.
+[0:55] Lea |
+[0:55] aft
+[0:55] uen
+[0:55] ve हक)"
+[0:55] car
+[0:55] often\youlhow)
+[0:55 - 0:57] Freque
+[0:56] Pai
+[0:56] ny ye)
+[0:56] Mig
+[0:56] ३३४
+[0:56] 2 Wf
+[0:56] wkd
+[0:56] eer
+[0:56] 2200“
+[0:56] -Frequenc
+[0:56] Bet
+[0:56] Ch 5
+[0:56] 18४
+[0:56] aya
+[0:56] aaa |
+[0:56] 7 चाही
+[0:57] be, Ge
+[0:57] airy
+[0:57] ४98५3
+[0:57] Pew
+[0:57] or ahd
+[0:57] wey (२1४
+[0:57] ies
+[0:57] val
+[0:57] wn i
+[0:57] 28 4m
+[0:57] Weah
+[0:58] wey
+[0:58] ee. Ue
+[0:58] wre
+[0:58] pa, of
+[0:58] wal
+[0:58] Ww ८४
+[0:58] ३ कि
+[0:58] atte
+[0:58] Loh,
+[0:58] Wig
+[0:58] ७०४
+[0:58] Lf Of
+[0:58] Yeah
+[0:58] okaysthat
+[0:58] प्‌ रू
+[0:59] Nop
+[0:59] ७७४
+[0:59] ele
+[0:59] (4,34
+[0:59] per.
+[0:59] ma ९
+[0:59] als
+[0:59] sd . हे
+[0:59] Pe a
+[0:59] aes
+[0:59] atvisivie
+[0:59] बाई a
+[1:00] 0७. Use
+[1:00] 4६४
+[1:00] Was
+[1:00] DAs.
+[1:00] PA. 3
+[1:00] 90080 *
+[1:00] der
+[1:00] ४५६
+[1:00] 1g Z
+[1:00] bay
+[1:00] aie
+[1:00] 1२६
+[1:00] car
+[1:00] question
+[1:00] gl Be
+[1:00 - 1:02] wet
+[1:01] De. Use
+[1:01] Cone
+[1:01] yet
+[1:01] vit)
+[1:01] Ve ts
+[1:01] woo Ng
+[1:01] रू (है
+[1:01] val’
+[1:01] rel
+[1:01] P रे
+[1:01] ent
+[1:01 - 1:02] eee
+[1:02] eee EE
+[1:02] Pr. 2
+[1:02] ‘ls the pum
+[1:02] vil
+[1:02] doyoutth
+[1:02] ithe
+[1:02] punt
+[1:02 - 1:04] scle:growth
+[1:02 - 1:04] Important for muscl
+[1:03] rowth
+[1:03] क्र
+[1:03] cae
+[1:03] Nig
+[1:03] ‘iim
+[1:03] portant
+[1:03] aw a तक
+[1:03 - 1:06] pump’
+[1:04] 223 ;
+[1:04] jem
+[1:04] ie if a
+[1:05] 5०५
+[1:05] hie
+[1:05] eae)
+[1:05] Dey
+[1:05] bry,
+[1:05] ate
+[1:05] 1९३
+[1:05] ies
+[1:05] cle
+[1:05] / hits F deme
+[1:06] Wed
+[1:06] ~ Tidy
+[1:06] Gai
+[1:06] oot
+[1:06] wwe
+[1:06] Kez,
+[1:06] oe fay.
+[1:06] i il
+[1:06] sai
+[1:06] Pw fF
+[1:06] ee doe
+[1:07] be i
+[1:07] ८/ 1४
+[1:07] ily
+[1:07] ONG.
+[1:07] we ha
+[1:07] bye
+[1:07] 713 40
+[1:07] leap
+[1:07] ear
+[1:07] ‘Sar
+[1:07] Pie.
+[1:07] wer
+[1:07] net
+[1:07 - 1:08] श्र
+[1:08] ya ae
+[1:08] ri है
+[1:08] INH
+[1:08] Yet
+[1:08] Od of
+[1:08] meh
+[1:08] wg (४
+[1:08] ४0३७९
+[1:08] We Ga
+[1:08] aide
+[1:08] a श्फा
+[1:08] prea !
+[1:08] \ Aig
+[1:08] “ayy
+[1:08] Pgs
+[1:08] ea BLS
+[1:08] ies
+[1:08] Bos
+[1:08] meant
+[1:08] you to
+[1:08] you
+[1:08 - 1:10] “छा कार
+[1:09] AN RTRSY
+[1:09] nea
+[1:09] ४१८
+[1:09] ४१5]
+[1:09] wie
+[1:09] We fa
+[1:09] obs
+[1:09] Soo
+[1:09] न्प्
+[1:09] os Bis
+[1:09] way
+[1:09] है। Fa
+[1:10] raw
+[1:10] Hey!
+[1:10] 50५
+[1:10] yey
+[1:10] Ses
+[1:10] hit
+[1:10] 8 fa
+[1:10] vip
+[1:10] Uk We
+[1:10] 2 हो हे
+[1:10] (है कि
+[1:10] sh el
+[1:10] 7001
+[1:10] Sey
+[1:10] ६13:
+[1:10] Gis
+[1:10] 12.4
+[1:10] Fax;
+[1:10] ifliftyourseesthe
+[1:10] ¢ sme
+[1:11] i Ui
+[1:11] ie 4
+[1:11] bas) |
+[1:11] 97 ४
+[1:11] VaR
+[1:11] 1१1
+[1:11] bac a
+[1:11] Deby iy
+[1:11] Sep
+[1:11] ahh
+[1:11] ie ah
+[1:11] wus
+[1:11] 31398
+[1:11] wate
+[1:11] kay,
+[1:11] CNT ~
+[1:12] 20७ Ope
+[1:12] If | 4,
+[1:12] 40४
+[1:12] Hh Si
+[1:12] aad
+[1:12] 1४1
+[1:12] ony
+[1:12] pee
+[1:12] eae
+[1:12] Sy e
+[1:12] \Pevels
+[1:12] ot eee
+[1:12] aXe
+[1:12] 8 hy i
+[1:12] kai
+[1:12] uare
+[1:12] ahwhen
+[1:12] Wel
+[1:13] eDas
+[1:13] aed
+[1:13] ihe
+[1:13] ety
+[1:13] rye
+[1:13] hee
+[1:13] बा 7
+[1:13] 1 पक
+[1:13] Seema 1
+[1:13 - 1:15] +; AK Ny
+[1:14] १0४६
+[1:14] Nga)
+[1:14] ees
+[1:14] oie)
+[1:14] Sey
+[1:14] 4 te
+[1:14] १९५७
+[1:14] gee
+[1:14] tee
+[1:14] se iF
+[1:14] agg 2-८
+[1:14] all
+[1:14] cle is
+[1:14 - 1:16] vie.
+[1:15] ५८4
+[1:15] के u
+[1:15] tap
+[1:15] Desm
+[1:15] cha,
+[1:15] Aye
+[1:15] aay
+[1:15 - 1:16] oe | ae
+[1:16] Was
+[1:16] 3 ७१
+[1:16] fis
+[1:16] 114
+[1:16] #4 ie
+[1:16] [aya
+[1:16] 2: पक
+[1:16] Wes
+[1:16] LEN]
+[1:16] Cs asl ही
+[1:17] de. pe
+[1:17] २४६९७ 4,
+[1:17] Sey
+[1:17] 101
+[1:17] okayjby)l
+[1:17] fT pm
+[1:18] alti
+[1:18] Moa!
+[1:18] oh 4
+[1:18] है ५४
+[1:18] Vad
+[1:18] elt
+[1:18] >१ ae
+[1:18] 7 अल hd
+[1:18 - 1:19] igetithe
+[1:18 - 1:20] Sy oy
+[1:19] de, 8
+[1:19] २11)
+[1:19] al Ns
+[1:19] LAY;
+[1:19] ५०.५
+[1:19] mee
+[1:19] Ute
+[1:19] IAN
+[1:19] cin
+[1:19] iby
+[1:19] age //
+[1:19] sue,
+[1:19] cleiso | can
+[1:19] itinueydo
+[1:20] Wwe
+[1:20] rey
+[1:20] रे a
+[1:20] रू (है
+[1:20] % itl
+[1:20] >१ 3 x:
+[1:20] TET 7,
+[1:20] है ay
+[1:20] =a if
+[1:20] EPS
+[1:20] that
+[1:20] 2७७
+[1:20] iia
+[1:21] Mea \
+[1:21] ral
+[1:21] 448 v
+[1:21] >४०ॉ ३
+[1:21] 1३४84
+[1:21] Dye ye
+[1:21] रन आप
+[1:21] xi 5
+[1:21] Pree १8५
+[1:21] vee
+[1:21] hatisikind
+[1:21] Jom
+[1:22] ‘De, Get
+[1:22] Lat
+[1:22] Dy if
+[1:22] BAG af ,
+[1:22] 223
+[1:22] ws 4
+[1:22] Pre we ie
+[1:22] SS ae |
+[1:22] ARH
+[1:22] के का
+[1:22] pumpjisimotiva
+[1:22] ing yeah.
+[1:22] tof
+[1:23] हे है
+[1:23] tin
+[1:23] bad
+[1:23] Nes hs
+[1:23] pied
+[1:23] है 1
+[1:23] motiva’
+[1:24] iy a]
+[1:24] i, Os
+[1:24] ५४२०७
+[1:24] es Ni
+[1:24] Wet
+[1:24] vas
+[1:24] Brats
+[1:24] why
+[1:24] ihe dS
+[1:24] Satay
+[1:24] iby
+[1:24] प्ष्ट
+[1:24] Ption
+[1:25] Nye
+[1:25] en | 4
+[1:25] AYN Wy J
+[1:25] rns)
+[1:25] ins
+[1:25] 5 rs
+[1:25] Png
+[1:25] ete
+[1:25] dys
+[1:25] Sop Pp
+[1:25] ath
+[1:25] है ०
+[1:25] aes
+[1:25] “ag BX
+[1:25] per
+[1:25] cep
+[1:26] se ५
+[1:26] WAY
+[1:26] 122५
+[1:26] oe 8
+[1:26] Motivation,
+[1:26] LA a ta
+[1:26] y Boe
+[1:26] Lowers p
+[1:26] erceptigno effo
+[1:26] ate
+[1:26] my .#६
+[1:26] “tat
+[1:26] Wey
+[1:26] 3431
+[1:26] नस्ल
+[1:26] eel
+[1:27] vi ii
+[1:27] Ane
+[1:27] रा 7
+[1:27] 1068
+[1:27] aye
+[1:27] eae
+[1:27] Seay
+[1:27] प्र
+[1:27] Recruitment
+[1:28] Psa
+[1:28] ws | ५
+[1:28] Cay
+[1:28] 100]
+[1:28] Ng हि
+[1:28] Hie
+[1:28] BY 2५४ ॥
+[1:28] iss
+[1:28] Cut,
+[1:28] ile
+[1:28] 11 2 31
+[1:28] eT om
+[1:29] | Wan
+[1:29] ५ १४४३,
+[1:29] ०४५ (४
+[1:29] We da
+[1:29] y हे
+[1:29] rhe 21]
+[1:29] डक शक
+[1:29] १५1
+[1:29] Psu
+[1:29] tea
+[1:29] " eee 2
+[1:29] ies
+[1:29] - 9 ीड
+[1:29] pe i
+[1:29] oy ५०
+[1:30] है कु
+[1:30] wih
+[1:30] yer
+[1:30] Van)
+[1:30] 00%) ५
+[1:30] rae
+[1:30] Doe
+[1:30] bit
+[1:30] 4 ५७
+[1:30] 19४२
+[1:30] Toe Ae
+[1:30] हुस्न il
+[1:30] tas
+[1:30] cat
+[1:30] LSS
+[1:30] Poe Pioal

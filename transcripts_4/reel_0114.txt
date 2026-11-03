@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[114] https://www.instagram.com/reel/DdWnnulMl1V/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] etna
+[0:00] pgs
+[0:00] - 114444
+[0:01] bee
+[0:01] gkmachine— =
+[0:01] Mir
+[0:01 - 0:02] —Iheibelt squat LE
+[0:02] ej - ज्तज्थट
+[0:02] Is notjust.a squatting machine
+[0:03] yep
+[0:03 - 0:04] You can.use it
+[0:03 - 0:04] fits
+[0:03 - 0:05] =13 Dostiffileg deadlifts
+[0:04] ae ~ — AN 5
+[0:05] aot (a
+[0:05] You.ca
+[0:05] ettor
+[0:05] Te ae
+[0:05] Ail
+[0:06] ain
+[0:06] “ans
+[0:06] Verystable
+[0:06] प्‌ eu
+[0:06] VF a.
+[0:06] ponte
+[0:06] a कि
+[0:07] ire
+[0:07] table
+[0:07] Ve mys
+[0:07] My A
+[0:07] S77
+[0:08] éjobdone .
+[0:09] Pes
+[0:09] Gets the job job done
+[0:09] eS a
+[0:09] अन्य मि- ... ताराबाम
+[0:09] (ij M
+[0:09] NN 0]

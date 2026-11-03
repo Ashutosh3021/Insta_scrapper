@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[699] https://www.instagram.com/reel/DQUHrnEDEnD/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Raka Kaaliyan, Kaaliyan, Kaaliyan
+[0:06 - 0:08] Mere Dil Saan
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Top
+[0:00 - 0:02] WE are ALL going to
+[0:01] ait
+[0:03] we (hme
+[0:03] Mi it
+[0:03] to ONIN
+[0:03] =aBuyRink
+[0:04] Tell even takep «
+[0:04] oceanlwatenfon
+[0:04] pre workout
+[0:04] maxing
+[0:05] xim
+[0:05 - 0:06] flelleveryone to buy,
+[0:05 - 0:06] al Seatbeltifan
+[0:05 - 0:06] stability max
+[0:06] Las
+[0:07 - 0:08] buy awalk pad
+[0:07 - 0:08] tostay lean year round
+[0:08] a everyoneto.

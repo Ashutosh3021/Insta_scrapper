@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[523] https://www.instagram.com/reel/DU8ffZ_DI4m/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] = Training/Diet/Peps/Anything
+[0:00 - 0:11] Will 5mg of anavar do anything? And is
+[0:00 - 0:11] it natty?
+[0:03] ‘lbw
+[0:04] हैः
+[0:04 - 0:05] calls,
+[0:06] ley
+[0:07] hey
+[0:07] ita
+[0:08 - 0:11] Training/Diet/Peps/Anything
+[0:09] wales
+[0:09] vay

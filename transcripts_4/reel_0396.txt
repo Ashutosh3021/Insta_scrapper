@@ -1,0 +1,88 @@
+# model: ggml-large-v3
+========================================================================
+[396] https://www.instagram.com/reel/DXb6J9ijKEv/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] one of the thing which is you stop doing immediately is using ai calorie tracking
+[0:03 - 0:07] apps or chat gpt to measure your calories that thing is not going to be accurate i do not care
+[0:07 - 0:12] how much data which you fed it i do not care how many prompts which you put in there it is not
+[0:12 - 0:16] going to be accurate compared to a weighing scale just take a weighing scale put it right under your
+[0:16 - 0:20] food measure it and that is going to be way more accurate you're not going to be worrying about oh
+[0:20 - 0:26] if this is accurate or not oh what if it's this or not you won't be spinning in circles or why am i
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ifs:
+[0:00] ey ot
+[0:00] ihe
+[0:00] an. of the
+[0:00 - 0:01] ja ust stop this® —
+[0:01] Das
+[0:01] ४ 44
+[0:01] हैः
+[0:01] Rie
+[0:01] ‘One of the thing whi
+[0:01] you should stop doing
+[0:02] ust
+[0:02] or i
+[0:02] ediately is using
+[0:03] ntl
+[0:04] ihe
+[0:04] ey apps orc
+[0:05] ९ Oi
+[0:05] calories
+[0:06] ThE
+[0:06] at thing is n
+[0:07] Pee.
+[0:07] we 4
+[0:09] है एफ
+[0:09] 3 का
+[0:10] 3 eg
+[0:10] ahi
+[0:10] ९ जा
+[0:11] tees
+[0:11] 5 ol
+[0:11] there
+[0:11 - 0:12] pts which you p'
+[0:12] fad
+[0:12] “hen
+[0:12] Saw
+[0:12] coe ee
+[0:12] tin
+[0:12] een
+[0:12] las
+[0:12] e itis not going to
+[0:13] ree __
+[0:13] irate compare
+[0:14] ons
+[0:14] tea
+[0:14] tT we
+[0:14] Cn al
+[0:14] sate just
+[0:15] TRS
+[0:15] ता बम.
+[0:15] hii
+[0:15] ale just ta
+[0:15] hing Zo
+[0:16] weg]
+[0:16] रूह
+[0:16] fat.
+[0:16] t under ५
+[0:17] Lis.
+[0:18] easure it and that is
+[0:19] a. २. a
+[0:19] ज्के
+[0:19] accurate
+[0:20] प्र
+[0:20] ying
+[0:21] tor
+[0:21] ay i
+[0:21] 2 about oh!
+[0:21] isis
+[0:23] Lia
+[0:25] कक ४“ =
+[0:26] हैं:
+[0:26] aol
+[0:26] roe

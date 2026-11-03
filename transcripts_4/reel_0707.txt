@@ -1,0 +1,46 @@
+# model: ggml-large-v3
+========================================================================
+[707] https://www.instagram.com/reel/DQHVnycjG24/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:24] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] mgonna tell you
+[0:00] | <° <onething
+[0:01] ita
+[0:02] 1 tell you
+[0:03] aw of inertia arguement,
+[0:03] IS 80 888,
+[0:04] imyjkneesiwi
+[0:04 - 0:05] = ——_Thisisme extending
+[0:04 - 0:05] inithelbase)plate
+[0:06 - 0:07] it’s becalise the load
+[0:06 - 0:07] was.too.light
+[0:06 - 0:07] aml
+[0:08 - 0:09] (@ilavermup)
+[0:08 - 0:15] “< Let’s try.theisame
+[0:08 - 0:15] eeeeatiiingwithadecently challenging
+[0:10] ard
+[0:10] load)
+[0:10 - 0:14] @ilavammup)
+[0:11] ingwwitl
+[0:13 - 0:15] (Gtillfalwarmup)}
+[0:14] A ५५
+[0:14] load)
+[0:16] afl
+[0:16 - 0:17] the weight is not हा to
+[0:16 - 0:18] | floatup ina
+[0:16 - 0:18] \) SHEAVY working i
+[0:17] rik
+[0:18] |. weight is not 110
+[0:19] “ifitis
+[0:19] \igotsome:news fonjyou |
+[0:20] fory
+[0:21] cit ||
+[0:21] tt d
+[0:22 - 0:23] rainin 9 hard
+[0:23] ess

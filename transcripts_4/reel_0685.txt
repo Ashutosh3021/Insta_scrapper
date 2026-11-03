@@ -1,0 +1,359 @@
+# model: ggml-large-v3
+========================================================================
+[685] https://www.instagram.com/reel/DQpEGrLjPRv/
+STATUS: OK
+DURATION: 1:40   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] अब डियोन इन सब इनहांस जूनियर बॉडी बिल्डर्स को हरा के जीट जाते हैं सिल्वर मेडल वाओ
+[0:05 - 0:11] पट सोचने वाली बात ये है कि डियोन एक इनहांस कॉंपेटिशन में खिलने गए as a natural
+[0:11 - 0:16] और 20 साल की एज में ऐसा मसल मास डिवेलब कर लिया नैचरली
+[0:16 - 0:19] can you go from this to this in just 5 years?
+[0:19 - 0:25] whenever I hear this phrase, oh how did he make that much progress in just a span of 5 to 6 years?
+[0:25 - 0:29] it just sounds so stupid because when else are you about to make that much progress?
+[0:29 - 0:33] you see I'm not even defending anyone, I just wanted to give some science over this topic
+[0:33 - 0:39] you see the majority of gains which are going to be making are going to be happening in the initial 6 years of lifting
+[0:39 - 0:43] considering those 6 years of lifting are good lifting experience
+[0:43 - 0:46] if you lock in for the next given 6 years
+[0:46 - 0:50] you are going to be making 80% of your maximum achievable gains
+[0:50 - 0:56] and from there on out you are going to be fighting for the last 20% of the gains for the rest of your life
+[0:56 - 0:59] that's considering if you don't take any anabolics
+[0:59 - 1:01] and there is one specific reason to this
+[1:01 - 1:04] you see we have a large set of motor units in our body
+[1:04 - 1:06] in the initial few years of lifting
+[1:06 - 1:11] there are a large set of motor units which are capable of experiencing growth
+[1:11 - 1:15] but as you go further on into your lifting experience
+[1:15 - 1:19] you max out the ability for those muscle fibers to experience growth
+[1:19 - 1:23] hence only the muscle fibers at the highest threshold motor units
+[1:23 - 1:25] are going to be able to experience muscle growth
+[1:25 - 1:30] which is why I say if you want to figure out if you have good genetics or not
+[1:30 - 1:32] train hard for the next 6 years, eat properly
+[1:32 - 1:34] instead of you looking in front of the mirror
+[1:34 - 1:38] people are going to be the one telling you if you have good genetics or not
+[1:38 - 1:39] so yeah, hope that was powerful
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:15] Deon - natural bodybuilder
+[0:00 - 0:15] Fake natt’ |)!
+[0:01 - 0:06] प्रान्यतेने व रत्नागिरी
+[0:03] ae eis
+[0:03] mail
+[0:04] ट्री
+[0:04] Ce ‘ay f
+[0:05] my he
+[0:06] ok बड़
+[0:07] मान्यतेने व रह 1h ft
+[0:07] ey Niet)
+[0:07] toe
+[0:08] A om
+[0:08] ree
+[0:09] to i
+[0:11] aaNnatural
+[0:13] muscle MAS
+[0:14] (७१११५
+[0:15] 2 abi vi
+[0:15] en « a)
+[0:16] x bd
+[0:16] iPr
+[0:16 - 0:17] Okay last one, from 2015 , around 1
+[0:16 - 0:18] year of workout &
+[0:17] Beck:
+[0:18] Ags ae
+[0:19] झ्जे
+[0:19] कि का
+[0:20] a ae
+[0:20] ris
+[0:21] math
+[0:21] ee on
+[0:21] 9 14
+[0:21] का 4.
+[0:21 - 0:22] +i didhe make thismuch
+[0:21 - 0:22] progress in 5 years”
+[0:22] ८6६
+[0:22] » tae
+[0:23] Ook
+[0:23] a Ue
+[0:24] डे 5
+[0:24] ee «७
+[0:25] at ie
+[0:25] in ‘ee a span of five
+[0:25] years it
+[0:25] हैः
+[0:26] il "है; is &
+[0:27] ris |
+[0:27] i Ah
+[0:27] *% so stupid because
+[0:27] when
+[0:28] tye
+[0:30] a ay
+[0:30] है "का
+[0:31] जीत
+[0:31] Sh am not even
+[0:31] defending anyone.
+[0:32] vel
+[0:32] lie
+[0:32] Bae
+[0:32] hy lm.
+[0:32] ee to
+[0:33] हि 4
+[0:33] tol
+[0:33] age
+[0:33] ee it wanted to give
+[0:33] e science over
+[0:34] fi ote
+[0:34] You'see the
+[0:34 - 0:35] Review
+[0:34 - 0:35] Neural adaptation to resistance
+[0:34 - 0:35] training
+[0:34 - 0:35] D G Sale. Med Sci Sports Exerc. 1988 Oct
+[0:34 - 0:35] Show details
+[0:35] Youlsee the majority of
+[0:35] gains Which
+[0:36] pruners
+[0:36] veya
+[0:36] “Naveentmoriy
+[0:36] otably hypertrophy —
+[0:36] be making are
+[0:36 - 0:39] Tunes
+[0:36 - 0:39] Figure 1
+[0:36 - 0:41] rue
+[0:36 - 0:42] MEDICINE AND SCIENCE IN SPORTS AND EXERCISE है
+[0:36 - 0:43] -The relative roles of neural and
+[0:36 - 0:43] wscular adaptation to
+[0:36 - 0:43] predominates. This phase also encompasses most training studies. In
+[0:36 - 0:45] ‘strength training. In the early phase of training neural adaptation
+[0:36 - 0:45] to induce hypertrophy by training alone. Sce text for further discus-
+[0:36 - 0:49] senious
+[0:36 - 0:49] STRENGTH THANERS
+[0:36 - 0:50] ost
+[0:36 - 0:50] intermediate and advanced training, progress is limited (o the extent
+[0:36 - 0:50] of muscular adaptation that can be achieved, notably hypertrophy —
+[0:36 - 0:50] hence the temptation to use anabolic steroids when it becomes difficult
+[0:36 - 0:50] sion,
+[0:37 - 0:38] अहम.
+[0:37 - 0:38] happening in the initial
+[0:37 - 0:39] hence the tempt
+[0:37 - 0:41] -epentnorny
+[0:37 - 0:42] "100७७
+[0:38] six years
+[0:39] Oyo
+[0:39] ३8008:
+[0:39] A vena.
+[0:39] noe
+[0:39] of muscular adapt
+[0:39] pact
+[0:39 - 0:43] a that can be achieved, notably hypertrophy —
+[0:40] प्र
+[0:40 - 0:41] Considering those six
+[0:40 - 0:42] “Naveentmoriy
+[0:40 - 0:43] PROGRESS
+[0:40 - 0:49] A veya
+[0:40 - 0:50] suns
+[0:40 - 0:50] ining studies. In
+[0:41] Neer
+[0:41] years of lifting
+[0:41 - 0:44] MEDICINE AND SC
+[0:41 - 0:44] NCE IN SPORTS AND EXERCISE
+[0:42] goodlifting
+[0:43] (stengos!
+[0:43] TANT
+[0:43] -~rnanena—
+[0:43] goodlifting experience.
+[0:43 - 0:44] अकबर
+[0:44] ७७७४७ -+
+[0:44] If you lock
+[0:44 - 0:49] predominates. Thi
+[0:44 - 0:49] is phase also encompasses most
+[0:44 - 0:50] ‘igure 11—The relative roles of neural and muscular adaptation to
+[0:45] 11 —The r
+[0:45] next given
+[0:45 - 0:46] If youl lock in for the
+[0:45 - 0:47] MEDICINE AND SCIENCE IN SPORTS AND EXERCISE
+[0:45 - 0:49] rae
+[0:45 - 0:49] “Naveentmoriy
+[0:45 - 0:49] ‘strength training. In the ७५
+[0:46] next given six years you
+[0:46 - 0:49] ly phase of training neural adaptation
+[0:46 - 0:49] to induce hypertrophy by trai
+[0:46 - 0:49] ing alone. Sce text for further discus-
+[0:47] are'going to
+[0:48] mane!
+[0:48] igure
+[0:48] percent
+[0:48 - 0:49] MEDICINE AND SC
+[0:48 - 0:49] \CE IN SPORTS AND EXERCISE
+[0:48 - 0:50] STRENGTH हक
+[0:48 - 0:50] ‘strength training. In the early phase of training neural adaptation
+[0:48 - 0:50] stably hypertrophy —
+[0:48 - 0:50] to induce hypertrophy by training alone. See text for further discus-
+[0:49] hence the tempt
+[0:49] hic
+[0:49 - 0:50] percent of your maximum
+[0:50] MEDICINE AND SCIENCE IN SPORTS AND EXERCISE
+[0:50] (sTengos!
+[0:50] rena
+[0:50] --rmanenc
+[0:50] ३8008:
+[0:50] A wera.
+[0:50] -ePentnorny
+[0:50] predominates. This phase also encompasses most
+[0:50] achievable gains.
+[0:51] ¥ श्र
+[0:51] Aas
+[0:51] aye
+[0:51] Ange
+[0:52] son there on out
+[0:52] going
+[0:53] श््पा
+[0:53] tes
+[0:53] faa
+[0:53] fos for
+[0:54] प्र
+[0:54] क्र हे
+[0:54] है ek
+[0:54] bs for the last
+[0:56] dh ie 1
+[0:56] Oty
+[0:57] aa) | ia
+[0:58] ial
+[0:58] at's considering if
+[0:58] छू dont take any
+[0:59] al 4
+[0:59] 3 हे
+[0:59] sage
+[0:59] abla and
+[1:01] Aad
+[1:01] रे to
+[1:02] Pas
+[1:02] You 5००६
+[1:03] aay
+[1:03] You
+[1:03] <- have alarge
+[1:04] Lat
+[1:05] ath
+[1:05] ५ हक
+[1:05] = ode
+[1:05] x है
+[1:05] itial few
+[1:05 - 1:07] Int
+[1:06] me bd
+[1:06] lil
+[1:06] है "हु
+[1:07] att
+[1:07] ayy
+[1:07] in few years
+[1:07] there are
+[1:09] cle
+[1:09] fibers in
+[1:09] ” bs4
+[1:09] hey
+[1:09 - 1:10] mus
+[1:09 - 1:11] jose
+[1:09 - 1:11] wmotor units
+[1:10] sin
+[1:10] those
+[1:10 - 1:11] cleifibersiin
+[1:10 - 1:11] ५ are capable of
+[1:11] GUIS
+[1:11] thr
+[1:11] /॑ (03
+[1:11] cing growth.
+[1:12] Dat
+[1:12] bet
+[1:12] 3३४
+[1:12 - 1:14] but &
+[1:13] wig
+[1:13] Newt
+[1:14] bao
+[1:14] en go further on
+[1:15] + < लीक
+[1:15] १३३
+[1:15] oe ya
+[1:16] ९७। है
+[1:16] ty Gm
+[1:16] ७ 36
+[1:16] exp
+[1:16] oie you max out
+[1:17] e मे
+[1:17] , ser
+[1:18] dw! 4
+[1:18] BBY
+[1:18] the,
+[1:18] abili
+[1:18] Lil)
+[1:19] gow
+[1:20] Heng onty the
+[1:21] | च आरा
+[1:21] Hen
+[1:21] dow the muscle
+[1:21] fib
+[1:22] a od
+[1:22] है | का
+[1:22 - 1:23] thr.
+[1:22 - 1:24] कै के
+[1:23] Tos
+[1:23] eK 4
+[1:23] de motor units
+[1:23] jeigo!
+[1:24] sal
+[1:24] ind
+[1:24] raf
+[1:24] कक जोर
+[1:24 - 1:25] tob
+[1:24 - 1:25] oe: to experience
+[1:25] y है
+[1:25] aie
+[1:25] oad
+[1:25] rowth
+[1:26] tes
+[1:26] . aes
+[1:26] bai
+[1:26] bt # x
+[1:26] be aA
+[1:27] rs, bd
+[1:27] age.
+[1:28] bie.
+[1:28] SE gt
+[1:28] ण्क
+[1:29] ) ऐएैं
+[1:29] «a ८ रू
+[1:29] aus
+[1:29] Nee’
+[1:29] figu
+[1:29] ©: if you have
+[1:29] etics
+[1:29] goo
+[1:30] he डरे
+[1:30] trai
+[1:31] std
+[1:31] ees
+[1:32] ve हर
+[1:32] j yf
+[1:32] & properly
+[1:32] instea
+[1:33] vas
+[1:33] A ३4
+[1:34] aD «7
+[1:34] ast
+[1:34] é ब्रा
+[1:34] RE ok
+[1:34] inf
+[1:34] oy the mirror
+[1:35] one!
+[1:35] 7२1
+[1:35] Pony
+[1:36] ata
+[1:36] ‘ver
+[1:36] goi
+[1:36] tellin
+[1:36 - 1:37] $e: be the one
+[1:37] met
+[1:37] a है,
+[1:37] aad
+[1:37] tel
+[1:37] uif you have
+[1:38] ve 7
+[1:38] . or not
+[1:39] follow for more |
+[1:39] y4y

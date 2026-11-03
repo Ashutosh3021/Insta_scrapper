@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[481] https://www.instagram.com/reel/DVth0NSk0qL/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Baby, won't you come my way
+[0:05 - 0:09] Got something I want to say
+[0:09 - 0:13] Can I keep you on my mind
+[0:13 - 0:16] But first off, I'ma start by saying this
+[0:16 - 0:19] All hands up if you think you can take my bitch
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] SS <a
+[0:04] = Se ee
+[0:05] bey!
+[0:05] ०४1
+[0:06] Sr ee
+[0:06] keg”
+[0:09] as a

@@ -1,0 +1,109 @@
+# model: ggml-large-v3
+========================================================================
+[209] https://www.instagram.com/reel/Dbdwswostqq/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I can't believe I have to say this, but a cold shower is not going to impact muscle growth.
+[0:04 - 0:09] There are legit people out there who think a cold shower is going to impact muscle growth.
+[0:09 - 0:15] They think taking a cold shower after the workout is going to impact muscle growth.
+[0:15 - 0:19] There is one particular study which is being cited out by a lot of people.
+[0:19 - 0:23] You have to really understand one thing that is called a cold water immersion.
+[0:24 - 0:30] Who the fuck is immersing themselves under the water for 10 minutes straight as a shower?
+[0:30 - 0:32] Look at the fucking temperature on this shit, bro.
+[0:32 - 0:37] I can't believe I have to say this, but a cold shower is not going to impact muscle growth.
+[0:37 - 0:38] Anyways, hope that has helped more.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] 1 can’t believe
+[0:00 - 0:04] || have to say this ?
+[0:02] ३०९
+[0:03] || yj i
+[0:03] बडे कं
+[0:04] oft if
+[0:05] aor
+[0:05] प्र
+[0:05] ope &
+[0:06] Tag
+[0:06] id py
+[0:10] i* ft
+[0:10] man
+[0:11] "ज़ा< की
+[0:11] Coldishower
+[0:11] mO-e@o
+[0:12] Postworkout
+[0:12] om ie
+[0:12] 6 के
+[0:12] gai
+[0:13] Jet)
+[0:14] : dee
+[0:18] Ailiations + expand
+[0:18] PMID: 31788800 PMCID
+[0:18 - 0:19] pub 20
+[0:18 - 0:23] 020 Feb
+[0:18 - 0:23] Postexercise cooling impairs muscle protein
+[0:18 - 0:23] = synthesis rates in recreational athletes
+[0:18 - 0:23] Abstract
+[0:19] oat
+[0:19] 206. ६
+[0:19] Afiations + exp
+[0:19] 31788800 Ps
+[0:19] or 1
+[0:19 - 0:21] Pao:
+[0:20] Ait
+[0:20] 317
+[0:20 - 0:21] 200 2
+[0:20 - 0:23] 2996, Epub 20
+[0:21] Hit
+[0:21] sat ll
+[0:22] /8996. ६
+[0:22] wi: 31788800 9
+[0:22] Wolly
+[0:22 - 0:23] roman
+[0:22 - 0:23] ७७१, 1)
+[0:22 - 0:23] ations
+[0:22 - 0:23] expand
+[0:22 - 0:23] or: 10.11
+[0:22 - 0:25] Participants performed leg press and leg extension exercise followed by water
+[0:22 - 0:25] immersion of both legs (one leg was immersed in 8°C; the other leg was
+[0:22 - 0:25] immersed in 30°C) for a total duration of 20 min. After muscle temperature
+[0:22 - 0:25] measurements and collection of muscle biopsies from both legs, participants
+[0:22 - 0:25] ingested 20 g of intrinsically labelled milk protein with 45 g of carbohydrates.
+[0:23] Pui: 31788800 Ps
+[0:23 - 0:26] Cold water im mersion
+[0:24] vil
+[0:24] भ्यु
+[0:24] the other leg was
+[0:25] oii
+[0:27] >#७ ला
+[0:27] (05७02
+[0:28] oxo
+[0:28] a आऋ
+[0:28] कै आग
+[0:29] की फल
+[0:29] 10176 straight
+[0:29 - 0:32] Participants performed leg press and leg extension exercise followed by water
+[0:29 - 0:32] immersion of both legs (one leg was immersed in 8°C; the other leg was
+[0:29 - 0:32] immersed in 30°C) for a total duration of 20 min. After muscle temperature
+[0:29 - 0:32] measurements and collection of muscle biopsies from both legs, participants
+[0:29 - 0:32] ingested 20 g of intrinsically labelled milk protein with 45 g of carbohydrates.
+[0:30] ibe
+[0:30] WwW
+[0:30] rer
+[0:30] 10 mins Se
+[0:30 - 0:32] ; the other leg was
+[0:31] हैं
+[0:31 - 0:32] 8 degrees
+[0:33] egree
+[0:34] 49-०0
+[0:34] 9 Lp
+[0:35] MES
+[0:35] ae (6
+[0:35] Wine
+[0:36] ४०७३,
+[0:37] ant
+[0:38] MI s
+[0:38] A) fF |
+[0:38] 5 10

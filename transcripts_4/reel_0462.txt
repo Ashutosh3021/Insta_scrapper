@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[462] https://www.instagram.com/reel/DWG1IaWjA5d/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] The chest pump is crazy, bro.
+[0:01 - 0:02] You see that, bro?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Bi, = a 7
+[0:00] all
+[0:00] Sa NN
+[0:00 - 0:01] This chest pump is crazy
+[0:00 - 0:03] Fromjtoday,s)
+[0:00 - 0:04] चर Upperlive
+[0:01] hoe
+[0:02] Whoa, you cx th
+[0:02] wwe
+[0:03] Vorretllive
+[0:04] ant Od Nag,
+[0:04] Fromit
+[0:04] odayis
+[0:04] ale
+[0:04] tas
+[0:05] a xX
+[0:05] a ye
+[0:05] ioe
+[0:07] (hee
+[0:09 - 0:10] at was it calle
+[0:10] rer
+[0:10] TRS
+[0:10] SS ee
+[0:11] 333
+[0:16] Dal,
+[0:17] Ay at
+[0:19] Bis

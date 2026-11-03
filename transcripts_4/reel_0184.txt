@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[184] https://www.instagram.com/reel/DcDoGH8Mb6I/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] est
+[0:00] ep, S1EP =
+[0:00] peel,
+[0:00] Even:after
+[0:00] > Se.many different curl
+[0:00] Variants
+[0:01] isstill™
+[0:01] p files
+[0:01] pigs
+[0:01] FDI RINGS
+[0:02] है; ta
+[0:02] DDI ONG
+[0:03] नसकफसफक कक
+[0:03] in ap
+[0:03] कै, 80 supported
+[0:03] Pr ey.
+[0:03] ND NE NOS NG
+[0:04] 4 रे
+[0:04] कै # जो 00०६० ।
+[0:04] जे कु
+[0:04] क्र गज "हरे
+[0:05] Lie)
+[0:05] Pty
+[0:05] Ben
+[0:05] etisupparted
+[0:05] PRN
+[0:06] ॥॥ 827
+[0:06] Bench supported
+[0:06] Pr éacheeurls
+[0:06] PON NONE

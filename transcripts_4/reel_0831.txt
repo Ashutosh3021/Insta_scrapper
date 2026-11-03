@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[831] https://www.instagram.com/reel/DLkBvtmBPBe/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] i don't know what happened to philly but this is not a good chest exercise
+[0:10 - 0:15] he's saying this is for the inner chest but dude tap in wake up
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 1120 ऋण",
+[0:01] wa, SS
+[0:02] Toa
+[0:02] Cea
+[0:02] /| Bean
+[0:03] श्र
+[0:03] हू हु,
+[0:05] नह ५
+[0:06] AAs |
+[0:06] haha
+[0:07] Hl ॥ है
+[0:07] a चं
+[0:08] line
+[0:09] re 7)
+[0:09] इनक
+[0:10] ons
+[0:10] mye
+[0:11] w ew
+[0:12] SI We S - Va
+[0:14] is Ys
+[0:14] nin
+[0:14] Ge i

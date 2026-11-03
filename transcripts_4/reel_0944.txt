@@ -1,0 +1,90 @@
+# model: ggml-large-v3
+========================================================================
+[944] https://www.instagram.com/reel/DHBTHjDhydj/
+STATUS: OK
+DURATION: 0:46   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] this is your reminder that progress is not linear and it's completely normal
+[0:03 - 0:07] a lot of people freak out that they didn't get that one last step in the gym or like
+[0:07 - 0:11] the next day the scale didn't move at all or they gained weight the next day
+[0:11 - 0:17] you have to really understand that some days you will lose weight some days you won't there are
+[0:17 - 0:20] there are also going to be days where you're going to be feeling stronger you're going to
+[0:20 - 0:25] be progressing in the gym and there are also going to be days where you are going to feel weak
+[0:25 - 0:29] so you have to understand that your body does not work in a straight line there are some days
+[0:29 - 0:32] we are going to be losing weight and there are going to be some days where you're not going to
+[0:32 - 0:38] be losing weight the key thing which you want to focus on over here is that showing up regardless
+[0:38 - 0:43] of how things go you just have to show up as long as you're showing up and sticking to the plan
+[0:43 - 0:46] you are going to make progress so yeah what the hell
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Is progress linear?
+[0:01] is progress
+[0:01] four reminder tha‘
+[0:01] Pp! Bares:
+[0:02] finear?:
+[0:02] ur reminder हि.
+[0:02] ards is not linear
+[0:04] people
+[0:05] yee
+[0:06] fed |
+[0:07] सबक :
+[0:07] 7+ los
+[0:08] छाप
+[0:08] प्रजा
+[0:08] Or AN
+[0:09] didi
+[0:09] + ext day the cale
+[0:11] ‘2 weight
+[0:11] next day
+[0:13] inde
+[0:13 - 0:14] iu have to really
+[0:14] that some days
+[0:16] = a ight
+[0:18] jo gonna be d
+[0:19] u're going to
+[0:19] ing
+[0:20] Pra ही
+[0:21] (ng H
+[0:21] हट, U
+[0:21] sym—
+[0:22] here are
+[0:23] 7 are also going
+[0:23] je days
+[0:24] 4 2०
+[0:25] LOT
+[0:25] rts
+[0:26] ९० जा
+[0:26] to understand
+[0:26] 59 yi
+[0:27 - 0:28] dy does not wo}
+[0:28] straight
+[0:29] sreare some
+[0:29] tae i
+[0:30] rou're going to b:
+[0:30] 05119
+[0:31] andithere are going
+[0:32] fhe!
+[0:32] e you're not
+[0:33] whe
+[0:33] fou
+[0:33] re not going
+[0:33] losing weight
+[0:34] g which
+[0:34] pkey
+[0:35] sey thing which yo
+[0:35] la;focus on over
+[0:39] ike.
+[0:39] s of how thin
+[0:40] ist have
+[0:42] you're showing
+[0:42] ing
+[0:42 - 0:44] Follow for'more
+[0:43] re showii
+[0:43] you
+[0:43] ing to the plan
+[0:44] going
+[0:45] ¢ for mere
+[0:45] भरी
+[0:46] so congrats

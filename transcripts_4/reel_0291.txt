@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[291] https://www.instagram.com/reel/DZvPRumMeh4/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Gotta wait to meet you
+[0:05 - 0:08] So join the animatronic family
+[0:08 - 0:11] We open real soon
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] "Leelee
+[0:00 - 0:01] 7 turned 23 ;
+[0:01] किक Z
+[0:01] च्क्का
+[0:02] 2 Ye
+[0:02] 0७11
+[0:02] ॥॥9॥918119118269
+[0:03 - 0:04] Instagram amazesimel
+[0:04] 2 "ee
+[0:04] प्र
+[0:05] fad
+[0:05] a. doesnit Krovi
+[0:05] Whats 819 छा)
+[0:05] yas
+[0:06] .. doesnit cae
+[0:06] What'sigoin
+[0:07] > Qin
+[0:08] 72 १०
+[0:08] श्र
+[0:09] $ जगा TI
+[0:09] हैः of you .
+[0:09 - 0:11] The shit | do
+[0:10 - 0:11] है of you guys

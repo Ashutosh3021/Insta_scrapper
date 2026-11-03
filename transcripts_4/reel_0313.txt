@@ -1,0 +1,731 @@
+# model: ggml-large-v3
+========================================================================
+[313] https://www.instagram.com/reel/DZSJli2M3aF/
+STATUS: OK
+DURATION: 0:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I don't know who needs to hear this but looking at your body weight on a daily basis is not
+[0:03 - 0:07] obsessive. I don't know why a lot of people just obsess over their body weight and connect
+[0:07 - 0:12] their emotions to it. At the end of the day, your body weight is just one data set. It's
+[0:12 - 0:16] just a reflection on what's going in and what's coming out. It's just a reflection of your
+[0:16 - 0:20] lifestyle choices. If there is a change in your lifestyle choices, there is going to
+[0:20 - 0:24] be a change in your body weight. It's just keeping you accountable. The more you check
+[0:24 - 0:28] your body weight on a daily basis, the better it is. I'm not saying check your body weight
+[0:28 - 0:32] every four hours but checking it on a daily basis is going to give you a good enough idea
+[0:32 - 0:36] on what's happening to you on a weekly basis. So yeah, anyways, hope that I spoke more.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] $ Boc®
+[0:00] elf है
+[0:00] hyd
+[0:00] SIO,
+[0:00] essive
+[0:00] ३3 २५
+[0:00] Whe
+[0:00] don
+[0:00] ituknow who
+[0:00] ee Ata
+[0:00] a OES
+[0:00] Peer ae
+[0:00] ary
+[0:00] 2 रु
+[0:00] "४००4-६५
+[0:00] Reise
+[0:00 - 0:01] Uses
+[0:00 - 0:02] ee ae
+[0:01] be V5
+[0:01] ise
+[0:01] ‘ing
+[0:01] ess
+[0:01] INAS
+[0:01] evenyd
+[0:01] ENS ©
+[0:01] com,
+[0:01] है 1
+[0:01] but looking
+[0:01] slop 59४९
+[0:01] //४३४४, ५
+[0:01] 77% Py
+[0:01] eae eons
+[0:01] Soo
+[0:01] MNP eet
+[0:01] 70020
+[0:01] aaa
+[0:01] coe
+[0:01] ese
+[0:01] ee eae
+[0:01] 1८६६
+[0:01] 008
+[0:02] may
+[0:02] IAC!
+[0:02] है. हर
+[0:02] oad
+[0:02] ight on
+[0:02] ots
+[0:02] SEES
+[0:02] 42८7 /77 612
+[0:02] MEA: fy,
+[0:02] HEUER E
+[0:02] Pie
+[0:02] mee
+[0:02] site
+[0:02] ५७५०
+[0:02] Reni
+[0:02] pee
+[0:02] 11212
+[0:02] biti oo renee 7
+[0:02] Arh:
+[0:02] iis
+[0:02] ५९३३४ (४ coe 208:
+[0:02 - 0:03] g yourself
+[0:03] प्र
+[0:03] cig
+[0:03] GIAVCE]
+[0:03] ional
+[0:03] cree
+[0:03] isinot
+[0:03] ete
+[0:03] nts
+[0:03] iss
+[0:03] 239:
+[0:03] पा ee
+[0:03] 21001
+[0:03] 35300
+[0:03] (eas
+[0:03] Sim
+[0:03] ape
+[0:03] ets
+[0:03] oe 1
+[0:03] aaa ANS
+[0:03] ५५७.
+[0:03] 55.2 घन
+[0:03] Crass
+[0:03] Sih
+[0:03 - 0:05] ACE:
+[0:04] aay
+[0:04] Ine) \OUrSS
+[0:04] vid
+[0:04] 6७5
+[0:04] 50५५९
+[0:04] 8:41
+[0:04] its
+[0:04] 12280
+[0:04] poate]
+[0:04] Ley
+[0:04] oes
+[0:04] ८2९५
+[0:04] 3५४:
+[0:04] Hee ee
+[0:04 - 0:09] Weig
+[0:05] ५ हैं
+[0:05] ties
+[0:05] rae;
+[0:05] Weg
+[0:05] oom
+[0:05] ngvourself. है |
+[0:05] evenydayilis
+[0:05] it Know why al
+[0:05] 77218
+[0:05] aoe
+[0:05] Mae
+[0:05] cae
+[0:05] tis
+[0:05] Renae
+[0:05] "68४
+[0:05] श्र
+[0:05] MT iors
+[0:06] hal
+[0:06] VOURSS
+[0:06] mydayil
+[0:06] “Pa P
+[0:06] La 8
+[0:06] tig
+[0:06] Ror
+[0:06] CORBA D GD
+[0:06] 25221
+[0:06] 22223,
+[0:06] cee
+[0:06] १५५,
+[0:06] 50000
+[0:06] 208 ea
+[0:06] hice
+[0:06] १8३
+[0:06] ete
+[0:06] taj
+[0:06] “eel
+[0:06] Sau
+[0:06 - 0:07] 6९५७
+[0:06 - 0:07] le just obsess ov,
+[0:07] pes
+[0:07] 401
+[0:07] VOUFSE
+[0:07] Slob
+[0:07] GIAVCEN
+[0:07] 2 Ys
+[0:07] the’
+[0:07] ody weigh
+[0:07] lie
+[0:07] २228, पड
+[0:07] Edd 00५०
+[0:07] rat)
+[0:07] art
+[0:07] soe
+[0:07] oa Syste
+[0:07] oe BS
+[0:07] put
+[0:07 - 0:08] ing
+[0:07 - 0:09] SIME
+[0:08] be Vi
+[0:08] 102
+[0:08] VYOUrKSe
+[0:08] hydayiisiob
+[0:08] Wom
+[0:08] श्र
+[0:08] whan
+[0:08] t their emoti
+[0:08] 0001 200
+[0:08] Teh
+[0:08] am i
+[0:08] (0५०
+[0:09] (1) ७४०19.
+[0:09] Soo
+[0:09] envdayii
+[0:09] ant एो
+[0:09] ‘the end
+[0:09] ees
+[0:09] gore
+[0:09] Ate
+[0:09] sete AY.
+[0:09] aati
+[0:09] iam
+[0:10] A रे
+[0:10] wf i
+[0:10] glyourrse
+[0:10] fis
+[0:10] 2 2542०
+[0:10] Beets
+[0:10] SLES
+[0:10] 4222
+[0:10] aoe
+[0:10] eae
+[0:10] tee
+[0:10] tie
+[0:10] Sone z
+[0:10] ten
+[0:10] fey.
+[0:10] 303
+[0:10] Lh os
+[0:11] oe a
+[0:11] 4 मैं]
+[0:11] nghyoursel
+[0:11] प्र
+[0:11] bod
+[0:11] weight is just on
+[0:11] pes
+[0:11] eat ee
+[0:11] Bins
+[0:11] 05 EN
+[0:12] be a
+[0:12] Weig
+[0:12] (5) ७४०19.
+[0:12] uly
+[0:12] aT 8
+[0:12] vane
+[0:12] See
+[0:12] ula
+[0:12] yan
+[0:12] ORR हर
+[0:12] ५७५
+[0:12] aR Re
+[0:12] can
+[0:12] hear)
+[0:12] Rice
+[0:12] १७०५
+[0:12] (0५०
+[0:12 - 0:13] ARS
+[0:12 - 0:14] set
+[0:13] 5८ ag
+[0:13] ing
+[0:13] self,
+[0:13] 315,
+[0:13] है Pnel
+[0:13] ust areflection
+[0:13] the
+[0:13] oe eS
+[0:13] SARE
+[0:13] Tet,
+[0:13] रे "ee
+[0:13] AAT
+[0:13] Tay
+[0:13] NENG meh
+[0:13] ores
+[0:14] BOG;
+[0:14] cA a Al
+[0:14] ghing nself,
+[0:14] daylisjobsessive:
+[0:14] Pad,
+[0:14] 's going in
+[0:14] ८९०९
+[0:14] 26802
+[0:14] les oer
+[0:14] (95६:
+[0:14] ciel ae
+[0:14] PRL She
+[0:15] ise
+[0:15] SiO.
+[0:15] SiMe
+[0:15] hyd
+[0:15] ayii
+[0:15] ४79
+[0:15] ८ ae
+[0:15] Lar
+[0:15] ond 8
+[0:15] oming out
+[0:15] 1eidet Mf
+[0:15] ese
+[0:15] LPs ens
+[0:15] १:72 0%
+[0:15] rus
+[0:15] 20292:
+[0:15] Reagan
+[0:15] eae
+[0:15] ays रे
+[0:15] mee i
+[0:15] ae kan
+[0:15] inate We
+[0:15] SEN
+[0:15] Min
+[0:15 - 0:16] peat
+[0:15 - 0:16] Lay,
+[0:15 - 0:19] eighing
+[0:16] wee (7
+[0:16] Va ; A
+[0:16] [391५०
+[0:16] CSSIMEe
+[0:16] Veh,
+[0:16] 51918 0)
+[0:16] ian
+[0:16] aod
+[0:16] 91050 ajreflection
+[0:16] ore
+[0:16] 7४772:
+[0:16] ele
+[0:16] aha.
+[0:16] 2007 3990 72
+[0:16] 8023,
+[0:16] tes
+[0:16] 17405
+[0:16] ieee
+[0:16] atu,
+[0:16] ०९२७ oe
+[0:16] Loe
+[0:16] ५2५ कैप
+[0:16] eye
+[0:16] "777
+[0:16] 204
+[0:16] pee
+[0:16] 1 522४
+[0:17] |” 245
+[0:17] WwW
+[0:17] WIG
+[0:17] WEIAY
+[0:17] Sart
+[0:17] werk
+[0:17] WES
+[0:17] Gee
+[0:17] ona ieee
+[0:17] Felice al Ra
+[0:17] 26०02 ४
+[0:17] १५६ पर
+[0:17] Eat
+[0:17] Saas
+[0:17] ewe
+[0:17] sure
+[0:17] ८४५28
+[0:17] ste
+[0:17] cea
+[0:17] Ran
+[0:17] 1९२५
+[0:17] hag
+[0:17] Ree
+[0:17] a 53
+[0:17] Te Gee
+[0:17] his
+[0:17] Ter
+[0:17] Lenn
+[0:17] (222
+[0:17 - 0:18] nself
+[0:17 - 0:18] CSS
+[0:17 - 0:18] INAS
+[0:17 - 0:19] lifestyle choices
+[0:17 - 0:20] VOUS
+[0:18] बडे
+[0:18] IAC
+[0:18] os Chie
+[0:18] iffhere isa
+[0:18] 5८7
+[0:18] i sos
+[0:18] ५22
+[0:18] RUA
+[0:18] LEZ
+[0:18] 42221
+[0:18] Rae
+[0:18] 2222 ४12८
+[0:18] Loi
+[0:18] Had”
+[0:18 - 0:19] obs
+[0:18 - 0:21] Sees
+[0:19] bad
+[0:19] 1521७
+[0:19] Vel
+[0:19] ie ०
+[0:19] os t
+[0:19] Br ALL AAAE
+[0:19] BEAL Y
+[0:19] ६2 ४५%
+[0:19] 47५१४. 1600 73:
+[0:19] MEY:
+[0:19] ६४420
+[0:19] Wve
+[0:19] wen
+[0:19] ite
+[0:19 - 0:21] ssi
+[0:20] CVIAC|
+[0:20] isjob
+[0:20] elf
+[0:20] rar’
+[0:20] going to be
+[0:20] 4५३
+[0:20] ee "८६१५६:
+[0:20] oh wan
+[0:20] (५९८
+[0:20] 44८4८
+[0:20] 0 है!
+[0:20] ils
+[0:20] apt
+[0:20] (1५८४६.
+[0:20] shea
+[0:20] ५६५५
+[0:20] Reel 81075
+[0:20] (3२०
+[0:20] "tage
+[0:20] Bee
+[0:20 - 0:22] aig)
+[0:21] 4 af
+[0:21] nghyou
+[0:21] envid
+[0:21] ark
+[0:21] igs
+[0:21] ‘ange in your bod
+[0:21] met
+[0:21] weight
+[0:21] eerie
+[0:21] eons
+[0:21] aes
+[0:21] ttt
+[0:21] ree
+[0:21] २४४४
+[0:21] PER
+[0:21] sep
+[0:21] fa eae
+[0:21] et er
+[0:21] Hac Ga
+[0:21 - 0:22] 2220
+[0:21 - 0:23] "ines
+[0:22] USC
+[0:22] CSS
+[0:22] INAS
+[0:22] evieny,
+[0:22] Cw Fi
+[0:22] O55
+[0:22] 55 a
+[0:22] Eisjjust keeping
+[0:22] Ose
+[0:22] ee a
+[0:22] (828
+[0:22] 270
+[0:22] oe a
+[0:22] ial
+[0:22] 2326
+[0:22] ae RIA
+[0:22] ६५५५४
+[0:22] aan
+[0:22] sei La
+[0:22] etn Ki
+[0:22] 301९
+[0:22] 208,
+[0:22 - 0:23] hing
+[0:23] rhe
+[0:23] CA a if?
+[0:23] [SIO
+[0:23] GWEIAVCE)
+[0:23] essive’
+[0:23] Tas
+[0:23] st keeping yo
+[0:23] accountable
+[0:23] Seas
+[0:23] ४44,
+[0:23 - 0:24] tay
+[0:23 - 0:26] Self
+[0:23 - 0:27] STEN
+[0:24] y UY)
+[0:24] giyourse
+[0:24] has
+[0:24] aa A
+[0:24] more you check your.
+[0:24] सके
+[0:24] Ute
+[0:24] ida
+[0:24] Mtr
+[0:24] (6556०
+[0:24] 2548
+[0:24] TSS
+[0:24] rat
+[0:24 - 0:26] SIME
+[0:25] ४11
+[0:25] Avi
+[0:25] ghing 15
+[0:25] ess
+[0:25] EMISOs
+[0:25] EAN
+[0:25] tee
+[0:25] EA ४
+[0:25] 333
+[0:25] Conse
+[0:25] :2202%%22:
+[0:25] Rt tg
+[0:26] may
+[0:26] 055
+[0:26] cig
+[0:26] 1101, 01॥॥5
+[0:26] hyd
+[0:26] basis
+[0:26] e better
+[0:26] 20081
+[0:26] met
+[0:26] San
+[0:26] coo
+[0:26] 2228
+[0:26] thes
+[0:26] fat
+[0:27] 28 4
+[0:27] ns] MOUSE
+[0:27] (>20०१०)
+[0:27] envyda
+[0:27] 8 04
+[0:27] GLa
+[0:27] ane
+[0:27] eed
+[0:27] pian
+[0:27] ara,
+[0:27] tae
+[0:27] pacientes
+[0:27] liz
+[0:27] Wide:
+[0:27 - 0:28] INAS
+[0:27 - 0:28] aff
+[0:27 - 0:29] 2080
+[0:27 - 0:30] eig
+[0:28] ile |} SA)
+[0:28] ise
+[0:28] ४00
+[0:28] obs
+[0:28] every
+[0:28] “a af
+[0:28] ला mo
+[0:28] Ls a8
+[0:28] it; Check your bo:
+[0:28] ight
+[0:28] peer
+[0:28] aes
+[0:28] Fore
+[0:28] Loe
+[0:28] rae
+[0:28] 2208
+[0:28] os A
+[0:28 - 0:29] CSS
+[0:28 - 0:29] Seay
+[0:29] gning
+[0:29] rse
+[0:29] ISiO
+[0:29] IM@e:
+[0:29] envid
+[0:29] us e
+[0:29] Ave
+[0:29] कह ३८
+[0:29] but
+[0:29] hecking
+[0:29] AGE ७३३
+[0:29] oad
+[0:29] ake
+[0:29] 4१98;
+[0:29] Tse
+[0:29] eee
+[0:29] itty
+[0:29] mat
+[0:29] meg
+[0:29] Mint
+[0:29] WA el
+[0:29] 44४
+[0:29] Oot Mabe
+[0:29] eect
+[0:30] ita
+[0:30] isjobs
+[0:30] >्के
+[0:30] Fag
+[0:30] aSIS
+[0:30] atte
+[0:30] “oes
+[0:30] eo oe
+[0:30] nee
+[0:30] ig gee
+[0:30] 30:87
+[0:30] tilt
+[0:30] sal
+[0:30] 1808
+[0:30] ath
+[0:30] ike
+[0:30] ४०७
+[0:30] rhe
+[0:30] Arita:
+[0:30 - 0:31] evenyd
+[0:30 - 0:31] ere,
+[0:30 - 0:32] He vs
+[0:30 - 0:33] 05200:
+[0:31] Lis
+[0:31] पर a
+[0:31] ७ SA)
+[0:31] hi Ese
+[0:31] obs
+[0:31] 4 Ne
+[0:31] ject
+[0:31] ight
+[0:31] ae ir
+[0:31] sis is going}togi
+[0:31] Paes
+[0:31] Minin
+[0:31] 1310६
+[0:31] bor
+[0:31] ese
+[0:31] Poy
+[0:31 - 0:32] oie
+[0:31 - 0:34] SEES.
+[0:32] ghyours
+[0:32] enyda
+[0:32] baa
+[0:32] cw ths
+[0:32] jood enough idea ७
+[0:32] AGREE,
+[0:32] co SVG)
+[0:32] tii
+[0:32] pre
+[0:32] mole
+[0:32] 4ef,
+[0:32 - 0:33] LA an
+[0:33] rself
+[0:33] cig
+[0:33] hyd
+[0:33] CSSIM,
+[0:33] jo, Ye
+[0:33] win
+[0:33] wie
+[0:33] war
+[0:33] appening
+[0:33] eae
+[0:33] yet:
+[0:33] Gore
+[0:33] ASF
+[0:33] aay
+[0:33] 2 ze
+[0:33] 50 ६
+[0:33] eet ey
+[0:33] ९६६४
+[0:33] 820
+[0:33] 2470६
+[0:33] Lig
+[0:33] Bees:
+[0:33] SER,
+[0:33] Pete
+[0:33] ५8,000
+[0:33] Bing Os
+[0:33 - 0:35] ieee
+[0:34] के yy
+[0:34] inghyou
+[0:34] elf
+[0:34] SUA
+[0:34] envday,
+[0:34] 1५९
+[0:34] act
+[0:34] कचरे
+[0:34] LAS
+[0:34] \ है] a
+[0:34] Gry tk
+[0:34] aude
+[0:34] Sten
+[0:34] ren
+[0:34] tte
+[0:34] Wee
+[0:34] nee
+[0:34] si a
+[0:34] ४0000 7178
+[0:34 - 0:36] 22222: ।
+[0:35] ‘wa के
+[0:35] S We
+[0:35] 3८५८
+[0:35] GSS
+[0:35] WEN IS Ol)
+[0:35] wala
+[0:35] yeah
+[0:35] coe
+[0:35] try
+[0:35] 22354
+[0:35] न डक का
+[0:35] 2७7 ai
+[0:35] Rate
+[0:35] san
+[0:35] ४३१६१:7/:: 77751
+[0:35] Lich
+[0:35] /ले पर 6
+[0:35] tle UA neh Ff
+[0:35] autre
+[0:35] Tide
+[0:35] ०९९)
+[0:35] Pt oy
+[0:35] LRN
+[0:35] ५०२ १
+[0:35] EVI
+[0:35] Hey
+[0:35] 212
+[0:35] 27785
+[0:35] ity
+[0:35] ११४17,
+[0:35] ages है
+[0:36] a os
+[0:36] 0०५
+[0:36] 90158
+[0:36] Weig
+[0:36] iS) YO)
+[0:36] CSS
+[0:36] iwe*
+[0:36] enydaylistob
+[0:36] i te
+[0:36] ७5कै
+[0:36] yeah anyways of the
+[0:36] ong |]
+[0:36] eae
+[0:36] १५१4६
+[0:36] ra ghs
+[0:36] [8२2
+[0:36] 25452
+[0:36] Die
+[0:36] हम पर
+[0:36] 134७:
+[0:36] १४४४
+[0:36] HACER Neg
+[0:36] 2077
+[0:36] THUS ee ie Rs
+[0:36] ery
+[0:36] Pawar
+[0:36] eg eat

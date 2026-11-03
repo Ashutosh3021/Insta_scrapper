@@ -1,0 +1,141 @@
+# model: ggml-large-v3
+========================================================================
+[935] https://www.instagram.com/reel/DHYdJYTNJoV/
+STATUS: OK
+DURATION: 1:08   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] mechanical tension is the only driver for muscle growth
+[0:02 - 0:03] but इसे apply कैसे करते हैं
+[0:03 - 0:05] इसका answer बहुत simple है
+[0:05 - 0:08] but for that we need to understand how mechanical tension works
+[0:08 - 0:09] and it's really not that difficult
+[0:09 - 0:11] see there are two types of mechanical tension
+[0:11 - 0:12] active and passive
+[0:12 - 0:16] passive is basically triggered by muscle fiber elongation at a longer length
+[0:16 - 0:18] basically sarcomyogenesis
+[0:18 - 0:21] and active mechanical tension is detected by the distroglycol and integral complex
+[0:21 - 0:24] which stimulate the muscle fibers to grow
+[0:24 - 0:27] अब जब भी एक muscle fiber slowly contract करता है
+[0:27 - 0:29] under high effort condition
+[0:29 - 0:31] it produces high amount of mechanical tension
+[0:31 - 0:34] with high levels of high threshold motor unit recruitment
+[0:34 - 0:38] अब इसका मतलब ये नहीं ही कि तुम जानबूच के वो contraction को slow down करोगे
+[0:38 - 0:39] नहीं
+[0:39 - 0:41] the contraction should be involuntarily
+[0:41 - 0:43] वो involuntarily slow down होना चाहिए
+[0:43 - 0:47] ये चीज तुम easily देख पाओगे with the last few reps close to failure
+[0:47 - 0:50] और जैसे जैसे contraction speed अपने आप कम होती है
+[0:50 - 0:54] you should know that you are experiencing high levels of active mechanical tension
+[0:54 - 0:56] guys yeah please stop focusing on bullshit
+[0:56 - 0:58] start focusing on mechanical tension
+[0:58 - 1:00] make sure you are very close to failure
+[1:00 - 1:03] and the contraction speed of that given muscle
+[1:03 - 1:05] धिरे धिरे अपने आप कम हो रही है
+[1:05 - 1:06] जानबूच ये मत कम गरना बस
+[1:06 - 1:07] so yeah, hope that helps
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ses
+[0:01] क्र
+[0:01] eae tension
+[0:02] mechanical tension,
+[0:02] an for museli
+[0:03] se -, ‘aise,
+[0:04] कै A
+[0:05] Bohot simp
+[0:05] ata
+[0:07] yesneed to understai
+[0:07] hanical
+[0:08] PU simpiitiy ttor you
+[0:09] ts really not ti
+[0:09] difficult
+[0:10 - 0:11] e two types
+[0:11] ical tension
+[0:12] blame
+[0:13] ay 5
+[0:14] ee ne
+[0:14] ive
+[0:14] basically trigi
+[0:14 - 0:16] | a muscle
+[0:15] iststheteine,
+[0:15] ies and
+[0:16] eli
+[0:16] es and at a lo!
+[0:16] lens
+[0:16 - 0:17] is siretelne
+[0:17] hen)
+[0:17] @ muscle fiber
+[0:17] sarcomyogen
+[0:18] load
+[0:18] ically sarcom:
+[0:19] ctive mec
+[0:20] ‘s WH, 4
+[0:20] mechi
+[0:20] ted by ४
+[0:21] pees
+[0:21] con
+[0:21] दें
+[0:21] ie integral
+[0:22] = fil
+[0:23] 22:41
+[0:23 - 0:24] timulate the mui
+[0:24] res to grow
+[0:26] 01118
+[0:26] Bevamnuscle fibre s|
+[0:26 - 0:27] Slow;
+[0:26 - 0:27] tion)
+[0:27] OTE)
+[0:27] high
+[0:27] uscle fibre 56५
+[0:27] tract Carter
+[0:27 - 0:28] Undler
+[0:28] 1. || afford
+[0:29] it pI
+[0:29 - 0:30] ices है...
+[0:30] chamicall
+[0:31] 7 मैगी
+[0:31] F me
+[0:31] enicall
+[0:32] imochanical
+[0:32] hed
+[0:32] th high levels
+[0:33] ih 7 levels ०]
+[0:33] threshold modi
+[0:34] fm “च्यं
+[0:34] Dom*tidoxthisy
+[0:35] (219) (4135
+[0:36] chs
+[0:37] ails
+[0:41] t bi
+[0:41] a IVOUUNTAT
+[0:41] ag AS
+[0:41] mm हे
+[0:42] 11 जज
+[0:42] 20५
+[0:42] बटन \\
+[0:42 - 0:44] trees
+[0:43] ॥। 9 TAI
+[0:43] Pres
+[0:44] are
+[0:45] Ne A
+[0:47] Lal
+[0:49] Shs
+[0:50] Nae)
+[0:51] fap
+[0:51] im 4 ’
+[0:51] you स्का know thi
+[0:53] levels of
+[0:56] ical tension pi
+[0:56] Eusing on bullshit
+[0:57] focusing on me:
+[1:00] and
+[1:01] and the 7 spt
+[1:02] slave
+[1:02] and the, है ‘Sper
+[1:02] that, Biven
+[1:05] st hy
+[1:05] se hy
+[1:05 - 1:07] y Follow for mores
+[1:06] हू for mong

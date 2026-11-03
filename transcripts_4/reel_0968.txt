@@ -1,0 +1,81 @@
+# model: ggml-large-v3
+========================================================================
+[968] https://www.instagram.com/reel/DGGEv3mNFCl/
+STATUS: OK
+DURATION: 1:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] the biggest mistake you could ever do if you join the gym is hire a personal trainer now don't get
+[0:05 - 0:11] me wrong hiring a personal trainer is not the one which is the wrong option it's the fact that
+[0:11 - 0:17] most of the personal trainers in 2025 in india don't know what they're doing most of them just
+[0:17 - 0:23] go go with their clients they count their reps their spot instead of teaching them the basic
+[0:23 - 0:29] form and techniques and when you ask them why am i doing this workout they don't have an answer to
+[0:29 - 0:36] that so instead of going through all of this i want you to hire someone who knows what they're
+[0:36 - 0:42] doing who knows what why is this specific exercise therefore what is the specific needs of this
+[0:42 - 0:49] exercise why is it given to you building lifestyle choices a lot of factors which most of the personal
+[0:49 - 0:57] trainers skip a lot of them only hire coaches rather than hiring a trainer there is a big reason
+[0:58 - 1:03] why personal trainers in india get paid less it's because most of them don't bring enough
+[1:03 - 1:06] to the table to get paid a lot so yeah hope that helps
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] mast
+[0:01] ‘could
+[0:01] evi
+[0:02] { Joingh:
+[0:04] हू is hii
+[0:04] | i ie
+[0:05] Po) don't get me
+[0:06 - 0:07] .| hiring a person:
+[0:11] ie fact that moms
+[0:12] the fact th
+[0:12] personal
+[0:15] 1025 in India do!
+[0:17] just go
+[0:18] of them just
+[0:18] their cli
+[0:19] count
+[0:20] int their ri
+[0:22 - 0:23] 4 ‘ad of teaching
+[0:23] jic form
+[0:24] ९३० of teachi
+[0:24] basic form and
+[0:25] 1॥ fl
+[0:25] you ask
+[0:26] in you ask the;
+[0:27] ie a
+[0:27] ind when you a:
+[0:27] im | doing tl
+[0:28] they don't have
+[0:29] i don't have an answer to»
+[0:29] that 5
+[0:34] 1 की
+[0:34] ७ to hire
+[0:35] 1 ५०८
+[0:35 - 0:36] jou to hire soi
+[0:36] ws what thr
+[0:36] doing
+[0:37] aiid
+[0:38] tae
+[0:38 - 0:39] : inows what wh)
+[0:39] Specific exerci:
+[0:41 - 0:43] re what is
+[0:43] eds of this ex
+[0:48] which
+[0:54] ing
+[0:54] hes rather
+[0:56] Lf ८
+[0:57] bog
+[0:57] ‘here:
+[0:58] थे ४३2२ ८
+[0:59] by oe
+[1:00] sae
+[1:00] pee
+[1:00] Poa
+[1:00] aati
+[1:00] ers i
+[1:00] iid
+[1:02] tes
+[1:02] i ss
+[1:02] nost of
+[1:04] enough to thi

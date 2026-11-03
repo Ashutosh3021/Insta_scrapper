@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[539] https://www.instagram.com/reel/DUn61_UE1Au/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Everyone's talking about milk having contamination.
+[0:02 - 0:04] Do you guys know there are bigger problems in the world?
+[0:04 - 0:06] Like there are so many important things in the world
+[0:06 - 0:08] and that is what you're focusing on?
+[0:08 - 0:11] Clevicula got frame mocked by this ASU guy.
+[0:11 - 0:13] Do you believe that?
+[0:13 - 0:14] You see that?
+[0:14 - 0:15] Look at this.
+[0:15 - 0:17] That is absurd.
+[0:17 - 0:18] And you guys are focusing on that milk bullshit?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Everyone's
+[0:00 - 0:01] this trustified'stuff
+[0:00 - 0:01] gotta stop bro”
+[0:02] micro »०५०७००७ Totes
+[0:02] है. जज
+[0:03] wai
+[0:03] Do you gilys kno
+[0:04] bigger problems in
+[0:05] é res
+[0:06] ere are so many
+[0:06] rtant things
+[0:08] focusing
+[0:09] clever
+[0:09] killer got
+[0:10] fra
+[0:10] mocked
+[0:11] Sta
+[0:13] \ SP yor
+[0:14] \ SP ‘ies
+[0:16] thi

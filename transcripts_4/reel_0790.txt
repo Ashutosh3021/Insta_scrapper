@@ -1,0 +1,329 @@
+# model: ggml-large-v3
+========================================================================
+[790] https://www.instagram.com/reel/DNQTI6ABY8F/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] If I hear one more guy say that oh I'm eating 1500 calories or any given amount of calories and I'm still not losing weight
+[0:05 - 0:07] I'm gonna lose my shit
+[0:07 - 0:10] Brother with all due respect you are not eating 1500 calories
+[0:10 - 0:15] Anytime I hear someone say oh I'm eating this amount of calories and I'm still not losing weight
+[0:15 - 0:18] It instantly signals me that there is one a tracking issue
+[0:18 - 0:20] Two you're lying to yourself
+[0:20 - 0:24] At the end of the day it's always gonna be calories in versus calories out
+[0:24 - 0:29] If you're eating 1500 calories and your maintenance is around 2200 calories
+[0:29 - 0:31] You are bound to lose weight
+[0:31 - 0:33] If you're not losing weight guess what
+[0:33 - 0:35] You are not in a deficit
+[0:35 - 0:36] Get yourself a weighing scale
+[0:36 - 0:38] Get yourself a food tracking software
+[0:38 - 0:39] And start tracking your food
+[0:39 - 0:41] And see how the weight drops
+[0:41 - 0:42] Hope that helps
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] awa
+[0:00] a4 S100 kea
+[0:00] % Fug हर
+[0:00] = Mag
+[0:00] 3७ Px
+[0:00] ear 7
+[0:00 - 0:01] and) not
+[0:01] neh कुक
+[0:01] CGN
+[0:01] 01506)
+[0:01] al a
+[0:01] क्र मै
+[0:01] है १
+[0:01] Joh
+[0:01 - 0:03] Init
+[0:02] and
+[0:02] walg
+[0:02] losing
+[0:02] tof
+[0:02] eae
+[0:02] केक
+[0:02] oh'm eating 15
+[0:02] ७१६
+[0:02 - 0:03] kealls
+[0:03] kea
+[0:03] 4 का.
+[0:03] 1102!
+[0:03] Wee > 5
+[0:03] डर sole
+[0:03] a ae
+[0:03] PAs mM
+[0:03] given amo
+[0:04] nan ed
+[0:04] ndtnotilosingweig
+[0:04] rats
+[0:04] Pid
+[0:05] ‘Ee 500
+[0:05] cals
+[0:05] ४7210]
+[0:05] Wand not losing
+[0:05] Ih ay
+[0:05] कै न
+[0:05] fel le
+[0:05] 'm still n
+[0:05] losi
+[0:05] weight»
+[0:06] — ile
+[0:06] RS yal
+[0:06] ats 1
+[0:06] att
+[0:06] nore
+[0:06] ०३३)
+[0:06] ८ प्राँच nna lose my
+[0:07] (ies
+[0:07] श्र
+[0:07] Ape!
+[0:07] ely
+[0:07] mun oe
+[0:07] eS ae
+[0:07] 261
+[0:07] Ere
+[0:08] With all due [४
+[0:09] ats
+[0:09] with
+[0:09] | due respect you
+[0:10] ue — y
+[0:10] x 15 caloties
+[0:11] | hear®
+[0:12] AN 3
+[0:12] af eh
+[0:13] roe
+[0:13] ing this amount
+[0:14] ANG
+[0:14] and r
+[0:15] ABS
+[0:15] Sap Ss
+[0:16] ish)
+[0:16] it { fly 7,
+[0:17] 422
+[0:17] ५7५4६
+[0:17] mat
+[0:17] it instantly ¢ if
+[0:17] the
+[0:17] is-one
+[0:18] ach
+[0:18] iss
+[0:18] a A We
+[0:18] See
+[0:18] Me ed
+[0:18] न tracking issu
+[0:19] hig
+[0:19] Yes:
+[0:19] 9 Be
+[0:19] हैः"
+[0:19] wal
+[0:19] you're
+[0:20] ae 7
+[0:20] ANY
+[0:20] you
+[0:20] Fe lying to 7 f
+[0:21] 2“ थे
+[0:21] ER 22
+[0:21] ‘f2 5
+[0:21] you're ही to yo yh at the
+[0:21] \7 of the day
+[0:22] ike
+[0:22] iss
+[0:22] Pus
+[0:22] Lami 3
+[0:22] ae al)
+[0:22] “it’s ON
+[0:23] हैः
+[0:23] Baas
+[0:23] it's always gonna / calories
+[0:24] fea
+[0:24] 30४]
+[0:24] a tan
+[0:24] |. always gonna be ca Vn
+[0:24] in Ti calories,
+[0:25] “मर i
+[0:25] ap थे
+[0:25] Sale
+[0:25] we cs
+[0:25] 4 Sey
+[0:25] aX NP
+[0:25 - 0:26] if you're ea
+[0:26] Allies
+[0:26] iff
+[0:26] है, 24
+[0:26] tig)
+[0:26] 000
+[0:26] ie Ny
+[0:26] yas
+[0:26] Maa
+[0:27] oi Sa
+[0:27] 5.०४
+[0:27] के ५९
+[0:27] oy hh
+[0:27] bys
+[0:27] Pani
+[0:27] be es
+[0:27] Thee
+[0:27] and your 7 e
+[0:28] छह २.
+[0:28] ५ es
+[0:28] bret
+[0:28] Lae
+[0:28 - 0:29] ahd your maintenance is
+[0:29] rap
+[0:29] है “i i
+[0:29] AF ९
+[0:29] ९४९
+[0:29] Mnf
+[0:29] i FT rn '
+[0:29] NN) d
+[0:29] hd af
+[0:29] Tal
+[0:29] aod
+[0:29] arou
+[0:29] ¥ calories
+[0:30] bound
+[0:30 - 0:31] you a
+[0:31] bell “74
+[0:31] 16.८
+[0:31] Von
+[0:31] (५४१६ ,
+[0:31] Lani
+[0:31] ANe Le
+[0:31] Pye
+[0:31] हैं,
+[0:31] 7 is
+[0:31] Hinge’
+[0:31] 3 ९७
+[0:31] Pave)
+[0:31] bou
+[0:31] to [98० wen \
+[0:32] MeN
+[0:32] के ज्यों
+[0:32] aa Se
+[0:32] was
+[0:32] OF cs
+[0:32] js श्र
+[0:32] vg et
+[0:32] ate
+[0:32] & 2270०
+[0:32] \ losing
+[0:32] eal
+[0:32] 9777
+[0:33] 5 PGR
+[0:33] हू 5: ७००
+[0:33] he We
+[0:33] hat
+[0:34] tee
+[0:34] ow कै
+[0:34] Bree
+[0:34] ssi"
+[0:34] coe
+[0:34] “ony
+[0:34] Nebel
+[0:34] yay
+[0:34 - 0:35] what you are no
+[0:35] 3 - जा
+[0:35] eth
+[0:35] Say
+[0:35] ine
+[0:35] ONS
+[0:35] ie A
+[0:35] oat
+[0:35] है 27
+[0:35] aay:
+[0:35] Rea
+[0:35] oy थी,
+[0:35] ( ler
+[0:35] deficit
+[0:36] ROR
+[0:36] 91 है
+[0:36] esas
+[0:36] Sd ah
+[0:36] Mes aie ft
+[0:36] “ale
+[0:36] हैः]
+[0:36] (2082
+[0:36] m4 4.
+[0:36] 9 yourself a wei
+[0:36] 295
+[0:37] at डे
+[0:37] “phe
+[0:37] » wel
+[0:37] बकरे
+[0:37] 44 BA
+[0:37] Tyga
+[0:37] ees के
+[0:37] cha
+[0:37] ath
+[0:37] roa?
+[0:37] WAY
+[0:37] 49५
+[0:37] rself a
+[0:38] ws of
+[0:38] er gt
+[0:38] end]
+[0:38] and your, ) sy 9५
+[0:38] 4, ala
+[0:38] Neha
+[0:38] pire;
+[0:38] ane 7 ५४०
+[0:38] wae
+[0:38] 9 bay
+[0:38] Vv हर
+[0:38] Wet
+[0:38] tos
+[0:38] नहला
+[0:38] if a food t
+[0:38] ick
+[0:38] software
+[0:38 - 0:39] ' » bodyweight
+[0:38 - 0:39] (takelweeklysaverages)
+[0:39] Pay ५॥ए
+[0:39] ER 6
+[0:39] -and)your
+[0:39] 50" de.
+[0:39] Wy iy
+[0:39] ang Se
+[0:39] and sta
+[0:39] tracking
+[0:39 - 0:40] * ite
+[0:40] wre
+[0:40] ris
+[0:40] 1४४
+[0:40] vith
+[0:40] LAS
+[0:40] mss
+[0:40] Wicig
+[0:40] tae
+[0:40] ak aks
+[0:40] 5 a 5
+[0:40] iweekl
+[0:40] tak
+[0:40] 459
+[0:40] Pei
+[0:40] पर हज
+[0:40] pe है x
+[0:40] “2 पके
+[0:40] १६६
+[0:40] : 4H, fe
+[0:41] Yea
+[0:41] i के ‘
+[0:41] EAN
+[0:41] follow for more
+[0:41] Vis
+[0:41] y id so
+[0:41 - 0:42] read caption \
+[0:42] a रे
+[0:42] 1९६
+[0:42] ५ ३| BA
+[0:42] Yas
+[0:42] २५३.
+[0:42] Sta he
+[0:42] हुक for more
+[0:42] ७ ee
+[0:42] yar
+[0:42] ee hope that
+[0:42] helpful

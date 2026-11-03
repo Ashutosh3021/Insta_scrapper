@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[797] https://www.instagram.com/reel/DNDayFmNWjd/
+STATUS: OK
+DURATION: 0:05   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] हो अंडर वल्ड में जिक्रायारां के नाम का
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Che
+[0:00 - 0:04] when you
+[0:00 - 0:04] ‘ScienceJbasedjlifter
+[0:00 - 0:04] शक २
+[0:00 - 0:05] Iropyset with jhit
+[0:01] dofa’dropiset with |him
+[0:05] when you aska
+[0:05] science
+[0:05] basedjlifter
+[0:05] quire
+[0:05] Vie

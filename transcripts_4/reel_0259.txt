@@ -1,0 +1,118 @@
+# model: ggml-large-v3
+========================================================================
+[259] https://www.instagram.com/reel/DahdBrpM0Zz/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] I don't know who needs to hear this, but rinsing with carbs is not going to fucking work if your blood glucose level is already high.
+[0:06 - 0:13] Before you go to the gym, you have a pre-workout meal 45 minutes prior to the workout and that's fucking loaded with carbs.
+[0:13 - 0:21] You go into the session and the first thing you do is take some carbs and rinse it through your mouth and you are surprised it's not working.
+[0:21 - 0:24] Like, how does it make sense, bro?
+[0:24 - 0:26] Like, make it make sense.
+[0:26 - 0:29] Your blood glucose level is already fucking high.
+[0:29 - 0:32] You already had a pre-workout meal which was properly filling.
+[0:32 - 0:34] How is it going to help you?
+[0:34 - 0:35] It's not helping you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Canbisw
+[0:00] scam 55५
+[0:00] PI AY
+[0:00] Fam
+[0:00] I don't know
+[0:00] oOo,
+[0:00 - 0:01] ISia
+[0:01] | irr,
+[0:01] hear this but
+[0:01 - 0:02] Carb q
+[0:01 - 0:03] scam
+[0:02] Carb G in
+[0:02] 01518
+[0:03] Canbisw
+[0:03] ॥ 015
+[0:03] lie
+[0:03] carbs is not going to
+[0:04] 6 ll
+[0:04] fucking work if
+[0:04 - 0:10] (RAG
+[0:05] IFA
+[0:05] glucose
+[0:06] PLAY
+[0:06] रेट
+[0:06] glucose ya is already
+[0:07] before
+[0:08] hee
+[0:08] जे जी
+[0:08] before you go to the gym
+[0:08] you
+[0:09] have a pre workout
+[0:10] A PLAS
+[0:10] minutes
+[0:11] iad
+[0:11] workout
+[0:12] OFT
+[0:12] Fay
+[0:13 - 0:15] loaded with carbs you go
+[0:14] 4323
+[0:14] MIRAG
+[0:14] into
+[0:14 - 0:17] & PLAY
+[0:15] aoe
+[0:15] into the session and the
+[0:15 - 0:17] {RAG
+[0:16] + + जाए
+[0:16] 17 A PL
+[0:16] first thing you do
+[0:17] 1 11
+[0:17] somé™
+[0:17] भ्ल्‍्््््
+[0:18] 43955
+[0:18] दर wi
+[0:18] some carbs and rinse
+[0:18] a me
+[0:19] क्र
+[0:20] LAY
+[0:20] RAG
+[0:20] you are surprised
+[0:20] ही vem मे
+[0:21] ies
+[0:21] ri a
+[0:21] ial
+[0:21] रैक
+[0:21] PLA
+[0:21] boy
+[0:21] Working?
+[0:22] hs 2
+[0:22] Like
+[0:22] 7, ww
+[0:23] MILRAG
+[0:23] Like how
+[0:24] Like how does it make
+[0:24] sense
+[0:25] Like
+[0:26] bE 4
+[0:26] [RAG
+[0:26] Like make it
+[0:27] हर q
+[0:27] Your blood glucose
+[0:27] FT aioe
+[0:28] Sey
+[0:28] है. आर
+[0:29] already fucking high
+[0:29 - 0:30] [RAG
+[0:30] PLA’
+[0:30] श्र
+[0:30] You already had
+[0:32] 322
+[0:32] meal which was
+[0:32] properly filling
+[0:33] | \icRine
+[0:33] How
+[0:34] Cy oo
+[0:34] How is it going to help
+[0:34] you?
+[0:35] प्र
+[0:35] है डे
+[0:35] It's not helping

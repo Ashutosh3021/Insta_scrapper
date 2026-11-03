@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[330] https://www.instagram.com/reel/DY7lszVMFzP/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I'm still fucking with the Johnny Depp
+[0:02 - 0:04] Turn the beam on and gun you down
+[0:04 - 0:05] Cause I'm out of breath
+[0:05 - 0:06] You caught a B on accident
+[0:06 - 0:07] You was not a threat
+[0:07 - 0:09] I ain't verified on Instagram
+[0:09 - 0:10] But I got a check
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Intra workout
+[0:00] Meta
+[0:03] vas \
+[0:03] Newilntrajwonko
+[0:04] ry 4
+[0:04] workout
+[0:05] New 5 i =
+[0:05] waits
+[0:07] RGD
+[0:08] /\ ipa
+[0:08] ena
+[0:08] ee ie
+[0:08] SCRE
+[0:09] fist
+[0:09] woo
+[0:10] GE वतन
+[0:10] Q2 ~4
+[0:10] SAN
+[0:10] ताज
+[0:11] KEN
+[0:11] ahs
+[0:11] S rok,
+[0:13] 4 as
+[0:14] Pass
+[0:14] > बुर,
+[0:15] 5. 4a
+[0:15] पके
+[0:15] fuss
+[0:15 - 0:16] SAN
+[0:16] mas
+[0:17] EY A
+[0:17] तक मे
+[0:18] a 6 gi
+[0:18] x Ws
+[0:18] ay A *

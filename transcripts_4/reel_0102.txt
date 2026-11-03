@@ -1,0 +1,73 @@
+# model: ggml-large-v3
+========================================================================
+[102] https://www.instagram.com/reel/DdmUWC4s8kI/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] You're gonna feel a little bit
+[0:02 - 0:05] Boom, boom, boom
+[0:05 - 0:08] I can tell you how it's like to have a baby in bed
+[0:08 - 0:11] You're the sunny, you're the tan, you're the step, step, step
+[0:11 - 0:14] I can tell you how it's like to have a baby in bed
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] losesiin Oe mext:
+[0:00 - 0:01] 45\mins
+[0:01] के 75
+[0:01] closes inthe
+[0:02] : bog
+[0:02 - 0:03] What's next?”
+[0:04] EVERY SINGI
+[0:04] Lyre ™
+[0:04] mie!
+[0:04] Ly in
+[0:04] wi ts,
+[0:04 - 0:05] | UGH
+[0:04 - 0:05] Pu. of the-usual
+[0:04 - 0:06] THE P# i!
+[0:04 - 0:06] 1 set.ofiall exercises = -
+[0:05] nusu ue
+[0:05] EVERY डाप्रढा
+[0:05] THE PA jl
+[0:05] है ap
+[0:05] a iY
+[0:05] wi Ve,
+[0:06] EVERY S Gl “
+[0:06] Lal
+[0:06] Ths
+[0:06] At 11
+[0:06] Instead of the-usual > .—
+[0:06] ). wal
+[0:07] Wes |
+[0:07] il i
+[0:07] ipie
+[0:07] 71% शऋष
+[0:07] ile
+[0:07 - 0:08] Session:¢
+[0:07 - 0:09] gar SLEEP
+[0:08] om i ensue 5
+[0:08] lay
+[0:08] 17 hay
+[0:09] tim
+[0:09] sibette
+[0:09] pin n
+[0:09] stimulu
+[0:09] न fy
+[0:10] eS AT. LEP
+[0:10] a के
+[0:10] Ps 6
+[0:10] _ lit
+[0:11] हू) ५
+[0:11 - 0:14] ड़ “Got a upper pec pumplas
+[0:11 - 0:14] Well
+[0:12] जज 1
+[0:12] aol , SAS
+[0:13] "है Sie -- हे
+[0:13] Piel
+[0:14] i ys
+[0:14] aly
+[0:14] "यार |
+[0:14] कफ -च्च्ल
+[0:14] ॒ाााााााााााओं ८

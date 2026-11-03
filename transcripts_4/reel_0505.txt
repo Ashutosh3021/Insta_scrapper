@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[505] https://www.instagram.com/reel/DVG7zfRDBEB/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I don't know who needs to hear this, but do not, do not use sterile water for your peptides.
+[0:05 - 0:09] Sterile water is not supposed to be used more than 24 hours.
+[0:09 - 0:15] If you're going to be using any kind of reconstitution water, make sure it's bacteriostatic water.
+[0:15 - 0:17] Alright? Anyways, hope that helps. Have a good one.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Peptide mistake
+[0:01] Peptide —_—
+[0:01] jear this
+[0:02] ir this but do not, |
+[0:05] your y
+[0:11] using any kind of
+[0:11] ‘econstitution
+[0:14] कक bacterial static
+[0:16] yways:

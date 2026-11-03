@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[761] https://www.instagram.com/reel/DOY2n6JDFHk/
+STATUS: OK
+DURATION: 1:04   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] so i'm gonna try and run five kilometers without any practice and i'm gonna see
+[0:03 - 0:06] how much time it takes for me to run five kilometers i'm gonna be using my
+[0:06 - 0:09] apple watch to measure all the metrics which i need to measure
+[0:09 - 0:16] so yeah let's see how much i can run i am two minutes in my quads are burning
+[0:16 - 0:21] my lower back's burning the amount of muscle damage i'm gonna get
+[0:21 - 0:27] is so not optimal officially done with one kilometer it took me eight minutes
+[0:27 - 0:32] to do one kilometer all right i'm done with 2.9 kilometers
+[0:32 - 0:35] i have a friend with me here he's gonna help me finish this three
+[0:35 - 0:39] kilometers i've been running for 32 minutes straight
+[0:39 - 0:45] my current heart rate is at 170. this is crazy we have one more kilometer
+[0:45 - 0:48] left one more kilometers i'm currently done
+[0:48 - 0:52] with 32 minutes i've been running for 32
+[0:52 - 0:57] minutes straight my current heart rate is at 170.
+[0:57 - 1:02] this is crazy five kilometers done it took me 40 minutes to complete five
+[1:02 - 1:06] kilometers that is crazy
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:05] Holy cardio
+[0:13 - 0:17] Hope that helps
+[0:13 - 0:17] follow for more
+[0:23] a i 1
+[0:31] he ae
+[0:35] “aff
+[1:03] ove
+[1:03] <seamey
+[1:03] e959
+[1:03] aint
+[1:03] Semcon
+[1:03] once
+[1:03] wena Te
+[1:03] xaos
+[1:03] Wake
+[1:03] Poet
+[1:03] great
+[1:03] 7581७
+[1:03] हिल कल
+[1:03] Sow re
+[1:03 - 1:04] ows
+[1:03 - 1:04] Workout Details
+[1:03 - 1:04] (0:40:10
+[1:03 - 1:04] 50469
+[1:03 - 1:04] pera ones
+[1:03 - 1:04] genres
+[1:03 - 1:04] 1840
+[1:03 - 1:04] 18390
+[1:03 - 1:04] ‘Spits
+[1:04] ose
+[1:04] on Te
+[1:04] nee
+[1:04] etc
+[1:04] fea
+[1:04] Weak
+[1:04] gover
+[1:04] ent ae
+[1:04] 75804
+[1:04] ह Han

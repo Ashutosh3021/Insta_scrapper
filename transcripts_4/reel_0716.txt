@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[716] https://www.instagram.com/reel/DP5grPPDDy3/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Cause she can't arrest me
+[0:01 - 0:05] Walk up with my toolie where they do
+[0:05 - 0:08] Meet me in the alley with the troops
+[0:08 - 0:11] I got red shoes, I got blue
+[0:11 - 0:13] Let that thing go
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 1200 ke ie 61
+[0:00 - 0:02] aap
+[0:01] 00k ec कि।
+[0:01] awe
+[0:01] 11 4
+[0:01 - 0:02] Week 5
+[0:02] oon care
+[0:02] a he oh 44% 4
+[0:03] eet
+[0:03] fae
+[0:03] +« &4+ ह की किक 4
+[0:03] ay कि
+[0:04] erty
+[0:04] p20
+[0:04] क्र 5
+[0:04] peuees 2 कि+-
+[0:04 - 0:06] 1200 kcal'deficit
+[0:05] = आशा
+[0:05] ke ee के
+[0:05] न id
+[0:06] ree
+[0:06 - 0:10] Week 5
+[0:07] eb es
+[0:07] पक्ष
+[0:07 - 0:10] rr 1200 keal deficit
+[0:08] बा का.
+[0:09] INS
+[0:10] — चन्‍
+[0:10 - 0:12] ape
+[0:11] = Girl

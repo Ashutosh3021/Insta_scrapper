@@ -1,0 +1,125 @@
+# model: ggml-large-v3
+========================================================================
+[337] https://www.instagram.com/reel/DYzrkZiMIvY/
+STATUS: OK
+DURATION: 0:34   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] Here she comes walking down the street
+[0:13 - 0:18] Maddie Klein and her fabulous loving machine
+[0:18 - 0:23] In the place where I used to be
+[0:23 - 0:27] He almost looks like a human being
+[0:30 - 0:34] Here she comes walking down the street
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ima
+[0:00] ic letting q kngw, 3
+[0:01] ic t lett i. ki
+[0:01] १22
+[0:02] ndow
+[0:02] Exists
+[0:03] ot for/protel
+[0:05] uses
+[0:06] When y
+[0:06] eidol
+[0:06] Wor
+[0:06] (out
+[0:07] itnans|
+[0:07] incre:
+[0:07] सत्र
+[0:08] Nsom
+[0:08] ithe increase in/p
+[0:08] Lit
+[0:08 - 0:12] = ‘transporters imi
+[0:09] a आर
+[0:09] baseline:
+[0:10] प्र?
+[0:10] The Ga.
+[0:10] 10९
+[0:10] गा 8|/8188
+[0:10] eXENCISe
+[0:10 - 0:11] ae —EEE
+[0:11] he upregu!
+[0:11] nsporters immediately,
+[0:11 - 0:12] exe!
+[0:12] pregulationio
+[0:12] late
+[0:12] wee ——EEEEEEE
+[0:13] indow, जे ‘opportu
+[0:13] takefadvani
+[0:13 - 0:14] f the) rot abilityy
+[0:13 - 0:15] provid
+[0:13 - 0:15] luptakelgiticose
+[0:14] ido}
+[0:14] wy \. ‘opportu i
+[0:14] takelady.
+[0:14] stojlptakelglucose
+[0:14] Wid
+[0:15] take!
+[0:15] of the)muscl
+[0:15] ability
+[0:15] जात
+[0:16] ind optimally reple
+[0:16 - 0:18] Glycogen store
+[0:17] aaor
+[0:17] “| Qptimally x |
+[0:17] हे store
+[0:18] eS हि nisin
+[0:19] USC
+[0:19] > Esl
+[0:19 - 0:20] ageoptimal fom
+[0:19 - 0:21] high
+[0:19 - 0:21] giyeag
+[0:20] “Yio
+[0:20] q ri
+[0:20] high ig
+[0:20] indextcarbs
+[0:20] ane
+[0:20] ahi
+[0:20] muse)
+[0:20] SIS
+[0:20] Temas
+[0:21] are)
+[0:21] sal
+[0:22] ral
+[0:22] her a) emic)
+[0:22] ‘produ
+[0:22 - 0:23] yihave'bee
+[0:22 - 0:24] besponse if log
+[0:23] ake
+[0:23] ‘as they
+[0:23] nod
+[0:23] fnigher insulinemic
+[0:23] response tl श्र 1.
+[0:23] pee
+[0:24] जा जज
+[0:24] 0॥068 higher | 811९
+[0:24] aad
+[0:25] — _ धिक
+[0:25] 10 11606 1100
+[0:25] !011'8118 ९180
+[0:25] ताक
+[0:25] aor है
+[0:25 - 0:27] (Maintenance) is
+[0:26] _ जज i
+[0:26] may not make'a big
+[0:26] ou’ re inalwel
+[0:26] mee) f
+[0:27] Milhis may not makeraloig lifer
+[0:27] oureina
+[0:27] ed st
+[0:27] pee f
+[0:28] ouire und tet
+[0:28] है. ४
+[0:28] 1 श्र्ट
+[0:29] > s "a Te
+[0:30] his
+[0:30] ing
+[0:31] oe =A
+[0:31] Do this
+[0:32] wuld al
+[0:32] ith
+[0:33] Eee
+[0:33] a for nel
+[0:34] ollow for a

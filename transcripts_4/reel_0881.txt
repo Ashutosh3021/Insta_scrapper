@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[881] https://www.instagram.com/reel/DJmGwEHM3ks/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: pt
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] E o pedido veio do brabo
+[0:02 - 0:05] Vem do talibã
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:02] Aseat belt
+[0:04] 120
+[0:06] Cos
+[0:06] You're, 1०३ 4 ‘
+[0:06] motortinitrétruit
+[0:06] utenti
+[0:06 - 0:07] Maximizing
+[0:07] 1822
+[0:07] You're not
+[0:07] motonGnitrétruitMention है
+[0:09] ies
+[0:09 - 0:12] Vi Which means less mulscls fibe
+[0:09 - 0:12] Are going to’experience *
+[0:09 - 0:12] Active Mechanicaltension))
+[0:10] aaa
+[0:10 - 0:12] sion
+[0:11] 1 il
+[0:13 - 0:16] Method
+[0:13 - 0:17] athisjis your sign.)
+[0:13 - 0:17] Jo tapiinto the seatbelts
+[0:16] Follows
+[0:16] «515 your sign
+[0:17] Follow,for

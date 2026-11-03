@@ -1,0 +1,193 @@
+# model: ggml-large-v3
+========================================================================
+[544] https://www.instagram.com/reel/DUi4l-ujO0u/
+STATUS: OK
+DURATION: 0:50   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] Thank you.
+[0:30 - 0:49] Thank you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] hon
+[0:01] Just le
+[0:01] istics know,
+[0:02] faking Ret
+[0:02] esn.t mean.youwon
+[0:02] Ell
+[0:02 - 0:03] |) weight back ‘
+[0:03] tae
+[0:03] esn.t mean,
+[0:03] rather gai
+[0:03] age
+[0:04] stopping ८ fl
+[0:04] की 0
+[0:04] regained two-
+[0:04] oftheir,
+[0:04] ior weight loss’
+[0:05] be सशब:
+[0:05] of.g|
+[0:05] ipantsjregain
+[0:05] two-th
+[0:05] nds:
+[0:05] ht los:
+[0:05 - 0:06] . stopping th
+[0:06] 960
+[0:06] 4 ined two-thind
+[0:06] heir, ॥०१ loss
+[0:07] glpzis-an,
+[0:11] cima
+[0:11 - 0:12] using'sometl ing
+[0:12] elp
+[0:12] fatlos:
+[0:12] हाय
+[0:13 - 0:14] SOME.
+[0:13 - 0:14] ig on thedru sea
+[0:13 - 0:14] ma = o most rg
+[0:14] iE hel
+[0:14] 4 हे.
+[0:15] hime frat
+[0:15] their:
+[0:15] है| i
+[0:15 - 0:16] done by us andithereiis io ea
+[0:15 - 0:17] heavy:
+[0:15 - 0:17] littleihelp whi
+[0:15 - 0:17] ॥ was.used tr
+[0:16] 03110
+[0:16] yer want लकी
+[0:16] है| t
+[0:16 - 0:17] thedru
+[0:17] ueivent ese akesure
+[0:17] 05100
+[0:17] wwe
+[0:17] cote
+[0:17] e by us and'thereiis; io on
+[0:18] 100 लक
+[0:18] ut allifestyleinten
+[0:18] always‘a'higher
+[0:18] की ‘ebound
+[0:18] egainl|
+[0:18] हे fica
+[0:19] people ae
+[0:19] ithg|
+[0:19] i: houtallifestyl
+[0:19] 'highe!
+[0:19] (of(rebound ai
+[0:19] rega
+[0:19] icy
+[0:19 - 0:20] ithene.is alwaysia
+[0:20] Swhi
+[0:20] zp 10 हि dietwith’g!
+[0:20] it ut
+[0:20] festyleintenve
+[0:20] her chai
+[0:20] (of (rebound and'regain
+[0:20] fic
+[0:21] च्ू
+[0:21] W lessis m पर ink
+[0:21] f view,
+[0:21 - 0:22] long term point
+[0:22] ny, is mo
+[0:23] Wes is more in’
+[0:23] Wong term p
+[0:24] nhy ido ee
+[0:24] A in)
+[0:24] ith the dose’escalat
+[0:24] e\research
+[0:24] on a th
+[0:24] 0-15
+[0:25] ५16 ० लक
+[0:25] ee. with the
+[0:25] 15968]
+[0:25] lation
+[0:25] neibythe re
+[0:25] searchel
+[0:26] hy ido
+[0:26] e.with tte dose
+[0:26] 2 escalation
+[0:26] ine\by the'researchers on
+[0:26] glp-1: पा
+[0:27] tbe esi
+[0:27] Bait
+[0:27] h week you'r
+[0:27 - 0:28] lated
+[0:28] aK S\
+[0:28] ep: हैँ
+[0:28] uldnit be
+[0:28] onding
+[0:28] to which wel
+[0:29] iiidn't be escalated
+[0:29] }eCal
+[0:29] ‘only:the food'noise is incnea:
+[0:30] yay)
+[0:30] प्र
+[0:30] fai
+[0:30] ba the food
+[0:30] ist
+[0:30] easingigs
+[0:30 - 0:34] idosing'shouldn't be
+[0:31 - 0:33] ause only thejappetite suppressic
+[0:31 - 0:33] |} fas decréased +
+[0:32] RESSiONIh
+[0:33] SIN
+[0:33] jouldnit:
+[0:34] increased
+[0:34] ed Yi
+[0:34 - 0:36] ecause onlyithe target net la
+[0:34 - 0:36] »\was not achieved
+[0:35] gsing jouldn’t be:
+[0:35] use only the
+[0:35] et net loss)
+[0:35] she
+[0:36] uldn’
+[0:36] bei
+[0:36] int
+[0:36] nease
+[0:37] appetite suppression
+[0:37] mot
+[0:37] ६.12: ००09 नह
+[0:37] dal
+[0:37 - 0:38] its|
+[0:37 - 0:38] hould co
+[0:37 - 0:38] iden
+[0:37 - 0:38] allifo
+[0:37 - 0:38] it the same
+[0:37 - 0:39] | 3+ target net los:
+[0:37 - 0:39] | 4;adherence
+[0:38] Col
+[0:38] Eappetite su
+[0:38] ESSION!
+[0:38] 011॥
+[0:38 - 0:39] “2- food 0
+[0:39] it should cha ns!
+[0:39] jetite su
+[0:39] i ज्का.
+[0:39] allfour at th
+[0:39] diva
+[0:40] a hi |
+[0:40] is not logical
+[0:40 - 0:43] mnly m
+[0:41] isnotlo siti
+[0:41] afi
+[0:42 - 0:43] til is not lol
+[0:44] ted deci
+[0:44] é. mpl
+[0:44] din
+[0:44] tyle inter
+[0:44] id shi
+[0:44] ubetter r
+[0:45] val
+[0:45] ited decisit
+[0:45] ilifetyle intervattio
+[0:45] tter है) [|
+[0:45 - 0:46] ding ali
+[0:45 - 0:46] would result,
+[0:46] (0 decisi
+[0:46] interve pee
+[0:46] tter “Th
+[0:47] | क्र
+[0:47] ay s!
+[0:47 - 0:49] follow:for mane
+[0:49] I) es
+[0:49] 1 af

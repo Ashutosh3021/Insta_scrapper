@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[697] https://www.instagram.com/reel/DQZEC9Tk8en/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] How doi iknow iffilhray
+[0:00 - 0:02] good genetics
+[0:01] Yat
+[0:03 - 0:04] K; ce
+[0:05] flow
+[0:05] doi
+[0:05] weal fig:
+[0:05] ponseltajgea
+[0:05 - 0:07] Raghu
+[0:06] how do
+[0:06] pons ito)
+[0:06] Se — = ee
+[0:07] 100 00॥
+[0:07] my response)
+[0:07] gear?
+[0:07] Qu nN
+[0:07] ne ee ne
+[0:08 - 0:09] willitell
+[0:10] all
+[0:10 - 0:12] Raghu
+[0:10 - 0:12] How much musele
+[0:10 - 0:12] canigainina years.
+[0:13 - 0:14] fll
+[0:15 - 0:16] willjtell

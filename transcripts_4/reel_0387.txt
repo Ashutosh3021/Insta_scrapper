@@ -1,0 +1,126 @@
+# model: ggml-large-v3
+========================================================================
+[387] https://www.instagram.com/reel/DXpI-ZlDI-v/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] i don't know who needs to hear this but if you're trying to quit smoking the best thing which you
+[0:03 - 0:07] can do is gradually reduce the amount of cigarettes which you're smoking till the point where you're
+[0:07 - 0:12] completely off of it it's something without what i've said if i didn't know what i was talking
+[0:12 - 0:18] about what you should be doing is stop completely time and time and time and time again we see it
+[0:18 - 0:24] on research that quitting abruptly is better than gradually reducing the amount of cigarettes which
+[0:24 - 0:29] you're smoking yes you are going to get withdrawals i am not saying that you're not going to get
+[0:29 - 0:34] withdrawals but they are going to last for only 14 days they are not going to last for a longer
+[0:34 - 0:38] period of time they are going to last for a decent period of time and then the withdrawals are going
+[0:38 - 0:42] to be gone the best thing which you can do is stop now stop smoking
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Wit
+[0:00] we know
+[0:01] y witorguitssmokin
+[0:01] i who need:
+[0:02] है ०1]
+[0:02] ing?
+[0:02] Ge tt
+[0:03] mee
+[0:03] cee
+[0:04] sit ’
+[0:05] Cos
+[0:05] 0३०८
+[0:06] it 3
+[0:07] stir.
+[0:07] ait
+[0:08] vL YF
+[0:08] Dass
+[0:08] eer areyy
+[0:08] ately off
+[0:09] Feomy
+[0:09] Stely off of
+[0:09] aot
+[0:09] iy a
+[0:09] 22283
+[0:10] pon
+[0:10] a“ a: mething said yf
+[0:12] ee 4
+[0:12] ee kn
+[0:12] abou
+[0:12] TAN
+[0:12 - 0:13] fhat | was talking)
+[0:13] p\ है
+[0:13] vty
+[0:13] oe should!
+[0:14] STOR
+[0:14] mtr
+[0:14 - 0:16] P coinglis stop completely,
+[0:15] SUP COMPLETELY i
+[0:15] Jel
+[0:16] Ametaanalyssof
+[0:16] tiveness
+[0:16] cessation
+[0:16] of gradual versus abrupt smoking
+[0:16] ४४५
+[0:16] itimeland time.
+[0:16] की जम |
+[0:16] jie
+[0:17] cae
+[0:17] rade:
+[0:17] ing
+[0:17] ttle Noniferi
+[0:17] ‘auth
+[0:17] time!
+[0:17] ‘and
+[0:17] iow,
+[0:17 - 0:19] i tie
+[0:19] क्र
+[0:20] UAB ० quit
+[0:20] abnul
+[0:20] 222
+[0:21] है that quitting कं
+[0:21] 9109815 better.
+[0:22] 419
+[0:23] gi कपः reducing 7
+[0:23] ३५ ee
+[0:26] की रे
+[0:26] * लीं
+[0:26] Ke 5००० छा
+[0:27] ats
+[0:27] Yes, you are going t
+[0:27] ‘get withdrawals.
+[0:29] ein’
+[0:29] Lal
+[0:29] with
+[0:29] goingtoget की.
+[0:30] eal
+[0:30] ge to
+[0:31] बी ae
+[0:32] बीए)
+[0:32] How. y [0109 09900 080
+[0:32] Lon J
+[0:32] aor
+[0:32 - 0:34] Onlongey
+[0:33] inch
+[0:33] Howlong)yauy
+[0:33] eendaingitnary
+[0:33] गली
+[0:34] fl है
+[0:34] «ह eke?
+[0:35] Theylar
+[0:36] Dir
+[0:36] Be: goingtolast «
+[0:36] fot
+[0:36] lecent period’:
+[0:36] 0८०7
+[0:38] Hla
+[0:40] ie which you
+[0:40] 292.
+[0:40] thy
+[0:41] ee. hd Bn
+[0:41] you
+[0:41] icando
+[0:41] pees”
+[0:42] moking
+[0:42] Sete
+[0:43] Lae
+[0:43] ‘smoking of the:

@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[437] https://www.instagram.com/reel/DWoPq53DJug/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] Yeah. Pull back. Up. Fuck. Holy shit. Holy shit. Crazy. Crazy. Look at the details, bro. Look at the details. Insane.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] oe a
+[0:00] SS 7
+[0:00] 10५ |
+[0:01] ack |
+[0:02] बडे
+[0:02] श्र
+[0:03] i fon
+[0:03] ८४८
+[0:04] awe
+[0:05] sas
+[0:05 - 0:08] shit
+[0:05 - 0:12] प्र
+[0:06] i o7—
+[0:08] Paes
+[0:09] ५६5
+[0:09] ८4५
+[0:10] श्र
+[0:11] Fat
+[0:11] aaa
+[0:11] ok at
+[0:11] detai
+[0:12] 0016
+[0:12] e det

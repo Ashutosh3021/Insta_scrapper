@@ -1,0 +1,280 @@
+# model: ggml-large-v3
+========================================================================
+[359] https://www.instagram.com/reel/DYIA6_bMH_g/
+STATUS: OK
+DURATION: 0:41   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] So don't stop me now
+[0:03 - 0:07] Don't stop me
+[0:07 - 0:09] Cause I'm having a good time
+[0:09 - 0:10] Having a good time
+[0:10 - 0:11] I'm a shooting star
+[0:11 - 0:13] Moving through the sky
+[0:13 - 0:14] Like a tiger
+[0:14 - 0:17] Defying the laws of gravity
+[0:17 - 0:19] I'm a racing car
+[0:19 - 0:20] Passing by
+[0:20 - 0:22] Like Lady Godiva
+[0:22 - 0:24] I'm gonna go, go, go
+[0:24 - 0:26] There's no stopping me
+[0:26 - 0:30] I'm running through the sky
+[0:30 - 0:32] 200 degrees
+[0:32 - 0:34] That's why they call me Mr. Fahrenheit
+[0:34 - 0:38] I'm traveling at the speed of light
+[0:38 - 0:40] I wanna make a supersonic man out of you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] an {Saal yal know
+[0:00] aie
+[0:01] १5222:
+[0:01] Scan
+[0:01] q rling.
+[0:01] r. ies
+[0:02] 7 ia
+[0:02] bill
+[0:02] tea
+[0:02] | recovery
+[0:02] हैः
+[0:02] r. = ges
+[0:03] Sol
+[0:03] heedit fr
+[0:03] tet
+[0:03] SEE |
+[0:04] lle
+[0:04] You don
+[0:04 - 0:05] edit-
+[0:05] wee id
+[0:06] Pid ST
+[0:06] are: We
+[0:06] llemto
+[0:06] ४6५९
+[0:06 - 0:07] 1 aid!
+[0:07] - a थे
+[0:07] aie!
+[0:07] | Why hewwelusing
+[0:07] formr
+[0:07] recoveny”
+[0:07] Nea
+[0:07] foe
+[0:07] 7. लाला.
+[0:08] Vad!
+[0:08] ९1000
+[0:08] 171
+[0:08] ingjpnogr
+[0:08] Care ofiit
+[0:08] ij J
+[0:09] 2०७
+[0:09] onan
+[0:09] nyo
+[0:09] cha
+[0:09] des.ean t
+[0:09] ake care at
+[0:09] tay
+[0:09] Deseret
+[0:09 - 0:10] When
+[0:10] eas
+[0:10] yOu
+[0:10] ion “dl yle
+[0:10] och
+[0:10] ake c
+[0:10] pest
+[0:11] Was)
+[0:11] ine
+[0:11] faim
+[0:11] agical
+[0:11] | 10॥8॥ you reco
+[0:11] VER
+[0:12] ae le
+[0:12] Aes
+[0:12] fe Youd
+[0:12] need’amagical
+[0:12] Toolt
+[0:12] elp you recover
+[0:12] mS J
+[0:12] ald
+[0:12 - 0:13] Vaid!
+[0:13] Yop
+[0:13] tensa
+[0:13] BR s younob
+[0:13] f your'training program
+[0:14] ‘lcm
+[0:14] १३7
+[0:14] pac: your. jo
+[0:14] yOu
+[0:14] rffraining pro
+[0:15] T to
+[0:15] f you need to
+[0:15] है toaid aes By
+[0:16] faa
+[0:16] ४1 RECHECK YOUR‘TRAININ
+[0:16] ही बम
+[0:17] a सॉज्िछ
+[0:17] श्छ
+[0:17] ECK YOUR T
+[0:17] ace PRO
+[0:17] aaa)
+[0:18] कस दि
+[0:18] ntevidencejtowa
+[0:18] rds
+[0:18] ingipe
+[0:18] rfonm
+[0:18] lan
+[0:18] प्र
+[0:18 - 0:19] urren
+[0:18 - 0:20] 0] rovement
+[0:19] Yon
+[0:19] iden
+[0:19] ‘Res
+[0:19] aining,perfonman
+[0:19] th 5७
+[0:19 - 0:20] towards
+[0:20] Yay
+[0:20] 1.५8
+[0:20] Resis
+[0:20] mance
+[0:20] aining
+[0:21] 5 WEAK |
+[0:21] rye
+[0:21] SUMP PERFORMANCE
+[0:21] Harmful tect
+[0:21] Beneficial eect
+[0:21] ES ७४%०॥
+[0:21] Weight
+[0:21] nd Gili, 2017 (poston)
+[0:21] 002 (081,065)
+[0:21] wan
+[0:21] inet al 2017 (poet)
+[0:21] 028 (098,042)
+[0:21] 243%
+[0:21] ame
+[0:21] 017 (048,081)
+[0:21] scdonal
+[0:21] aoe
+[0:21] 036 (4s
+[0:21] (Gost
+[0:21] Py न
+[0:21] (posta n)
+[0:21] 018
+[0:21] 70, 1.08)
+[0:21] 152%
+[0:21] Overal, 20.65
+[0:21] co a ii, 201
+[0:21] 0.4 (०७
+[0:21] Macdonald
+[0:21] (posa8n)
+[0:21] (pos 48m)
+[0:21] Overall, px 0.27
+[0:21] 025 (039,070)
+[0:21] co a ७॥६ 2017
+[0:21] 1004 (087,059)
+[0:21] id ot,
+[0:21] 044 (050,138)
+[0:21] 000 (084,084
+[0:21] ses
+[0:21] over
+[0:21] 008 (037,052)
+[0:21] Aico and ii, 2017
+[0:21] (post 96m)
+[0:21] wea
+[0:21] vera, 20:72
+[0:21] 008 (028,081) =I %
+[0:21] (समा
+[0:21] क्र”
+[0:21 - 0:22] 008 (028,04
+[0:22] IS WEAK |
+[0:22] Aid
+[0:22] sxc
+[0:22] man
+[0:22] 28,042) 24a)
+[0:22] rat
+[0:22] 08 ६०.
+[0:22] oa ED
+[0:22] Pvaluelof ee
+[0:22] Z— अुझममा-
+[0:23] 7Arecr
+[0:23] eational add
+[0:23] me goer
+[0:23] ‘la née
+[0:23] av we,
+[0:24] creat
+[0:24] ‘ional aud
+[0:24] Gym
+[0:24] ५ /< née
+[0:24] Cae
+[0:24] —y ०4
+[0:24 - 0:25] ‘Like}this
+[0:25] 1८5
+[0:25] a dig
+[0:25] Caettional dl
+[0:25] Gymigoer may la n
+[0:25] tite
+[0:26] 'काछ
+[0:26] Sf, ॥ 8985
+[0:26] pil!
+[0:27] Via
+[0:27] गजल Sh _|
+[0:27] ee Za
+[0:27] ~ “ltreduce
+[0:27] pel
+[0:27] (शान है
+[0:28] aia
+[0:28] वक्ष
+[0:28 - 0:29] Anindicator of recovery,
+[0:28 - 0:30] sore ness is.noteie
+[0:29] diet
+[0:29] wal ahs
+[0:29] 688181011॥॥5
+[0:29] mel
+[0:30] 335: अत
+[0:30] 2006 2 i
+[0:30] the
+[0:30] iigdi¢ator of reco
+[0:30] vel
+[0:30] Naa
+[0:30] ome
+[0:30] pent
+[0:30] fret
+[0:31] किन लक
+[0:31] Iryoulwant-to.user
+[0:31] aul Ned
+[0:31] acd
+[0:31] Nan
+[0:31 - 0:32] ~— Increase ROM ~~~
+[0:32] aie
+[0:32] किन
+[0:32] Iryoulwan
+[0:32] t-tOUSe.to
+[0:32] in र
+[0:32] ffi
+[0:32] INS
+[0:32] SAS
+[0:32] Bx {iN
+[0:33] fab
+[0:33] my guest
+[0:33 - 0:35] क्र
+[0:34] ya बैक my guest
+[0:34] sae
+[0:35] a ee
+[0:35] But this ise
+[0:35] helping 1४"
+[0:35] eres TES,
+[0:35] vam.
+[0:35 - 0:36] Recover
+[0:35 - 0:36] faster
+[0:36] x res
+[0:36] Bucaasisme
+[0:36] Snot
+[0:36] elpin
+[0:36] tate
+[0:36] pat
+[0:36] yam
+[0:37] But this 177
+[0:37] Recover faster
+[0:37] helping) ou
+[0:37] bili
+[0:37] eet SF »
+[0:37] Aid
+[0:38] (0॥00/10111101'6|
+[0:39 - 0:40] Followifonimore

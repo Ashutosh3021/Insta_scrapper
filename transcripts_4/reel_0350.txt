@@ -1,0 +1,140 @@
+# model: ggml-large-v3
+========================================================================
+[350] https://www.instagram.com/reel/DYXNhVMsl-7/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:23] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] be ne 77 टणा
+[0:00] fax |
+[0:00] i Justlett igs You know, oe
+[0:00] “gla
+[0:01] ih’ ey
+[0:01] from fat
+[0:01 - 0:02] A calorie surplus coming
+[0:03 - 0:04] carbs
+[0:04] otthe yo a Sunplusyinom
+[0:05] cat
+[0:05] When)
+[0:05] ple arejputin
+[0:05] ote lorie ape
+[0:05] Wie
+[0:05] rE 2
+[0:06] _ gia
+[0:06] eareput
+[0:06] iin
+[0:06] SY lh
+[0:06] alorie surplus
+[0:06] A Es
+[0:07] They,puton o body, [at
+[0:07] ‘When the'surplus comes fromifat
+[0:07] Lean
+[0:07] subjects
+[0:07] Carbohydrate overfeeding
+[0:07] ABody fat (%)
+[0:07] 0.69 + 0.62
+[0:07] 1.09 + 0.49
+[0:07] PEE. |
+[0:07] AFat-free mass (kg)
+[0:07] 1७% 052
+[0:07] Fo ning, ae PA
+[0:07] 0.93 + 0.28
+[0:07] 1.21 + 0.29
+[0:07] 1.10 + 0.25
+[0:07] res
+[0:07 - 0:10] RSG Fat overfeeding
+[0:08] 4५ Ae -And. ise हि
+[0:08] जिले
+[0:08] dda
+[0:08] Poel
+[0:08 - 0:09] adil
+[0:08 - 0:09] Comes trom canbs
+[0:08 - 0:09] © CHO Overfeeding
+[0:08 - 0:09] Day
+[0:09] © andless fatutien
+[0:09] elsunplus
+[0:09] Pon)
+[0:10] RNY cio overteeding
+[0:10] ५१०४
+[0:10] RxD
+[0:10] ५९५४
+[0:10] ९००,
+[0:10] isons
+[0:10] ०९९
+[0:10] seen
+[0:10] ४९०१
+[0:10] RRS
+[0:10] vote
+[0:10] Nil (day 0) is shown for each overfeeding period in 16 male subjects.
+[0:10] FIGURE 2. The increase in total daily energy expenditure above
+[0:10] me from carbs th
+[0:10] 17१
+[0:10] iture
+[0:10] NG #7
+[0:10 - 0:11] 1500
+[0:10 - 0:11] 1200
+[0:10 - 0:11] = 900
+[0:10 - 0:11] 600
+[0:10 - 0:11] 300
+[0:10 - 0:11] Day 1 Day 7 Day 14
+[0:10 - 0:11] En SUN)
+[0:10 - 0:11] Was, anincrease In energy
+[0:11] —— यो) 4 जा
+[0:11] RNY cro
+[0:11] feeding
+[0:11] BSH Fat
+[0:11] FIGURE 2. The increase in tot:
+[0:11] enditure above
+[0:11] baseline (day 0) is shown for
+[0:11] ig Ps
+[0:11] 16 mi
+[0:11] trom carbs there
+[0:11] Expend
+[0:12] Maki
+[0:12] FEU
+[0:12 - 0:13] Excess ofibothlis going
+[0:12 - 0:13] Oulfat
+[0:13] Make
+[0:13] MDS |
+[0:14] calorie
+[0:14] romat
+[0:14] ‘surplus
+[0:14] coming from
+[0:14] Willimakewou
+[0:14] fata
+[0:14] ath
+[0:15] m-fat—
+[0:15] sA\calorieisurplus-coming,tror
+[0:15] hl makeyourfatfa क्र fatwast
+[0:15] ter
+[0:15] ows
+[0:15] ता. rs
+[0:16] Than
+[0:16 - 0:17] 4 Ta carbs
+[0:17] Than aycalorie |
+[0:17] rk 4
+[0:17] है 4,
+[0:18] Carbsidon
+[0:18] हे yous
+[0:18] fast
+[0:18] r alt
+[0:18 - 0:20] Imlessence
+[0:19] Ke छत
+[0:19] Infeéssence
+[0:19] artisdo
+[0:19] cal
+[0:19] सा ee हि
+[0:20] Se ८-८! फ्रर
+[0:20] don
+[0:20] ke you-fia
+[0:20] tfas
+[0:20] Lad
+[0:21] fee
+[0:21] mates: 1a 4
+[0:21] श्र \
+[0:21 - 0:22] M ore fa
+[0:22] Makes youlf

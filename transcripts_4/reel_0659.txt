@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[659] https://www.instagram.com/reel/DRNKdj_DJg3/
+STATUS: OK
+DURATION: 0:57   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Today I woke up feeling absolutely zero motivation, zero drive, nothing.
+[0:04 - 0:07] And if you're someone who's watching this, you might also feel that way sometimes.
+[0:07 - 0:12] And this might be weird hearing this, but your feelings are the last thing you should listen to.
+[0:12 - 0:17] You see, I felt like shit today. I didn't want to work, I didn't want to train, I didn't want to do anything at all.
+[0:17 - 0:21] But I still dragged myself to the shower, I took a shower, I went to the gym, and guess what?
+[0:21 - 0:24] I hit PR on every single exercise.
+[0:24 - 0:27] And some of these were lifetime PRs.
+[0:27 - 0:29] I even locked in two clients today.
+[0:29 - 0:31] Now, I'm going to be very honest with you.
+[0:31 - 0:35] If I sat down there honoring my feelings, would any of that ever happen?
+[0:35 - 0:38] No. And that's the trap which everyone falls into.
+[0:38 - 0:42] At the end of the day, life is not going to reward you for being in tune with your emotions.
+[0:42 - 0:45] It's going to reward you because you showed up regardless of how you felt.
+[0:45 - 0:49] Because if you act now, then only the results will show, right?
+[0:49 - 0:55] If you still keep stalling, if you keep stalling because you don't feel like it, you're not going to see any results.
+[0:55 - 0:56] Anyways, that is it for today. I hope that I'll talk more.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] olvounfeelingsimatter?
+[0:01] 4ig
+[0:01] 1 \- Wi
+[0:01] olutely
+[0:01 - 0:02] woke up 4
+[0:02] feclings
+[0:02] marten?
+[0:02] absolutely zero
+[0:03] Dowyaurtiseliingy
+[0:03] simatte
+[0:04] 128॥॥ 5
+[0:04] matter?
+[0:04] motivation, zero dri
+[0:04] nothing.
+[0:05] Andif y
+[0:06] ju are 4
+[0:06] who's watching thi:
+[0:07] bean
+[0:09] vey
+[0:14] ral
+[0:15] jantto गे 1
+[0:15] ६ wantto
+[0:18] t | still drag myself
+[0:21] guess
+[0:23] peo ,
+[0:23] I Thit PR on every =>
+[0:24] ५३1
+[0:24] f PRon oe sin
+[0:24] exercise.
+[0:25] mill
+[0:26] हि of =
+[0:26] lifetime
+[0:29] leven locked de t
+[0:29] clients today,
+[0:31] aia?
+[0:31] Son ©
+[0:33] ०५०
+[0:35] f ss’
+[0:35] जात any of 4
+[0:35] happened?
+[0:37] id that's the x
+[0:40] बजे
+[0:41] ead
+[0:41] u for being >
+[0:43] 'sgoingto
+[0:44] _ because you showed .
+[0:48] ‘ie. if you act
+[0:48] only
+[0:49] ilshow,
+[0:51] ral
+[0:54] acai
+[0:56] Thope

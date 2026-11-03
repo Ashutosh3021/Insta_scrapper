@@ -1,0 +1,135 @@
+# model: ggml-large-v3
+========================================================================
+[841] https://www.instagram.com/reel/DLM_b87tJkP/
+STATUS: OK
+DURATION: 1:30   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] अगर तुम्हें लगता है कि तुम्हें हर दूसरे दिन तुम्हारा workout routine change करना चाहिए, you have been misled.
+[0:05 - 0:12] अभी बहुत सारे लोगों को लगता है कि हमें हर दूसरे दिन दूसरा exercise करना चाहिए for variancy, but ये बहुत गलत चीज है.
+[0:12 - 0:15] अभी you have to understand one thing कि hypertrophy is muscle fiber specific.
+[0:15 - 0:19] The mechanical tension which you experience is also muscle fiber specific.
+[0:19 - 0:25] Which means that the muscle fibers which are going to experience high degree of active mechanical tension are the ones which are going to grow.
+[0:25 - 0:32] If we take an example कि अगर हम एक back session में सिर्फ vertical pulling करेंगे और एक back session में सिर्फ horizontal pulling करेंगे,
+[0:32 - 0:38] the muscle fibers which have the best leverage in a vertical pulling are going to experience more stimulus in a vertical pulling.
+[0:38 - 0:45] Similarly, the muscle fibers which have a good leverage in a horizontal pulling are going to get more stimulus in a horizontal pulling.
+[0:45 - 0:48] Or for example अगर हम इन्हें alternate करें इन अपर lower session,
+[0:48 - 0:49] let's say in upper one we did one horizontal,
+[0:49 - 0:52] and in upper two we did one vertical,
+[0:52 - 0:58] we are essentially training some muscle fibers in a one-time frequency which is not very optimal for gains.
+[0:58 - 1:01] इसका बहुत इजी सा fix है and that is to repeat workouts.
+[1:01 - 1:04] अगर तुम एक upper lower session follow कर रहे हो,
+[1:04 - 1:09] you program it in such a way that there is no inconsistencies and you just repeat the workout.
+[1:09 - 1:13] For example, you create one upper session, you create one lower session and you just repeat that.
+[1:13 - 1:16] So, upper, lower, rest, repeat.
+[1:16 - 1:19] So, that is going to be the most optimal way to make sure that
+[1:19 - 1:21] you are benefiting from higher frequencies.
+[1:21 - 1:26] But बहुत important point है अगर हम ऐसा कुछ चीज़ execute कर ही रहे है,
+[1:26 - 1:29] we have to make sure our programming is on point.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] On,tinepeat'workouts?,
+[0:02] ae है
+[0:03] co workouts?
+[0:03 - 0:04] Upper A\
+[0:04] Don*t' fe workouts?
+[0:13] 9 is fil
+[0:13] Abhi
+[0:13] ive to understand
+[0:13] one
+[0:14] + ७५ is ee... Sp
+[0:14 - 0:15] hypertropl
+[0:15] (Hypertrophy is 7 epeel 5
+[0:15] is muscle fiber
+[0:16] nical
+[0:16 - 0:17] Mechanical te
+[0:16 - 0:17] the mi
+[0:16 - 0:19] Is fiber specific
+[0:17] ical tension
+[0:17] which you experience
+[0:18] Mechanical meal n 1
+[0:18 - 0:19] is also
+[0:23] echanical
+[0:24] छः the ones
+[0:25] grow
+[0:25] which
+[0:26 - 0:27] if you t
+[0:26 - 0:27] n example key
+[0:27] 2227
+[0:27] ( SeSsi
+[0:27] = 1 vert
+[0:27] Agar Ham
+[0:27 - 0:32] " Back session 8
+[0:27 - 0:32] ‘1 horizontal
+[0:28] ck Sess|
+[0:28] example key
+[0:28] Agar Hi
+[0:28 - 0:32] |. Verticle ]
+[0:29] /98७॥७65855।
+[0:29] SE vertical pulling
+[0:30] ‘Ss Sess
+[0:30] vert
+[0:30] Back secctom B
+[0:30] or Ek back
+[0:31] Bac
+[0:31 - 0:32] or Ek back session me se
+[0:32] ek¢sessio!
+[0:32] horizontal pulling Karenge
+[0:33] tts -
+[0:33] ‘which have
+[0:34] w FS
+[0:34] aie the bi
+[0:36] \ azz,
+[0:37] CS aa
+[0:40] rae SS
+[0:41] Liz
+[0:41] क्री ता
+[0:42] ॥ have a good leverage
+[0:42] in a horizontal pulling
+[0:44] timull
+[0:45] stimu
+[0:45] pulling
+[0:47] Ls थक
+[0:47] arain in an
+[0:48] Sea
+[0:48] session let's say
+[0:49 - 0:50] upper one we did one
+[0:50] horizontal and in upper
+[0:51] 2226 . का
+[0:55] Lon
+[0:58] which is not very optimal for
+[1:01] re work
+[1:01] id thi
+[1:03] Agar ti Ek upper lows
+[1:03] ssion
+[1:06] m it in such way
+[1:06] here is no
+[1:07] है ~s
+[1:07] such way
+[1:07] that there is no
+[1:07] inconsistencies
+[1:10] example you creat
+[1:12] and you just take you
+[1:13] you just repeat that
+[1:13] ike you and
+[1:15] pper lower rest
+[1:16 - 1:18] Or ULULUL है
+[1:16 - 1:18] ou like training 6 days:
+[1:16 - 1:18] (This isn’t that optimal) _
+[1:17] i ULULUL if
+[1:17] so that is going to be
+[1:18] bes
+[1:18] optimal
+[1:20] optimal way to make sure
+[1:20] that you are benefiting
+[1:21] क्र
+[1:21] frequencies
+[1:22] from higher frequencies but
+[1:23] hed
+[1:25] that if
+[1:26] Lge
+[1:27] = अमन
+[1:27] we have to
+[1:28] we have to make sure our
+[1:28] programming

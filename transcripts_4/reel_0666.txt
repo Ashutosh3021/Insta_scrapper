@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[666] https://www.instagram.com/reel/DRFIMjHjL-A/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] if you're going to the gym listen if you're going to the gym you never as a man wear tight
+[0:09 - 0:18] ass shorts okay never as a man you're wearing tight ass shorts okay that is gay that is i don't
+[0:18 - 0:23] know what to tell you bro like i don't know like every time i see someone wear like something like
+[0:23 - 0:29] this i'm just like like no bro i can see a bulge i don't want to see that like i don't want to see
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] the gym as aman ]
+[0:00 - 0:29] How NOT to dees s for
+[0:01] man
+[0:01] ay gymasa
+[0:01] abil Sa
+[0:01] nd are going to
+[0:03] Jed
+[0:03] yor
+[0:03] ७ are goi
+[0:03 - 0:29] he gym*as ‘a man
+[0:04] alil :
+[0:04] ba "a
+[0:05] a air
+[0:05] abil Sa?
+[0:05 - 0:06] e gym you
+[0:06] il oe
+[0:08] he gym m
+[0:09] =A ass
+[0:12] a अर
+[0:12] man डा
+[0:12] 10115 oka}
+[0:14] tight ass
+[0:15] il ७
+[0:15] —* okay that
+[0:17] —i ol
+[0:17] thatis
+[0:18] hat gay
+[0:19] हे प्र
+[0:19] what to tell
+[0:20] fil
+[0:22] i er
+[0:22] at Mi
+[0:22] time!
+[0:22] kni
+[0:23] f ym as a "
+[0:24] 4 AMO
+[0:24] some like (|
+[0:27] i ae:
+[0:27] like no br
+[0:28] nobrolcanseea
+[0:28] Idon't wantto
+[0:29] ७७०,
+[0:29] 4 3 a.

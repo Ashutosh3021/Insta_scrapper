@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[738] https://www.instagram.com/reel/DPRAoHxE3QP/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I can see it in your eyes that you wanna get out
+[0:05 - 0:10] I can see it in your eyes that you need it right now
+[0:10 - 0:12] That you need it right now
+[0:12 - 0:15] That you wanna get out
+[0:15 - 0:17] That you need it right now
+[0:17 - 0:19] That you wanna get out
+[0:19 - 0:21] I just wanna hear the sound
+[0:21 - 0:23] On the narrow side of town
+[0:23 - 0:25] Maybe we could be right
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] |. Just train hard /
+[0:00] A vulft
+[0:01] Just trai
+[0:01] “१ 1६
+[0:01] gia
+[0:01] mir"
+[0:02] 1 dust train ag,
+[0:02] wit
+[0:03] / dust rng
+[0:03] | गुर
+[0:03] apt
+[0:04 - 0:12] | है Just train hard (
+[0:05] हि एक के.
+[0:05] men
+[0:06] merr |
+[0:06] LAN
+[0:07] meer
+[0:07] N= ah
+[0:08] ‘= asa
+[0:08] डॉ 1
+[0:10] weer |
+[0:10] [| >अनिकिक
+[0:11] 5 hard
+[0:11] Aut
+[0:12] meer {sf
+[0:12] Tie
+[0:12] _ 3 किनि
+[0:13] meer 0
+[0:13 - 0:14] शक train hard .(
+[0:14] ssid
+[0:14] “@ sf4uedBs
+[0:15] ssbb ol
+[0:15] Just train hard 6
+[0:15] LA ९
+[0:16] iit
+[0:16] | हैँ
+[0:16 - 0:19] hard ,(
+[0:18] ४४४ है
+[0:18 - 0:25] | Just train hard (°
+[0:19] x मे
+[0:19] — पल्‍न्‍नमे waa a
+[0:20] Kes,
+[0:20] है है
+[0:20] ४813
+[0:21] avi
+[0:22] है aan
+[0:23] t gat vee
+[0:23] Just हर
+[0:23] जनम >> कं है
+[0:23] 131६
+[0:23] जम आकरमम-
+[0:24] Aly
+[0:24] Lise.
+[0:24] pia
+[0:24] i ell
+[0:24] i be

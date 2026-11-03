@@ -1,0 +1,135 @@
+# model: ggml-large-v3
+========================================================================
+[833] https://www.instagram.com/reel/DLeqtlUBIDT/
+STATUS: OK
+DURATION: 0:41   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] The Mirror's image
+[0:12 - 0:15] Tells me it's home time
+[0:15 - 0:17] But I'm not finished
+[0:17 - 0:20] Cause you're not by my side
+[0:20 - 0:23] And as I arrived I thought I saw you leaving
+[0:23 - 0:25] Carrying your shoes
+[0:25 - 0:29] Decided that once again I was just dreaming
+[0:29 - 0:31] Of opening to you
+[0:31 - 0:34] Now it's three in the morning
+[0:34 - 0:36] And I'm trying to change your mind
+[0:36 - 0:39] Left you marked up on this cause
+[0:39 - 0:41] And to my message you replied
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:02] Slutorial
+[0:02] ” oreo
+[0:02] Keenan’Flaps & Extensions
+[0:02] fie २
+[0:03] = at the elbow हि है
+[0:04] ft A
+[0:05] — Aipenchma
+[0:05] S ae
+[0:05] rae
+[0:05] बिक
+[0:06] — sdf
+[0:07] til
+[0:07 - 0:09] Not: in\the!
+[0:07 - 0:09] icenterjof;
+[0:07 - 0:09] Butfallittle)bit;
+[0:08] fin
+[0:08] we ie
+[0:08] a ae,
+[0:08] inthe}
+[0:09] Niue
+[0:09] LJ eee
+[0:10] Ay’ Ne
+[0:10] 5 की] नमक
+[0:10] | अप a
+[0:10 - 0:11] hig!
+[0:11] yr A
+[0:12] e"calll
+[0:13] Sen
+[0:14] LLL
+[0:15] री तय लि
+[0:15 - 0:18] ¢ bit
+[0:17 - 0:18] ine
+[0:19] Any
+[0:19] Add
+[0:19] —- अमन
+[0:19 - 0:21] -the benct
+[0:20] — y flapping
+[0:20] ace
+[0:20] interwel
+[0:21 - 0:24] Enj
+[0:22] hha
+[0:22] Rey, F
+[0:22] ber
+[0:23] iterwel
+[0:24] साख
+[0:24] — eee
+[0:24] mot
+[0:25] i Bs
+[0:26] sShouldersExtensionsr
+[0:26] an <a
+[0:26] spy
+[0:26] 7 Pay
+[0:27] =Shouldera
+[0:27] ‘tensions?
+[0:27] 7 mmm
+[0:27] ate”
+[0:27] ais 3
+[0:28] pshi julderdExtens ensions?
+[0:28] हित
+[0:28] VSS
+[0:28] aN = 3
+[0:29] emi "6
+[0:29] Cam et haat]
+[0:30] a Ss की
+[0:30 - 0:31] Cam ethead Dard
+[0:30 - 0:31] pres
+[0:31] ais ही
+[0:32 - 0:33] aie ऋ डे
+[0:32 - 0:34] Sit facing|the\cam
+[0:32 - 0:36] Cam at haat]
+[0:33] हुआ.
+[0:33] fee
+[0:34] i cutreauthelelbowae= ell
+[0:34] ais 2
+[0:35] lait
+[0:35] Cam et head Jax
+[0:35] 1186।
+[0:35] e cam
+[0:35] कथा
+[0:35] Kalas
+[0:35] aSNs3
+[0:35] oe —— oe
+[0:35] A fu =
+[0:36] (७16
+[0:36] He ccurfeantherelbow ill (4
+[0:36] Sr I,
+[0:36] pres
+[0:36] Sas
+[0:37] san
+[0:37] न इटाझओ
+[0:37] कुक .
+[0:37 - 0:38] | Benchjstopper,
+[0:38] 7 won
+[0:38] Vou can loendl
+[0:38] the
+[0:38] eae
+[0:38] 7 18 #
+[0:38] pen
+[0:38] cota
+[0:38] “5 है
+[0:38 - 0:39] =ell
+[0:39] Nou}
+[0:39] ene }
+[0:39] Mie
+[0:39] ous
+[0:40] रमन
+[0:40] # epilles एणएः
+[0:40] all
+[0:40] 1101
+[0:40] I edec
+[0:41] ff want,
+[0:41] ue J
+[0:41] wae

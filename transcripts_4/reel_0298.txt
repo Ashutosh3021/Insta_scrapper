@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[298] https://www.instagram.com/reel/DZm8p9IMutk/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] be back when he hears it. My heart goes sha-la-la-la-la, sha-la-la in the morning.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Idk
+[0:00] ia to hear this —
+[0:00] LAN
+[0:00] ee 9
+[0:02] nih
+[0:02] हैँ
+[0:02] a we
+[0:03] wil
+[0:03] BA i
+[0:03] Ley iat
+[0:03 - 0:07] This is not how you pegiorma,— a
+[0:03 - 0:07] wide grip pull-down
+[0:04] (>न्द
+[0:05] , gut
+[0:05] iW a
+[0:05] 4 ._्क
+[0:05] ics
+[0:06] के 2
+[0:07] ally
+[0:07] See
+[0:08] mm o.
+[0:08] HL 8
+[0:08] Fro
+[0:08] lag
+[0:08] = विन
+[0:08 - 0:09] Frontalpl ane pleage ४
+[0:09] pte 0
+[0:10] amie ।
+[0:10] Ease
+[0:10] ae Se
+[0:10] —SS nr
+[0:10 - 0:11] yntal|plane pl
+[0:10 - 0:11] को 2
+[0:11] ne ae
+[0:12] Se x
+[0:12] ग। प्र
+[0:12] हिट
+[0:12] Fro
+[0:12] ntalipl ane please
+[0:12] r >> Oo
+[0:12] ९-3 al

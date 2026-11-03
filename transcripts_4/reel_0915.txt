@@ -1,0 +1,331 @@
+# model: ggml-large-v3
+========================================================================
+[915] https://www.instagram.com/reel/DIRF2wutqXx/
+STATUS: OK
+DURATION: 1:21   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] बहुत सारे लोगों को ये लगता है कि जब तुम failure reach करते हो, it's because तुम्हारे muscles के पास force करने की ताकत नहीं होती है, but that's completely wrong.
+[0:07 - 0:10] The real limitation is not your muscles, it's your brain.
+[0:10 - 0:13] Now in order for you to understand what I'm talking about, you have to understand few things.
+[0:13 - 0:19] अब जब भी कोई तुम movement initiate करते हो, तुम्हारी brain एक signal send करती है, called the central motor command.
+[0:19 - 0:22] भी this signal recruits motor units, which recruit muscle fibers.
+[0:22 - 0:26] भी जितना जादा और जितना strong ये signal होगा, उतना जादा recruitment होगा.
+[0:26 - 0:32] भी simultaneously a copy of this command called culinary discharge is sent to your sensory cortex.
+[0:32 - 0:34] This is what creates the sensation of effort.
+[0:34 - 0:40] मतलब जितना जादा force तुम्हारी brain command करेगी, उतना जादा perception of effort लगेगा तुम्हें.
+[0:40 - 0:46] अभी जैसे ही central motor command ramp up होता है, more motor units are recruited to sustain this movement.
+[0:46 - 0:50] अभी ये level of recruitment is tightly linked to your perception of effort.
+[0:50 - 0:54] क्योंकि तुम्हारी perception of effort will limit the central motor command which we are able to create.
+[0:54 - 0:57] क्योंकि हम एक certain level of perception of effort deal कर सकते हैं.
+[0:57 - 1:02] क्योंकि aside from this central motor command, there are other factors which add up to your effort levels.
+[1:02 - 1:07] मतलब this extra feedback is making you reach your limit before you could even reach that high motor pool levels.
+[1:07 - 1:11] और कुछ टाइम बाद जैसे ही हम maximum tolerable of perception of effort hit करते हैं,
+[1:11 - 1:14] we cannot increase the amount of motor unit recruitment.
+[1:14 - 1:19] मतलब what truly causes task failure is your maximum tolerable of perception of effort, not your muscles.
+[1:19 - 1:20] So yeah, hope that helps.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] USE}
+[0:00] can yproduce—
+[0:00] हैः
+[0:01] 7 Saas
+[0:01] (511)
+[0:01] produce
+[0:01] sal
+[0:01] a है
+[0:02] ilure because
+[0:02] Ice
+[0:02] min’
+[0:02] “ey alfa
+[0:02 - 0:04] musclelcan’
+[0:03] ilur
+[0:03] ~S) aie aWar
+[0:03] poy
+[0:03 - 0:05] because
+[0:04] ailurel be
+[0:04] uce
+[0:04] Buz
+[0:05] ail
+[0:05] museleyean’t
+[0:06] Wee
+[0:06] avd
+[0:06] but that's
+[0:06] telex aw
+[0:07] 15%0
+[0:07 - 0:09] ithe limiter,
+[0:08] Stew
+[0:08] ony,
+[0:08] F Muscle 15५10
+[0:09] 2, कि
+[0:09] fi is no
+[0:10] Wan,
+[0:10] १०७७ ५.
+[0:10] your.br.
+[0:11] i Unitijecruitment,
+[0:11] CMC
+[0:11] in oiler ot yo to
+[0:11] “tea
+[0:11 - 0:13] Undewstand
+[0:12] CMCx_
+[0:12] you
+[0:12 - 0:13] Motonunitirecruitment,
+[0:13] cme
+[0:13] ‘all
+[0:13] you have to understand few
+[0:14] fee: jabbi
+[0:15] a a) “ee
+[0:15] cpa
+[0:15] | श्र
+[0:15] —ABTSbbT Ic
+[0:15] AB TSEE oy arene
+[0:16 - 0:17] Krte ho tumhari brain ek
+[0:17] कक. iy
+[0:17] कक | krti hai
+[0:18] if 2
+[0:18] जैक
+[0:18] 857"
+[0:18] ~~ €all the central motor
+[0:19] if 4
+[0:19] है मे
+[0:19] with
+[0:19 - 0:20] i) कं
+[0:20] i “Ss
+[0:20] 7 “with this signal recruits
+[0:21] Sos
+[0:21 - 0:22] Brain
+[0:21 - 0:22] Involved Sht Happens
+[0:21 - 0:22] Muscle
+[0:22] car
+[0:23] wit
+[0:23] with jitna
+[0:24 - 0:25] with jitna or jitna’strong a
+[0:24 - 0:26] More EMC Signal
+[0:24 - 0:26] More Recruitment
+[0:25] il Reel
+[0:25] i As
+[0:26] with jitna ‘recruitment
+[0:26] = Sam
+[0:27] कि. iy.
+[0:27] a simultaneously
+[0:28] 2.0 EF.
+[0:28] कि. af
+[0:28] कि eee | copy
+[0:30] ५ पं
+[0:30] rey
+[0:31] pie
+[0:31] ooh
+[0:31] Sie
+[0:31] i) कं
+[0:31] स््
+[0:31] _is sent to your sensory
+[0:32] Chae
+[0:32] Hy it
+[0:32] this
+[0:33] cleoleendeprollary लिग ता
+[0:33 - 0:34] 4ecentral motor ¢
+[0:33 - 0:34] toa paft of the brain,
+[0:33 - 0:34] S| cts effort!
+[0:33 - 0:34] this is what creates the
+[0:34] a ee
+[0:34] ‘also sends éorollary discharge)
+[0:34] cpa
+[0:34] sensation of effort
+[0:35] हक i e
+[0:35 - 0:37] “जल lincreases
+[0:36] EMG
+[0:36] feases}
+[0:36] a eh
+[0:36] a ae
+[0:37] _ AsiEM
+[0:37] per
+[0:37] tonto;
+[0:37] creases
+[0:37] 4685.
+[0:37] ४.८४)
+[0:37] eer
+[0:38] Pas
+[0:38] ¢ Kérigiutna zada
+[0:38 - 0:40] As CMC increases
+[0:38 - 0:40] perception of effort
+[0:39] ases La
+[0:39] 7 ‘valine zada is ion
+[0:39] व " bg iy of effor
+[0:39] ome!
+[0:40] | ja tumi
+[0:40 - 0:43] + increases: —_
+[0:41] ——Jagaga-tumi abhi
+[0:41 - 0:42] हि ४
+[0:42] a abhi pisehi
+[0:42] center motor command
+[0:42] ramp.
+[0:43 - 0:44] दूँ
+[0:43 - 0:44] More
+[0:43 - 0:45] Mot
+[0:43 - 0:45] ls Recruitment
+[0:44] cpa by
+[0:44] Motor fils Recruitme'
+[0:44] recruited
+[0:44 - 0:45] ————mere-motor units are
+[0:45] aC res
+[0:45] _ Ibs
+[0:45] bry \
+[0:45] recrui ited to sustain
+[0:47] न्य्जि
+[0:47] ‘ba level of recruitment
+[0:48] | Vofiperce mage
+[0:48] jbl
+[0:48] is tightly —
+[0:48] > उहें »
+[0:48 - 0:51] Levellof’ |
+[0:48 - 0:53] की effort
+[0:49] vell
+[0:49] tS 4 d effort |
+[0:49] aly
+[0:49] P Re
+[0:49] ants ३
+[0:49] is tightly linked to your
+[0:49] perception
+[0:49 - 0:50] Tecruitment
+[0:50] Ppareciivec)
+[0:50] your! 90.
+[0:51] jeenuitment
+[0:51] Levellofjperceivedettort
+[0:51] Bi ०
+[0:51] yourpelBagtion of effort
+[0:52] len
+[0:52] reer
+[0:52] evel’
+[0:52] "ale
+[0:52] pel I,
+[0:52] will limit the
+[0:52] “हि हू
+[0:52 - 0:53] ecruitment
+[0:53] चना
+[0:53] ee i
+[0:53] which \,
+[0:54] Perception
+[0:54] | Is a limiter:
+[0:54] which we are able to create
+[0:55] i ae
+[0:55] reepliomore ffort
+[0:55] Perea 0
+[0:55] ताज
+[0:56] है j wa
+[0:56] iter™ 5
+[0:56] . a न Jevel
+[0:56 - 0:57] न Perception of effort
+[0:57] 1] | iF
+[0:57] न; पक
+[0:57] बे a)
+[0:57] deal krsakte
+[0:58] दें
+[0:58] \There are ft
+[0:58] प्र
+[0:58] Whichjincrease था
+[0:58] है ai
+[0:58] ANA
+[0:58 - 0:59] aside from
+[0:59] ‘Which
+[0:59] increasg e
+[0:59] Lil
+[0:59] m ie Rontral motor
+[0:59] LYN
+[0:59 - 1:01] there are other factors
+[1:00] hich increase effoi
+[1:00] pe 4
+[1:00] STU)
+[1:00] eee
+[1:00] irs
+[1:01] reasejeffort le
+[1:01] ज्न्-न
+[1:01] ®e(including afferent feedback)
+[1:01] Which/add up to your
+[1:01 - 1:02] 4. sensory inforthation
+[1:01 - 1:02] from the boty,
+[1:01 - 1:02] * 2.psychological factors that
+[1:01 - 1:02] are able to influence
+[1:01 - 1:02] motivation!
+[1:02] _ (including afferent ]
+[1:03] EE a
+[1:03] क्र
+[1:03 - 1:04] Perceived effort
+[1:03 - 1:05] Motor pool
+[1:04] bes
+[1:05] a ee
+[1:05] PY is Vas
+[1:05] fore you could
+[1:06] wee >
+[1:06] a. by
+[1:06] cpa
+[1:06] before you could even reach
+[1:06] —.that high eter
+[1:07] pe Ls
+[1:08] आ अछ
+[1:08] or kuch time BA jesi
+[1:09] Bre:
+[1:09] maximum tolerable
+[1:10] Qnceymax
+[1:10] kee
+[1:10] “emFurthenrecruitm
+[1:10] 15 1101 possible,
+[1:10] lerable of
+[1:10 - 1:12] off
+[1:10 - 1:12] perce|
+[1:10 - 1:13] pereeption |
+[1:11] ‘urthetgnc rut
+[1:11] rete
+[1:11] New
+[1:11] maxil
+[1:11] rr of
+[1:11] hit curta
+[1:11 - 1:13] लो, 11513
+[1:11 - 1:13] ption
+[1:11 - 1:13] reac!
+[1:11 - 1:13] hed
+[1:11 - 1:14] tolerable
+[1:11 - 1:14] issnotipossible\
+[1:12] जज, 11513
+[1:12] reached)
+[1:12] unthe rane
+[1:12] rut rete
+[1:12] O¥possi
+[1:12] Bie
+[1:12] a -उ+०
+[1:12 - 1:14] we cannot i
+[1:13] Sema urt
+[1:13] [3073 ru ment =
+[1:13] Ate
+[1:13] ‘we cal
+[1:13] ise the
+[1:13] amou!
+[1:14] lOnce]max,
+[1:14] ffont:
+[1:14] erceptionroi
+[1:14] Istrea
+[1:14] iched
+[1:14] Further ता ह
+[1:14] amount of
+[1:14] ata
+[1:15] hat what =4
+[1:16] is your
+[1:16 - 1:18] What causes failur
+[1:16 - 1:18] | tolerableyperception
+[1:16 - 1:18] ‘ffort हे
+[1:17 - 1:18] ible
+[1:18] is your maxi
+[1:18] percepti
+[1:19] pa Be
+[1:19] not your =f.
+[1:20] tion for mi
+[1:20] Oem
+[1:20] "head -
+[1:20] 1 है
+[1:20] hope
+[1:20 - 1:21] “चिट more
+[1:21] of Read caption for mo;
+[1:21] Info
+[1:21] KAY
+[1:21] ५. | किम
+[1:21] hope that helps ae.

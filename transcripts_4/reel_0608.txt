@@ -1,0 +1,59 @@
+# model: ggml-large-v3
+========================================================================
+[608] https://www.instagram.com/reel/DSzptXxEyIZ/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] You are just me and you
+[0:01 - 0:03] Woah-oh-oh-oh-oh
+[0:03 - 0:05] Boom, boom, boom, boom
+[0:05 - 0:07] I put you in my room
+[0:07 - 0:09] Let's make it work together
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 9 Nge
+[0:00] i hy
+[0:00] ae S
+[0:00] ayn
+[0:00] by 2
+[0:00] CNG
+[0:00] aaa
+[0:00 - 0:01] eds
+[0:01] O.Nge
+[0:01] to hear
+[0:01] ॥ oSAN oe
+[0:01] के 24% ७ NX:
+[0:02] RS. 22
+[0:02] ae _ ol
+[0:02] thi
+[0:02] sic
+[0:02] outs as\0 reps
+[0:02] aT) SN
+[0:02] Rg “a
+[0:03] 49 0 reps
+[0:03] pee
+[0:03] SX 2 Ue
+[0:03] gee
+[0:04] — नरम
+[0:04] ‘ovis
+[0:04] may
+[0:04] e the machin
+[0:05] BQ या कक 222
+[0:05] Use the mac
+[0:05] hinejpi
+[0:05] = >4 Sau
+[0:05] Loo
+[0:06] ROL gE
+[0:06] We th
+[0:06] hinelp
+[0:06] SSS
+[0:06 - 0:07] i hy
+[0:07] seht
+[0:07] chin
+[0:07] जब व
+[0:08] he machinejpi
+[0:08] \ 2 पक
+[0:09] Use the machi
+[0:09] " “ama

@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[688] https://www.instagram.com/reel/DQlvYKBjIkV/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Субтитры сделал DimaTorzok
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ॥10169॥/9॥00॥
+[0:00 - 0:04] ghow, manyip
+[0:00 - 0:05] ge afraidof SUGAR _
+[0:01] any peopletane
+[0:01] sal
+[0:01] Pea &
+[0:01 - 0:02] lthonestly Sin
+[0:02] कटा
+[0:02] Ane a
+[0:03] lthonesth
+[0:03] )/ SUGORISESIMe)
+[0:03] Thow'many:peaplerane
+[0:03 - 0:05] ‘Tk. ee
+[0:04] Ithonestly
+[0:04] Surprises
+[0:04] leran
+[0:04] Dey | wa
+[0:05] It at Ui
+[0:05] pleta
+[0:05] ma न
+[0:05 - 0:06] howima
+[0:06] lth he. e
+[0:06] 19 67
+[0:06] Biraid of SUGAR

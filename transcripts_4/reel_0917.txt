@@ -1,0 +1,260 @@
+# model: ggml-large-v3
+========================================================================
+[917] https://www.instagram.com/reel/DIL78Gmt67b/
+STATUS: OK
+DURATION: 1:17   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] एक साथ 100 ग्राम प्रोटीन नहीं डाइजेस्ट होगा
+[0:03 - 0:05] नूब पागल बना रहा लोगों का
+[0:05 - 0:12] Your body does digest every single gram of protein that you eat in a single go
+[0:12 - 0:14] प्रो 100 ग्राम प्रोटीन एक मील में
+[0:14 - 0:15] पागल है ग्या?
+[0:15 - 0:16] He is actually right
+[0:16 - 0:19] एक common misconception है कि लोगों को लगता है कि
+[0:19 - 0:21] You can only digest 30 ग्राम प्रोटीन पर मील
+[0:21 - 0:22] But that's clearly not true
+[0:22 - 0:26] Now coincidentally we actually have this study backing me up
+[0:26 - 0:27] और इसमें दिखाई देता है कि
+[0:27 - 0:31] Protein ingestion shows a dose dependent relationship between the plasma amino acid levels
+[0:31 - 0:33] और जब लोगों ने 100 ग्राम प्रोटीन खाये थे
+[0:33 - 0:36] They had an elevated levels for about 12 hours
+[0:36 - 0:41] The plasma amino acid is a direct marker of digestion and absorption of protein efficiency
+[0:41 - 0:43] मतलब protein waste नहीं हो रहा है
+[0:43 - 0:46] हाँ it is true that some of the amino acid underwent oxidation
+[0:46 - 0:50] But that oxidation was negligible compared to whole body protein synthesis
+[0:50 - 0:52] मतलब there is no such upper limit
+[0:52 - 0:55] in the amount of protein which you can eat in a single meal
+[0:55 - 0:58] So if you are someone who just likes eating a lot of protein
+[0:58 - 1:00] You can do that and not feel bad about it
+[1:00 - 1:04] At the end of the day what matters is your total protein intake
+[1:04 - 1:07] Not necessarily how much you intake in a single meal
+[1:07 - 1:11] So yes consuming more than 30 grams of protein is an option for you if you want to
+[1:11 - 1:16] और ऐसा बिलकुल नहीं है कि if you eat more than 30 grams your body will just won't utilize it
+[1:16 - 1:17] So yeah I hope that's for fun
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] incoming
+[0:00 - 0:11] Ek sath 100gm digest
+[0:00 - 0:11] hojayega tujhe noob pagal
+[0:00 - 0:11] bna rha logo ka
+[0:01] omen ip coming
+[0:02] Stitchimcoming
+[0:03] Sich 1130
+[0:04] eming
+[0:05] a Wigoming
+[0:05] bel
+[0:05] 4३८:
+[0:06] han
+[0:06] araz
+[0:06] your ; ly
+[0:06 - 0:11] Stitch incoming
+[0:07] रहे
+[0:07 - 0:09] ct tha logo ka
+[0:07 - 0:09] does q
+[0:08] does digest evi
+[0:08] गाव
+[0:08] #्र te कि
+[0:09] iry single
+[0:10] does 38 every single
+[0:10] ram \ 1०)
+[0:10 - 0:11] हैं
+[0:10 - 0:11] khan_faraz,
+[0:11] sig \
+[0:12] OOG'Of prot
+[0:12 - 0:14] In a single meal?
+[0:13] 1000 of proteintg
+[0:13] fod
+[0:14] 100g ef protein™
+[0:16] ‘ He's right
+[0:18] You
+[0:18] Camsudigest
+[0:18] See
+[0:18] 30g
+[0:19] You Gantt Gligissis
+[0:19] Mora then so
+[0:20] You cal
+[0:20] atidigest
+[0:20] amesOg
+[0:20] rer,
+[0:21] You
+[0:21] XW SOG)
+[0:24] ingestion during recovery from
+[0:24 - 0:25] Open Access
+[0:24 - 0:25] The anabolic response to protein
+[0:24 - 0:25] exercise has no upper limit in
+[0:24 - 0:25] magnitude and duration in vivo in
+[0:24 - 0:25] humans
+[0:24 - 0:25] Jorn Trommeten * a Glenn A.A. van Lieshout "2
+[0:24 - 0:25] Jean Nyakayiru
+[0:24 - 0:25] Joy PB. Goessens'
+[0:24 - 0:25] ‘Annemie P. Gijsen - Luc J.C. van Loon "9 83
+[0:24 - 0:25] Show more
+[0:24 - 0:25] Affiliations & Notes Y Atle info
+[0:25] Fa during recovery from
+[0:28 - 0:30] 400०
+[0:28 - 0:30] 2 2000
+[0:28 - 0:30] Time (min)
+[0:28 - 0:30] Dose response
+[0:28 - 0:30] relationship)
+[0:28 - 0:31] Total amino acids.
+[0:28 - 0:31] 0. 120 240 360 480 600 720
+[0:29] 5, 4000
+[0:29] ९ 1m 200 360 400 600 720
+[0:29] Doss response
+[0:31] ५५ 8 8;
+[0:32] por
+[0:32] throughout the entire 1
+[0:32] npc
+[0:32 - 0:34] amino acid concentrations,
+[0:32 - 0:34] which rem:
+[0:32 - 0:34] tpranc
+[0:32 - 0:34] riod, In
+[0:32 - 0:35] portpared to the control
+[0:32 - 0:35] resulted in a greater rise ir
+[0:32 - 0:35] irculating plasma
+[0:32 - 0:36] of 25 g protein whe}
+[0:32 - 0:36] condition (placebo).
+[0:32 - 0:36] 800). Ingestion of 100 g protein
+[0:32 - 0:36] amino
+[0:32 - 0:36] higher
+[0:32 - 0:36] line ४
+[0:32 - 0:36] tne with this, the postprandial increase in patna
+[0:33] ut the entire 12-h postprandial
+[0:33 - 0:34] through«
+[0:33 - 0:35] ions,
+[0:34] result
+[0:34] in a greater rise in
+[0:34] ned high
+[0:34] th this
+[0:34] the
+[0:34] ial incre.
+[0:34 - 0:36] ut the entire 1
+[0:34 - 0:36] stprandi
+[0:34 - 0:36] se in plasma
+[0:35] entra
+[0:35] which,
+[0:35] maine
+[0:35] h pc
+[0:35] tprandial period. In
+[0:35] ith this, the po
+[0:35] Vow
+[0:35 - 0:36] id co
+[0:35 - 0:36] thro
+[0:36] wade इक णणणा
+[0:36] resulted in a greater rise in circulating plasma
+[0:36] ent
+[0:36] ans
+[0:36] ich re
+[0:36] per
+[0:36] och In
+[0:36] col
+[0:36] 2८2:
+[0:37 - 0:39] Gut amino acid
+[0:37 - 0:39] absorption in humans:
+[0:37 - 0:39] Concepts and relevance "=m
+[0:37 - 0:39] for postprandial
+[0:37 - 0:39] metabolism
+[0:38] ae -जसालाक
+[0:38] Se ee
+[0:38] Cae
+[0:38] Nas all
+[0:39] Bee
+[0:40] Absorbed amino acids that escape first-pass
+[0:40] splanchnic extraction are released into the
+[0:40] peripheral circulation, from where they are
+[0:40] i and taken up in the various
+[0:40] peripheral ti
+[0:40] sues [18]. Due to the ease of
+[0:40] sampling, plasma amino acid concentrations are
+[0:40] often assessed as a proxy of protein digestion
+[0:40] and ami
+[0:40] 10 acid absorption [36,37]. However,
+[0:45] mio ०४४ xtiaton
+[0:45] ‘ration ve rte take
+[0:45] owe
+[0:45] bag
+[0:45] = a फ कक
+[0:45] ape
+[0:45] derwent
+[0:45 - 0:46] (22771
+[0:45 - 0:46] ol oe
+[0:45 - 0:46] ie of the amino at
+[0:46] Amina xtaton
+[0:46] boa
+[0:46] = a ea क
+[0:46] ane
+[0:46] iderwent oxida’
+[0:47] patioxidation
+[0:48] col
+[0:48] dation was
+[0:48] ible
+[0:48 - 0:49] २-३८
+[0:48 - 0:49] Los
+[0:48 - 0:49] Te ऋ ऋ छा ee Te
+[0:48 - 0:50] Protein Synthesis
+[0:49] sess.
+[0:49] red to whole
+[0:50] ०० SS +४ ४:
+[0:50] se ऋ ऋ a a The
+[0:50] hole bor
+[0:50] La hesis
+[0:53] No uppar if
+[0:53] eg te
+[0:53] ‘amount
+[0:53] no such upper Iii
+[0:53] कक के
+[0:53 - 0:55] prowin per mel
+[0:54] upper
+[0:54] ISS
+[0:55] No upper linit tor
+[0:55] ich you can eat ina
+[0:55] meal
+[0:57] you're someone wi
+[0:57] just likes
+[0:58] ing a’lot of protel
+[0:59] in do that
+[1:00] in do that and not fe
+[1:00] bat
+[1:02] SEs
+[1:02 - 1:04] Timing matters? The effects of
+[1:02 - 1:04] two different timing of high
+[1:02 - 1:04] protein diets on body
+[1:02 - 1:04] composition, muscular
+[1:02 - 1:04] performance, and biochemical
+[1:02 - 1:04] markers in resistance-trained
+[1:02 - 1:04] males
+[1:02 - 1:04] Mohammadyasin Lak et al. Front Nutr. 2024.
+[1:02 - 1:04] Show details
+[1:03] jha
+[1:03] jatters is your to!
+[1:03] ‘otein
+[1:04] Boh,
+[1:05] Rees 1 पल 2-०, ५०५ MIN
+[1:05] essarily how mubh
+[1:05 - 1:06] ‘al daily protein intake appears to be the
+[1:05 - 1:06] primary factor in facilitating muscle growth
+[1:05 - 1:06] induced by exercise. Future research could delve
+[1:05 - 1:06] into the impact of protein timing on different
+[1:05 - 1:06] populations and employ more standardized
+[1:05 - 1:06] outcome measut
+[1:06] Ser अमन कितर खत: Coeur une असम
+[1:06] ecessarily how rflich
+[1:06] take iia single
+[1:07] big
+[1:08] ell
+[1:08] 595
+[1:09] aml
+[1:09] sief ee:
+[1:10] SBtion for
+[1:11] for you if yor
+[1:11] rant to
+[1:12] Smale
+[1:12] local link
+[1:13] local link if you
+[1:15] body will just wo!
+[1:16] 546:
+[1:16] ४ fonmore . he
+[1:16] Read caption
+[1:16] mar

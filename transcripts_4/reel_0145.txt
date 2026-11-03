@@ -1,0 +1,74 @@
+# model: ggml-large-v3
+========================================================================
+[145] https://www.instagram.com/reel/Dcyw2rhM6uL/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Like blue eyes didn't show surprise
+[0:04 - 0:07] When I explained the fact that I'm dissatisfied
+[0:07 - 0:11] The butterflies in my tummy
+[0:11 - 0:14] Float around making me really funny
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] hue
+[0:00] ॥ \gFew underrated things 4 4
+[0:00] h SBLs dot talk about i -
+[0:01] Set
+[0:01] Ney
+[0:01] a or
+[0:01] on undenrated things
+[0:01] ich 4
+[0:02] rai
+[0:02] पु r i set
+[0:02] pas |
+[0:03] wou'reip yi
+[0:03] gonna be ai
+[0:03] heidealStart
+[0:03] it Of,
+[0:03] When your
+[0:03] fell
+[0:03] stant
+[0:03] | Onsome हे
+[0:04] ८णा
+[0:04] idk
+[0:04 - 0:06] Pushe shed for
+[0:04 - 0:07] -—Look here if oo
+[0:05] Woo.
+[0:05] ape --
+[0:05 - 0:06] Vay
+[0:05 - 0:07] Pushe shed for the’
+[0:06] n thi
+[0:07] rit
+[0:07] fhe
+[0:07] 4 kee
+[0:08] "ih ill
+[0:08] 177 88
+[0:08] It would
+[0:08] be\techni A
+[0:08] iste ee
+[0:08] is 4
+[0:09] af we resetthero
+[0:09] firstrep)
+[0:09] ardise it
+[0:10] Hence we resegthe rom for the
+[0:10] firstirg i
+[0:11] me 95
+[0:11] Reachith
+[0:11] myand
+[0:11] ¥ Of Oe ir
+[0:11 - 0:12] nti
+[0:11 - 0:12] poi
+[0:12] wed 98
+[0:12] Reach nthe's 8
+[0:12] \Of the rec ah
+[0:12] hae --
+[0:13] aed Pe
+[0:13] uy the\starti
+[0:13] ४0 the\rom’and execute)
+[0:14] las +
+[0:14] Reach the\starti
+[0:14] \Of k romfand execute
+[0:14] Vina —
+[0:14] one

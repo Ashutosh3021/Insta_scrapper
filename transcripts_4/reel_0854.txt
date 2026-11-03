@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[854] https://www.instagram.com/reel/DKr0knwBlK6/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Batches out there be on the lookout for Captain Save-A-House
+[0:04 - 0:05] Cause he's saving house
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] tbo
+[0:00 - 0:07] Gym jau jh**t bhar bake***di kru raat bhar
+[0:00 - 0:08] Bhal ye science based lifters India me bhi agye
+[0:01] bull ie
+[0:01] है सकर्र
+[0:02] dll 6 हम
+[0:02] tho
+[0:02] 95 छ
+[0:03] odo}
+[0:03] opus
+[0:04] lie
+[0:05] Gym jou 1 Bhasaketct 100 rast bhar
+[0:06] forus
+[0:06] “4 ye
+[0:06] rail
+[0:06 - 0:08] bi Push
+[0:07] ila
+[0:07] है fort
+[0:07] val
+[0:08] — अन-न्‍कन-ना
+[0:08] downs
+[0:08] s susingl
+[0:08] A aaa
+[0:08] Gym jau jh**t bhar bake
+[0:08] *di kru raat bhar

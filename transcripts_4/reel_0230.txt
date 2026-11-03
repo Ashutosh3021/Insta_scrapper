@@ -1,0 +1,96 @@
+# model: ggml-large-v3
+========================================================================
+[230] https://www.instagram.com/reel/DbD9sHCMi6g/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] with me. I don't care who you are, where you're from, what you did, as long as you love me.
+[0:12 - 0:22] Who you are, where you're from, don't care what you did, as long as you love me.
+[0:22 - 0:26] Every little thing that you have said and done.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 900
+[0:00] tae
+[0:01] d\ let
+[0:01] 7 ae
+[0:01] ) थीटआाओं
+[0:02] Int
+[0:02] lit aN
+[0:02] x ay
+[0:03] 9824
+[0:03] आकर
+[0:04] shest-andbacka
+[0:04] ithe same
+[0:04 - 0:05] y,can't you
+[0:05] ५. ली का
+[0:05] stand th
+[0:05 - 0:06] he same day?
+[0:06] Chest and'back’onp
+[0:07] हित at
+[0:07] nulleg
+[0:07] Onithels:
+[0:07 - 0:09] Back a
+[0:08] Backand'l
+[0:08] On thdsain
+[0:08] ven
+[0:09] aes
+[0:09] oll
+[0:09] omer ee
+[0:10] ८8६ enti
+[0:10] =f the
+[0:10] » Sami
+[0:11] ८8८6 entire-bod
+[0:11] ame.day,
+[0:12] =Toda
+[0:12] a th
+[0:12] Borst Taps ह
+[0:12] legs onit
+[0:12] \ day,
+[0:12] धाम
+[0:12 - 0:14] tal
+[0:13] Brn ca
+[0:13] y 161608.0
+[0:13] i] ss
+[0:14] ned|
+[0:14] oe te
+[0:14] 1 oe
+[0:15] lon
+[0:15] gas
+[0:15] hequencysvo
+[0:15] lume)
+[0:15 - 0:16] The righit
+[0:15 - 0:16] tensity
+[0:16] gasyouget
+[0:16] equency, volume)
+[0:17] com
+[0:17] ual
+[0:17] a tag
+[0:18] कि बना
+[0:18] ke,good: जी
+[0:19] od ig
+[0:19] EAS)
+[0:19] 2 ES
+[0:19] कली
+[0:19] tome
+[0:20] Splitsjustm
+[0:20] whey
+[0:20] iil
+[0:20] bef
+[0:20] Stam
+[0:20 - 0:21] make)
+[0:20 - 0:21] easien to
+[0:20 - 0:22] Nothing els
+[0:21] Splits
+[0:21] gta
+[0:21] well
+[0:21 - 0:22] ram
+[0:22] न न्ड््य्च्
+[0:22] lt 88316
+[0:24] awl
+[0:24] Foll
+[0:25] cae!
+[0:25] NeX
+[0:25] ollow for.
+[0:26] Wroliow for nore.

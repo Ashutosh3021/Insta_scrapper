@@ -1,0 +1,83 @@
+# model: ggml-large-v3
+========================================================================
+[62] https://www.instagram.com/reel/DeRwIP9MCOX/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] i don't know why you're taking pre-workout at 6 p.m like what's the point you're ruining your sleep
+[0:06 - 0:12] for one extra rep like that don't make sense longitudinally it doesn't make sense make it
+[0:12 - 0:17] make sense for me bro just have some coffee before you go man like the cut off time for
+[0:17 - 0:22] pre-workout is like 13.5 hours take it in the morning or don't take it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] शहर
+[0:00 - 0:02] Supple
+[0:00 - 0:02] I don't
+[0:00 - 0:09] Sleepl& Pre
+[0:01] upplement
+[0:01] क्र Mga
+[0:01 - 0:02] why you're
+[0:02] ent
+[0:02] ayy
+[0:02] pes
+[0:02] taking pr
+[0:02] orkout
+[0:03] Sleepi&
+[0:03] Sup jem
+[0:03] Niky
+[0:04] upplemen
+[0:04] reg
+[0:04] Like wh
+[0:05] Why,
+[0:05 - 0:07] Supple
+[0:05 - 0:07] You a
+[0:06 - 0:07] ment
+[0:06 - 0:07] rl ining your
+[0:06 - 0:07] sleep fo
+[0:07] MOVES
+[0:07] 2! 00०४८
+[0:07] le extra
+[0:08] Ade
+[0:08] wed
+[0:08] Ces
+[0:08 - 0:09] Liket
+[0:08 - 0:10] Supplement
+[0:09] lemme:
+[0:09] a हा
+[0:10 - 0:13] Sleepi&
+[0:11] vif
+[0:11] की 01)
+[0:11] शौं
+[0:11] Longit
+[0:11] esn't
+[0:12] jes
+[0:12] Wet
+[0:12 - 0:13] Make it!
+[0:13] al e sense for
+[0:13 - 0:21] Supplement
+[0:14] ayy)"
+[0:14] Just hav
+[0:14 - 0:15] Sleep & Pre
+[0:14 - 0:15] some coffee
+[0:15] Just Se.
+[0:15] before y
+[0:16] Sleep &
+[0:16] Lik
+[0:17] Pre-Workout Supplement (217.5mg)
+[0:17] Like the cut off time
+[0:17 - 0:19] Coffee (107mg)
+[0:17 - 0:20] Sleep & Pre'workout
+[0:18 - 0:19] (217.5mqi
+[0:19] pplem
+[0:19] pre workout is like
+[0:20] सुस्त कि
+[0:20] urs
+[0:21] & Pre
+[0:21] rye
+[0:21] \ है Jaton,
+[0:21] the
+[0:21 - 0:22] Sleep\&
+[0:22] I a of 2,
+[0:22] ke it

@@ -1,0 +1,172 @@
+# model: ggml-large-v3
+========================================================================
+[179] https://www.instagram.com/reel/DcIfBXUsL37/
+STATUS: OK
+DURATION: 0:57   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] I just want to know one thing, man.
+[0:01 - 0:03] When did locking in became corny?
+[0:03 - 0:07] When was the last time you locked in and you got something productive done?
+[0:07 - 0:14] Every single time when you lock in, almost all the time, there's something productive you get out of it.
+[0:14 - 0:16] There is nothing wrong with locking in.
+[0:16 - 0:21] If locking in helps you get more productive, stay locked in.
+[0:21 - 0:27] You don't have to abide by the social media rules by not locking in, showing that, oh, I'm in the middle.
+[0:28 - 0:32] If locking in gives you the most bang for your buck, stay locked in.
+[0:32 - 0:35] A lot of people cannot function in the middle.
+[0:35 - 0:40] And if you find yourself in that position, don't feel guilty about it and stay locked in.
+[0:40 - 0:41] Think of it from this kind of perspective.
+[0:41 - 0:46] No one scored at the top end of a competitive exam without locking in.
+[0:46 - 0:53] 99% of people who have generational wealth did not get there without locking in.
+[0:53 - 0:54] All right.
+[0:54 - 0:56] Hope that helps.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] “locking ini:
+[0:00] 10675
+[0:00] just
+[0:00 - 0:03] (Adifferen
+[0:00 - 0:03] ect
+[0:00 - 0:06] tive)
+[0:00 - 0:11] is.conny
+[0:01] iffe
+[0:01 - 0:02] man,
+[0:01 - 0:03] tipersp
+[0:02] ing
+[0:02] nt‘perspect
+[0:02] esa
+[0:02] ५७०
+[0:03] ng\ine
+[0:03] eee,
+[0:03] Wi 4
+[0:03] LAN
+[0:03] man, whi
+[0:03] orny?
+[0:04] (Adifferent perspective
+[0:04] When
+[0:04 - 0:06] “lockingini:
+[0:05] inp
+[0:05 - 0:06] lock
+[0:05 - 0:08] (Adifferent perspecti
+[0:06] you got
+[0:06] some
+[0:06] prod
+[0:07] De fc
+[0:07 - 0:56] (A\cifferent perspective)
+[0:08] inp
+[0:08 - 0:09] Every
+[0:09] corny
+[0:09] » | when
+[0:09 - 0:15] “llockinginiz
+[0:10] ing
+[0:10] TW i
+[0:11] loc’
+[0:11] | all the
+[0:12] i RP
+[0:12 - 0:17] corny,
+[0:13] et SS कक
+[0:13] prod »
+[0:14] inp
+[0:14 - 0:15] There i
+[0:15] isiconny
+[0:15] ३५4
+[0:15] wrong
+[0:16] ine
+[0:17] ing
+[0:17] If locking
+[0:18] inp
+[0:18] If loc
+[0:18 - 0:22] isicorny
+[0:19] binge
+[0:19] more
+[0:19] ive
+[0:19 - 0:21] sLockin
+[0:20] ९२१
+[0:20] more pri
+[0:20] stay
+[0:21] 4 (है
+[0:21] Fig
+[0:21 - 0:22] You Y
+[0:22] inp
+[0:22] pat
+[0:23] १ sa
+[0:23 - 0:24] ine
+[0:24] scorn
+[0:24] है के
+[0:24] socia
+[0:24] les
+[0:25 - 0:26] 18601
+[0:26] inp
+[0:26 - 0:33] “locking iniz
+[0:27] Is.corn
+[0:28] different perspet ०1४६
+[0:28 - 0:29] onny,
+[0:28 - 0:29] If locki
+[0:29] iny
+[0:29] WG we
+[0:29] free
+[0:30 - 0:32] most ba
+[0:30 - 0:37] is corny
+[0:31] (A differ gaat
+[0:31] sie
+[0:31] Cig
+[0:31 - 0:32] buck
+[0:32] stay
+[0:32 - 0:34] isicorny
+[0:33] माँ 2
+[0:33 - 0:34] aloto
+[0:34] ing
+[0:34] not
+[0:34] functio
+[0:36] you I
+[0:36 - 0:39] sLockin
+[0:37] on't
+[0:37 - 0:38] that po
+[0:38] ~~ कक्ष
+[0:38] \ हैं
+[0:38] guilty
+[0:38 - 0:39] isicorny,
+[0:40] “lockinginiz
+[0:40] 19601
+[0:40] (different p
+[0:41] ing
+[0:41] axe
+[0:41] Pi, 6
+[0:41 - 0:42] orny
+[0:41 - 0:42] of it
+[0:41 - 0:42] Y kind of
+[0:41 - 0:42] perspec
+[0:42] scored
+[0:42 - 0:44] inp
+[0:43] “llockinginiz
+[0:43] 19001
+[0:43] end.
+[0:44] et pe
+[0:44 - 0:45] compe
+[0:44 - 0:56] is corny,
+[0:45] Gis
+[0:45] 27, 4
+[0:45] A ASE
+[0:45 - 0:46] » exam without
+[0:45 - 0:53] sllockin
+[0:47] different
+[0:47] perspective)
+[0:48] ing
+[0:48] $ corny
+[0:48] yh Ai
+[0:48] 99% of
+[0:49] “lockingline
+[0:50] ine
+[0:50] ia के
+[0:50] 99% otp \ | le
+[0:50] generati
+[0:50 - 0:51] io have
+[0:51] Fda
+[0:51] alth did
+[0:52] gett
+[0:53] rie |
+[0:54] ine
+[0:55] inp
+[0:55] ay Ke
+[0:56] Lockin

@@ -1,0 +1,89 @@
+# model: ggml-large-v3
+========================================================================
+[534] https://www.instagram.com/reel/DUvjQdRjDeN/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I love you so, I can never let you go
+[0:05 - 0:10] In the whole wide world, you're the one for me
+[0:10 - 0:15] I love you so, I can never let you go
+[0:15 - 0:17] When I'm waiting for you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] छे ०
+[0:00] ss व
+[0:00] पा बी
+[0:00] Just letting
+[0:00] हैः
+[0:00 - 0:01] know
+[0:01] ini lett
+[0:01] inguyjou
+[0:02] Juste
+[0:02] das
+[0:03] 119 | (00
+[0:03] etween poetagan
+[0:03] an diet
+[0:03] anonveyetani
+[0:03] ton
+[0:03] uscle grow
+[0:03] i os =
+[0:04] Oa Sila
+[0:04] egeta
+[0:04] jan diet
+[0:04 - 0:05] her
+[0:04 - 0:05] jetween
+[0:04 - 0:05] nonvegetagian diet
+[0:05] NO DIFRERENGE
+[0:05] Beto no
+[0:05] ‘fio
+[0:05] muscl
+[0:05] uscle ry
+[0:06] 1.10 per
+[0:06] ight pro
+[0:06 - 0:07] Aslong.as you ge
+[0:07] Ses
+[0:07] ail
+[0:07] 1.19 os p
+[0:07] J ix:
+[0:07] शर्ट
+[0:08] ali
+[0:08] hs lo
+[0:08] do not wi gut issue
+[0:08] dal
+[0:08] 4 at
+[0:08 - 0:09] Ins ong.as those food so
+[0:09] eal
+[0:09] donot
+[0:09] a gut issues
+[0:10] ie ali
+[0:10] Ins ong
+[0:10] as the
+[0:10] se food.sources
+[0:10] Seiquit issue
+[0:11] You don wi havelto w
+[0:12] जान
+[0:12] You don't
+[0:12] ito wor
+[0:12 - 0:13] TTT
+[0:13] 16'weeks show
+[0:13] 4168
+[0:13 - 0:14] Long term.data of 16 weeks
+[0:13 - 0:14] no ae diffenence-
+[0:13 - 0:14] betweenlgnowth
+[0:13 - 0:14] PMID
+[0:14] 41684167
+[0:15] he ms
+[0:15] addi
+[0:15] पक पी
+[0:15 - 0:17] follow for more
+[0:16] Salil
+[0:16] Wior more 7
+[0:16] aa | b
+[0:16] aie +
+[0:16] ddan
+[0:16] ae pe
+[0:16] श्र
+[0:17] ‘dae
+[0:17] so 5,

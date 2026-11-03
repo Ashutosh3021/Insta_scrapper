@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[837] https://www.instagram.com/reel/DLVAIAJRCUQ/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हल 6
+[0:00] wie
+[0:00] bog
+[0:00] 424
+[0:00] 7० > + मे
+[0:00] bee
+[0:00] ee rE.
+[0:01] श्र
+[0:01] +. 3७० ७
+[0:01] 7 कर
+[0:01] Nae
+[0:01] tty
+[0:01] Rp Sg
+[0:02] mr | ey
+[0:03] a 55 जहर
+[0:05] हाथ
+[0:05] है छट
+[0:07] che
+[0:08] i 58
+[0:10 - 0:11] AAO
+[0:13] Boe

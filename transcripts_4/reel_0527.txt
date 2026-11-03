@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[527] https://www.instagram.com/reel/DU3HnG2jAOk/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Where are you now?
+[0:03 - 0:06] I've been here
+[0:06 - 0:08] Under the sea
+[0:08 - 0:11] Under the sea
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] — Fale
+[0:03] ae Le
+[0:04] गम्ण्-्ऊझऊकन्ग्र
+[0:06] ~ Fae

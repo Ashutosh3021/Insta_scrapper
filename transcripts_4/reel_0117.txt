@@ -1,0 +1,69 @@
+# model: ggml-large-v3
+========================================================================
+[117] https://www.instagram.com/reel/DdRKnnesB7X/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] अगर आपको बिल्ड करना है तो इसके पीछे आपको एक मेकानिजम बताता हूँ
+[0:05 - 0:07] जो हमारे फ्रंट मसल होती है इसमें होते हैं fast twitch fibers
+[0:07 - 0:10] साइड वाले में होते हैं fast और slow twitch fibers
+[0:10 - 0:13] और जो हमारे रियर होती है इसमें होते हैं slow twitch fibers
+[0:13 - 0:13] अब ये activate
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] T= fl
+[0:06] un पलक
+[0:06 - 0:08] fa DELTOID
+[0:07] men एफ
+[0:07 - 0:09] ‘SIDE DELTOID
+[0:08] ear
+[0:09] artim
+[0:12] a DELTOID
+[0:14] 3 heed
+[0:14] x दि
+[0:14] ted
+[0:14] se ।ए
+[0:14] क्र
+[0:14] ito
+[0:15] » bind
+[0:15] Dal
+[0:15] Tel
+[0:15] iffene
+[0:15] 11116 gions)
+[0:15 - 0:16] (Of the delts
+[0:16] ६ ae
+[0:16] Sal
+[0:16] Phenelanen(ditienens
+[0:16] gio
+[0:17] You can tretin
+[0:17] Slowitwite!
+[0:17] fflosrs
+[0:18] Youa
+[0:18] train
+[0:18] ‘Slow twitch fibers)
+[0:19] Bucthiayare nat gating to
+[0:19] Growlbe
+[0:19] calise theres acapypla
+[0:19] eel
+[0:19 - 0:20] theigrate of oxygen consumption
+[0:20] balled
+[0:20] i ay are
+[0:20] gto
+[0:20] Grow because
+[0:20] thenestalcap)
+[0:21] Bothitherant
+[0:21] LE RIO
+[0:21 - 0:22] And lateral deltoid a
+[0:21 - 0:22] 50% fast and slow!
+[0:22] Both 5 anteniony
+[0:23 - 0:24] Individual typeimay Vaqyy
+[0:25] “a Shoulders”
+[0:25] are
+[0:25] » Basedion yourinsegtions)
+[0:26 - 0:27] itéstlike’sayin
+[0:26 - 0:27] I'm training for m
+[0:26 - 0:27] “Bicepjpeak”
+[0:28 - 0:29] You either have on;
+[0:28 - 0:29] You don't

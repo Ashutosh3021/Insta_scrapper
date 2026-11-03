@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[910] https://www.instagram.com/reel/DIdMnuchqZ2/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:25] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 5 t belt
+[0:00] jas ©
+[0:01] all
+[0:01 - 0:03] Ban ~
+[0:01 - 0:24] Seat belt “"
+[0:04] fia,
+[0:05] fis
+[0:06] y rah
+[0:07] / aie -
+[0:08] fia
+[0:08] peur
+[0:09] fis
+[0:09] rer --
+[0:11] fia,
+[0:12] a ae
+[0:12] ae a
+[0:13] fia Va
+[0:13] CY i 4
+[0:14] fia.
+[0:14] al Mi
+[0:16 - 0:17] fra.
+[0:17] i ie
+[0:18] ae ४
+[0:18] en. i
+[0:19] ine
+[0:19] y it)
+[0:21] fal
+[0:22] ath
+[0:23] क्र
+[0:23] 5 al
+[0:24] int

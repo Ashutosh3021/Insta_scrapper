@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[745] https://www.instagram.com/reel/DO9Cbdzk330/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] I don't know what is going to happen.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] =f Ishaan Thakur natty?
+[0:00] om a
+[0:01] ite
+[0:03 - 0:04] is there a perfect number of sets
+[0:03 - 0:04] ican do for muscle growth?
+[0:05] fafo
+[0:06] aol
+[0:07] what's the best training
+[0:07] frequency?
+[0:07] J ta Me
+[0:07] Lt aie a
+[0:08] > = bed
+[0:09] fafo
+[0:09] idk
+[0:10] How much should ires'
+[0:10] tm रत
+[0:10] a ad
+[0:10 - 0:11] ® Raghu
+[0:11] re . much should i “a
+[0:11] lis, em
+[0:11] Wes
+[0:13] om ae

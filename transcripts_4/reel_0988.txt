@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[988] https://www.instagram.com/reel/C-7Q2IkBsvt/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I got eyes on the back of my head, I got ass everywhere so I know where you gone.
+[0:03 - 0:07] I can drop ties in this bitch, drop like flies in this bitch.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:02] we weight
+[0:02] प्र
+[0:02] ‘Same body
+[0:03 - 0:08] in § better nutrition ”
+[0:04] है Sena. a”

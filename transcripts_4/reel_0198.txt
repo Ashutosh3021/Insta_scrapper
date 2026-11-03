@@ -1,0 +1,77 @@
+# model: ggml-large-v3
+========================================================================
+[198] https://www.instagram.com/reel/DbtCdBXM405/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:21] 🎵
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] "a ws
+[0:00] laa
+[0:00 - 0:03] Pressing is always fun
+[0:00 - 0:21] y (Ascending profile tho) | ~
+[0:01] a> of
+[0:02] Pressing is an
+[0:02] pee ae =
+[0:02] oe 3262० 2+
+[0:02 - 0:05] gee >>
+[0:03] Pia
+[0:03] iil
+[0:03] ~q Ul
+[0:03] ie ime
+[0:04] Pressing is ry, Sif
+[0:04] gill a
+[0:05] Pressing is al rT
+[0:06] — ह छक्का
+[0:06] Cia
+[0:06 - 0:14] है श्र
+[0:06 - 0:20] Pressing is always fun * -
+[0:07] thd
+[0:07] te F ie
+[0:07] at kh
+[0:07] ७७७४
+[0:08] _ Pres
+[0:08] कैच
+[0:08] can)”
+[0:08] है! a
+[0:08] joc
+[0:08] & लेकक-
+[0:09] हुं
+[0:09] wif २५ (
+[0:09] <i va ww
+[0:10] | bos
+[0:10] — e Came
+[0:11] Bhi
+[0:11] “rll
+[0:11] (1५५
+[0:11] ati, We
+[0:12] Asce
+[0:12] Ame ॥ (
+[0:12] = Step
+[0:12] ij q
+[0:12] dual
+[0:13] tay
+[0:13] iF Rey \
+[0:14] mesh
+[0:15] हि ०५५॥५ is alwaysfun |
+[0:15] * ss N
+[0:16] 1 की
+[0:16] है न
+[0:16] 74 हनन
+[0:18] fun
+[0:18] 155
+[0:18] profile
+[0:19] Ty aN
+[0:19] 1 G4 %
+[0:19] हैं?
+[0:20] क्र
+[0:20] Grad
+[0:20] ws 6७०
+[0:21] ressing
+[0:21] gis always fun
+[0:21] eae
+[0:21] li i)
+[0:21] 0. अमन

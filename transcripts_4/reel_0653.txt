@@ -1,0 +1,217 @@
+# model: ggml-large-v3
+========================================================================
+[653] https://www.instagram.com/reel/DRXmwvmE4EO/
+STATUS: OK
+DURATION: 1:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] This video is for the science-based community out there.
+[0:02 - 0:06] So I want to understand what is one misconception about science-based training
+[0:06 - 0:09] that people who are opposite to it don't get?
+[0:09 - 0:12] A big misconception because a lot of people will see these small lifters
+[0:12 - 0:16] perform these weird-ass exercises and they'll see that this is not really that difficult.
+[0:16 - 0:19] What is this? But that thing requires intensity, right?
+[0:19 - 0:22] At the end of the day, that thing requires intensity and if you don't have the intensity,
+[0:22 - 0:24] you're not going to get the results, right?
+[0:24 - 0:27] That's one of the biggest misconceptions which people have about science-based training.
+[0:27 - 0:29] What are your thoughts on low-volume training?
+[0:29 - 0:32] Dude, I love low-volume training. Low-volume training should be done.
+[0:32 - 0:34] Everyone should be doing low-volume training.
+[0:34 - 0:37] High-volume training is a propaganda which is spilled by people.
+[0:37 - 0:39] High-volume training should not be done.
+[0:39 - 0:44] Anyone who is training with high-volume training should be immediately banned from posting on Instagram.
+[0:44 - 0:47] What are your thoughts on mind-muscle connection?
+[0:47 - 0:52] I think it helps. Mind-muscle connection is something which is going to help you increase motor unit recruitment.
+[0:52 - 0:55] But one main thing is that progressive overload.
+[0:55 - 0:59] That's one biggest factor because that's one thing which you cannot judge
+[0:59 - 1:00] which is mind-muscle connection.
+[1:00 - 1:05] There are a lot of people out there who want to do very unique optimal exercises in the gym
+[1:05 - 1:11] that look a bit honestly weird to other people and they feel a little fear because of that.
+[1:11 - 1:12] What would you like to say to them?
+[1:12 - 1:15] Don't care about what people are going to see, right?
+[1:15 - 1:18] Someone's going to make fun of you. Someone's going to be like, "Bhai, what is this guy doing?"
+[1:18 - 1:22] But that's just him speaking, right? He doesn't know what is motor unit recruitment.
+[1:22 - 1:24] He doesn't know what is mechanical tension.
+[1:24 - 1:27] All he knows is this exercise looks stupid and I'm not going to do it. That's it.
+[1:27 - 1:28] So, you do what you do, you know?
+[1:28 - 1:29] Who do we know?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] शक ८ when 5|
+[0:00] are
+[0:00] sae
+[0:00] Weel
+[0:00 - 0:02] welly sed
+[0:01] e when§__Mles are
+[0:01 - 0:02] This video is for the
+[0:02] ise when
+[0:02] os are
+[0:02] y out there
+[0:04] 7 seq
+[0:04] So T want to un
+[0:04] rstand whatis
+[0:05] are sh
+[0:05] eat
+[0:05] yell se0
+[0:05] mit
+[0:05 - 0:07] hen sto
+[0:06] aur. 5)
+[0:06] Welly ५०७
+[0:06] science-based
+[0:07] ely iy
+[0:07] science-based training that people
+[0:07 - 0:09] re sha
+[0:08] ed i ised
+[0:09] en sto
+[0:10 - 0:17] rise wh
+[0:10 - 0:20] Cham
+[0:11] becausea
+[0:11] lot of people will see the
+[0:13] like perform
+[0:13] these weird exe
+[0:15] rea
+[0:15 - 0:16] they'll see why this is
+[0:16] really
+[0:16] that d
+[0:17] हें.
+[0:17 - 0:18] this is what is this
+[0:18 - 0:20] day that thing requires i
+[0:19] right at tly
+[0:20] right at the end of the
+[0:21] bald
+[0:21 - 0:23] and if you don't have the intensity
+[0:21 - 0:23] you're not going to get the res:
+[0:21 - 0:27] Ise W
+[0:23 - 0:27] Cham
+[0:24] के Ww
+[0:24] that's one
+[0:25 - 0:26] that’s one of the biggest
+[0:26] है Ww
+[0:26 - 0:27] which people haye about
+[0:27] that
+[0:27] ९ of the biggest
+[0:28] WN seq
+[0:28] what are your thoughts on
+[0:28] low volume tr.
+[0:29 - 0:30] s rise wh
+[0:30 - 0:31] dudel
+[0:31] rise wh
+[0:31] low volume training should be
+[0:32 - 0:34] e whe
+[0:33] low voiu
+[0:33 - 0:34] donee
+[0:33 - 0:34] ne should be doing
+[0:33 - 0:37] Champio
+[0:34 - 0:36] low volume training
+[0:36] which is spilled by pe
+[0:37] high voi
+[0:38 - 0:39] high volume training should not be
+[0:39] Cha
+[0:39] rise wh
+[0:39] done anyone who's training
+[0:40] e wh
+[0:40] with high yo
+[0:40 - 0:43] Champ,
+[0:41 - 0:43] whe
+[0:42] re e
+[0:42 - 0:43] should be
+[0:43] from posting
+[0:44 - 0:46] N seq
+[0:44 - 0:47] hen stogs
+[0:44 - 0:47] p share
+[0:45] e shar
+[0:45] eV seg
+[0:45] whatare your
+[0:46] enst
+[0:46] what are your thoughts on
+[0:46] mind muscle conn
+[0:47] UN seq
+[0:48 - 0:49] I think ithelps you know
+[0:48 - 0:59] rise ५४
+[0:49] 1५६ है हुए
+[0:50] 1156
+[0:50] something which is
+[0:50] going to
+[0:51] incre
+[0:52] WaT”
+[0:52] increase 1
+[0:52] but है
+[0:52 - 0:53] Cha
+[0:53] ५ कं
+[0:53] fly 2
+[0:53] mai
+[0:54] og pi thing is that
+[0:55] 9 ee
+[0:55] one main things that
+[0:56 - 0:57] that’s one thin
+[0:57] or because
+[0:57 - 0:59] Cha
+[0:58] | 2 Ww
+[0:58] {hy de
+[0:58] yous
+[0:59] What >
+[0:59] you SES ait oil
+[1:00] >when 5
+[1:00] are sh
+[1:00] i iv ised
+[1:00] there are a lot of
+[1:01] FIV seg
+[1:01] there area lot of people out
+[1:01] there who want to
+[1:02] 2 sed
+[1:03] 580
+[1:03] unique op
+[1:03] al exercises
+[1:04] 7. Seq
+[1:04] unique optimal exercises
+[1:04] in the gym
+[1:05] esh
+[1:05] ॥७॥ seg
+[1:05] that look ab
+[1:05 - 1:08] when stog
+[1:06] hen a)
+[1:06] Welly seg
+[1:06] that look a bit uh honestly
+[1:06 - 1:12] e share
+[1:07] KY sed
+[1:07] weird to othe
+[1:08] 121
+[1:08] We’ seg
+[1:08] weird to other people and they
+[1:08] feela lit
+[1:09] Yel seg
+[1:10] Wel ७७७
+[1:10] wh fear because of
+[1:10 - 1:12] hen sto
+[1:11] \ ४६३ sed
+[1:11] what w
+[1:12] MV seg
+[1:12] what would you like to
+[1:12] say to them
+[1:13] (९ about what people
+[1:13] are gonna say
+[1:13 - 1:28] rise whe
+[1:14 - 1:15] right some
+[1:15] e's gonna
+[1:15] of you
+[1:17 - 1:18] gonna be like
+[1:17 - 1:18] what is this guy
+[1:17 - 1:22] Cham
+[1:18] but
+[1:19] that's
+[1:19] st him speakin
+[1:20] that’s just him speaking right he
+[1:22 - 1:23] Che doesn't
+[1:22 - 1:23] know whatis
+[1:24] ७०2
+[1:24 - 1:25] all he knows is this ९
+[1:25] andi'm ©
+[1:26] nye)
+[1:26] gono
+[1:27] Cha
+[1:27] comes it
+[1:29] so you do what you do
+[1:30] Time to Main
+[1:30] by Wellversed
+[1:30] FU.RN Trains

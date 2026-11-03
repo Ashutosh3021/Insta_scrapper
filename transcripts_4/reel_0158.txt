@@ -1,0 +1,122 @@
+# model: ggml-large-v3
+========================================================================
+[158] https://www.instagram.com/reel/DcjCeX_soYh/
+STATUS: OK
+DURATION: 0:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] If you want to make gains as a rate of a tortoise,
+[0:02 - 0:04] the best thing you can do is go to the gym while you're hungry.
+[0:04 - 0:07] If you're going to the gym while you're hungry or you're in the gym feeling hunger,
+[0:07 - 0:10] you're probably not maximizing muscle growth.
+[0:10 - 0:14] The best thing you can do is while you're at the gym or before you even go to the gym,
+[0:14 - 0:16] you don't have the sensation of feeling hungry.
+[0:16 - 0:18] Or if they have something liquid, it will be fine.
+[0:18 - 0:23] No, this is a study right here showing the complete opposite,
+[0:23 - 0:26] saying that a semi-solid meal outperforms a liquid meal
+[0:26 - 0:29] just because the hunger sensations were less.
+[0:29 - 0:32] The hunger sensations are going to interfere with your training performance.
+[0:32 - 0:35] Have something which fills you up before you go to the gym.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] If you\wanna make gains as
+[0:00] पलक
+[0:00] ion
+[0:00 - 0:01] a Tortoise
+[0:01] Ifyou wanna nie gains asiajnatejof
+[0:01] arate of
+[0:02] Beotothe
+[0:02] gymhungr
+[0:03] 23९
+[0:03] Bato the gymhunge
+[0:05] ऋ 3 च
+[0:05] करे
+[0:05] _ 4, खा
+[0:05] ey 4
+[0:05] if you-arego
+[0:05] ५०० _
+[0:05] कु 2
+[0:06] Foe
+[0:06] cet
+[0:06] ae fe your
+[0:06] ee. 4
+[0:07] ral
+[0:07] teem
+[0:07] हवा
+[0:07] eet
+[0:08 - 0:09] feel
+[0:08 - 0:09] are
+[0:09] izing
+[0:11] you can
+[0:14] fish
+[0:14] 4 we
+[0:15] aut,
+[0:15] ae. ९
+[0:16] f feeling
+[0:17 - 0:19] 2... carbs will
+[0:17 - 0:19] J ~ Dothe job”
+[0:19] Lilt
+[0:19] 1९५
+[0:20] Epub
+[0:20] 1 Dec
+[0:20] i del
+[0:20] liquid it will be fine
+[0:20] no this is
+[0:20 - 0:22] Clayton, Lewis J Jame:
+[0:20 - 0:23] Int J
+[0:20 - 0:23] jorm. 20:
+[0:20 - 0:23] far 1;17(3}
+[0:20 - 0:23] 58-464. doi: 10.1
+[0:20 - 0:23] p.2021-0166.
+[0:20 - 0:23] Starving Your Performance? Reduced Preexercise
+[0:20 - 0:23] Hunger Increases Resistance Exercise Performance
+[0:20 - 0:23] din
+[0:20 - 0:23] PMID: 34872065. Dt
+[0:20 - 0:23] 0.11
+[0:21] here
+[0:21 - 0:22] Epul
+[0:21 - 0:23] arudin
+[0:22] far 1;17(3):458-464. doi: 10.1
+[0:22] owet:
+[0:22] osite
+[0:23] Epub 2
+[0:23] ‘on, Lewis J James
+[0:23] opposite saying
+[0:24] है is Bice
+[0:25] 110
+[0:25] solid mealoutperforms
+[0:25 - 0:28] SEM
+[0:26] aliquid
+[0:26 - 0:28] LIQ
+[0:27] a liquid’meal just
+[0:27] because
+[0:29] it ५
+[0:29] irra
+[0:30] wee. ।
+[0:30] nie Fe
+[0:30] Peat
+[0:30] ae, Y
+[0:30] ५ Bei,
+[0:30] WHE i
+[0:30] Abin.
+[0:30] ote
+[0:30] Be 4]
+[0:30] Rees
+[0:30] ——— बड्ब्त्लस
+[0:30] e_ at |
+[0:30] wal
+[0:30] Lge
+[0:31] Pris
+[0:31] श्र
+[0:31] “ag A
+[0:31] Se ge
+[0:31] है ०
+[0:31] ces
+[0:31] MESES
+[0:31] ie rr
+[0:31] fj eo,
+[0:33] have something whe
+[0:34] Mog
+[0:34] you up before you
+[0:35] Anyways

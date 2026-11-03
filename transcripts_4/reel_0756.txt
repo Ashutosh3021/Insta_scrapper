@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[756] https://www.instagram.com/reel/DOgeppyk1vk/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] The cream and I'll hear you scream again
+[0:07 - 0:13] Black hole sun, won't you come
+[0:13 - 0:15] Won't you come
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] क्र
+[0:00] is one las
+[0:00] titime
+[0:00] », acy
+[0:00 - 0:01] lim gonnaisay
+[0:01] | मे के
+[0:01] 9, बा 2
+[0:01 - 0:02] this one last tit
+[0:02] ॥ gonfa say
+[0:02] my Ma
+[0:04 - 0:06] v This igmore
+[0:04 - 0:08] front’delts
+[0:05 - 0:10] alli
+[0:06] es |i
+[0:07 - 0:08] aes igmore
+[0:08] Aol
+[0:09] This
+[0:10] चुरा |
+[0:10 - 0:11] a upper pec’
+[0:11] itis
+[0:11] mere
+[0:11] mor
+[0:12] \ send |
+[0:12] Pass
+[0:12] Bag
+[0:12] mone upper pec
+[0:13] A are
+[0:13] he U
+[0:13] pec’
+[0:14] all
+[0:14] This is
+[0:14] upper pe
+[0:15] ali
+[0:15] eae
+[0:15] Thi
+[0:15] Pal
+[0:15] ‘more ee pec

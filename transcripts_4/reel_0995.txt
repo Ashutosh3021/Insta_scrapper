@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[995] https://www.instagram.com/reel/C-kTD15N9Jn/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] “a 4: Day1
+[0:02] ‘ate |
+[0:04] ri Bl
+[0:04] रु (3
+[0:04] - we a

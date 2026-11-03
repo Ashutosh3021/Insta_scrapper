@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[33] https://www.instagram.com/reel/DehqANas-lZ/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I'm Mr. Lover Lover
+[0:02 - 0:06] She call me Mr. Bombastic
+[0:06 - 0:07] Tell me fantastic
+[0:07 - 0:08] Touch me on me box
+[0:08 - 0:12] She says I'm Mr. Romantic
+[0:12 - 0:13] Call me fantastic
+[0:13 - 0:14] Touch me on me box
+[0:14 - 0:16] She says I'm Mr. Smooth
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] डर the refe
+[0:00] Fullness
+[0:00] झलक
+[0:00] भव्य
+[0:01] efore refeed
+[0:01] (iar “4
+[0:02] बाण
+[0:02] mal
+[0:02] fore'fe ol
+[0:02] क्र
+[0:02] बल है भा
+[0:03] by ml
+[0:03] tee,
+[0:03] ore ref
+[0:04] AR ae refee
+[0:05] क 2०.
+[0:06] we 3
+[0:08] 92०७2
+[0:09] प्र
+[0:09] ९6 4
+[0:09] aes
+[0:10] TANS
+[0:10] wel
+[0:11] Psi
+[0:11] toy
+[0:12] ॉंग्ग्गय
+[0:12] Alp
+[0:13] Before
+[0:13] क्र
+[0:16] 2७1
+[0:17] o Sin
+[0:18] है 11.
+[0:18] DOKEL\

@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[614] https://www.instagram.com/reel/DSnMxXxDEEG/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] We start wildin'.
+[0:01 - 0:02] These niggas out here snitchin'.
+[0:02 - 0:04] They with the rat pack.
+[0:04 - 0:07] Hit em with the chopper, that's the rat trap.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] , iigotintorfitness
+[0:00] did) NOW
+[0:00] ijd|be doing this
+[0:01] When
+[0:01] ‘idig|NONkmowfiidline d
+[0:01] KE c: /y
+[0:02] emiilgatiin
+[0:02] ito
+[0:02] ness, «
+[0:02] owl
+[0:03] fitness)
+[0:03] NOT
+[0:03] lowiid be doin g this
+[0:04] Whenliigotinto fitness
+[0:04] [cid NOW
+[0:04] lic, be ष्थ्र this
+[0:05] When
+[0:05] into fitness
+[0:05] NON know)
+[0:05] 11 bed
+[0:06] got noite
+[0:06] 110 1 0010॥6 doing this —
+[0:07] Wren
+[0:07] owildlbeld
+[0:07] this)

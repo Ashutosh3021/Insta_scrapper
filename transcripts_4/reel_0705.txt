@@ -1,0 +1,373 @@
+# model: ggml-large-v3
+========================================================================
+[705] https://www.instagram.com/reel/DQKYTPRk2k4/
+STATUS: OK
+DURATION: 2:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] if you're using ammonia salts before a lift thinking that it's going to help you produce
+[0:03 - 0:08] more force you have been misled now a lot of people use ammonia salts before a lift thinking
+[0:08 - 0:11] that it's going to help them psych up before a lift which is going to help them produce more
+[0:11 - 0:16] force but that's not really how it works you see ammonia salts are used in a lot of variety of
+[0:16 - 0:22] sports like powerlifting strongman and sometimes in regular gym habits as well yes ammonia salts
+[0:22 - 0:27] are going to help you feel more prepared for a lift but it is not going to increase your training
+[0:27 - 0:32] performance you see in a powerlifting competition ammonia salts are usually used before deadlifts
+[0:32 - 0:37] because that's the last exercise in the given lift and they use ammonia salts before a lift
+[0:37 - 0:42] just to make sure that they clear out that kind of fatigue which has been built throughout those
+[0:42 - 0:46] two given lifts but regardless of people using it or not ammonia salts have been linked with
+[0:46 - 0:51] no increase in exercise performance in one of the studies it was shown that there was 11.5
+[0:51 - 0:57] increase in the amount of alertness which one has but alertness is not a quantified
+[0:57 - 1:04] metric of fatigue fatigue is an objective reduction in exercise performance if ammonia
+[1:04 - 1:09] salts can help reduce fatigue we should see an up regulation in your exercise performance but
+[1:09 - 1:14] again that's not really what we see in this given study just to see if training performance
+[1:14 - 1:19] increases in a fatigue state by use of ammonia they did some tests before putting people in a
+[1:19 - 1:24] fatigue state and they did some tests after putting people in a fatigue state and once
+[1:24 - 1:27] they were in a fatigue state they were given ammonia salts just to see if there is any
+[1:27 - 1:33] increase in performance and they tested again and as you can see there's not much increase you can
+[1:33 - 1:38] see here and not only that we also have one more study which shows that there's no improvements in
+[1:38 - 1:44] one rep maxes and repetition maxes of deadlifts and not only that ammonia salts do not decrease
+[1:44 - 1:50] the cognitive fatigue which is created after 36 hours of sleep deprivation all in all ammonia
+[1:50 - 1:55] salts are not going to increase your exercise performance regardless of your mental state so
+[1:55 - 1:57] if you want you can use it if you
+[1:57 - 2:00] like using it you can use it but yeah that's it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] nor
+[0:00] mona Salis?
+[0:00] ivr
+[0:00 - 0:01] if yall re using
+[0:01] 152
+[0:01] before
+[0:01 - 0:03] annimonia Salts?
+[0:02] wore
+[0:02] oad
+[0:02] thinking
+[0:03] tad 1
+[0:03] aim
+[0:03] d | i help you
+[0:03 - 0:04] thinking that it's
+[0:04] ‘am m.
+[0:04] onla Saks?
+[0:04] oak 2
+[0:04] gonna help you
+[0:04] produce more force
+[0:05] you, have been
+[0:05] misled
+[0:06] ist
+[0:06 - 0:07] a lot of people use
+[0:07] ammonia salts
+[0:07] before
+[0:08] gonna
+[0:08 - 0:09] Ha, that is
+[0:09] ay ४ हि
+[0:09] thin
+[0:09] pis
+[0:09] Ip them
+[0:09] psyche up
+[0:10] Which
+[0:11] के ह।
+[0:11] which is gonna help
+[0:11] them produce
+[0:12] Gene
+[0:12] का 4
+[0:13] Cee
+[0:13] lus
+[0:13] but that's not really
+[0:13] OM it
+[0:14] yer
+[0:14] you 566 ammonia
+[0:15 - 0:16] you see ammonia
+[0:15 - 0:16] salts are used in a lot
+[0:16] ice
+[0:16] iPr
+[0:16] of variety of sports
+[0:17] rt) Ww
+[0:17 - 0:18] like powerlifting
+[0:18] strongman
+[0:19] and SBhictimes in
+[0:20] regular gym habits
+[0:20] and sometimes in
+[0:21] खिल
+[0:21 - 0:24] yes ammonia salts
+[0:22] aide
+[0:22] are going
+[0:23] feel more
+[0:23 - 0:24] are going to help you
+[0:24] feel more prepared
+[0:26] but it isinot
+[0:27] किम
+[0:27 - 0:28] but it is Wot going to
+[0:27 - 0:28] increase your
+[0:28] training
+[0:28] performance
+[0:29] ne q
+[0:29] you see ina
+[0:29] powerlifting
+[0:30] ammonia
+[0:31] ool
+[0:31] प्ड्ण्दू
+[0:31 - 0:32] ammonia salts are
+[0:32] usually used before
+[0:32] deadlifts
+[0:33 - 0:35] } becatgs that's the
+[0:34] प्र
+[0:34] pe Wexcrcise
+[0:35] last exercise in the
+[0:35] given lift
+[0:36] ammonia
+[0:36 - 0:37] and they use
+[0:37] bef
+[0:37] ammonia salts
+[0:37] before a lift
+[0:38 - 0:39] that
+[0:38 - 0:40] just to make sure
+[0:39] Woy
+[0:39] hel
+[0:39 - 0:40] that they clear out
+[0:40] 11 “ay
+[0:40] that kind of fatigue
+[0:41] clear ony
+[0:41 - 0:42] which has been built
+[0:42] throughout those
+[0:42] two given
+[0:43 - 0:44] but regardless of
+[0:44] ay A
+[0:44] peofile using
+[0:45] vary»
+[0:45] 2 श्र 4
+[0:45] per
+[0:45] nope salts
+[0:46] (८5१: linked
+[0:47] with)no increase in
+[0:47 - 0:48] havelbeen linked
+[0:48] कमा
+[0:48] with no
+[0:48] crease in
+[0:48] exercise
+[0:48 - 0:50] Elevated arousal following acute ammonia inhalation
+[0:48 - 0:50] is not associated with increased neuromuscular
+[0:48 - 0:50] performance
+[0:49] ibs
+[0:49] in one of the studies
+[0:50] on, te
+[0:50] there
+[0:50 - 0:53] it waS)shown that
+[0:51 - 0:53] there was 11.5
+[0:52] Zuo
+[0:52 - 0:53] #१००३७
+[0:52 - 0:53] increase in the
+[0:53] Wier
+[0:53] amount of alertness
+[0:54] whic he has
+[0:55] ee 1
+[0:55 - 0:58] which one has but
+[0:56] » Sade su
+[0:56] didnit stie
+[0:56] improvement:
+[0:56] hfe
+[0:56] DB rr
+[0:56 - 0:58] alertness is not a
+[0:57] 1113 0४०9
+[0:57] felnt
+[0:57] 19119
+[0:57] quantifiable
+[0:58] eys tu
+[0:58] slic mats
+[0:58] Strenghti
+[0:58] TOTO)
+[0:58] ifiable metric
+[1:00] owe
+[1:00 - 1:02] fatigue’is an
+[1:01 - 1:02] objective reduction
+[1:02] me 1
+[1:02] in exercise
+[1:02] performance
+[1:03] pe I
+[1:04] val c)
+[1:04] can,
+[1:04 - 1:05] if harmonious salts
+[1:05] बर्थ
+[1:05] can help reduce
+[1:05] fatigue
+[1:06] we snot
+[1:07] we should see an up
+[1:07] regulation
+[1:08] we nl
+[1:08] see anup
+[1:08] lation in your
+[1:08] exercise
+[1:09] oad
+[1:09] but»
+[1:10 - 1:12] but again that's not
+[1:11] ee 9.
+[1:11] oat)
+[1:11] "रु we
+[1:12] sae
+[1:12] The Effect of Ammonia Inhalants
+[1:12] on Mental-Fatigue-Related Force
+[1:12] Loss
+[1:12] by Matthew J. Barnes”
+[1:12] Emma O'Connor 3® and Jason van Zanten &
+[1:12] School of Sport, Exercise & Nutrition, College of
+[1:12] Health, Massey University, Palmerston North 4410,
+[1:12] New Zealand
+[1:12] * Author to whom correspondence should be
+[1:12] addressed,
+[1:12] really what we see in
+[1:12] this given
+[1:13] h'y4
+[1:13] just to see
+[1:14] hes °
+[1:14 - 1:15] just to see if training
+[1:14 - 1:15] performance
+[1:15] at 2
+[1:15] increases in an
+[1:15] fatigue
+[1:17] ise of ammonia
+[1:18] हैः
+[1:18 - 1:20] they did some test
+[1:19] i bad
+[1:19] they,
+[1:19] pele in
+[1:19 - 1:20] before putting
+[1:20] people in a fatigue
+[1:20] state
+[1:21] woe
+[1:23] bad
+[1:24] ee i
+[1:24] and oncé they
+[1:25] wee
+[1:25] al a
+[1:25] they
+[1:26] ayer’ 4
+[1:26] they were given
+[1:26] रे salts
+[1:26 - 1:28] bad
+[1:27] just to see,
+[1:28] just to see if there is
+[1:28] an increase in
+[1:28] formance
+[1:29] ७४.2
+[1:29] ait
+[1:29 - 1:31] and they tested
+[1:30] ani i, tested
+[1:30] again and
+[1:31] jain and as you can
+[1:31] see
+[1:33] theréis not'much
+[1:33] increase
+[1:34] pee
+[1:34] you can see here and
+[1:35] - हिल
+[1:35] wealso have
+[1:36] गान
+[1:36] The Impact of Ammonia inhalants on Strength
+[1:36] Performance in Resistance Trained Mi
+[1:36] ‘ScoltR, Richmond’, Adam 0. Potts! Joseph R. Sherman’
+[1:36] lich
+[1:36] which
+[1:36 - 1:38] JEPoniine
+[1:36 - 1:38] ret
+[1:36 - 1:38] "Department of Kinesiology, Missouri State Univeray, Springhill
+[1:36 - 1:38] MO, USA, ‘Lamar Univesty Stength & Conditoning Department.
+[1:36 - 1:38] Lamar Universty, Beaumont, TX. USA.
+[1:36 - 1:38] ‘ABSTRACT
+[1:37] pratt
+[1:37] hows that
+[1:37] ire's no
+[1:37 - 1:38] Performance in Resis!
+[1:37 - 1:38] The Impact of Ammonia inh:
+[1:37 - 1:38] १०७ Trained Mal
+[1:37 - 1:38] its on Strength
+[1:37 - 1:38] ‘Scot R. Ritnond’, Adam 0. Pots, Joseph रि.
+[1:37 - 1:38] van
+[1:37 - 1:38] improvements in
+[1:38] which'shows that
+[1:38] there's no
+[1:38] one
+[1:39] and
+[1:40] The ५७७०७
+[1:40] Three
+[1:40] ees
+[1:40] te oy
+[1:40] ‘meee
+[1:40] ow wR 0
+[1:40] tc 40७०
+[1:40] etree ७० aan
+[1:40] ‘falter tom bch stand bench pros nen
+[1:40 - 1:41] whe
+[1:40 - 1:41] and repetition
+[1:41] Pen!
+[1:41] ery
+[1:41] ime
+[1:41] oe WC
+[1:41] nai
+[1:41] oe a
+[1:41] tem
+[1:41] ०३-०० ७० aan
+[1:41] maxes of deadlifts
+[1:42] jee
+[1:42] 71६ at
+[1:43] eae
+[1:43] ammonia
+[1:43 - 1:45] and not only that
+[1:44] not
+[1:44 - 1:45] ammonia salts do
+[1:44 - 1:47] | Effects of 36 hours of sleep deprivation on military-
+[1:44 - 1:47] | related tasks: Can ammonium inhalants maintain
+[1:44 - 1:47] performance?
+[1:45] not decrease the
+[1:45] cognitive
+[1:45 - 1:46] ००८
+[1:46] 0:39
+[1:46 - 1:48] which is,created
+[1:47] 0०८
+[1:47] after a
+[1:48] iad
+[1:48] /९ हक
+[1:48] « hours of
+[1:49] bats
+[1:49] los
+[1:49] ae is created
+[1:49] ra 36 hours of
+[1:49] deprivation
+[1:50] phe. |
+[1:50] “ all
+[1:51] ४५५3
+[1:51 - 1:53] ammofiia salts are
+[1:52] 1० 4. a4
+[1:52] not g
+[1:52 - 1:53] "e jing to increase
+[1:53] val
+[1:53] ur exercise
+[1:53] mance
+[1:54] Laatd
+[1:55] ate of your
+[1:55] lental state
+[1:57] fiinereeses
+[1:57] your penn Jame)
+[1:57] byjall’
+[1:57] means)
+[1:57] Tee
+[1:57] you can use it
+[1:57 - 1:59] go for it
+[1:58] incieases)
+[1:58] aie!
+[1:58] 10111 =
+[1:58] oan!
+[1:58] ig it if you
+[1:58] using it
+[1:58 - 1:59] iftyou
+[1:58 - 1:59] your peiformane mn
+[1:59] 11163 63]
+[1:59] ibyfall’meai
+[1:59] Gen it but
+[1:59] yeah
+[1:59] youcan
+[2:00] aimee
+[2:00] follow fo!
+[2:00] Ore)
+[2:00] है ५
+[2:00] that's it hope that
+[2:00] ) +औै७

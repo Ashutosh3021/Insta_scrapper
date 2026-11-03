@@ -1,0 +1,306 @@
+# model: ggml-large-v3
+========================================================================
+[295] https://www.instagram.com/reel/DZr-wumMY3_/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] if volume was necessary why was i able to take my calves from measuring 16 inches
+[0:06 - 0:12] to 22 and a half inches doing two sets of cast raises once a week never if no one's gonna say
+[0:12 - 0:17] it i will it was right research is pretty clear on this three to four sets done once per week
+[0:17 - 0:23] taken to failure is maintenance and that is over the span of six months but if you just split that
+[0:23 - 0:28] up and do one set done twice per week now you're growing i'm not saying that you need insane amount
+[0:28 - 0:35] of volume to grow but to say that you can do two sets done once per week and grow that might be
+[0:35 - 0:37] stretching a little anyways hope that has helped
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] SORIA!
+[0:00 - 0:07] ls enough for growth? % .
+[0:00 - 0:11] 2 sets - once a week vy
+[0:01] Wty
+[0:01] NECE
+[0:01] SSARY,
+[0:01] RIA
+[0:02] NECESSARY,
+[0:02 - 0:03] Vil
+[0:03] eS WHY WAS ABLE TO}
+[0:03] TAKE MY,
+[0:03] 9९18३
+[0:04] Is ay tof growth? %
+[0:04] NY i\|
+[0:04] CALVES
+[0:04] 1९180.
+[0:04] हुक
+[0:05] Iwi
+[0:05] auf
+[0:05] i ip
+[0:05] श्र
+[0:05 - 0:09] RIANTS!
+[0:06] ESTO
+[0:06 - 0:08] INCHES
+[0:07] Hil
+[0:07] Val
+[0:08] Is enough ua speaks
+[0:08] फ्र
+[0:09] | ls enough for seas
+[0:09] ON fs
+[0:09] Mh vil
+[0:09] कि i‘. Pig
+[0:09] bei |
+[0:09] hy 6
+[0:09] 35135
+[0:10] ९९६५
+[0:10] aps
+[0:10] अमर eel
+[0:10] RAISES
+[0:10 - 0:11] ls enough for growth?
+[0:11] ५९५
+[0:11] NEVER MORE
+[0:13] pal
+[0:13] Naat
+[0:14] हा रह
+[0:14] vay
+[0:14] aye
+[0:14] cS २05०४
+[0:15] BIOLOGICAL SCIENCES:
+[0:15] muscle size (determined by computed tomography scan)
+[0:15] PRT and a;
+[0:15] men (n =
+[0:15] following the |
+[0:15] 10 94 + 10
+[0:15] would be maint
+[0:15] ne lif
+[0:15 - 0:16] ght 200
+[0:15 - 0:16] amine how effective a resistance training maintenance program of | day per week would be to
+[0:15 - 0:16] preserve muscle strength and size in older men.
+[0:15 - 0:16] of training (TR) or detrainin
+[0:15 - 0:16] years) trained their knee e
+[0:15 - 0:16] gram consisted of old
+[0:15 - 0:16] session that was
+[0:15 - 0:16] formed 3 days ped
+[0:15 - 0:16] 69 + 1 years) resi
+[0:15 - 0:16] week PRT. From 1
+[0:15 - 0:16] strength of the TR
+[0:15 - 0:16] the DT group by 11
+[0:15 - 0:16] 05) in bot
+[0:15 - 0:16] [1252 data indicate
+[0:15 - 0:16] cantly reduced when the
+[0:15 - 0:16] styles
+[0:15 - 0:17] w The ८
+[0:15 - 0:17] 1 8-814
+[0:15 - 0:17] aintenance of Whole Muscle Strength and Si
+[0:15 - 0:17] Following Resistance Training in Older Men
+[0:15 - 0:17] Scott Trappe, David Williamson, and Michael Godard
+[0:15 - 0:17] Human Performance Laboratory, Ball State University, Muncie, Indiana.
+[0:15 - 0:17] Following a progressive resistance training (PRT) program of 3 days per week, we sought to ex-
+[0:15 - 0:17] h subj
+[0:15 - 0:17] s whole muscle strength (1 repeti-
+[0:15 - 0:17] tion maximum, or IRM) and why
+[0:15 - 0:17] were measured before (11)
+[0:15 - 0:17] again following 6 months (T3)
+[0:15 - 0:17] 10; age 70 + 4
+[0:15 - 0:17] M. The maintenance pro-
+[0:15 - 0:17] sets of 10 repetitions at
+[0:15 - 0:17] 80% of their IRM
+[0:15 - 0:17] the TR group and
+[0:15 - 0:17] used (p
+[0:15 - 0:17] 05) in
+[0:15 - 0:17] im with a 7% in-
+[0:15 - 0:17] crease (p
+[0:15 - 0:17] s found in the TR
+[0:15 - 0:17] group from 12 to 13, ५|
+[0:15 - 0:17] that resistance training
+[0:15 - 0:17] rength and size in
+[0:15 - 0:17] these older men follow
+[0:15 - 0:17] ho resumed their
+[0:15 - 0:17] normal lifestyle (no regy
+[0:15 - 0:17] muscle strength and
+[0:15 - 0:17] and size.
+[0:15 - 0:17] RVIN¢
+[0:15 - 0:17] per week, (ii) skeletal
+[0:15 - 0:17] a critical issue for older ad
+[0:15 - 0:17] computed tomography) ine
+[0:15 - 0:17] ined by resis
+[0:15 - 0:17] dependent living and quality ¢
+[0:15 - 0:17] training studies in older men 1]
+[0:15 - 0:17] ind (iii) both skeletal muscle s
+[0:15 - 0:17] ective in reversing sarcopenia-t
+[0:15 - 0:17] ॥ of the:
+[0:15 - 0:17] investi
+[0:15 - 0:17] with the
+[0:15 - 0:17] eek,
+[0:15 - 0:19] Whole Muscle Size
+[0:16] size (del
+[0:16] 11020 by computed tomography scan)
+[0:16] were me:
+[0:16] sured before (T1) and
+[0:16] nen (n = 5; D’
+[0:16] id (p < .05) in
+[0:16] Id be maintained by resis
+[0:16] ¢ investigations ॥॥
+[0:16] living lif
+[0:16] with the resistanc
+[0:16] eek, and they
+[0:16] hypertr
+[0:16 - 0:17] BIOLG
+[0:16 - 0:17] 1८५1 SCIENCES
+[0:16 - 0:17] lowing the 12.
+[0:16 - 0:17] 94 + 10 kg) in
+[0:17] amine how effective
+[0:17] resist:
+[0:17] ining maintenance program of | day per week would be to
+[0:17] preserve muscle strength a
+[0:17] of training (TR) ७
+[0:17] ars) trained U
+[0:17] gram consist
+[0:17] jon that was
+[0:17] formed 3 da!
+[0:17] en (n = 5; 0
+[0:17] 1 year
+[0:17] week PRT
+[0:17] stren;
+[0:17] eth of
+[0:17] hese data indicate
+[0:17] 10 be maint
+[0:17] arc
+[0:17] (100९0 when the
+[0:17] ifestyles.
+[0:18] मा की
+[0:18] 0246
+[0:18] Figure 1. Rate of progr
+[0:18] जाला:
+[0:18] ince training prog)
+[0:18] m and at week 36 (
+[0:18] tis
+[0:18] on absolute val
+[0:18] s; *p < .05 from wee!
+[0:18 - 0:19] MVC 20% from 185 + 18 N m to 221 + 22 N m with the
+[0:18 - 0:19] PRT program. However, | day per week of resistance train-
+[0:18 - 0:19] ing for 6 months (T3) was sufficient to maintain MVC (226 +
+[0:18 - 0:19] 28 N m) in the TR men.
+[0:18 - 0:19] Whole muscle size of the right midthigh is shown in Ta-
+[0:18 - 0:19] ble 3. With the 12-week PRT program, the DT and TR
+[0:18 - 0:19] groups had a 6.5% and 7.4% increase (p < .05), respec-
+[0:18 - 0:19] tively, in muscle size. Following 6 months of no re:
+[0:18 - 0:19] ance
+[0:18 - 0:19] training, the DT group had a 5% decline (p < .05) in muscle
+[0:18 - 0:19] size. The TR group had no change in muscle size from the
+[0:18 - 0:19] T2 to T3 measurement.
+[0:18 - 0:19] —# Detrained (DT)
+[0:18 - 0:19] 0 2 4 6 8 10 12 14 16 18 20
+[0:18 - 0:19] Weeks of Trail
+[0:18 - 0:19] on in one-rep.
+[0:18 - 0:19] trength eve
+[0:18 - 0:19] 2 weeks during
+[0:18 - 0:19] res
+[0:18 - 0:19] week program), Thi
+[0:18 - 0:19] al diffe:
+[0:18 - 0:19] nee in 1
+[0:18 - 0:19] '4/B138/600128/Maintenance-of-Whole-
+[0:18 - 0:19] RESERVATION WITH 4061.
+[0:19] ३ बह ६०
+[0:19] अजीज
+[0:19] ree
+[0:19] ite of progr
+[0:19] nei
+[0:19] Figure 1. Rat
+[0:19] xten!
+[0:19] ince training program and at week 36)
+[0:19] on absolute values; *p < .05 from week 12 1;
+[0:20] win
+[0:20] yee
+[0:21] TP ke
+[0:21] wae
+[0:21] LT jm
+[0:21] 4 09
+[0:21] sft
+[0:21] sal
+[0:22] perfor
+[0:22] ure or
+[0:22 - 0:24] Without fail: Muscular
+[0:22 - 0:24] adaptations in single
+[0:22 - 0:24] set resistance training
+[0:22 - 0:24] with re
+[0:22 - 0:24] res
+[0:22 - 0:24] Tom Herr
+[0:22 - 0:24] Bx Sapuppo
+[0:22 - 0:24] ZamanZad
+[0:22 - 0:24] loklos Andro:
+[0:22 - 0:24] Wolf!, Marti
+[0:22 - 0:24] feld'
+[0:22 - 0:24] "Department
+[0:22 - 0:24] lied Muscle
+[0:22 - 0:24] Laboratory, CU
+[0:22 - 0:24] 2 Metabolism!
+[0:22 - 0:24] rch Group (G
+[0:22 - 0:24] University of Pa
+[0:22 - 0:24] 3 Institute for Phy
+[0:22 - 0:24] chool of Exer
+[0:22 - 0:24] Sciences, Deakir
+[0:22 - 0:24] ‘School of Healt!
+[0:22 - 0:24] ersity, Aberdeen,
+[0:23 - 0:24] performed to failure or
+[0:24] lia
+[0:25] 7” एक
+[0:25] Ba 9
+[0:25] प्रा
+[0:25] ee oe
+[0:26] wth and performance outcomes.
+[0:26] Variable
+[0:26] multivariate
+[0:26] Bayes factor for
+[0:26] Group Difference
+[0:26] analysis with
+[0:26] analy
+[0:26] (95%Crl)
+[0:26] interpretation
+[0:26] Mid-quad 50°
+[0:26] 0.56 (Anecdotal
+[0:26] 0.17 (Moderate
+[0:26] 1.2 (-1.1 10 3.4
+[0:26] support of Ho)
+[0:26] 1.9 (-0.17 to 3.9
+[0:26] 1.7 (Anecdotal
+[0:26] Mid-quad 71
+[0:26] 1.6 (0.02 to 3.1
+[0:26] Lateral quad 30% (mm),
+[0:26] 0.04 (Strong
+[0:26] eps bi
+[0:26] Triceps bi
+[0:26] Bench p
+[0:26] Squat (kg)
+[0:26] Countermove:
+[0:26] AMRAP (#)
+[0:26] tive values favor the t
+[0:26] pothesis. H):Alternativ
+[0:26] oth
+[0:27] Spall
+[0:27] क्री 7,
+[0:28] pli
+[0:28] +s, ae al
+[0:29] of फ
+[0:29] ide:
+[0:30] UVa
+[0:30] अर ay
+[0:30] बन्‍ ढक का.
+[0:31] हैः
+[0:31] Fre,
+[0:31] slid
+[0:32] ah 4
+[0:32] ५ पे
+[0:32] aor
+[0:32] sida
+[0:33] reid
+[0:33] 7f4
+[0:33] si dd.
+[0:34] Me के
+[0:34] iin
+[0:34] ४225
+[0:34] saa
+[0:36] bel")
+[0:36] wa ds,
+[0:36] hee
+[0:37] श्र
+[0:37] hla /»
+[0:37] 3329

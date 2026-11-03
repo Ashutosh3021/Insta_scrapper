@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[419] https://www.instagram.com/reel/DW9GcHzDFv0/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Cause you're hot and you're cold
+[0:04 - 0:07] You're yes and you're no
+[0:07 - 0:08] You're in the...
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] tis
+[0:00] ti h
+[0:00] ste
+[0:00] Onst
+[0:00] ymiequ
+[0:00] lpment you've
+[0:00] Pig
+[0:00] NC oe
+[0:00 - 0:01] Wha
+[0:01] I Lt
+[0:01] the पार
+[0:01] doles
+[0:01] ymequipm
+[0:01] ment you've ever,
+[0:01] used
+[0:01] है ६
+[0:01] ९ ३ 8
+[0:01] = it 3
+[0:02] Iillistant
+[0:02] PP pe
+[0:03] pts
+[0:05] Mihewisquatee ७
+[0:05] le 4
+[0:06] . 0७ ७
+[0:07] squat
+[0:07] 1.43]

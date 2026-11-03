@@ -1,0 +1,157 @@
+# model: ggml-large-v3
+========================================================================
+[314] https://www.instagram.com/reel/DZQP8BUMS4h/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] One of the best things which you can do if you want to grow very less amount of muscle
+[0:02 - 0:03] is sleep less.
+[0:03 - 0:05] Yeah, don't sleep at all.
+[0:05 - 0:06] You know what?
+[0:06 - 0:06] Fuck sleep.
+[0:06 - 0:09] There are a few things which are way important for muscle growth.
+[0:09 - 0:11] One of them is sleep.
+[0:11 - 0:15] Your sleep quality and quantity is literally going to dictate your quality of life.
+[0:15 - 0:18] Not only that, if you're going to have shit sleep, what is also going to happen is increase
+[0:18 - 0:20] in your perception of effort.
+[0:20 - 0:23] When there is an increase in perception of effort, you're going to have less motor unit
+[0:23 - 0:23] recruitment.
+[0:23 - 0:24] You know what that means?
+[0:24 - 0:26] Less muscle fibers active.
+[0:26 - 0:27] You know what that means?
+[0:27 - 0:30] Less muscle fibers able to experience mechanical tension.
+[0:30 - 0:34] Congrats, you just got yourself a reduction in hypertrophy stimulus.
+[0:34 - 0:37] Now, does that mean one night of less sleep is going to kill you?
+[0:37 - 0:37] Probably not.
+[0:37 - 0:42] But you having less sleep consecutively and shit sleep consecutively, that's going to
+[0:42 - 0:42] catch up to you.
+[0:42 - 0:44] Anyways, hope that helps for more and sleep good tonight.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] of the Phat thing?
+[0:00] Nw q
+[0:01] f | 19
+[0:01] (0५611 4
+[0:01] ite
+[0:01] cando Ne
+[0:01] ju want t
+[0:02] SIE
+[0:02] muse):
+[0:03] bh f
+[0:03] Slaspis
+[0:03] हे ay & ८-3 a
+[0:03] mus ‘she हक less
+[0:04] 4 ee
+[0:04] Yeah, dont,
+[0:04 - 0:05] || Slee
+[0:05] हे ७* ३६
+[0:05] Yeah, dofiieep at al
+[0:05] wep
+[0:06] E के
+[0:07] are fewapings
+[0:08] are few,things which are
+[0:08] ae f«
+[0:09] ध्फ
+[0:09] Arp)
+[0:09] ited
+[0:10] Soverratac!
+[0:10] 4 sd
+[0:10] yar
+[0:10] One of th
+[0:11] wad,
+[0:12] eep
+[0:12] and छा
+[0:13] Sioa
+[0:13] Lh 4
+[0:13] and qu:
+[0:13] lit
+[0:13] erally
+[0:14] ! [990
+[0:14] हैं ० मम
+[0:14] WwW
+[0:15] हक fa
+[0:15] Sleep)
+[0:15] not
+[0:16] 19 06101
+[0:16] have
+[0:17] it isiovennate
+[0:17] कक what
+[0:18] i is
+[0:18] OVCITE)
+[0:18] Prgit
+[0:18] happehiis ingly
+[0:18 - 0:19] ited
+[0:19] EE IISIO
+[0:19] percept
+[0:22] y4r
+[0:22] in perception of effort,
+[0:22 - 0:24] Ghated
+[0:23] nated
+[0:23] Sleep
+[0:23] 12 मक
+[0:24] ५22
+[0:24] के at
+[0:25] 7 Dlisjovel
+[0:26] Sleeplisiovennated
+[0:26] You
+[0:27] Menrated
+[0:27] NAY
+[0:28] sar
+[0:28] leepii
+[0:28] Meqnat
+[0:28] * «७ बा
+[0:28] Less matte हि (>
+[0:29] ६7८
+[0:29] Pee
+[0:30] (ovennate
+[0:30] ‘tensii
+[0:30] hi ६६ .
+[0:31] if हे
+[0:31] om इन
+[0:31] You just:
+[0:32] Fee
+[0:32] sleep
+[0:32] ait
+[0:32] You just got y
+[0:32] my a
+[0:32] Ne 4
+[0:33] Wel
+[0:33] Slants |
+[0:33] ice
+[0:33] reduction in i fe
+[0:34] ovennated
+[0:34] ५४३
+[0:34] fai
+[0:34] stimulus
+[0:35] lac isoverra
+[0:35] ted
+[0:35] 4 ~~ 20 we
+[0:35] w, does thatym«
+[0:35] ond
+[0:36] on ate
+[0:36] हैः
+[0:37] Vial
+[0:37] Overrenct)”
+[0:37] Probably
+[0:38] ALL eplis 4
+[0:38] b y“rt
+[0:39] fhe
+[0:40] ALA
+[0:40] eeplis 7
+[0:40] ited
+[0:40] aes 5
+[0:40 - 0:41] consecutively? |
+[0:41] eep
+[0:41] yore
+[0:41] x iba
+[0:42] Sleeplisjovenjated|
+[0:42] ood
+[0:42] That's going to ba
+[0:42] नगर.
+[0:43] lee
+[0:43] iat Ze “~
+[0:44] Wennate'
+[0:44] ied
+[0:44] हैँ

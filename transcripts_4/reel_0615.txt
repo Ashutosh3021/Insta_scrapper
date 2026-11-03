@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[615] https://www.instagram.com/reel/DSmqiPBjOxw/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: ko
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] 그런 감각적인 여자
+[0:02 - 0:04] 나는 선호해
+[0:04 - 0:06] 점잖아 보이지만
+[0:06 - 0:08] 놀 땐 노는 선호해
+[0:08 - 0:10] 때가 되면 완전 미쳐워
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 724
+[0:00] Dowt
+[0:00] ra 1200kcals
+[0:00] श्र je
+[0:00 - 0:02] esterday,
+[0:00 - 0:02] and still lost weight
+[0:01] OTA
+[0:01] extra } Is
+[0:01] Kk is
+[0:02] ext
+[0:02] i) j Is
+[0:02] sa babs
+[0:02] enti!
+[0:02] bet
+[0:03] its becalise}
+[0:03] sithleyi=
+[0:03] intake'whichimatters
+[0:03] total weekly
+[0:04] ill
+[0:04] \ lyintake which ma
+[0:04] ७ NS
+[0:04] 4 ae
+[0:04 - 0:05] ERFURE
+[0:05] literally have al
+[0:05] put
+[0:05] ina su
+[0:05] rplustor
+[0:05] that day
+[0:05 - 0:06] “i day
+[0:06] canilit
+[0:06] avejainigh day,
+[0:06] which
+[0:06] you in a surplus for.
+[0:06] 228०
+[0:07] tilllloselweight
+[0:08] in at
+[0:08] bet ae you were unden!
+[0:08 - 0:10] your total weekly intake
+[0:09] In हक
+[0:09] Cause you were. }
+[0:09] “total weekly [10883
+[0:10] vita
+[0:10] pee uy [९

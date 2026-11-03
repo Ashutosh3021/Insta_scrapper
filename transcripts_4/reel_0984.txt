@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[984] https://www.instagram.com/reel/DA22VVYtgfh/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Ever since I was a chick, and why was it shit?
+[0:03 - 0:07] Try to keep on and come round, she wanna get hit
+[0:07 - 0:11] She think she done made me, cause I keep her by my side
+[0:11 - 0:15] Double up, bust on her watch, she know that I'm Thomas
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] His)prjisi9 SIbs))
+[0:00] boar.
+[0:00 - 0:03] jafter/heltried|
+[0:00 - 0:16] [Me\trying|to}revive)bro}
+[0:00 - 0:16] [22'5|bsitojimpressithe)huzz}
+[0:01 - 0:02] lisi9'5Ibs))
+[0:02] दही
+[0:03] 15195105)
+[0:04] lafterJhejtried|benching,
+[0:04 - 0:15] (Hisjprjisi9 sibs)
+[0:05 - 0:06] lheltried]|
+[0:06] pam,
+[0:06] ams «<
+[0:07] [225Ibs'to)
+[0:07] limpressithe)huzz}
+[0:07 - 0:08] lafter/heltried]
+[0:09] after,
+[0:09] 222
+[0:10] toJrevive)bro)
+[0:10 - 0:14] lhe}tried|
+[0:12] Itried]|
+[0:12] १2७
+[0:13] limpressithe)huzz}
+[0:13] Z, ddd Z
+[0:14] Lom
+[0:14] १222
+[0:15] lafter/heltried]
+[0:16] lafter/heltried|benching,
+[0:16] (His}prisi951bs))

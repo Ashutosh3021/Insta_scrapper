@@ -1,0 +1,335 @@
+# model: ggml-large-v3
+========================================================================
+[911] https://www.instagram.com/reel/DIbytVRB54V/
+STATUS: OK
+DURATION: 1:45   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Your exercise selection might be killing your gains
+[0:02 - 0:06] So guys, this is going to be a second episode of the exercise programming series
+[0:06 - 0:09] और आज हम बात करेंगे exercise selection के बारे में
+[0:09 - 0:12] अभी जो exercise selection की topic है, it's very vast
+[0:12 - 0:15] and I want to give you guys the highest quality information
+[0:15 - 0:17] so I'm going to be breaking down this in segments
+[0:17 - 0:19] पहले, exercise selection है क्या?
+[0:19 - 0:21] अभी exercise selection is a process of choosing movements
+[0:21 - 0:24] जो तुमारे training plan में include करता है, which meets your specific goals
+[0:24 - 0:28] अभी choosing the appropriate exercise can make or break your training program
+[0:28 - 0:32] अभी strength curves can affect muscle growth in many different ways
+[0:32 - 0:35] बट ये वीडियो में मैं बात करूँगा regional hypertrophy के बारे में
+[0:35 - 0:38] अभी हर specific exercise की एक different strength curves होती है
+[0:38 - 0:40] which is dependent upon two different variables
+[0:40 - 0:44] और ये दो variables can be divided into internal and external variables
+[0:44 - 0:47] Now there are currently four internal variables which determine the strength curve
+[0:47 - 0:52] internal moment arm length, muscle activation, length tension relationship, antagonist muscle activation
+[0:52 - 0:57] and there are two external factors which are external moment arm length और external resistance type
+[0:57 - 1:01] अभी बहुत सारे लोगों को क्या लगता है कि muscles एक uniform way में contract होते है
+[1:01 - 1:02] बट ऐसा बिल्कूल भी नहीं है
+[1:02 - 1:08] अभी muscles are often made up of multiple regions और हर region का function थोड़ा बहुत एक दूसरे से अलग होता है
+[1:08 - 1:13] और ये जो थोड़ा बहुत difference होता है, this is purely due to leverage of each region of the muscles
+[1:13 - 1:17] अभी regional muscle growth तब होती है when there are differences in the strength curves of an exercise
+[1:17 - 1:23] और ये differences will likely produce different amount of muscle growths in each functional division of the regions
+[1:23 - 1:31] अगर हम hamstring की example लेंगे, एक hamstring curl में, semitendinosus और bicep femoris के पास एक longer internal moment arm length होता है
+[1:31 - 1:34] compared to बाकी hamstring muscles के साथ
+[1:34 - 1:38] इसका मतलब ये दोनो specific muscles का growth जादा होगा एक hamstring curl में
+[1:38 - 1:43] इसका मतलब हमें exercise selection ऐसा रखना चाहिए which accounts for this regional differences for optimum muscle growth
+[1:43 - 1:44] So up there, I'll stop for now
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] cercise Selection
+[0:00] \o oe
+[0:00] oN i
+[0:00] मामा
+[0:00 - 0:02] — your exercise sell
+[0:01] might
+[0:01 - 0:02] @\Selectio n
+[0:02] हें
+[0:02] ion
+[0:02] कलर
+[0:02] might be killing yor
+[0:03] hee |
+[0:04] ham
+[0:04 - 0:05] ae: mming
+[0:05] a" sre
+[0:06] ool
+[0:07] Warning
+[0:08] np” (Part
+[0:10] 5 Nea
+[0:11 - 0:15] Topic is vast ]
+[0:12] tll |
+[0:12] it's very vast
+[0:13] it's very vast and I want (५
+[0:13] हैं
+[0:14] 11 आकर खाक
+[0:14] the highest quality
+[0:15] sol'm
+[0:16] 1; है
+[0:16] This video is part 1
+[0:16] 50 I'm going to be breaking
+[0:16] down this
+[0:17] a selection? ०.
+[0:18] 5 Selection?sin..,
+[0:19] rcise
+[0:19 - 0:20] pts
+[0:20] Cae
+[0:20] Proces:
+[0:20 - 0:21] exercise seléctionfis’a
+[0:21] process of choo:
+[0:21] moments
+[0:21 - 0:22] hey
+[0:21 - 0:23] 44 selectionu=e
+[0:21 - 0:24] y the process;
+[0:22] 44 56।९० ४०००
+[0:22] 51116 process;
+[0:22] sing 110५
+[0:22] \ a ae
+[0:22 - 0:24] to your trainind’pl
+[0:23 - 0:24] sing movement
+[0:23 - 0:24] Which meets
+[0:23 - 0:24] YOUR\
+[0:24] all
+[0:24] xercise selections
+[0:24] Goalsm aN
+[0:24] meets your specifi
+[0:25] ae a
+[0:26] rts
+[0:26] appropriate |
+[0:26] I'll be choodind te
+[0:27] CoN
+[0:28] —») can make or break your
+[0:28] training = — 7
+[0:29] “4 me
+[0:29] eon अकमओ
+[0:29] "i Strenght one,
+[0:29] “Abby Strength
+[0:30] lar
+[0:30] iat
+[0:30] son
+[0:30] i Strenght @ 85%
+[0:30] tan affect >
+[0:31] aN ee
+[0:31] rons
+[0:31] lol
+[0:31] विदा
+[0:31 - 0:32] = ०... ‘affect muscle gro’
+[0:32] Pama
+[0:32] ol रे
+[0:32] a जाशापाए
+[0:32] Ves?
+[0:32] many different ways
+[0:33] “eee
+[0:33 - 0:35] Regional hypllrtrophy
+[0:34] adh
+[0:34] re 2
+[0:34] रस nydefarophy
+[0:34] i video about the
+[0:34 - 0:35] Shon
+[0:35] > pig!
+[0:36] नबी
+[0:36] THI cu
+[0:36 - 0:40] which is dependent upon
+[0:36 - 0:44] ery, Exercise \ Giffe
+[0:37] two different
+[0:37 - 0:40] ai Strength curves.
+[0:38 - 0:40] two different variables
+[0:39] | Strenatt ioe
+[0:40] है ty
+[0:40] 6-75
+[0:41] पक है
+[0:41] ae | curves
+[0:41] rehearsal
+[0:42] i ; Stren
+[0:42] | ra i
+[0:42] can be divided
+[0:43] Stren 1 curves
+[0:43] and
+[0:43 - 0:44] Internal.
+[0:43 - 0:44] can be divided into internal
+[0:44] curve:
+[0:44] Hail vil
+[0:44] e = on a
+[0:44] External
+[0:44 - 0:46] and external variables
+[0:45] srt
+[0:45] cn Cee
+[0:45] iow
+[0:45] जिद
+[0:45 - 0:46] ः ‘there are currently fo
+[0:46] tey
+[0:46] poems 5
+[0:47] abi -
+[0:47] ee vari
+[0:47] a pit
+[0:47] emma
+[0:47] a १०»
+[0:47] + which détermine
+[0:47] strength
+[0:47] ham
+[0:47] जा किक...
+[0:48] Internal)
+[0:48] lengths}
+[0:48] all
+[0:48] The, "नि arm,
+[0:48] issthe perpendiculardistance}
+[0:48] between the center of the’
+[0:48] fointsthatithe
+[0:48] 15८16 crosses}
+[0:48] fang] thellin
+[0:48] factionjof thee
+[0:48] Workingimuscle:
+[0:49] agi
+[0:49] हैः
+[0:49] oes 2
+[0:49] olin!
+[0:49] i changes
+[0:49] ni eH a wi
+[0:49] mens that
+[0:49] itchimy
+[0:49] will Gini
+[0:49] werangl
+[0:49] intary, joint.
+[0:49] 01111) ६
+[0:49] ther.
+[0:49] sean'differ™
+[0:49] हनन
+[0:51] ilens
+[0:51] gthitens' a
+[0:51] ship,
+[0:51] lie, Se
+[0:51] iN Region
+[0:51] 100:
+[0:51] Lenath
+[0:51] The'length éffamuscle oe
+[0:51] 116 abil
+[0:51] nei
+[0:51] meThe
+[0:51] ityjofithe muscle,tojereatt
+[0:51] uments,
+[0:51] Force=tengthiRelations!
+[0:51] how muscle tension varie
+[0:51] Weitferent
+[0:51] Muscle|lengths:
+[0:52] jomlist bi ae. ele,
+[0:52] ation
+[0:52] eS S
+[0:52] fo 5
+[0:52] ota
+[0:52] High
+[0:52] col tent
+[0:52] jes in the mu
+[0:52] ion,
+[0:52] of antagonist (opposing)
+[0:53] a Sin
+[0:53] a शा
+[0:54] xternal
+[0:55] ooo
+[0:56] Extenal) moments
+[0:56] am length ९
+[0:56] ole
+[0:57] xternal
+[0:57] ice typ§)
+[0:58] = 5 owt.
+[0:58] ९१०
+[0:59] ag 2
+[0:59] Ne 3
+[0:59] ow है !
+[0:59 - 1:01] ‘Muscles don’t gow हैं
+[0:59 - 1:01] Uniformly otegrow »,
+[0:59 - 1:01] Uniformly\ > ,
+[1:00 - 1:01] २९ है
+[1:02] हाफ
+[1:02] हक 9
+[1:03] कला: ad
+[1:03] SR rt
+[1:04] isis
+[1:04] be sie
+[1:05] liffere: Rg
+[1:05] जाओ मी
+[1:05] क्र
+[1:05] phe
+[1:06] Muscles:
+[1:06] a" soos
+[1:06 - 1:07] orgies different regions’
+[1:07] esia A
+[1:07] nade
+[1:07] oss
+[1:07] wort
+[1:08] “ae Fa,
+[1:08] es A
+[1:09] Be YL
+[1:09] a मी
+[1:09] PZ fs
+[1:10] this 3
+[1:11] this is purel:
+[1:11] rage
+[1:12] Ofieach
+[1:14] arora
+[1:17] नहर
+[1:17] 4 कि
+[1:17] urves of an
+[1:17] क्र
+[1:19] 5 we
+[1:20] “4 wth
+[1:20] 4 है
+[1:20] Will likel art
+[1:20] amounts of
+[1:21] करन gee
+[1:22] guest
+[1:22] ifeach = 2
+[1:23] Pv y
+[1:25] Zz —\S
+[1:26] 4 oe
+[1:27] Biceps femoris
+[1:27] (long head)
+[1:27] (short head)
+[1:27 - 1:32] Semitendinosus ly
+[1:27 - 1:32] ‘Semimembranosus ॥
+[1:28] Semi
+[1:29] ig head)
+[1:29] Biceps
+[1:30] one’
+[1:30 - 1:32] Biceps femoris |
+[1:30 - 1:32] (long head)
+[1:30 - 1:32] (short head)
+[1:32] A oe
+[1:33] Nici
+[1:34 - 1:35] Nhe
+[1:36] सा. कस
+[1:37] क्र
+[1:38] Shotld|
+[1:38] laccount)
+[1:38] iGorathe)
+[1:38] 116410॥ 31311 6161 26
+[1:38] 3 कक
+[1:38] halam
+[1:38 - 1:43] selection
+[1:39] iEXercisejsel
+[1:39] regional chitsrenc:
+[1:39] tal
+[1:39] sit
+[1:39] hal:
+[1:39] xercise
+[1:39 - 1:43] Shotldjaccount}
+[1:39 - 1:43] Forti@e
+[1:40] regional
+[1:40] ESSA raknachi
+[1:40 - 1:42] naldifferen
+[1:41] nalidliffere
+[1:41] were
+[1:41] \ iNg
+[1:41] ond
+[1:41] ounts for
+[1:41] SCO
+[1:42] Pewhich:
+[1:42] accounts for these
+[1:42] regional differences
+[1:43] iregiomalldiffene
+[1:43] ay ४
+[1:43] A rie 2
+[1:43] for optimal muscle
+[1:43] —— Cee
+[1:44] =ollow ~ more
+[1:44] i Rin
+[1:44] em /औ
+[1:44] so hope that helps

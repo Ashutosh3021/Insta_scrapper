@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[195] https://www.instagram.com/reel/DbxOVSGsDq0/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] The thing about fitness that's important is not really the routine you follow, it's...
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Erg
+[0:00] री j
+[0:00 - 0:04] Students, Gen-Z ask me anything and I'll reply to as.
+[0:00 - 0:04] many questions
+[0:00 - 0:04] Hey Rahul, need your fitness
+[0:00 - 0:04] routine man
+[0:05] | aM a.
+[0:05 - 0:06] ULx3
+[0:06] | res
+[0:08] गिर ॥ |
+[0:09] 225
+[0:09] BOD |
+[0:09] कि ne
+[0:09] oe ५
+[0:10] है rom,
+[0:10] UIEXx3)
+[0:11] UExs
+[0:11 - 0:14] FBE@D
+[0:12] कप कि ्त
+[0:12 - 0:14] 41 जा
+[0:13] Pot ae a
+[0:13] are
+[0:14] ee ee
+[0:14] ७४5
+[0:14] ail

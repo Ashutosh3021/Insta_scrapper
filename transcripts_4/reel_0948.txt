@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[948] https://www.instagram.com/reel/DG3AM9EB10W/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:21] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] Which one is better for i
+[0:00 - 0:08] pecs? ॥
+[0:01] ZA) 6 SEAS
+[0:01] ayy
+[0:02] ZA हि, SCA
+[0:05 - 0:08] 4 Which one is better for ior
+[0:07] _ a= My
+[0:08] ZEN |
+[0:08] Lov
+[0:08] बए के आह
+[0:08] प्रा
+[0:09] 2270 | ria
+[0:09] Ved
+[0:10] ZN >) BOLE
+[0:10] ull
+[0:11] Gio
+[0:12] od Se
+[0:13] wat
+[0:14] ४४“ iat
+[0:16] addi
+[0:16] 42 it
+[0:17] ~ JAP
+[0:17] iF it
+[0:18] Gea
+[0:18] शर्ट
+[0:19] tas
+[0:19] ५ VAP
+[0:19] got”
+[0:20] os s
+[0:20] हे] a
+[0:20] कि eS [7

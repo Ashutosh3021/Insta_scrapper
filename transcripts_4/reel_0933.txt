@@ -1,0 +1,114 @@
+# model: ggml-large-v3
+========================================================================
+[933] https://www.instagram.com/reel/DHdsKFRhWVG/
+STATUS: OK
+DURATION: 1:00   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] अब फाइबर एक काबो आयरेड है बट अन्लाइक अदर कार्प्स बॉडी इसको एनर्जी के लिए डाइजेस्ट नहीं कर पाती है।
+[0:16 - 0:46] फाइबर दो टाइप्स के होते हैं, इनसॉल्यूबल और सॉल्यूबल, इनसॉल्यूबल फाइबर उसके नाम जैसा बॉडर के साथ सॉल्यूबल नहीं होता है और तुमारे गट उसको ब्रेक डाउन नहीं कर पाता है।
+[0:46 - 1:00] तुमारे गट उसको ब्रेक डाउन नहीं कर पाता है और तुमारे गट उसको ब्रेक डाउन नहीं कर पाता है और तुमारे गट उसको ब्रेक डाउन नहीं कर पाता है और तुमारे गट उसको ब्रेक डाउन नहीं कर पाता है।
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] as important as
+[0:00] Bsa
+[0:00] lever
+[0:00 - 0:04] This fs
+[0:01 - 0:02] @s important as protein
+[0:04] hing
+[0:05] is Bact,
+[0:05] jore important
+[0:05 - 0:07] मत व protein
+[0:06] acinus
+[0:07] J ७ nok eo
+[0:08] ॥201111 6115]
+[0:08] io it's
+[0:12] Carbonyaates
+[0:12] Anan sug)
+[0:12] Deaceharises
+[0:12] starch
+[0:12] Morera
+[0:12] _ sun)
+[0:12] core
+[0:12] atone
+[0:12] tconen
+[0:12] rvcoue
+[0:12] sucrose
+[0:12] fer
+[0:12] हुई fib fe a fiber carbo!
+[0:14] rit
+[0:14] Jin
+[0:14 - 0:15] Fiber isnt Gigesticd for energy
+[0:14 - 0:16] like other cops
+[0:15] Depending upon te type
+[0:15] ee cops
+[0:15 - 0:17] going to
+[0:16] tal
+[0:16] yis ६१
+[0:17] e other cops body is
+[0:17 - 0:18] TYPES OF DIETARY FIBRE
+[0:17 - 0:18] Insoluble Fibre
+[0:18] the
+[0:22] soluble)
+[0:24] हाल bythe
+[0:25 - 0:26] OCA
+[0:26] Brovide:
+[0:27] Wat
+[0:27 - 0:28] Soluble)
+[0:28] है ८
+[0:30] Is by
+[0:30 - 0:31] Tine Gur bacueria
+[0:32 - 0:34] Provicies SCRA
+[0:35] ¢ SCRA
+[0:35] i 42k
+[0:35] callh
+[0:36] e Akcal/g
+[0:37] Carbs
+[0:38] rll
+[0:38 - 0:39] Donohoe et al
+[0:38 - 0:39] 2011). Rect
+[0:38 - 0:40] ‘oxidation’
+[0:38 - 0:40] eby proviamng energy tor AIP
+[0:38 - 0:40] production. Estimates suggest they are
+[0:38 - 0:40] responsible for 5-15% of total caloric
+[0:38 - 0:40] requirements while providing 60-70% of colonic
+[0:38 - 0:40] epithelial energy in human:
+[0:38 - 0:40] Bergman, 1990;
+[0:38 - 0:40] it scientific
+[0:39] = to marry
+[0:40] Donohoe et al., 2011). Rec!
+[0:40] d take
+[0:41] take note ni
+[0:41] ribution
+[0:43] 22776
+[0:43] ion:
+[0:43] aay
+[0:43] same
+[0:44] Py Ss
+[0:44] ies ted
+[0:45] kts:
+[0:45] wy, a
+[0:47] hunger mininicerions.
+[0:47 - 0:49] Digestion;
+[0:48] Digesiiem,
+[0:48] uNnge
+[0:48] minimisation,
+[0:49] hunger miniimisenien
+[0:51] felucosen
+[0:51] 2, Te
+[0:51] jetion}
+[0:51] Neigh
+[0:51] nema
+[0:51] igement
+[0:51] S and even for your overall
+[0:52] most
+[0:56] bad
+[0:56] u're not prioritl
+[0:56 - 0:59] Follow for mone
+[0:58] Follow:
+[0:58] ORS)
+[0:58] missing out off
+[0:58] things
+[0:58] an i
+[0:59] so hope that

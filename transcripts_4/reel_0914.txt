@@ -1,0 +1,303 @@
+# model: ggml-large-v3
+========================================================================
+[914] https://www.instagram.com/reel/DIUDol5tjgb/
+STATUS: OK
+DURATION: 1:29   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] पहले लोगों को लगता था कि metabolic stress is a driver for muscle growth but we have enough data now to show that it's not
+[0:12 - 0:19] अभी metabolic stress की training तीन तरीके से होती है with short rest periods, with high reps, with pump style training
+[0:19 - 0:23] अभी ये सारी चीज़े increases the amount of metabolite which is accumulated inside of the muscle
+[0:23 - 0:29] but अगर metabolite accumulation सही में muscle growth cause करता we would see that injecting lactate would cause muscle growth
+[0:29 - 0:30] but it just doesn't
+[0:30 - 0:35] अभी there was one more claim that metabolic accumulation caused high threshold motor unit recruitment
+[0:35 - 0:37] but that's just a poor understanding of muscle physiology
+[0:37 - 0:40] अभी motor unit recruitment is under voluntary control
+[0:40 - 0:47] there is no reason to think that metabolic accumulation will increase the amount of high threshold motor unit recruitment
+[0:47 - 0:54] और अगर metabolic stress सही में muscle growth cause करता we would see that short rest periods over perform long rest periods
+[0:54 - 0:55] but you know what we see? This
+[0:55 - 0:58] अगर metabolic stress was really a stimulus towards muscle growth
+[0:58 - 1:03] muscle growth we would see that blood flow restriction without exercise will cause muscle growth but it
+[1:03 - 1:09] just doesn't like final claim I want to make a lot of people think that higher up training will cause muscle
+[1:09 - 1:14] growth towards like slow twitch muscle fibers we have this study showing that higher up training and lower
+[1:14 - 1:19] up training cause the same amount of muscle growth higher up training and lower up training causes same
+[1:19 - 1:25] fiber type muscle growth so metabolic stress is not a stimulus towards muscle growth it's at the end of
+[1:25 - 1:29] day only mechanical tension is going to be the stimulus towards muscle growth
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Is the ONLY
+[0:00] १८०
+[0:00] pan | mechanical
+[0:00] with
+[0:00 - 0:02] | | Dri
+[0:00 - 0:02] T for | iscle growth
+[0:01] ONLY
+[0:01] iscle growth
+[0:01] dcop is the only sti
+[0:01 - 0:02] | T for,
+[0:02] chanical =
+[0:02] INLY.
+[0:02] 18 AT
+[0:02] tensioh is the gnly
+[0:02] towards muscle gi
+[0:03] -क vin OD
+[0:03] imp Ali feel
+[0:04] ump
+[0:04] pump. Ali feeling feeling of 7
+[0:04] ning
+[0:04 - 0:05] “Burn”
+[0:05] fay A
+[0:05] अर Pump
+[0:05] ron
+[0:06] eh Rs
+[0:06] re (७5९॥०५५ ५४
+[0:07] pes
+[0:08] ९“ get
+[0:09] ite
+[0:09] metabolic stress
+[0:11] 5 we have enough
+[0:12] का Sra
+[0:12] iat
+[0:12] ugh
+[0:12] 1 ee
+[0:13] Stress
+[0:13] Metabolic
+[0:13 - 0:14] . raining is done
+[0:14 - 0:16] metabolic stress get training
+[0:15] मोह is done
+[0:15] he ॥7
+[0:15] rotate stress ‘get training
+[0:16] 1. Short r
+[0:16] i periods
+[0:16] with short rest periods
+[0:17] 2 hig! igh aS (15+)
+[0:17] Kigh high, hy
+[0:18] ता style train
+[0:18] with high reps with
+[0:18] ड्के
+[0:19] jet
+[0:19] All ofthis causes
+[0:19 - 0:23] A metabolite accumulation’ कै
+[0:20] All off
+[0:20] ithis|causes
+[0:20 - 0:21] sari cheese inc!
+[0:21] Alljofi ith
+[0:21] mount of
+[0:21 - 0:22] auses
+[0:22] All
+[0:22] accumulationhy
+[0:22] | metal
+[0:22 - 0:23] | accumulated i
+[0:23] wes
+[0:23] All of this causes
+[0:23] f the muscles
+[0:24] Cae |
+[0:24] but a metabolit
+[0:25] buta on se ne
+[0:25] accumulation a
+[0:26] ca r'
+[0:27] Effect
+[0:27] lactate adminis
+[0:27] iwation in mi
+[0:27] non by
+[0:27] yertrophy and mTOR
+[0:27] cle
+[0:27] signal
+[0:27] injecting
+[0:28] Effects of lactate administration on hypertrophy and mTOR
+[0:28] signaling activation in mouse skeletal muscle
+[0:28] श्र
+[0:28] हैँ!
+[0:28] herd feof car aman ase
+[0:28] ete moo ai perro. opera wh ret, eee ६०७७
+[0:28] hans or athe eon of ae etn hens
+[0:28] rh ae reson eee mura Ue ea 2020 ages 0५६
+[0:28] fees
+[0:28] ce sams ae
+[0:28] injecting lactate woul
+[0:28] पु१५5०
+[0:29] , lactate would c:
+[0:29] muscle growth है
+[0:30] ut it just doe:
+[0:31] > 2० की
+[0:31] equ ime
+[0:31] there was one r }
+[0:31 - 0:32] | ae -2
+[0:31 - 0:35] Imereases' mi
+[0:32] lite
+[0:32] ata
+[0:32] rugetion
+[0:32] Cae"
+[0:32 - 0:34] that metabolic accum'
+[0:33] ie -2
+[0:33] aie लक See ee
+[0:33] Iner
+[0:33] ses Mm
+[0:33] caused
+[0:33 - 0:34] itmentz
+[0:34] ase aa accu
+[0:34] caused high
+[0:35] | as -2
+[0:35] Metab
+[0:35] fotor Unit ri euuitmen
+[0:35] motor unit recr के के
+[0:37] wri
+[0:37] Oh er
+[0:39 - 0:40] otor unit recruit!
+[0:40] ह 1 थे
+[0:40] r voluntary
+[0:41] (i ४4
+[0:43] cof
+[0:43] is reasol thi
+[0:44] iccum!
+[0:45] हम A
+[0:45] he am
+[0:47] Case -3
+[0:47 - 0:48] motor unit recruitment or
+[0:47 - 0:54] Shortifestiperiod =
+[0:48] asd
+[0:48] augar metabolic stress
+[0:49] Short
+[0:49] (611,
+[0:49] saeme musclé growth
+[0:50] ६33
+[0:50] Int
+[0:50] hance W
+[0:50] ch and Hypertrophy in
+[0:50] -e-Trained
+[0:50] we would
+[0:50 - 0:52] Lon:
+[0:50 - 0:54] Should cause more
+[0:50 - 0:54] growth right?
+[0:51] we would see that short rest
+[0:51] periods
+[0:51 - 0:52] Case
+[0:51 - 0:52] + Inter:
+[0:51 - 0:52] tan
+[0:51 - 0:52] ined
+[0:51 - 0:52] Mei
+[0:51 - 0:52] trophy in
+[0:51 - 0:54] Str
+[0:51 - 0:54] Periods Enhance
+[0:52] 91061॥65106108
+[0:52 - 0:53] outperform long
+[0:53] ३ right?
+[0:53 - 0:54] Longer Int
+[0:53 - 0:54] and Hypertrophy in Resistance:
+[0:53 - 0:54] Men
+[0:54] Shorties Br
+[0:54] but you know
+[0:55] Muscle Thickness
+[0:55] ‘but you know what we
+[0:55] yes
+[0:56] नयी
+[0:57] ae 4
+[0:57] jatio
+[0:57] | really a
+[0:57] है ol
+[0:57 - 0:59] Cause
+[0:57 - 0:59] rowth,
+[0:57 - 1:00] व “a a stimulus
+[0:57 - 1:02] ithout exercise should |
+[0:57 - 1:03] Blood Flow Restriction Does Not
+[0:58] ‘Ease - 4
+[0:58] i really a stimulus
+[0:58] ards muscle
+[0:58] b जय
+[0:59] ion
+[0:59] ould see
+[0:59] है oi
+[1:00] ie 4
+[1:00] tabolic so amy
+[1:00] ould see that blood
+[1:00 - 1:02] Cause growth.
+[1:01] ut exercise
+[1:01 - 1:02] metabolic secumulstiony is a stimulus
+[1:02] t exercise will cause
+[1:03] ms eesrncn
+[1:03] Attenuate Short-Term Detraii
+[1:03] ing-Induced
+[1:03] Muscle Size and Strength Losses After
+[1:03] Resistance Training With Blood Flow
+[1:03] Restriction
+[1:03] 0४०६, 8७३०,
+[1:03] nna,
+[1:03] ourself Stength ad onationingResorch
+[1:03] 10४04
+[1:03] coors
+[1:04 - 1:05] but it just doesn't quick final
+[1:05] ४४ 7]
+[1:05] well
+[1:05] claim I
+[1:05 - 1:07] a, high reps;
+[1:05 - 1:10] Slo:
+[1:05 - 1:11] growth
+[1:06] irom high reps?
+[1:06] alot
+[1:07] + 0६६
+[1:07] alot offpeople think that
+[1:08] ma a
+[1:08] will
+[1:08 - 1:11] from Rlgh reps?
+[1:09] झुका
+[1:09] ४४ tw
+[1:09] om ‘Non
+[1:09] will cause muscle growth
+[1:10] like slow
+[1:11] Slow twi
+[1:11] like slow twitch muscle
+[1:12] ic hormones determine
+[1:12] resistai
+[1:12] raining
+[1:12] diated
+[1:12] strength gains in resistance-v
+[1:12] ng men
+[1:12] Abstract
+[1:12 - 1:13] we have this study showing
+[1:12 - 1:14] trophy or
+[1:12 - 1:16] ES Neither load nor s
+[1:13] Nei
+[1:13] nor
+[1:13] ing.
+[1:13] ed h
+[1:13] are:
+[1:13] ent
+[1:13] men
+[1:13] that high
+[1:13 - 1:14] nic hormon
+[1:13 - 1:14] mine
+[1:13 - 1:15] str
+[1:14] bs \1
+[1:14] training-mediated
+[1:14] th gains in resis
+[1:14] and low rep
+[1:14 - 1:16] ed young men
+[1:15] SSI Neither load nor systemic hormones determine
+[1:15] ains in resistance-trained young men
+[1:15] cause the same
+[1:15 - 1:16] nce training
+[1:15 - 1:16] jated hypertrophy or
+[1:16] mic hormones determine
+[1:16] stren
+[1:16] ins in resistance:
+[1:16] Astract
+[1:16] cause thesame amount of
+[1:16] muscle growth
+[1:18] ig cal
+[1:19] Mai
+[1:19] rep training ca
+[1:21] metabolic
+[1:23] s is nes ee
+[1:24] “a Ale
+[1:25] श्र
+[1:25] J Fesmoas
+[1:26] We A
+[1:27] in | sf
+[1:27] ly: mech: rfical ६ 4
+[1:28] ही for more
+[1:28] Pap
+[1:28] / ispeipa to क्र
+[1:29] | more
+[1:29] is going to be the stimulus
+[1:29] towards muscle growth

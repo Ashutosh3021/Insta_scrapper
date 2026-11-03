@@ -1,0 +1,158 @@
+# model: ggml-large-v3
+========================================================================
+[42] https://www.instagram.com/reel/Decqg6QsaB1/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Ooh, is it nothing now?
+[0:03 - 0:07] I saw the sign, and it opened up my eyes
+[0:07 - 0:10] I saw the sign, life is still melting
+[0:10 - 0:12] Without understanding
+[0:12 - 0:17] I saw the sign, and it opened up my eyes
+[0:17 - 0:20] I saw the sign, no one's gonna drag you up
+[0:20 - 0:23] To get into the life where you belong
+[0:23 - 0:25] But where do you belong?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ained.withmy हक ds
+[0:00] PTT
+[0:00] ay Be
+[0:01] AS ee
+[0:01] ltraineciwith
+[0:01] ita PRU
+[0:01] ssi
+[0:01] Tae
+[0:02] wos
+[0:02] ie ce
+[0:02] जा with mye
+[0:02] 118 PRI!!!
+[0:03] | Lie
+[0:03] Yeah oat th
+[0:03] Liss
+[0:03] दबा
+[0:03] eas 3
+[0:04] aes
+[0:04] sie:
+[0:04] al की aa that
+[0:04] et ४
+[0:04] Bill
+[0:05] 19. A
+[0:05] ANS ay,
+[0:05] Vij»
+[0:05 - 0:06] lf it’s aone offins instanc
+[0:05 - 0:06] And you usually/trainia alone ४
+[0:06] =. alll
+[0:06] क्र
+[0:06] ance
+[0:06] शनि
+[0:07] Soo
+[0:07] 1 A og
+[0:07] fae. आग
+[0:07] YT a ag
+[0:07 - 0:08] It’s not really indicative ६
+[0:07 - 0:08] 2१ your actual strength
+[0:08] fF i
+[0:08] _ cee
+[0:09] Ans
+[0:09] ७७३ #3
+[0:09] Training le ALG
+[0:09] pgptive
+[0:09 - 0:10] Environmentisigoing ton
+[0:09 - 0:10] ¢ levels
+[0:10] Training ae om peu
+[0:10] 64856
+[0:10] १४८५
+[0:10] a 5६
+[0:10] ‘and
+[0:11] Seog
+[0:11] 180 you Hardle mone’
+[0:11] ATH ig Mt
+[0:11] ण्णा - शी
+[0:11 - 0:12] perceptions
+[0:12] DRG
+[0:12] satel
+[0:12] mie
+[0:12] \Helping youlhandle moge=
+[0:12] = THATTIME
+[0:13] re Y=
+[0:13] lowing
+[0:13] more CMC signals
+[0:13] To be sent durin
+[0:13] e.exercise\ \
+[0:13] Ye) 5
+[0:13] at aa =
+[0:14] Thu
+[0:14] wing hore CM
+[0:14] C signals;
+[0:14] To be'sent during.the exercise. \
+[0:14] iad
+[0:15] inl
+[0:15] Iles!
+[0:15] Wil
+[0:15] bye
+[0:15] Once
+[0:15] your
+[0:15] Wohi
+[0:15] ४27
+[0:15 - 0:16] g environment
+[0:16] Welt ce
+[0:16] hres
+[0:16] you | back in you
+[0:16] A wyain| n
+[0:16] lee |
+[0:16] SIS
+[0:17] iid
+[0:17] qatar
+[0:17] | -पल्च
+[0:17] ॥ 06 1000 10 your Aah
+[0:17] Vig
+[0:17] Laat ॥
+[0:17 - 0:19] Motivation levels} -
+[0:18] Ama
+[0:18] mil | =
+[0:18] WIP
+[0:18] You
+[0:18] be back to your baseline
+[0:18] e. हैः
+[0:19] woe
+[0:19] illbe back toyoung bas
+[0:19] y fh
+[0:19] ipe
+[0:19] wat
+[0:19] * ‘Pee
+[0:20] ॥ RGN
+[0:20] Ww os
+[0:20] Ability tohandle perceptionsis
+[0:20] .. nowlesser as the environmentis
+[0:20] ary
+[0:20 - 0:22] now removed
+[0:21] ria
+[0:21] है. पं
+[0:21] न्‍ Vy:
+[0:21] lity
+[0:21] पारी
+[0:21 - 0:22] le perceptionsis ~
+[0:21 - 0:22] esser
+[0:21 - 0:22] 86 environment
+[0:22] rami #
+[0:22] toha
+[0:22] a ता
+[0:23] het
+[0:23] ne 5 RG
+[0:23] | ire
+[0:23] 141०
+[0:23] पिज्जा आधी #- 7 alt
+[0:23 - 0:24] Back to your original |
+[0:23 - 0:24] = ength® =
+[0:24] Sogo
+[0:24] 1 ity
+[0:24] lie
+[0:24] a = ate
+[0:25] hog
+[0:25] Dat किन
+[0:25] ily
+[0:25] ५४ 0
+[0:25] our oniginal :
+[0:25] agit माह

@@ -1,0 +1,714 @@
+# model: ggml-large-v3
+========================================================================
+[694] https://www.instagram.com/reel/DQcWDOOE_X3/
+STATUS: OK
+DURATION: 2:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] how do you prioritize a lagging muscle group first and foremost you have to understand one specific
+[0:04 - 0:09] thing that more volume is not the answer there are a lot of people just spamming extra volume
+[0:09 - 0:14] thinking that it's gonna help you grow that muscle faster but it just doesn't work that way see if
+[0:14 - 0:18] you're training a muscle group three times per week the max you can get away with is three sets
+[0:18 - 0:23] for a muscle group and if you're training a muscle group two times per week the max you can get away
+[0:23 - 0:28] with is four to five sets per muscle group you can increase volume towards a certain extent and
+[0:28 - 0:33] after that you cannot really increase volume because if you do you are not gonna be recovering
+[0:33 - 0:37] back on time i'm still gonna be present with fatigue which carries over from the previous
+[0:37 - 0:41] session which is gonna interfere with the stimulus which are gonna be providing to that given muscle
+[0:41 - 0:45] group not only just for the given muscle group but for the whole workout which means that you're not
+[0:45 - 0:50] only reducing stimulus for the given muscle group but for the whole workout so the best bet here is
+[0:50 - 0:57] gonna be to increase your frequency to three times per week or to increase it to an every other day
+[0:57 - 1:02] kind of fashion secondly you have to make sure that that given muscle group is hit first in the
+[1:02 - 1:07] given session because when you first enter the gym you're in an unfatigued state means that you're
+[1:07 - 1:11] gonna be able to get that highest amount of recruitment or the highest amount of stimulus
+[1:11 - 1:15] in the first few exercises and thirdly whenever we are choosing the kind of exercise we should be
+[1:15 - 1:20] choosing for a given muscle group we have to make sure we train different functions of that muscle
+[1:20 - 1:24] group because when we train the different functions of a given muscle group we are
+[1:24 - 1:28] going to be recruiting different regions of a muscle group or different set of fibers in that
+[1:28 - 1:32] given muscle group and if you're someone who wants to maximize muscle growth in the whole muscle
+[1:32 - 1:36] itself you have to make sure that you maximize every single region now for example let's say you
+[1:36 - 1:41] want to maximize growth in your chest what you're going to be doing is some kind of horizontal
+[1:41 - 1:44] adduction exercise which biases the whole pecs some kind of shoulder flexion movement which
+[1:44 - 1:49] biases the upper pecs some kind of shoulder extension movement which bias is the lower
+[1:49 - 1:55] pecs and lastly we have to choose exercises which are highly stable unilateral and single jointed
+[1:55 - 2:00] there is one specific reason to that and that is purely because it is going to help you maximize
+[2:00 - 2:04] motor unit recruitment when we compare a stable exercise to an unstable exercise a stable in a
+[2:04 - 2:08] stable exercise we are going to be able to produce more force and when we compare a unilateral
+[2:08 - 2:12] exercise to a bilateral exercise the unilateral exercise is not going to be suffering with
+[2:12 - 2:16] something called a bilateral motor deficit which means that we are going to have high amounts of
+[2:16 - 2:22] recruitment in a unilateral exercise compared to a bilateral once lastly when we choose exercises
+[2:22 - 2:26] which are single jointed which means that not a lot of muscle groups are going to be working in it
+[2:26 - 2:30] means that there is going to be more cmc to the given target muscle group which we need
+[2:30 - 2:36] yeah this is all you can do to make sure you maximize your lagging body part
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Howsto
+[0:00] cleygio
+[0:00] LAS
+[0:00] ९; do you
+[0:01] Ow; tolbrin
+[0:01] laggingim
+[0:01] 1४5
+[0:01] Aye
+[0:01] bx: do you
+[0:01] ize a lagging
+[0:01] cle
+[0:02] fae
+[0:03] श्र
+[0:03] 401
+[0:03] =: foremost
+[0:03] have to
+[0:03] and one
+[0:04] ञ्छ
+[0:04] a | करना
+[0:04] wee
+[0:05] Ulm
+[0:05] me 8
+[0:05] के 4 f
+[0:05 - 0:06] e. volume is
+[0:06] ee ay Volume:
+[0:06] be a
+[0:06] the answer
+[0:07] i4é
+[0:07] don
+[0:07] ‘tispam
+[0:07] है. are a lot of
+[0:08] i= a lot of
+[0:08] people just
+[0:08] mming
+[0:09] 24 +#बीं॥
+[0:10] जी बदन
+[0:10] 2४ है
+[0:10] na help you
+[0:10 - 0:11] thy
+[0:10 - 0:11] +: that it's
+[0:11] a कक
+[0:11] a help you grow
+[0:11] muscle faster
+[0:11 - 0:13] 74s
+[0:12] ber
+[0:13] & just doesn't
+[0:13] ork that way
+[0:14] है you're training
+[0:15] ae oY, कक
+[0:15] है training
+[0:15] le group three
+[0:15 - 0:17] be “as
+[0:16] 74s
+[0:16] Tao
+[0:16] हैं
+[0:16] the,»max
+[0:16 - 0:17] hed
+[0:17] 5215॥5 cay
+[0:17] overable
+[0:17] Within
+[0:17] Ise
+[0:17] NOULS
+[0:17] ्ऊ- के
+[0:17] a al
+[0:17] ले. 4
+[0:17] vive.
+[0:17 - 0:18] (asjif now)
+[0:17 - 0:19] &: you can get
+[0:18] ¥setsiis i
+[0:18] within AS, NOULS
+[0:18] 144
+[0:18] wwe J
+[0:18 - 0:19] ly with is three
+[0:19] cay
+[0:19] Setsyis recoverable
+[0:19] Wwithint4Sshours
+[0:19] if{mow)
+[0:19] for a muscle
+[0:19] roup
+[0:20] ५ oe
+[0:20] ey a
+[0:21] ees
+[0:21] Cal
+[0:21 - 0:22] हैः you're training
+[0:21 - 0:22] iscle group two
+[0:22] ae अर
+[0:22] ie हे आई
+[0:22] के cn
+[0:22] per week
+[0:23] her
+[0:23] १7०७
+[0:23 - 0:24] क्र t . you can get
+[0:24] 5186
+[0:24] overable Within
+[0:24] (asjif now)
+[0:24] ith is 4
+[0:24 - 0:25] 72\hours'
+[0:25] Sets isirecoverableiwithin
+[0:25] (si? how
+[0:25] oe you can get
+[0:25] y with is 4 to 5
+[0:25] per muscle
+[0:26] om) जय
+[0:26] AeA
+[0:26 - 0:27] है caffincrease
+[0:27 - 0:28] en me towards
+[0:28] a yA Ce
+[0:28] ee can increase
+[0:28] in extent
+[0:29] pa ae
+[0:29] re के
+[0:29] क्र he
+[0:29] «५ 34
+[0:30] way
+[0:30] he i
+[0:30] eS e
+[0:30] रु cannot really
+[0:30] icrease
+[0:31] ai नो
+[0:31] i” ie
+[0:31] os really
+[0:31] ase volume
+[0:31] f, use if
+[0:32] nae ami
+[0:32] २६ >जह
+[0:32] thar
+[0:33] 7271७ 1 (एड
+[0:33] fatigue
+[0:33] liKearny,
+[0:33] oat
+[0:33] a not gonna be
+[0:33] ering
+[0:34] CalihyaOVely
+[0:34] S ii
+[0:34] हैं“
+[0:34 - 0:35] feCcoVvery WON
+[0:34 - 0:35] fatigue will{canny,
+[0:35] stibe .
+[0:35] + aha
+[0:35] wim
+[0:35] vee
+[0:35] till gonna be
+[0:35] nt with fatigue
+[0:36] hed
+[0:36] aed
+[0:37] red
+[0:37] 4 Ad
+[0:37] ie carries over
+[0:37] the previous
+[0:37] session
+[0:38] Ved)
+[0:38] Fas
+[0:38] हैक
+[0:38] &: is gonna
+[0:39] ‘tas
+[0:40] 74s
+[0:40] Bea
+[0:40] Les
+[0:40] ie you're gonna
+[0:40] ‘oviding to that
+[0:41] » Ya ak
+[0:41] pre
+[0:41] itd
+[0:42] aay
+[0:42] nn ad
+[0:42] om A
+[0:42] "०५1०० forthe
+[0:43] ror
+[0:43] o बह
+[0:43] 25 Poy
+[0:43] मे just for the
+[0:43] luscle group
+[0:44] vt 4
+[0:44] करे
+[0:44] bye |
+[0:44] हैः for the whole
+[0:44] workout
+[0:45] “ कै that
+[0:46] बड़
+[0:46] ee means that
+[0:46] ‘re not only
+[0:46] reducing
+[0:47] ७९८ $
+[0:47] Foe)
+[0:47] 4y3
+[0:47] ‘on for the
+[0:47] aad
+[0:49] a हा
+[0:49] है for the whole
+[0:49] workout
+[0:50] a 4d
+[0:50] 4 ¢ vase
+[0:51] sed
+[0:51] 3 Saati हे
+[0:51] Nes /peh
+[0:51] Sor
+[0:51] img}
+[0:51] best bet here
+[0:51] gonna be
+[0:51 - 0:52] » Siti
+[0:51 - 0:53] श्र
+[0:52] ८65!
+[0:52] eS) pel
+[0:52] end |
+[0:52] cos
+[0:52] ९ के
+[0:52] 283
+[0:52] “Tee
+[0:52 - 0:53] /375215 ला,
+[0:52 - 0:53] penmg
+[0:53] 5 8 (1733
+[0:53] 91०
+[0:53] iency
+[0:53 - 0:54] — your
+[0:54] 3) ही
+[0:54] ७3011
+[0:54] perimg
+[0:54] iency to three
+[0:54] 5 per
+[0:55] क दे
+[0:55] ae ge
+[0:55] one a.
+[0:56] La | के
+[0:56] eal a
+[0:56] छः हैः न
+[0:57] a ry gther
+[0:57 - 0:58] t= it to
+[0:58] ery other day
+[0:58] 1 of fashion
+[0:59] *० «जे
+[0:59] Z "के
+[1:00] train) it
+[1:00] | ओके
+[1:00] जैक
+[1:00 - 1:01] have to make
+[1:00 - 1:01] at that given
+[1:01] A ae
+[1:01] tral
+[1:01] myit
+[1:01] bal te
+[1:01] “rag
+[1:01] thee
+[1:01] wer
+[1:01] group is
+[1:02] ७ 4 4.
+[1:02] गिछ
+[1:02] a नसे
+[1:02] wed
+[1:03] 74s
+[1:03 - 1:04] ! he given session
+[1:04] ah 4
+[1:04] जिले
+[1:04] श्र
+[1:04] ise when you
+[1:05] a i a ,]
+[1:05] “०००५
+[1:05 - 1:06] e- in an
+[1:06] a 44 iS
+[1:06] (19५९० state
+[1:07] A) 4d
+[1:07] हे हे
+[1:08] aed
+[1:08 - 1:09] a ie to get that
+[1:08 - 1:10] fis
+[1:09] “4 ee.
+[1:09] ray %
+[1:09] 124)
+[1:09] bee 9
+[1:09] 1३०५
+[1:09] st amount of
+[1:09] itment
+[1:10] ie Te
+[1:10] nt of
+[1:10 - 1:11] bad
+[1:10 - 1:12] es the the highest
+[1:11] हि कै
+[1:11] aay
+[1:11] yAr
+[1:11] first
+[1:11 - 1:12] Int of stimulus
+[1:12] ५०७१
+[1:12] any
+[1:12] the first few
+[1:12] ixercises
+[1:13] २८4
+[1:13] LS ५
+[1:13] » vay ae h*
+[1:13] ae. ge
+[1:13] never we
+[1:13 - 1:14] है" thirdly
+[1:14] ne. alti
+[1:14] oes
+[1:14] ever we are
+[1:14] 9 the kind of
+[1:14 - 1:15] ire
+[1:15] rae.)
+[1:15] WwW A
+[1:15] Tif
+[1:15] ९ वर
+[1:15] ae --५
+[1:16] जा के
+[1:16] whee ta
+[1:16] ace
+[1:16] ae be
+[1:16] ing for a given
+[1:16 - 1:18] Fae
+[1:17] A हे
+[1:17] a eS
+[1:17] है सै.
+[1:18] २24
+[1:18] भें
+[1:18] i. or
+[1:18] प्र
+[1:19] है पं
+[1:19] Pay
+[1:19] diffe
+[1:19] t functions
+[1:20] » 9.5 1
+[1:20] ee ae
+[1:20] श्र
+[1:20] Cae functions of
+[1:21] ० हे
+[1:21] Ta oe
+[1:21 - 1:23] है. when we
+[1:22] ९ के
+[1:22] है ;+ ५
+[1:22 - 1:23] the different
+[1:23] है 9
+[1:23] pee
+[1:23] iS of a given
+[1:23] muscle
+[1:24] Fay
+[1:24] क भरे
+[1:24] for +
+[1:24] Tang
+[1:25] donstdo
+[1:25] Wdifferentwania
+[1:25] extensionsformthe
+[1:25] > vay a
+[1:25] ee A कान
+[1:25] Per
+[1:25] ic gonna be
+[1:25 - 1:26] iting different
+[1:26] 1००5)
+[1:26] 00111 6
+[1:26] 10191
+[1:26] कि का का
+[1:26] प्र
+[1:26] १७७५ '
+[1:26] ee: gonna be
+[1:26] muscle
+[1:26 - 1:27] don
+[1:27] १७ different Vanic
+[1:27] ants
+[1:27] shouldermextensi
+[1:27] Ons)
+[1:27] for
+[1:27] inh
+[1:27] fferent set
+[1:28] i FF
+[1:28] ले के
+[1:28] Sian pa
+[1:28] री set of
+[1:28] in that given
+[1:29] प्र
+[1:29] हक के
+[1:29] >> a ee
+[1:29] <a ae
+[1:29] o is
+[1:29] awe
+[1:29 - 1:31] हैं, if you're
+[1:30] कर के
+[1:30] be ae
+[1:30] Se ill
+[1:30] =o He
+[1:30] f to
+[1:30] mize
+[1:30 - 1:31] e@ who wants
+[1:31] wee
+[1:31] fis
+[1:31] Ye hi
+[1:31] हुँ
+[1:31] pes
+[1:31] anf to
+[1:31] to von
+[1:31] imize muscle
+[1:31] growth
+[1:32] *००्ञ्जै
+[1:32] हू के
+[1:32] ted
+[1:32] ZA A
+[1:32] aes
+[1:33] wy Ne
+[1:33] any
+[1:33] pa peel
+[1:33] श्र
+[1:34] tis
+[1:34] ae हे
+[1:34] 2 every
+[1:34 - 1:35] y e to make
+[1:34 - 1:35] re that you
+[1:35] rn ty
+[1:35] न्टः
+[1:35] imize every
+[1:35] e region
+[1:36] eae
+[1:36] a ee
+[1:36] ५232
+[1:36] a ५४ आए let’
+[1:37] M 4a
+[1:37] प्र
+[1:37] By yaa:
+[1:37] a कि
+[1:37] है 2
+[1:37] ize
+[1:37 - 1:38] om example let'
+[1:37 - 1:38] ou want to
+[1:38] His
+[1:38] Ey ea
+[1:38] 28५
+[1:38] growth in
+[1:38] your chest
+[1:40] . 4. Ta
+[1:40] Fae
+[1:40] प्र
+[1:40] है. y
+[1:40] ais
+[1:40] कक 2२४०
+[1:40] whe)
+[1:40] isometricjail
+[1:40] you're gonna
+[1:40] joing is some
+[1:40] kind of
+[1:40 - 1:47] i can’t train chest
+[1:41] ड्ु
+[1:41] हि मे
+[1:41] awe).
+[1:41] है # है.
+[1:41] aes
+[1:41] Pa a:
+[1:41] a " अब
+[1:41] ction
+[1:42] horizontal ay) »
+[1:42] १8" है|
+[1:42] Eee ei
+[1:42] hii
+[1:42] we a
+[1:42] भर “ate
+[1:42] h biases
+[1:42] | ees
+[1:43] horizontal adduction
+[1:43] हि के bu
+[1:43] ete
+[1:43] fos tacos ll
+[1:43] le pecs
+[1:43 - 1:46] i ich biases the
+[1:44] vee a)
+[1:44] awe),
+[1:44] है" 2
+[1:44] #isometricjai
+[1:44] le pecs some
+[1:44] of shoulder
+[1:44] | eee
+[1:44 - 1:46] shoulder flexion
+[1:45] it Se a eee
+[1:45] १७ जा
+[1:45] #isometr
+[1:45] बटर
+[1:45] | Yow.
+[1:46] aoa
+[1:46] कुक
+[1:46] eal
+[1:46] “अंक
+[1:46] pper pecs
+[1:46] ie 3
+[1:47] = — extension=
+[1:47] है ३
+[1:47] 0" PAL!
+[1:47] #isometrigjail
+[1:47] ome kind of
+[1:48] shoulder extension
+[1:48] a, जा
+[1:48] which mA
+[1:49] sho
+[1:49] dia ldemextension
+[1:49] नाक
+[1:50] bad
+[1:50] Fay
+[1:50] श्र
+[1:50] ब्प्हा
+[1:50] whith biases the
+[1:50] lower pecs and lastly
+[1:51] exercises
+[1:51 - 1:52] Unilateral
+[1:51 - 1:52] we have to choose
+[1:51 - 1:54] Stable
+[1:51 - 1:54] singleljointed
+[1:52] id a
+[1:52] exercises which are
+[1:52] highly ~~
+[1:53] ats
+[1:53] jointed
+[1:53] single
+[1:53] tae
+[1:53] हलक
+[1:53 - 1:54] uUnil at
+[1:54] aly
+[1:54] vis
+[1:54] ने yh
+[1:54] ditilaterst and
+[1:55] se 3
+[1:55] श्र
+[1:55] and there
+[1:56] or a
+[1:56] ; mi" one 4
+[1:57] Sf fl
+[1:57] Ss 9
+[1:57] Fay "
+[1:57] छः के
+[1:57] and that is
+[1:58] aot
+[1:58] हि. purely
+[1:58] because wy
+[1:59] ०० 6
+[1:59] awe
+[1:59] wreenuitment
+[1:59] max
+[1:59] en. ge
+[1:59] pe hy
+[1:59] Bh that is purely
+[1:59] because it is going to
+[2:00] al hays
+[2:00] recruitment
+[2:00] inked
+[2:00] aad
+[2:00] ine कम
+[2:00] Be, Are
+[2:01] when we
+[2:02] whe
+[2:02] ‘GS compare a
+[2:03] was 17
+[2:03] ३ ५३
+[2:03] 1 Pe
+[2:03] श्री
+[2:03] _-प्क
+[2:03] wheh we compare a
+[2:03] stable ७ hot
+[2:03] ise to an
+[2:03] unstab
+[2:03] rcise
+[2:04] a ns in a stable
+[2:05] weiare going to
+[2:06] Af fl
+[2:06] se. यु]
+[2:06] me. ऑन
+[2:06] we +. going to be
+[2:06] able to produce
+[2:06] m are
+[2:07] है के
+[2:07] met
+[2:07] कान
+[2:07] and when
+[2:08] rhea when we
+[2:08 - 2:11] are a unilateral
+[2:09] Te eh |
+[2:09] ise toa
+[2:09 - 2:10] and when we
+[2:09 - 2:10] bilatera
+[2:10] aoe
+[2:10] com
+[2:10] rcise
+[2:11] vet
+[2:11] oe 4
+[2:12] see
+[2:13] ses
+[2:13] जैक,
+[2:13] है ला
+[2:13] ar. gonna be
+[2:13] ring with
+[2:13] called a
+[2:14] yee 4
+[2:15] ade
+[2:15] cathe
+[2:15 - 2:16] j wi रे means that
+[2:16] 74s
+[2:16] प्र
+[2:16] a - कक
+[2:16] ~ खली
+[2:16] we going to have
+[2:16] hig
+[2:16] nts
+[2:16] eas
+[2:17] Shs
+[2:17] mst
+[2:17] PF s
+[2:17] ina
+[2:18] ade i Fe
+[2:18] A. unilateral
+[2:19] Pas
+[2:19] att
+[2:19] te ge
+[2:19] jeg
+[2:19] Py 7
+[2:20] lastly
+[2:21] Lf wl)
+[2:21] यू के
+[2:21] when we
+[2:22] a हि
+[2:22] o> oe
+[2:22] ee बिक
+[2:22] Meg ||
+[2:22] vena when we
+[2:22] ercises
+[2:22] whic
+[2:24] are
+[2:24] होम
+[2:24] हैः
+[2:24] va means that
+[2:24] be ic
+[2:24] lot
+[2:25] a led
+[2:25] te that
+[2:25] lot of muscle
+[2:25] grou
+[2:25] Ana
+[2:26] न्ग्श 3
+[2:26] 2 de
+[2:26] aif
+[2:26] Ais
+[2:26] है रैक
+[2:27] Ved)
+[2:27] दि, हि
+[2:27] नजर
+[2:27] Ment that there
+[2:27] na be
+[2:28] uss
+[2:29] क्रो
+[2:29] hes
+[2:30] 2 ae
+[2:30] i age
+[2:30] ro a
+[2:30] witten we need
+[2:31] alsolforgotito
+[2:31] train
+[2:31] heayy)
+[2:31] and in
+[2:31] 958
+[2:32] Lfalso
+[2:32] forgot
+[2:32] 188४५ andi
+[2:32] this is all you can do
+[2:33] alSosforgo
+[2:33] fainhheaywya
+[2:33] हू A
+[2:33] this
+[2:33] a पु
+[2:33] Sin
+[2:33 - 2:34] all you can do
+[2:33 - 2:34] ke sure you
+[2:34] lsosforgotytora
+[2:34] ay 3
+[2:34] ame i
+[2:34] low,
+[2:34] प्री
+[2:34] your
+[2:34] lagging
+[2:35] any
+[2:35] she
+[2:35] Follow for mare
+[2:35] body part so yeah

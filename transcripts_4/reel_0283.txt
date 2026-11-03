@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[283] https://www.instagram.com/reel/DZ7EAg5MZEU/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] Now watch me whip, watch me nae nae
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] — परम,
+[0:00] Just letting you know
+[0:01] Tia
+[0:01] ths
+[0:01] ust : you know,
+[0:02] Justale
+[0:02] iting
+[0:03] 1 oy
+[0:03 - 0:05] Thisiis
+[0:04] Thisisjajdip
+[0:04] Bid
+[0:06] | wes
+[0:07] तलब न
+[0:07] wera
+[0:07 - 0:08] “Thisisaidp
+[0:08] Buteasier
+[0:08] की कि
+[0:08 - 0:10] ५ जन्म
+[0:09] iieasier®
+[0:09] Ye मन
+[0:10] बा 11076 [101
+[0:10] [|| pariah like
+[0:10] wet
+[0:11] feanlift more|than
+[0:11] emit like}thnis)
+[0:11] Ifill pane
+[0:12] ॥॥10॥॥ 0 ही 118
+[0:12] wi है|
+[0:12 - 0:15] = Andon
+[0:13] Oars
+[0:13 - 0:14] When'l'penformitliketthis)
+[0:14] vis
+[0:14] Okgs
+[0:14] Gia
+[0:15] 80kas
+[0:15] When'l'perf
+[0:15] itlike this)
+[0:15] fad
+[0:15] of as
+[0:15] Seed

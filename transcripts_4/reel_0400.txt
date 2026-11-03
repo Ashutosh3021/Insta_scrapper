@@ -1,0 +1,79 @@
+# model: ggml-large-v3
+========================================================================
+[400] https://www.instagram.com/reel/DXWlcjVjOV4/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Do you think bench press is enough for your triceps?
+[0:02 - 0:05] Do you think leg press is enough for your calves?
+[0:05 - 0:08] Do you think a seated row is enough for your biceps?
+[0:08 - 0:10] No, right?
+[0:10 - 0:15] Then why the hell do you think a chin-up is a good bicep exercise?
+[0:15 - 0:21] In fact, chin-up is probably not the greatest bicep exercise of all time.
+[0:21 - 0:25] Just because one bodybuilder from I don't know how long ago told you that,
+[0:25 - 0:26] it's not.
+[0:26 - 0:28] It's a pretty bad exercise.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] EewEneugh for'tricep’growth?,
+[0:00] Fix
+[0:00] ee पु
+[0:00 - 0:01] Isibenchjpress})
+[0:01] ==Enough for tricep (30204
+[0:01] ६. ih
+[0:02] हे ५
+[0:03] क्र
+[0:03] Boyou think
+[0:03 - 0:04] For. yourlcalvesi
+[0:03 - 0:05] ilsleg press\enough
+[0:04] press
+[0:04] isenoug
+[0:05] ह 00071
+[0:05] lal
+[0:05] 22००.
+[0:06] att
+[0:06] Do you think ©
+[0:07] Enough fonyounbiceps?,
+[0:07] rowis
+[0:07] Do you think; A eated
+[0:07 - 0:09] ~ Is aseated row
+[0:08] Sy neughiforyourtbicepse
+[0:08] ver
+[0:08] biceps?
+[0:09] Enoughfonyour poet
+[0:09] ium)
+[0:09] ३७5
+[0:10] x right, ” | ‘
+[0:11] Ag een hy the
+[0:12] pat
+[0:12] Tat
+[0:12] 1३०, right, ep o>.
+[0:12] hellido youthink a
+[0:14] Upis.a.goéfbicep
+[0:15] coll:
+[0:16] me [2]
+[0:17] aan been
+[0:17] In ur
+[0:18] hos
+[0:18] Pte
+[0:18] In fact, chin up is
+[0:18] probablynot
+[0:20] xercise
+[0:21] Lil
+[0:22] wae
+[0:22] w ml
+[0:22] fist Becalis@ offe body
+[0:23] res
+[0:23] dust bec;
+[0:23] je body
+[0:23] builder
+[0:24] howlong ag
+[0:25] rng
+[0:26] ores
+[0:27] +s) et
+[0:27] It'sa 0 by
+[0:28] Ser
+[0:28] It's apr
+[0:28] exercise,it's

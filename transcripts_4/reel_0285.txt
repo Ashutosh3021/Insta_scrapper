@@ -1,0 +1,99 @@
+# model: ggml-large-v3
+========================================================================
+[285] https://www.instagram.com/reel/DZ2ZOlos-HD/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] In a room full of people, I look for you
+[0:12 - 0:16] Would you avoid me, or would you look for me too?
+[0:16 - 0:20] Tell me, is our story through?
+[0:20 - 0:24] Or do I have to be too?
+[0:24 - 0:28] Maybe I'm delusional
+[0:28 - 0:31] And the way you act is usual
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 167
+[0:00] क्या
+[0:00 - 0:01] Pecifly
+[0:01] रु | fix p\
+[0:02] / 79७
+[0:02 - 0:03] This is NOT-howk
+[0:02 - 0:03] You wanit'to sit on a pecytly
+[0:03] दिये
+[0:04] A ld
+[0:04] tay
+[0:04] pright
+[0:05] 22८
+[0:05] Sta Upright Sa
+[0:06 - 0:08] de And thisupper back ar
+[0:06 - 0:08] ching?
+[0:07] ब्लड
+[0:07] mal
+[0:09 - 0:11] Not needed 1 d
+[0:10] Not ected
+[0:11] A कु
+[0:12] AA ih
+[0:12 - 0:13] Free the scaps
+[0:12 - 0:14] On't limit their movement
+[0:14] Rus
+[0:14] ree thes
+[0:14] caps
+[0:14] LES
+[0:15] owe yourselfjin
+[0:15] 0 ag ack
+[0:15] wal
+[0:15] — जिक
+[0:15 - 0:16] withyour ag
+[0:16] Drive - ntothelack
+[0:16] ele
+[0:17] withiyour legs
+[0:17] sol
+[0:18] djkee litte
+[0:18 - 0:20] a aldesiredielbowlbend
+[0:19] ला: Q sa d लि
+[0:19] re ie | है
+[0:19] ile
+[0:20] Andlkeeplitgc
+[0:21] a 170
+[0:21] he keenit’c
+[0:21] ad 1 p
+[0:21] Cian /\
+[0:21 - 0:23] lal
+[0:22] inc increase the a or
+[0:22] का ib NN
+[0:22] Lee]
+[0:23] er वात निज the : or
+[0:23] ee aie aN
+[0:23] की चलते खा
+[0:24] —— things 7 लोड donit matter
+[0:24] éat
+[0:24] SS ee
+[0:24 - 0:29] Here
+[0:25] 12०)
+[0:25] XN ५
+[0:25] owe शी
+[0:25 - 0:28] a things ———’ donit matter
+[0:26] ew things that donit matter
+[0:26] 1 18101
+[0:26] The:
+[0:26] >््उ्ज्बं
+[0:27] lsthe’stretch
+[0:27] 64 115»
+[0:27] घच्छ
+[0:28] हक 9108 10॥॥
+[0:28] abies
+[0:28] Mae
+[0:28] hen
+[0:29 - 0:31] ew things that don't matter:
+[0:30] Fewithings <a do
+[0:30] ae matter
+[0:30] ENslo
+[0:30] ANS
+[0:30] | Weegee
+[0:30] aie
+[0:30] SS eye
+[0:30 - 0:31] ere
+[0:31] aConstantatensio
+[0:31] aN ee Gs

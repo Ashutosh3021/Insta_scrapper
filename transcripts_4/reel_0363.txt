@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[363] https://www.instagram.com/reel/DYC4arASA0T/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] We headed to the bar, baby, don't be nervous
+[0:02 - 0:04] No shoes, no shirt, and I still get service
+[0:04 - 0:05] Watch
+[0:05 - 0:07] Girl, look at that body
+[0:07 - 0:09] Girl, look at that body
+[0:09 - 0:11] Girl, look at that body
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ley
+[0:00] wes
+[0:00] 1 oh
+[0:01] हनन कक कर
+[0:01] Wie
+[0:01] Lares
+[0:02] wag)
+[0:02] OoKeY 7
+[0:02] faa
+[0:02] ape
+[0:03] Pas
+[0:04] ४३ १७
+[0:04] pe bh ob
+[0:04] उश्य
+[0:04] जे. हू है है
+[0:05] SrT\ ० “oe
+[0:06] Tt > wae
+[0:07] y SF
+[0:07] हुई
+[0:07] MOCK
+[0:07] Gan
+[0:08] La मि>
+[0:08] cap)!
+[0:08] sey,
+[0:08] ape
+[0:08] eee”

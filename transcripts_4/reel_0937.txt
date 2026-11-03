@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[937] https://www.instagram.com/reel/DHTaNy4t_IY/
+STATUS: OK
+DURATION: 0:55   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] अर्नॉल्ड प्रेस है बेट एक्सरसाइज फॉर मसल ग्रोथ
+[0:02 - 0:06] अर्नॉल्ड एक लेजेंड है बट उसका मतलब ये नहीं कि वो एकसरसाइज अच्छी है
+[0:06 - 0:06] अर्नॉल्ड प्रेस का प्रॉब्लम है आज खाली फुकट का होरिजॉन्टल अब्डक्षन और अड़क्षन ज
+[0:06 - 0:36] अर्नॉल्ड एक लेजेंड है बेट एक लेजेंड है बट उसका मतलब ये नहीं कि वो एक लेजेंड है
+[0:36 - 0:36] अर्नॉल्ड एक लेजेंड है बेट एक लेजेंड है
+[0:36 - 0:55] अर्नॉल्ड एक लेजेंड है बेट एक लेजेंड है बेट एक लेजेंड है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Arnold
+[0:00] press
+[0:00] Bestfshn
+[0:00] thi
+[0:00] SSS
+[0:01] Bestishouldenexercise
+[0:01] the A
+[0:01] asia BI
+[0:01 - 0:02] he Arnold Press is
+[0:02] estish
+[0:02] Cmexe li
+[0:02] 21562
+[0:02] ercise for muscle Gre
+[0:03] बम की
+[0:03] Gt MS Wrong ‘
+[0:04] ic legendary
+[0:05] getimewwrong ) ७0
+[0:07] Metta
+[0:07] jin problem
+[0:08] \ प्र
+[0:08 - 0:09] Main)
+[0:08 - 0:09] blem about
+[0:09] presses is
+[0:11] focuction
+[0:12 - 0:13] Dcluction
+[0:16] iainsfall3)
+[0:16] fet.
+[0:17] 11101 8॥3]
+[0:19] Thetsa
+[0:20] th itself is a pro!
+[0:20] its own
+[0:22] shel
+[0:22] int side ani
+[0:25] सका
+[0:25 - 0:26] perform
+[0:26] Eh i
+[0:26] BF y
+[0:26] 146
+[0:26] fed
+[0:26] igh
+[0:28] optimise
+[0:29] it optimise all
+[0:32 - 0:33] id press wil
+[0:33] Bra? f
+[0:33] force output
+[0:36] effective for
+[0:39] st do an verti
+[0:40] 11010 1 0॥ 11) 6 11211 212
+[0:41 - 0:45] lfinotApnold|pressithemwthat7
+[0:42] Ber
+[0:42] श्र
+[0:42] rm of shoul
+[0:43] 11010 /0॥ 11) 6 11211 212
+[0:44] a jateral day sho!
+[0:45 - 0:46] wanna target thi
+[0:46] ine
+[0:46] ior deltoids
+[0:47] of horizontal
+[0:48] ithenlwhatey
+[0:48] idi
+[0:49] lfinotApnald|pcess\themwihat7
+[0:49] rr extension is
+[0:49] ich
+[0:51 - 0:52] of the day you
+[0:52] art not
+[0:54] hope

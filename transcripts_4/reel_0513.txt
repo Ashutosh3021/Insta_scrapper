@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[513] https://www.instagram.com/reel/DVG4-cHDPY9/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] i don't know who needs to hear this but one rep maxes don't really cause extra fatigue i don't
+[0:04 - 0:10] know why a lot of you guys are saying oh one rep maxes fry my cns it is not doing that you know
+[0:10 - 0:14] what's doing that higher reps you know what's doing that holding the stretch position you know
+[0:14 - 0:19] what's doing that doing higher volumes all of these things are going to do that you doing few
+[0:19 - 0:25] one rep maxes is not gonna fry your cns that's fine again that doesn't mean you go ahead and
+[0:25 - 0:30] do one rep maxes all the time there is a time and place for everything but that doesn't mean
+[0:30 - 0:32] one rep max is gonna fry your cns all right
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ens
+[0:00] 3७) 1.७६
+[0:00 - 0:02] IRMSidonit “fry” your
+[0:01] vi cns
+[0:02] cns
+[0:02] wy x
+[0:02] oo. te
+[0:02 - 0:03] OR NADAR
+[0:04] ३०६
+[0:04] बजा
+[0:04] ina <८
+[0:05] A he
+[0:05] Mins oe
+[0:06] Pee oe
+[0:06] Nir
+[0:06] sh (ful
+[0:07] ON a
+[0:07] हुक.
+[0:07] कं आटा
+[0:08] HEM
+[0:10] ps 4६
+[0:11] DAF
+[0:12] HEME
+[0:12] 3. अरबी
+[0:14] mFVOR NADAR
+[0:16] ३०६
+[0:19 - 0:21] FVOR NADAR
+[0:22] ps 4६
+[0:25] TIME
+[0:25] THE
+[0:25 - 0:26] VOR NADAR
+[0:26] os Li
+[0:31] Eva
+[0:31] वाल
+[0:32] he f
+[0:32] 1110 & .

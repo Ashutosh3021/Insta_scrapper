@@ -1,0 +1,74 @@
+# model: ggml-large-v3
+========================================================================
+[500] https://www.instagram.com/reel/DVVrf3wjNN5/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Just sit on his broke-ass soul
+[0:02 - 0:05] No, I don't want your number, no
+[0:05 - 0:08] And I don't wanna give you mine, and no
+[0:08 - 0:10] I don't wanna meet you nowhere, no
+[0:10 - 0:13] I don't want none of your time, and no
+[0:13 - 0:15] I don't want no scrub
+[0:15 - 0:18] A scrub is a guy that can't get no love from me
+[0:18 - 0:20] Hanging out with passengers
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] thelr
+[0:01] stall
+[0:01] band
+[0:01] anoul
+[0:01] 1116 bar
+[0:01 - 0:02] Cataresi
+[0:01 - 0:03] See
+[0:02] 11310 6 band
+[0:02] Round the bar
+[0:03] putithe) i ide Z your
+[0:03] fast -
+[0:03] न stand
+[0:03] Oes'
+[0:03 - 0:04] allay back
+[0:04] feet -
+[0:04] yA stand
+[0:04] 422
+[0:04] ten
+[0:04] wa i,
+[0:04 - 0:05] putithe) yA J on your
+[0:05] कं and lay back:
+[0:05] onstandlits
+[0:05] timatter
+[0:05] oo अडम
+[0:06] ye hraverajoqonated
+[0:06] vet
+[0:07] al orate
+[0:09] Ri ast
+[0:10] ZB fel
+[0:11] 3 it
+[0:11] Ree
+[0:11 - 0:12] atishontmuse|
+[0:11 - 0:12] 3278 1
+[0:13] है” hasithe|best
+[0:13] क्र
+[0:13 - 0:14] ist a hange)
+[0:13 - 0:14] the leverage
+[0:13 - 0:14] awh
+[0:13 - 0:14] 10900
+[0:13 - 0:15] Adjusting theta
+[0:14] ye astis
+[0:14] best
+[0:14] wee
+[0:14] 36 4 1
+[0:15] ist yy hi
+[0:15] > levenai
+[0:15] whi
+[0:15] flexonjina
+[0:15] सकल
+[0:16] tanger muse
+[0:16] \ are,
+[0:16 - 0:17] the)
+[0:17] 1181 1 21
+[0:17] ee J
+[0:18 - 0:19] whist J.
+[0:18 - 0:19] toichangejleverage,of

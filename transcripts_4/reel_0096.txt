@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[96] https://www.instagram.com/reel/DdrkhHFMkpP/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I ain't thinking high
+[0:03 - 0:05] Well, maybe a little, baby
+[0:05 - 0:06] I don't wanna lie
+[0:06 - 0:08] I know when you text me, girl
+[0:08 - 0:09] I don't always reply
+[0:09 - 0:11] Well, you're not an angel either
+[0:11 - 0:12] You can't even fly
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] dOnT taKe melatonin
+[0:00] 18 aDdiCtiVe
+[0:01 - 0:02] G (Melatonin isn’t additive
+[0:03] ‘re not developing depend
+[0:03 - 0:04] Onit
+[0:04] You're not develop
+[0:04] ma की
+[0:05] ज्ल्के \
+[0:05] fay,
+[0:05 - 0:06] It’snoteven stored —
+[0:05 - 0:06] In the body
+[0:07] Ga, है
+[0:07] 2 hours prior bedtime
+[0:08 - 0:09] é f you're struggling with
+[0:08 - 0:09] | Sleep use it
+[0:10 - 0:12] Stick to a lower dosage
+[0:10 - 0:12] fur least sides

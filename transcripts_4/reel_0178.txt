@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[178] https://www.instagram.com/reel/DcJBTMjswFe/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Don't you close my eyes.
+[0:03 - 0:10] Sometimes you wait a little while to see what's wrong and right.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] le ey
+[0:00] “ letting youlknow,
+[0:00] ‘yl बढ
+[0:00] iam |
+[0:00] wy z
+[0:00] rae
+[0:01] fA 4
+[0:01] है? की!
+[0:01] जय “5
+[0:01] lil
+[0:01] a bi
+[0:01] Petting you i
+[0:02] कर है
+[0:02] Se Wh?)
+[0:02 - 0:03] pulldown machine
+[0:02 - 0:03] Is E only for thejlats \
+[0:03] Fri
+[0:04] ॥ a ee)
+[0:04] oie
+[0:04] You can ered >
+[0:04] © For awide.grinnowaswell
+[0:04] ree)
+[0:05] Yaa
+[0:05] 111
+[0:05] ayy
+[0:05 - 0:06] ow.as\well
+[0:05 - 0:06] ५ For a wide,gnipur:
+[0:05 - 0:07] You can use ita
+[0:06] mee |
+[0:06] Fra
+[0:06 - 0:07] lay)
+[0:07] ४0५1
+[0:07] Wray
+[0:07] ५ For a wide,gripinowas\well
+[0:08 - 0:10] It’s pretty stableaswell रे
+[0:09] eek |
+[0:09] \aly
+[0:09] Fras
+[0:09] It’s pretty /90.8806॥ . “&
+[0:09] ail
+[0:10] Wig

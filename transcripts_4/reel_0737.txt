@@ -1,0 +1,279 @@
+# model: ggml-large-v3
+========================================================================
+[737] https://www.instagram.com/reel/DPRZu9Lk9w_/
+STATUS: OK
+DURATION: 1:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] if you think the last five reps of every single set is stimulating you have been misled a lot
+[0:05 - 0:09] of people think that there are five stimulating reps in a given set that no matter what happens
+[0:09 - 0:14] if you get to those last five reps you're gonna get those five stimulating reps but that's just
+[0:14 - 0:19] not how things work saying that the last few reps of a given set is going to be stimulating
+[0:19 - 0:24] is the effective reps model where it doesn't define well what causes a rep to be stimulating
+[0:24 - 0:29] but just says blindly that the last five reps are going to be stimulating but that's again not how
+[0:29 - 0:34] it works you see in order for a rep to be stimulating it has to have high degrees of
+[0:34 - 0:39] mechanical tension and high threshold motor unit recruitment if a given rep does not have any of
+[0:39 - 0:45] these two factors the rep itself is not stimulating anymore yes there are five to six stimulating reps
+[0:45 - 0:50] in a given set but those reps are only counted when they meet the criteria of having high
+[0:50 - 0:55] threshold motor unit recruitment and high degrees of mechanical tension now if there is any specific
+[0:55 - 0:58] fatigue mechanism which is interfering with any of these two factors
+[0:58 - 1:04] the rep itself is not stimulating anymore let's say i made you do a set of squats and i told you
+[1:04 - 1:08] to rest for 30 seconds and after those 30 seconds i told you now it's time for you to hit your max
+[1:08 - 1:14] bench pr would you be able to hit that no no one will be able to hit that because your cardiovascular
+[1:14 - 1:18] system is still recovering that's why you have some fatigue mechanism which is stopping you from
+[1:18 - 1:23] recruiting those high threshold motor units which is going to impact your force production now even
+[1:23 - 1:28] if you took that given set of bench press to failure you are still not going to receive those
+[1:28 - 1:33] five complete stimulating reps because again there is this one specific fatigue mechanism
+[1:33 - 1:38] which is interfering with high threshold motor unit recruitment which makes you not have those
+[1:38 - 1:42] complete five stimulating reps if there is any fatigue mechanism which is interfering with
+[1:42 - 1:48] motor unit recruitment and mechanical tension the set is no longer that stimulating as it was if
+[1:48 - 1:53] there was no fatigue mechanism in place this is why we emphasize to optimize our training so that
+[1:53 - 1:57] we don't have more of these fatigue mechanisms in play which is eating up our stimulating reps yeah
+[1:57 - 1:59] That's all. Anyways, hope that helps. Hope more.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] forall sais?
+[0:00 - 0:03] if you think the A.
+[0:01] Gireps)
+[0:01] fast
+[0:01] five
+[0:02] ingle
+[0:02 - 0:03] five reps of every
+[0:03] for
+[0:03] all
+[0:03] ets?
+[0:03] le set i:
+[0:04] lating
+[0:04] iformallisetsien)
+[0:04] you have
+[0:06] —w me
+[0:06] a lot of people think
+[0:06] it there
+[0:06] ive
+[0:07] reps in
+[0:08 - 0:09] reps in a given set
+[0:09] that no matte:
+[0:09] hat
+[0:10] जल ae
+[0:10] if you get
+[0:11] VY x"
+[0:11] if you = to those
+[0:11] last five reps
+[0:12 - 0:13] you are gonna get
+[0:13] those five
+[0:13] stimulatin:
+[0:15] vas
+[0:15] but that's just not
+[0:15] how things
+[0:16 - 0:19] saying that theilla
+[0:17] saying that DD
+[0:17 - 0:19] few reps of a QD
+[0:18] set is goni
+[0:19] 4 ee
+[0:19] क्र
+[0:19] छू am
+[0:19] last
+[0:19] set
+[0:19] gonni
+[0:19] stil
+[0:20] is the effectiv
+[0:21] जज ae
+[0:21] where a,
+[0:22] where it does:
+[0:22] define where what
+[0:23] where it पहल
+[0:23] define where ५४!
+[0:23] causes a rep tob
+[0:25] ut ६४.7४
+[0:26] but just’Says ४)
+[0:26 - 0:27] that the last 5 r
+[0:27] but just ‘Bays bli
+[0:27] are gonna b
+[0:27] stimuli
+[0:28] i oe
+[0:28] but that's
+[0:29] थे 4
+[0:29] but that's gait not
+[0:29] how
+[0:30] श्र
+[0:30] you see in
+[0:31 - 0:32] you see in order for a
+[0:32] ~~ चकित
+[0:32] rep to
+[0:32] sti
+[0:33] ie A
+[0:33 - 0:35] it has to have high
+[0:34] jrees
+[0:35] hae
+[0:35] grees of.
+[0:35] chanicé
+[0:35] sion
+[0:36 - 0:37] and high threshold
+[0:37] a ae
+[0:37] Or Ui
+[0:38] mm Be
+[0:38] if a giventep
+[0:39] jot have an
+[0:39 - 0:40] if a given rep does
+[0:40] not
+[0:40] have ai
+[0:40] ors
+[0:41] a ee
+[0:41 - 0:43] the rep itself is not
+[0:42] the ae itself is not
+[0:42 - 0:46] stimulating ai
+[0:44 - 0:46] there are 5 to6
+[0:46] श्र
+[0:46] + given
+[0:48] me Be
+[0:48 - 0:50] are only counted
+[0:49 - 0:50] when they meet the
+[0:50] criteria of hi
+[0:51 - 0:53] motor unit.
+[0:51 - 0:53] recruitment and
+[0:52] we कक >.
+[0:52] motor Brit
+[0:52] recr
+[0:52] ent and
+[0:53] high degre
+[0:53] sion
+[0:54] जा Me
+[0:54] now if titre 4
+[0:55] all
+[0:55 - 0:56] now if there is any
+[0:55 - 0:56] specific fa
+[0:56] iny
+[0:57] oe न
+[0:57 - 0:59] which is interfering
+[0:58 - 0:59] ny ०|
+[0:59] ese
+[0:59] two
+[1:01] a ow
+[1:01] the rep itself is not
+[1:01] stimulating
+[1:03] let's say | made you
+[1:04] ple
+[1:04] oe ae
+[1:04 - 1:05] and I told you to rest
+[1:05] for 30 se
+[1:05] ids
+[1:06] we ee
+[1:06] and after those 30
+[1:06] econ
+[1:07 - 1:09] I told you now it's
+[1:08 - 1:09] time for you to hit
+[1:09] MAX
+[1:09] oe Me
+[1:11] | र्क
+[1:11] SRMIMAY
+[1:11] would you be able to
+[1:11] hit thi
+[1:13] no no one will be
+[1:13] le to hii
+[1:13] hat
+[1:14 - 1:15] because your
+[1:14 - 1:15] cardiovascular
+[1:15] i. ae
+[1:15] istem i:
+[1:15] ecc
+[1:17] that's why you Gave
+[1:17] some fatigue
+[1:18] ket
+[1:18] alll
+[1:18 - 1:19] which is stopping
+[1:19] you from recruiting
+[1:19] thi
+[1:20] Vie
+[1:20] motor units
+[1:21] कर्ज
+[1:21] going to
+[1:21 - 1:22] motor units which is
+[1:22] going to impact your
+[1:23] ae Be
+[1:23 - 1:24] now even if Mw \..
+[1:24] a Me
+[1:24] that given
+[1:25] now even if you took
+[1:25] that given set of
+[1:25] bench pre:
+[1:27] 4 4 I
+[1:27 - 1:30] you are still not
+[1:28] Coe
+[1:28] ow Y
+[1:28 - 1:30] gonna receive those
+[1:29] 5 complete
+[1:30] ompl
+[1:30] stimt
+[1:30] jatin
+[1:30] feps
+[1:31] 9५4
+[1:31] = Mme
+[1:31] Is w
+[1:31 - 1:33] because again there
+[1:32] हाट
+[1:32] कक «a
+[1:32] vty
+[1:32] is this one specific
+[1:33] = कै) # प्र
+[1:33] is this जा spi
+[1:33] ific
+[1:33] fatigue mi
+[1:33] ism
+[1:34] bey
+[1:34] oo al
+[1:34 - 1:36] which is interfering
+[1:35] whic!
+[1:35] interfering
+[1:35] with
+[1:36] old
+[1:36] with high thre
+[1:36] motor
+[1:37] es म्की।
+[1:37 - 1:39] which makes you
+[1:38] complete
+[1:38 - 1:39] not have those
+[1:39] ‘ing
+[1:41] if there is a
+[1:41] y fatigue
+[1:42 - 1:43] a is Wterfering
+[1:43] which
+[1:43 - 1:45] ith motor
+[1:43 - 1:45] itme:
+[1:44] कक पके...
+[1:44 - 1:45] which wv, interfering
+[1:44 - 1:45] ind
+[1:45] os a
+[1:45] ension
+[1:46] the set is no
+[1:47] the se
+[1:47] ho longer
+[1:47] thai
+[1:47] imulating
+[1:49] कक की
+[1:49] +््क
+[1:49] if there was no
+[1:49] fatig
+[1:49] jue mechanism
+[1:51] i चेक ..
+[1:51] mphasize
+[1:51 - 1:52] this is why we
+[1:52] कक a
+[1:52] hasize to
+[1:52] optin
+[1:53] ied
+[1:54] a ae
+[1:54] have more
+[1:54 - 1:55] so that we don't
+[1:55] oe ऑन.
+[1:55] have more of these
+[1:55] fati
+[1:55] mec!
+[1:55] isms
+[1:57] which is eating up
+[1:57] our stimula’
+[1:58] so yeah
+[1:59] ६४४६
+[1:59] ae 4 h
+[1:59] so yeah anyways
+[1:59] hope that helps

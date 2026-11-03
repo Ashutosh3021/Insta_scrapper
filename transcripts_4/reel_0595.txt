@@ -1,0 +1,152 @@
+# model: ggml-large-v3
+========================================================================
+[595] https://www.instagram.com/reel/DTIA5cmjLTT/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] it's 2026 and we are all tapping into using a notebook in the gym yes we are all leaving behind
+[0:05 - 0:11] tracking apps tracking softwares everything and we are going back to the notebook and i'm also
+[0:11 - 0:14] going to show you a template on what you can use all right first thing first you get a notebook
+[0:14 - 0:20] and a pen second thing you write the name of the exercise here okay let's say you did 100 kgs okay
+[0:20 - 0:25] and then you did five and four reps okay you write that down over here now this is very important
+[0:25 - 0:32] on the other side you also write the rir the reps in reserve how intense was the exercise over here
+[0:32 - 0:38] if you have any back pain you'll write it on over here okay so that's how you minimize scrolling
+[0:38 - 0:41] time in the gym and that's how you maximize gains anyway that is it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] * MAXXING
+[0:00] 7) 26)
+[0:01] it's 20 ee and|welare
+[0:01 - 0:02] NOTEBOOK MAXXING
+[0:02] Pwo
+[0:02] it's 20 26);
+[0:02] all tappingiintousing
+[0:05] Shy
+[0:05] पड (वाट
+[0:05] behind
+[0:05 - 0:06] ‘Tracking app:
+[0:05 - 0:06] notebook
+[0:06] g OO)
+[0:06] Yes, welare. alligay leaving
+[0:06] behind trackinglapps,
+[0:06 - 0:07] Smt
+[0:07] book
+[0:07] 2003)
+[0:07] ital
+[0:07] ingisof
+[0:08] ste
+[0:10] NOTEBOOKS
+[0:10] dew
+[0:10] going'b
+[0:10] thenotebook™y
+[0:11] 1 —_o ४५
+[0:16] @N we
+[0:16] ey Bip?
+[0:16] yaowedit®ul
+[0:16] yum 5५08:
+[0:16] secon
+[0:16] Vou
+[0:16] uri
+[0:17] pu fedittul=
+[0:17] eyJBIip 7X0
+[0:17] 1७०
+[0:17] pendulum
+[0:17] 100४
+[0:17] inet
+[0:17 - 0:18] YOUR ¢
+[0:18] alee
+[0:18] ey /B1)p7040
+[0:18] cawjedittui=
+[0:18] pend!
+[0:18] 400५४
+[0:19] 5९, 7040
+[0:19] paow/edit?ui
+[0:19] UR OF
+[0:19] dulul
+[0:19] 30९
+[0:19] Let'
+[0:20] haat:
+[0:20] zeyll
+[0:20] 8७770
+[0:20] NAL
+[0:20] sndulum
+[0:20] 10008:
+[0:20] Ani
+[0:20 - 0:21] sow fedit?ul
+[0:20 - 0:21] sin
+[0:21] ७६ OPT!
+[0:21] 1५७७
+[0:21] And}
+[0:21] Hiv,
+[0:21 - 0:23] ey BIjp71X0
+[0:22] ai Bs
+[0:22] =ey)B1)p 7X0
+[0:22] 9PpTIMA
+[0:22] your OP!
+[0:22] tury
+[0:22] 1001
+[0:22] Oka!
+[0:22 - 0:24] pycaw/edit@ul:
+[0:23] aren
+[0:23] 85 @e =
+[0:23] pypcow/edit@ul=
+[0:23] pTl
+[0:23] julun
+[0:23] 400k
+[0:23] Okay hy
+[0:23] uniterthaty
+[0:24] Sat
+[0:24] wr We oY
+[0:24] ey Bip 700
+[0:24] yOu
+[0:24] pendulum
+[0:24] 100k
+[0:24] Nol
+[0:25] मम शशि
+[0:25] al ®s
+[0:25] ५0५9४
+[0:25] jedit?uizey! B97
+[0:25] TIMAL
+[0:25] YOUR OP
+[0:25] thi
+[0:26] छा००
+[0:26] paul
+[0:26] ५0७४
+[0:26] ५ optimal 1६
+[0:26 - 0:28] mpLatt
+[0:27] श्र
+[0:27] falso}
+[0:28] 0०९1
+[0:28] [Onithelothersidenyoul
+[0:28] falsohwritesthelRIRa
+[0:28 - 0:30] age
+[0:28 - 0:30] OPTIMAL TEME
+[0:28 - 0:31] RIF
+[0:29] ilinelneps)
+[0:29 - 0:31] . ATE
+[0:30] PLATE
+[0:30] R OP
+[0:30] How)
+[0:31] OPTIMAL TEMPE
+[0:31 - 0:32] iHowjintenselwasit|ic)
+[0:32] R OPTIMA'
+[0:32] lexerciselover
+[0:32 - 0:36] l TEMPLATE
+[0:33] /008 OPT
+[0:33] iftyoulhave,
+[0:34] 7 OUR O
+[0:34] PTIMAL TEMPLAT E
+[0:34] ifjyoulhavelanyiback
+[0:34] Rainy
+[0:35 - 0:36] yR OPTIMAL T
+[0:36] lovernherey,
+[0:37] rao
+[0:37] sothat's)
+[0:38] minimize scrolling
+[0:38] So om how youl
+[0:39] in the gym and)
+[0:39 - 0:40] Only scroll rntrainsy
+[0:40] Nye
+[0:40] maximize

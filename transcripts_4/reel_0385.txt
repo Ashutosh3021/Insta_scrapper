@@ -1,0 +1,294 @@
+# model: ggml-large-v3
+========================================================================
+[385] https://www.instagram.com/reel/DXttVUZjKBU/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] one of the ways which you can maximize your progress in the gym is just by having a rep range
+[0:04 - 0:08] what a lot of people are doing is they are just adding load and adding load and adding load
+[0:08 - 0:12] till the point they are doing three reps two reps and justifying it as science-based lifting that is
+[0:12 - 0:19] not how science-based lifting works have a fucking rep range train with a rep range of four to eight
+[0:19 - 0:24] pick a load which you can do for about four to eight reps work your way up from four to eight
+[0:24 - 0:29] reps and then only increase load stop trying to add load each fucking week
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] “soy
+[0:00] f AF
+[0:00] jefe
+[0:00] fil
+[0:00] ral
+[0:00] SIRE PSSINOLG
+[0:00] ity
+[0:00] fll gl
+[0:00] ips
+[0:00] (49: ४
+[0:00] 411
+[0:00] wee
+[0:00] lig
+[0:00] ५, git
+[0:00] Wiad
+[0:01] err
+[0:01] # oye?
+[0:01] १७1५
+[0:01] हैः
+[0:01] कै ७
+[0:01] qty
+[0:01] ne igen |
+[0:01] can
+[0:01 - 0:02] / iff
+[0:01 - 0:03] bit
+[0:01 - 0:04] REPS ISO
+[0:02] rir
+[0:02] wy¢e
+[0:02] HOLM Ble
+[0:02] 4४1
+[0:02] tor
+[0:02] Vea
+[0:02] Tet
+[0:02] 441
+[0:02] UE pa
+[0:03] 11/57
+[0:03] vty
+[0:03] A ABC
+[0:03] TUE
+[0:03] 101 01
+[0:03] 147
+[0:03] ३४९
+[0:03] cay
+[0:03] yee
+[0:03] Why
+[0:03] iat
+[0:03] Weg
+[0:04] Uay
+[0:04] ips
+[0:04] tp fe
+[0:04] isnot
+[0:04] wef
+[0:04] Ait |!
+[0:04] ४11
+[0:04] Wate
+[0:04 - 0:05] rity
+[0:05] esy
+[0:05] thee
+[0:05] nit
+[0:05] v bt
+[0:05] 110
+[0:05] ore,
+[0:05] 111
+[0:05] Wey)
+[0:05] Se fae
+[0:05] bal
+[0:05] ing
+[0:06] शाज आशा
+[0:06] ita
+[0:06] 3 है)
+[0:06] ii» adding
+[0:07] yond
+[0:07] Ly th
+[0:07] ibe
+[0:07] 10110
+[0:07] ite
+[0:07] y Whe)
+[0:07] Reps
+[0:07] ves
+[0:07] ane
+[0:07] Lif
+[0:07] load
+[0:08] eth
+[0:08] Tot
+[0:08] 10819
+[0:08] del
+[0:08] itl
+[0:08] tile
+[0:09] Oreos is mot,
+[0:10] ihe
+[0:10] Usy
+[0:10] 11७५
+[0:10] ‘Liat i!
+[0:10] Reps
+[0:10] Shot
+[0:10] fie
+[0:10] vey
+[0:10] Mil
+[0:11] heyy
+[0:11] Yd | हे
+[0:11] ite
+[0:11] ‘Srepsisnat
+[0:12] 14.7
+[0:12] of. 9 ty
+[0:12] pet
+[0:12] I fly
+[0:12] tit
+[0:12] 101 01
+[0:12] fix
+[0:12] (aid
+[0:12] aaa’)
+[0:12] Lyf
+[0:12] MG ya (
+[0:12] fe fica
+[0:12] iif
+[0:12] iff
+[0:12] 11४11
+[0:12] ULES
+[0:13] we ft
+[0:13] Mig *
+[0:13] 5५ * है
+[0:13] tery
+[0:13] tact
+[0:13] peed
+[0:13] sin
+[0:13] (T 14
+[0:13] Vit
+[0:13] 1 041]
+[0:13] May
+[0:13] WW on
+[0:13] 143
+[0:13] Yori
+[0:13] Nai
+[0:13] O14
+[0:13] how
+[0:14] bey
+[0:14] ry Ef
+[0:14] ORES
+[0:14] i ij
+[0:14] ity
+[0:14] owl
+[0:14] fifi att
+[0:14] rks
+[0:15] 1364
+[0:15] liv
+[0:15] 1 Pan
+[0:15] slay 8
+[0:15] isinote
+[0:15 - 0:16] Reps
+[0:15 - 0:18] 11.४6
+[0:16] 1 ४ ७
+[0:16] ett
+[0:16] os Ui
+[0:16] fice
+[0:16] yee
+[0:16] Heh ae
+[0:16] Cer
+[0:16] ध EE
+[0:16] Hy “Vif!
+[0:16] Mele
+[0:16] ४,.५ ९1
+[0:16] vey
+[0:16] [82 21
+[0:16] jit
+[0:16] ॥ ॥ hal
+[0:16] yall
+[0:16] hit
+[0:16] ismare
+[0:16] ite
+[0:16] Wve
+[0:16] isi.
+[0:16] Gal
+[0:17] vay
+[0:17] Meee |
+[0:17] i Ui
+[0:17] fil
+[0:17] SIREDSIISINOL
+[0:17] yey
+[0:17] erat
+[0:17] lef 4
+[0:17] TEP,
+[0:18] Lyf
+[0:18] Usp १४४
+[0:18] RRL |
+[0:18] PF ia be
+[0:18] tty
+[0:18] REPS ISO’
+[0:18] May
+[0:18] dail
+[0:18] ४०४
+[0:18] San!
+[0:18] 1X4
+[0:18] bie |
+[0:18] fot
+[0:19] Srepstsmatlt
+[0:19] itt
+[0:19] Pick
+[0:19] 410
+[0:19] रैक
+[0:20] ity
+[0:20] er it
+[0:21] EHSisMar
+[0:21] ith
+[0:21] मै 4
+[0:21] Nel
+[0:21] aoe
+[0:21] one
+[0:21] 10 ५
+[0:22] 11६
+[0:22] 601%,
+[0:22] ify
+[0:22] 1४ ६
+[0:22] 1 C3
+[0:22] Oe ait
+[0:22] ork
+[0:22 - 0:24] | drepsismat
+[0:23] 1911 01 वी
+[0:23] SIRES
+[0:24] ite
+[0:24] Ne dit
+[0:24] I df
+[0:24 - 0:26] ihe
+[0:25] Lif
+[0:25] 4 j I!
+[0:25] {ill
+[0:25] more 0
+[0:25] Reps
+[0:25] 017
+[0:25] anf
+[0:25] fay
+[0:25] 71.0४
+[0:25] and
+[0:26] If La
+[0:26] REPS 1 01 01
+[0:26] aid
+[0:26] load
+[0:27] hay
+[0:27] vey
+[0:27] pik: :
+[0:27] fig
+[0:27] see
+[0:27] Mor
+[0:27] ‘ome
+[0:27] itl)
+[0:27] 17/7
+[0:27] dif
+[0:27] 1५1
+[0:27] tying
+[0:28] The
+[0:28] fos 1७
+[0:28] vipat
+[0:28] fur
+[0:28] 1४०
+[0:28] (ith
+[0:28] yale
+[0:28] yet}
+[0:28] bit
+[0:28] {fi la
+[0:28] Pet
+[0:28] afi
+[0:28] did!
+[0:28] Not
+[0:28] reps
+[0:28] eft
+[0:28] Jan
+[0:28] Hf (l
+[0:28] Beh
+[0:28] Phy
+[0:28] Tay
+[0:28] 11.4
+[0:28] 2936
+[0:29] all
+[0:29] fe hl
+[0:29] fii
+[0:29] LAA
+[0:29] WAN Oech
+[0:29] iat
+[0:29] BSS

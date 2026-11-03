@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[815] https://www.instagram.com/reel/DMP7ewNBHSK/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I just wanna hear you say
+[0:02 - 0:05] I'm so lucky, lucky
+[0:05 - 0:07] I'm so lucky, lucky
+[0:07 - 0:09] I'm so lovely, lovely
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] The wolf
+[0:00 - 0:02] trains in high
+[0:00 - 0:02] Rep
+[0:00 - 0:02] Range
+[0:03] Ame
+[0:04] ४ के
+[0:04] iil
+[0:04 - 0:09] The lion trains
+[0:04 - 0:09] In 5-8
+[0:04 - 0:09] Rep range
+[0:05] कैश SS
+[0:06] ay ५
+[0:08] ASS
+[0:08 - 0:09] NX Sa

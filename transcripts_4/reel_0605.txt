@@ -1,0 +1,44 @@
+# model: ggml-large-v3
+========================================================================
+[605] https://www.instagram.com/reel/DS4_V7wDJ6d/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I just wanna hear you say
+[0:02 - 0:05] I'm so lucky, lucky
+[0:05 - 0:07] I'm so lucky, lucky
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Gotsick andiate ll
+[0:00] y4r
+[0:00] ood
+[0:00 - 0:01] yesterday,
+[0:00 - 0:02] ॥ but i low-key get away, J it
+[0:01] era
+[0:01] ick and
+[0:01] ate’
+[0:01] only 700keals
+[0:02] MEX ॥
+[0:02] stendayy
+[0:03] vel ee
+[0:03] ensi
+[0:03] nis th
+[0:03] Ws ial
+[0:04] eo q
+[0:04 - 0:07] ome cha
+[0:05] ite
+[0:05] mul
+[0:05] ape
+[0:05] _s 27 a
+[0:06] 7 isitn
+[0:06] 1.» है
+[0:06] andioned hof le:
+[0:06] make you a shi.
+[0:06 - 0:07] wonit
+[0:07] se sit
+[0:07] imulus:
+[0:07] rene ait le
+[0:07] make you
+[0:07] # “८०० wh

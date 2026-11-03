@@ -1,0 +1,101 @@
+# model: ggml-large-v3
+========================================================================
+[816] https://www.instagram.com/reel/DMNzDy8BdfW/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] भाई में तो ना सबसे बेकार लगता है बदाया गंफ्यूजन
+[0:02 - 0:02] अरे चाहिए
+[0:02 - 0:05] प्रॉब्लम जैसा है तो पूरा प्लेन ऑफ मोशन ही चेंज कर देता
+[0:05 - 0:08] तो जो मुवमेंट परफॉर्म कर रहा है तो वो ही चेंज कर देता
+[0:08 - 0:08] अभी लेट से ये जो भी लाट पूल डाउ
+[0:08 - 0:23] अभी let's say यह जो भी लाट पूर डाउन कर रहा है, ठीक है, यह essentially shoulder है, adduction कर रहा है, right, but let's say के भाई ने बोला कि मुझे close grip कर रहा है, ठीक है, let's say he did close grip, now this is not even shoulder adduction, but,
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] oe fat
+[0:00] *ratapull!
+[0:00] wn confusions
+[0:00 - 0:02] imow/the difference
+[0:01] 10115
+[0:01] ४ ifferenc
+[0:02] fi pull-down confusions
+[0:03] aft
+[0:03] a win ८
+[0:03] mowithe di
+[0:03] nce
+[0:03] pat
+[0:03] कलम
+[0:03 - 0:04] fusions
+[0:04] mustapulék
+[0:04] iKn
+[0:05] vie
+[0:05] भर कि!
+[0:05] Withe:
+[0:05] ifference
+[0:05] #मैं
+[0:05] iwi
+[0:05 - 0:07] : pull-down confusions
+[0:06 - 0:08] Aifat pull-down confusions
+[0:06 - 0:08] Know the difference
+[0:07] हा x
+[0:07] coo al
+[0:09] kas = |
+[0:10] हे grip pulld
+[0:10] i ere! plane
+[0:10 - 0:15] More shoulder adduction
+[0:11] Frontal plane.
+[0:11] More shoulder
+[0:11] adduction)
+[0:11] bat
+[0:11 - 0:14] * Lowerflatibias’
+[0:11 - 0:15] TE le grip pulldown
+[0:12] epi
+[0:12] wae
+[0:12] ९. है
+[0:12 - 0:15] J . | plane
+[0:13] ७4 a
+[0:13] aie
+[0:13] j AY
+[0:13] 2७४०.
+[0:14] Wide 5 pulld
+[0:14] ‘Frontal plan:
+[0:14] Mor
+[0:14] shoulder: adduction
+[0:14] «२ ७४!
+[0:17] a coe |
+[0:17] inns
+[0:19] Wy 0
+[0:19] (prt
+[0:19] Seah |
+[0:20] un a
+[0:21] Ect
+[0:21] igi
+[0:21] lane
+[0:21] oulder ex
+[0:21] ension|
+[0:21] 13109
+[0:21] 1d 0
+[0:21 - 0:23] wenlatexencise
+[0:21 - 0:25] ccurri ing
+[0:22] ie i exte
+[0:22] UHI G)
+[0:22] dis ‘coe रब गा @
+[0:22 - 0:25] a Glgse grip pull
+[0:22 - 0:26] 85 Sagittal plane
+[0:23] ५३७
+[0:23] Glgse grip 7
+[0:23] ore ic extensii
+[0:23] pail
+[0:23 - 0:24] Not aig
+[0:24] Hes shoulder 1 in)
+[0:24] yecurring
+[0:24] lower lat exercis
+[0:25] (Conti
+[0:25] Mor
+[0:25] joulder extensi
+[0:25] 100 lower lat exe
+[0:26] कैट”
+[0:26] = ie gripfpull
+[0:26] occur

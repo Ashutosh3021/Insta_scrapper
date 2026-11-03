@@ -1,0 +1,158 @@
+# model: ggml-large-v3
+========================================================================
+[839] https://www.instagram.com/reel/DLSrD-8NYfq/
+STATUS: OK
+DURATION: 1:11   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] अगर तुम्हें लगता है कि long head of the tricep is best trained in an overhead position, you have been misled.
+[0:04 - 0:11] भी बहुत सारे लोगों को लगता है कि जब भी तुम्हारे arms overhead होते हैं और तुम्हारे tricep में stretch feel हो रही होती है, that is what causes growth.
+[0:11 - 0:12] But ऐसा बिल्कुल नहीं है.
+[0:12 - 0:18] अभी you have to understand one thing कि जो angle में तुम्हारा shoulder है, it really affects the involvement of each tricep heads.
+[0:18 - 0:26] We actually have data showing that जब भी तुम्हारे arms तुम्हारे बाजू में होते हैं और जब तुम push downs कर रहे होते हो, the long head of the tricep is able to produce the most amount of force.
+[0:26 - 0:32] And if we compare that to an overhead movement, the lateral and the medial head are going to be able to produce the most amount of force.
+[0:32 - 0:36] अभी बहुत सारे लोगों को लगता है कि triceps can grow from that stretch, but ऐसा भी बिल्कुल नहीं है.
+[0:36 - 0:44] अभी the sarcomere of all the tricep heads are located in the plateau region, which means that it is not going to experience stretch-mediated hypertrophy.
+[0:44 - 0:50] और हम यहाँ पर यह study में भी देख सकते हैं कि the long head of the tricep has the most amount of activation when the arms are by your side.
+[0:50 - 0:54] And furthermore, the activation of the long head is even more when your wrists are supinated.
+[0:54 - 1:01] So the practical takeaway from here is going to be, if you want to train the long head of the triceps effectively, you have to keep your arms by your side,
+[1:01 - 1:06] you make sure you have a supinated grip, and you hold a D-handle or make a fist.
+[1:06 - 1:11] टाइटली टू गेट देट रिमोट वॉलेंटरी एक्टिवेशन तो आप देख सकते हैं
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fonlomng)
+[0:01 - 0:02] ‘Overthead tor
+[0:03] Bus
+[0:08] Lin हल
+[0:10] that
+[0:11] that is whet causes growth
+[0:12] thi
+[0:12] causes growth
+[0:13] cus
+[0:13] ni Al
+[0:13] \B'You have to
+[0:13 - 0:15] ‘The different role of each head of the triceps brachii
+[0:13 - 0:15] muscle in elbow extension
+[0:14] + See के
+[0:14] jo angle”
+[0:14 - 0:15] The moment arms of 23 muscle segments of
+[0:14 - 0:15] the upper limb with varying elbow and
+[0:14 - 0:15] forearm positions: Implications for motor
+[0:14 - 0:15] control
+[0:15] nie
+[0:15] ic tiume ४, 4१७० ५४७७०
+[0:15] casein
+[0:15] + 224७७
+[0:15] 1 Stee Bote
+[0:16] ent
+[0:16 - 0:18] it réally. affects the
+[0:17] nes
+[0:17] aif
+[0:17] fevty
+[0:17] wil
+[0:17 - 0:18] involvement of each tricep
+[0:18] imatters!)
+[0:18] Y है
+[0:18] tit
+[0:18] heads
+[0:19] 111 31 5115 |
+[0:19] हब ;४ ५
+[0:19 - 0:20] we actuallyjhave data
+[0:20] preteen
+[0:20] shi
+[0:20] that jab bhi
+[0:20] ihare
+[0:21] pea
+[0:21] mi = e baju
+[0:21 - 0:23] ee <4
+[0:22] teens
+[0:22] or jab
+[0:22 - 0:23] pene
+[0:23] or jab tum push downs kar
+[0:23] the-hotay ho
+[0:24] ee “है:
+[0:24 - 0:25] pees
+[0:25] Ad We
+[0:25] है ॒
+[0:25] ala
+[0:25] eee
+[0:25] peas
+[0:25 - 0:26] is able to produce the most
+[0:27] id if we €omp:
+[0:28] ala
+[0:28] sine
+[0:28] and if we Compare that to an
+[0:28] overhead movement
+[0:28 - 0:29] ome
+[0:28 - 0:29] pees
+[0:28 - 0:29] peas
+[0:29] 1७८
+[0:29] sla
+[0:29] the lateralfand
+[0:30] tee
+[0:30] panes
+[0:30] iS &$ SD
+[0:30] head
+[0:30] going
+[0:33] hry oo
+[0:33] abhi'bhe
+[0:33] jot Sara logon KO
+[0:33] lagta
+[0:34] can
+[0:35 - 0:36] can grtlttrom that stretch
+[0:36] but that's a bit
+[0:38] v7 4
+[0:39] 100:
+[0:39] pre
+[0:39] 8 50:
+[0:39] क्र
+[0:39] ‘Sarcomere length (yim)
+[0:41] mee
+[0:41] (९९4
+[0:45] ee पर
+[0:45] rr 2
+[0:45] idea
+[0:48] Vit
+[0:49] when th
+[0:50] Forearm.
+[0:50] tences Triceps Brachil Activation During Triceps
+[0:50] Push-Dowr
+[0:50] eT a
+[0:50] heft the arms are by your
+[0:50] idl
+[0:51] tel»
+[0:51] when eS lf
+[0:51] is are by your
+[0:51] side a
+[0:51] hermore the
+[0:51] acti
+[0:51 - 0:52] Forearm Position influences Ticeps Brachll Activation During Triceps
+[0:51 - 0:52] Push-Down Exercise
+[0:52] ३३९
+[0:52] head is =e
+[0:53] head is evenymore when
+[0:53] your wrist
+[0:54] so the
+[0:55] eZ प्र
+[0:55] ५६६
+[0:55 - 0:56] so the practical takeaway
+[0:56] & here is going to be
+[0:57] if you want to
+[0:58] if you Want #6 train the long
+[0:58] head of the
+[0:59] Ffectivel
+[1:00 - 1:01] effectively, ree have to keep
+[1:01] your ari
+[1:01] y your side
+[1:02] you make sure
+[1:03] Forget to add.
+[1:03] GUAR ohn,
+[1:03] bal
+[1:03] you make sure you have a
+[1:04] # grip and &
+[1:05] grip and हा ad handle
+[1:06] make
+[1:09] voluntary activation
+[1:10] So yer
+[1:10] appore that helps

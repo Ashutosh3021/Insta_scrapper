@@ -1,0 +1,74 @@
+# model: ggml-large-v3
+========================================================================
+[819] https://www.instagram.com/reel/DMGLgVeB8Oq/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:27] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] Gityisihealising
+[0:00 - 0:03] That
+[0:01] a |] alising
+[0:04] है Bh
+[0:04] हैः
+[0:04] 0 ees
+[0:05] _ आया
+[0:05] हु ९:
+[0:06] | iar
+[0:06] ret
+[0:06] has
+[0:07] VA . this..
+[0:08] छ्छ्ज
+[0:08] iio
+[0:08 - 0:09] कं! And this..
+[0:09] > jac
+[0:09] ica)
+[0:10] x ck
+[0:11 - 0:13] x ach
+[0:11 - 0:13] हा 4 Are performing a similar
+[0:11 - 0:14] movement
+[0:12] न पा
+[0:12 - 0:14] है jack
+[0:13] पाकर
+[0:14] Bea /
+[0:14] -५ £ Areperforminga आग
+[0:15] MOUON MOUS, Lavssrmus | ४८20 ६६
+[0:15] Articulation:
+[0:15] Glenohumerat
+[0:15] Cohen (Ore. 1 Lin
+[0:16] JON MOUS. (वाद Dore Muscle ६
+[0:16] Atticulation: © Glenohurneral
+[0:16] a संग
+[0:16] कस (308. fe Lie
+[0:17] | 2) ay
+[0:18] xtensi
+[0:18] rie
+[0:18] Vii
+[0:19] wile
+[0:19 - 0:20] Shoulder extension
+[0:20] > jack
+[0:20] poe
+[0:21] ‘ Shoulder oe am
+[0:22] MOUUON MOUE. Latssemus Vorst
+[0:22] is exte
+[0:22] Cote, CW. लोक. Le
+[0:22 - 0:26] Glenohumeral
+[0:23] ort
+[0:23] Shoulder क्र 16131
+[0:23] yak
+[0:23] Cte, CHA. ला. Ce
+[0:23 - 0:25] MOON MOUEe.
+[0:24] ine, Ce. re हइओ
+[0:24 - 0:25] ors
+[0:24 - 0:26] Atticulation:
+[0:25] Shoulderlextensian g
+[0:25] are
+[0:25] ६ जा मान, 108. कक. bbe
+[0:26] ange ee Memes eee att om
+[0:26] Shoulder'e
+[0:26] xte
+[0:26] sion gt
+[0:26] 5 आई ST. fit bbe

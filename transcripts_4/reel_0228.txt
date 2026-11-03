@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[228] https://www.instagram.com/reel/DbF7hLcMC3F/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] By far the
+[0:00 - 0:01] look bigge
+[0:01] rif
+[0:01 - 0:02] Byfar the fastest
+[0:02] bigger.
+[0:03] iil |
+[0:03] Talal
+[0:04] 23५
+[0:04] Pei |
+[0:04] att.
+[0:06] Getting हैं dy
+[0:07] 101
+[0:08] Getting eanen
+[0:09] Pix
+[0:09] Getting 7
+[0:09] ies
+[0:09] alae
+[0:09] वर्क
+[0:09] नबी
+[0:12] ing i
+[0:12] oe rae
+[0:13] श्र i
+[0:13] 121k
+[0:13] |- sui La
+[0:14] Getting |
+[0:14] Mins
+[0:14] all
+[0:15] | स्म््य्न
+[0:15] saat
+[0:15] 1.) om
+[0:16] ine
+[0:18] जो an
+[0:18] aie
+[0:18] 365 % बह
+[0:18] sue
+[0:19] 3६: 5 वाह

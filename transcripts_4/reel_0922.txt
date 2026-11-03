@@ -1,0 +1,181 @@
+# model: ggml-large-v3
+========================================================================
+[922] https://www.instagram.com/reel/DH6Cc01BCmj/
+STATUS: OK
+DURATION: 1:04   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] अगर तुम ये exercise perform कर रहे हो, तुम्हें ये exercise perform करने की जरूरत नहीं है
+[0:04 - 0:07] Now this is one of the biggest mistake which people make in the gym
+[0:07 - 0:10] और इसे कहते है exercise redundancy
+[0:10 - 0:15] बहुत सारे लोग अपने workout को less effective बनाते है by repeating the same movement pattern
+[0:15 - 0:19] उन्हें लगता हुए एक variety आड़ कर रहे है, but अगर हम देखेंगे ये दोनो movements को
+[0:19 - 0:22] basically चेस्ट को एक same movement pattern में ट्रेन कर रहे है
+[0:22 - 0:25] इससे कहते है exercise redundancy
+[0:25 - 0:30] अभी दोनो exercise यहाँ पे horizontal adduction और elbow extension perform कर रहे है
+[0:30 - 0:33] basically training the chest in the same movement pattern
+[0:33 - 0:40] The reason why exercise redundancy is so important क्योंकि हर एक set less stimulative होता है
+[0:40 - 0:46] which means अगर तुम एक set perform कर रहे हो उसके बाद वाला set will be less stimulative than the first set
+[0:46 - 0:49] इसलिए we have to choose movements which do not cause exercise
+[0:49 - 0:56] redundancy now यहाँ पे हमारा smarter option ये होगा कि after performing a press we can perform a fly
+[0:56 - 1:01] अभी क्योंकि ये दोनो एक different movement है we wouldn't cause exercise redundancy
+[1:01 - 1:03] So I hope that helps for one more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] If you're
+[0:00] ‘ormingmuinis)
+[0:01] Peers
+[0:01] ly ll
+[0:02] Aaa tien ye exercise
+[0:02] rm karoo ho tumhe
+[0:03] Iinjthefsameysession
+[0:03] have ७
+[0:03] © do this
+[0:03 - 0:04] You clon
+[0:04] thayve
+[0:04] Toons
+[0:04] karne ki
+[0:07] ore ui ke in
+[0:09] बेड)
+[0:10] प्र
+[0:11] gue é
+[0:11] 80 «5 अल
+[0:12] we col SS
+[0:13] » workout could less effective
+[0:13] one out there
+[0:14] 111
+[0:14] श्र
+[0:14] repeati
+[0:14] «1 शक
+[0:15] by repeating th: me
+[0:16] cies
+[0:16] Unhe lagta woh varie
+[0:17] rly ce |
+[0:17] Mee
+[0:17] i (हि
+[0:17] Unhe [290० wo lis
+[0:19] क्र
+[0:19] OS 41
+[0:20] 1५५०॥॥08४५6॥॥ ६115
+[0:20] © gene
+[0:20 - 0:22] i tithe:
+[0:21] look
+[0:21] WO Movements:
+[0:21] gt) w
+[0:21] spar
+[0:21] “dnp
+[0:22] IMOTMOVEMEMS
+[0:22] yl Lo hee
+[0:23] क कुक पहले
+[0:23] mpi fap
+[0:24] i | yee we
+[0:24] जज! डा
+[0:24] I get exercise
+[0:25] नया
+[0:25] Sane
+[0:25] र, zy"
+[0:25] I get exercise redundancy
+[0:27] नच्च्द
+[0:27] AS j
+[0:28] ¥ ti ie 5
+[0:28] orizomt
+[0:29] Bea .
+[0:29] | ee पाक
+[0:30] wie
+[0:30] ai ~ \ sap i
+[0:30] श्र
+[0:30] तरल
+[0:30] perform Karrhe hai basically
+[0:30] aan
+[0:31] bt. hi
+[0:31] sone) aI
+[0:31 - 0:32] adn
+[0:31 - 0:33] “Training the chest in the
+[0:32] tps
+[0:32] हुए
+[0:32] same
+[0:32] See
+[0:33] ‘4 जी - w
+[0:33] etal
+[0:33] _.Same movement pattern
+[0:34] हैः |
+[0:34] pla
+[0:34] है fe
+[0:34] == नमी
+[0:34] ivf
+[0:34] Sy reas why “=
+[0:35] to reason why &xerci
+[0:36] be elinconey isso important
+[0:37] Fe set
+[0:37] = कर a =
+[0:37 - 0:39] Eess; srimulativ 2
+[0:38] aa set
+[0:38] ess; iu 2
+[0:38] 7 44
+[0:38] ki har ekset
+[0:39] ह set
+[0:39] = har ek’setis leis
+[0:39] sein lative
+[0:40] resin
+[0:41] है 0021 mesh agartum
+[0:42] ZN ts
+[0:43] «* karre ho
+[0:43 - 0:46] Set 2: 0.75 AU ..
+[0:44] ésj
+[0:44] ACS
+[0:45] श्र
+[0:45] com}
+[0:45] जे eis
+[0:45] Sipe
+[0:45] ee be less stimulative than I
+[0:45] १] छा
+[0:46] less stimulati
+[0:46] einen >>
+[0:46] aX first,
+[0:47] be है
+[0:47] ad , re
+[0:47] (2७०
+[0:47] ss 4 | भर
+[0:47] ५ &5 r
+[0:48] pF i J
+[0:48] aca. |
+[0:48] + have to choose
+[0:48] ements with
+[0:49] (ER GR
+[0:50] हराम
+[0:50] oc क
+[0:50] jot cause exercise’
+[0:50] redundancy
+[0:51] “dnp
+[0:52] LLY
+[0:52] no you'll be a smarter > ——m»
+[0:53] Fal
+[0:54] BEL
+[0:54] ‘yo hoga key aftengierforminggn
+[0:55] ~Fehova
+[0:55] a press
+[0:55] lay,
+[0:55 - 0:56] a Performing
+[0:56] 1 3S
+[0:56] rform a fly
+[0:56] aaa
+[0:57] 1 We
+[0:58] 15s
+[0:58] कक ao ayo. don't make
+[0:59] गिर <
+[0:59] कै 4
+[0:59] tee
+[0:59] 1 re
+[1:00] x ae
+[1:00] 10७७
+[1:00] es exerci$e
+[1:01] movi
+[1:01] ent
+[1:01] cause exerciSe
+[1:01] indancy
+[1:02] Fe for more
+[1:02] lea
+[1:03] a दर for more
+[1:03] @o-thope that helps for
+[1:03] home

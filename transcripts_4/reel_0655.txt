@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[655] https://www.instagram.com/reel/DRUv_5mjJTM/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] one else but you baby you light up my world like nobody else the way that you flip your hair gets
+[0:08 - 0:15] me overwhelmed but when you smile at the ground it ain't hard to tell you don't know
+[0:15 - 0:18] you don't know you're beautiful
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] nsions|kill
+[0:00] ‘younlknees'
+[0:00] rig
+[0:00 - 0:01] हू lege:
+[0:01] e * le
+[0:02] Heavylegie: आग i
+[0:02] ‘yOl
+[0:02] iv ml
+[0:03] हू Pont Stupi
+[0:03] let J
+[0:04] 4 peak’stupidi
+[0:04] say
+[0:05] is peak
+[0:05] idity’
+[0:06] 4 Pa“
+[0:06] ७६ yy
+[0:07] is peakistup!
+[0:07 - 0:08] ity’
+[0:08] 4 peak’stupi
+[0:08] “tle.
+[0:09] 1961/65
+[0:09] cont
+[0:10] si a"
+[0:10 - 0:16] isipeakistupidity,
+[0:12] ispe
+[0:12] Stupidity
+[0:12] a 32:4
+[0:14] | eK. A | जप
+[0:15 - 0:17] हू A stupidity
+[0:16] a la
+[0:16] ane 2
+[0:18] हू peakistupi
+[0:18] ity’
+[0:18] a od
+[0:18] ब्ध्क Uy
+[0:18] 1) ie

@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[146] https://www.instagram.com/reel/DcytSeYseYf/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] know just clenching your jaw can increase force production yes we are all tapping into the
+[0:05 - 0:15] mouth guard matter we are all utilizing mouth guards to perform exercises whenever we use
+[0:15 - 0:20] something like a mouth guard what ends up happening is we have something called a remote
+[0:20 - 0:27] voluntary activation because there is contraction occurring here there is an up regulation effect
+[0:27 - 0:33] on an other area this is very well seen on weightlifters whenever they brace embracing here
+[0:33 - 0:39] increases force output in the legs right anyways uh let's try using uh mouth guards bye
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] you know just
+[0:00 - 0:39] Mouth guards
+[0:00 - 0:39] Are optimal
+[0:01] jaw
+[0:02 - 0:03] jaw can increase force
+[0:03] production?
+[0:04] Yes, we are
+[0:05] Yes, we are all tapping
+[0:09] mouth
+[0:11] We are all utilizing
+[0:12] guards
+[0:13 - 0:14] guards to perform
+[0:14] exercises
+[0:15 - 0:16] Whenever we use
+[0:16] Something on
+[0:17] जब बल.
+[0:17] guard,
+[0:18 - 0:19] guard, what ends up
+[0:19] happening is we
+[0:20] have something called
+[0:22] Because
+[0:23] Because there is
+[0:24] occurring
+[0:25] occurring here, there
+[0:26] regulation
+[0:27] effect on
+[0:28] effect on an other area
+[0:29] This is
+[0:31] weightlifters whenever
+[0:33 - 0:34] Embracing here increases
+[0:34] force
+[0:35] legs,
+[0:36] Anyways,
+[0:37] Anyways, ah let's
+[0:39] Bye bye

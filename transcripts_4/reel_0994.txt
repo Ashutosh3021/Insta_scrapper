@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[994] https://www.instagram.com/reel/C-nrb52B8TL/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Trust me, you'll be fine
+[0:02 - 0:07] And when I'm back in Chicago
+[0:07 - 0:09] I feel it
+[0:09 - 0:10] And I
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] श्र
+[0:03] ly y 4
+[0:03] ore Wed Tae
+[0:04] ype Es
+[0:04] Lye
+[0:04] हर.2 ४.
+[0:04] हजारो
+[0:04] वन समन
+[0:05] on er बकरा"
+[0:06] V ie .
+[0:07] 20233 ६
+[0:07] ॥ह्नहछड, a 3)
+[0:08] a aoa
+[0:08] I 7k
+[0:08] bay
+[0:08] bee
+[0:08] TOR ESHOAM
+[0:08] 2. ०5. अं
+[0:09] ToT
+[0:09] OH =RONM,
+[0:09] \ Bie:
+[0:10] la i

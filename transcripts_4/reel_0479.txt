@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[479] https://www.instagram.com/reel/DVvL23oE8AH/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] guys look at this view guys look at this view
+[0:02 - 0:08] but you know what's what's more better i'm gonna be the first guy to yell
+[0:08 - 0:13] mechanical tension on top of my voice mechanical tension
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:02] Wher a view
+[0:03] tie
+[0:03] श्र
+[0:09] rae:
+[0:10] Pace
+[0:13] oP WW

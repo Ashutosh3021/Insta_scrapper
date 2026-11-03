@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[571] https://www.instagram.com/reel/DTsjlZijANw/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I want to know
+[0:03 - 0:09] And I could ever
+[0:09 - 0:11] Grab me
+[0:11 - 0:14] Or climb a tree
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ‘Sree
+[0:00] Optimal
+[0:00] 3420 Soa)
+[0:01] —S सन
+[0:05] Optimal
+[0:06] hips”
+[0:08] SESE -
+[0:08] cal
+[0:08] eine)
+[0:08] Root
+[0:08] है. al
+[0:09] USE
+[0:09] क्र
+[0:09] Bee
+[0:11] ” चालक,
+[0:11] F if
+[0:11] ar 0.
+[0:12 - 0:14] Bin

@@ -1,0 +1,73 @@
+# model: ggml-large-v3
+========================================================================
+[430] https://www.instagram.com/reel/DWwKegmDBeh/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:17] My peak was 180, I don't know how it was, so I had like, I went to Goa, and I was with my friends, and they were like, let's do stiff leg deadlifts, and I was like, yeah, fine, let's do it, so मेरा usual working weight, I was like, I can't do more, there was so much hype, दोस्तों के साथ
+[0:17 - 0:29] वोल, नाइस, 180 for 2, that's like a great number, honestly, मेरा 180 for 2 भी कीचा बदाएगा, मेरा एक दोस्त ही, he put 180 for 1, ओके, तो दियो दे, no way, I can't do it,
+[0:30 - 0:31] हुआ हुआ है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 01६
+[0:00] = Y al wasi180) and |
+[0:00 - 0:01] My 180kgs
+[0:00 - 0:01] deadlift
+[0:00 - 0:01] didn't knowjh,
+[0:01] fli
+[0:01] 191
+[0:01 - 0:02] my peak was 180.andI
+[0:02] ॥100॥ 1014
+[0:02] My 18065:
+[0:02] ift
+[0:02] Vig
+[0:02] ~~ 't knowhowjit:
+[0:03] Goa ai
+[0:03 - 0:06] Sol had like, |went to
+[0:04] ~~ and:iwWas withimy)
+[0:04] fri
+[0:05] tas
+[0:05 - 0:06] Goa andl
+[0:05 - 0:06] s witl
+[0:06] tis
+[0:07] pti
+[0:07] do stiff leg deadlifts
+[0:07] \ = intraworkou
+[0:07 - 0:08] And they were'likejlet:s
+[0:08] ay stiffle
+[0:08] lift
+[0:09] Nail
+[0:10] ore
+[0:10] ‘And | wa:
+[0:10] fine
+[0:11] कक ॥ताव गा
+[0:11 - 0:14] ror
+[0:12] raft
+[0:13 - 0:14] and
+[0:13 - 0:14] usual working,wei
+[0:14] fea
+[0:14] सब like hear
+[0:15] a my,
+[0:15 - 0:16] There was somuch hype
+[0:16] स्व my,
+[0:17] aay
+[0:17 - 0:18] EST INTRA WO!
+[0:19] a lis.
+[0:19] क्लब
+[0:19] EST ea woi
+[0:20] That'silikeagneat,
+[0:21] That’
+[0:21] स्वयं
+[0:21] tly)
+[0:22] nid
+[0:22 - 0:23] Vdon't कै even
+[0:23] Salk
+[0:24] why
+[0:24] had a ~~ 180
+[0:24] ‘Or_one}
+[0:25] हा a)
+[0:25] ifiad a friend, heidig 180 डे
+[0:26] kay
+[0:28] ali

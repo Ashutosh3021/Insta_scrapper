@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[224] https://www.instagram.com/reel/DbOPy27Mn4N/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Oh, it's raining. I can't go outside to complete my steps.
+[0:02 - 0:06] Just walk. Just walk in the house.
+[0:06 - 0:09] Just walk. That's about it. Get a walk pad, bro.
+[0:09 - 0:12] Just keep walking. It's not that of a big deal, bro.
+[0:12 - 0:16] Like, honestly, me, walking from here to there, like, millions of times,
+[0:16 - 0:19] I complete my steps in. I don't even whine like a bitch like you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] sal
+[0:00] complete
+[0:00] ali
+[0:00 - 0:18] Myjstepsie
+[0:01] Came
+[0:01] plete
+[0:01] Myst
+[0:01] foi
+[0:02] खि clcanitcomplete
+[0:04] alicanit
+[0:05] alicamataco
+[0:05] iii
+[0:06] VIVE
+[0:06] eps
+[0:07 - 0:12] ulicaniticomplete
+[0:12] Mystics
+[0:14] “Teen comolate
+[0:15] Acant
+[0:15] अंक
+[0:16] om a=
+[0:16] fe 93
+[0:17] "cant complate
+[0:18] can teo
+[0:18] les
+[0:19] can ७0)
+[0:19] 0918 [08

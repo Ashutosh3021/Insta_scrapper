@@ -1,0 +1,625 @@
+# model: ggml-large-v3
+========================================================================
+[531] https://www.instagram.com/reel/DUzvomHjLg0/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] One of the worst things which you can do is change your exercise selection too often.
+[0:04 - 0:06] I'm literally okay with people changing their splits.
+[0:06 - 0:10] I'm fine with you going from push-pull legs, upper-lower to full body
+[0:10 - 0:14] as long as the exercise selection stays the same.
+[0:14 - 0:17] Whenever you remove a specific given exercise from your exercise routine,
+[0:17 - 0:18] you know what happens?
+[0:18 - 0:21] You have to go through that same process of learning coordination adaptations,
+[0:21 - 0:24] going through the whole neural adaptation period
+[0:24 - 0:26] where you're not really gaining any amount of strength
+[0:26 - 0:28] which is coming from contractile tissue.
+[0:30 - 0:32] That's why it's better if you change your split.
+[0:32 - 0:34] I do not give a fuck if you change your split.
+[0:34 - 0:35] I'm fine with it.
+[0:35 - 0:39] But if you change your exercise selection too often,
+[0:39 - 0:40] then I have a problem with you.
+[0:40 - 0:44] Whatever you do, do not change your exercises in your exercise routine.
+[0:44 - 0:46] You can do whatever you want with your split.
+[0:46 - 0:47] I don't care.
+[0:47 - 0:49] Do not change your exercises.
+[0:49 - 0:50] Alright?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aby:
+[0:00 - 0:01] Bush)PullLegs; Upper:lower, full body
+[0:01] ह का
+[0:01] ily
+[0:01] one of the worst thi igs
+[0:01] S&S 2 you can do
+[0:02] no Legs, Upper ower, full body
+[0:02] change
+[0:02] your exercise
+[0:03] Rus
+[0:03] oe Upp
+[0:03] lower, full
+[0:03] body’
+[0:03] cis
+[0:03] eee
+[0:03] फेल
+[0:03] ope
+[0:03] 43222
+[0:03] pect
+[0:03] cae
+[0:03] 82527
+[0:03] ian 4
+[0:03] sat
+[0:03] oie
+[0:03] ret
+[0:03] den
+[0:03] Aoi
+[0:03] rey
+[0:03] yes
+[0:03] Ghee
+[0:03] Nitra
+[0:03] ine
+[0:03] "०४89
+[0:03] iat
+[0:03] “eal
+[0:03] Cah
+[0:03] ype
+[0:03] bide
+[0:03] sae)
+[0:03] cays
+[0:03] sash
+[0:04] ush का legs; nl lower, full body
+[0:04] "हैं
+[0:04] often
+[0:05] (2 5|112|| _ i full body
+[0:06] (518 05) Upper lower, full body
+[0:06] lam literally okay with
+[0:06] people changing their,
+[0:06] SSS
+[0:07] Push)Pull - lower, fulllbody
+[0:07] You,
+[0:08] Sagi
+[0:08] THU
+[0:09] annie
+[0:09] करें
+[0:09 - 0:11] legs
+[0:11] 7 ee
+[0:11] Fle
+[0:11] (fam
+[0:11] ily
+[0:11] wie
+[0:11] 1222 कक
+[0:11] ray
+[0:11] Fis
+[0:11] 100
+[0:11] 12008
+[0:11] ery
+[0:11] eee.
+[0:11] eau
+[0:11] fai
+[0:11] eesti
+[0:11] rts
+[0:11] aes
+[0:11] Vins
+[0:11] 19% 2४
+[0:11] Pia
+[0:11] pein
+[0:11] tie
+[0:11] ran
+[0:11] # 1२492
+[0:11] pot
+[0:11] ३१४
+[0:11] ०४85८,
+[0:11] 22108
+[0:11] S10)
+[0:11] te ca
+[0:11] ses
+[0:11] ४5५
+[0:11] 9383
+[0:11] (58४
+[0:11] sane
+[0:11] tern
+[0:11] Mies
+[0:11] heres
+[0:11] 993),
+[0:11] aks
+[0:11] sty
+[0:11] fee
+[0:11] roa
+[0:11] 23०
+[0:11] Dever
+[0:11] eae
+[0:11] pent
+[0:12] Sey
+[0:12] is the €
+[0:12] selection
+[0:13] Pel ce
+[0:13] Hie
+[0:13] s lon
+[0:13] ie exercis
+[0:13] nog
+[0:13] sel
+[0:13] ays
+[0:13] tes
+[0:14] ers
+[0:14] ire
+[0:14] pie
+[0:14] Matias
+[0:14] wa 8
+[0:14] sti
+[0:14] ait
+[0:14] aie
+[0:14] 1187९
+[0:14] hate
+[0:14 - 0:16] १7४५
+[0:15] Saag
+[0:15] Tay
+[0:15] are
+[0:15] ५५३
+[0:15] enever you remove 38
+[0:16] कीं
+[0:16] 92% ५५8
+[0:16] rath
+[0:16] rere
+[0:16] 2028 कट
+[0:16] Be cue
+[0:16] aoe
+[0:16] Sat
+[0:16] git
+[0:16] Soe
+[0:16] 4३३३०:
+[0:16] प्रा
+[0:16] any
+[0:16] EPs
+[0:16] fas
+[0:16] iss
+[0:16] Sie
+[0:16] ees
+[0:16] ET ee,
+[0:16] 328
+[0:16] erry
+[0:16] iets
+[0:16] aia!
+[0:16] fe eae
+[0:16] Gar
+[0:16] ote
+[0:16] LEY
+[0:16] pee
+[0:16] sese eh
+[0:16] Solas
+[0:16] Nia
+[0:16] tes
+[0:16] eth
+[0:16] ats
+[0:16] बेड
+[0:16] vere
+[0:16] ४५४९४:
+[0:16] 90७9
+[0:16] २९0
+[0:16] eee
+[0:16] Ges
+[0:16] sigs
+[0:16] =o ne)
+[0:16] Paes dMAN Ah
+[0:17] ily
+[0:17] S16
+[0:17] fet
+[0:17] फिर
+[0:17] exer
+[0:17] rom
+[0:17] you
+[0:17] rant
+[0:17] panini
+[0:18] you know what happen:
+[0:19] a [er
+[0:19] teed
+[0:19] ~ go throug
+[0:20] i vou Haveto ae
+[0:20] that an ८
+[0:21] aptations
+[0:22] adaptations going to
+[0:23] ada
+[0:23] है... going to the
+[0:23] Sa a
+[0:23] ation
+[0:24] iro
+[0:24] Ties
+[0:24] 227 कल
+[0:24] Drive
+[0:24] bes
+[0:24] erio:
+[0:24] ere:
+[0:24] ert
+[0:24] Fess
+[0:24] ier
+[0:24 - 0:28] ieee
+[0:25] के हे
+[0:25] antl
+[0:25] wae
+[0:25] Sects
+[0:25] Sempmn
+[0:25] Seo
+[0:25] 0 2४
+[0:25] A ara
+[0:25] ५9 का
+[0:25] Pat
+[0:25] 168,
+[0:25] Hie
+[0:25] ony
+[0:25] Tai
+[0:25] 09४४५
+[0:25] ceo
+[0:25] जार
+[0:25] 5९८
+[0:25 - 0:26] pants
+[0:26] way
+[0:26] Seale
+[0:26] 228,
+[0:26] ore
+[0:26] bey
+[0:26] Ris
+[0:26] Bees 4
+[0:26] ३22
+[0:26] 3५48:
+[0:26] Fugees
+[0:26] 54६7५
+[0:26] _._ 7९21) gaini
+[0:26] jinins ng
+[0:26] sein
+[0:26] 42222
+[0:26] (dis
+[0:26] ६8४६
+[0:26] ihe
+[0:26] Apts
+[0:26] tee
+[0:26] peaks
+[0:26] tiki»
+[0:26 - 0:27] Sees,
+[0:26 - 0:28] Sashes
+[0:26 - 0:28] Mee:
+[0:26 - 0:28] Aiea
+[0:27] ५205७ Lat
+[0:27] acess
+[0:27] 2४22४
+[0:27] sae
+[0:27] aay
+[0:27] Gee
+[0:27] Sar
+[0:27] इस रह
+[0:27] vee
+[0:27] hee.
+[0:27] ers
+[0:27] ict
+[0:27] ais
+[0:27] oo sie
+[0:27] one
+[0:27] ४९५५४
+[0:27] PE rene
+[0:27] Rares
+[0:27] cee
+[0:27] avery
+[0:27] oy SARE
+[0:27] Her
+[0:27] sah
+[0:27] Swe
+[0:27] २१७
+[0:27] ३७५०
+[0:27 - 0:28] Bae
+[0:27 - 0:28] ae as
+[0:27 - 0:30] 22000
+[0:28] - 5 Biol
+[0:28] A at
+[0:28] ily: 4
+[0:28] 202
+[0:28] sits
+[0:28] age
+[0:28] Eis
+[0:28] ४६८.
+[0:28] Teo
+[0:28] vet
+[0:28] oS oe 22058
+[0:28] Moule ‘
+[0:28] sana
+[0:28] 2220
+[0:28] ret
+[0:28] Wie
+[0:28] oS oe
+[0:28] 1305
+[0:28] rote: uP
+[0:28] ost:
+[0:28] orem eee
+[0:28] 5०००८
+[0:28] cts
+[0:28] 205
+[0:28] rar
+[0:28] ors
+[0:28] ate
+[0:28] Lag
+[0:28] Next
+[0:28] tis
+[0:28] tek
+[0:28] rer
+[0:28] 2३६:
+[0:28] gue
+[0:28] con
+[0:28] eid
+[0:28] ety
+[0:28 - 0:29] iste
+[0:28 - 0:29] is ee
+[0:28 - 0:29] pees
+[0:29] जय सी
+[0:29] ४९४४८
+[0:29] perce
+[0:29] 13 aes
+[0:29] reese
+[0:29] a ae
+[0:29] fis
+[0:29] “A 20008
+[0:29] Ess
+[0:29] SEY,
+[0:29] Sti
+[0:29] 20 124000080
+[0:29] eae
+[0:29] lie
+[0:29] ee ci
+[0:29] igi
+[0:29] alt
+[0:29] Aan
+[0:29] ३०२
+[0:29] 1) ee
+[0:29] Res
+[0:29] wee
+[0:29] Reve
+[0:29] ५५७
+[0:29] rainy
+[0:29] rey
+[0:30] Decco
+[0:30] Wad
+[0:30] Rah.
+[0:30] ats
+[0:30] 0 0५६
+[0:30] TRANNY
+[0:30] iis, sbi
+[0:30] Kis
+[0:30] baht
+[0:30] ale
+[0:30] bid
+[0:30] 20132
+[0:30] yal
+[0:30] 19080
+[0:30] eth
+[0:30] ५७.५९
+[0:30] ines
+[0:30] ites
+[0:30] dra
+[0:30] {lee
+[0:30] ७॥५०
+[0:31] Wee oe ies :
+[0:32] “aaa
+[0:32 - 0:33] change
+[0:33] 796
+[0:33] ४५ aa
+[0:33] not give 3
+[0:34] if you change
+[0:34] 12५
+[0:35] plit!am fine
+[0:35] श्र
+[0:36] क्र
+[0:36] iar
+[0:36] 1९७
+[0:36] Ltrs
+[0:36] apie tamptine ene
+[0:36] ५९७०५ but ©
+[0:36] प्र
+[0:36] eld
+[0:36] Lil
+[0:37] ive
+[0:37] 30023
+[0:37] ३५ ६५।
+[0:37] Baas
+[0:37] pena ee
+[0:37] dete
+[0:37] ere
+[0:37] nes
+[0:37] seh,
+[0:37] eat
+[0:37] tig
+[0:37] ery
+[0:37] ४९४
+[0:37] wee
+[0:37] or पा
+[0:37] set
+[0:37] rece ‘change Oy,
+[0:37] fee
+[0:37] poten
+[0:37] the
+[0:37] 2203
+[0:37] १९४
+[0:37 - 0:38] Maes
+[0:37 - 0:38] sane
+[0:38] ily 5
+[0:38] ite
+[0:38] Sen
+[0:38] few
+[0:38] aoe
+[0:38] sear
+[0:38] 1915
+[0:38] eas
+[0:38] ies
+[0:38] tai
+[0:38] cha =
+[0:38] ‘ise
+[0:38] (५०७
+[0:38] Lees
+[0:38 - 0:39] Seas
+[0:39] rat
+[0:39] २०५२
+[0:40] rt ali न
+[0:40] the
+[0:40] have
+[0:40] | problem
+[0:40] wit
+[0:41] his.
+[0:41] sil
+[0:41] Bere
+[0:41] eons
+[0:41] iene
+[0:41] reve
+[0:41] 1022
+[0:41] etal
+[0:41] ies
+[0:41] हि कप
+[0:41] Wes
+[0:41] Hi ie
+[0:41] judo
+[0:41] “wha
+[0:41] Sante
+[0:41] 2270७
+[0:41] mht
+[0:41] ५५2६४
+[0:41 - 0:43] Goes
+[0:42] ete
+[0:42] ४220
+[0:42] Len
+[0:42] ६205
+[0:42] 1.० 2087
+[0:42] 12282
+[0:42] Duke
+[0:42] 10.१5
+[0:42] hange yo!
+[0:42] ५05
+[0:42] Bie
+[0:42] sys
+[0:43] spi
+[0:43] oul
+[0:43] cee
+[0:43] os 22% 7
+[0:43] ot 22020
+[0:43] lion
+[0:43] je-your
+[0:43] xe rcises
+[0:43] aia
+[0:43] ३351
+[0:44] weet
+[0:44] ery
+[0:44] PALL
+[0:44] pale
+[0:44] “कार
+[0:44] aby
+[0:44] High 0
+[0:44] peony
+[0:44 - 0:46] you
+[0:45] ८2 27208
+[0:45] Sas
+[0:45] 204:
+[0:45] ides
+[0:45] mre
+[0:45] Hae:
+[0:45] ore
+[0:45] (7८7
+[0:45] afin
+[0:45] 00228
+[0:45] itt
+[0:45] rou can di
+[0:45] lo whatever you
+[0:46] कटे
+[0:46] 3120
+[0:46] ४८०
+[0:46] Cite
+[0:46] tint
+[0:46] aie ir
+[0:46] Vin
+[0:46] ats,
+[0:46] in न
+[0:46] shee
+[0:46] के ary)
+[0:46] ANTI
+[0:46] cai
+[0:46] ४९४
+[0:46] (११1४
+[0:46] eget
+[0:46] vgn
+[0:46] “auld
+[0:46] 12020
+[0:46] indo
+[0:46] ९५५८५,
+[0:46] ‘want with ५
+[0:46] lit |
+[0:46] any
+[0:46] mak,
+[0:47] ator
+[0:47] Ae Vis
+[0:47] nat
+[0:47] sean
+[0:47] 1203 ns a
+[0:47] छू 4
+[0:47 - 0:48] rahe
+[0:48] tog
+[0:48] क्र
+[0:48] >4 21
+[0:48] ten
+[0:48] Tig
+[0:48] in So
+[0:48] ५ जा yt
+[0:48] 088
+[0:48] 32 fe
+[0:48] re gansitl
+[0:48] Ana
+[0:48] ret
+[0:48] unt
+[0:48 - 0:49] nities
+[0:48 - 0:49] Neer
+[0:48 - 0:50] Were
+[0:49] है यम
+[0:49] ३२६१७
+[0:49] Near
+[0:49] 253 2
+[0:49] sis
+[0:49] re ee
+[0:49] bee
+[0:49] sos
+[0:49] 5728
+[0:49] Sie
+[0:49] ee ऊँ
+[0:49] Pts
+[0:49] 42222
+[0:49] shy
+[0:49] ३7४
+[0:49] 736
+[0:49] yao
+[0:49] oes!
+[0:49] 2206
+[0:49] 5०५8
+[0:49] Series
+[0:49] ४7250
+[0:49] eaves
+[0:49] 242६:
+[0:49] fas
+[0:49] cee
+[0:49] 0158:
+[0:49] pre
+[0:49] eee fs
+[0:49] 0802५
+[0:49] ase
+[0:49] tks,
+[0:49] eine
+[0:49] Soa:
+[0:49] irs
+[0:49] ३२५७:
+[0:49] res
+[0:50] pate
+[0:50] im. “ao
+[0:50] है. ee
+[0:50] one “*
+[0:50] Eid
+[0:50] toe,
+[0:50] SOE as
+[0:50] “eens
+[0:50] Roe
+[0:50] EAN
+[0:50] “hei Nh,
+[0:50] १७५५
+[0:50] inlA ५५
+[0:50] nm sah ANG A\
+[0:50] १९४९

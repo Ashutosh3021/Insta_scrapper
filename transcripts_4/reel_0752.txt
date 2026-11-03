@@ -1,0 +1,315 @@
+# model: ggml-large-v3
+========================================================================
+[752] https://www.instagram.com/reel/DOq0xE9DGc6/
+STATUS: OK
+DURATION: 1:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] Now it might come to surprise you but a set done like this and a set taken close to failure
+[0:16 - 0:20] are going to provide same amount of results. You see you have to understand one thing that when we
+[0:20 - 0:25] reach failure we reach failure because we reach a maximum tolerable perception of effort. That
+[0:25 - 0:29] basically tells us that we are not going to increase motor unit recruitment from further on.
+[0:29 - 0:34] As you can see over here as well that that guy is assisting more and more and more each rep. The
+[0:34 - 0:39] amount of force this athlete can produce is getting lower and lower and lower each rep. Now did that
+[0:39 - 0:44] provide any extra stimulus to a given set? No it didn't because we only have about five to six
+[0:44 - 0:50] stimulating reps within a given set and training past that is not going to increase the amount of
+[0:50 - 0:54] stimulating reps. This is a study which compares drop sets versus straight sets and guess what we
+[0:54 - 0:59] see? We don't see any difference because again we only have about five to six stimulating reps within
+[0:59 - 1:04] a given set and pushing past that is not going to increase the amount of stimulating reps. Another
+[1:04 - 1:09] thing it's fatiguing. It's very fatiguing. What you're doing is fatiguing. Let's say after the set
+[1:09 - 1:14] of leg press he's going to do hamstring curls or leg extensions. He's not going to be able to perform
+[1:14 - 1:18] his best in those exercises. He just took his life out of it in this given exercise. How is he going
+[1:18 - 1:22] to perform well in the next subsequent exercises? We can only do so much in a given session and we
+[1:22 - 1:27] have to make sure that we use that up wisely. So if you're someone who believes that you need to
+[1:27 - 1:28] train past failure or have to do a lot of training before you're going to be able to do a lot of
+[1:28 - 1:34] reps to do four steps to get additional muscle growth, please rethink because it's just going
+[1:34 - 1:38] to create additional fatigue without adding anything to your plate. So yeah, hope that was
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aS के.
+[0:00] (scm
+[0:00] tit
+[0:01] ris
+[0:01] है, Incoming,
+[0:02] 67७५७
+[0:02] as 4
+[0:02] re कि?
+[0:03] Mss
+[0:03] ५ पे
+[0:04] incom
+[0:04] arr
+[0:05] Sti
+[0:05] gel
+[0:06] ATS
+[0:07] yy oe
+[0:07] cys
+[0:09] Stiteh incoming
+[0:09] ५97
+[0:09 - 0:11] ESS
+[0:11] h feoming
+[0:11] po है
+[0:13] but
+[0:14] ma, 7
+[0:14 - 0:16] but | sat down like
+[0:15] ve x
+[0:15] क्र 2
+[0:15] fay
+[0:15 - 0:16] this and a set taken
+[0:16] to failure
+[0:17] Lee
+[0:17] # जा की
+[0:17] are gohiia provide
+[0:17] same
+[0:18] are gi
+[0:18] provide
+[0:18] same amount of
+[0:18] results
+[0:19] urate
+[0:20] ‘apf
+[0:20] you seeiyou have to
+[0:20] understand one
+[0:20] thing that when we
+[0:20 - 0:21] | हैं
+[0:21] ial
+[0:21] you 5
+[0:21] हक have to
+[0:21] und
+[0:21] and one
+[0:21] है that when we
+[0:21 - 0:23] ch failure
+[0:22] Lod
+[0:22 - 0:24] we réaeh failure
+[0:23] > Tee
+[0:23] tall.
+[0:23] because
+[0:23] lereacha
+[0:23] poem
+[0:24] maximum tolerable
+[0:24] because we reach a
+[0:25] Daal
+[0:25] “| Bic
+[0:25] of effort
+[0:26] A le
+[0:26] i aad
+[0:26] ia tells »
+[0:27] i td
+[0:27] not 9०
+[0:27 - 0:28] tells u: shat we are
+[0:28] not goingito increase
+[0:28] motor unit
+[0:29] क्री 4
+[0:29] from Mmagrer on
+[0:30] Mas
+[0:30] Bsr
+[0:30] from
+[0:30] er on as
+[0:30] you aie
+[0:30] ee over
+[0:30] here as
+[0:31] ait
+[0:31] that that Ry
+[0:32] bene
+[0:32] assistil
+[0:32 - 0:33] that that guy is
+[0:33 - 0:34] assisting’more and
+[0:34] a iy
+[0:34] ay i
+[0:34] more and more each
+[0:35] i क़
+[0:35] unt of force
+[0:35] lete
+[0:35 - 0:36] the am
+[0:35 - 0:37] this
+[0:36] हर 4
+[0:36] f Rite of force
+[0:36] produce is
+[0:36 - 0:37] inlete can
+[0:37] the amount of force
+[0:37] produce is getting
+[0:38] and lowerand lower
+[0:39] ५७४
+[0:39] a pr
+[0:39] each rep now did
+[0:40] | हैं
+[0:40] that. an any
+[0:40 - 0:41] each
+[0:40 - 0:41] now did
+[0:41] O44,
+[0:41] that provide any
+[0:42] a मी
+[0:43] 6५7 1 #
+[0:43] | हैं
+[0:43] ong
+[0:43] a4r
+[0:43] because w
+[0:44] s4r
+[0:44 - 0:45] because ‘we only
+[0:44 - 0:45] have! about 5 to
+[0:45] ithosefare)
+[0:45] 59 130 5
+[0:45] 61895
+[0:45 - 0:46] land)
+[0:45 - 0:46] stimulating reps
+[0:46] Toss are th
+[0:46] st’ 5:
+[0:46] ‘6ireps:
+[0:46] becai
+[0:46] we only
+[0:46] have
+[0:46] sie
+[0:46] jin a given set
+[0:47] jo ०
+[0:47] sefareythe
+[0:47] wha &
+[0:47] Sti5-6)
+[0:47] eps
+[0:47] ee hd
+[0:47] and training
+[0:48] Tae
+[0:48] a of
+[0:48] # Tew
+[0:48] 8118
+[0:48] the
+[0:48] on al
+[0:48] last 5-6 reps)
+[0:48 - 0:50] past that is not
+[0:49] a की
+[0:49] going
+[0:50] # te; की
+[0:50] going to increase the
+[0:50] amount of
+[0:50 - 0:53] res
+[0:51] मरे
+[0:51] Tal
+[0:51] Pid
+[0:51] ‘compared with traditional sets in
+[0:51 - 0:52] Rest-pause and drop-set trai
+[0:51 - 0:52] elicit
+[0:51 - 0:53] elicit similar strength and
+[0:51 - 0:53] hypertrophy adaptations
+[0:51 - 0:53] resistance-trained males
+[0:51 - 0:53] ‘show details
+[0:51 - 0:53] this is a study which
+[0:52] 14५ ४
+[0:52] jonal s
+[0:52] ॥ पालाला्जालाटजा बता
+[0:52 - 0:53] compared with tradi
+[0:52 - 0:53] compares drop sets
+[0:53] ise and drop-set training
+[0:53] onalsetsin |)
+[0:53] versus straight sets
+[0:54] Biss.
+[0:54 - 0:56] and guess what we
+[0:55] Ay i |
+[0:55 - 0:56] see we don't see any
+[0:56] 4. मर
+[0:56] difference because
+[0:56] again
+[0:57] we ly hi
+[0:58] we only,have about
+[0:58] five to six
+[0:59] 9 1०
+[0:59] have about
+[0:59] Rd to six
+[0:59] ulating reps
+[0:59] in a given
+[1:00] é 41 2
+[1:01] wl ie
+[1:03] Ppa:
+[1:03] is not
+[1:03] going to increase the
+[1:03] amount of
+[1:04] another thing
+[1:06] “| Bhs
+[1:06] it's Sa.
+[1:07] > 19४
+[1:07] Bis,
+[1:07] FerAl
+[1:07] it's
+[1:07] iguing
+[1:07] हि t you Tedoingis
+[1:08] — मीन
+[1:08] let's say
+[1:09] ke) s
+[1:09] G4 है
+[1:09] let's, j the set
+[1:10] ¢ A हि
+[1:10] ig to do
+[1:11] हैः
+[1:11] करे
+[1:11] प्र
+[1:11] hai
+[1:11] छः curls or
+[1:11 - 1:12] he's going to do
+[1:12] hai . curls or
+[1:12] xtensions
+[1:13] he's notigding
+[1:14] कक सम
+[1:14] he's notigoing to be
+[1:14] 3016 to perform his
+[1:15] श्र
+[1:15] he's ni
+[1:15] jing to be
+[1:15] able.to perform his
+[1:15] हर in those
+[1:15] ircises
+[1:16] 4 ay
+[1:16] ३५१)
+[1:16] 9.7५
+[1:16] out,
+[1:16 - 1:17] you juststook his life
+[1:17] wA> 4
+[1:17] out/of it in this given
+[1:18] 56 g
+[1:18] perform
+[1:18 - 1:20] how is he going to
+[1:19] Sit कई
+[1:19 - 1:20] perform well in the
+[1:20] श्र i
+[1:20] subsequent
+[1:20] ‘xercises
+[1:21] ha of
+[1:21] ४31
+[1:21] we can only do so
+[1:22] ५७6
+[1:22] Wie
+[1:22] and
+[1:23] ५७६
+[1:23] WE Let
+[1:23 - 1:24] and we have to
+[1:23 - 1:24] 1 fe sure that we
+[1:24] hat up
+[1:25] eet
+[1:25] so yeah
+[1:26] nah |
+[1:26] who b
+[1:26] ves
+[1:26 - 1:27] if you're someone
+[1:27] who bélieves that
+[1:27] you need to train
+[1:28] 6 Lo
+[1:29 - 1:31] or haVé'to do four
+[1:30] ७ pty
+[1:30 - 1:31] sets to.
+[1:31] | हैं
+[1:31] है हर
+[1:31] additional
+[1:31] muscle
+[1:32] Mes
+[1:32] please_
+[1:33] becal 5
+[1:33 - 1:34] please rethink
+[1:34] becai
+[1:34] it's just
+[1:34] gonna create
+[1:34] ional
+[1:35] Vier
+[1:35] Mey
+[1:35] without 2०४० ing
+[1:36] b जाओ
+[1:36] anything
+[1:37] 1 है
+[1:38] em sone
+[1:38] 50 yeah hope that
+[1:38] was,helpful

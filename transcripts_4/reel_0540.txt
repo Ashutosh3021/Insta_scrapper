@@ -1,0 +1,77 @@
+# model: ggml-large-v3
+========================================================================
+[540] https://www.instagram.com/reel/DUnXiX5DBLb/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Realize the joke is on me
+[0:04 - 0:08] I knew you were trouble when you walked in
+[0:08 - 0:11] So shame on me now
+[0:11 - 0:13] Flew me to places and never came back
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] NOW शाह
+[0:00] 11611
+[0:00] ho.needs
+[0:00 - 0:02] शंकर
+[0:01] पिन,
+[0:01] who needs tofearthis
+[0:01] ५११७४
+[0:01 - 0:02] | donsttkr
+[0:02] aia
+[0:02] who 8000 h
+[0:02] eo J
+[0:03] i shoulder ४४
+[0:03] Lefties 3
+[0:03 - 0:04] Rd ina curl
+[0:04] 6 AA /
+[0:04] houlderr
+[0:04] alls
+[0:04] Leis
+[0:04] Sime
+[0:05] xy nit
+[0:05] pit eee?
+[0:05] १7८2८ ८७0७-7८
+[0:05 - 0:06] 41.9
+[0:05 - 0:07] ht is notin your
+[0:06] Opi
+[0:06] was
+[0:06] = 0) AGHIOS
+[0:06 - 0:07] pit'please
+[0:07] # Zu 4
+[0:07] acl
+[0:07] VAG
+[0:08] iil
+[0:08] Ney
+[0:08] woe
+[0:08] eee
+[0:08] स्का
+[0:08] ७2679
+[0:08 - 0:10] icepjcur
+[0:08 - 0:12] itestal
+[0:08 - 0:13] dropithe ego
+[0:09] wee
+[0:09] eel के
+[0:09] हरे
+[0:09 - 0:11] bicep
+[0:09 - 0:11] Q Lepwe®
+[0:09 - 0:13] curl
+[0:10] tae
+[0:10] nil
+[0:10] पिया के
+[0:10] (99/2 ८00)
+[0:10 - 0:12] MEE /
+[0:11] न्न्ल्ह्ः /
+[0:11] 251
+[0:11] oat)
+[0:11] meal»
+[0:11] ace
+[0:12] aan रु
+[0:12] cod
+[0:12] 9.26
+[0:13] 166)
+[0:13] हु” है
+[0:13] saastos9
+[0:13] क्र

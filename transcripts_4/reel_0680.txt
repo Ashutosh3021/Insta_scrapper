@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[680] https://www.instagram.com/reel/DQ1QJgBjGiK/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] We'll be right back.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] “Sinsteadlof rubber bands.
+[0:00 - 0:01] science based lifting
+[0:00 - 0:16] = Ww it feels like
+[0:00 - 0:16] toitap) into the real
+[0:01] diof rubber bands
+[0:01] reat
+[0:02] 1018[2 into the real
+[0:02] alt
+[0:02] ॥ 0112
+[0:02 - 0:04] science/based|
+[0:02 - 0:05] instead of rubber bands
+[0:03] all
+[0:04] ॥ ०011
+[0:05] science based lifting
+[0:06] क्ष्वा
+[0:06] &1199856७0/॥7७:
+[0:06] 11516
+[0:06] oflrubber bands
+[0:07] len
+[0:07] ceyb:
+[0:07] lifting,
+[0:07] of fo)
+[0:08 - 0:10] instead
+[0:08 - 0:12] gmmscienceybasedjlifting
+[0:09] ead of
+[0:10] is based lifting
+[0:10] | of rubber ban
+[0:11 - 0:15] instead of rubber bands
+[0:13] seien
+[0:13] iceybasedglifting
+[0:14] i basedilit
+[0:15] ats lifting
+[0:16] Scien
+[0:16] ceybasedjliftin
+[0:16] bands
+[0:16] instead) of,

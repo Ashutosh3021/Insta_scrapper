@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[974] https://www.instagram.com/reel/DF5KtguNUXY/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Just so you can see, I just want you to forgive me
+[0:03 - 0:10] My love keeps aching no more, the gas is on you, on you
+[0:10 - 0:13] It's like I'm falling, I'm falling more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] we FL
+[0:01] Week1
+[0:02] ( ४4532
+[0:03] है बा
+[0:03 - 0:13] WeekG6 = =
+[0:04] a के.
+[0:05] eek
+[0:07] a, ie
+[0:11] a in
+[0:12] eek

@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[678] https://www.instagram.com/reel/DQ3jiihjOYp/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Okay.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] vey,
+[0:00 - 0:03] Fiber in
+[0:00 - 0:07] _ ALL yourmeals
+[0:04] Ts in)
+[0:04] हैः
+[0:05] bos
+[0:05] als
+[0:06] Beary
+[0:06 - 0:07] Fiber in ७
+[0:08] LO पा आम आम
+[0:08] tin
+[0:08] meets
+[0:08] ree
+[0:09] ‘alg ~
+[0:10] Ds rece
+[0:10 - 0:12] Fiber in
+[0:10 - 0:12] ALL your meals
+[0:11] ounimeals
+[0:11] ALL

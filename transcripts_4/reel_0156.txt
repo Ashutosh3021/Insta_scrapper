@@ -1,0 +1,103 @@
+# model: ggml-large-v3
+========================================================================
+[156] https://www.instagram.com/reel/Dckqz5yMQJg/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] And the glass, glass, the scotch, ice full of beer.
+[0:06 - 0:12] Empty life, girl come, life reverse gear.
+[0:12 - 0:19] Love, love, oh my love, showed me power.
+[0:19 - 0:26] Cover, cover, holy cover, I want to hear now.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 333
+[0:00] aig
+[0:00] क्र
+[0:01] — fers
+[0:02] ehh
+[0:02] VA 4
+[0:03] jie
+[0:03] 18८
+[0:04] kOe
+[0:04] aol
+[0:04] Ry a
+[0:05] bal
+[0:05] ee / 4
+[0:05] 1७४
+[0:06] Vpn
+[0:06] है - a
+[0:06] hes
+[0:07] Loe
+[0:07] ill
+[0:07] age
+[0:07] — थटा।
+[0:07] re 4 re
+[0:08] Nigh =
+[0:08] oo ll
+[0:08] 11४
+[0:09] aT Se
+[0:09] sil)
+[0:09] fo» थे
+[0:09] ay A
+[0:10] ih S
+[0:10] | age
+[0:11] tT at
+[0:11] iit
+[0:12] aie
+[0:12] wilh hi
+[0:12] Pai |
+[0:12] 4 it ~
+[0:12] eae
+[0:13] | शा फ
+[0:13] ne: H
+[0:13] Wed
+[0:14] HII
+[0:14] Qh Ara
+[0:14] ate 5
+[0:14] हुमा
+[0:15] a अर
+[0:15] हुक अं.
+[0:16] im Ti |
+[0:16] प्र
+[0:16] 00० ६
+[0:16] 8 6 काल
+[0:17] i Tf
+[0:17] iis
+[0:17] 503
+[0:17] pai
+[0:17] 5» हर
+[0:17] 3५ 4
+[0:18] laste
+[0:18] Mil
+[0:18] mae
+[0:18] क्र
+[0:18] जनक
+[0:18] ors
+[0:19] Ven 6८
+[0:19] < ७227
+[0:19] asa
+[0:20] कल 2
+[0:20] Me Wf
+[0:20] 4९ ili
+[0:20] ily
+[0:20] ram) |
+[0:20] कट. a
+[0:20] ios
+[0:21] ८4८
+[0:21] lit
+[0:21] iui |
+[0:21] IU है|
+[0:21] मेनन
+[0:22] ey Wn
+[0:22] 4 (i) 4
+[0:23] i 14
+[0:23] aft
+[0:24] Ubi
+[0:24] oad Mal
+[0:24] i a. Ha
+[0:24] ते Wi!
+[0:25] i Tih
+[0:25] hay
+[0:26] ihe

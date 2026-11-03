@@ -1,0 +1,111 @@
+# model: ggml-large-v3
+========================================================================
+[129] https://www.instagram.com/reel/DdDijv1su7m/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] I'm a
+[0:01 - 0:03] Mother, father, gentleman
+[0:03 - 0:06] I'm a
+[0:06 - 0:09] I'm a
+[0:09 - 0:11] I'm a
+[0:11 - 0:13] Mother, father, gentleman
+[0:13 - 0:16] I'm a
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Splits but it hs
+[0:00] incrementally more niche
+[0:00] And better
+[0:01] raga शीट
+[0:01] Gos!
+[0:01] fii)
+[0:01] ‘Ar lad tng
+[0:02] 432
+[0:02] Pee ~~
+[0:02] ait
+[0:02] oy WZ
+[0:02] og f
+[0:02] T Sag
+[0:02] old
+[0:02] plit
+[0:02] है 1
+[0:03] Gan
+[0:03] aah हे
+[0:03] Id split
+[0:03] ‘Ay at
+[0:03 - 0:04] ices
+[0:04] ati
+[0:04] ee x
+[0:04] 225 /
+[0:04] shui
+[0:04] h pul
+[0:04] ite
+[0:04] ‘A a age /
+[0:05] uiGiuen
+[0:05] APRAPRR
+[0:05 - 0:07] (2x frequency with
+[0:05 - 0:07] Adequate rest)
+[0:06] 101 rest)
+[0:06] ULRPPL
+[0:06] APRPPL
+[0:07 - 0:08] ULUR repeat
+[0:07 - 0:08] APAR'repeat
+[0:08] Introduction of
+[0:08] 3x frequency with adequate rest
+[0:09] Bay
+[0:09] _ xfreque cy
+[0:09] SS स
+[0:09] Woe /
+[0:09] “Thea x
+[0:09] Wat gg
+[0:09] Vitae
+[0:09 - 0:12] nat en enough rest
+[0:10] 781
+[0:10] tno
+[0:10] ten
+[0:10] oug
+[0:10] rest
+[0:10] wes
+[0:10] SN A
+[0:10] Thea NZ
+[0:10] Mi A ॥ tng
+[0:11] 3x frequency, with
+[0:11] ULRFBRFBR
+[0:11] TLRFEBREBR
+[0:11] APRFBRFBR
+[0:12] १610६ jue
+[0:12] ‘Ay ile
+[0:12] A हे
+[0:12] rr 4
+[0:12 - 0:14] y wit
+[0:13] -Sxfreque
+[0:13] Sone.
+[0:13] Bild
+[0:13] nee
+[0:13] ‘Ar tiny
+[0:13 - 0:16] ~ Enoughrest _
+[0:14] x fre
+[0:14] ena
+[0:14] १००2०
+[0:14] poe /
+[0:14] eos
+[0:14] G YS
+[0:14] Vig
+[0:14] A 0K agg.
+[0:14 - 0:15] juenc
+[0:14 - 0:16] FBEOD
+[0:15] req
+[0:15] ASS
+[0:15] Zack
+[0:15] Wt ७५५
+[0:15] है 7
+[0:15 - 0:16] with
+[0:16] Shy
+[0:16] ‘Oxtr
+[0:16] ven
+[0:16] ait १३३
+[0:16] 222
+[0:16] हैं,
+[0:16] 7७४०

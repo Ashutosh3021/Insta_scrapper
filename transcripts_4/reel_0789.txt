@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[789] https://www.instagram.com/reel/DNQwDSHh13B/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] What wil 4 !
+[0:00] Nn yo
+[0:00] Sa) ee
+[0:00 - 0:03] you max out this'exercise?
+[0:01] when you max out this'exercise?
+[0:01 - 0:02] st ee
+[0:01 - 0:03] What will youtdo है|
+[0:02 - 0:03] iia
+[0:03] 5 ee
+[0:04] — छनस.
+[0:05] ब् ८
+[0:06] VTA
+[0:06 - 0:07] > अर जा
+[0:06 - 0:11] This ™ 7
+[0:08] “वी 2
+[0:09] 9 ha
+[0:11] बचत

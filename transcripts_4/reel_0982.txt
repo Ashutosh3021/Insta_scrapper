@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[982] https://www.instagram.com/reel/DCW5QuLB64i/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ७५९७ te struggle on 90s
+[0:00] va 3
+[0:01] Ove
+[0:01 - 0:04] used to struggle on 905
+[0:03] 1m bine
+[0:04] 1m wat 45
+[0:05] 5 weeks of bulking later
+[0:06] P Pas
+[0:06] 170 7
+[0:08] TY etnct
+[0:09] acs
+[0:11] air I
+[0:12] cline
+[0:16] “ell
+[0:16] 111
+[0:17] Pra
+[0:17] ALi
+[0:18] हा J
+[0:19] cli
+[0:19] nr 1

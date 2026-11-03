@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[418] https://www.instagram.com/reel/DW9PiPmjOg9/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Dude, it is a fucking dumb blown exercise.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] हैः
+[0:01] कल के
+[0:02] ES Nz
+[0:03] ayy
+[0:03] We 1]
+[0:04] ayn,
+[0:05] are
+[0:05] 00७
+[0:06] WN j
+[0:08] << fie
+[0:09] «11६7
+[0:09] sal
+[0:10] 2 \ yi
+[0:11] ane
+[0:11] aca
+[0:12] १० .2₹
+[0:16] ray
+[0:16] aie 1
+[0:17] ax fe
+[0:17] ] bf La

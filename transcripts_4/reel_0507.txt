@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[507] https://www.instagram.com/reel/DVN9WLuDK8-/
+STATUS: OK
+DURATION: 0:05   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Not sure who I am, not sure who I wanna be
+[0:03 - 0:04] All this shit
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] I: guyiwants to alternate
+[0:00 - 0:04] shouldjijlet him?
+[0:01] ti आज.
+[0:01] ७०% Na,
+[0:01] Ricci
+[0:01] rom)
+[0:01] Gil)
+[0:02] This guy 5,
+[0:03] Pip.
+[0:03] 1 Sg
+[0:03 - 0:04] |] guy wantsito/alternate
+[0:04] bye
+[0:04] ioe

@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[226] https://www.instagram.com/reel/DbI__1OM5fj/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] why is it not functional you're performing shoulder flexion on that and elbow extension
+[0:08 - 0:15] i can perform two of these exercises and get the same result like why wouldn't we function
+[0:15 - 0:22] a stronger muscle is a functional muscle like bro 2026 bro 2026 you may be bulking as well
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] just decoration =r
+[0:00 - 0:02] A | Building muscle you can't use is
+[0:01] wer
+[0:02] wy I
+[0:02] alt
+[0:03] ‘eal
+[0:05] “Ww Wy
+[0:06] VV 7y\ |
+[0:08] sal
+[0:09] Lae 25:
+[0:10] is si
+[0:10] BAS
+[0:10] war Vil
+[0:11] sal
+[0:11] VAN
+[0:13] het
+[0:14] ‘cal
+[0:14] pes पे
+[0:15] 4 J AY
+[0:15 - 0:17] eal
+[0:17] 4 ¥ AN)
+[0:19] New
+[0:20] ay कै
+[0:21] i ॥ री

@@ -1,0 +1,140 @@
+# model: ggml-large-v3
+========================================================================
+[593] https://www.instagram.com/reel/DTKbLcdDIBi/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] this protein company is a nightmare for indians you know i always get messages from people saying
+[0:04 - 0:08] oh how is this protein powder is this protein powder rigid is this protein powder good is this
+[0:08 - 0:13] that and dude wait till you hear about this company so this protein powder company is called
+[0:13 - 0:18] homes protein powder this is a company which is being sold in the united states this company on
+[0:18 - 0:24] their label claimed that they had 22 grams of protein and after a lab test they found out that
+[0:24 - 0:30] it has only three grams of protein and you know what's the funniest thing this company sold cake
+[0:30 - 0:37] batter as protein because instead of their claim 22 grams of protein they had 20 grams of carbs
+[0:37 - 0:42] you know i'm so glad that in our country we have people who do these lab tests just so we can make
+[0:42 - 0:47] sure that oh this protein company is legit because the last thing which i want is cake
+[0:47 - 0:50] batter in my protein bro anyways hope that has followed for more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a PROTEIN | \@
+[0:00] This protein
+[0:01] kis
+[0:01] This ला is
+[0:01 - 0:02] e BATTER
+[0:01 - 0:02] SOLD AS PROTEIN i
+[0:02] This protein company is
+[0:02] anightmaré'for indians.
+[0:03] है जय
+[0:03] bys
+[0:03] ‘lager nai. (न get
+[0:03] bij
+[0:04] nu 4, ee
+[0:04] saying
+[0:05] है का
+[0:05] saying ohiiow is this
+[0:05 - 0:06] 0०४५, ५
+[0:06] Is this
+[0:07] 644m
+[0:07] Bae
+[0:07] fh A
+[0:08] 44, ५
+[0:08] Is this protein powder
+[0:08] good?
+[0:09] And cide
+[0:10] क्र
+[0:10] Pir
+[0:10] Waititillly
+[0:11] vor
+[0:11] Waitttill: jyou\hear about
+[0:11] this company.
+[0:12] NUTRITION
+[0:12] moma: हू.
+[0:12] son
+[0:12 - 0:13] ISOLATE-WHEY PROTEIN
+[0:12 - 0:13] ewe
+[0:12 - 0:13] so thisjprotein powder
+[0:13] श्र |
+[0:13] HOLMES
+[0:13] promt: रा
+[0:13] Mai
+[0:13] 2218
+[0:13] is called
+[0:13] compan'
+[0:14] ies
+[0:14] ‘NUTRI
+[0:14] हु Pr
+[0:14] 2 Xi
+[0:14] SEG)
+[0:14] protein powder.
+[0:15] 444
+[0:15] “this iggeompany
+[0:16] this isaicompany which
+[0:16] is Being sold in
+[0:17] 1२४
+[0:18] $f ie
+[0:18] Wi this —"
+[0:19] this company on their
+[0:19] label/elaim
+[0:20] had 22
+[0:20 - 0:21] ica
+[0:21] Faas E
+[0:21] mean
+[0:21] had 22igrams of protein
+[0:22] (2 पर
+[0:22] हा ए a
+[0:23] am FSNS
+[0:23] caer
+[0:23] they,
+[0:23 - 0:24] and after a lab test
+[0:24] f FSNS
+[0:24] बशप्काधड
+[0:24] they/found out that
+[0:26] has onlyithree grams
+[0:27] ate |
+[0:27] flat
+[0:27] has only eattems of
+[0:27] (protein.
+[0:28] what's the and you know
+[0:28] whatisithe
+[0:30] Sy I
+[0:30] hue
+[0:30] Thi
+[0:30] mpany sold cak
+[0:31] This एज sold cake
+[0:31] batteras
+[0:32] This;company sold cake
+[0:32] batter as protein.
+[0:33] री Becageinstead
+[0:34] Ess
+[0:34] becauselinstead of their
+[0:34] claim twenty-two
+[0:35] हैं |
+[0:36] rae है
+[0:36] A of protein they had
+[0:39] ee है
+[0:39] youl b Ww, lim so glad
+[0:39] that in our country
+[0:40] “Ate
+[0:40] have people who
+[0:41] क्र
+[0:42] 1 की
+[0:42] ti # test ju: Isto we
+[0:43] oer a
+[0:43] test justiso.we canmake
+[0:43] sure that oh
+[0:44] “a company
+[0:45] ee है
+[0:45] Because the
+[0:46] “a है
+[0:46] Because'the last thing
+[0:46] whichil
+[0:47] हे है
+[0:47] 8९८30:
+[0:47] 2 last thing
+[0:47] whichtwant is cake
+[0:48] a sage
+[0:50] bat
+[0:50] “est
+[0:50] followed

@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[22] https://www.instagram.com/reel/Deu1eBqspgd/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 38%: २ SS
+[0:00] कै iKeenal
+[0:00] pisOkgs}
+[0:01] t et क्री
+[0:01] het
+[0:01] ७० Mh
+[0:01] Nojone inthis ainponts
+[0:01] nows|i Keenanjflapis0kgs
+[0:02] . oneiintl
+[0:02] nt हें
+[0:02] »Knows Keenan flap 30015 3 &
+[0:02] aes
+[0:03] airport
+[0:03 - 0:05] Knows iKeenan flap 30kg
+[0:04] an flap 30k
+[0:04 - 0:06] gros airport
+[0:05] ‘AR on
+[0:05] this हु
+[0:05] क्र
+[0:06] a जल
+[0:06] fio ein thi
+[0:06] he ee flap 30kgs
+[0:07] ri Sw
+[0:07] हे in MiSeinpor
+[0:07] Knows i Keenan ee
+[0:09] RE जा पा
+[0:09] तह i
+[0:10] जा जा
+[0:12] ein,
+[0:13] ee करन

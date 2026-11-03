@@ -1,0 +1,129 @@
+# model: ggml-large-v3
+========================================================================
+[340] https://www.instagram.com/reel/DYob4l8MegW/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] If you wanna make the gains as a rate of a tortoise,
+[0:02 - 0:03] the best thing which you can do
+[0:03 - 0:05] is train six to seven days per week.
+[0:05 - 0:07] You see, whenever you're training six to seven days per week,
+[0:07 - 0:10] you're essentially entering almost every training session
+[0:10 - 0:13] with muscle damage markers being present in your system.
+[0:13 - 0:15] When there is muscle damage markers
+[0:15 - 0:16] being present in your system,
+[0:16 - 0:18] there's an inflammatory response created in your brain
+[0:18 - 0:21] which is going to down-regulate motor unit recruitment,
+[0:21 - 0:22] which means you're not gonna be able
+[0:22 - 0:24] to have a higher amount of recruitment
+[0:24 - 0:27] than you would have if you were in an unfatigued state.
+[0:27 - 0:29] Best thing which you can do at this given period of time
+[0:29 - 0:32] is train only three to five days per week.
+[0:32 - 0:34] That will allow the muscle damage markers to subside
+[0:34 - 0:37] so you can enter the training session in an unfatigued state.
+[0:37 - 0:39] That will allow you a higher amount
+[0:39 - 0:40] of motor unit recruitment
+[0:40 - 0:43] compared to if you train six to seven days per week.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] A ie
+[0:00] Mak
+[0:00] gals «
+[0:01] ही a
+[0:01] gains)
+[0:01] 111
+[0:02] Vo ey
+[0:02] laut
+[0:04] Vege
+[0:05] oie
+[0:05] w ve
+[0:06] ees
+[0:06] tah
+[0:06] ee you're
+[0:07] : /५३४
+[0:08] vi iv
+[0:08] Vea
+[0:09] pe wl
+[0:09] tak
+[0:09] ess
+[0:09] ring almost
+[0:10] /५ Se
+[0:10] Al cop With muscle
+[0:11] ay hier Ny
+[0:13] yo bx
+[0:13] hog
+[0:14] ध्ड
+[0:14] jut’
+[0:14] Wher
+[0:15] ५ Ree 8%
+[0:15] san
+[0:15 - 0:16] being
+[0:16] 1 om
+[0:16] ज्च्ू-
+[0:17] Yo Wy
+[0:18] yr Ww |
+[0:18] ४ ३5
+[0:18] mS भी
+[0:18] created
+[0:18 - 0:19] pst brain, which is
+[0:19] Vesey
+[0:19] ies
+[0:19] all
+[0:19] 00171
+[0:20] yy sel
+[0:20] fo Mei 00m unit
+[0:21] Mss
+[0:21] Lad
+[0:21] fecruitment, hich means
+[0:21] you're not
+[0:22] Piel
+[0:22] how
+[0:26] es Ny
+[0:26] \ लीं
+[0:26] PAP गा]
+[0:27] AY We’
+[0:27] ७६ Kee ४5
+[0:27] oh y
+[0:27] कविता
+[0:28] The ‘ you can do
+[0:29] yp ९
+[0:29] Sadh
+[0:29] tebge
+[0:29] mis en alt Had dla
+[0:31] in OnTy
+[0:31] क्षण
+[0:31] 10111
+[0:32] Only
+[0:32] so Voy
+[0:32] oft
+[0:33] ६ Ree 8S
+[0:33] hop
+[0:33] ol dg
+[0:33] muscle
+[0:34] Vo sey
+[0:34] narnia side 0 you can
+[0:34] enter
+[0:35] vy Ww’
+[0:35] vole >
+[0:35] apps so ou can
+[0:36] डढ्
+[0:36] oA en an
+[0:37] Povey
+[0:37] eal
+[0:37] whens
+[0:38] ho 0४
+[0:38] ६ eg 9
+[0:38] sail
+[0:38] That!
+[0:38] शत 0॥ a higher
+[0:38] unt
+[0:39] Vowel
+[0:39] (281
+[0:39] Lb] you a higher
+[0:39] That Wilall
+[0:40] Vise
+[0:40] ese
+[0:41] ‘bod
+[0:43] De 4

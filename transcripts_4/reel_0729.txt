@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[729] https://www.instagram.com/reel/DPjwaSvjL_V/
+STATUS: OK
+DURATION: 1:23   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] यहां पर इनका कहना है कि जब आप LAT पॉट ऑन करते हो और 120 degree से ऊपर चले रहते हो तो आपके LATs leverage लूस कर देते हैं और funny बात बताऊं क्या है?
+[0:30 - 0:59] जब आपके LATs leverage लूस कर देते हैं और funny बात बताऊं क्या है?
+[1:00 - 1:23] जब आपके LATs leverage लूस कर देते हैं और funny बात बताऊं क्या है?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] धर ऐ
+[0:01] 3 ee
+[0:02] - ork
+[0:04] al eee
+[0:05] १23
+[0:06 - 0:12] you guys wanted this®
+[0:07] ies ca
+[0:07] के. 4
+[0:07] le कै
+[0:08] Mee,
+[0:08] p ae
+[0:08] you anenenied this®e
+[0:10] you guys का this®
+[0:10] बनने
+[0:12] °F Ted
+[0:16] i bi
+[0:17] yn x
+[0:32] les.
+[0:36 - 0:37] debate
+[0:36 - 0:38] Here’s myanswen नि
+[0:37] Here'smy answer toithis;
+[0:38] this
+[0:40] i श hi
+[0:41] takingone forthet
+[0:41] Din
+[0:42] ae 7 the'team
+[0:42] श्र
+[0:43] taking ७8. the'team
+[0:44] Bibi.
+[0:45] ५३८७
+[0:51] च्छ्च
+[0:54] VY +> 5
+[0:58] ae evs
+[0:58] छाप <
+[0:59] च्छ
+[1:00] 1155
+[1:08] vie
+[1:16] Nate 3
+[1:17] 1. 82 था
+[1:17] "3 enn

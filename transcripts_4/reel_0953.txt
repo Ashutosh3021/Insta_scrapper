@@ -1,0 +1,279 @@
+# model: ggml-large-v3
+========================================================================
+[953] https://www.instagram.com/reel/DGqTgWmhnlJ/
+STATUS: OK
+DURATION: 0:46   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I just found a cup of noodles with only 270 calories at 7-11 but there's a problem.
+[0:05 - 0:10] I can't eat it because I'm on a prep and my calories are locked in but my friend here can.
+[0:10 - 0:13] So he's going to try it for us and give us a verdict on this.
+[0:13 - 0:15] This is called gin rub and mild cup of noodles.
+[0:15 - 0:17] This is around 270 calories.
+[0:17 - 0:22] Compared to the other cup of noodles in the market, this seems to be the lowest in calories.
+[0:22 - 0:27] While the cooking did take time but the smell it was giving was amazing.
+[0:27 - 0:29] Now it's time for the taste test.
+[0:30 - 0:44] Should I save this for my post-show cheat meal?
+[0:44 - 0:46] Let me know in the comments.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a em,
+[0:00] 270८8
+[0:00] RE mT
+[0:00] giz,
+[0:00] Ime
+[0:00] Jat)
+[0:00] ७ om! Justs
+[0:00 - 0:01] But | CANT “a ite: (
+[0:00 - 0:03] "<cup:Noodles?!
+[0:01] A Soe cae
+[0:01] eT Coad a
+[0:01] 270keal
+[0:01] a is
+[0:01] ded
+[0:01] ane
+[0:01] Face
+[0:01] pedles: =
+[0:01] 32: 800)
+[0:02] 270kc
+[0:02] ॥ Cup
+[0:02] ANTE e
+[0:02] ‘watt torneo
+[0:02] Drvog) - Jinrabten MILD
+[0:02] (parted &
+[0:02] fit ६३
+[0:02] ‘castor
+[0:02] 1 0150
+[0:02] [oor |
+[0:02] Lat
+[0:02] aaa
+[0:02] MRP: 139.00
+[0:02] Tho
+[0:02] a mere
+[0:02] 7200:
+[0:02] NU Wt: 6
+[0:02] बन फू NO REMMENDED FOR FANT
+[0:02] Spe कराए WOMEN, CONTRINS PRM
+[0:02] ३ 0०९००
+[0:02] feruperyr जा
+[0:02 - 0:03] Baton Lot Ne
+[0:03] LF “en,
+[0:03] तट Ok
+[0:03] tae
+[0:03] MIL
+[0:03] ButiliCAN
+[0:03] eatiit}:((
+[0:03] ed a
+[0:03] SHE}
+[0:03] we जा =) RP: 139.00
+[0:03] Newt |
+[0:03] Scene GLUTAMATE NOT RECOMMEDED FOR RESET
+[0:03] SFr एक OMEN, CONT
+[0:03] ns PONTE
+[0:03] Kkenubenjcom
+[0:03] Sssai
+[0:03] Uc: T35zSeS8000272
+[0:03] cal
+[0:05] Ibut there's a | 5
+[0:06] saat
+[0:06] a ne
+[0:06] oat
+[0:07] बी बी
+[0:08] Font are in
+[0:08] ™_ (Starvemaxxing),
+[0:08] because.Ji:m-on a prep and
+[0:08] =) calories are locked
+[0:10] but my friend here Ae
+[0:11] Pe ee
+[0:11] but ie
+[0:12] ZOE
+[0:12] i ge
+[0:12] ey छः
+[0:14] आता | जमे
+[0:15] Seu
+[0:16] ) ortog!-inramen M
+[0:16] cup
+[0:16] any
+[0:16] nae
+[0:16] nro
+[0:16] patensiot No
+[0:16] MRP: 139.00
+[0:16] ame
+[0:16] NEWt
+[0:16] Tmanosconrw cra
+[0:16] mor ReccuMeworD FO8
+[0:16] ०००२-६१]
+[0:16] झट rarwrean WOMEN,
+[0:16] knupenfcon
+[0:16] uc fiszagse000272
+[0:16] हि 227
+[0:16 - 0:18] [ssal
+[0:17] ramen MILD
+[0:17] Aerts By
+[0:17] wacom Care
+[0:17] Batchy/Lot Ne
+[0:17] = jl 139.00
+[0:17] Sena ae |
+[0:17] NEWr- 65
+[0:17] ‘Comrans wowosoonn a
+[0:17] पक ००
+[0:17] SPs ano rrecanaoe ४००
+[0:17] ५5561
+[0:17] 007040००)/-०7
+[0:17] Le: सब
+[0:17] are
+[0:17] 15 15 arol Ne
+[0:18] 4 wae ४38 ७०
+[0:18] ree Oe
+[0:18] wre
+[0:18] int
+[0:18] Nutr
+[0:18] (4900०
+[0:18] aly
+[0:18] Seri
+[0:18] 3.88
+[0:18] 819)
+[0:18] Hod
+[0:18] Aad
+[0:18] alr
+[0:18] Tran:
+[0:18] I, DR
+[0:18 - 0:22] COOKING DIRECTIONS
+[0:19] thot water up to the i
+[0:19] ing
+[0:19] ४ ॥0 and mal 0 3 min
+[0:19] moe
+[0:19] i, Str well to mix thei
+[0:19] ip Noodle
+[0:19] ving Si
+[0:19] Sere Pe
+[0:19] (Approximate Values)
+[0:19] bind 9)
+[0:19] INCODLES,
+[0:19] fea y
+[0:19] ३९१:
+[0:19] CHT
+[0:19] Any
+[0:19] Total Fat (g
+[0:19] A386
+[0:19] eter :
+[0:19] ave
+[0:19] Boa
+[0:19 - 0:20] Pull back the ld halfway and fill the cup
+[0:19 - 0:20] arboh
+[0:19 - 0:22] 9.88
+[0:19 - 0:22] 1456 33]
+[0:19 - 0:22] STORE IN ACOOL, HYGIENIC, DRY
+[0:19 - 0:22] PLACE & AVOID DIRECT SUNLIGHT.
+[0:20] 000॥0
+[0:20] ith not water up tothe inside ine. 2. Clos
+[0:20] ne i and wall fr 3 minutes. Remove te
+[0:20] id. Stir well to mix the ingredients & enjoy
+[0:20] )0 Cu
+[0:20] Serving Sz -T0q
+[0:20] (Approx
+[0:20] values).
+[0:20] ६ बा
+[0:20] PICY VEGETABLE nee
+[0:20] war
+[0:20] pon
+[0:21] 1 0०81 - Jinramen MILD
+[0:21] sou
+[0:21] 47० ain
+[0:21] Import
+[0:21] JBEN LLP, Shop No2, Building
+[0:21] [sev] उस ५०५.
+[0:21] Greenland CHS Ltd, 48.
+[0:21] ‘Aewdher East, Mumbai
+[0:21] | 0७० EI po
+[0:21] [snare | ve | os]
+[0:21] {Emalt- care@khuben.com
+[0:21] [omer 1 #1 | customer care, +93 9076007770
+[0:21] [isso aoe | far 250712028
+[0:21] [Tomcmeraee | oe |
+[0:21] 1] exe : 20/07/2025
+[0:21] Bateh/Lot No: PO-07
+[0:21] MRP: 139.00
+[0:21] inet a es
+[0:21] Re 214 pe
+[0:21] NtWt- 658
+[0:21] “Onna ONIN GLUTAMATE HAT RECOMMENDED FOR NPANTS ।
+[0:21] Mate PREGNANT OMEN, CONTAINS PERMITTED COLOR,
+[0:21] ate
+[0:21] emo
+[0:21] well
+[0:21] 00 Cup No
+[0:21] intermaton|
+[0:21] er 1009 | ADA’
+[0:21] Serve,
+[0:21] 490.55.
+[0:21] Total 5
+[0:21] ANG
+[0:21] Hod
+[0:21] aaa
+[0:21] Salut
+[0:21] d Fat (a)
+[0:21] Tran:
+[0:21 - 0:22] Cup
+[0:21 - 0:22] |, Pull back the
+[0:21 - 0:22] y an
+[0:21 - 0:22] and wai
+[0:21 - 0:22] jens
+[0:21 - 0:22] Nat
+[0:21 - 0:22] Savin
+[0:21 - 0:22] Protein (q)
+[0:21 - 0:22] nvevale (0)
+[0:21 - 0:22] 9.37
+[0:21 - 0:22] 0.099
+[0:21 - 0:22] ium (mg
+[0:21 - 0:22] can
+[0:21 - 0:22] ‘Aiowar
+[0:22] Odvagh Nora MHD
+[0:22] A tacts न.
+[0:22] oor
+[0:22] ४५०
+[0:22] Newt 65e
+[0:22] se aeermarnes tm
+[0:22] ore noe
+[0:22] een
+[0:22] water
+[0:22] our Cup)
+[0:22] दाता
+[0:22] ROK’
+[0:22] information| Per 100५
+[0:22] Tove
+[0:22] cal)
+[0:22] a Si
+[0:22] 0610)
+[0:22] ‘Adde
+[0:22] Total Fat
+[0:22] Satural
+[0:22] Trans Fat
+[0:22] ol (एव 0.0
+[0:23] #351
+[0:24] ees
+[0:27] cH it was. giving
+[0:27] ees
+[0:28] wall bites the verdict?
+[0:29] ark
+[0:29] First iS. the a
+[0:29] now
+[0:30] Dal
+[0:30] e 52
+[0:35] ५१४
+[0:38] tsk
+[0:38] Zee
+[0:38] Bee
+[0:39] क्र
+[0:39] का h would
+[0:41] * eis .
+[0:41] heey, a0 I would give
+[0:43] Sra sane
+[0:44] should | save
+[0:45] if है
+[0:45] ste
+[0:45] 477७
+[0:46] [000०८
+[0:46] let me know in the
+[0:46] १११४ ५७

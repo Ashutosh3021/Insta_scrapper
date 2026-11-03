@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[381] https://www.instagram.com/reel/DXwNIXjMKL6/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] like a chair all the way to you knocked on your door with heart in my head to ask you a question
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Camheatiblast
+[0:01] Nig
+[0:01] wet blast
+[0:01] method
+[0:01] , treadmill
+[0:01] ANS
+[0:01] ail:
+[0:02] treadmill method
+[0:02] Ellipticalimethod?
+[0:03] umbal heatmethod
+[0:04] ‘alme
+[0:05] Bai’
+[0:05] ~ ued |
+[0:06] heatim
+[0:07] heat method
+[0:08] \ ae ya
+[0:08] Bas
+[0:09] Al meth
+[0:09] i ba
+[0:10] vid ee
+[0:11] श्र
+[0:11] Mumbaihearmetho

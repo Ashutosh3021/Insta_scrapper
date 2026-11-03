@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[344] https://www.instagram.com/reel/DYjgelnMWrb/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Yo this is gonna be a hard take but training hard is not that hard at all
+[0:04 - 0:07] Trust me what's more harder is actually gauging your intensity
+[0:07 - 0:11] And purposefully leaving a rep and reserve and being accurate about it
+[0:11 - 0:13] Training hard anyone can do it
+[0:13 - 0:14] Anyone can take a step to failure
+[0:14 - 0:17] But not many people can keep a rep and reserve
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] thet hare]
+[0:00] क्र
+[0:00] a et
+[0:00] This
+[0:00 - 0:02] Training
+[0:00 - 0:08] Isinot
+[0:01] Tir
+[0:01] iKaining
+[0:01] 5 ite
+[0:02] not
+[0:02] take but training)
+[0:03] ming) nere]
+[0:03] not that ~~
+[0:04] ningjhand
+[0:04 - 0:05] trust me "“ >
+[0:05 - 0:08] Traininglhard
+[0:06] ‘4 trust me ५1 =
+[0:06] harder is,
+[0:07] Isinort
+[0:07] godging your, = 90 =
+[0:09] Lin
+[0:09] fing) Inerre]
+[0:09] Isnotiehadhand
+[0:10] ning|hand
+[0:10] Isinotthadirand|
+[0:10] being
+[0:11] being accurate agatbit.
+[0:11 - 0:14] Isinot
+[0:12] ithauhand)
+[0:12] wk hard anyone
+[0:12 - 0:17] Training|hard|
+[0:13] Chat hard
+[0:13] है hard anyone aga
+[0:14] att Of anyone cai
+[0:14] anyone can t.
+[0:14] ake
+[0:14 - 0:16] hard)
+[0:15] thet harre]
+[0:15] ‘iad
+[0:15] oD. failure but nose
+[0:16] Trainin
+[0:16] Is ithathand|
+[0:16] A ng
+[0:16] can keep
+[0:16] | आई 5
+[0:17] Isnotithatirand|

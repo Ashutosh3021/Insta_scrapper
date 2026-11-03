@@ -1,0 +1,208 @@
+# model: ggml-large-v3
+========================================================================
+[885] https://www.instagram.com/reel/DJcICMDB0Bs/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] अभी bench press inherently एक बेकार exercise नहीं है
+[0:06 - 0:09] but it's not the king of chest exercises
+[0:09 - 0:10] जब भी हम bench press perform करते हैं
+[0:10 - 0:12] तुम सिर्फ तुमारा chest use नहीं कर रहे हो
+[0:12 - 0:14] you're using your shoulders, your triceps
+[0:14 - 0:17] अभी यहाँ पे बहुत सारे muscle group साथ में काम कर रहे हैं
+[0:17 - 0:19] हमें पता है कि muscle growth के लिए दो चीज़ों की जरूरत होती है
+[0:19 - 0:21] high degree of active mechanical tension
+[0:21 - 0:22] और high threshold motor unit recruitment
+[0:22 - 0:24] जब भी हम bench press perform करते हैं
+[0:24 - 0:27] motor unit recruitment is spread across multiple muscles
+[0:27 - 0:29] मतलब तुमारे chest को उतना stimulus नहीं मिल रहा है
+[0:29 - 0:32] for bench press to be called as the king of chest exercises
+[0:32 - 0:34] अगर हम इसे compare करेंगे to pec fly
+[0:34 - 0:36] it's pure horizontal adduction
+[0:36 - 0:38] मतलब यहाँ पे motor unit recruitment spread नहीं हो रहा है
+[0:38 - 0:40] जितना जादा motor unit recruitment होगा
+[0:40 - 0:42] उतने muscles will be active
+[0:42 - 0:43] जितने muscles will be active
+[0:43 - 0:46] उतने muscles will experience high degree of active mechanical tension
+[0:46 - 0:49] which in turn creates a better stimulus for muscle growth
+[0:49 - 0:51] और अगर तुम stability demands add करोगे
+[0:51 - 0:53] coming from barbell or dumbbell bench press
+[0:53 - 0:55] वो motor unit recruitment और कम कर दे
+[0:55 - 0:58] so yeah, bench press is not the king of chest exercises
+[0:58 - 0:58] pec fly is
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Bench) 9
+[0:00] For ch
+[0:00] ane
+[0:00] | Gall '
+[0:01] | See
+[0:01] a है पे
+[0:02] Ben
+[0:02] 4 chest Vt
+[0:02] think bench pi
+[0:02] the kiag of chest
+[0:03] | il हे.
+[0:03] lave been fnisied
+[0:04] f ae |
+[0:04] a areal
+[0:04] x Al
+[0:04] — लाभ
+[0:04] abhi bench =
+[0:05] ३३८, जी
+[0:05] = get A
+[0:05] ut not thelbest
+[0:05] abhi ae “T
+[0:06] = Don’t
+[0:06] me wront
+[0:06] Bu 2: 00 est
+[0:06] nahi
+[0:07] emt
+[0:07] “Chest kaha hai?
+[0:07] Seg,
+[0:07 - 0:08] IMy chest before you comment® | _
+[0:07 - 0:08] nahi Hai but it's not the king
+[0:08] kaha haiyy
+[0:08] -of chest “=
+[0:09] क्र
+[0:09] FA a DA
+[0:09] ham
+[0:10 - 0:11] ro A
+[0:11] karte
+[0:11] im sirf tu
+[0:12 - 0:13] nahi kar rahe ho you're
+[0:13] डे है
+[0:13] ders
+[0:13] 're using
+[0:13] ~~your shoul
+[0:14] your om
+[0:15] OTUDENT
+[0:15] कक्षा
+[0:15] ances
+[0:15] SINC Ey
+[0:15] i पर abhi yi
+[0:15] bhot
+[0:16] At ag
+[0:18] ings —
+[0:18] Re y
+[0:18 - 0:19] Se growth) fe
+[0:19] 1 (व ite
+[0:19] Ve का
+[0:20] - rowth requ
+[0:20] 2 things
+[0:20] 4 legre
+[0:20] ee of active
+[0:20] Mechanical tension =
+[0:21] ae growth requires
+[0:21] thi
+[0:22] Mins Grom req
+[0:22] ee 5 thing:
+[0:22] poe
+[0:22] Ltt,
+[0:22] nh i
+[0:22] reshold motor unit
+[0:23] ils
+[0:23] ars
+[0:23] fig
+[0:24] bill
+[0:24] fog
+[0:24] aah
+[0:25] Wittens
+[0:25] S pre:
+[0:25] verse perfor
+[0:25] fo 4 MENDis\spne
+[0:25] Cross
+[0:25 - 0:26] fia
+[0:26] Whe:
+[0:26] enchpre:
+[0:26] ¥ ced
+[0:26] ronan recta
+[0:27] se Lf
+[0:28] Ved
+[0:28] smatigetting that
+[0:28] stimulust
+[0:28] Bae
+[0:29] (Chest ismpigettin
+[0:29] i ry" 4
+[0:29] oe iE
+[0:30] ‘ismpygettin
+[0:30] Muchystimulus
+[0:30] whe |]
+[0:31] )Skingjofichest ercises!
+[0:31] Dae
+[0:31] eat
+[0:32] 811]
+[0:32] ercises) 7
+[0:32] ois
+[0:32] ee es
+[0:33] ॥ COMPARED
+[0:33] TOJPEC ae
+[0:34] own
+[0:34] RED 7५ reli oy,
+[0:35] शर्ट
+[0:35] श्र i Ww 4
+[0:36] at; an”
+[0:36] it recruitment
+[0:36 - 0:37] Motor,
+[0:36 - 0:37] Vi ॥| Is not being spread
+[0:37] bal
+[0:37] ull
+[0:37] ecruitm
+[0:39] aft itment
+[0:39] ome,
+[0:40 - 0:41] recruitment
+[0:41] | Ful
+[0:41 - 0:46] NN More
+[0:41 - 0:46] muscles will be active है | b
+[0:42 - 0:45] | ॥ unit recruitment
+[0:44] aan
+[0:44 - 0:46] = Muscles experiencing
+[0:44 - 0:46] Active mechanical tension
+[0:45] श्र
+[0:45] Muscle:
+[0:45] xperiencing
+[0:45] Vee
+[0:46] motor unit rect
+[0:46] ment
+[0:47] थे... in BY |
+[0:48] wll J
+[0:50] for muscle growth or Agar
+[0:50] tum stability
+[0:50 - 0:51] Stability is KING~ |
+[0:51] add
+[0:52] tWISKING >
+[0:52] Vat
+[0:52] barbell
+[0:52] add karoge coming from
+[0:53] ee एरर
+[0:53] add karoge
+[0:53] soning from _
+[0:53] barbell or dum!
+[0:53] ॥ bench
+[0:53] press
+[0:54] vo motor unit réesuitment nt ad
+[0:55] oat wre
+[0:55] {Pelm 7
+[0:55] vo motor unit reemitmeht nt ०६४) 8
+[0:55] come karte
+[0:56] -SDENT
+[0:56] इश्क
+[0:56] pene
+[0:56] ihe King ofches exercises
+[0:56] bench press is
+[0:56 - 0:57] 11655 is
+[0:57] STUDE!
+[0:57] SPOR Ts
+[0:57] pencise Sci
+[0:57] Ben:
+[0:57] ihe King ofc
+[0:57] Fercises
+[0:57] Bench press is not the king
+[0:57] of chest exercises
+[0:58] (२38 19 9]
+[0:58] Peck of
+[0:59] ali
+[0:59] Péck flyers hope that helps
+[0:59] cy a moment

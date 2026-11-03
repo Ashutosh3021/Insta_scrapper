@@ -1,0 +1,76 @@
+# model: ggml-large-v3
+========================================================================
+[205] https://www.instagram.com/reel/Dbm-HHrMkp5/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I don't feel like Lindsay
+[0:03 - 0:12] I can get you so obsessed
+[0:12 - 0:14] So obsessed
+[0:14 - 0:17] I am such a pretty bitch
+[0:17 - 0:19] I got diamonds on my wrist
+[0:19 - 0:21] To me it's unáticas
+[0:21 - 0:23] So perfect
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] किन
+[0:00] AeA
+[0:00] oly
+[0:00 - 0:04] Yourggyim down
+[0:00 - 0:04] set
+[0:00 - 0:05] Pov:
+[0:01] Sesidown
+[0:01] | ier. S
+[0:02] Vie
+[0:02] रोक
+[0:05] Bisa है
+[0:05] Young
+[0:05] closes we
+[0:05] aah
+[0:05] ci za
+[0:05] ~~ 2००० रण
+[0:06 - 0:09] gym.c closes down
+[0:06 - 0:09] \ Midset /
+[0:07] gym
+[0:07] । से ओ
+[0:08] ieee
+[0:09] j MO
+[0:11] tes! ly
+[0:11 - 0:12] Still have
+[0:11 - 0:12] न Wide grip pull ups i do
+[0:12] dull up:
+[0:13] | Mine in oy
+[0:13] कटी
+[0:13 - 0:14] weigh
+[0:13 - 0:14] Always O/RIR
+[0:14] net in doubt
+[0:15] ‘Whenjinidoubt
+[0:15 - 0:17] Of weightyAlways 0 RIR
+[0:16] Nei
+[0:16] dw 8
+[0:16] thea in doub
+[0:16] Of oT “अं ORIR
+[0:16] wil
+[0:17 - 0:18] ic in doubt
+[0:18] Yan)
+[0:18] htAlways'0 RIR
+[0:18] Of weig
+[0:18] eee
+[0:19] An e
+[0:19] iif
+[0:19 - 0:20] Freq
+[0:20] 116
+[0:20] ney &
+[0:21] timal
+[0:21] Via: fon the op
+[0:21] 7 | Frequen
+[0:22] ing for (i
+[0:22] tina
+[0:23] ues ier
+[0:23] he optimal ५
+[0:23] wency
+[0:23] nT Freq
+[0:23] itt Ts
+[0:23] aia

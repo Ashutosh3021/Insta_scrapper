@@ -1,0 +1,190 @@
+# model: ggml-large-v3
+========================================================================
+[342] https://www.instagram.com/reel/DYmBKgMsYSq/
+STATUS: OK
+DURATION: 0:53   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] this is how you actually hit your upper chest fibers you see how your pectoralis major and
+[0:04 - 0:11] your anterior delt make this circular fan-like pattern of muscle fibers this science-based
+[0:11 - 0:16] lifting trend of saying your upper chest is gonna be a good shoulder flexor just doesn't make much
+[0:16 - 0:21] sense in what world would shoulder flexion be better than this type of motion for the upper
+[0:21 - 0:28] chest it doesn't make any sense well william here is not that right because if what william's saying
+[0:28 - 0:32] was right we would see a very good amount of activation just by doing a horizontal adduction
+[0:32 - 0:39] but we don't in fact we see a lower level of activation as a wide grip on an incline compared
+[0:39 - 0:45] to close grips on an incline and no one is saying that the front delts are not a good shoulder flexor
+[0:45 - 0:49] it's just that the front delts have leverage at a specific range of motion and the upper pecs has
+[0:49 - 0:53] leverage at a certain range of motion anyways do your close grips man i hope that i was welcome
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] mhis is how
+[0:00 - 0:02] ACTUALLY.
+[0:00 - 0:02] OUR
+[0:00 - 0:02] RUPPER GHEST
+[0:01] mhis isihow you actually
+[0:02] Pay
+[0:02] = upper chest fibers
+[0:05] nd your anteri
+[0:06] Nis
+[0:11] mhis science-based
+[0:12] tijend of/sayinghyour
+[0:13] going
+[0:15] shouleariiixar cS
+[0:16] The snoulklarigxoritse
+[0:16] imakelmuch
+[0:18] Injwhat कि would
+[0:18] shoulder'fl xiong)
+[0:24] ५ William)
+[0:25] Well) William here is
+[0:25] “moet
+[0:26] right
+[0:27] Because if what
+[0:27 - 0:28] ne pectoralis major than HPV
+[0:27 - 0:28] Figure 1
+[0:27 - 0:30] 20.00:
+[0:27 - 0:30] है), and type
+[0:28] Becauseiif whatWilliam
+[0:28] saying was
+[0:29] ne pe
+[0:29] jor than
+[0:29] ani
+[0:29] gus
+[0:29] would
+[0:29] seelavery
+[0:29 - 0:30] DSC DSW
+[0:30] 18 pe
+[0:30] )8॥9 major than
+[0:30] Figi
+[0:30] of thi
+[0:30] 910
+[0:30] jation
+[0:30 - 0:32] maid
+[0:31] hia
+[0:31] 48.3 2102
+[0:31] ७.८ of
+[0:31] हैं|
+[0:31] activation just by
+[0:31 - 0:32] IsW DPC DPW DSC DSW
+[0:32] major tna
+[0:32] major
+[0:32] arin
+[0:32] horizontal
+[0:32 - 0:33] ne pe
+[0:33] 9 Major th
+[0:33] soma)
+[0:33] 60.00
+[0:33] 4000
+[0:33] HPC HW HSC
+[0:33] ure 1. ६|
+[0:33] inal
+[0:33] tion) on thi
+[0:33] MG activ
+[0:33] Cie
+[0:34] Figure
+[0:34] 909 (;
+[0:34] we don't
+[0:35] WwW DPC
+[0:35] 1 ad Infact,
+[0:35 - 0:36] an 11 ४४
+[0:35 - 0:36] VV, UF
+[0:35 - 0:36] DPW
+[0:36] WwW
+[0:36] ISw DPC
+[0:37] of activation as)
+[0:37 - 0:38] idth (wide vs clo
+[0:37 - 0:38] vicular head of
+[0:37 - 0:40] lan 11४४, 10४४, UFO,
+[0:37 - 0:40] ISW
+[0:37 - 0:41] Isw DPC DPW
+[0:38] onan
+[0:38 - 0:39] Isc
+[0:38 - 0:40] IPW
+[0:39] compare
+[0:39 - 0:40] IPC
+[0:39 - 0:40] itions
+[0:39 - 0:40] grip width (wide vs clo
+[0:39 - 0:40] pe clavicular head of
+[0:41] an 11४४
+[0:41] VV, WF
+[0:41] onjanjincline
+[0:41] clo
+[0:42] Jes
+[0:42] है. 5
+[0:42] And no
+[0:43] ऋ ला
+[0:43] the front
+[0:43] ्््य्य्य््य
+[0:45] Pectoralis major
+[0:45] Midd}
+[0:45] nus dorsi
+[0:45] = Greiner ot ऑ.
+[0:45 - 0:48] Anterior deltoid
+[0:45 - 0:48] ook
+[0:45 - 0:50] क्र
+[0:46] moment arms (Fig.
+[0:46] . [fhe peak flexor
+[0:46] n anole
+[0:46] pus de
+[0:46] — Ackland et
+[0:46] = Greiner al
+[0:46] is just that the front
+[0:46] —— Een
+[0:46 - 0:47] between 29 and 40 mmi (Fig. 7)
+[0:46 - 0:47] ). Two high-
+[0:46 - 0:47] m increased with flexinn anole
+[0:46 - 0:48] and teres major had thglargest exienser
+[0:46 - 0:48] moment arm of the anterior deltoid was
+[0:46 - 0:48] while another high-quality study showed its
+[0:46 - 0:48] Middle deltoid
+[0:46 - 0:48] © Her
+[0:47] have leverage
+[0:47 - 0:48] moment arms (Fig. 6). |The peak flexor
+[0:48] Denies 29 ‘and 40 m
+[0:48] (Fig. 2). Two high-
+[0:48] Copy
+[0:48] Find Selection
+[0:48] Look Up
+[0:48] val
+[0:48] moment arm increased with flevinn anole
+[0:48] Latission
+[0:48] dorsi
+[0:48] pa PP tila
+[0:48] Ackil
+[0:48] Greme
+[0:48] — Kuecht
+[0:48] Schwarts el
+[0:49] 720
+[0:49] vat
+[0:49] — Ackland etal
+[0:49] Greiner ot al. 201
+[0:49] ७-० Nery
+[0:49] and the upper
+[0:49 - 0:51] Pectoralis major
+[0:49 - 0:51] The flexor moment arm of the pectoralis major
+[0:49 - 0:51] was greatest at 70 ° of flexion (21 mm), while
+[0:49 - 0:51] the extensor moment arm of the latissimus
+[0:49 - 0:51] dorsi peaked at 45 ° of flexion with reported
+[0:49 - 0:51] values of 14 and 40 mm (Kuechle et al. 1997;
+[0:50] values of 14 and 40 mm (Kue
+[0:50] Jtoid
+[0:50] Latissimus dorsi
+[0:50] _ ~ major
+[0:50] द्घ
+[0:50] and the
+[0:50] leveragelag
+[0:50 - 0:51] — Kucchle ot al. 1997
+[0:51] Middle deltoid
+[0:51] dorsi
+[0:51] vet
+[0:51] ook
+[0:51] — Aah
+[0:51] wal
+[0:51] Gremer et a
+[0:51] © Herman et at. 207
+[0:51] range
+[0:51] Schwarts et al
+[0:51] 2013
+[0:51] of motion
+[0:52] your
+[0:53] I hope thatl've

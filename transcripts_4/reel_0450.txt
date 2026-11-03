@@ -1,0 +1,94 @@
+# model: ggml-large-v3
+========================================================================
+[450] https://www.instagram.com/reel/DWZDHhxDEK8/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] you know one of those funniest thing which i'll see in the gym is a lot of people after their
+[0:03 - 0:08] strength training workout they go out to do stretching thinking it's gonna stop their
+[0:08 - 0:14] delayed onset muscle soreness well we have a study now which shows that post-workout stretching
+[0:14 - 0:24] doesn't even affect delayed onset muscle soreness yes if you stretch or not it doesn't matter you're
+[0:24 - 0:28] gonna get the same amount of soreness bro if you're stretching just for flexibility purposes
+[0:28 - 0:31] is good but it is not saving your soreness bro anyways hope that was fun
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] lon
+[0:00] duce
+[0:00] Dossstretoliing:
+[0:00] Rene:
+[0:00] bee
+[0:00] Youll
+[0:00] aoe
+[0:01] pesstretcringsto
+[0:01] ICE)
+[0:01] memess 2
+[0:01] PS ae
+[0:01] yy. s
+[0:01] . पलक
+[0:02] Dass
+[0:02] educ
+[0:02] . TF if
+[0:03] 119
+[0:03] after theirstrength है"
+[0:03 - 0:05] sthetchingstoplonireduce
+[0:04] 17 al
+[0:04] के Z
+[0:04] bss!
+[0:04] au ® workout they go out to 4
+[0:05] OREMESS}
+[0:05] MES
+[0:05] A 14318
+[0:05] _~ they go out to
+[0:05] हैः
+[0:06] का stop
+[0:06] neduce
+[0:06] stretching thinking ~~
+[0:07] UCE)
+[0:07] SS Se
+[0:07 - 0:08] Doesistretchingstop)
+[0:08] <é ४5 goingto stop their
+[0:08] 9 ९७३*
+[0:09] Sthetchingstoplon
+[0:09] MES
+[0:09] 4 DHE
+[0:09] delayed onset muscle
+[0:09 - 0:10] Soreness’
+[0:10] Dossstinetolting st
+[0:10] lon)
+[0:11] J MM ive 2 study now एज,
+[0:12] 179
+[0:12] now Which shows that
+[0:12 - 0:13] MES
+[0:13] A 140६७
+[0:13 - 0:14] workout stretching
+[0:16] ae, even affect
+[0:17] Cad
+[0:17] IMES
+[0:17] 11490
+[0:17] doesn't even affect
+[0:18] celaTeC a
+[0:19] ney
+[0:19] onsetmusclesoreness
+[0:20] 130
+[0:20] क्र yesif
+[0:21] AES
+[0:21] 1909
+[0:21] you stretch or not_
+[0:22] Pee
+[0:22] | 4 wv.
+[0:23] it doesn't matter SUR
+[0:24] maw
+[0:24] 11119
+[0:24] ‘6 goingto get the same
+[0:25] amount of soreness bro
+[0:26] १ 11199
+[0:26] if youare stretching
+[0:26 - 0:29] MES
+[0:27] TIME!
+[0:27] bes
+[0:27] ” 9 well purposes
+[0:28] good
+[0:28 - 0:29] 1119४
+[0:29 - 0:30] saving your shoulders fi a

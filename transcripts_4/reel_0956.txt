@@ -1,0 +1,592 @@
+# model: ggml-large-v3
+========================================================================
+[956] https://www.instagram.com/reel/DGiXswOBVk_/
+STATUS: OK
+DURATION: 1:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Alright, so what is the most optimal training frequency for growth?
+[0:02 - 0:06] Most people think that training a muscle group twice a week is enough for muscle growth.
+[0:06 - 0:10] But what if I told you that training a muscle twice per week might be limiting your gains?
+[0:10 - 0:13] In order for us to understand the optimal training frequency for muscle growth,
+[0:13 - 0:15] we need to understand few things.
+[0:15 - 0:20] We need to understand that we cannot cram all the training volume into one single session
+[0:20 - 0:24] or two single sessions because the first few sets drive the most amount of muscle growth
+[0:24 - 0:27] and the rest cause diminishing returns.
+[0:27 - 0:29] And I don't know why no one seems to talk about this,
+[0:29 - 0:33] but after the 48-hour post-stimulus period, you will experience muscle loss.
+[0:33 - 0:38] If you wait too long to train a muscle group, you will experience muscle loss.
+[0:38 - 0:42] When we look at studies where trained lifters are training in a higher frequency
+[0:42 - 0:46] with low volume training, they experience the most amount of muscle growth.
+[0:46 - 0:47] So what does this mean for you?
+[0:47 - 0:52] It means that you need to get more of these first few sets within the whole week
+[0:52 - 0:55] with adequate recovery so that you can maximize muscle growth.
+[0:55 - 0:57] And how does that look in a training plan?
+[0:57 - 0:59] You have to train.
+[0:59 - 1:03] Every single muscle group, one to four sets per muscle group per session
+[1:03 - 1:06] taken close to momentary muscular failure,
+[1:06 - 1:09] with each session having a 48-hour gap.
+[1:09 - 1:11] But you also have to understand one more thing that
+[1:11 - 1:14] in order for you to have a high-frequency training,
+[1:14 - 1:16] you also have to have low volume as well.
+[1:16 - 1:19] You can read the caption for more information on this.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 13190 Alright, so whatisthe most ga
+[0:00] eae
+[0:00] Muscles ga Nau wait too long
+[0:00] MSAU of
+[0:00] ito
+[0:00] toy.
+[0:00] vill be the
+[0:00 - 0:02] equent
+[0:00 - 0:02] suscle
+[0:00 - 0:06] h session
+[0:00 - 0:06] iccordingly
+[0:00 - 0:10] best
+[0:00 - 0:20] 26 February 2025 at 12:47PM
+[0:00 - 1:18] iia. the optimal training [Mas
+[0:00 - 1:18] Frequency For Muscle
+[0:00 - 1:18] Growth
+[0:01] 1. Firs
+[0:01] cal
+[0:01] to train (after 48hours)
+[0:01] muscle loss per day afte
+[0:01] Which show
+[0:01] Sgiping mor
+[0:01] Yeo
+[0:01] reg
+[0:01] क्र SA
+[0:01] or sessil
+[0:01 - 0:02] Muscle loss occurs if you wait too long
+[0:01 - 0:04] Pasa
+[0:01 - 0:06] i ~ > be the
+[0:02] 1. First few
+[0:02] cause dimi
+[0:02] to train (after,¢°" yrs) -0.48AU of
+[0:02] Whig
+[0:02] iPass
+[0:02] the
+[0:02 - 0:05] cle
+[0:02 - 0:09] sion
+[0:03] Glee Most people think that
+[0:03] | rest
+[0:03] cau
+[0:03] प्र
+[0:03] long
+[0:03] tak
+[0:03] hav
+[0:04] training a muscle group twice
+[0:04] Mus
+[0:04] Vof
+[0:04 - 0:05] toy
+[0:04 - 0:06] 0. wait too long
+[0:05] 1. Firs 1
+[0:05] cal
+[0:05] to te
+[0:05] U of
+[0:05] fuga
+[0:05 - 0:06] > Ment
+[0:06] First few set
+[0:06] growth, rest
+[0:06] Ga scle
+[0:06 - 0:07] cause dit
+[0:07] 1. First f
+[0:07] Muscle loss occurs, ifyou wait too long
+[0:07] ४०७० हु a Wo
+[0:07] musgb -
+[0:07] SSNs
+[0:07 - 0:09] jon
+[0:07 - 0:09] dingly
+[0:08] 1. ना
+[0:08] 2. Muscle lo:
+[0:08] one
+[0:08] wsauait too long
+[0:08] to train
+[0:08] Dae! of
+[0:08] 3. we
+[0:08] a Ss
+[0:08] 3ion
+[0:08 - 0:09] cal
+[0:09] sage week might Belmiing your Ga
+[0:09] it too long
+[0:09] Sant
+[0:09] the
+[0:09] कि ऐज
+[0:10] ii Inorder for us tounderstand #4
+[0:10] muscle loss pi
+[0:10] Which she”
+[0:10] with * a
+[0:10] recov
+[0:10] 1-4 56
+[0:10] takey
+[0:10] havi
+[0:10] to yor
+[0:10 - 0:12] Muscle loss occurs if you wait too long
+[0:10 - 0:12] to train (after 48hours) -0.48AU of
+[0:10 - 0:12] cause &
+[0:11] 2. Muscle loss 0००५
+[0:11] to train (after 4%
+[0:11] muscle jos
+[0:11] 3. Whi ७
+[0:11] be the
+[0:11] a ४ le
+[0:11 - 0:12] or session
+[0:11 - 0:12] iccordingly
+[0:12] Kenai
+[0:12] muscle le > after 48h
+[0:12] So Meee frequent
+[0:12] ghto
+[0:12] 15618
+[0:12] jession
+[0:12] P the
+[0:12] ‘ihe
+[0:13] डी मर 4
+[0:13] imag frequency for muscle growth, Ba
+[0:13] 2. Mus
+[0:13 - 0:14] a long
+[0:13 - 0:14] jion
+[0:13 - 0:14] ingly
+[0:13 - 0:15] toy
+[0:13 - 0:15] best
+[0:14] ior
+[0:14] Firs
+[0:14] cal
+[0:14] Muse!
+[0:14] 1018
+[0:14] OA ot
+[0:14] dae
+[0:14] b is
+[0:15] 1. First few sets drive most growth, rest
+[0:15] cause diminii
+[0:15] ays
+[0:15] 2. Muscle” ~ A Quiait too long
+[0:15] to fi
+[0:15] Ss BAU of
+[0:15] कु 3
+[0:15] > oe iuscle
+[0:15] कफ छा,
+[0:15 - 0:17] ॥ be the
+[0:15 - 0:20] Session
+[0:15 - 0:20] cordingly
+[0:16] ete
+[0:16] jes
+[0:16] We need to ea thatwe 33
+[0:16] A8AU of
+[0:16] 310
+[0:16] juscle
+[0:16] vill be the
+[0:16 - 0:18] a" wait too long
+[0:16 - 0:18] equent
+[0:17] cal
+[0:17] cle
+[0:17 - 0:18] Sage cannot cram all the training cag
+[0:17 - 0:27] ~ > long
+[0:18] rae
+[0:18] iscle
+[0:18] ॥ 06 the
+[0:19] 1. First OTT
+[0:19] 0 one single
+[0:19] 2. 10
+[0:19] हैं,
+[0:19] ‘the
+[0:19 - 0:21] cause.
+[0:19 - 0:21] Jong
+[0:19 - 0:23] ag rest
+[0:20] 1. First fe aa ortwo single 0
+[0:20] 2. Mi
+[0:20] pat
+[0:20] toy
+[0:20] bes
+[0:20 - 0:21] 4५ कार
+[0:20 - 0:21] banal
+[0:20 - 0:38] ‘sion
+[0:21] 1. सा
+[0:21] ions because the fi
+[0:21] 2. Mug
+[0:21 - 0:24] 2025 at 12:47PM
+[0:21 - 0:25] 26 Februar
+[0:21 - 0:25] rdingly
+[0:22] 1300 sessions because the first [ey
+[0:22] que
+[0:23] iPagioe fewsets drive the most
+[0:23] the
+[0:23 - 0:24] Ba ais
+[0:24] ७0100
+[0:24] 47 PI
+[0:24] i] amount of muscle growth and |
+[0:24] Reteorek aul
+[0:24 - 0:32] iscordingly
+[0:24 - 0:32] ‘ll be the
+[0:25] 47 PM
+[0:25 - 0:26] the rest cause aiminishing rest
+[0:25 - 0:27] eer
+[0:25 - 0:27] 1. Firs
+[0:26] © ynait too long
+[0:26] SAU of
+[0:26] tok
+[0:26] equent
+[0:26] ito
+[0:26] uscle
+[0:26 - 0:29] sical
+[0:26 - 0:33] 26 February 2025 at 12:47PM
+[0:27] 2. My
+[0:27] हच०ज &
+[0:27] hat
+[0:27 - 0:29] cal
+[0:27 - 0:29] to ye
+[0:27 - 0:30] cle
+[0:28] 2. Wn
+[0:28] at long
+[0:28] Fission
+[0:28 - 0:29] 1. Firs वि to talk aboutthis but Gea
+[0:29] rer
+[0:29] Musck
+[0:29] tal
+[0:29] ‘dingly
+[0:29] =the
+[0:30] की समन
+[0:30] 1. First anes 48 pour post
+[0:30 - 0:33] rest
+[0:30 - 0:34] 5) long
+[0:30 - 0:38] cause लो
+[0:31] SAU of
+[0:31] whe
+[0:31] ६ है
+[0:31] quent
+[0:31] session
+[0:31] ill be the
+[0:31] हे ०० का
+[0:31 - 0:33] 5 आफ
+[0:31 - 0:33] 1. First
+[0:31 - 0:33] quscle
+[0:31 - 0:35] ‘git too long
+[0:32] 1. शाञ stimulus period you will
+[0:32] 2. Musg!
+[0:32] क्र
+[0:32] bia
+[0:32] toy
+[0:32] bes
+[0:33] jon
+[0:33] dingly
+[0:33 - 0:35] =the
+[0:34] 26 Februa
+[0:34] 2025 at 1
+[0:34] 1. First few sets drive most growth, rest
+[0:34] 5००
+[0:34] लत है
+[0:34 - 0:37] 2:47 PM.
+[0:35] fie, Youif youwait too long to fee
+[0:35] U of
+[0:35] ent
+[0:35 - 0:37] 26 February 2025
+[0:36] 26 February 2025 at 12:47PM
+[0:36] Fit
+[0:36] cal
+[0:36] pan amuscle group you will
+[0:36] by कर
+[0:36 - 0:37] 2. Muscl
+[0:36 - 0:37] ‘Stoo long
+[0:36 - 0:37] क्र;
+[0:36 - 0:37] bes
+[0:36 - 0:39] जाई
+[0:36 - 0:39] dingly
+[0:37] 1. First
+[0:37] toys
+[0:37] wey
+[0:37 - 0:38] rest
+[0:37 - 0:39] jon
+[0:38] First JOG)
+[0:38] ence muscle lo:
+[0:38] कक sit (0०1०७
+[0:38] ८22
+[0:38 - 0:39] 26 Februar
+[0:38 - 0:39] 2025 at 12:47PM
+[0:39] 2. Muscle loss,o# Pe woit too long
+[0:39] to trol
+[0:39] AAU of
+[0:39] vent
+[0:39] the
+[0:39 - 0:44] ession
+[0:40] eee
+[0:40] ge trained
+[0:40] (७ ८224
+[0:40] ssi you wait too long
+[0:40] ea है
+[0:40] 7 *0.48AU of
+[0:40] Sip >पपशा
+[0:40] oy ४ जड़
+[0:40] rdingly
+[0:40 - 0:42] cal
+[0:40 - 0:42] muscle
+[0:40 - 0:44] 26 February 2025 at 12:47PM
+[0:41] ahighet
+[0:41] quency with [eae
+[0:41] हैं
+[0:41] to train (after
+[0:41] 3) -O.48AU of
+[0:41] after 48h
+[0:41 - 0:42] nore frequent
+[0:41 - 0:42] ugh to
+[0:41 - 0:43] 2. Muscle loss occursiif you wait too long
+[0:41 - 0:44] 1. First
+[0:42] to train, /0०७०80205) -0.48AU of
+[0:42] SS: 48h
+[0:42] ions,
+[0:42] per session
+[0:42] ch session
+[0:42] will be the
+[0:42 - 0:57] ed accordingly
+[0:43] caus
+[0:43] 10 0०7०७
+[0:43] जल ABAU of
+[0:43] mug
+[0:43 - 0:44] ~ quent
+[0:43 - 0:44] the
+[0:44] ००५ ते
+[0:44] 2. Muscle loss
+[0:44] i wait too long
+[0:44] Py a
+[0:44] 900०
+[0:44] sat
+[0:44 - 0:48] eee
+[0:45] Bion
+[0:45] having a 48h 0
+[0:45] to your re
+[0:45] | be the
+[0:45] best,
+[0:45 - 0:46] 26 Februa
+[0:45 - 0:46] 2025 at 1
+[0:45 - 0:46] 47 PM
+[0:45 - 0:46] SMiie amount of muscle growth. [eat
+[0:45 - 0:46] que
+[0:45 - 0:46] long
+[0:46] ingly
+[0:47] 10 Sowhat does this mean for faa
+[0:47] cal
+[0:47] the
+[0:47 - 0:48] BAU of
+[0:47 - 0:49] banal
+[0:47 - 0:49] Pa W Peuwait too long
+[0:47 - 0:57] 26 February 2025 at 12:47PM
+[0:47 - 0:57] ssions,
+[0:48] 1. Fi
+[0:48] Itmeansthat youneed to get ३
+[0:48] श्र जज a too long
+[0:48] og है
+[0:48] yee
+[0:48] quent
+[0:48] into
+[0:48] ons,
+[0:48 - 0:50] ity will be the
+[0:48 - 0:51] er session
+[0:48 - 0:57] muscle
+[0:49] O.48AU of
+[0:49] Py rv)
+[0:49] 48h
+[0:49] sugh to
+[0:49] each session
+[0:49] 120 00०००
+[0:49] ifs
+[0:49] blll
+[0:49 - 0:50] e frequent
+[0:50] wait too long
+[0:50] A8AU of
+[0:50] Yoon
+[0:50] igh to
+[0:50] हु [1501९
+[0:51] ions
+[0:51] cay
+[0:51] 3 छू
+[0:51] 4 of
+[0:51] है 2 be the
+[0:51 - 0:52] 1. Firs
+[0:51 - 0:52] within the whole week with (aa
+[0:51 - 0:53] too long
+[0:51 - 0:55] ~juent
+[0:52] cal
+[0:52] ws be the
+[0:52 - 0:53] U of
+[0:53] Sepsis recovery so that you
+[0:53 - 0:56] y will be the
+[0:54] adequate recovery “ that you
+[0:54] qui
+[0:54] क्र to
+[0:54] ses:
+[0:54] d 9060०
+[0:54 - 0:56] ons,
+[0:55] 1. Fir PMI eta st
+[0:55] ote
+[0:55] kK long
+[0:55] has
+[0:55] ¢ = &e iscle
+[0:55 - 0:57] pal
+[0:55 - 0:58] 333;
+[0:56] and how does act lookina (a3
+[0:56] tou wait too long
+[0:56] कै .48au of
+[0:56] wy ४.
+[0:56] ish
+[0:56] rok
+[0:56] frequent
+[0:56] jhto
+[0:56 - 0:59] किक
+[0:56 - 1:00] 1. First
+[0:57] 1. First fer
+[0:57] ig pla
+[0:57] rowth, rest
+[0:57] 2. Mug
+[0:57] it too long
+[0:57] “AU of
+[0:57] > sent
+[0:57] ॥ be the
+[0:57 - 0:59] caus
+[0:58] 26 #९७/७०
+[0:58] cause ents
+[0:58] Muscie 4
+[0:58] to tre
+[0:58] fre
+[0:58] gro
+[0:58] tal
+[0:58 - 0:59] 2025 at 12:47PM
+[0:58 - 0:59] bes’
+[0:59] 26 Februai
+[0:59] | Fest
+[0:59] 2. Muse}
+[0:59] tao long
+[0:59 - 1:00] ingly
+[1:00] Muscle logge
+[1:00] ०० long
+[1:00] to traigal
+[1:00] hot
+[1:00] oe nN
+[1:00 - 1:02] cal
+[1:00 - 1:18] 26 February 2025 at 12:47PM
+[1:01] 1-4 set/per muscle group/ per session
+[1:01] ach session
+[1:01] having ० 48iyae
+[1:01] gccordingly
+[1:01] best be ’ uit
+[1:01] a te
+[1:01 - 1:02] Fit
+[1:01 - 1:03] to your reg +
+[1:01 - 1:05] taken close to mmf will
+[1:01 - 1:08] muscle loss per day after 48h
+[1:01 - 1:08] Which shows Training more frequent
+[1:01 - 1:08] with adequate volume enaugh to
+[1:01 - 1:08] recover from the given sessions,
+[1:01 - 1:08] causes the most amount of muscle
+[1:01 - 1:13] to train (after 48hours) -0.48AU of
+[1:01 - 1:16] 2. Muscle loss occurs if you wait too long
+[1:02] sion
+[1:02] best | Pi FN "३
+[1:02] Ses
+[1:02 - 1:03] having ० 4७७
+[1:02 - 1:05] 1-4 set/per muscle grou
+[1:03 - 1:04] cau!
+[1:03 - 1:04] othe
+[1:03 - 1:07] 1. Firs}
+[1:04] with each session
+[1:04] .d accordingly
+[1:04] to youl
+[1:04] ri ais)
+[1:04 - 1:05] bes’
+[1:04 - 1:06] taken close to
+[1:04 - 1:06] having age S
+[1:04 - 1:08] 1-4 set/per muscle group/ per session
+[1:05] session
+[1:05] jon
+[1:05] to yous a
+[1:06] each =~
+[1:06] d gecording|
+[1:06] to Pg
+[1:06] pp Shee the
+[1:06] 353.
+[1:06 - 1:11] cal
+[1:07] best bet for muse लक
+[1:07] ही > yy
+[1:07 - 1:08] taken close to mmf with each session
+[1:07 - 1:08] having ० 48h gap, adjusted accordingly
+[1:07 - 1:08] to your recover scapacity will be the
+[1:08] साञ ७७ 5५120! हि 0001, 105:
+[1:08] ith,
+[1:08 - 1:09] cause dimi
+[1:08 - 1:10] best he
+[1:09] 1. First few #5 Mae eymprowth, rest
+[1:09] muscle oe
+[1:09] elny after 48h
+[1:09] Which shill”
+[1:09] frequent
+[1:09] a to
+[1:09] rec
+[1:09] with of" = sy
+[1:09] gre
+[1:09] taj
+[1:09 - 1:10] pe the
+[1:09 - 1:18] nuscle
+[1:09 - 1:18] er session
+[1:09 - 1:18] d accordingly
+[1:10] 13001 But youalsohave to ॥
+[1:10] cause &
+[1:10] Muscle loss 0;
+[1:10] igyou weit too long
+[1:10] to ae
+[1:10] sion
+[1:10] tal
+[1:10] to ye
+[1:11] sage understand one more thing Gag
+[1:11] cae a
+[1:11] Nor 48h
+[1:11] 96४
+[1:11 - 1:12] ॥०९ the
+[1:12] 1. Fi
+[1:12] calsedt
+[1:12] to train (after
+[1:12] urs) -0.48AU of
+[1:12] wale.
+[1:12 - 1:14] best
+[1:12 - 1:16] muscl:
+[1:13] wie
+[1:13] << 48h
+[1:13] » frequent
+[1:13 - 1:14] 1] a high frequency trai
+[1:13 - 1:14] Al be the
+[1:14] to ०
+[1:14] ४.9 Wi).-0.48AU of
+[1:14] प्र
+[1:15] 1. Fi
+[1:15] calsett
+[1:15] to train ae
+[1:15] A8AU of
+[1:15] Whig”
+[1:15] ent
+[1:15] wil
+[1:15] gro
+[1:15] tal
+[1:15] jon
+[1:15 - 1:16] Ithe
+[1:15 - 1:16] best be
+[1:16] धारक,
+[1:16] 1. First few set:
+[1:16] ६००५०: |
+[1:16] t growth, rest
+[1:16] cause dimini:
+[1:16] to a (a
+[1:16] छा 9०५8/००
+[1:16] gre
+[1:16] hat
+[1:16 - 1:18] sion
+[1:17] cS ay
+[1:17] 41850 ०
+[1:17] a wile
+[1:17] frequent
+[1:17] ghto
+[1:17] ‘ons,
+[1:17] will be the
+[1:17 - 1:18] wait too long
+[1:18] 1. Firs| mere information on this. [eas
+[1:18] cau!
+[1:18] U of
+[1:18] uent
+[1:18] be the

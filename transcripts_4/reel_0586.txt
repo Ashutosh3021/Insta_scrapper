@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[586] https://www.instagram.com/reel/DTS3LscjHDZ/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] It's the only thing we know how to do
+[0:02 - 0:05] Work hard, play hard, work hard, play hard
+[0:05 - 0:09] We work hard, play hard, keep partying like it's your job
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] eed
+[0:00] Laan fis tire!
+[0:01] Leen fis finclacye)
+[0:05] Law |
+[0:06] फ्ज्ज्णााछ
+[0:08] aru =

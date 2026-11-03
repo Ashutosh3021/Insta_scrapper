@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[651] https://www.instagram.com/reel/DRb9C-nE-DW/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] We're taking over, no one's getting out
+[0:05 - 0:07] This place about to blow
+[0:07 - 0:11] Blow
+[0:11 - 0:14] This place about to blow
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Just so you
+[0:01] 0 you, apo
+[0:01] ८21 हैं;
+[0:02] donit
+[0:02] ave
+[0:02] 08101 47
+[0:02] iam
+[0:02 - 0:04] on'pecitl
+[0:02 - 0:06] g aia’ arms behindlyour body)
+[0:03] URarms:
+[0:03] At Te
+[0:03] c= al
+[0:04] जज al
+[0:04 - 0:06] donitinave’
+[0:05] etyo
+[0:06] n'pecitlys
+[0:06] / हुए
+[0:07] apy
+[0:07 - 0:09] _—stretel
+[0:07 - 0:09] diated adaptions =
+[0:07 - 0:10] Ifiyou do your presses right =
+[0:07 - 0:10] they:ane enough to
+[0:07 - 0:10] maintain pec
+[0:08] abe
+[0:08 - 0:10] —stretéh mediated adaptions “=
+[0:09] ari
+[0:09] A आए
+[0:11] Anmstbyyour/sideworks
+[0:11] fine
+[0:11 - 0:13] ‘ompletely fi
+[0:12] works
+[0:12 - 0:13] Armsiby your)
+[0:13] ink

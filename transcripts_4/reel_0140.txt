@@ -1,0 +1,101 @@
+# model: ggml-large-v3
+========================================================================
+[140] https://www.instagram.com/reel/Dc36B31ssIB/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] one of the meals which i love eating during my fat loss phase is gotta be this one this is
+[0:06 - 0:11] basically greek yogurt with some berries and a little bit of honey on top of it and that's it
+[0:11 - 0:17] berries are pretty much low in calories so kind of just does the job i get my cravings part done
+[0:17 - 0:22] i get my meals in i get my protein and pretty much nice anyways if you guys want to try this
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] > New
+[0:00] 907 ४
+[0:00] > Nad
+[0:00] Di २5०
+[0:00 - 0:01] (Lass
+[0:01] Lin
+[0:01] than 400
+[0:03] >वआफस्‍फपि-__
+[0:04] क्र
+[0:04] ele te
+[0:04] pote
+[0:05] Recor
+[0:05] + कक के 4
+[0:06] a “१९
+[0:06] ग्रे
+[0:06] ogy
+[0:07] wait
+[0:07] S54
+[0:08] Sy २
+[0:08] a ey
+[0:08] her
+[0:08] tha
+[0:09] aes
+[0:09] 0 2३
+[0:09] * मी ७.
+[0:09] Wee
+[0:10] = Peep
+[0:10] ५ ६-७)
+[0:11] है ip
+[0:11] pul
+[0:12] 80 Fag P29
+[0:12] Pid
+[0:12] Pa हु
+[0:12] dite, dam
+[0:12 - 0:14] Zz 3
+[0:12 - 0:14] 238
+[0:12 - 0:14] Milky Mist Skyr » 250 gram
+[0:12 - 0:14] 10g
+[0:12 - 0:14] 80 gram(s)
+[0:12 - 0:14] 709
+[0:12 - 0:14] 100 gram
+[0:12 - 0:15] 385 cal
+[0:12 - 0:15] Skyr
+[0:12 - 0:15] Honey ७
+[0:12 - 0:15] Blueberry ७
+[0:12 - 0:15] Strawberry @
+[0:13] 809 F4g P 20g
+[0:13] SR i
+[0:13 - 0:15] Meal 3
+[0:13 - 0:15] Raspberries ©
+[0:14] 809 Fg 92०५
+[0:15] Og F
+[0:15] Mil
+[0:15] 80 gran
+[0:15] 100
+[0:15] gram
+[0:15] श्र
+[0:15] ot tee
+[0:15] Serer sear
+[0:15] SEC:
+[0:15] Earns
+[0:15] roe
+[0:16] wee
+[0:16] +e eet
+[0:16] ores ae
+[0:16] Try
+[0:17] a ga
+[0:17] ५ Py
+[0:17] ४६ 1५
+[0:17] ध््य्
+[0:17] 32. ४
+[0:17] 401 Wht
+[0:17] tre
+[0:18] Shi
+[0:18] moe
+[0:18] ६ के
+[0:18] ein
+[0:18] TNs ah
+[0:18] bir
+[0:19] 1-51
+[0:19] + कक कक
+[0:19] ate
+[0:19] Faroe
+[0:20] Morsrarars
+[0:20] b Yi
+[0:22] aay
+[0:22] ४ sites

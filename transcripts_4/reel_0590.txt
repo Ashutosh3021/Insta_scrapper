@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[590] https://www.instagram.com/reel/DTN50TxDEk9/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] He'll be back when he hears it.
+[0:03 - 0:06] My heart goes sha-la-la-la-la.
+[0:06 - 0:10] Sha-la-la in the morning.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ‘hes
+[0:00] Idk
+[0:00] ia tohear this ~
+[0:00] LAN
+[0:00] eet
+[0:01] 5७ ff
+[0:01] my sy
+[0:01] san
+[0:01] eee
+[0:01 - 0:02] “| हैं
+[0:02] Sets
+[0:02] क्लिक
+[0:03] te ७
+[0:03] BP 53 4
+[0:03] This
+[0:03] rey iv you pe
+[0:03] forma, =
+[0:03] ira’
+[0:03 - 0:07] wide grip pull-down: + . 7
+[0:04] हे. 0
+[0:05] Lig
+[0:05 - 0:06] his is not how you pegiorma, — a
+[0:06] A he
+[0:07] i la
+[0:07] allege
+[0:08] 5 heey
+[0:08] Fro
+[0:08] italip lane wie
+[0:08] 1 ed
+[0:09] ail
+[0:09] Frat
+[0:09] < 5७ 3
+[0:09 - 0:10] ane please Y
+[0:10] ronal pl
+[0:10] ea ०
+[0:11] है, ets
+[0:11] ntalp lane a
+[0:11] ener
+[0:11] को 2 ~
+[0:12] Ai, eh
+[0:12] le a)
+[0:12] are
+[0:12] a plea
+[0:12] ital
+[0:12] =a er

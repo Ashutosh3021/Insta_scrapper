@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[433] https://www.instagram.com/reel/DWtL94UjH9F/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I know this pretty
+[0:02 - 0:04] girl. I wish you could have seen
+[0:04 - 0:06] her. I know she got some
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ded
+[0:00] fing
+[0:00] हैः
+[0:00 - 0:01] हिल you know
+[0:01] SS letting
+[0:02] कु ॥ [1
+[0:02] justdrinking more water
+[0:03] Hydra
+[0:03] loesn't किन
+[0:03] jusedrinking mone 08.
+[0:04] है i
+[0:04] electrolytesias well
+[0:04] सता
+[0:05] lam
+[0:05] urelectrolyi
+[0:05] aswell
+[0:05] "hig
+[0:05] hae

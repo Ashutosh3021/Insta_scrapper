@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[9] https://www.instagram.com/reel/DfAYfpNuErP/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] let's just say for example you have two sets to perform for a given exercise if you're gonna be
+[0:05 - 0:14] training anywhere remotely close to zero rir on your first working set and second set you get the
+[0:14 - 0:19] same reps my answer to you is probably that your first set was not zero rir
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Very hard”?
+[0:00 - 0:04] Are youlreally.
+[0:01] > gateader”
+[0:01] 5६ 5;
+[0:02] “Traininghard?? शक
+[0:02] Naf
+[0:02] a ae
+[0:02] Sneak
+[0:02] mr Ore
+[0:03] sets:
+[0:03] [०77
+[0:03 - 0:04] yr hard”? आल
+[0:04] HAS oS
+[0:04] Sr पाक
+[0:05] aie
+[0:05] PF are goin
+[0:06] Gina
+[0:06] wih (x
+[0:06] Ps fh
+[0:06] Ore:
+[0:07] ery
+[0:07 - 0:08] Giese
+[0:08] wee"
+[0:08] किक. ae
+[0:09] Sesser
+[0:09] Li 1.
+[0:10] Ame
+[0:10 - 0:12] wus 1-8 reps ७ 10068
+[0:10 - 0:13] Ps ‘working,
+[0:11] Loe
+[0:12] Noy.
+[0:13] iy 8 reps ७100 6888
+[0:13] Ni Uf
+[0:13] ei (7
+[0:13] Ss Z
+[0:14] iy 8repsG बा
+[0:14] 4722S
+[0:16] Lad a
+[0:16] ५ के
+[0:16] 5225
+[0:18] ली २6
+[0:18] PF — के ELH ०--

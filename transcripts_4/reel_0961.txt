@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[961] https://www.instagram.com/reel/DGX_sEEhQsl/
+STATUS: OK
+DURATION: 0:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] A funniest thing just happened to me, I was just going back home from doing cardio and
+[0:06 - 0:10] I was in an auto rickshaw because I was tired so I couldn't walk back home.
+[0:10 - 0:16] So the auto rickshaw guy was talking to me and in the end, while I was getting home,
+[0:16 - 0:22] he was like, "Do you take steroids?"
+[0:22 - 0:29] And I was like, "No, no, no, not at all, I don't take any of that" and he's like, "Yeah,
+[0:29 - 0:32] yeah, don't take any of that, it's bad."
+[0:32 - 0:35] But yeah, that's what I wanted to talk about.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:03] happened to me! | ४४४ just
+[0:04] going back home from doing |
+[0:05 - 0:06] cardio and ||wasinanauto
+[0:08] straightso| couldn't walk
+[0:09] (प्र
+[0:09 - 0:11] back home sol the auto while
+[0:10] क्री
+[0:10] 24 EY
+[0:12 - 0:14] Iwas talking to me and in
+[0:13] ३७५
+[0:15] he end like while | was
+[0:16] aie
+[0:16] getting steroids | was like
+[0:17] ‘aff *
+[0:19 - 0:21] getting steroids | was like
+[0:23 - 0:24] ' ४ i getting steroids Iwas like
+[0:25] st #8
+[0:25] rid
+[0:27] | ioe
+[0:28] क्षण
+[0:29] el J
+[0:30 - 0:31] re 7 Jesus bad but yeah that's
+[0:31] डरा
+[0:33] i oo ia bad but yeah that's
+[0:34] क्र
+[0:34] i छह that's what! wanted to talk
+[0:35] aot
+[0:35] te 3
+[0:35] Som |
+[0:35] are

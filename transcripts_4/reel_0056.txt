@@ -1,0 +1,65 @@
+# model: ggml-large-v3
+========================================================================
+[56] https://www.instagram.com/reel/DeUxK_EsJ8T/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] For it, for it, yeah
+[0:03 - 0:07] Breathe me in, breathe me out
+[0:07 - 0:09] The music's got me going
+[0:09 - 0:12] Breathe me in, breathe me out
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ast
+[0:00] My current favouritey =
+[0:00] iigiceplexercis
+[0:01] Aint
+[0:01] hk he
+[0:01] My_cur
+[0:01] GIG
+[0:01] eprexercise
+[0:02] a am
+[0:02] aa) an
+[0:02] favourite
+[0:02] Winks
+[0:02] x yp
+[0:03] pullover
+[0:03] Ue xt
+[0:03] \ sha Re
+[0:03] re <Q
+[0:03] कुक
+[0:03 - 0:06] Db pullover / top half machine
+[0:04] Pla ha
+[0:04] eg ead
+[0:04] wie
+[0:04] yes
+[0:04] ४३ a
+[0:05] a iD
+[0:05] 40 ९
+[0:06] ० व हल
+[0:06] Dye:
+[0:06] VEX
+[0:07] ullo
+[0:07] Weral_to
+[0:07] halfmachine
+[0:07] ae ५
+[0:07 - 0:11] ullover-==:
+[0:08] jac
+[0:08] Db)p
+[0:08] lee,
+[0:08] Los 22 के
+[0:08] a ee
+[0:09] [DJ ०)
+[0:09] llovera/‘top hal
+[0:10] half,
+[0:10] Dbipullover//top
+[0:10] ben)
+[0:10] क्र A
+[0:10] श्र
+[0:10 - 0:11] achine ~
+[0:11] 9000॥०४९॥//७७४४७४॥ए
+[0:11] | css KA
+[0:11] wal
+[0:11] हैं

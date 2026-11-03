@@ -1,0 +1,1077 @@
+# model: ggml-large-v3
+========================================================================
+[794] https://www.instagram.com/reel/DNI6gVlutD1/
+STATUS: OK
+DURATION: 2:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] 🎵
+[0:12 - 0:12] 🎵
+[0:12 - 0:30] You know where I don't belong
+[0:30 - 0:32] Yeah, there's nothing new to me
+[0:32 - 0:37] I get tired and I get sick
+[0:37 - 0:40] And then I lose the strength to leave
+[0:40 - 0:41] 🎵
+[0:41 - 0:44] I can't end the change
+[0:44 - 0:48] I can't end the change
+[0:48 - 0:52] Nothing I do is ever good
+[0:52 - 0:56] Nothing I do is ever good enough
+[0:56 - 1:00] Nothing I do is ever good
+[1:00 - 1:07] Nothing I do is ever good
+[1:07 - 1:11] Nothing I do is ever good enough
+[1:11 - 1:11] 🎵
+[1:11 - 1:14] Nothing I do is ever good enough
+[1:14 - 1:18] Nothing I do is ever good enough
+[1:18 - 1:22] Leave me alone
+[1:22 - 1:24] Leave me alone
+[1:24 - 1:31] 🎵
+[1:31 - 1:35] Leave me alone
+[1:35 - 1:37] Leave me alone
+[1:37 - 1:41] 🎵
+[1:41 - 1:51] I can't help but repeat myself
+[1:51 - 1:54] I know it's not your fault
+[1:54 - 1:58] Still lately I begin to shake
+[1:58 - 2:02] For no reason at all
+[2:02 - 2:05] 🎵
+[2:05 - 2:11] For no reason at all
+[2:11 - 2:20] For no reason at all
+[2:20 - 2:28] For no reason at all
+[2:28 - 2:35] For no reason at all
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 8 acl S| as,
+[0:00] 13) S—
+[0:00] WWeaus
+[0:00] ot a
+[0:00 - 0:01] uscle growth?!
+[0:01] a fess re
+[0:01] caus.
+[0:01] ९ 0०
+[0:01] vat a
+[0:02] ss TS
+[0:02] rus
+[0:02] clegrowt
+[0:02] rat ah
+[0:03] TgisSto
+[0:03] olites) int
+[0:03] hid:
+[0:03 - 0:04] pa Stress’
+[0:03 - 0:05] oducts, suchias
+[0:03 - 0:09] hefaccumulation
+[0:03 - 0:09] IdUp.of'chemical}
+[0:03 - 0:10] hydrogen ions, lactate;
+[0:03 - 0:10] inorganic:phosphate, ह
+[0:03 - 0:10] andiether, byproducts if
+[0:04] , a प्र
+[0:04] fers}tosthefaccumulation
+[0:04] abolit
+[0:04] int NUS
+[0:04] fas,
+[0:04] lhydrogeniions, lactate,
+[0:05] ‘tabolic:stress'
+[0:05] 831
+[0:05] abo
+[0:05] Chemical}
+[0:05] ithe)
+[0:05] dup.
+[0:05] SUC
+[0:05] ang
+[0:05] Ine
+[0:06] irefersht
+[0:06] ofsm
+[0:06] ts suchas:
+[0:06 - 0:07] letabolicist
+[0:06 - 0:09] abolites wih
+[0:07] / mee
+[0:07] ers
+[0:07] moti
+[0:07] | 1 Ue
+[0:07] 0900615 $०९॥॥७५
+[0:08] > a ५८
+[0:08] inefersjtosthefaccUmulation}
+[0:08] -_ OMMAZL TES wi
+[0:08] ॥90॥७७|०/0७॥६11९3॥
+[0:08] products 5०९७5
+[0:08 - 0:10] cit stress’
+[0:09] irefersit
+[0:09] ill
+[0:09] lhydrogenjions, lactate)
+[0:09] gacictne, byproducts7,
+[0:09 - 0:10] ‘ofa
+[0:09 - 0:10] oducts such’as
+[0:10] rae
+[0:10] gis hefaccumulation
+[0:10] labolitesjv| inh
+[0:10] iCall
+[0:10] Idup/ofich
+[0:10] had:
+[0:11] ६८६
+[0:11] ast
+[0:11] ies
+[0:11 - 0:13] 33२85
+[0:11 - 0:19] , This build up during
+[0:11 - 0:19] jintense or prolonged
+[0:11 - 0:19] क्र ५ muscle acti
+[0:11 - 0:19] contributes top peripheral
+[0:11 - 0:19] calcium ion release and
+[0:11 - 0:19] fatigue) Sby impairing
+[0:11 - 0:19] cross bridge formation
+[0:11 - 0:19] which leads to the slowing
+[0:11 - 0:27] muscl lejcontractions as
+[0:12] EEE
+[0:12 - 0:13] ७७२४
+[0:13] CEE
+[0:13] श्र
+[0:13] क्र to peripheral
+[0:14] 203५०
+[0:14] ०5०
+[0:14] 2२:85
+[0:14 - 0:17] ged,
+[0:14 - 0:19] ies
+[0:15] sai
+[0:15] nee
+[0:15] le acti
+[0:16] TERE
+[0:16] tense or prol
+[0:17 - 0:19] Fea
+[0:18] ces
+[0:18] att
+[0:18] एजांजा ।8७8७90० the slowing
+[0:19] oat
+[0:20] Car ला बह
+[0:20] _ the: Set
+[0:20] reticulumjwhich impacts
+[0:20] all
+[0:20] S.for muscle ई
+[0:20] es i
+[0:20] —aS es
+[0:20 - 0:21] calcium ony felease olen
+[0:20 - 0:21] alcium) mjions
+[0:20 - 0:28] ic: phosphate’
+[0:20 - 0:28] है buildup.interferes with,
+[0:20 - 0:43] contractions to occur Ss o
+[0:21] (० ७ ००- Fe @
+[0:21] असल की
+[0:21 - 0:25] __ ther anh aa
+[0:21 - 0:27] callowsyfor ifor muscle
+[0:21 - 0:28] reticulum\whi
+[0:21 - 0:28] impacts
+[0:22] ARE
+[0:22] Sage ions
+[0:22 - 0:24] Ino!
+[0:22 - 0:27] calcium) lon fe lease}from
+[0:23] पिला ions
+[0:23] _— नललल्ाा॒ाा
+[0:24] ae eee
+[0:24] ic es
+[0:24] __ they na sarcoplasmic \.
+[0:24] &_sreticulumiwhich impacts
+[0:24] allows 01105
+[0:24] cleN
+[0:24 - 0:25] i, alciumiic ions
+[0:25] lup.interfer
+[0:25] swith,
+[0:25] 222
+[0:26] calcium
+[0:26] lon ielease) from,
+[0:26] __ thet hiatal
+[0:26] sae
+[0:26] ions
+[0:27] Ino
+[0:27] है buildup.interferes wi
+[0:27] __ they vpn
+[0:27] sale ions
+[0:27 - 0:28] eS — al
+[0:28] calcium lon) ielease) 2.
+[0:28] __ thet anh
+[0:28] muscle 2 contac
+[0:28] lonsjas
+[0:28] iciumiions &
+[0:28] -allowsfornm
+[0:28] iscle’
+[0:29] (imines
+[0:29 - 0:30] eae
+[0:29 - 0:30] the release of caleiumjions=_|
+[0:29 - 0:35] further reducing) imuUscle \\
+[0:29 - 0:36] fatigue via. afferent rent
+[0:29 - 0:39] file] up|
+[0:29 - 0:39] 1g, it
+[0:29 - 0:39] PH levels it;causes that,
+[0:29 - 0:40] the muscle cell mal
+[0:29 - 0:43] \Hydrogen‘ion|
+[0:29 - 0:43] decreases the pHilevels'in.
+[0:29 - 0:43] morejacidic whichjinhibit:
+[0:29 - 0:43] contributes to! Ipetipheral
+[0:29 - 0:43] > feedback as\with'lower
+[0:29 - 0:43] burning iféeling during
+[0:29 - 0:43] exercise.
+[0:30] पदक कर: "7 हा का काका
+[0:30] है| contractionsjanel |]
+[0:30] contributes to! yascialisy jpheral
+[0:31] ifatigue via
+[0:31] sheet
+[0:31] burnii
+[0:31] feeling during
+[0:31 - 0:37] ॥1॥ 0115:
+[0:31 - 0:41] the release of calcium
+[0:32] ==eneREIeo!
+[0:32] व्यू,
+[0:32] ng it
+[0:32] contributes to!
+[0:32] poesia
+[0:34] 'डयॉमानरिानार:-लक्ाक।
+[0:34] the release of calciumiions
+[0:34] ifatigue via
+[0:34] aligrent
+[0:35] pes
+[0:35] Inte} it
+[0:36] peSptg
+[0:36] MIions =} |
+[0:36] wis
+[0:36 - 0:37] further redu
+[0:36 - 0:37] igimuUscl
+[0:37] oe ae
+[0:37] ig it;
+[0:37 - 0:41] ifatigue via
+[0:38] lecreases th
+[0:38] pHilevel:
+[0:38] abi
+[0:38] cle
+[0:38] ition
+[0:38 - 0:39] ॥1॥0115-1 |
+[0:38 - 0:43] further reducing|mus«
+[0:39] ~tal
+[0:39] ape
+[0:39] contributes to! poe
+[0:39] fatigue via, afferent’
+[0:40] 1107
+[0:40] 11016/92010० whiehjinhibi
+[0:40] aig
+[0:40 - 0:41] ppt
+[0:40 - 0:41] Is it’ causes that.
+[0:40 - 0:41] pH ler
+[0:40 - 0:43] ing it
+[0:40 - 0:43] » the release of calciumiion:
+[0:41] Sil
+[0:41 - 0:42] file! lun
+[0:41 - 0:43] the muscle
+[0:41 - 0:43] mal
+[0:41 - 0:43] uscle
+[0:42] ppg
+[0:42] Inte) is
+[0:42] contributes to! at ph
+[0:42 - 0:43] fatigue via afferent (i
+[0:42 - 0:43] PH levels it causes that.
+[0:43] file] up|
+[0:44] ॥13,2811|
+[0:44] 190९
+[0:44] & brain which
+[0:44] jcreases|
+[0:44] igi
+[0:44] 901 0068
+[0:44] el का
+[0:44] SAF
+[0:44 - 0:46] je Same
+[0:44 - 0:46] (This is wi ea =<
+[0:44 - 0:47] force output it requires’
+[0:44 - 0:47] " more effort which\endsjup;
+[0:44 - 0:47] "5 know) ७
+[0:44 - 0:50] mechanismiali
+[0:44 - 0:50] sensory feedbat
+[0:44 - 0:54] to maintain
+[0:44 - 0:54] recruiting more motor,
+[0:44 - 0:54] units
+[0:45] ।15/61[216।
+[0:45] sensory 66008
+[0:45] eresult Of, sys
+[0:45] in orderg
+[0:45 - 0:46] brain which increases)
+[0:45 - 0:46] qpeicentionte (of effort..As
+[0:45 - 0:47] 180९6
+[0:45 - 0:49] ‘o,the
+[0:46] This;perip!
+[0:46] ral
+[0:46] oft om in 0008
+[0:46] quires.
+[0:46] ich endsjup)
+[0:46] od कक
+[0:46] हैक,
+[0:46] 22.1
+[0:46 - 0:49] igue|
+[0:46 - 0:49] क्र more effort whi
+[0:47] ॥13,201[01619|
+[0:47] (5916
+[0:47] pom
+[0:47] brain wl 20 गत
+[0:47] श्र कट effort..As
+[0:47] Ise
+[0:47] pete
+[0:47] tthelresult off ‘Gt is, in 000,
+[0:47] to maintain the same) ,
+[0:47] (This is wm ite
+[0:47] 2 ah
+[0:48] Mhis|peripheral
+[0:48] (506
+[0:48] Cee ७
+[0:48] 0115-/05।
+[0:48] 0 निज]
+[0:48] he} Por t
+[0:48] nats sami
+[0:48] ajequire
+[0:48] (This is import:
+[0:48] now) ७.
+[0:48 - 0:49] fh ends)up)
+[0:48 - 0:52] brain wh
+[0:48 - 0:52] h increases}
+[0:48 - 0:54] in order,
+[0:48 - 0:54] force output’
+[0:49] 1191
+[0:49] eral
+[0:49] brain which increases}
+[0:49] लक ionfof effort. As
+[0:49] hte
+[0:49] suIt of this, in order,
+[0:49] imho s same:
+[0:49] vires,
+[0:49] (This is importantito,know) —/
+[0:49] ciel
+[0:49 - 0:50] fo the
+[0:50] a Ae
+[0:50] ein
+[0:50] rs‘the:
+[0:50] शिया
+[0:50] अल] ‘ort.-AS
+[0:50] ithelresult off Fh
+[0:50] to maintain the sam
+[0:50] force output it requires’
+[0:50] (This is ~ 0 था
+[0:50] ial
+[0:50] “179.
+[0:50 - 0:53] more effort which\endsjup;
+[0:50 - 0:54] Uhisiperipheral:fatigue}
+[0:51] 21h
+[0:51] is;jperipheral-fatig
+[0:51] jue)
+[0:51] Gass
+[0:51] tAS:
+[0:51] Dae
+[0:51] ihelrest
+[0:51] (This 7 importantite
+[0:51] jah
+[0:51 - 0:52] Age SAME:
+[0:51 - 0:53] mechanismalters-‘the
+[0:51 - 0:54] sensory feedback;to'the |
+[0:51 - 0:54] nequires,
+[0:52] elt
+[0:52] hisfperi
+[0:52] jort..AS.
+[0:52] f'this, in order,
+[0:52] (This is importan: o.know) <
+[0:52 - 0:54] more effort whi
+[0:52 - 0:54] fends up)
+[0:53] ithe
+[0:53] toth
+[0:53] 12215 6 efffort..AS
+[0:53] Ice
+[0:53] result
+[0:53] of, se
+[0:53] same)
+[0:53] force output it'requires’
+[0:53] Zig
+[0:53] wre
+[0:53 - 0:54] brain which increases!
+[0:53 - 0:54] 4 know) “©
+[0:53 - 0:54] (This iS = We
+[0:54] s ve
+[0:54] mechanis!
+[0:54] itersthe
+[0:54] percepti
+[0:54] >nnfo;
+[0:54] Giterescitortnis,
+[0:54] “n sami
+[0:54] ole
+[0:54] mt 6
+[0:55] iS A wi
+[0:55] elieve g:
+[0:55] resear archiets
+[0:55] 06918
+[0:55] car
+[0:55] yecause ml 1-02 19001
+[0:55] jea
+[0:55 - 0:56] ~—that metabolic stress
+[0:55 - 0:57] Gamage ca
+[0:55 - 0:58] Fihe\idea that ifatigui
+[0:55 - 1:02] muscle d
+[0:55 - 1:02] which binthec
+[0:55 - 1:02] causes muscle growth
+[0:56] believe ha rest
+[0:56] Ueland
+[0:56] imiscle damage cal
+[0:56] which birthed th
+[0:56 - 1:00] earchers
+[0:57] iS) essentially wi
+[0:57] ; Ve) rr researchers,
+[0:57 - 0:58] je;and
+[0:57 - 0:58] theidea
+[0:57 - 1:00] yeause ml
+[0:57 - 1:02] Tel igrow:
+[0:57 - 1:02] ~——that-mi
+[0:57 - 1:02] lic: stress
+[0:58] essenti
+[0:58] !bel
+[0:58] le that res
+[0:58] 10506 d
+[0:58] gainase|cg \ =
+[0:58] वाया)
+[0:59] ५ 1519185597113॥)/
+[0:59] believe) at rest
+[0:59] व can),
+[0:59] 18 MUSE!
+[0:59] caine
+[0:59] sox |
+[0:59 - 1:01] | idea thatjfatigueand ७
+[1:00] what we
+[1:00] believelgai
+[1:00] fe idea thay ifatiguejand| ७
+[1:00] pauscle gap
+[1:00] Gamage}cai
+[1:01] 4 we
+[1:01] Bete शा researchers,
+[1:01] age|cal
+[1:01] gejcat
+[1:01] yeause muse fe grow
+[1:01] ed the,idea
+[1:02] i815)
+[1:02] essentiallyiwhat we
+[1:02] bel
+[1:02] e|gavejresearchel
+[1:02] E idea thatifatig
+[1:02] and
+[1:02] ganas
+[1:02] je;can)
+[1:02] 1७५6 MUSE!
+[1:03] In ord
+[1:03] ler forsthis tom
+[1:03] Sens
+[1:03] hich
+[1:03] BAY
+[1:03 - 1:04] sense. Wejneed to dive)
+[1:03 - 1:04] into the’s
+[1:03 - 1:04] birthed,thi
+[1:04] order f
+[1:04] 410
+[1:04] Ike
+[1:04] थी । 1 नी
+[1:05] 0 ती
+[1:05] pate
+[1:05 - 1:07] In) rerder a ithis te
+[1:05 - 1:07] sense. Wejneed to
+[1:05 - 1:07] into the’study wh
+[1:05 - 1:07] irthed,
+[1:06] (115 t
+[1:06] ns Wi
+[1:06] le meed to
+[1:06] [0 the’study wh
+[1:06] dive
+[1:07] Out ke
+[1:08] “aie
+[1:08] nies
+[1:08 - 1:09] (9119958 0000 Gis titles
+[1:08 - 1:09] efor
+[1:08 - 1:10] {role of metabolites in
+[1:08 - 1:10] ionsy
+[1:08 - 1:10] accumulation which))
+[1:08 - 1:16] ‘Short versus long
+[1:08 - 1:19] ES released Injthi Studs “a
+[1:08 - 1:21] ‘The role of metabolites in strength training
+[1:08 - 1:21] I Shar vere lng nometiecontotons
+[1:08 - 1:21] ‘strength training
+[1:08 - 1:21] isometricicontrs
+[1:08 - 1:21] है it lead researchers to)»
+[1:08 - 1:21] ‘believe that metabolite
+[1:08 - 1:21] includes dro}
+[1:08 - 1:21] ‘pHilevels
+[1:08 - 1:21] and an increase’in'
+[1:08 - 1:21] inorganic phosphate may
+[1:08 - 1:21] play a large role in muscle
+[1:08 - 1:21] growth.
+[1:09] “Tine
+[1:09] 1015/4
+[1:09] Was. releascall In thisstudyy
+[1:09] irchers 12057
+[1:09] a itjlead re:
+[1:09] , believe शव metabolite
+[1:09] i nr
+[1:10] {tint99sia stUayptitie 1120७,
+[1:10] qihe)
+[1:10] |! Short न]
+[1:10] isometri
+[1:10] mtr
+[1:10 - 1:14] rear fr
+[1:11] {tint995\astu
+[1:11] aie
+[1:11] Tolelof me’
+[1:11] ९४९ that metabolite
+[1:11 - 1:15] 01152
+[1:11 - 1:15] accumt
+[1:11 - 1:15] lation which \y
+[1:12] [77925 99
+[1:12] waive
+[1:12] बार m
+[1:12] lites in
+[1:12] anda
+[1:13] lin1995I\a stUdyptitie itled
+[1:13] ihe
+[1:13] बट, metabolitesin
+[1:13] 1७७ ऋल'
+[1:14] [lint995jaistudyititied!
+[1:14] ane
+[1:14] 10७ आह
+[1:14 - 1:21] ~ Gell ‘of metabolites in
+[1:15] [11925 3 न
+[1:15] 1 satin)
+[1:15] Goieer metabolites in
+[1:15] isometri
+[1:15] 1६७ ty
+[1:15] HOP.
+[1:15 - 1:19] mtr
+[1:15 - 1:19] for
+[1:15 - 1:19] sed
+[1:16] [Lint99sia’ stuayptitle 11९2७,
+[1:16] fi आए
+[1:16 - 1:17] aie
+[1:16 - 1:20] 10115/0
+[1:16 - 1:20] accumulation which))
+[1:17] 11995 ०३0
+[1:17] cole) sof met
+[1:17] sin
+[1:17] was. released In\thi
+[1:17] study)
+[1:17] Us Sl
+[1:17 - 1:19] oli
+[1:17 - 1:19] Is Short v
+[1:17 - 1:19] us long.
+[1:17 - 1:19] 334
+[1:18] tin1995/a) Studytities itled,
+[1:18] qhe
+[1:18] isometri
+[1:18] ions
+[1:18 - 1:19] [४७ आए
+[1:19] {tint99sia'st
+[1:19] daytitled
+[1:19] 9, 16
+[1:19] olelof me
+[1:20] {lin 12238 studytitie itled saline)
+[1:20] Sc पल लय
+[1:20 - 1:21] ‘Short versus long
+[1:20 - 1:21] Was. released In) thi Suely sal
+[1:21] [Lintggsia’ stUdyjtitied titled; sine}
+[1:21] ions
+[1:21] accumt
+[1:21] lation which,
+[1:22] ses
+[1:22] h egg
+[1:22] iven
+[1:22] itime}this)
+[1:22 - 1:27] bestia: released|itididimake}
+[1:22 - 1:33] ms Semselasihow|metabolic
+[1:22 - 1:33] | (stressjcouldive)
+[1:22 - 1:33] causelofimusclelgrowith)
+[1:22 - 1:33] Pidveltojlimited knowledge)
+[1:22 - 1:33] andlinformation about थ
+[1:22 - 1:33] known,as) the actual cause
+[1:22 - 1:33] of muscle growth until
+[1:22 - 1:33] fafter 1995.
+[1:22 - 1:52] “mechanical tension Miaenit
+[1:23] rat
+[1:23] a Be Be
+[1:23] imejtinis)
+[1:23] tstre
+[1:23] s\could‘ve|
+[1:23] wasnit
+[1:23] Biter 1995
+[1:23 - 1:25] ivenjthet
+[1:23 - 1:25] sionfas'
+[1:23 - 1:29] _ mechanical te
+[1:24] race
+[1:24] ane,
+[1:24] iven thejtime}thiststudy)
+[1:25] 2:००
+[1:25] Sthis
+[1:25] pile ased|itidid|make)
+[1:25] 36196 25 howjmetabolig
+[1:25] known,as: the actual ८४०५६०--
+[1:25 - 1:29] ion wasnit:
+[1:26] ‘thejtimethis)
+[1:26] | Sthess{could'velbeental
+[1:27] aay
+[1:27] Wen thie thins tis
+[1:27] (Biter 1225
+[1:27 - 1:29] 58156 35 how/metabolic
+[1:28] nthe
+[1:28] itime}this)
+[1:28] wasjreleasedjitidicl
+[1:28] iess{could:
+[1:28] vel
+[1:29] 375
+[1:29] known.as) the actual ०४०३६*०
+[1:29 - 1:31] ivenjtheltimesthis)
+[1:29 - 1:33] wasjfeleasedlitidid|make)
+[1:30] ree
+[1:30] iven th
+[1:30] ithis)
+[1:30] SCoule)
+[1:30] velbeentay
+[1:30] 1५८
+[1:30 - 1:32] ees
+[1:31] NN wasireleasedlit{dig) make}
+[1:31] Se We!
+[1:31] vas}
+[1:31] giter 12 Ny
+[1:32] en theytime)}thiststudy)
+[1:32] vel
+[1:33] \ ven, thejtimentinis)
+[1:34] increased MUR al
+[1:34] ravini
+[1:34] to int
+[1:34] ease ai Sffort
+[1:34] Pir
+[1:34] ve a ssily been
+[1:34] pod
+[1:34] pte
+[1:34] we kr
+[1:34] = tensiol
+[1:34] increase:
+[1:34] ith involuntary! |
+[1:34] slowing oft
+[1:34] reps viatth th
+[1:34] force velotify telationship
+[1:34 - 1:39] growth———_
+[1:34 - 1:44] fslowencontraction speed:
+[1:34 - 1:47] producti
+[1:34 - 1:48] 06. Along side
+[1:34 - 1:52] iSoimetabolite
+[1:34 - 1:52] sumulation,causing)
+[1:34 - 1:52] है कि for mechanical)
+[1:34 - 1:52] ‘allows for greater force
+[1:34 - 1:52] MUR causing great
+[1:34 - 1:52] ==> amounts.of muscle
+[1:35] and
+[1:35] Mao i MUR al
+[1:35] 1900९ kni
+[1:35] pose
+[1:35] incréast
+[1:35] 20101:
+[1:35] 22० tite reps ४808
+[1:35] force velo
+[1:35] jonshipm
+[1:35] “as Sones ontractions
+[1:35 - 1:36] 201५ ५९ pt
+[1:35 - 1:36] y fel:
+[1:35 - 1:39] raving}to in
+[1:35 - 1:39] ease ail 1
+[1:35 - 1:39] ily been
+[1:35 - 1:42] hanical tensior
+[1:36] for ee
+[1:36] BS slower contract
+[1:36 - 1:38] and ie MUR al om
+[1:36 - 1:38] increastegaih
+[1:36 - 1:38] wolunte
+[1:36 - 1:38] fiagthe
+[1:36 - 1:41] jwe kn
+[1:36 - 1:42] slowing offthe|reps viatthe
+[1:37] islo
+[1:37] micontraction speed:
+[1:37] Id've pt
+[1:37] pen
+[1:37] rete
+[1:37] <4 tensior
+[1:37] increase
+[1:37] jith invol
+[1:37 - 1:38] force velocity relatis
+[1:38] Quid've Fi
+[1:38] meee for mechani
+[1:38] aft
+[1:38] Be cowl ontract
+[1:38] asa
+[1:39] and
+[1:39] aie MUR al om
+[1:39] Id've ul
+[1:39] see
+[1:39] incréa
+[1:39] cae invol
+[1:39] Hath ithe
+[1:39] ity 311
+[1:39] as slower contractions
+[1:39 - 1:48] force veloci
+[1:40] coulis
+[1:40] हा 1 igwelkn
+[1:40 - 1:42] with ae 1V)
+[1:40 - 1:42] Wy relationship:
+[1:40 - 1:43] MUR al
+[1:40 - 1:44] javing}to increase eff
+[1:40 - 1:44] 110७8 dasily been
+[1:40 - 1:47] increase:
+[1:41] mers MUR al
+[1:41] Id've easily been
+[1:41] ae al tensior
+[1:41] fith ating
+[1:41] 100
+[1:41 - 1:43] & Sonal ontractions
+[1:42] con
+[1:42] a ॥) 3500९ kni
+[1:42] force ४९७०
+[1:42] viet
+[1:42] 85 some ontractions
+[1:43] enh
+[1:43] mechani
+[1:43] it ee V7
+[1:43] | (elation
+[1:43] stp
+[1:43 - 1:50] aoe tensiol
+[1:43 - 1:52] slowing ofithe|reps viatthe
+[1:44] MUR
+[1:44] Rani
+[1:44] ith ae पा
+[1:44] slowing “015०5 viatthe
+[1:44] force velogi / telationship:
+[1:44 - 1:49] jwe kn
+[1:45] ravi
+[1:45] oil
+[1:45] parca
+[1:45] vith) ae बह]
+[1:45] fidttions
+[1:45 - 1:48] as slower
+[1:45 - 1:49] and increased MUR al
+[1:45 - 1:49] 11५6 easily been
+[1:45 - 1:49] lationshipll
+[1:45 - 1:52] islo
+[1:45 - 1:52] macontraction speed:
+[1:46] 19४1
+[1:46] Pir
+[1:46] dive easily been
+[1:46] eating
+[1:46] 100
+[1:46] slowing ०
+[1:46] (25 viatthe
+[1:46] force velocity r कर
+[1:46] lati
+[1:46] fe sens éontractions
+[1:46 - 1:48] faving}to increase
+[1:47] pen
+[1:47] ith ae पा
+[1:47 - 1:48] actions
+[1:47 - 1:49] nghto increase effort)
+[1:48] oil
+[1:48] i ae rv.
+[1:48] produ
+[1:48 - 1:49] increaseswith ca ry)
+[1:48 - 1:52] and aioe MUR al
+[1:49] ravi
+[1:49 - 1:51] produCtion. Along side
+[1:49 - 1:52] force velocity relatis
+[1:49 - 1:52] [85 slower contractions
+[1:50] 1108 ily been
+[1:50] isywe kni
+[1:50] Bim?
+[1:50] incraa
+[1:50] ras
+[1:50] ith ae iy
+[1:50] force velocity relationship
+[1:50] Brows greater force
+[1:50 - 1:51] growth——__
+[1:50 - 1:52] Ravingjto in
+[1:50 - 1:52] ease oil 1
+[1:51] Pin
+[1:51] isgwelkn
+[1:51] ee tensior
+[1:51 - 1:52] Id ve pi ily been
+[1:51 - 1:52] increase:
+[1:51 - 1:52] fith eating
+[1:52] swe kn
+[1:52] lec fats lanical tensior
+[1:52] 100
+[1:52] produét
+[1:52] Along side
+[1:53] toast Ww
+[1:53] 01015 mek ©
+[1:53] ९३305
+[1:53] coe
+[1:53] celly
+[1:53] a WV
+[1:53] leads to thie)
+[1:53] Pets
+[1:53 - 1:54] tri
+[1:53 - 1:55] muscle. sWwelling}by,
+[1:53 - 1:55] ighwvateninto the’
+[1:53 - 1:55] hing of the
+[1:53 - 2:00] ‘= pull
+[1:53 - 2:01] Excessive: metaise
+[1:53 - 2:01] ‘Slemmalin)return can=
+[1:53 - 2:01] trigger sensitiveyjpathways:
+[1:53 - 2:01] Band micro damage.
+[1:54] 01015 oak ito)
+[1:54] Cel
+[1:54] ne whiet
+[1:54] ds, to the]
+[1:54] str
+[1:54 - 1:55] cuir Ww
+[1:54 - 2:01] Cause} my
+[1:55] 15 Bek ito)
+[1:55] com
+[1:55] als Whi
+[1:55] I: ststehi
+[1:55] रू के
+[1:55 - 1:56] ४5.10 thie]
+[1:56] accumt
+[1:56] pas
+[1:56] mis; ek ito)
+[1:56] cause) 1 sWelling}by.
+[1:56] ingwwate,
+[1:56] con
+[1:56] me Which}
+[1:56] sthetel ing of the
+[1:56 - 1:58] er,into the,
+[1:57] Stas
+[1:57] cle.swell
+[1:57] org
+[1:57] i ya
+[1:57] str
+[1:57] 9 of the
+[1:57] Bas:
+[1:57] ass
+[1:57 - 1:58] cele
+[1:57 - 1:58] whi.
+[1:57 - 1:59] is moh ito)
+[1:58] FSS
+[1:58] SSS
+[1:58] outare
+[1:58] ighvate:
+[1:58] and) 11610 damage.
+[1:58] Swi, =
+[1:58 - 2:00] tehing of the
+[1:58 - 2:01] idsjto the)
+[1:59] cory
+[1:59] muscle. swelling by
+[1:59] Cells
+[1:59] ysthetchingjof the
+[1:59 - 2:01] pullingiwater,into the)
+[1:59 - 2:01] which
+[2:00] cular wh
+[2:00] is) a 00009
+[2:00] 910
+[2:00] into the Cell
+[2:00] ich}
+[2:00] AES,
+[2:00] Str
+[2:00] lemmi
+[2:00] return can =
+[2:00] r sensi
+[2:00] é)pathways
+[2:00 - 2:01] muscle. SW
+[2:00 - 2:01] tri
+[2:01] शाला कस
+[2:01] apt wh
+[2:01] 01015 mh WM FO)
+[2:01] IBY
+[2:01] 11111 7201 0101 the
+[2:02] लन्ड
+[2:02] i age repalgisic is) soca
+[2:02] thermere
+[2:02] which}furtl
+[2:02] ‘muscle growthjas;
+[2:02] 7S just
+[2:02 - 2:03] — + thatywas lost told: “aT
+[2:02 - 2:04] हाँ
+[2:02 - 2:05] iates the’ muscle _
+[2:02 - 2:05] Ya 7 damage repair/processes.
+[2:02 - 2:07] imps which indicate:
+[2:02 - 2:13] gal this} being}said) |
+[2:02 - 2:13] triggers repair ॥|
+[2:02 - 2:13] mechanisms, mTOR al 4
+[2:02 - 2:13] Repair doesinotimeani=
+[2:02 - 2:13] "essentially replacingja cell
+[2:03] के हु
+[2:03] | repaigisy is) eet ie
+[2:03 - 2:06] which) furthenmere
+[2:03 - 2:13] +muscle growthjasiitis just
+[2:04] i: repaigisy
+[2:04] Repair doesmatt meant
+[2:04] image’
+[2:04 - 2:13] — ~~ iwas lost to
+[2:05] a age repainis: is
+[2:05] which) ण
+[2:05 - 2:08] All)
+[2:06] ie age repaligisy is; pecan
+[2:06] hermmare
+[2:06] 181650॥16' muscle _
+[2:06] ब्र 7 damage 10091 2 ६6538
+[2:06] वां
+[2:06 - 2:13] imps whichiindicate:
+[2:07] i damage repai itis)
+[2:07] which fui
+[2:07] cae
+[2:07] nitiates th
+[2:07] uscle
+[2:07] Cle
+[2:07] Ya 7 damage repai
+[2:07] CESSES.
+[2:07] — ~~ lost to)
+[2:08] है पतन
+[2:08] SSS
+[2:08] which) मर °
+[2:08 - 2:10] damage. repair.is eco
+[2:08 - 2:13] initiates the:muscle a हि
+[2:08 - 2:13] ब्र 7 damage repair processes.
+[2:09] ee repairis ose
+[2:09] Repair 00241 jotimean:=
+[2:09 - 2:13] which) funthemmere
+[2:10] सन 4
+[2:11] ध्स्न्न्न्न्न्न्न्न्न
+[2:11] Ail
+[2:11] लिए ॥1115])214 86 1
+[2:11] i repairs,
+[2:11] fae
+[2:11] ४४॥॥७॥ पा
+[2:12] चयन
+[2:12] ES ii)
+[2:12] hae dam
+[2:12] age repair.is, ooo
+[2:12] — + lost to)
+[2:13] ALY
+[2:13] Nes
+[2:13] ie: fepainisfoccur
+[2:13] teal
+[2:14] 9२431]
+[2:14] However,
+[2:14] rap
+[2:14] whi
+[2:14] hlcavsesigrowt
+[2:14] het
+[2:14] shows tha,
+[2:14] doneybut this must've
+[2:14 - 2:16] reseat
+[2:14 - 2:16] ers at that given
+[2:14 - 2:19] these two , #
+[2:14 - 2:21] Mpsjare not} tay
+[2:14 - 2:21] lamagej}repair
+[2:14 - 2:24] confused hypertrophy
+[2:14 - 2:24] time that growthiis,
+[2:14 - 2:24] ‘occurring due to’
+[2:15] ine)
+[2:15] loweveramil© Rta
+[2:15] psiaremotyal a
+[2:15] bel
+[2:15] ः्ड््
+[2:15] done’
+[2:15] pUt this must've
+[2:15] ४० / "6 A z
+[2:15 - 2:18] which\eauses growith}but
+[2:15 - 2:18] hemitishows tha}
+[2:15 - 2:24] researchers: at that given
+[2:16] 8०1६॥901 this must've
+[2:16 - 2:18] ॥10४४८५८४।।।। 91२3
+[2:17] HoweverimilORfat
+[2:17] ४१४१७
+[2:17 - 2:19] nal
+[2:17 - 2:24] done: but this mustive
+[2:18] ४4१७
+[2:18] che
+[2:18 - 2:22] ष्र
+[2:19] loweveramil© Rya
+[2:19 - 2:20] whichica
+[2:19 - 2:20] sesigrowth}tout
+[2:19 - 2:20] hemitishows 1113
+[2:19 - 2:21] being
+[2:20] iORYand!
+[2:20] कॉल
+[2:20] researc!
+[2:20] iets
+[2:20] svat that give
+[2:20 - 2:21] e two
+[2:20 - 2:21] 7८ a thes
+[2:20 - 2:24] However,
+[2:21 - 2:22] whichicauses) growith|but
+[2:21 - 2:23] (OR ete
+[2:21 - 2:23] hemitishows thatj
+[2:22] mMpsiarenotyal eG
+[2:22] damagejrepair is being}
+[2:22] ७०६90 this must've
+[2:22 - 2:24] mlbORand)
+[2:22 - 2:24] these tio )
+[2:23] whichicauses) Grromnin wy
+[2:23] Fe tepair is being
+[2:23] don
+[2:23] Pee
+[2:23] LAA
+[2:23 - 2:24] mpsiarenotfalpathway)
+[2:24] whichica
+[2:24] ausesignowth|out
+[2:24] henitishows
+[2:24] lamage'repair
+[2:24] being!
+[2:25] =a ee
+[2:25] Sous Infacta a”
+[2:25] SG 23 081 actually leadkt
+[2:25] ola,
+[2:25] growth ०5 ‘to mus
+[2:25] metabolic a doesinot|
+[2:25] SS ee समा
+[2:25 - 2:28] val
+[2:25 - 2:28] decreaselinl in) muscle)
+[2:25 - 2:32] damage'and fatigue —_—
+[2:25 - 2:34] stress
+[2:25 - 2:34] mechanisms2SoIno Soin
+[2:25 - 2:34] cause musélele egrowth
+[2:26] Sou coe
+[2:26] growth ७०९४० muscle
+[2:26] damage ai
+[2:26] fatigue —__
+[2:26 - 2:27] OLN
+[2:26 - 2:29] 2— can actually leadkt
+[2:26 - 2:30] FS eee ee
+[2:26 - 2:34] metabolic'stress = ino:
+[2:27] Soa infact;
+[2:27] decreaseinn in 1026]
+[2:27 - 2:34] f@ growth PP ‘to muscle
+[2:28] Sou infact, one
+[2:28] mech
+[2:28] USS SOWS
+[2:28] 10111
+[2:28 - 2:33] ola,
+[2:29] Bead Infact,
+[2:29] ir 2
+[2:29] FS ee
+[2:29 - 2:32] muscle) ||
+[2:29 - 2:33] decrease;
+[2:30] pe Infact,
+[2:30] decr
+[2:30] ease)
+[2:30] damageljal
+[2:30] fatigue —___
+[2:30 - 2:31] can fod leadtt
+[2:30 - 2:32] metabolic stress 2 ino:
+[2:31] Sad Infact oe
+[2:31] fnuscle) ul
+[2:31] mech
+[2:31] Sono)
+[2:31] le a
+[2:31] Sa ee ee
+[2:32] लि Infact, ie
+[2:32] FS — अमाम, लामामाामाकनका
+[2:32 - 2:33] can a lead it
+[2:32 - 2:34] 91101
+[2:33] लि ॥118
+[2:33] occ
+[2:33] न growth 406 (०10056९ -
+[2:33 - 2:34] damageial
+[2:33 - 2:34] id fatigue —_—
+[2:34] — है 9
+[2:34] लि Infact,, बल
+[2:34] can actually/leadit
+[2:34] Lif
+[2:34] Sart
+[2:34] decréaseln
+[2:34] OLN
+[2:34] See ee

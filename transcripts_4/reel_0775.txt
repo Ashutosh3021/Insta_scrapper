@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[775] https://www.instagram.com/reel/DNvP858ZkL-/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] ♪ You don't seem to understand, a shame you seem an honest man, and all the fears you hold to... ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] : Principle of
+[0:00 - 0:10] Principle of Neuromechanial matching \
+[0:00 - 0:11] How i feel after
+[0:00 - 0:11] got vaulted
+[0:00 - 0:11] (it’s not)
+[0:00 - 0:11] 2 (and ide)
+[0:03] Principle of Neuromechanial —
+[0:07] ee Se,
+[0:08] r बा
+[0:09] है आम
+[0:10] की act
+[0:10] g मर
+[0:11] Principle of Neuromechanial mol

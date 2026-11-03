@@ -1,0 +1,44 @@
+# model: ggml-large-v3
+========================================================================
+[835] https://www.instagram.com/reel/DLaEOWVhs6T/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] मुझे गाल गिराते को सताने लगे, मुझे अपने साथे देखाने लगे, तुम्हों आज अपासे बुलाने लगे, तुझे छूबों देखाने लगे.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] pasate Tanti 33393.»
+[0:01] Supra:
+[0:01] jin
+[0:01] note
+[0:01] sti a
+[0:01 - 0:03] Drop
+[0:02] fof
+[0:02] Sus
+[0:02] Uy), ७
+[0:03] uprasp
+[0:03] gue
+[0:03] ina!
+[0:03] ena es
+[0:03] y के
+[0:04] DOD 83908
+[0:04] sffati
+[0:04] gui
+[0:04] aaah Ae
+[0:04 - 0:05] upras inal |
+[0:05] Fey
+[0:05] cngyfatisue
+[0:05] iva
+[0:06] i NB Tn
+[0:08] तत्व
+[0:08] ree
+[0:08] = cns'fatigu
+[0:08 - 0:10] Dropise
+[0:09] cnigffatigue
+[0:09 - 0:11] Supraspinal
+[0:10] sl Tl
+[0:11] fopyse
+[0:11] q iS
+[0:11] c nssfatig ue

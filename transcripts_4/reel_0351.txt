@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[351] https://www.instagram.com/reel/DYU0vMpse8w/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: es
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] La mano arriba, cintura sola, da media vuelta, danza con uno, no te canses ahora.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] प्रा
+[0:00] gota
+[0:00] OTe
+[0:00 - 0:02] Firstitimeleyemsomeone was
+[0:00 - 0:02] Showed up for a debate
+[0:00 - 0:07] Bit by a dog; Wentitoithe)
+[0:01] Bitibyaldog
+[0:01 - 0:03] iwentitolthe
+[0:01 - 0:03] ot/alshot
+[0:01 - 0:05] hospital, 4०४4
+[0:03] timelevemsomeone
+[0:03] हे ##7
+[0:03] ral
+[0:03 - 0:06] Showed up for adeba
+[0:04] Se Gina Gar SOmaona
+[0:04] iigotiarsho
+[0:04] for
+[0:05] Einstiti
+[0:05] OAT SCUNSOIS WEIS
+[0:05 - 0:08] Showed up for a debate
+[0:06] Finstitime
+[0:06] ver someone Wasa
+[0:06] tubyfaidog, went to)the}
+[0:06] Lael
+[0:06 - 0:08] hospital, got a shot
+[0:07] naw
+[0:07 - 0:08] Finstitimelevemsomeone was:
+[0:08] Bit\bya dog, went to

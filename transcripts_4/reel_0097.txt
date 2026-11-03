@@ -1,0 +1,160 @@
+# model: ggml-large-v3
+========================================================================
+[97] https://www.instagram.com/reel/DdrIiQescWY/
+STATUS: OK
+DURATION: 1:05   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I literally had the conversation with a guy today in the gym about how I brought my back up.
+[0:03 - 0:08] I was watching him do these really isolated pull-downs, taking about 10 seconds to come down, hardly any weight.
+[0:08 - 0:10] And I was like, that's not how the greats used to train.
+[0:10 - 0:12] You guys never train like that.
+[0:12 - 0:13] And that's not how I was brought up.
+[0:13 - 0:16] You can look at the guys now like hottie and you see that nasty density.
+[0:16 - 0:17] It doesn't come from machines.
+[0:17 - 0:18] Jay will say that.
+[0:18 - 0:21] You see some of the guys now, they don't grab the barbell and the dumbbells anymore.
+[0:21 - 0:23] I don't know anyone that really don't have the density.
+[0:23 - 0:27] You know, this is one thing which I recently just found out that there are cosmetic drugs.
+[0:27 - 0:32] There are drugs which are going to make you look harder and denser.
+[0:32 - 0:34] Isn't that pretty cool?
+[0:34 - 0:40] Coming back to the main topic, your muscles don't really know what's the difference between a barbell, dumbbell or a pendulum squat.
+[0:40 - 0:44] All it knows that it's experiencing mechanical tension and that's what matters.
+[0:44 - 0:45] That's what's signaling growth.
+[0:45 - 0:48] Your muscles are not like, oh, double.
+[0:48 - 0:49] I gotta go dance muscles.
+[0:49 - 0:50] They're not like that, man.
+[0:50 - 0:57] In fact, I'd argue that machines and stable movement exercises are probably going to be better for hypertrophy.
+[0:57 - 1:01] Compared to dumbbells and barbells because of the stability component of it.
+[1:01 - 1:02] But what would I know?
+[1:02 - 1:04] I don't really have a pro card.
+[1:04 - 1:05] So do that with what you can.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Dumbbellsfand|barbells
+[0:00] Buildidensejmuscles?
+[0:00] of Rue
+[0:01] umblyellsfanal
+[0:01] Buildldenseymus:
+[0:01] alas?
+[0:01] Bee
+[0:01] rai
+[0:02] Build Censemmec lest
+[0:02] nh BROUG!
+[0:03] : es भी
+[0:03] ING HIM
+[0:03 - 0:05] Build denselmusclesi,
+[0:04] Barbells
+[0:04] रहकर
+[0:04] ७5 छाए
+[0:04 - 0:07] Dumbbells)
+[0:05] fang
+[0:05] curuaseast
+[0:06] Build'de
+[0:06] TAKING ABOUT,
+[0:06] ae i
+[0:07] banbells
+[0:07] Civils] clanse muscl
+[0:07] TO COME DOWN
+[0:07] otf
+[0:08] Dumbbell babel:
+[0:08] ANDI WAS LIKE
+[0:08] ‘cunuseasY
+[0:08] wees
+[0:08] cae
+[0:08 - 0:17] Build’denselmuscles”
+[0:09] Jak
+[0:09] umbbells and barbells—
+[0:10] i. and ba
+[0:10] क्र
+[0:11] Dumbbells and!
+[0:11] banbells
+[0:11] NEVER TRAIN
+[0:11] aes
+[0:12] wh, ndjbarbells
+[0:12] HOWI WAS
+[0:12] poe
+[0:13] bone and ak
+[0:13] ___ « sYOUCANLOOK” =
+[0:13] iam
+[0:14] os: andibanbell:
+[0:14] wee
+[0:14] (oll
+[0:14 - 0:15] cles’
+[0:14 - 0:16] a denseim'
+[0:15] ells and banbells
+[0:15] _ व्यक्त
+[0:15] THAT
+[0:16] Dumbbells andibar
+[0:16] DENSITY ७
+[0:16] > में:
+[0:16] fh 3
+[0:16] ब्कै
+[0:17] barbells
+[0:17] Buil
+[0:17] क्र
+[0:17] FROM MACHINES
+[0:18] aoe
+[0:19] imbbells}
+[0:19] ar dense
+[0:19] uae
+[0:19] vie
+[0:19] =a DON'T
+[0:19] Age
+[0:20] ddense
+[0:20] THE BARB!
+[0:20 - 0:22] ॥ 9 and barbells
+[0:21] (hk ellsfand barbells
+[0:21] Buildlde di
+[0:21] com.
+[0:22] Buildid
+[0:22] sh Da
+[0:23] i = ndjbanbells
+[0:23] =" Build denselmuscles?
+[0:23] ole
+[0:23] ee orisn
+[0:24] ochtgs?
+[0:25] Gas?
+[0:25] fount
+[0:26] (11010 0५
+[0:26] age
+[0:27] ise
+[0:27] Comeastt
+[0:27] UGS)
+[0:27] There
+[0:28] drugs
+[0:29] 165६
+[0:29] make
+[0:30] Comasti
+[0:30] and
+[0:30 - 0:31] echmgs?
+[0:31] densen
+[0:32] @ ticldnugsK
+[0:33] chugs?
+[0:33] Isn't
+[0:34] drugs?
+[0:34] cool?
+[0:35] topic,
+[0:41] knows
+[0:42] mechanical
+[0:44] matteps
+[0:45] signalling
+[0:46] Muscles
+[0:47] double
+[0:49] muscles
+[0:50] like
+[0:51] fact,
+[0:52] that
+[0:54] exercises)
+[0:55] probably
+[0:56] for
+[0:57] hypertrophy
+[0:58] dumbbells
+[0:59] barbellsy
+[1:00] component
+[1:03] have
+[1:04] wre
+[1:04] D) af
+[1:05] pes
+[1:05] can

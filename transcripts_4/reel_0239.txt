@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[239] https://www.instagram.com/reel/Da3XbbhsXbl/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Like every set which you do has like a diminishing return, you know?
+[0:04 - 0:08] So for example, let's say I'm doing four sets of presses.
+[0:08 - 0:11] First set, good amount of stimulus. Second set, good amount of stimulus.
+[0:11 - 0:15] Third set, decent amount of stimulus. The fourth set, probably not that amount of stimulus.
+[0:15 - 0:19] So every set becomes kind of like, it takes things away from you, you know?
+[0:19 - 0:23] So you can just take that and put that energy in somewhere else.
+[0:23 - 0:27] So you have a push session coming in, why blast so much amount of volume
+[0:27 - 0:31] and you can just do a little amount of it and just make the most of it, you know?
+[0:31 - 0:33] Quality rather than quantity.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] hasidiminis|
+[0:00] cee
+[0:00] Returns
+[0:00 - 0:02] Volui
+[0:01] it mi
+[0:01 - 0:02] hing
+[0:02] gus
+[0:02] has like
+[0:06] = aeee
+[0:06] Sate
+[0:06] tat
+[0:07] Ay 1
+[0:07] *६5 06
+[0:08] 5 पर
+[0:08] aes #8 00)
+[0:09] ve है
+[0:09] Firstse
+[0:09] ood amount of
+[0:10] Second/set good amouint
+[0:10] oti
+[0:11] ७ Bes
+[0:11] 118
+[0:11] 4 : decent
+[0:12] pe 1 &.
+[0:12] हर Fs
+[0:12] aaee
+[0:13] dll
+[0:13] The fourth set probably
+[0:14] छू क
+[0:14] that amount of stim
+[0:16] So every set becomes
+[0:17 - 0:18] takes
+[0:18] 5 कं fi
+[0:19] Bac
+[0:20] Rabe
+[0:20] and”
+[0:20] yes
+[0:21] ant
+[0:21] it put thai
+[0:22] ie jewhere else
+[0:23] Soyouhavela push
+[0:25] blast. é
+[0:26] eae 9 much amount of
+[0:26] प्र
+[0:26] ‘Volume?
+[0:27] है हर
+[0:27] Ka we |
+[0:27] y ४७ Sy)
+[0:28] amoun:
+[0:29] 4 ae
+[0:29] mount oft and x
+[0:30] fd है
+[0:30] m ming ie and just
+[0:31] के ke
+[0:31] =e jost of it
+[0:32] ys ity rather a

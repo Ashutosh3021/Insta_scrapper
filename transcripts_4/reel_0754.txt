@@ -1,0 +1,358 @@
+# model: ggml-large-v3
+========================================================================
+[754] https://www.instagram.com/reel/DOlooVEjOOh/
+STATUS: OK
+DURATION: 1:42   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] अगर muscle damage does not cause muscle growth, then what does?
+[0:03 - 0:04] It's mechanical tension.
+[0:04 - 0:09] Specifically, active mechanical tension coupled with high threshold motor unit recruitment.
+[0:09 - 0:13] अभी in order for you to understand what I'm talking about, you have to understand few things.
+[0:13 - 0:18] ये तुमारा bicep है, इस muscle के अंदर we have fascicles, which are a group of muscle fibers.
+[0:18 - 0:25] भी हर fascicle muscle fibers contain करता है, और ये muscle fibers have a structure called costumere,
+[0:25 - 0:28] जो contain करते है distroglycan and integrin complex.
+[0:28 - 0:32] भी ये बंदे responsible होते हैं mechanical tension detect करने के लिए.
+[0:32 - 0:38] जैसे ही these structures sense high levels of mechanical tension, they signal your body to grow muscle.
+[0:38 - 0:44] And the only way to create high levels of mechanical tension is to have a slow contraction velocity.
+[0:44 - 0:49] भी इसका मतलब ये नहीं कि तुम जानबूच के reps को slow down करोगे, नहीं.
+[0:49 - 0:51] This should be done involuntarily.
+[0:51 - 0:54] In other words, आपको failure के पास train करना है.
+[0:54 - 0:57] भी हर muscle fibers में ये structures contain करते है,
+[0:57 - 1:00] मतलब in order for us to stimulate maximum amount of growth,
+[1:00 - 1:03] we have to target as many muscle fibers as possible.
+[1:03 - 1:06] अभी ये करने के लिए हमें चीए high levels of motor unit recruitment.
+[1:06 - 1:09] जितना जादा motor unit recruitment होगा,
+[1:09 - 1:13] मतलब उतने जादा muscle fibers mechanical tension experience करेंगे.
+[1:13 - 1:16] Now in order for us to maximize the amount of motor unit level recruitment,
+[1:16 - 1:19] हमें इन तीन चीज़ों का ध्यान देना होगा.
+[1:19 - 1:22] One, we are training relatively heavy at 5-7 rep range.
+[1:22 - 1:25] Two, we are giving enough rest periods between the sets.
+[1:25 - 1:28] And तीसरा, we are using stable exercises.
+[1:28 - 1:34] अभी ये तीनों को combination will help us achieve the most amount of motor unit recruitment which we are looking for.
+[1:34 - 1:37] So in short, you have to train heavy, you have to train hard,
+[1:37 - 1:40] and you have to choose exercises which are reasonably stable.
+[1:40 - 1:41] So yeah, hope that helps.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Reply Hide See Translation
+[0:00 - 0:02] <é& sgogia 20
+[0:00 - 0:02] Bhai kya muscle grow karta h vo bhi bata
+[0:00 - 0:02] Warning A
+[0:00 - 0:02] Long video
+[0:01] sanchit.gogia 20
+[0:01 - 0:02] dete
+[0:01 - 0:02] Reply
+[0:01 - 0:02] Hide
+[0:01 - 0:02] See Translation
+[0:01 - 0:02] Skip to the end for summary
+[0:01 - 0:02] if you have an
+[0:01 - 0:02] Attention span of a gold fish
+[0:03] oe ae
+[0:04] Ses
+[0:05] Py na
+[0:05] 7 Mec!
+[0:06] toe eimechani
+[0:06] Lair
+[0:06] ihe
+[0:06] five tension refet
+[0:06] to the forces created
+[0:06] PS os
+[0:06] निया
+[0:06 - 0:07] litension _0
+[0:06 - 0:09] by the contractile proteins
+[0:06 - 0:09] (actin and myosin) using chemical
+[0:06 - 0:09] energy stored in ATP.
+[0:07] toe ‘eum
+[0:07] chai
+[0:07 - 0:08] है... tension refers to the forces created
+[0:08] i. @ mechanical ‘a
+[0:08] श्र
+[0:08] way A
+[0:09] Active mechanical ५
+[0:09] Id motor
+[0:09] Unit
+[0:09] sruitment om
+[0:09] _fotive tengion refers to t
+[0:09] es created 4
+[0:09] LiF
+[0:10] की i
+[0:10] ae ph
+[0:11] >> ivorder for you to
+[0:11] ind
+[0:11] im i
+[0:11 - 0:12] lechanical. fensicn
+[0:11 - 0:13] Understand «=
+[0:12] — qp-order for ti t
+[0:12] ind what I'm
+[0:12] ing
+[0:12] about
+[0:12] y ra /
+[0:13] के (था शा
+[0:13] _» you Haye to a Ww
+[0:14] This is you
+[0:14] use!
+[0:14] fi pleep है.
+[0:14 - 0:15] ye tum ha) bi
+[0:15] This is yout iced N
+[0:15] CF a
+[0:16 - 0:18] Fascicles
+[0:16 - 0:18] Blood Vessel
+[0:17] he have fastiles whigh —_
+[0:17 - 0:18] y} Ju
+[0:18] we have faktites Whieh area
+[0:18] ———grouprof muscle
+[0:18 - 0:21] A lot of muscle fibers:
+[0:19] Abi
+[0:20] yori
+[0:20 - 0:21] f Abhi Har fascicle muscle= 1
+[0:21] Myr
+[0:21] ——fiberscontain
+[0:22] [rus
+[0:22] हि डे ==
+[0:22] imi
+[0:22] Lit
+[0:22] Aur ye
+[0:23] = | STS
+[0:23 - 0:24] muscle fibers have a=
+[0:24] = | SST
+[0:24] —structurecatled
+[0:25] —aa me जी
+[0:26] Wo contain kre. hai
+[0:26] nn ek
+[0:27] aon ९९ ~ oN
+[0:27 - 0:28] Dystroglycan.an
+[0:28] ५555७
+[0:28] tregrin
+[0:28] comple:
+[0:29] detect}
+[0:29] temsio
+[0:29] young men
+[0:29] 75५
+[0:29] bs 0
+[0:29] Abhi ye bande are
+[0:29] gyespansinte
+[0:29 - 0:31] Costamere remodeling with muscle
+[0:29 - 0:31] loading and unloading in healthy
+[0:30] 1 मम men
+[0:30] Rostam
+[0:30] are m
+[0:30] B te
+[0:30] Hote
+[0:30 - 0:31] They
+[0:30 - 0:31] hano-sensory sites of
+[0:30 - 0:31] focal adhesion in the sarcolemma that
+[0:30 - 0:31] } provide a structural anchor for myofibrils.
+[0:31] ension
+[0:31] Costameres are m
+[0:31] hano-
+[0:31] Hote hai mechanical ten:
+[0:31] WNT
+[0:32] Hote व echanical tension
+[0:32] d =e e
+[0:32] fhe
+[0:33] --हैं
+[0:33] = 22270
+[0:34] Za 1
+[0:34] C4 oe
+[0:34] Led
+[0:34] bing oly
+[0:35] en levels e
+[0:35] कलाई
+[0:36] ० nN
+[0:37] = ighal:
+[0:37] हैः
+[0:37] are
+[0:38] न hi PA oie
+[0:38] scl
+[0:38] body
+[0:39] q id th only way |
+[0:40] 5 (गिरा ry
+[0:41] high I
+[0:41] जि machanical
+[0:42] ५९४
+[0:42] ee PF
+[0:43] mr oy
+[0:43] AGA
+[0:43] wis
+[0:43] ae ae पे
+[0:44] Slowscontraction
+[0:44] locity)
+[0:44] 7 हिल
+[0:45] 1911
+[0:45] Aig
+[0:45] eat!
+[0:46] Naar
+[0:48] 1 | t Slow it d
+[0:48] f josely
+[0:48] Been,
+[0:49] sri पर
+[0:50] | inary ¥
+[0:50] afl =} q
+[0:50] | ' wh sno He done
+[0:51] ibe
+[0:52] Pra.
+[0:52] hould}be di
+[0:53] in आल ne
+[0:53] Trait close to rat
+[0:54] simpleitermsy
+[0:54] Mligainyclose’
+[0:55] om bat
+[0:55] — कुल म
+[0:55] ar एल ताक :
+[0:56] euturer muscl fibele
+[0:56] A Yau
+[0:56] structures:
+[0:57] bate
+[0:58] Wihichymeans)
+[0:58] Wwe
+[0:58] anicalitension)is)
+[0:58] [112९1 specifi
+[0:58] Sars
+[0:59] Se Wnichimeans
+[0:59] iRiber specifi
+[0:59] Not
+[0:59] maximum 2&. :
+[1:00] I Ne
+[1:00] Wess
+[1:00] ain
+[1:00] jum
+[1:01] Pers
+[1:01] a कह ie Geared
+[1:02] Astmany, muscle)
+[1:02] कि । S
+[1:02] yi ws
+[1:02] must
+[1:02 - 1:03] Welhaveltoltanget
+[1:03] 12511 31 muscle)
+[1:03] NOE
+[1:03] a "J ve Grell
+[1:03] muse!
+[1:04] inate!
+[1:04] Ne | 2
+[1:05] finistis done by
+[1:05] Geuiment
+[1:05] F ag
+[1:06] y ee is done by
+[1:06] levels of motor
+[1:06] Unit} recruitment
+[1:06] oh levels#of कि रा
+[1:07] गज done by
+[1:07] lof motor,
+[1:07] Unit}
+[1:07] a SR eee 6
+[1:08] a zada, motor
+[1:08 - 1:09] won
+[1:08 - 1:09] a RM
+[1:08 - 1:10] Low
+[1:08 - 1:11] 6-10 RM
+[1:08 - 1:11] wd? 12-20 RM
+[1:08 - 1:11] Force Production
+[1:08 - 1:11] igh
+[1:09] bi zada, md
+[1:09] recruittnentiHog
+[1:09 - 1:11] Size’ principle:
+[1:10] 1-5 RM
+[1:10] Ri «४ lab utr zal a
+[1:10 - 1:11] HoH
+[1:11] raw
+[1:11] vow | 4
+[1:11] Poi 4 ute zal 4
+[1:12] It iSmityexperiencing
+[1:12] ING
+[1:12] Pag
+[1:12 - 1:13] Iffa)
+[1:12 - 1:13] any tension)
+[1:13] Isnitfactive)
+[1:13] ॥ 131]
+[1:13] actin
+[1:13] Pog
+[1:14] wid
+[1:14] a ही
+[1:15] re am:
+[1:16] Mot
+[1:17] recruitm
+[1:18] फिट
+[1:18] TaN
+[1:19] Sil
+[1:20] है 1५
+[1:20] mr a a TN
+[1:20] कु खाक.
+[1:20 - 1:22] Train
+[1:21] (ag j
+[1:21] Train}ieavys
+[1:21] ms i \. 5
+[1:21] ~ ३2०0
+[1:21 - 1:22] relatively
+[1:22] b 4 kag /,
+[1:22] रत ar a
+[1:22] 5 7Reps १7
+[1:23] Aaa
+[1:23] = ०० कि
+[1:23 - 1:25] 2 ae Inest-periods:
+[1:24] 91०56
+[1:24] ods
+[1:24] Til
+[1:24] two se
+[1:24] Fest
+[1:24] een
+[1:24] him, \
+[1:25] — ets \
+[1:26] exer
+[1:26] €ise
+[1:26 - 1:27] ind, teesra’
+[1:27] & अगर exercised
+[1:27] e al
+[1:27] “Stable=
+[1:28] & Sebi Bere |
+[1:28] Tee
+[1:28] १५ P| {
+[1:28] B.and teesra we are.using =
+[1:28] कला
+[1:28 - 1:29] = Stable exercises,
+[1:29] Tae
+[1:29] why
+[1:29] Wal.
+[1:29] HIN
+[1:29] yet-in ot
+[1:30] r jack
+[1:30] “गान
+[1:30] wil help
+[1:31] will help us 22५ the most
+[1:32] ric
+[1:32] अं जज
+[1:32] सका /
+[1:32] बा न
+[1:32] amount of motor
+[1:32 - 1:33] an exercise
+[1:33] rio
+[1:33] wae:
+[1:33] i is
+[1:33] which
+[1:34] कम का.
+[1:34] which we are looking for so
+[1:35] r jac
+[1:35] 1. Train 16929...
+[1:35] you have
+[1:35 - 1:36] tes /
+[1:35 - 1:40] “2. Close to failure है
+[1:35 - 1:40] » 3.Use stable exercises:
+[1:36] ह इनमे
+[1:36] 1. Train heavy _
+[1:36 - 1:37] ou have to train heavy you
+[1:37] TUDR
+[1:37] 1. Train oem वह
+[1:37] have to train hard
+[1:38] 4 G.ior We
+[1:38 - 1:39] 1. Train 16399 /_
+[1:38 - 1:39] “and you have to choose
+[1:39] exercises
+[1:40] iar .
+[1:40] 1. Train HEAVY mn
+[1:40] ees /
+[1:40] which are reasonably
+[1:41] i ! aie
+[1:41] so yeah hope
+[1:42] 50 yeah hope that helps
+[1:42] follow for more

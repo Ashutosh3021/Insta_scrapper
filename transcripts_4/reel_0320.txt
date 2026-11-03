@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[320] https://www.instagram.com/reel/DZKjEDssu_Z/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] But not who's gonna dance with me
+[0:04 - 0:06] Please stay
+[0:06 - 0:08] And I'm never gonna dance again
+[0:08 - 0:11] Guilty feet have got no rhythm
+[0:11 - 0:14] Though it's easy to pretend
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] पर a
+[0:00] _/ Myloptimal'meal
+[0:00] ag ee
+[0:01] शक ये
+[0:01] os meal
+[0:01] a कु
+[0:02] expen! 2
+[0:02] 635
+[0:02] Carbs 83g Fat Bethe Protein 59.69
+[0:02] sir:
+[0:02] led
+[0:02] ead
+[0:02] ees
+[0:03] च्हौं
+[0:04] री पक
+[0:05] i his isigood
+[0:06] EKithis\isiqoo
+[0:06] pm — in
+[0:07] . Reettats
+[0:08] Want to know how-to
+[0:08] make
+[0:09] Want to kno
+[0:09] sane makeiit
+[0:10] Want to «nee how toma
+[0:11] ण्डै
+[0:11] Tihat’s Grazvat
+[0:11] Letime kno
+[0:11] know
+[0:12] Mhatis Chazy 1॥॥॥
+[0:12] है me knowonce\youlknow
+[0:13] atis
+[0:13] Crazy
+[0:13] Wit
+[0:13] YOUIKNON)
+[0:13] क्र
+[0:13] Cr SS
+[0:13 - 0:14] letime)knowionce
+[0:14] hat
+[0:14] chy,
+[0:14] a 55%

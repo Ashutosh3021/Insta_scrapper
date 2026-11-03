@@ -1,0 +1,79 @@
+# model: ggml-large-v3
+========================================================================
+[577] https://www.instagram.com/reel/DTknfrajC-j/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:24] Thank you for watching.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] machinein
+[0:00] the
+[0:00] J UTE ym
+[0:00] ol aN
+[0:01] imithe)
+[0:01] es 2
+[0:01 - 0:03] A.Guy trying
+[0:02] Guyitqyingfal
+[0:02] 119
+[0:02 - 0:03] ROW,
+[0:02 - 0:04] igym:
+[0:03] Inewjmac!
+[0:03 - 0:05] imachineinithe
+[0:04] Guyatqunt आह 191
+[0:04] URy
+[0:04] 4 vl é
+[0:04] aad
+[0:05] myn
+[0:05] al ig
+[0:06] inthe
+[0:06] umachineyl
+[0:06] wr == जे
+[0:07] neyn
+[0:07] memachhi
+[0:07] DS Se.
+[0:07] | Git
+[0:07 - 0:08] the
+[0:07 - 0:08] wae
+[0:08] mac
+[0:08] chi
+[0:08] Pay
+[0:09] Gfalnewimachine)
+[0:09] Dl’ ud
+[0:09] rig
+[0:09 - 0:10] inthe
+[0:10 - 0:12] a machine}i
+[0:11 - 0:14] the
+[0:12] vin
+[0:12] ahi
+[0:12] oom
+[0:13] inelimthe:
+[0:13] gym
+[0:14] act
+[0:15] yin
+[0:15 - 0:19] machineinithe
+[0:16] 7. tf
+[0:16] iV LNG &)
+[0:16] “gyi
+[0:16] o-oo
+[0:16 - 0:17] ROW,
+[0:17] inelimthe
+[0:17] Guy
+[0:17] 1॥0/॥1 १3
+[0:19] 2४080
+[0:19] WAS)
+[0:19] ae 1
+[0:20] ain
+[0:20] 2» RG
+[0:20 - 0:23] inthe
+[0:21] mingemeumacnineintie
+[0:21] 0 ee
+[0:21] ios
+[0:22] 10111 20/00/1181
+[0:22] gym
+[0:22] ्ज 1
+[0:22 - 0:23] ROW,
+[0:23] 10111 2//112 11681
+[0:23] gyi

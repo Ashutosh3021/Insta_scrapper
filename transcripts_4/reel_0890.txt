@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[890] https://www.instagram.com/reel/DJPFaMQBlUc/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] 50 science based lifters vs 1 gorilla, कौन जीतेगा तो मेरे जिमाग में एक अच्छी बाती आईडिया है सोचो
+[0:06 - 0:18] तो पहले हम 10 लोग को बेजेंगे, 10 new lifters, जैसे वो mall करेगा उनको, हम बेजेंगे 30 लोगों को, फिर बाकी हमारे पास है और कितने बाकी, 10 बाकी हमारे पास है
+[0:18 - 0:25] जैसे वो मारता रहेगा वो 30 लोगों को, हम 10 उनको circle करेंगे और चड़ जाएंगे उसको पर, फिर मार देंगे उसको, खतम
+[0:25 - 0:32] पर ये तो सिर्फ hypothetical है, because in reality हम science based lifters उससे लडेंगे भी नहीं, क्यों? It will create extra fatigue and it is not optimal
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] | 50 science ra हि
+[0:00] : vs 1 gorilla
+[0:00 - 0:25] | 4D Chess है |
+[0:01 - 0:02] पा | science based
+[0:01 - 0:14] lifters vs 1 gorilla |
+[0:03] r. = based
+[0:04] A science =)
+[0:05] @) 52144 ’
+[0:05 - 0:07] 50 science based © A
+[0:08] चल science a |
+[0:09] é जा based
+[0:10] 50 science "
+[0:10] 4D ieee
+[0:11] १ 50 हे based
+[0:13] a: science based
+[0:14 - 0:19] 50 science “a
+[0:15] = vs 1 01118
+[0:16] 50 a based
+[0:16] >: vs 1¢ gorilla
+[0:17] ० शत्त Chess
+[0:17] कीच
+[0:17 - 0:25] lifters vs 1gorilla =<
+[0:18] é Ze. based
+[0:19] 5, af
+[0:20] a. a based
+[0:21 - 0:22] ™ 50 science based
+[0:22] lifters vs
+[0:23] 50 science i
+[0:24] 50 q based
+[0:25] 50 science based
+[0:26] Ep, and not
+[0:26] optimal
+[0:28] Fatigue = not
+[0:30 - 0:32] at tigue and not
+[0:31 - 0:32] optimal

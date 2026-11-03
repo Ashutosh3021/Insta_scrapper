@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[817] https://www.instagram.com/reel/DMNVWK8BW71/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] I want to be your vacuum cleaner
+[0:06 - 0:09] Breathing in your dirt
+[0:09 - 0:11] I want to be your vacuum cleaner
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Stal;
+[0:00] ering papers
+[0:00] wae
+[0:00 - 0:02] ‘Sooner
+[0:01] Stantedineading|papens
+[0:01] 135
+[0:02] wish
+[0:02] headin
+[0:02] हैः
+[0:03] Tis)
+[0:03] wish started reading
+[0:03] pie
+[0:04 - 0:11] We like studying now?
+[0:05 - 0:09] mae

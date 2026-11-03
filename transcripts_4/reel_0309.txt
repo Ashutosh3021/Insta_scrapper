@@ -1,0 +1,465 @@
+# model: ggml-large-v3
+========================================================================
+[309] https://www.instagram.com/reel/DZXrYBosIzB/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] one of the dumbest programming mistakes which i see a lot of people make is programming deadlifts
+[0:03 - 0:08] or any kind of stiff leg deadlift variation on your back days why are we doing that why are we
+[0:08 - 0:12] doing that just hear me out for a second what are the muscles which are being used on a regular
+[0:12 - 0:17] deadlift and a stiff leg deadlift we have the erectors we have the glutes we have the hamstrings
+[0:17 - 0:24] if you're doing stiff legs we have the erectors how much of it was your legs just put it on a
+[0:24 - 0:30] leg day bro just put it on a leg day don't let it affect your squat come on man anyways that's for
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Deadlifitsfonioullidaysy 9
+[0:00] ९ कै
+[0:00] १५ ५
+[0:00] 411
+[0:01] pull{cay,
+[0:01] ERI AS
+[0:01] 12७७
+[0:01] Mot अर
+[0:01 - 0:06] Only
+[0:01 - 0:06] ‘adll
+[0:02] १३.4
+[0:02] eaall
+[0:02] ulliceiys
+[0:02] 200
+[0:02] 1040
+[0:02] Mis
+[0:02] Whi
+[0:02] CSE:
+[0:02] EET
+[0:02] att
+[0:02] (0१% 840
+[0:02] ५५1 er
+[0:02] Gara
+[0:02] Pip onirineg
+[0:02] nitttee,
+[0:02] ६202
+[0:02] ccs
+[0:02 - 0:03] ed ae
+[0:03] re ८
+[0:03] ullid
+[0:03] arr
+[0:03] ५३६
+[0:03] 22005
+[0:03] wey
+[0:03] 1३20३
+[0:03] pat
+[0:03] Sey,
+[0:03] 221
+[0:03] ite
+[0:03] vay
+[0:03] iad
+[0:03] ere
+[0:03] fiat ९३६
+[0:03] See 7000
+[0:03] ५४००५
+[0:03] nas
+[0:03] Pie
+[0:03 - 0:04] Vis
+[0:04] pull
+[0:04] 1४५७
+[0:04] . ape
+[0:04] ‘y4y
+[0:04] wits
+[0:04] जड़
+[0:04] Saba Sates
+[0:04] ieee g Ra MSIE A
+[0:04] 183५
+[0:05] Son
+[0:05] rat
+[0:05] eee
+[0:05] 24622:
+[0:05] Bien
+[0:05] 22 27700/, 2722
+[0:05] roan
+[0:05 - 0:08] ullfdays
+[0:06] Pig
+[0:06] 11590
+[0:06] uly
+[0:06] ays
+[0:06] ८९६ २०
+[0:06] (wares
+[0:06] 577
+[0:06] arate
+[0:06] 2 Se
+[0:06] REET
+[0:06] SRE,
+[0:06] 22९8;
+[0:06] Sots
+[0:06] Sar
+[0:06] ata el Fen 6080
+[0:06] NL ay on
+[0:06] Ve AS
+[0:06] ARe sre
+[0:06 - 0:07] sees =
+[0:06 - 0:10] eae,
+[0:07] aal
+[0:07] Vis
+[0:07] DEE.
+[0:07] कै के
+[0:07] cee
+[0:07] fad
+[0:07] ste
+[0:07] hie
+[0:07] "kee
+[0:07] wae
+[0:07] ४५५!
+[0:07] 148
+[0:07] eam
+[0:07] ४000४:
+[0:07] (Bis aia,
+[0:07 - 0:08] sas
+[0:07 - 0:08] 2122
+[0:08] है ९
+[0:08] 1५९
+[0:08] किला
+[0:08] ado
+[0:08] eadlif
+[0:08] 113
+[0:08] ५४; ame
+[0:08] 20882 ae
+[0:08] axe
+[0:09] 14 f
+[0:09] ied
+[0:09] SON
+[0:09] aes
+[0:09] ५५४
+[0:09] ४५4
+[0:09] cin
+[0:09 - 0:10] adl
+[0:09 - 0:10] (2208 4
+[0:10] Tit
+[0:10] ull
+[0:10] Vis
+[0:10] ENS
+[0:10] ot कै. है
+[0:10] oss
+[0:10] ५९५०५
+[0:10] exe
+[0:10] PRAT
+[0:10] pitty,
+[0:10] ive:
+[0:10] dee
+[0:10] Chea
+[0:10] 15 00
+[0:10] as va
+[0:10] ४७६
+[0:10] wer
+[0:10 - 0:11] ४४1
+[0:10 - 0:12] yee
+[0:11] his
+[0:11] eal
+[0:11] ullfda
+[0:11] (016
+[0:11] 1631
+[0:11] eases
+[0:11] 4४६
+[0:11] 22228
+[0:11] ere
+[0:11] Bit
+[0:11] Ska
+[0:11] say
+[0:11] ped
+[0:11] est
+[0:11] ewe
+[0:11] 22५
+[0:11] Pinel
+[0:11] Lik
+[0:11] 202
+[0:11] 32358 220
+[0:11] eth
+[0:11] ty es
+[0:11] Rif
+[0:11] ait
+[0:11] 2238:
+[0:12] ri fil”
+[0:12] all
+[0:12] oul 6]
+[0:12] (Sei
+[0:12] i Ww
+[0:12] fur
+[0:12] “ous
+[0:12] 1५३
+[0:12] ६५२
+[0:12] are
+[0:12] wey
+[0:12] १८ ५. > कि.
+[0:12] parece
+[0:12] Cray
+[0:12] ५180
+[0:12] tae ९५६:
+[0:12] Phy
+[0:12] ५:०८
+[0:12] Bete
+[0:12] EET.
+[0:12] 7 एज
+[0:12 - 0:14] fits
+[0:13] "पीर ]
+[0:13] Fae
+[0:13] adl
+[0:13] 1150
+[0:13] moullck
+[0:13] Vis
+[0:13] ‘ast
+[0:13] apie:
+[0:13] १९४४४ ५ ‘Sunt
+[0:13] pra
+[0:13] ae 77:27:
+[0:13] १०..ह
+[0:13] 1५७५
+[0:13] 22510 80
+[0:13] nee Oni
+[0:13] whys
+[0:13] hdl
+[0:13] ry oo
+[0:13] tas
+[0:13] ie ETN?
+[0:13] Pikes
+[0:13] hey
+[0:13] (ae EE oe
+[0:13] LAS
+[0:13] (० /0॥४ 27 ०५०५.
+[0:14] 7971
+[0:14] 146
+[0:14] ol bg
+[0:14] 2207
+[0:14] Be Gee
+[0:14] rts HH tear
+[0:14 - 0:19] eaall
+[0:14 - 0:25] ea ae
+[0:15] rae,
+[0:15] myoullidays
+[0:15] ५८6
+[0:15] ca +e
+[0:15] Was
+[0:15] ०2८
+[0:15] है| af
+[0:15] cee
+[0:15] Sree
+[0:15] earners
+[0:15] 22215:
+[0:15] Non
+[0:15 - 0:17] nly,
+[0:16] iq A,
+[0:16] Tit
+[0:16] S ON
+[0:16] Bos
+[0:16] sng"
+[0:16] hes
+[0:16] iii
+[0:16] 299
+[0:16] Cah
+[0:16] “ite
+[0:16] hie
+[0:16] OSA
+[0:17] ty Die Oe
+[0:17] JAD
+[0:17] wae,
+[0:17] 1115
+[0:17] jul
+[0:17] Vis
+[0:17] Gees
+[0:17] Hee:
+[0:18] ies
+[0:18] ifit
+[0:18] on ould
+[0:18] er. aN
+[0:18] itz
+[0:18] ०५०२३
+[0:18] Casts,
+[0:18] shed
+[0:18] erat
+[0:18 - 0:19] Pal
+[0:18 - 0:20] Sore
+[0:19] Les
+[0:19] Tit
+[0:19] हि ip
+[0:19] Wee
+[0:19] ee ७
+[0:19] Sees
+[0:19] (९५8 20% BLES
+[0:19 - 0:21] days
+[0:20] ait
+[0:20] f i ८
+[0:20] fitslomoulltcl
+[0:20] Hae
+[0:20] hays
+[0:20] aes
+[0:20] हैः
+[0:20 - 0:21] 2222.
+[0:20 - 0:22] Beat
+[0:21] i fe
+[0:21] ado
+[0:21] eadlif
+[0:21] ON P
+[0:21] is 2
+[0:21] Pay
+[0:21] SP ee
+[0:21] १०४६
+[0:21] roy
+[0:21] 1214
+[0:21] १22 ४ 2
+[0:21] Lote,
+[0:21] eres
+[0:21] "225५
+[0:22] Fai
+[0:22] wie
+[0:22] ver
+[0:22] ete
+[0:22] Wivez
+[0:22] ress
+[0:22] ६44
+[0:22] itp
+[0:22] Bia M4
+[0:22] Wig)
+[0:22] PTE eee Tg
+[0:22] 22280
+[0:22] mae:
+[0:22 - 0:23] ullfdays
+[0:23] ies
+[0:23] bal
+[0:23] Hus
+[0:23] Wee
+[0:23] rays
+[0:23] हैः
+[0:23] Bri
+[0:23] ०४५५९,
+[0:23] 10 7
+[0:23] 000
+[0:23 - 0:24] ead
+[0:24] pal,
+[0:24] Onl
+[0:24] Won
+[0:24] bey
+[0:24] CEES
+[0:24] LOE Seah
+[0:24] pen
+[0:24] ४४६८
+[0:24] cage
+[0:24] 22608.
+[0:24] Cte
+[0:24] fone
+[0:24] ste
+[0:24] Velie ii
+[0:24] Tee
+[0:24] conte not
+[0:24] art
+[0:24] sah
+[0:24] 2222)
+[0:24] 56६
+[0:24] aan
+[0:24 - 0:25] fits
+[0:24 - 0:26] 14 4,
+[0:24 - 0:26] AREY
+[0:24 - 0:29] ‘adll
+[0:25] if 4,
+[0:25] lly
+[0:25] 2५2८
+[0:25] aia BAe RNG
+[0:25] craw
+[0:25] 73010
+[0:25] 1120
+[0:25] Hea
+[0:25] Dyke)
+[0:25] ras me
+[0:25] (४३५
+[0:25] 248
+[0:25] ८58,
+[0:25] Shs
+[0:25] “०४४४५
+[0:25] an a
+[0:25] Fain
+[0:25] eee
+[0:25] REI,
+[0:25] Pri
+[0:25] ass
+[0:25] 000५7:
+[0:25] bate
+[0:25] TO RAER RAE
+[0:25] NYE
+[0:25] ४५५
+[0:25 - 0:26] ayy
+[0:25 - 0:27] rate
+[0:26] Tit
+[0:26] oul
+[0:26] है 6
+[0:26] 4555
+[0:26] BEE:
+[0:26] Brae ae
+[0:26] sane
+[0:26] ete
+[0:26] Mis
+[0:26] yest
+[0:26] 70५
+[0:26] Serge
+[0:26] S45:
+[0:26] SES
+[0:26] 77९,
+[0:26] rig
+[0:26] vee
+[0:26] Eben
+[0:26] pad
+[0:26] ८(८/१
+[0:26] Lipp.
+[0:26] ४ ५७०४०
+[0:26] 14४77 /
+[0:26] laa
+[0:27] wes
+[0:27] oto
+[0:27] ser
+[0:27] कह है
+[0:27] thes
+[0:27] meat
+[0:27] (९५9
+[0:27] MED
+[0:27 - 0:29] nly
+[0:28] if 4, |
+[0:28] fits
+[0:28] ull cays
+[0:28] er a
+[0:28] tet 4)
+[0:28] Sowa
+[0:28] EG EIESONG
+[0:28] Se कप 0४५५५
+[0:28] See y
+[0:28] ees
+[0:28] ELLE EIEN:
+[0:28] 20600 22%
+[0:28] Pail Sy,
+[0:28 - 0:30] १ हक
+[0:29] ॥ है७
+[0:29] (eke)
+[0:29] spt
+[0:29] has
+[0:29] oe we
+[0:29] (100२९
+[0:29] m pete
+[0:29] Dis
+[0:29] 101 REA
+[0:29] 501
+[0:29] Wal
+[0:29] ५८४४६
+[0:29] KAA,
+[0:29] Lit}
+[0:29] maura
+[0:29] bia, 08२
+[0:29] ssi
+[0:29] २०४
+[0:29] sate)
+[0:29] Lip
+[0:29] 4६५ 1२० rt
+[0:29] seal
+[0:30] Aly clo
+[0:30] eadlit
+[0:30] ison pull
+[0:30] days
+[0:30] Si i]
+[0:30] —Lss
+[0:30] SF — प-
+[0:30] — 3 के

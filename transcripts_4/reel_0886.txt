@@ -1,0 +1,291 @@
+# model: ggml-large-v3
+========================================================================
+[886] https://www.instagram.com/reel/DJZBhpVsPHd/
+STATUS: OK
+DURATION: 1:47   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] If you are using lightweight and high reps for calves because they are a small and a slow twitch muscle group, you have been lied to.
+[0:06 - 0:15] अभी बहुत सारे लोगों को लगता है कि because calves are a small and a predominantly slow twitch muscle group, you need to train them light and with a higher rep, which just doesn't make sense.
+[0:15 - 0:22] अभी we have research showing that अगर तुम 5 से 30 के rep range के बीच में train करोगे, you will grow muscle almost at the same rate.
+[0:22 - 0:31] But अगर हम ये चीज के बारे में सुचेंगे कि what is happening in between of those rep ranges, that will give us more idea on which rep range is superior for muscle growth.
+[0:31 - 0:41] अभी जब भी हम calves train करते हैं with a higher rep range, we get something called a metabolic accumulation. ये तुम्हें दिखेगा कि अगर तुम्हें वो एक burning sensation वाली feeling आती है न, वो ही होती है metabolic accumulation.
+[0:41 - 0:58] अभी this thing will create some kind of pain sensation towards you. अभी because of the pain coming from this burning sensation, it is going to increase the amount of perceived exertion which you have. उसका मतलब you will reach your maximum perceived exertion quicker than if you did without using a higher rep range.
+[0:58 - 1:10] अभी this max perceived exertion is going to determine how many motor units which you can recruit. अगर इसका बार full हो गया, तो you won't be able to recruit motor units more than that because you've reached your maximum tolerable capacity.
+[1:10 - 1:25] इसलिए training at a lower rep range is always going to be superior because ये pain sensation वगेरा तुम्हें feel नहीं होगा. अब ऐसा नहीं है कि pain sensation बिलकुल नहीं होगा, होगा, but it will be comparatively less, which means we can maximize motor unit recruitment.
+[1:25 - 1:39] And the second thing which a lot of people think is that training with a higher rep range will cause slow twitch muscle fibers growth, but we have data showing that muscle growth occurs regardless of the fiber type. It is mechanical tension which causes growth, not an arbitrary rep range.
+[1:40 - 1:47] इसका बार full होगा, तो you won't be able to recruit motor units more than that because you've reached your maximum tolerable capacity. अब ऐसा नहीं है कि pain sensation बिलकुल नहीं होगा, होगा, but it will probably cause slow twitch muscle fibers growth, but it will probably cause slow twitch muscle fibers growth, but it will probably cause slow twitch muscle fibers growth, but it will probably cause slow twitch muscle fibers growth, but it will probably cause slow twitch muscle fibers growth, but it will probably cause slow twitch muscle fibers growth.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Lightweight Salig
+[0:00] Eonealves
+[0:00] u're Sing
+[0:00 - 0:01] reps
+[0:01] ight
+[0:01] Salig hn
+[0:01] 224
+[0:01] and
+[0:01 - 0:02] है... using lightweight ~
+[0:02] Sahlighireps
+[0:02] Foiealve
+[0:02] Tl rae
+[0:02] ull
+[0:02] e high reps for calves
+[0:02 - 0:05] /# aes
+[0:03] mI weightéaklightreps
+[0:03] sorealls
+[0:03] use they are
+[0:04] 10111017/110॥॥ [35
+[0:04] cae
+[0:04] 1033७ अ
+[0:04] tas
+[0:04] GAs sous
+[0:05] ight ५४
+[0:05] ighjreps
+[0:05] aves?
+[0:05] Z group
+[0:05] he as8WEritch गौ
+[0:06] been lied'to
+[0:06] id a slow twitch muscleay
+[0:06] up you.have beenjlied
+[0:08] because
+[0:09] because calves are a small
+[0:10 - 0:11] and a predominantly slow
+[0:11] twitch muscle group
+[0:12] pal
+[0:12] you need
+[0:13] Ls ay
+[0:13 - 0:14] . you need to train them light _
+[0:14] ir जो,
+[0:14] प्र
+[0:14] and with a higher rep
+[0:15] hich just doesn't make
+[0:16] Abhi we have
+[0:17] We roe datajon}it
+[0:17] asiwell
+[0:17] Do the anatomical and
+[0:17] physiological properties of a
+[0:17] muscle determine its adaptive
+[0:17] response to different loading
+[0:17] protocols?
+[0:17] Bra
+[0:17] feld et a. Physio
+[0:17] 10 May
+[0:17] Show details
+[0:17] res है?
+[0:17] Abstract
+[0:17] Abhi we have research
+[0:17] showing that
+[0:18] gaa
+[0:18] 5se30
+[0:19] 5 se 30 k rep range Ke re श्र
+[0:21 - 0:22] you will grow muscle almost .
+[0:22] deep
+[0:22] at the same rate
+[0:22 - 0:23] hin
+[0:23] tee
+[0:23] but Agar hum yeh
+[0:24] fm 4
+[0:24 - 0:25] ink.deep)
+[0:25] fav
+[0:25 - 0:26] ki what is happening in
+[0:26] Tih
+[0:26] eep)
+[0:26] between of those rep
+[0:27] hat
+[0:28] that will give us more
+[0:29] व्यसन
+[0:29] ‘ode.
+[0:29] which rep
+[0:30] wae
+[0:30] a~ ले
+[0:30] on which rep range is
+[0:30] superior
+[0:31] Abhi
+[0:32] ham calves train
+[0:33] ध्व्य्य्य्न््
+[0:33] his
+[0:33] ham calves train karte the to
+[0:33] tha higher rep
+[0:34] Pet
+[0:34] ‘we get something
+[0:35] umulation
+[0:35] क्र
+[0:35] ‘we get बनी call
+[0:35 - 0:37] Metabolicya
+[0:36] Metabol
+[0:36] fa 4
+[0:36] Yeh tumhe dikhega
+[0:37] eumulat
+[0:37] Agar tum
+[0:39] है सनक...
+[0:39] प्र feeling aati Hai ] . हे
+[0:40] ६ है
+[0:41] metabolic accumulation
+[0:42] TERAY
+[0:42] this thing will
+[0:43] 1५019 0 1161110॥]|
+[0:43] 42952
+[0:43] this thing mh create
+[0:43] kind of pain
+[0:44] tolmention’
+[0:44] am 1
+[0:44] ty Ag
+[0:44] sensation towards vA )
+[0:45] 4 नी.
+[0:45] because of the
+[0:46] 101
+[0:46] # the pa a
+[0:47] “ज्जै
+[0:47] because of the pain comi ig
+[0:47] प्र
+[0:47] from this burning sensation
+[0:48] hah
+[0:48] it is going te crease
+[0:49] itis going 51 Fd »
+[0:50] perceived
+[0:50 - 0:51] Painyi
+[0:50 - 0:51] |Eheases)
+[0:50 - 0:52] fle ffontiw
+[0:50 - 0:52] easingymu
+[0:51] Percep:
+[0:51] offeffortiwithout
+[0:51] ine easing mut
+[0:51] perceived ener, which ©
+[0:51] you
+[0:52] Imereases)
+[0:52] fine
+[0:52] Uska
+[0:53] are @
+[0:53] you will reach
+[0:54] maximum percei
+[0:56] his
+[0:56] pn 4
+[0:57] aed
+[0:57] without using
+[0:58] without ve in an
+[0:59] max
+[1:00] tion
+[1:00] भूत
+[1:00 - 1:01] Of effort 5७
+[1:00 - 1:02] CMe
+[1:00 - 1:02] sends the signal that causes
+[1:00 - 1:02] Motor unit recruitment.
+[1:01] erception
+[1:01] is going to determine
+[1:02] hoes
+[1:02] « 0166
+[1:02] ia ल
+[1:02] is going to Watering how
+[1:02] many motor units
+[1:03] की नमः
+[1:03] Ing
+[1:03] an “a
+[1:03] which you can recruit
+[1:04] Sell
+[1:04] yf 27
+[1:05] So 3 ३
+[1:08] लाने
+[1:08] more than'that socal
+[1:09] श्र
+[1:09] 10३!
+[1:09] your maximum
+[1:10] your maximum tolefable®
+[1:10] capacity
+[1:10 - 1:12] हैं.
+[1:12] हि के:
+[1:13] आ< range is always
+[1:14] प्र
+[1:14] rep range is always going to
+[1:14] be supei
+[1:15] Loe
+[1:15] yeh
+[1:16] fai
+[1:16] itigu
+[1:16] aad
+[1:16] हक pain sensation
+[1:17] "के 3,
+[1:17] less'fatigue’
+[1:17 - 1:18] tumhe feel nahi hoga
+[1:18] OMeo
+[1:19] tums fee! nahi hoga Ae
+[1:19] Omech ee afipain sensation
+[1:20] 4 bilkul nahi €21TeATET बे
+[1:21] rvs
+[1:21] bilkul nahi SOT OTbut it
+[1:21] wil
+[1:22] ०. लए
+[1:22] aaa
+[1:22] जद nahi EOMOTESMOTOub Ie
+[1:22] will be comparatively less
+[1:23] Wika
+[1:23 - 1:24] which means we can ¥,
+[1:24] कर्ज
+[1:24] maximize motor unit
+[1:25] recruitm: nt and the
+[1:26] iat |
+[1:26] है and the seco
+[1:26] thing which a lot of people
+[1:27] hal;
+[1:27] iia
+[1:27 - 1:29] Aah
+[1:28] tl jing with a higher के
+[1:29] fae
+[1:29] training with a higher rep
+[1:29] range will cause
+[1:30] है के.
+[1:30] low twitch #राप5८।;
+[1:31] है growth of slow & fast-twitch
+[1:31] iscle 18615 5
+[1:31] ed no differe
+[1:31] 1 but we
+[1:32] Las
+[1:32] fh atts ofl low) & fastitwitch
+[1:32] muscle} fibers showed no) Chicicing
+[1:32] growth but we have data
+[1:32] showing that
+[1:32 - 1:34] Neither load nor systemic
+[1:32 - 1:34] hormones determine resistance
+[1:32 - 1:34] training-mediated hypertrophy
+[1:32 - 1:34] or strength gains in resistance-
+[1:32 - 1:34] trained young men
+[1:32 - 1:34] ‘on et al. J Appl Physiol (19
+[1:32 - 1:34] Show details
+[1:33] स्ब्श्जा्जाला
+[1:33] thejgrowth| a Sifast: twiteh)
+[1:33] musclesfibers showed|no “a
+[1:33] muscle growth occurs
+[1:34] हि: No a Ls]
+[1:34] regardless
+[1:35] itl of i fiber है पे
+[1:36] ee aoe
+[1:36 - 1:38] mechanical tension whic
+[1:37] Pci
+[1:38] causes growth not an
+[1:38] arbitrary
+[1:39] 7 range so the best
+[1:41] Sad
+[1:41] is probably going tobe *
+[1:42] eles]
+[1:42] s | High vont 1
+[1:42] mel
+[1:42] With a 5 to 10 rep’
+[1:43] ७5९
+[1:43] 13 0६8
+[1:43] ech
+[1:43] seel
+[1:43] न] * equate Vel
+[1:43] List SE «० 1 ert
+[1:43] training
+[1:44] 61230]
+[1:44] 6६३९
+[1:44] ञ Jel)
+[1:44] 71875 | High Load |/0-2RIR |
+[1:44] squat
+[1:44] 151
+[1:44] with relatively high |
+[1:45] जाझ
+[1:45] with adeq'
+[1:46] and with adequate volu
+[1:46] so yt

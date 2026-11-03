@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[338] https://www.instagram.com/reel/DYzfnhPMT5x/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 7738०]
+[0:00] SIN
+[0:00 - 0:02] got'the
+[0:00 - 0:02] seatbelt
+[0:00 - 0:09] From the sbls here
+[0:00 - 0:09] ilo stability max
+[0:01] got the’seatbelt
+[0:01] “ey i
+[0:02] Dix
+[0:02] 1 >> हि
+[0:02 - 0:05] they
+[0:03] an helseatbelt
+[0:04] 116)
+[0:04] From
+[0:04] the anh here
+[0:04] ole
+[0:05] करे
+[0:05] NSO
+[0:05 - 0:09] got the seatbelt
+[0:06] 1॥ 2) 001 the seatbelt
+[0:07] Bae
+[0:07] कील
+[0:08] ool
+[0:08] wwf
+[0:09] क्र
+[0:09] mad

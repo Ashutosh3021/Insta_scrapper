@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[257] https://www.instagram.com/reel/DaiASB9MVdR/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] That's the way everyday goes
+[0:04 - 0:06] Every time we've no control
+[0:06 - 0:08] If the sky is pink and white
+[0:08 - 0:10] If the ground is black and yellow
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a अब
+[0:00] iSimealising
+[0:01] है. 5
+[0:01] Maturing is realising
+[0:01] हनन
+[0:02] Tite
+[0:02] much
+[0:02 - 0:03] Maititers as
+[0:02 - 0:03] the hours
+[0:03] you
+[0:03] syyoulsleep
+[0:04] aisthongen
+[0:04] OF ell-ea
+[0:04] and
+[0:04] fic
+[0:04] montalit
+[0:04] on है
+[0:04] ६८:२८
+[0:05] (Offall-cause
+[0:05] dicau
+[0:05] cific
+[0:05] I! iy
+[0:05] “spe
+[0:05] tality,
+[0:05] Jeol
+[0:05] _s कलम ८222 |
+[0:06] Matters as muchtas\tine)
+[0:06] eel |
+[0:06 - 0:07] ine time\yourslee
+[0:07] Hine
+[0:07] as much the)
+[0:07] फिल्म्स
+[0:08] leeprontime))»
+[0:09] ate ि
+[0:09 - 0:10] Sleep
+[0:10] 0९३७.
+[0:10] ST ae |
