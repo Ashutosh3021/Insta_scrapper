@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[61] https://www.instagram.com/reel/DbV3TVwTIUJ/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] अच्छे इन में लुक्स फॉर इस तो इस तो हाइ माइ नाम है हरसित एंड आई डिट 10 प्लस ब्रेंड डिल्स एंड सम पेड शूट्स एंड आई एफ 16 मिलियन रिच इन माइ मेंन चैनल
+[0:09 - 0:09] सो ये इतनी बड़ी भी अच्छीवमेंट नहीं है बट मेरे लिए बहुत है मे
+[0:09 - 0:15] तो यह इतनी बड़ी भी achievement नहीं है बट मेरे लिए बहुत है मेरे खाने, कपड़े और mobile के recharge के लिए
+[0:15 - 0:20] तो इन दो सालों में मैंने खुद को बहुत change किया है तो मैं तेरे को भी कर सकता हूँ भाई
+[0:20 - 0:25] तो if you want to change your life then connect with me because
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] gS S
+[0:04] Pree 2100109
+[0:04] #281
+[0:04] Sonnets
+[0:04 - 0:05] hocotate crane!
+[0:04 - 0:05] Gprojectskin.co ७
+[0:04 - 0:05] SKIN A
+[0:05] 10+)brand 6
+[0:05] Ghyemicare «©
+[0:05] azeciri tis
+[0:05] ‘Smt
+[0:05] By t
+[0:05] be «Si
+[0:06] id shoots
+[0:07 - 0:09] 16M reach in
+[0:07 - 0:09] (Main channel)
+[0:08] 1vT \
+[0:08 - 0:09] Share profile
+[0:09] Prat
+[0:09] Eaitprofile
+[0:10] 122
+[0:14] Recharge
+[0:18] श्र
+[0:20] 5 Le

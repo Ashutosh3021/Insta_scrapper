@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[17] https://www.instagram.com/reel/DcLEi6Ozowa/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] Субтитры сделал DimaTorzok
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:03] *bullying
+[0:02 - 0:03] ino glow up’
+[0:03] ogy?
+[0:03] *few friends

@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[1] https://www.instagram.com/reel/DdjM_F0pKQc/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: pt
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Bate, espiroca, e bota a armada, tira, mostra como faz
+[0:03 - 0:06] Ai, ai, que loucura, ai, ai, que loucura
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] “५98४
+[0:00 - 0:01] GRIGKE;
+[0:00 - 0:03] ‘ou can't change प्र one
+[0:00 - 0:03] year!”
+[0:00 - 0:03] BEHROF
+[0:00 - 0:03] ACADE!!
+[0:01 - 0:03] 692
+[0:02 - 0:03] CRICK
+[0:05] : 00 Lag
+[0:07] sd J
+[0:08] aan
+[0:10] ie 1
+[0:10] She:

@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[9] https://www.instagram.com/reel/DcnPTpOzWIT/
+STATUS: OK
+DURATION: 1:28   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] तो इस वीडियो में मैं बताने वाला हूँ आप अपने dark spots कैसे हटाओगे
+[0:03 - 0:05] कुछ comment आये थे उसी का reply मैं दे रहा हूँ
+[0:05 - 0:09] अगर आपको और चीज की problem है तो वो मुझे comment में बता देना
+[0:09 - 0:14] तो dark spots and white spots हटाने के लिए आपको अगर dark spots white spots normal है
+[0:14 - 0:16] तो आपको scrub करना है
+[0:16 - 0:22] अगर वो normal से जादा है तो आपको एक salicylic acid का face wash लेना है
+[0:22 - 0:28] मैंने आपको एक पहली वीडियो में बता दा था salicylic acid के face wash से आपके अंदर के dirt clear होते है
+[0:28 - 0:32] वो face wash अंदर जाए के dirt clear करता है आप कोई भी company का use कर सकते है
+[0:32 - 0:48] सेकंड चीज है retinol अगर आप retinol use करते हो अच्छे से रात को तो आपकी skin धीरी धीरे और ब्लो होती रहेगी क्योंकि उसका collagen increase होता रहेगा age के साथ से अपना collagen कम होता रहता है बॉडी में बट आप retinol या tretinol use करते हो तो आपकी skin में collagen बढ़ता है
+[0:48 - 0:56] collagen आपकी skin को clear करने में help करता है तो अगर आप collagen एक महीने use करोगे तो आपकी skin बहुत ही जल्दी improve हो जाएगी
+[0:56 - 1:04] बट अगर आप retinol use करते हो तो आपकी skin sensitive भी हो जाती है तो उसके लिए आपको morning में sunscreen लगानी बहुत जरूरी है
+[1:04 - 1:12] अगर आप retinol लगाते हो या tretinoin लगाते हो और अगर आपने sunscreen नहीं लगाई सुबह तो आपकी skin डबल damage हो सकती है तो ये careful रखना
+[1:12 - 1:21] तो आपको कभी भी अपने blackheads या whiteheads का से दबा के निकालना नहीं है उससे वो pores open होगे और bacteria फैलेंगे वो जर
+[1:21 - 1:27] है तो बस इतना ही था इस वीडियो में यह सब चीज ध्यान में रखना एंड उसको फॉलो करते रहना बाय-बाय गाइस वीडियो
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] i AN
+[0:02] १56
+[0:04] ij । Vy fh
+[0:09] ie ६ प्सॉेससनननन नस
+[0:10] हनन
+[0:11] fit AN
+[0:15] iil
+[0:16] fil
+[0:20] १०० जल
+[0:27] NAN
+[0:29] iy i\
+[0:30] ¥ fal
+[0:36] 1 AN
+[0:38] ॥ iv f
+[0:39] 52277
+[0:40] iwi
+[0:43] aah
+[0:45] विफल
+[0:49] दर wy
+[0:49] y ve
+[0:51] हैँ
+[0:54] it Hi)
+[1:01] 384
+[1:05] ee SSS
+[1:07] | iv i
+[1:08] Dh 1
+[1:09] fin, AN
+[1:10] th A
+[1:16] है| कि
+[1:22] _— aaa
+[1:24] fii, Hy
+[1:26] 3488
+[1:27] (हि न
+[1:28] 3 444

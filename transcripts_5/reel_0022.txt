@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[22] https://www.instagram.com/reel/DcGbN76zyW4/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] ПОДПИШИСЬ НА КАНАЛ!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Fax
+[0:00] eee
+[0:00 - 0:02] care
+[0:01] a! IP
+[0:01 - 0:02] (f Expos
+[0:02] a; पु |
+[0:02] onan
+[0:03] ८ 1॥ | ae
+[0:03] sing my skincare
+[0:03] ७... 12100
+[0:03] produc
+[0:04] in ss
+[0:05] क्र
+[0:05] Sie
+[0:05] lanes
+[0:05] Ane
+[0:07] Rs a. Ge &
+[0:10] ay i
+[0:10] कक wi
+[0:11] ay ७७४ we

@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[50] https://www.instagram.com/reel/Dbsg_WxzuxY/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] अं ed So.
+[0:00 - 0:04] bit
+[0:01 - 0:04] He thin!
+[0:05] ae 4

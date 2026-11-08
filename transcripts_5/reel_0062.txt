@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[62] https://www.instagram.com/reel/DYEKRXDJtQr/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Je youl
+[0:00] roblem
+[0:03] (Sugary food }
+[0:03] ( Onion method )
+[0:03] Mopaee
+[0:03 - 0:07] PROBLEM
+[0:03 - 0:07] SOLUTION
+[0:04] विवि
+[0:04] fh OD
+[0:04] ( Dirty pillow )
+[0:04] (Ginger method }
+[0:04] Nig
+[0:05] (Voping |
+[0:05] (Banana peel method }
+[0:06] Suge)
+[0:06 - 0:07] aes 92
+[0:06 - 0:07] (Using soap )
+[0:06 - 0:07] { Lemon scrub }
+[0:07] (ज्सजट>ट

@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[45] https://www.instagram.com/reel/DbxkX25TP6Z/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] *Outro*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] great;
+[0:00] wine)
+[0:00] lore
+[0:01] outfit de
+[0:01] [Wwhojishyourtailor’
+[0:02] hero
+[0:02] looks;
+[0:02] who)
+[0:02] your
+[0:02] ‘tailoregs
+[0:02] श्र
+[0:03] great,
+[0:04] fee
+[0:04] Ie Ot
+[0:04] Mholis\Vountallor
+[0:05] ihe)
+[0:05] fis
+[0:05] is your
+[0:06] beiitne)
+[0:06] An great!
+[0:06] ७५19)
+[0:06] अमल
+[0:07] गाए
+[0:07] iis ;
+[0:07] igie:
+[0:07] wiht
+[0:07] Mretilor

@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[64] https://www.instagram.com/reel/DVpkT9zk0yy/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: pt
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:18] Música
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Pov: When"genetics" fail
+[0:11] am et
+[0:11] 060 06
+[0:12] ana
+[0:12] wered by Ortho2
+[0:13] bates

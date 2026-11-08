@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[56] https://www.instagram.com/reel/DbhlyahzMYN/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: te
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] దేనారు తేరా మిల్నే కే బాద హీ ఛూటే మేరి అంగ్డాఈ
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] ४६6
+[0:00 - 0:03] pte
+[0:06] a he
+[0:06] pil
+[0:06] Bas pyaar Kamme
+[0:06] alle
+[0:07] Bas
+[0:07] 1४ falgkarn ॥

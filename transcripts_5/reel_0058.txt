@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[58] https://www.instagram.com/reel/DbfFF0rzoHL/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: es
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] música que entretiene
+[0:01 - 0:05] el mundo nos quiere, nos quiere, me quiere a mi
+[0:05 - 0:07] toda mi gente se mueve
+[0:07 - 0:10] mira el ritmo como los tiene
+[0:10 - 0:12] a donde se va
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Howjillookvsy |
+[0:03] (12014
+[0:03] २ चट
+[0:04] | look vs
+[0:04] Te BD
+[0:06] 100४ 90 describes me
+[0:07] How bro लक, me
+[0:08 - 0:10] How bro describes me’
+[0:09] V2 a
+[0:09] How bro so “लत in
+[0:11] (Zz y
+[0:11] low br

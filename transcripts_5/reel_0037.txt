@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[37] https://www.instagram.com/reel/Db3KQHjzyQ8/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] You be saying no, no
+[0:03 - 0:06] Them saying yes, yes, yes
+[0:06 - 0:08] Cause you're messing with your head
+[0:08 - 0:11] Oh, she's sweet but a psycho
+[0:11 - 0:13] A little bit psycho
+[0:13 - 0:17] And I just feel like I'm on, on, on, on my mind
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] | | हट ni : जाओ ra
+[0:00] In shape
+[0:00 - 0:02] cone of the best gift you can give
+[0:01] ore |
+[0:01] ‘oor
+[0:01] one of he
+[0:01] "yours
+[0:02] Gating your body shape is
+[0:02] ‘te yoursel
+[0:04] he ‘ey
+[0:05] क्र
+[0:05] a! | iy > th
+[0:05] Vie
+[0:05] ७००५ in shape
+[0:06] ay ता by
+[0:06] Es. eset
+[0:06] Getting yur body in
+[0:08] का ss
+[0:08 - 0:09] one ofthe best gift you can ave
+[0:09] Tt i}
+[0:09] BO) | i
+[0:09] Getting your body in shpat,
+[0:10] ज्नान ra
+[0:10] colin ge Os
+[0:11] el, i ऐ
+[0:11] mes
+[0:11] ial
+[0:11] ean give
+[0:12] r a4
+[0:12] है tr
+[0:12] age =
+[0:13] Be] | ii
+[0:13] Tee
+[0:14] जाय ra
+[0:14 - 0:15] ost 90 you can give
+[0:15] pur
+[0:15] जाना ४
+[0:15] 10180
+[0:15] your body
+[0:16] ज्गााला ४
+[0:16] eras ~
+[0:16] you a iB
+[0:16] evan tena
+[0:17] vases |
+[0:17] er ma कप
+[0:17] 71 12

@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[63] https://www.instagram.com/reel/DW-pjqtz8AD/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] *Demonic laughter*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iil
+[0:00] किक
+[0:00] ees
+[0:00 - 0:04] Spe,
+[0:00 - 0:04] ४९: ही:
+[0:00 - 0:04] ४४ fit!
+[0:00 - 0:05] gyeen flag!
+[0:01 - 0:04] jit
+[0:01 - 0:04] ३९५
+[0:01 - 0:04] ete
+[0:05] ih alte
+[0:06 - 0:08] Gre
+[0:08] ane
+[0:10 - 0:13] d flag |”

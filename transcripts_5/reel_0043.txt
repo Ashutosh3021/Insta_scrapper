@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[43] https://www.instagram.com/reel/Dbz1y9XzlgP/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] The latter day, it's far too late, the time has come, I'm on the verge of giving it all away
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] "That, की skinny boy
+[0:00 - 0:04] led a
+[0:00 - 0:05] stony;
+[0:05] foal oneyskinny boy
+[0:05] posted
+[0:05] get
+[0:06] ॥ Lira
+[0:06] Al ले
+[0:06 - 0:07] न AAA)
+[0:07] Ihe:
+[0:07] loys
+[0:07] है है|
+[0:07] eo) Blva
+[0:07 - 0:08] ॥ ‘rua
+[0:08] १ AAA)
+[0:08] 30Al
+[0:08] lox
+[0:08] tas |
+[0:08] oe) 21 ५ /,

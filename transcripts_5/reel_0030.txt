@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[30] https://www.instagram.com/reel/Db-51xuzYgl/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: ur
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] موسیقی
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] haul
+[0:02] व आछ
+[0:03] “LIKED YOUR STORY”
+[0:12] Hee
+[0:13] हैः
+[0:14] [AGRAM USER”
+[0:15] inf
+[0:18 - 0:20] “INSTAGRAM USER”
+[0:20] ite
+[0:20] 92328
