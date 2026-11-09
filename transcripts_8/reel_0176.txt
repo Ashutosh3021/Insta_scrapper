@@ -1,0 +1,65 @@
+# model: ggml-large-v3
+========================================================================
+[176] https://www.instagram.com/reel/C5d6zm-ASsh/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Most days I let my hair do its own thing, but for those special occasions, that's when
+[0:04 - 0:06] the blow dryer comes into play.
+[0:06 - 0:10] Here's a little secret to getting it just right.
+[0:10 - 0:12] Start with the setting on high.
+[0:12 - 0:17] You begin with warm air to gently coax moisture out without stressing your hair.
+[0:17 - 0:25] Then, as it begins to dry, you switch to hot to really seal the look.
+[0:25 - 0:30] My hair, you see, tends to be on the flatter side, lacking that natural volume, but with
+[0:30 - 0:34] the blow dryer, I can give it that much needed lift.
+[0:34 - 0:40] The trick is to start with no particular direction, moving the dryer around to get an even dry.
+[0:40 - 0:45] Once it's halfway there, that's when you get strategic, aiming the heat in directions
+[0:45 - 0:50] that sculpt that messy middle part.
+[0:50 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 0:55] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+[0:55 - 1:00] It's all about using the heat to your advantage, creating a look that's effortlessly stylish.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] day
+[0:01] ary
+[0:01] 43 हैः
+[0:01] “its:
+[0:03] की त>
+[0:03] अहन
+[0:03] oce a 1810 es 1s
+[0:05] play
+[0:14] gently
+[0:15] cON
+[0:16] our
+[0:24] बेन
+[0:28] igi
+[0:28] See
+[0:29] natu
+[0:32] rat)
+[0:36] 4 yi
+[0:38] drye
+[0:41] 61006
+[0:43] strategic
+[0:44] aiming
+[0:44] mie
+[0:50] Lead
+[0:51] eat
+[0:52] श्र
+[0:52] advantage
+[0:54] stylish
+[0:55] 122
+[0:58 - 1:00] result,the NEXT, 4
+[0:59] BG as

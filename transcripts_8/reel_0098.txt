@@ -1,0 +1,72 @@
+# model: ggml-large-v3
+========================================================================
+[98] https://www.instagram.com/reel/C_1oz_bSywn/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] so what brings you to mogwarts man i just want to spread some info about uh bone smashing i don't
+[0:04 - 0:08] know if i heard you correctly you say bone smashing yeah yeah bone smashing okay so just
+[0:08 - 0:14] explain to me the idea behind it so uh bone smashing is according to wolf's law how like
+[0:14 - 0:20] when you uh cause micro trauma to a bone it'll actually grow back uh stronger and bigger so
+[0:20 - 0:23] you've never heard of that well first off the fractures that you're causing on your face i
+[0:23 - 0:28] think the majority of it is just inflammation and apart from that i would say the growth is
+[0:28 - 0:32] irregular and there's no way to actually go about it in a very symmetrical manner
+[0:32 - 0:37] do you agree well you're already asymmetrical in the first place so you're just causing new growth
+[0:37 - 0:38] so either way it'll work
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] SSN
+[0:01] man # |
+[0:02] 0 ae
+[0:03] CEA
+[0:04] heard
+[0:04 - 0:06] Pere
+[0:05] vou say
+[0:06] > eed
+[0:07] be / f
+[0:07] १ mw’
+[0:09] \, aed
+[0:09] som
+[0:09] dwt
+[0:10] ehi :
+[0:10] bar
+[0:10] [A बल
+[0:11] bone” =
+[0:12] All
+[0:13] 40०७)
+[0:14 - 0:15] Ais
+[0:15] you
+[0:15] “hen
+[0:16] Mins
+[0:16] trauma
+[0:17] itiwill—
+[0:18] श्र
+[0:18] back
+[0:18] due’!
+[0:19] we a
+[0:19] bigger,
+[0:20] youve’ neve
+[0:22] हैं ॥|
+[0:22] thaty
+[0:23] Ithink®
+[0:23] जाना
+[0:23] मी >८
+[0:24] pal just
+[0:29] irregular,
+[0:30] a Le
+[0:30] San \
+[0:30] ern
+[0:31] symmetrical
+[0:31] ent
+[0:33] ca 2
+[0:33] dae!
+[0:34] gasymmetrical
+[0:35] हैं,
+[0:35] Ss 5
+[0:35] j first;place
+[0:37] नि न
+[0:37] ग्रे
+[0:38] क्र
+[0:38] i II

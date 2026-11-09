@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[44] https://www.instagram.com/reel/DHml1q_AFXz/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] back to back to back to back to back to back to back to back to back to back to back to back to back
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ey laugh debloat /
+[0:00] = लाश
+[0:01] rs) है
+[0:01] ive laugh alow ७
+[0:01] ११ we
+[0:01] ७००.
+[0:02] rs) laughldebioat ०
+[0:02] कै. जा
+[0:04] dies
+[0:04] 1) wie Pit
+[0:04 - 0:05] श्र
+[0:05] h री
+[0:06] ees
+[0:06] ait

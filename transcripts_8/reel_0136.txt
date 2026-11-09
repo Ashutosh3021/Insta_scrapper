@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[136] https://www.instagram.com/reel/C8IuOsjvK3x/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: pt
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Tchau, tchau.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] गण eat
+[0:01] ५००९
+[0:02] gels
+[0:03] 1 कल
+[0:03] chin *
+[0:03] Ele
+[0:03] lel to ico
+[0:04] जी HING.
+[0:04] sata llelito;floor.
+[0:05] mustib parallel 10 floor
+[0:06 - 0:07] POSTURE >> LIGHTING:
+[0:06 - 0:08] proof that SS
+[0:08] POSTURE'>> Eten
+[0:10] ithekGe
+[0:11] Wour
+[0:12] Weur
+[0:13] OID)
+[0:13] muUscl=cs
+[0:14] 1६३
+[0:15] ICE)
+[0:15] You
+[0:16] iil Tie
+[0:16] 4१4)
+[0:16] iflexing
+[0:16] Imuscles:
+[0:17] rn}to/hol }
+[0:17 - 0:19] posturejindefinitely.
+[0:18] A learn)
+[0:18] not this
+[0:19] 4slea
+[0:19] की; this

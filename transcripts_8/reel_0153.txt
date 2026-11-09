@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[153] https://www.instagram.com/reel/C67tIjbLI9l/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] you know that i'm that guy from tiktok and before telling me that you asked me to say the unworthy
+[0:05 - 0:07] like you're actually
+[0:07 - 0:17] like if you told me after you recognize me okay but you told me before bro like
+[0:17 - 0:24] it's messed up we'll do that are you gonna say it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] @amaw
+[0:00 - 0:24] this man is straight up evil कै
+[0:02 - 0:03] VALS
+[0:09] Baza
+[0:10] @azw
+[0:11 - 0:12] @arnw
+[0:13] प्र
+[0:13] J my
+[0:13 - 0:14] @aza
+[0:15] @axas
+[0:17] @oxas
+[0:18] @ara
+[0:19] Baza
+[0:20] @ama
+[0:24] हि) ७०७

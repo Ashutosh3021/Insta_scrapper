@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[184] https://www.instagram.com/reel/C4rRnsUvAEi/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] *Dramatic music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] GFR
+[0:00] हैं
+[0:00 - 0:02] im so insignificant in)
+[0:00 - 0:02] this galaxy”
+[0:01] हरी"
+[0:03 - 0:06] “iam the result of God's’
+[0:03 - 0:06] infinite)brilliance”®

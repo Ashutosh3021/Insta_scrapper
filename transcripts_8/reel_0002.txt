@@ -1,0 +1,164 @@
+# model: ggml-large-v3
+========================================================================
+[2] https://www.instagram.com/reel/DcR9PZzPyzu/
+STATUS: OK
+DURATION: 1:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Let me introduce you guys to D-Bloat Light.
+[0:02 - 0:04] This is not a replacement for D-Bloat,
+[0:04 - 0:04] don't get me wrong here.
+[0:04 - 0:06] This is entirely new, a designed formula
+[0:06 - 0:08] for the days that are in between.
+[0:08 - 0:10] I'm talking about the days where you're at work,
+[0:10 - 0:12] traveling, at the gym, and you just want something
+[0:12 - 0:14] that you can throw in your bag and take it anywhere.
+[0:14 - 0:16] And that's why it comes in the form of stick packs.
+[0:16 - 0:18] You get 24 packs in every single box.
+[0:18 - 0:20] I also rebuilt the formula from the ground up.
+[0:20 - 0:22] You're getting 1,000 milligrams of potassium instead
+[0:22 - 0:23] with 150 milligrams of sodium,
+[0:23 - 0:25] which is exactly where the word light comes from,
+[0:25 - 0:26] which stands for electrolyte.
+[0:26 - 0:29] You also get vitamin C, magnesium, digestive enzymes.
+[0:29 - 0:30] These are ingredients that are in here,
+[0:30 - 0:32] as well as dandelion root.
+[0:32 - 0:32] I kept that in there.
+[0:32 - 0:34] I also swapped this flavoring from stevia
+[0:34 - 0:36] to natural cane sugar.
+[0:36 - 0:38] I put a small amount to make it taste amazingly better,
+[0:38 - 0:38] you guys.
+[0:38 - 0:41] It dramatically tastes better while only being 10 calories.
+[0:41 - 0:43] It's all in the back here, very transparent.
+[0:43 - 0:44] And it's gonna be available in three different flavors
+[0:44 - 0:46] as a result in a variety pack.
+[0:46 - 0:48] You get eight sticks of each, being red cherry ice,
+[0:48 - 0:50] pink lemonade, and blue raspberry.
+[0:50 - 0:51] But what I'm most excited about
+[0:51 - 0:53] isn't even the formula, you guys.
+[0:53 - 0:55] It's the fact that D-Bloat Light is the first product
+[0:55 - 0:57] built around the new Attract identity,
+[0:57 - 0:58] the new look, the new packaging,
+[0:58 - 0:59] the overall experience,
+[0:59 - 1:00] which is what I wanted from the beginning
+[1:00 - 1:02] for this company, you guys, since day one.
+[1:02 - 1:04] And if you wanna be the first to get your hands on this,
+[1:04 - 1:08] you can head over to attract.com, spelled A-T-R-A-K-T, .com.
+[1:08 - 1:10] You can join our SMS list and you'll be notified
+[1:10 - 1:12] the moment D-Bloat Light drops.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 019
+[0:00] pie
+[0:01] WH ire,
+[0:02] ile
+[0:02] = aTmaxt
+[0:02] ee LYTE
+[0:02] oo omens,
+[0:02] Dee Bee
+[0:03] Be BS
+[0:03] say
+[0:03] the
+[0:04] et आम
+[0:04] > ल्खो
+[0:04] eee 5
+[0:05] was
+[0:05] iit
+[0:05] area
+[0:05] ty Ret Cos
+[0:05] D-BLOAT
+[0:06] है es
+[0:06] tina
+[0:07] के 4
+[0:07] ake
+[0:07 - 0:09] ( Mon Tus Wed Thu Fri Sat Sul
+[0:08] lol
+[0:08] 5 BO
+[0:09] ihe,
+[0:09] प्र
+[0:09] eas)
+[0:09 - 0:10] roel
+[0:10] tie
+[0:10] ES आओ
+[0:10] | Fri Sat Sun
+[0:11] 241
+[0:11] Tus Wed Thu Fri
+[0:11] Sun
+[0:11] LLL
+[0:13] 7) fae
+[0:13] stone
+[0:14] किस.
+[0:16] = of j
+[0:16] ETE TESS |
+[0:17] हैः की
+[0:17] 2277०, “15
+[0:18] vas
+[0:18] — __lalso
+[0:21] क्र
+[0:21] ‘ioe
+[0:23] on A
+[0:24] bi है ७
+[0:24] LYTE
+[0:26] y Ar
+[0:26] TATRA
+[0:26] cee
+[0:27] sin
+[0:28] Sr यश
+[0:31] Wie,
+[0:31] Or वा
+[0:32] Ff, 4
+[0:32] * शा नए
+[0:33] ING
+[0:35] i WA
+[0:35] 4 मे
+[0:35] ATR
+[0:36] Bed
+[0:36 - 0:38] _Sesniizie
+[0:37 - 0:38] a ATRAKT
+[0:38] aan
+[0:39] Cesntae
+[0:41] 1068 calories
+[0:42] im 7
+[0:42] हैः
+[0:42] v OF aR
+[0:42] y It's very transparent.
+[0:44] है २६ a
+[0:44] on EE Noh CHEE
+[0:45] fai
+[0:45] sie
+[0:45] wy A
+[0:47] ४ हु
+[0:47] २.८८
+[0:49] श्श्रा
+[0:51] home
+[0:53] at iy
+[0:54] चला हे
+[0:54] att a
+[0:54] LYTE
+[0:54] gor
+[0:56] pore
+[0:56] __ os ATRAKT
+[0:58] ५, ey 7
+[0:58] D-BLOA
+[0:59] Ihe
+[0:59] or ग्याााक.
+[0:59] NEWLOOK
+[0:59] NEW PACKAGING
+[0:59] OVERRAL EXPERIENCE
+[1:00] हे Aibeginnne
+[1:00] न SF
+[1:01] eee
+[1:01] Or ulus
+[1:03] oan
+[1:04] Ose
+[1:04] हनन
+[1:04] eos
+[1:07] प्र
+[1:07] की 4
+[1:07] Sonne
+[1:07] ANE
+[1:08] 1 रूक- J
+[1:08] TRA
+[1:08] OAT LYTE
+[1:12] 1 — ff

@@ -1,0 +1,102 @@
+# model: ggml-large-v3
+========================================================================
+[56] https://www.instagram.com/reel/DGE_rm5RDaF/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] So on a craniofacial level, just by looking at you, you're going to look great as you get older.
+[0:03 - 0:07] The only issue I can see is possibly eye bags, which is what I struggled with.
+[0:07 - 0:09] And you're in good hands because I know exactly what to do.
+[0:09 - 0:09] Here's what I'll tell you.
+[0:09 - 0:12] If your eye bags are from hollowness, if you can look at your under eye,
+[0:12 - 0:14] if it looks like it's from hollowness, which is what I'm seeing right now,
+[0:14 - 0:18] it's a lack of fat or volume under your eye or lack of bone structure.
+[0:18 - 0:21] Now, as you get older, this might get better.
+[0:21 - 0:22] It might get worse.
+[0:22 - 0:23] You also have baby fat here.
+[0:23 - 0:27] So it also increases the separation that you see between the eye skin and the cheek,
+[0:27 - 0:28] you know, the skin on your cheeks.
+[0:28 - 0:30] As you get older, you're going to start losing baby fat.
+[0:30 - 0:33] As long as you stay, you know, somewhat in a deficit or like at least in your maintenance
+[0:33 - 0:36] calories and you're not getting too much fat, your face will start to look better
+[0:36 - 0:37] and those eye bags will go away.
+[0:37 - 0:41] But if they don't go away, then I want you to start using a caffeinated under eye serum
+[0:41 - 0:42] and voluflein.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] craniofacial
+[0:00] be a
+[0:00] wi eee Cy
+[0:01] Seu!
+[0:01] be i q
+[0:01] ip जे
+[0:02] going
+[0:03] ray
+[0:03] sae wi Ee.
+[0:04] प्र
+[0:04] can
+[0:05] eye
+[0:06] what!
+[0:07] you're
+[0:07] की a d
+[0:07] BeAcy
+[0:08] » ss A.
+[0:09] he ae
+[0:09] (eae A
+[0:10] की am
+[0:10] 2 प्र
+[0:10] 2254:
+[0:12] श्र
+[0:12] under-eye )
+[0:13] oe ay
+[0:13] 6 मैं
+[0:13] hollowness
+[0:13] Vg ge SQ
+[0:15] ह रे
+[0:15] of fat NS
+[0:15] हैं
+[0:15] MON
+[0:16] q श्‌
+[0:16] volume
+[0:17] AWN
+[0:17] ७3 a ‘
+[0:17] wi eee Cy
+[0:18] ray
+[0:18] structure
+[0:18] ७ ae el
+[0:19] get
+[0:20] 11151110811:66'
+[0:21] might’get
+[0:21] OOS
+[0:22] aA also
+[0:23] के y
+[0:23] wo ही
+[0:23] MOON
+[0:25] between
+[0:25] 5३ की
+[0:26] Tare
+[0:27] skin
+[0:29] w पर
+[0:30] T Bax
+[0:30] Stell,
+[0:30] eae ip) SF
+[0:31] somewhat
+[0:32] प्र
+[0:33] ७ ain ten ance
+[0:34] ae i a F..,
+[0:35] Wea:
+[0:35] yeu
+[0:35] | aed
+[0:35] will
+[0:35] Ye eee oY
+[0:36] eye
+[0:36] Ti aoc
+[0:37] But
+[0:38] ५ पु
+[0:39] Wig
+[0:39] ५10
+[0:39] ea हु
+[0:39] EA c
+[0:40] under-eye

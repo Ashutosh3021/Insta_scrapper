@@ -1,0 +1,72 @@
+# model: ggml-large-v3
+========================================================================
+[115] https://www.instagram.com/reel/C9yc-jMJAxb/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] - Brushing alone won't whiten your teeth.
+[0:02 - 0:05] For that extra sparkle, the easiest at-home treatment
+[0:05 - 0:06] is whitening strips.
+[0:06 - 0:08] Today, I'm going to try them
+[0:08 - 0:09] and see if there's any difference.
+[0:09 - 0:11] I'm using the most popular one out there,
+[0:11 - 0:14] which comes with 40 strips and promises
+[0:14 - 0:16] to whiten your teeth by up to 18 levels.
+[0:16 - 0:19] First, you need to brush your teeth, of course.
+[0:19 - 0:21] Then take the top strip and apply it to your upper teeth,
+[0:21 - 0:24] covering as much as possible without touching your gums.
+[0:24 - 0:26] Do the same for the bottom strip.
+[0:26 - 0:29] The strips stick like glue once they come into contact
+[0:29 - 0:30] with your saliva.
+[0:30 - 0:34] Set a timer for 45 minutes and find a way to pass the time.
+[0:34 - 0:35] When it's time to remove them,
+[0:35 - 0:38] peel them off slowly and rinse your mouth with water.
+[0:38 - 0:39] Here are the results.
+[0:39 - 0:41] I personally see a slight difference,
+[0:41 - 0:43] but there's still a lot more to go.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] as ) सन
+[0:00] brushing
+[0:01] ees”) a
+[0:01] Cag
+[0:01] whiten’
+[0:02] tor
+[0:02] ह १8३
+[0:06] iy te
+[0:07] क्र
+[0:07] Pita
+[0:09] iil
+[0:09] dififie 2)
+[0:10] the
+[0:10] BEVELS
+[0:10] Syme
+[0:10 - 0:11] Crest;
+[0:11] ras
+[0:11] Peet
+[0:13] SUIS,
+[0:13] Dongs
+[0:14] whiten
+[0:15] ३३१०४)
+[0:16] levels
+[0:16] Pr DELL |)
+[0:18] é के
+[0:19] take
+[0:20] EppIy y
+[0:22] lam
+[0:22] mien
+[0:23] ms जे
+[0:25] PS, me
+[0:25] श्र
+[0:26] strip
+[0:29] contact
+[0:31] “for
+[0:32] and.
+[0:32] 86000 ॥
+[0:35] them
+[0:35] 7 के
+[0:36] why
+[0:37] mouth.
+[0:42] é MS

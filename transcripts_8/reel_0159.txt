@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[159] https://www.instagram.com/reel/C6rs8w_yp-7/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] You're not the smartest, you're not the coolest, you're not the best looking, but god damn it, you are so-
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] a tithe smartest
+[0:03] | th fl
+[0:03] 11९%
+[0:03] Fran
+[0:04] sath
+[0:04] fori
+[0:06] Hal
+[0:06] ror

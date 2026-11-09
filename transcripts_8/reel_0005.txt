@@ -1,0 +1,83 @@
+# model: ggml-large-v3
+========================================================================
+[5] https://www.instagram.com/reel/DUwHdHPkjJH/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] Well, clearly he doesn't need anything else if you flew across the country just to watch him walk.
+[0:10 - 0:16] If you guys don't know, this is Brett Cooper, a conservative podcaster who's been consistently going after him.
+[0:16 - 0:19] And by the way, she's married. That's right, she is married.
+[0:19 - 0:23] Imagine if your wife showed up in person, of course flying across the country,
+[0:23 - 0:27] gleefully smiling, shaking hands with someone she claims to be against.
+[0:27 - 0:29] You know, this whole thing feels a little theatrical.
+[0:29 - 0:34] Her actions just don't line up, and I know deep down, just deep down, there's a part of her that loves him.
+[0:34 - 0:37] Anyways, I hope you guys found someone for this Valentine's,
+[0:37 - 0:40] someone who looks at you the way Brett Cooper looks at Clav.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हे sf
+[0:01] . really ha
+[0:02] न्‍है
+[0:02] or core ” |
+[0:03] १४१
+[0:03] ही [३
+[0:04] 131
+[0:04] 216"
+[0:05] vay \st
+[0:05] bi 4
+[0:06] AN 4
+[0:06] हैक
+[0:06] नॉन
+[0:07] IN of
+[0:07] anything else
+[0:07] crs
+[0:08] aca the
+[0:09] Just to w
+[0:10] him wal
+[0:11] know
+[0:12] Brett Cooper
+[0:12] a AW
+[0:13] ie Vv
+[0:14] MORGAN
+[0:14] IKE & SUBSC
+[0:15] west
+[0:15] ESE
+[0:16] he way
+[0:16] 4 Yoon
+[0:16] ut wet
+[0:18] that's 1 0111
+[0:18] के. रे
+[0:18] ae है
+[0:20] Aan
+[0:20] ima
+[0:20] 161
+[0:21] a ed up
+[0:22] i वे
+[0:23] / hee ntry
+[0:24] glee Mf
+[0:25] elt
+[0:25] ang
+[0:25] hands
+[0:26] shel to be
+[0:27] Hs A
+[0:27] ag Vie
+[0:27] Oro,
+[0:28] thing
+[0:29] / ¢ ! theatri
+[0:30] ‘and MAA
+[0:31] andJ IW
+[0:32] wf dee ud
+[0:32] wil
+[0:32] kod
+[0:33] i acon
+[0:33] owl
+[0:34] te loys Mita
+[0:36] b he
+[0:36] / foundsomeone
+[0:37] V bike 5
+[0:38] f who \ you
+[0:39] Brett Cooper
+[0:39] क्री
+[0:40] है — Sl

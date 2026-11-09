@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[53] https://www.instagram.com/reel/DGedpQRAVtC/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] *Outro*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] the power of/coconut water..
+[0:01] mat
+[0:01 - 0:02] 2 (of{coconut water
+[0:03] the power of coconut water..
+[0:04] af power of coconut “ie
+[0:06] ae ae

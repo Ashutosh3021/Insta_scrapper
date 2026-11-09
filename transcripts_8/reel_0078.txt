@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[78] https://www.instagram.com/reel/DDAlaE2SJ3m/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] This is what happens when you stop taking care of your hair.
+[0:02 - 0:07] It gets dry, lifeless, and starts looking like a neglected broomstick.
+[0:07 - 0:13] But let me show you how to save it in three simple steps with this all-natural leave-in conditioner from Based Body Works.
+[0:13 - 0:16] Step 1. After your shower, towel dry your hair.
+[0:16 - 0:18] Quickly, no need to overthink it.
+[0:18 - 0:21] Step 2. Apply a generous amount of the leave-in conditioner.
+[0:21 - 0:25] Work it through evenly and then slick your hair back using a comb.
+[0:25 - 0:26] It's that simple.
+[0:26 - 0:28] Step 3. Let it air dry.
+[0:28 - 0:29] And here's the result.
+[0:30 - 0:33] Smooth, hydrated, healthy-looking hair that feels as good as it looks.
+[0:33 - 0:37] Don't let your hair suffer. Invest in it. Invest in Based.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] NESS
+[0:01] Vif /
+[0:01] ‘sto
+[0:01] uy \1
+[0:02] mas
+[0:03] gets
+[0:04] less
+[0:05] arts
+[0:06] tig) SS
+[0:06] ASS
+[0:06] lected
+[0:07] ज्च्क
+[0:07] bu है
+[0:07] PE ih
+[0:08] ia ह
+[0:09] teps
+[0:09] mm छह
+[0:10] natural
+[0:10] श्र
+[0:10] dal
+[0:10] Cont ner
+[0:12] तक Bodyworks:
+[0:13] Base
+[0:15] ony
+[0:16] eZ Ss
+[0:16] f Ys
+[0:16] VEZ A
+[0:16] ees |
+[0:17] ak=X=xe|
+[0:18] step)
+[0:19] apply
+[0:21] conditioner,
+[0:22] Wf (5
+[0:24] ‘back
+[0:25] comb-
+[0:26] Slim
+[0:27] EZ, dp
+[0:28] GIlAY rH)
+[0:29] iii
+[0:29] res
+[0:29] ult '
+[0:30] smooth ०
+[0:30] Yay
+[0:31] i] Sh yet ated
+[0:32] hair है
+[0:33] Why
+[0:33] aid
+[0:35 - 0:36] est
+[0:37] eyA\
+[0:37] SED.
+[0:37] 8४898;
+[0:37] (00०0
+[0:37] 88 (४४००१

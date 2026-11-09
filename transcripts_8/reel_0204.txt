@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[204] https://www.instagram.com/reel/Cvyt-TJvbSv/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] Are you trying to be your stream of love when you call me?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] बनकर
+[0:00] BAA
+[0:00] Tae
+[0:00 - 0:05] (the residents are evil)
+[0:00 - 0:08] barks at me’
+[0:00 - 0:10] me when my neighbor's dog f
+[0:01] (the 2
+[0:01] ५ 422
+[0:01] 728
+[0:03] (the & arevevil)
+[0:06] Gi re
+[0:06] ents are evil)
+[0:07] (the residents execu)
+[0:08 - 0:10] (the residents are’evil)
+[0:09] e atme =
+[0:10] wr sat me
+[0:11] Vda

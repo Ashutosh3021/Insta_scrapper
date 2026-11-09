@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[170] https://www.instagram.com/reel/C56_li9vgZR/
+STATUS: OK
+DURATION: 1:02   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] tired eyes pimples unkempt hair rough stubble it's like looking at a stranger in the mirror
+[0:06 - 0:11] all of this just because i let myself go for a bit being sick has a way of throwing everything off
+[0:11 - 0:18] it's not just the body that gets hit but everything else too your routine your habits they all fall
+[0:18 - 0:24] like dominoes but it's nothing new really happens to everyone at some point the trick is not to beat
+[0:24 - 0:30] yourself up about it you've got to start small to get back on track baby steps it's all about
+[0:30 - 0:35] taking that first tiny move doesn't matter how small as long as it's in the right direction
+[0:35 - 0:40] start with something as simple as trimming your nails it's minor but it's a start then maybe move
+[0:40 - 0:46] on to plucking those stray hairs it's oddly satisfying in a way a shower that's a big one
+[0:46 - 0:53] let the hot water run and with each drop feel a bit of the mess wash away let the steam open up
+[0:53 - 0:54] your airway
+[0:54 - 0:54] you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] levies}
+[0:02] fal
+[0:03] ill
+[0:03] 53७
+[0:05] look
+[0:07] just
+[0:08] ८74
+[0:08] jas
+[0:08] y wage.
+[0:08] e 4 Ce
+[0:08] 935
+[0:09] Mere
+[0:10] Bia
+[0:14] every
+[0:14] thing
+[0:16] tine
+[0:17] habits
+[0:19] dom
+[0:21] eam
+[0:24] OUrse
+[0:26] Salis
+[0:28] fi a cm
+[0:29] steps
+[0:32] क्र है."
+[0:41] ing
+[0:42] alr
+[0:46] रू 5
+[0:48] हैक 4
+[0:49] , 11०1०]
+[0:52] let
+[0:54] = WEN
+[0:58] aw s

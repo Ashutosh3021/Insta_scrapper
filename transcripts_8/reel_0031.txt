@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[31] https://www.instagram.com/reel/DJAX0P8Tihg/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Oh, Tom Cruise is short.
+[0:01 - 0:02] You're not Tom Cruise.
+[0:02 - 0:05] You're not a billionaire, actor, famous,
+[0:05 - 0:07] with clout and a really good face card.
+[0:07 - 0:11] Now, if all goes to failure, just take the dog pill.
+[0:11 - 0:13] Because if you're not a nine or rich,
+[0:13 - 0:15] she'd rather be with a canine.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ir ‘SF
+[0:00 - 0:15] "but tom cruise is short"
+[0:01] 4 VS 2
+[0:01] mm AY
+[0:03] ~ ID ct in
+[0:03] की फा
+[0:04] aris
+[0:04] me Al
+[0:04] SSI
+[0:05] mm A
+[0:06] ve Muscles.
+[0:06] is <1
+[0:06] ib Suykreits
+[0:06] Badin Al
+[0:06] for Fe
+[0:07] 0०० #०
+[0:07] it 2.8/0००ौ<
+[0:07] आग Al
+[0:07] पा a
+[0:07] fow He
+[0:09] eee | \
+[0:10] ५ कि
+[0:12] 3 सु
+[0:12] ete
+[0:13] aN (०
+[0:14] ऋनचनओ
+[0:14] गजल
+[0:14] ate
+[0:14] oN) WA
+[0:14] Ove

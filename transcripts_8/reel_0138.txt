@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[138] https://www.instagram.com/reel/C7-NAWlynIb/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:17] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हैः
+[0:00 - 0:06] “they won't understand you”
+[0:02] rat
+[0:06] न्यू
+[0:07 - 0:13] the uncs approvilig in unison:
+[0:11] sy “es
+[0:11] Bess
+[0:12] हि ० जे.
+[0:15] AF के
+[0:15] ohms
+[0:16] TAMRON “a कक

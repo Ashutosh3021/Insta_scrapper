@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[247] https://www.instagram.com/reel/CXEg3YNlW-C/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I just want money that's calm
+[0:02 - 0:04] Teenage never worry bout nothing
+[0:04 - 0:06] I ain't never been with a baddie
+[0:06 - 0:08] She calm so I add it to the tally
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] _ Ws yoOurmrelattractive
+[0:00] theythink’y:
+[0:00] ७७3,
+[0:00 - 0:02] when
+[0:00 - 0:02] revlying
+[0:00 - 0:07] being a virgin
+[0:01] yourrerattractivelwhen
+[0:01] thi
+[0:01] nk'you
+[0:02] think you
+[0:03] Ves
+[0:03] wien)
+[0:03] think:
+[0:03] youre’
+[0:04] Wik youre eriactive wien
+[0:04] theyathim¢
+[0:04] avirgin ®
+[0:04 - 0:05] igrabout
+[0:04 - 0:06] lying
+[0:05] Vik:
+[0:05] (०1179
+[0:05] inksyourre lyin
+[0:05] क्र
+[0:05 - 0:06] they; |
+[0:06] Yikiyou
+[0:06] Pit
+[0:07] thinkayou

@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[193] https://www.instagram.com/reel/C3YZQI-SiOp/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ‘why's he alw: 4
+[0:00] fap
+[0:01 - 0:02] 4 “why’'s he alwaysjso quiet’
+[0:03] r ‘why's he alway; q —
+[0:03] श्र
+[0:03] ei iN
+[0:04] te ib he always'so
+[0:05] ae af
+[0:06] हैँ “why’'s he always so}
+[0:08] Ke «4
+[0:10] “ack
+[0:11] < BPs
+[0:12] | a 48
+[0:13] SE f
+[0:14] ees
+[0:14] Pew
+[0:14] {373

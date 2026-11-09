@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[108] https://www.instagram.com/reel/C_B_aKMyWkl/
+STATUS: OK
+DURATION: 0:48   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I will not be getting the R9 haircut.
+[0:02 - 0:06] Instead, I'll be trimming my own hair for the very first time.
+[0:06 - 0:08] Honestly, I'm a little nervous.
+[0:08 - 0:13] I couldn't find a proper pair of scissors, so I ended up using my cat's nail clippers.
+[0:13 - 0:14] Yes, you heard that right.
+[0:14 - 0:19] This is one of those spontaneous moments that could either turn out surprisingly well
+[0:19 - 0:20] or completely mess up your life.
+[0:20 - 0:23] My biggest challenge was the sides.
+[0:23 - 0:28] They'd grown too long and started puffing out, so I just bundled them up and snipped away.
+[0:30 - 0:33] Trying to keep things symmetrical, I tackled the back sides
+[0:33 - 0:36] and soon realized the front needed some work too.
+[0:36 - 0:40] I didn't expect this much hair to come off, but it turned out really well
+[0:40 - 0:44] and saved me from getting a full haircut when all I wanted was a quick trim.
+[0:44 - 0:46] And now, I low-key have a mullet.
+[0:46 - 0:47] Who would have thought?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] li will
+[0:01] ion
+[0:03] Sea a
+[0:03] instead
+[0:04] WSS
+[0:08] ervous! 5
+[0:09] find
+[0:14] CEYae|
+[0:18] Psy
+[0:20] समन
+[0:20] आती '
+[0:23] है हि aA
+[0:24] wy n
+[0:27] है| 6
+[0:29] WSs
+[0:30] © ७ ७-४ ale
+[0:35] Bee SS 5
+[0:36] V, Dp
+[0:40] well
+[0:41] Rag
+[0:43] a al
+[0:44] tKim,
+[0:45] age’

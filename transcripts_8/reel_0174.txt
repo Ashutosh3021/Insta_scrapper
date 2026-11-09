@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[174] https://www.instagram.com/reel/C5rxiYORzBQ/
+STATUS: OK
+DURATION: 0:46   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Do you sleep on your left side? Right side? Stomach? Or back? Does it really matter?
+[0:07 - 0:11] Well, personally, consistently sleeping on my back was a small change that did wonders.
+[0:11 - 0:16] Keeps your face looking even. Keeps acne at bay by letting your skin breathe.
+[0:16 - 0:22] Not easy at first, no. My body fought it, brought on sleep paralysis like a nightly battle.
+[0:22 - 0:25] But you adapt. Learn to outmaneuver the discomfort.
+[0:26 - 0:31] An airplane pillow. That's the trick. Keeps you from rolling over. Keeps you aligned.
+[0:31 - 0:35] Couple more tips. Pillows on each side to stop you from turning.
+[0:35 - 0:39] A good mattress for your spine. Right bedding to support this posture.
+[0:39 - 0:44] Small tweaks, but they add up. Shaping how you face the world each morning.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] lett
+[0:03] Be “aes
+[0:04] )5% NAS
+[0:04] tone
+[0:05] eka
+[0:07] "रू Z
+[0:08] personally
+[0:09] sleeping
+[0:11] that
+[0:13] फेरे
+[0:13] fac
+[0:14] 522
+[0:15] bay
+[0:18] (fins
+[0:19] fought
+[0:20] sleep
+[0:22] battle
+[0:23] adapt
+[0:24] learn
+[0:25] t he
+[0:26] Seton
+[0:27] iON,
+[0:27] jbo
+[0:27] SSUES Y
+[0:27] ver
+[0:27] em 4c
+[0:27] eee
+[0:27] tes
+[0:29] you
+[0:33] f ps:
+[0:34] pillows
+[0:36] turn hg
+[0:38] dling
+[0:40] 3 | 51
+[0:40] x है.
+[0:40] Oy (५
+[0:41] tweaks
+[0:42] 3 le
+[0:42] Siar
+[0:43] face
+[0:43] Gan
+[0:43] sag
+[0:44] Pree

@@ -1,0 +1,111 @@
+# model: ggml-large-v3
+========================================================================
+[21] https://www.instagram.com/reel/DLdYE3UhYRb/
+STATUS: OK
+DURATION: 2:04   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] One of us, he got mocked, one of us, he got mocked, one of us, he got mocked, one of us, he got mocked, one of us, he got mocked, one of us, he got mocked, one of us, he got mocked.
+[0:08 - 0:15] Xiaomi! Cloud's coming in, something about American Express bill. Can you get him out of here? Yeah, I would honor him. No, I'm serious.
+[0:15 - 0:23] He's coming, he's coming, let's just shut up, let's just shut up. So if you put the tongue on the roof of your mouth, you might actually-
+[0:23 - 0:30] $430,000 in one month, Xiaomi? Huh? $430,000 fucking dollars in one fucking month, Xiaomi?
+[0:30 - 0:34] Relax, good morning, the business expenses. Business expenses?
+[0:34 - 0:38] Xiaomi, look at this, look what you got here. $70 on one fucking course.
+[0:38 - 0:41] Okay, no, no, okay, this can be explained.
+[0:41 - 0:45] Cloud, we had users, the .org users. Right, the Zygotech. Yeah, from Justin Rudeau.
+[0:45 - 0:50] You ordered a bunch of tape, the expensive tape, you ordered a bunch of Zygo stuff, and you ordered all the fucking honey, tell them about the honey.
+[0:50 - 0:52] Yeah, I did order the raw honey.
+[0:52 - 0:53] Yeah, I did order the raw honey.
+[0:53 - 0:58] Honey? Honey? $26,000 worth of fucking honey?
+[0:58 - 1:00] What is this honey? Does it cure cancer?
+[1:00 - 1:03] The honey did cure cancer, that's the problem, that's why it was expensive.
+[1:03 - 1:05] Shut the fuck up. No, I'm being serious.
+[1:05 - 1:06] Stop.
+[1:06 - 1:09] The stickly method, what the fuck is the stickly method?
+[1:09 - 1:14] Well, that's, uh, how do I describe this?
+[1:14 - 1:16] Yeah, Xiaomi, tell them about the stickly method.
+[1:16 - 1:18] It's a fucking scam, Xiaomi, that's what it is.
+[1:18 - 1:20] I know. Isn't that the perfect explanation?
+[1:20 - 1:22] Yeah, that is what it is, yeah.
+[1:22 - 1:23] Yeah.
+[1:23 - 1:26] This wasn't me, this was them, this was all, this was all charged to them.
+[1:26 - 1:27] Oh, that was all us.
+[1:27 - 1:28] These are all your charges.
+[1:28 - 1:30] Fucking explain this shit to him.
+[1:30 - 1:32] Yeah, the PLS allows for copes.
+[1:32 - 1:33] PSL, PSL.
+[1:33 - 1:34] Guess what I said, PSL.
+[1:34 - 1:36] No, no, no, you said PLS.
+[1:36 - 1:37] No, I didn't.
+[1:37 - 1:38] Yeah, you did, you said PLS.
+[1:38 - 1:43] I know you're upset about the Zygo tape and that makes sense because we spent too much money, but I did say PSL.
+[1:43 - 1:45] Don't tell me what you said, I heard what you said.
+[1:45 - 1:46] He said PLS.
+[1:46 - 1:47] He said PLS?
+[1:47 - 1:49] Absolutely no question about it, he said PLS.
+[1:49 - 1:50] Yeah, I'm trying to.
+[1:50 - 1:52] I'm this close, I'm this close to losing my life.
+[1:52 - 1:55] That's what I'm saying, I want you to open up more, Clav.
+[1:55 - 1:56] Why do you hold it in?
+[1:56 - 1:58] Clav, Clav, why do you hold it in?
+[1:58 - 1:59] Calm down, dude.
+[1:59 - 2:01] That's it, shut the hell up, man.
+[2:01 - 2:04] That's it, that's it, that's it, no more fun.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] के, /ल
+[0:01] Lye
+[0:03] Kew, AK
+[0:04] है ७
+[0:05] हें
+[0:06] ss हक रे
+[0:08] _ Nee
+[0:08] S चछ
+[0:10] i ae
+[0:10] yal
+[0:10] aay
+[0:11] —al शक
+[0:11] a we
+[0:20] SE VS
+[0:25] eo 24
+[0:29] है 4)
+[0:30] yaa
+[0:32] = fae
+[0:32] » wf i
+[0:34] Sy fat
+[0:38] tal
+[0:42] आह | a
+[0:42] —imeee-t
+[0:42] ह 411
+[0:48] + अऑ्धओ
+[0:48] नयी
+[0:48] S53
+[0:52] ‘eli
+[0:57] 1Dn
+[0:58] yas)
+[0:59] Nail
+[0:59] 7 vil
+[1:05] ri ~w
+[1:06] Die
+[1:13] i ड़
+[1:15] sia
+[1:16] ay Ars
+[1:17] bas) ik
+[1:17] kb if
+[1:18] ‘tik हे
+[1:27] wae
+[1:31] LVN
+[1:31] awe
+[1:32] कु: 7.
+[1:33] PARA
+[1:33] any
+[1:35] ran
+[1:44] प्र
+[1:45] 2? whe
+[1:46] 2. bits
+[1:48] ao as
+[1:49] 20 ते
+[1:51] | gs g
+[2:02] Vee
+[2:03] en 2 ह

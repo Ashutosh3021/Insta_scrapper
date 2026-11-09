@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[158] https://www.instagram.com/reel/C6uQtX7SkNZ/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] Thank you for watching.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] rey
+[0:00] faces
+[0:00 - 0:02] bro) change
+[0:01] bro) henge)
+[0:01 - 0:04] yourttes”
+[0:02] Wounfacem
+[0:03] ॥ | bro\yourcanstichang
+[0:04] Woulcanitichange)
+[0:05] ral We
+[0:05] “brow
+[0:05] change:
+[0:05] lyounfacess
+[0:06] vaN
+[0:09] रचा SS
+[0:10] are
+[0:10] = tell him that.
+[0:11] मना

@@ -1,0 +1,83 @@
+# model: ggml-large-v3
+========================================================================
+[75] https://www.instagram.com/reel/DDK6xxgz0BI/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Dark patches? Uneven skin tone? That's a problem.
+[0:02 - 0:07] But this, this vitamin C applicant from Equal Berry, is your savior.
+[0:07 - 0:12] Here's the play. Clean your face, make sure it's dry, take a few drops, warm it up between your fingers,
+[0:12 - 0:14] then press and tap it into your skin.
+[0:14 - 0:19] Don't just slap it on. Finesse it. Focus on those dark spots.
+[0:19 - 0:23] Here's the kicker. It's packed with vitamin E, ferulic acid, and glutathione.
+[0:23 - 0:26] These guys brighten, stabilize your tone, and leave you glowing.
+[0:26 - 0:29] Trust me. Stick with it, and you'll see the results.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] dank
+[0:01] UNCVSH
+[0:02] th at's ”
+[0:03] but
+[0:03] ff 8
+[0:04] (Fix
+[0:04] कु min
+[0:04] Cus
+[0:04] Lie
+[0:08] Nhe
+[0:08] lay
+[0:08] है. 7
+[0:08] छल लता
+[0:09] 4 (3७५
+[0:10] Ait
+[0:11] NWN
+[0:12] l fp
+[0:12] SEF.
+[0:12] fin
+[0:12] gers:
+[0:13] iil
+[0:13] KES'S)
+[0:13] SOS
+[0:14] your 4 ॥
+[0:14] BB fi,
+[0:14] ait
+[0:16] ८2: ‘aii —
+[0:16] Jj a
+[0:17] AAS a
+[0:17] Vig
+[0:18] 7s es
+[0:18] 244
+[0:18] 224
+[0:18] tie
+[0:19] Wii
+[0:19] IGE:
+[0:19] ower
+[0:20] 119
+[0:20] it's }
+[0:22] wake my]
+[0:22] al c=
+[0:22] cid
+[0:22] ee 9. 7
+[0:22] seen
+[0:22] wil i
+[0:23] a" की
+[0:23] Rem
+[0:23] "gluta
+[0:23] joe
+[0:23] Sas
+[0:24] Lif
+[0:24] by Yf
+[0:24] brighte
+[0:24] ee और
+[0:25] GUY
+[0:25] WOUIP
+[0:25] ie 7
+[0:26] BAA
+[0:26] 222
+[0:26] glo
+[0:26] WV Y
+[0:29] i 24
+[0:29] re J
+[0:29] है बे
+[0:30] esults!

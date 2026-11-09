@@ -1,0 +1,70 @@
+# model: ggml-large-v3
+========================================================================
+[71] https://www.instagram.com/reel/DEDfGOGSZn9/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] You guys absolutely cooked me for picking up this Casio watch instead of splurging on the real deal.
+[0:05 - 0:09] So what better than to take you along with me to a Cartier store to see if I can snag one for
+[0:09 - 0:15] Christmas? Alright, here we are inside Cartier, and let me tell you, the Santos model totally
+[0:15 - 0:20] caught my eye. While these stunners are between 7 to 10 grand, the Tank watch goes for around
+[0:20 - 0:26] 3 grand if you opt for the silver version. But here's the kicker, the sizing. The men's model
+[0:26 - 0:32] felt just too clunky for my vintage taste, and the smaller one, while sleek, lacks a ton of detail
+[0:32 - 0:37] when you look at them side by side. After some thought, I've pivoted from the Tank. It's not
+[0:37 - 0:42] really suited for everyday wear anyways. Now I'm leaning towards the striking two-tone Santos.
+[0:42 - 0:48] Perfect size, and it's priced right at 10 grand. What do you guys think? Which one would you pick?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] guys ४...
+[0:01] cooked
+[0:01] Halaice22
+[0:01 - 0:03] Should've gotten a calithe watch? के ®
+[0:01 - 0:03] Reply
+[0:02] this
+[0:02] af harsno.9
+[0:02] too smal @
+[0:03] ash o_0 9
+[0:03] ts O
+[0:03] this tank sie too mal की.
+[0:03] yy Hide
+[0:03] > square waten dove not go hard
+[0:03] ures
+[0:03] ook up the Cater santos]
+[0:03] ool
+[0:03] श्र
+[0:03] ove you bro but this wateh isnot it I
+[0:06] ibetter,
+[0:07] along
+[0:11] ele
+[0:13] Cin,
+[0:14] Santos
+[0:15] caug ht
+[0:17] हे /टटत
+[0:18] pai
+[0:19] TAN
+[0:21] sim
+[0:21] Raz WA J
+[0:22] for
+[0:24] kickers
+[0:25] 2110 0 कमान
+[0:26] rn) _i
+[0:26] ness
+[0:26] Sve
+[0:27] just
+[0:28] vintage
+[0:28] जलन
+[0:29] Sah
+[0:29] eu) <A
+[0:31] of k
+[0:32] detail
+[0:33] कर em
+[0:33] हि Ps
+[0:34] side
+[0:34] 7271६ \ ॥
+[0:36] ivoted
+[0:39] nyways:
+[0:42] SEIMNUOS
+[0:46] S whiat
+[0:47] think

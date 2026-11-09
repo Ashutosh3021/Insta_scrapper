@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[11] https://www.instagram.com/reel/DQPj7B6k30x/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Was there anyone that you know online that is considered a perfect 10 out of 10?
+[0:03 - 0:04] I collabed with him recently.
+[0:04 - 0:06] He lost, like, a lot of weight.
+[0:06 - 0:07] This is someone you know personally?
+[0:07 - 0:09] Yeah, he looks like Damon Salvatore.
+[0:09 - 0:09] Uh, Cookie King.
+[0:09 - 0:10] Mm, Cookie King.
+[0:10 - 0:12] Yeah, I would say he's a 10 out of 10.
+[0:12 - 0:13] It's like the Turkish genes, you know?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] yes.
+[0:04] RECENTLY
+[0:05] LOST LIKE
+[0:06] EIGHT
+[0:10] 2935
+[0:10] प्र
+[0:10] हैँ
+[0:12] IT’S LIKE THE

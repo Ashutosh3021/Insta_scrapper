@@ -1,0 +1,67 @@
+# model: ggml-large-v3
+========================================================================
+[36] https://www.instagram.com/reel/DIzWkO6TCr4/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] People say looks don't matter, but every time Hollywood casts someone who doesn't look the part,
+[0:04 - 0:06] there's backlash. Every time.
+[0:06 - 0:09] It happened with Ellie in The Last of Us, and it happened with Snow White.
+[0:09 - 0:11] People felt something was off.
+[0:11 - 0:13] They didn't feel connected to the character.
+[0:13 - 0:16] All despite their talent, but when the lead is beautiful,
+[0:16 - 0:19] even if they don't really fit the character, like in The Little Mermaid,
+[0:19 - 0:21] the outrage kind of fades.
+[0:21 - 0:24] The truth is, people don't care about representation as much as they care about presentation.
+[0:24 - 0:28] It's not about race or anything gimmicky, it's all about beauty.
+[0:28 - 0:32] No amount of messaging or wokefulness is going to override human instinct.
+[0:32 - 0:35] We're simply wired to respond positively to attractive faces.
+[0:35 - 0:38] Pretty privilege always wins. Always.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] every
+[0:01] * 4००:
+[0:02] MEO!
+[0:03] look
+[0:04] “there.
+[0:04] The Last of Us Showrunner Responds to the
+[0:04] Kaitlyn Dever Casting Uproar
+[0:04] a Kaltyn to pay th
+[0:05] ७४ ४॥
+[0:05] 009 Box Office
+[0:05] 3 Tomatoes
+[0:05 - 0:06] re Plummets
+[0:05 - 0:06] Further
+[0:06] time
+[0:06] Snow White’ Stall
+[0:06] ten Tomato
+[0:06] al Box Office
+[0:07] PARTI
+[0:07] OFUS
+[0:08] Elne|
+[0:08] TENS
+[0:10] people
+[0:16] Z beautiful
+[0:17] really
+[0:19] 3. Mermaid
+[0:19] 116
+[0:20] trage
+[0:21] fad
+[0:21] ies
+[0:21] $17 milion at the US box office on
+[0:21] Disney's The [106 Mermaid! rakes in
+[0:22] don't
+[0:22] mele
+[0:23] represen
+[0:23] ion)
+[0:24] resentation
+[0:26] है / SS
+[0:27] about
+[0:28] beauty
+[0:29] 4 messaging
+[0:29] ais
+[0:30] Kops wokefuin
+[0:32] if a
+[0:34] positively

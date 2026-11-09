@@ -1,0 +1,253 @@
+# model: ggml-large-v3
+========================================================================
+[199] https://www.instagram.com/reel/Cx4J8pSpMij/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Many of you received my custom acne kit and pimple patches and are utterly clueless on
+[0:05 - 0:09] its proper application. So listen closely. Start by purifying your face with a cleanser,
+[0:09 - 0:14] and if you're too financially restrained for high-end products, this Mario Badescu
+[0:14 - 0:19] Gentle Foaming Cleanser might be for you. I reluctantly admit to using it on the rare
+[0:19 - 0:24] occasion I run out of my exclusive stuff. When applying, adopt meticulous, small,
+[0:24 - 0:29] circular motions, almost like you're painting a masterpiece. Once cleansed,
+[0:29 - 0:33] employ the tools in my kit. If you've got blackheads, utilize this specific tool. It's
+[0:33 - 0:39] my favorite for tackling them. Just witness the sheer amount I've accumulated in a single swipe.
+[0:39 - 0:42] For those unsightly pimples, this pimple popper is your weapon of choice.
+[0:42 - 0:47] Surgical precision without inflaming the skin. The best for last, the pimple patches.
+[0:47 - 0:53] Use one immediately post-extraction. They're sublime in siphoning excess oil and impurities
+[0:53 - 0:58] while fortifying your skin against the filth of the outside world. Enjoy
+[0:58 - 0:58] your new ritual.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ४ Hl
+[0:00] many 0
+[0:00] you
+[0:00] e1lve
+[0:01] many of you received
+[0:01] my custo]
+[0:01] Ses
+[0:03] & pimple patche
+[0:04] I INI Nissess ~~
+[0:04] Oper application
+[0:04 - 0:05] and are utterly clueless
+[0:05] 11111
+[0:05] 11४11 ४
+[0:05] eeoeee
+[0:05] on its proper applicatiam
+[0:06] 1८7८
+[0:06] so listen
+[0:06] sély
+[0:07] so listen closely.
+[0:07] hla
+[0:08] start by purifying youn
+[0:08] रैक
+[0:09] it }i
+[0:09] sil
+[0:09] start Yy puri
+[0:09] fying you
+[0:09] face with a clea Ser
+[0:10] Wp 0 fina
+[0:10] mya
+[0:10 - 0:11] and if you're too
+[0:11] है) ३
+[0:11] financ
+[0:11] ally restrain |
+[0:11] Gir
+[0:11] £* 2५६
+[0:13] DESCU
+[0:13] TN CARE
+[0:13] Established 196:
+[0:13] ACNE
+[0:13] FACIAL
+[0:13] LEANSER
+[0:13] floz E177 ml)
+[0:14] this Mario Badescu
+[0:15] Combination & Oil
+[0:15] Wash with Salicyli
+[0:15] Deep Pore Clean, (
+[0:15] 5,569 ral
+[0:15] Gentle Foaming Cleanser
+[0:15] for "mario ba
+[0:15] Price
+[0:15] ill
+[0:15] (81.66 / FLOz)
+[0:15] Get $
+[0:15] 50 of instantly: Pay $C
+[0:15] Ama
+[0:15] Tra
+[0:15] o annual fee
+[0:15] Premiurt
+[0:15] Item Fo
+[0:15] bination
+[0:15] Vegan
+[0:15 - 0:16] Amazon's
+[0:15 - 0:16] Skin Jj
+[0:15 - 0:16] Bran
+[0:16] mbinat
+[0:16] h Sal
+[0:16] 4.5 ight be fo
+[0:16] 9 ratin
+[0:16] गीत
+[0:16] bade
+[0:16] ॥ Pay’
+[0:16] nn 1
+[0:16] tio
+[0:17] 11 (Qi
+[0:18] L celimtantly admit to
+[0:18] n the rare
+[0:18] Ce 4
+[0:19] ett
+[0:19] reeasion | run out
+[0:19] lusiye stuff.
+[0:19] 140
+[0:19] pease
+[0:19] लाला , Veal
+[0:20] occasion I run out
+[0:20] Shi
+[0:20] of my exclusi
+[0:20] gaan
+[0:20] + 4 कत्ल
+[0:21] a= Irun out
+[0:21] of my exclusive stuff.
+[0:22] रात
+[0:22] fois
+[0:23] ५2226
+[0:23] 4५ hi
+[0:23] A» f 7 &
+[0:24] lig
+[0:24] mallc
+[0:24] “Say
+[0:25] उछल
+[0:25] SSS
+[0:25] 222
+[0:25] Tig
+[0:25] Lo fp
+[0:25] 2०9;
+[0:25] 5 small circular motions
+[0:26] १2८४
+[0:26] ulmostlike you
+[0:26 - 0:27] a mast
+[0:27] almost like you're pai
+[0:27] nting
+[0:27] Tonk
+[0:27] erp
+[0:27] iece.
+[0:28] EA. Aa
+[0:30] employ the tools in
+[0:30] my kit
+[0:30] > pee
+[0:31] if you've got blackhea&&
+[0:32] VL: KZ
+[0:32] 441
+[0:32] utili
+[0:33] utilize this specific tool:
+[0:34] it's my favorite
+[0:34] कही
+[0:35] 000 |
+[0:35] Jia
+[0:35] fo tackling them
+[0:36] just bl
+[0:37] the — amount LMG
+[0:37] wipe
+[0:38 - 0:39] the sheer amount i’ve
+[0:38 - 0:39] accumulated in a single swipe:
+[0:40] for those unsightly pim
+[0:40] les
+[0:41] Vigg=
+[0:41] aif)
+[0:41] this pimple popper i:
+[0:41] Wey
+[0:42] VIE
+[0:42] this pimple ’ is
+[0:42] | ‘| your weapon Sy
+[0:42 - 0:44] 2222
+[0:43] LA fd if
+[0:43] Tis
+[0:43] a Fy
+[0:43] ZA f }}
+[0:43] Sue) , d
+[0:43] (५४2
+[0:43] A LA ८,
+[0:43] ASF,
+[0:43] surgical Pe
+[0:43] 816
+[0:43] fel
+[0:43] ws fi
+[0:43] Ley?
+[0:43] oS a
+[0:43] A Ay
+[0:43] ya ANN
+[0:43] il A
+[0:43] 11४४ a)
+[0:44] Lo ¢7
+[0:44] Tan
+[0:44] Sib
+[0:44] Lf 7
+[0:44] Lag
+[0:44] Vis
+[0:44] KA EF Ge
+[0:44] -ज्ज
+[0:44] a= ae
+[0:44] NS रे
+[0:44] (श्री,
+[0:44 - 0:45] surgical precision without 4 7
+[0:45] Ue ५
+[0:45] VM Pa
+[0:45] inflaming the skin
+[0:45] ५ ४7/5%
+[0:45] 22८
+[0:45] 42 q
+[0:45] eB Es A
+[0:45] RUNNY
+[0:45] eit
+[0:45] ANS
+[0:45] ake
+[0:45] Vay
+[0:46] the best for last,
+[0:46] ceeeeoee
+[0:47] the pimple patches
+[0:47] jaa
+[0:49] | one immediately 4
+[0:49] Gray
+[0:49 - 0:51] 222८
+[0:50] “lth
+[0:50] use one im:
+[0:50] ediately
+[0:50] ३ post iain |
+[0:50] co. SS
+[0:51] they
+[0:51] hak
+[0:51] हर eo 4
+[0:52 - 0:53] they’re sublime in siphoning
+[0:53] Wy excess oil & imp uritiey »
+[0:54] 1071
+[0:54] (heh
+[0:54] NSS
+[0:55] while fortifying your skin against jail
+[0:55] AORN
+[0:55] लक 6
+[0:55] dom
+[0:55] waa
+[0:56] ख्धः
+[0:56] Via
+[0:56] Lit
+[0:56] ANA
+[0:56] 4 MY
+[0:56] ४५६ ॥
+[0:56 - 0:57] the filth of the ,,
+[0:57] AL १-४2
+[0:57] Z ff
+[0:57] wae
+[0:57] 52 If
+[0:57] ट्री.
+[0:57] WJ) LA}
+[0:57] outside world..
+[0:57] Fafa
+[0:57] 2 SLL
+[0:57] ब्लड
+[0:57] = Cot
+[0:57] Cn mle
+[0:57] 2227:
+[0:57] | aN \y

@@ -1,0 +1,56 @@
+# model: ggml-large-v3
+========================================================================
+[109] https://www.instagram.com/reel/C-_Q_JNyf4T/
+STATUS: OK
+DURATION: 0:55   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Tonight, I have a formal event and I've decided to go with a classic slick back hairstyle to
+[0:04 - 0:09] really sharpen my look. Let's dive right into how I achieve this without a sticky mess.
+[0:09 - 0:14] Step one, wet your hair, but be cautious. You don't want it dripping wet,
+[0:14 - 0:19] just damp enough to work with. Step two, take a pea-sized amount of your favorite hair clay.
+[0:19 - 0:23] Get one that provides a strong hold without the tackiness.
+[0:23 - 0:27] Really take the time to rub it between your palms thoroughly before applying.
+[0:28 - 0:33] This helps in even distribution without clumping. Step three, work the clay through your hair,
+[0:33 - 0:38] starting from the back and moving forward. Focus on getting it even, especially around the front
+[0:38 - 0:43] where it really shapes your face. Use your fingers to fine-tune the details. For step four,
+[0:43 - 0:48] although optional, I highly recommend a quick spritz of hairspray to lock everything in place.
+[0:48 - 0:54] And here's the result. What do you think? Did I nail the slick back look for tonight's event?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ton
+[0:00] किक
+[0:00] capil
+[0:01] eve
+[0:03] Elassic
+[0:04] sityille
+[0:05] hanpen
+[0:06] Rasa
+[0:07] into
+[0:08] ith.
+[0:09] ibe.
+[0:09] mes
+[0:11] haites
+[0:12] Se VS
+[0:12] cautious, >
+[0:16] step
+[0:17] pea
+[0:19] ह clays
+[0:19] eg 9
+[0:21] ५८ g
+[0:24] Keallly,
+[0:27] Png
+[0:27] are
+[0:32] work
+[0:35] forward
+[0:36] focus
+[0:37] pecially
+[0:37] an J
+[0:38] front
+[0:39] youn हि
+[0:41] fine
+[0:42] ys ५६
+[0:45] Sh J
+[0:45] sibs
+[0:46] my °7

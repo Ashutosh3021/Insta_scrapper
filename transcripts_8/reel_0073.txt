@@ -1,0 +1,74 @@
+# model: ggml-large-v3
+========================================================================
+[73] https://www.instagram.com/reel/DD29TSrSsYa/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I've been trimming my own hair, but since I can't quite reach the back,
+[0:03 - 0:06] it's created this massive blockade that's really thrown off my proportions.
+[0:06 - 0:10] Honestly, it makes my face look less forward-grown, which is not ideal, but
+[0:10 - 0:13] nothing beats a professional touch at a men's salon, right?
+[0:13 - 0:18] We're back with Sophia today. She's a great stylist, and she always kicks things off by
+[0:18 - 0:23] rinsing my hair with this incredible volumizing salon-grade shampoo and conditioner. After that,
+[0:23 - 0:27] she cut my hair while it was still wet, using hair-thinning scissors to add some strategic
+[0:27 - 0:31] layering. Always remember, guys, when your hair is wet, it appears longer,
+[0:31 - 0:36] so expect it to look a bit shorter once it dries. To finish off, we used Based Body Works
+[0:36 - 0:41] Salt Spray to give my hair that sought-after, natural, wet look, whilst also styling it into
+[0:41 - 0:46] this messy middle part. I'm thrilled with the results. Everything looks way more proportional
+[0:46 - 0:49] now. Here's the before and after. Love how it turned out.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ४९७:
+[0:00] een
+[0:01] butt
+[0:01] AKI हे
+[0:03] SSS
+[0:04] am si
+[0:06] proportions
+[0:06] hose
+[0:07] | क्र
+[0:08] 2279
+[0:09] frown
+[0:12] Mb ८
+[0:13] salon
+[0:14] back
+[0:14] a rt
+[0:15] pot
+[0:15] है जी
+[0:15] हे प
+[0:16] & «5 Sit
+[0:17] always
+[0:20] af 1111 411) 2]
+[0:22] Nef ditioner,
+[0:25] using
+[0:25] ५224
+[0:25] SES
+[0:26] Mi] Mf} f 3
+[0:26] scissors
+[0:28] always
+[0:29] when
+[0:32] bit
+[0:34] fimisty
+[0:35] Based
+[0:36] salt
+[0:37] give
+[0:38] ae के
+[0:39] natural
+[0:41] GC styling
+[0:41] las
+[0:42] ee messy
+[0:43] hmm
+[0:43] 1४ कु |
+[0:44] results:
+[0:45] looks
+[0:46] proportio
+[0:49] oe ene fe पे 3
+[0:49] 31111
+[0:49] 7 iY
+[0:49] Jd grey?
+[0:49] eee
+[0:49] | 74<664444
+[0:50] aie
+[0:51] yore

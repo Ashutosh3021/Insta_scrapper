@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[152] https://www.instagram.com/reel/C69ujy6SmQ4/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Well, first of all, he needs to get some sleep.
+[0:02 - 0:06] Second of all, he needs to do some lines because he needs to be awake.
+[0:06 - 0:07] He needs to do a hairline.
+[0:07 - 0:10] And then on top of that, his eyebrows.
+[0:10 - 0:11] He needs to fix his eyebrows.
+[0:30 - 0:59] He needs to fix his eyebrows.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] “first of all
+[0:02] ml 6
+[0:02] “he needs to get
+[0:02] some sleep”
+[0:03] “second of aly
+[0:04] f Wr needs to do
+[0:04] some lines:
+[0:05] a he needa
+[0:05] “vec
+[0:05] awake”s
+[0:05] | बाय
+[0:06] Ww ise he needa
+[0:06] we: awake”
+[0:07] he needs a new
+[0:07] hairline
+[0:10] “he needs to fix his
+[0:10] eyebrows”
+[0:11 - 0:12] OK es
+[0:23] Jlomey
+[0:24] 3) Onasy
+[0:25] 9) Omasy
+[0:27] yey
+[0:30] @anw
+[0:31] @aoms
+[0:34] (0010 8७
+[0:34] P® Report
+[0:36] bas
+[0:38] हर नम.
+[0:48] yy im*
+[0:54] @amsy
+[0:56] @Gaa
+[0:57] Carr
+[0:58] CCE EETEETSUEEY TV VTTTEPT VUE

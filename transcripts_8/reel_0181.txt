@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[181] https://www.instagram.com/reel/C4w4GCnuVQG/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] This year on the road
+[0:01 - 0:03] She ride a dick like a carnival
+[0:03 - 0:05] I done did the impossible
+[0:05 - 0:09] She ride a dick like a carnival
+[0:09 - 0:11] Been a hoe and have a flash, bet she gon'
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ॥001051132'
+[0:00 - 0:02] “bro)
+[0:01 - 0:02] llooksmax'
+[0:06] ae है |
+[0:06 - 0:07] 6 ३0
+[0:08 - 0:09] wl (op
+[0:10 - 0:11] ont

@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[64] https://www.instagram.com/reel/DFQ5K9ZSx_a/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: fr
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Je te cherche dans mes songes, je te traque dans mes rêves
+[0:02 - 0:05] A l'aube ou dans mon ombre et en veine sur tes lèvres
+[0:05 - 0:07] Écorchant les abîmes de mon cœur
+[0:07 - 0:09] Écarlate, tu n'es que le point fixe de mes songes
+[0:09 - 0:11] Disparate, aime-moi dans la neige
+[0:11 - 0:13] Aime-moi sous le soleil, aime-moi la paubède
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fsteambyshower
+[0:02] Inline
+[0:04] AVUAz
+[0:04] dpr sauvagerel
+[0:07] brown belted, z
+[0:07] eae
+[0:07] WAS
+[0:07] wey
+[0:07] ees
+[0:07] lire
+[0:07 - 0:08] Ente
+[0:08] 4 ef Itedisuede jacket:
+[0:09] १ ey !
+[0:09] डक (i
+[0:11] प्र
+[0:12] > onl

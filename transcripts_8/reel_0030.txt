@@ -1,0 +1,169 @@
+# model: ggml-large-v3
+========================================================================
+[30] https://www.instagram.com/reel/DJKXKX_Sbco/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Eyebags. No matter how many hours of sleep you get in, they're not going anywhere if they're
+[0:04 - 0:08] genetic. That's where serums can help. I've experimented for many years and I put you guys
+[0:08 - 0:12] on volufilin and even caffeinated under eye balms. And now I'm going to put you on this stuff. It's
+[0:12 - 0:18] an eye cream serum from Skin 1004. Remember how I swapped out retinol for Bacutral? This stuff is
+[0:18 - 0:22] concentrated in it. It's specifically designed for the under eye area. So it's gentle, non-irritating
+[0:22 - 0:26] and honestly works better than retinol for this part of the face as the skin is thinner and much
+[0:26 - 0:30] more sensitive. You want to apply it in the morning right before heading out. Ideally, you just want
+[0:30 - 0:34] to tap it under your eyes using your ring finger and or the attachment. And that's it. Here's a
+[0:34 - 0:38] look at how far my under eyes have come from just experimenting with different serums. Crazy difference.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Au) Be
+[0:01] matter
+[0:03] anywher
+[0:04] enetic
+[0:04] Nyy *
+[0:04] eee
+[0:05] serum’s
+[0:05] Foe
+[0:06] aot
+[0:08] volufil
+[0:08] 3॥10-
+[0:08] eoor
+[0:08] tos
+[0:08] SAS
+[0:09] Sew.
+[0:10] Ra eee
+[0:10 - 0:12] seat
+[0:11] o you-
+[0:11] ५५४६ ०६६
+[0:11] Manis
+[0:11] 100
+[0:11] ties
+[0:11] The
+[0:11] 44:54;
+[0:11] 12444;
+[0:11] 333 33
+[0:11] 1४४
+[0:12] F om
+[0:12] ८5८
+[0:12] Mee
+[0:12] vedi
+[0:12] iiS:
+[0:12] pean’
+[0:12] ५९९
+[0:12] rey
+[0:12] eee?
+[0:12] ve a oe १५
+[0:13] hum
+[0:13] Shy
+[0:13] है 1
+[0:13] uty
+[0:14] Skin1004
+[0:14] sein
+[0:15] Cente
+[0:15] skint
+[0:16] EZ ou:
+[0:16] 2 ut, जे
+[0:17] bakuc
+[0:18] concen
+[0:19] land
+[0:19] spe
+[0:19] ally
+[0:19] ial
+[0:19] है i
+[0:19] ३ te)
+[0:19] weal,
+[0:21] a es - 3
+[0:21] Mh a
+[0:22] Wis
+[0:22] ait
+[0:22] ing
+[0:22] प्र
+[0:23] orks
+[0:23] श्र
+[0:23] tah
+[0:23] ale
+[0:23] hall
+[0:23] ike?
+[0:24] va for
+[0:24] Lee
+[0:24] Loon
+[0:24] is Ww
+[0:24] Ral
+[0:25] “Wiis
+[0:25] tally
+[0:25] 4, Pie
+[0:25] eae
+[0:25] Filed
+[0:25] ९11
+[0:25] 1994
+[0:26] much
+[0:26] fils
+[0:26] श्र
+[0:26] ५71
+[0:26] , ees
+[0:27] 553 Why) 4
+[0:27] if 2
+[0:27] Re na
+[0:27] Mae
+[0:27] के 1
+[0:27] ANS
+[0:27] NAD
+[0:27] tee
+[0:27] 4५४ |
+[0:28] tase
+[0:29] iii
+[0:29] ots
+[0:29] 14५
+[0:29] tes
+[0:29] see
+[0:29] gets
+[0:29] fie
+[0:30] Hi y
+[0:30] | हूँ
+[0:31] VEN
+[0:31] "i; By
+[0:31] by | ॥ 4
+[0:31] ete
+[0:31] pee,
+[0:32] We My
+[0:32] off {
+[0:32] ७५४
+[0:32] ip #9
+[0:32] saith
+[0:33] bud A
+[0:33] nid
+[0:33] 19७
+[0:33] any
+[0:33] hia
+[0:33] hin OF
+[0:33] 1१५
+[0:34] look
+[0:34] be é,
+[0:34] AYN
+[0:34] Ye, 22
+[0:34] ifs
+[0:34] Sate =
+[0:34] Its
+[0:34] ह९३
+[0:34] wil
+[0:35] come
+[0:35] 5022
+[0:35] fee
+[0:35] iad
+[0:35] pil
+[0:35] ‘alt
+[0:35] oie
+[0:35] ९ पे
+[0:36] experimenting
+[0:36] 112
+[0:36] 242.
+[0:36] 12225
+[0:36] ४225:
+[0:36] lite
+[0:36] WALL
+[0:36] bers
+[0:36] dys
+[0:36] iif
+[0:36] ५१४
+[0:38] : idiffe

@@ -1,0 +1,100 @@
+# model: ggml-large-v3
+========================================================================
+[97] https://www.instagram.com/reel/C_9Ub_ISmIH/
+STATUS: OK
+DURATION: 1:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] it took me 19 years to figure out how to properly shampoo and condition and I'm
+[0:04 - 0:09] going to show you guys how in less than 27 seconds first things first you need
+[0:09 - 0:14] to experiment to find out your optimal shampoo days I only shampoo two to three
+[0:14 - 0:18] times a week to maintain the right balance of natural hair oils and overall
+[0:18 - 0:22] scalp health never shampoo without following up with a conditioner they go
+[0:22 - 0:26] hand in hand just like this set from based body works it's formulated to suit
+[0:26 - 0:31] all hair types which is a great bonus when applying shampoo use just enough to
+[0:31 - 0:36] fit the inner circumference of your palm remember the scalp is up to four times
+[0:36 - 0:40] more absorbent than the rest of your skin so it's crucial to use a natural
+[0:40 - 0:44] formula rub it thoroughly into your scalp to cleanse effectively rinse
+[0:44 - 0:47] thoroughly before moving on to the conditioner apply 1/3 the amount of
+[0:47 - 0:52] shampoo you used spread the conditioner evenly in your hands then apply it from
+[0:52 - 0:56] the mid lengths to the ends of your hair focusing on frizzy
+[0:56 - 0:56] or damp hair.
+[0:56 - 1:01] avoid the scalp your natural oils are enough for that area let the
+[1:01 - 1:06] conditioner sit while you wash your body this gives the repairing properties time
+[1:06 - 1:11] to soak into your hair rinse everything off and voila you now have a solid
+[1:11 - 1:16] shower routine that you can follow for life you're welcome
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] yealrs
+[0:03] alt
+[0:04] ai Ny
+[0:05] guys
+[0:08] things
+[0:11] optimal
+[0:11] लाश
+[0:13] shampoo
+[0:13 - 0:15] TH OF
+[0:14] times
+[0:14 - 0:15] M_ Tu
+[0:14 - 0:15] जान का था
+[0:15] maintain
+[0:16] कक या
+[0:19] shampe fexexe) |
+[0:20] wit)
+[0:21] conditioner:
+[0:23] lik
+[0:24] Based
+[0:27] types
+[0:28] fe) an S)
+[0:30] Fae 1000
+[0:34] ne mber
+[0:34] rel
+[0:36] times
+[0:36] vey =
+[0:36] weg
+[0:38] < 24 ad, Sy
+[0:39] ¢ joanne
+[0:40] ooaMAHe
+[0:40] on on
+[0:40] sine ०७" \
+[0:40] LOE
+[0:40] pre
+[0:40] pene
+[0:40] sane oto लत
+[0:40] ३00 roses, WOT
+[0:40] 32028 22
+[0:40] साल
+[0:40] son
+[0:41] thoroughly
+[0:42] scalp
+[0:42] ijt
+[0:42] ly 2
+[0:42] Me oa
+[0:42] ५ श्र
+[0:43] ely
+[0:44] tigpeuatily
+[0:46] cond
+[0:48] “ft inesiany exexe)
+[0:50] enly <
+[0:53] oo ngth 5
+[0:55] Hal:
+[0:55] ing
+[0:57] क्या
+[0:57] eas
+[0:59] ४७०५
+[1:01] weal
+[1:02] cond
+[1:02] MiOner
+[1:03] wash
+[1:05] repairing
+[1:07] saad ह
+[1:08] eveoy thing
+[1:10] you,
+[1:11] जला
+[1:12] ERS
+[1:13] life,
+[1:13] Y कर
+[1:13] ॥ १२०
+[1:14] POR
+[1:14] के wel come.

@@ -1,0 +1,65 @@
+# model: ggml-large-v3
+========================================================================
+[111] https://www.instagram.com/reel/C-1Z7RxJVfg/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I don't know about you guys, but I prefer being clean-shaven because it keeps me looking younger.
+[0:04 - 0:08] I'm saving the beard for when I'm older as a new look for later in life.
+[0:08 - 0:12] Having a beard or not doesn't make you more or less of a man.
+[0:12 - 0:14] It's just a personal choice.
+[0:14 - 0:18] Plus, a lot of jobs require you to be clean-shaven and it's not for no reason.
+[0:18 - 0:22] And before you ask, the tool I'm using is called a foil shaver.
+[0:22 - 0:25] I love pairing it with my Norelco shaver for the cleanest look.
+[0:25 - 0:29] Whether I have a beard or not, I know I'm still the same person.
+[0:29 - 0:32] Keeping it simple just works better for me right now.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] CAA
+[0:00] Clon
+[0:00] क्री
+[0:00] eat
+[0:00] Si 4)
+[0:01] 244
+[0:01] but
+[0:03] PERSON
+[0:03] keeps
+[0:04] Vou
+[0:04] nger,
+[0:05] के २
+[0:05] Saving
+[0:07] AAD
+[0:07] प्र
+[0:08] ५4५
+[0:08] ter
+[0:08] ann
+[0:09] nik
+[0:09] TSN
+[0:09] ity
+[0:10] NES
+[0:10] 180
+[0:11] १८८
+[0:11] more
+[0:12] man
+[0:13] personal-
+[0:14] SOS
+[0:16] SSS
+[0:16] clean
+[0:17] lh i «८
+[0:19] you
+[0:19] “\ aaa
+[0:20] tool
+[0:21] foil
+[0:22] shaver
+[0:23] ४722
+[0:23] paini
+[0:24] bel
+[0:25] SS e-
+[0:26] wer
+[0:27] é beard
+[0:29] ZEA
+[0:30] fuse
+[0:30] 2000
+[0:31] him

@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[49] https://www.instagram.com/reel/DHKJLnpAdpp/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] —_— your haincarriesiv.our
+[0:00] «entire look
+[0:01] our 191॥००४॥९५७५७७
+[0:01] ntin
+[0:01] ise
+[0:01 - 0:04] & look
+[0:02] IF Car
+[0:03] a ८,७०७ कक
+[0:03] ८: entire |
+[0:03 - 0:04] OV: your hair 7
+[0:03 - 0:06] hug
+[0:04] ———— लि किक लत
+[0:04] ‘4 Our
+[0:04] ent
+[0:04] all
+[0:05] POV: youmhaincarriesiyour
+[0:05] Pays
+[0:05 - 0:08] entire look
+[0:06] a Vourmhain
+[0:06] Cal,
+[0:06] VOUT,
+[0:07] les
+[0:07] ॥ iam
+[0:07] कं सब ९
+[0:07 - 0:09] POW:iyour,
+[0:08] Vio)
+[0:08] POW:yourhair'carries\you
+[0:08] Dee!
+[0:08] AOS
+[0:08] 722
+[0:08] Ke ECR
+[0:09] haifcarries;\your
+[0:09] enti
+[0:09] Tides
+[0:11] है ps
+[0:13] 2222
+[0:13] Lei
+[0:13] L775

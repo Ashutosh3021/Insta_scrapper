@@ -1,0 +1,89 @@
+# model: ggml-large-v3
+========================================================================
+[88] https://www.instagram.com/reel/DBRsoAPSkYA/
+STATUS: OK
+DURATION: 0:57   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Building a proper morning skincare routine only takes a few minutes and the results are truly profound.
+[0:04 - 0:07] You only need five key applicants to get started.
+[0:07 - 0:09] First, a cleanser.
+[0:09 - 0:12] I prefer something extra foamy as it feels more effective at cleaning.
+[0:12 - 0:17] Next, apply a toner which rebalances your skin's pH and preps it for absorption.
+[0:17 - 0:20] Just use clean fingers for application.
+[0:20 - 0:26] Then, a quick swipe of your favorite serum like vitamin C to enhance brightness and protection.
+[0:26 - 0:32] But I opt for an ampoule because of its concentrated formula that immediately calms and hydrates sensitive skin.
+[0:32 - 0:36] Follow up with a soothing cream moisturizer to hydrate and lock in that moisture.
+[0:36 - 0:39] Lastly, never forget SPF.
+[0:39 - 0:43] I use a stick form with PA because it's clean, easy to apply, and not sticky.
+[0:43 - 0:48] All these essentials are from Skin 1004, specifically their Centella line.
+[0:48 - 0:51] If you know your skin type, I highly recommend checking them out.
+[0:51 - 0:53] They really simplify the skincare process.
+[0:53 - 0:56] And their stuff is super budget-friendly for the Korean quality.
+[0:56 - 0:57] they serve.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:06] BS we’
+[0:10] something
+[0:12] = left
+[0:13] yas
+[0:14] ton
+[0:17] abso
+[0:17] iti
+[0:19] ५८1
+[0:19] ean
+[0:20] application.
+[0:21] Ls Wi
+[0:21] "कै oer
+[0:23] x kK
+[0:25] ff es htness
+[0:28] \ because
+[0:30] WSS
+[0:30] calim
+[0:32] ski
+[0:33] up) Ay
+[0:34] MoiStunizer |
+[0:35] eh phydr.
+[0:35] cI के
+[0:36] हज hee
+[0:38] ra डे
+[0:42] ant
+[0:45] ewe SKINI004,
+[0:46] - SKIN1004,
+[0:49] ire
+[0:49 - 0:51] Mist
+[0:51] BRAND
+[0:51] COLLECTION
+[0:51] SHOP
+[0:51] FLAGSHIP
+[0:51] checking
+[0:51] Feat
+[0:51] red
+[0:51] ‘Skin Type
+[0:51] Product Type
+[0:51] ALL
+[0:51] Cleanser
+[0:51] Normal
+[0:51] NEW
+[0:51] Sensilive
+[0:51] Toner
+[0:51] BEST
+[0:51] Dry
+[0:51] Ampoule
+[0:51] Serun
+[0:51] Combination
+[0:51] Cream
+[0:51] Olly
+[0:51] Sunscreen
+[0:51] Acne
+[0:51] Mask
+[0:51] Pad
+[0:51] Special Care
+[0:52] abs
+[0:54] १.» ही
+[0:55] frienclly
+[0:56] quality
+[0:56 - 0:57] UP TO 60% OFF
+[0:56 - 0:57] SITEWIDE
+[0:57] serve.

@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[180] https://www.instagram.com/reel/C43rikQSt2I/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: fr
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Vous êtes des animaux.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ‘stight'behind
+[0:00] Min
+[0:00] ANY
+[0:00 - 0:03] (bro she’
+[0:00 - 0:03] don't look’
+[0:01] 10 SI
+[0:01] ५३ / ०]
+[0:01 - 0:02] he’s ight behind you)
+[0:02] Sea
+[0:02] 282
+[0:02] ५2८
+[0:03] ॥ behind ६
+[0:03] 222
+[0:05] Li i
+[0:06] Zey
+[0:06] जड़
+[0:07] Any
+[0:07] 1१1
+[0:07] 7७5
+[0:08] se ९”
+[0:09] Vi y
+[0:10] tit

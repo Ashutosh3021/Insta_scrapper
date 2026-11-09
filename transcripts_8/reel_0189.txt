@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[189] https://www.instagram.com/reel/C4EXCtQykra/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Cause I wanna be great.
+[0:02 - 0:06] You're not.
+[0:06 - 0:08] I wanna be one of the greats.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] | कक | WAN! ५ moms
+[0:02] 15116
+[0:04] किन
+[0:04] AND)
+[0:04 - 0:05] KSHAMEW
+[0:05] “कुक
+[0:05] BNDWOU'RE
+[0:13] whew |
+[0:14] भरे
+[0:14] fe 2.)
+[0:16] Rae
+[0:17] Pay

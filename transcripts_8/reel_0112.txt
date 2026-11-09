@@ -1,0 +1,121 @@
+# model: ggml-large-v3
+========================================================================
+[112] https://www.instagram.com/reel/C-yjm5FSdT1/
+STATUS: OK
+DURATION: 0:55   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Did you know that mouth breathing can drastically affect your facial structure and health?
+[0:04 - 0:06] It's a reality many of us overlook.
+[0:06 - 0:09] Initially, I turned to mouth taping as a solution.
+[0:09 - 0:12] Effective, yet absurdly uncomfortable.
+[0:12 - 0:16] After scouring through countless alternatives, I was led to a unique find.
+[0:16 - 0:21] Alongside nasal strips, which help maintain an open nasal passage, I discovered sinus slap.
+[0:21 - 0:23] This is not just any remedy.
+[0:23 - 0:28] It's a 100% natural formula designed to cool and soothe your nasal passages.
+[0:28 - 0:33] Composed of ingredients like eucalyptus oil, aloe vera, lemon oil, and manuka honey.
+[0:33 - 0:39] Just a few drops on my tongue at bedtime, especially on those nights filled with congestion, have made all the difference.
+[0:39 - 0:45] Since I started using it, not only have I stopped mouth breathing, but my sleep has drastically improved.
+[0:45 - 0:48] Deeper, more restful, genuinely refreshing.
+[0:48 - 0:54] It's a complete game changer for anyone looking to enhance their nighttime routine and overall health.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] ४८८
+[0:02] chasticall
+[0:03] facial
+[0:03] ene,
+[0:03] tee nS
+[0:03] Me eating
+[0:03] © thom
+[0:03] ८ ७ 05 कद 1
+[0:03] a ge
+[0:03] ड्य
+[0:03] ny ota
+[0:03] hae
+[0:03] ase
+[0:03] ten ay,
+[0:03] श्र
+[0:03] 5४.1
+[0:03] mrad
+[0:03] May
+[0:04] —— ome
+[0:04] health
+[0:04] @ ors,
+[0:04] ००४००४०-७।४५०७५७४४५०५०७०७००१३०%/००१०५७.. ही
+[0:05] reality,
+[0:06] ४९1661675 « =
+[0:06] * ००७ |
+[0:06] “कल 6 ।
+[0:08] स्का हि
+[0:09] Sew SJ,
+[0:10] EN WW)
+[0:11] absurdly
+[0:13] Nate.
+[0:16] 1०१;
+[0:16] bfimd:
+[0:17] wee) 7777
+[0:17] 3.० we «०००० ०००
+[0:17] 2वान्ना8 >
+[0:17] हैक
+[0:19] wW\ fm
+[0:24] ८६४ MENTHOL
+[0:24 - 0:25] THING HONEY
+[0:24 - 0:25] Sinus Respiratory Support and Conges
+[0:24 - 0:25] Soothes Nasal Passages
+[0:24 - 0:25] NATURAL OILS
+[0:25] Bike
+[0:25] ame oe
+[0:25] Amazon Ba
+[0:25] man
+[0:25] cy Shop By interest
+[0:25] Subs
+[0:25] save
+[0:25] rents 4
+[0:25] $8 Wen
+[0:25] Diy el Ext Strength Rebel 2504 ack of)
+[0:25] also viewed
+[0:25] able Shot Bord
+[0:25] asp
+[0:25] Pack wt
+[0:25] 3 Pack, 5७७७
+[0:25] kate
+[0:25] 248
+[0:25] nine
+[0:25] 100% Natural OraliFormula Immediat
+[0:25] CEY MENTHOL
+[0:25] ress
+[0:25] Pro abit
+[0:27] mas.
+[0:27] all
+[0:27] lax
+[0:28] passages
+[0:30] Peg
+[0:30] "ere
+[0:32] oil
+[0:33] 4७-००!
+[0:34] few,
+[0:37] filled
+[0:37] mer
+[0:39] her
+[0:39] m3 तन
+[0:40] Chink]
+[0:41] ising
+[0:43] 5 ५५४ {
+[0:44] awe
+[0:44] ड्टः
+[0:45] improved
+[0:45] eae
+[0:46] more
+[0:47] genuinely
+[0:47] bed
+[0:48] refreshing.
+[0:49] complete
+[0:50] changer
+[0:50 - 0:51] श्र
+[0:52] श्यै
+[0:53] OVA
+[0:54] V Fa
+[0:54] health
+[0:54] a we
+[0:54] माला

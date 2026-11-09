@@ -1,0 +1,100 @@
+# model: ggml-large-v3
+========================================================================
+[154] https://www.instagram.com/reel/C66_iEky8Db/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] A swollen face upon awakening can linger for hours before it totally fades.
+[0:05 - 0:11] While remedies do exist to eliminate this puffiness, sadly they don't work just right.
+[0:11 - 0:17] Bateman's Ice Mask, along with the Cold Spoon Technique, fail to target the entire face.
+[0:17 - 0:21] The better method I'll demonstrate requires a mere few moments to prepare,
+[0:21 - 0:26] needing just a pristine water-filled bowl plummeting its temperature with ice.
+[0:26 - 0:30] This method is proven to reduce puffiness, tighten the skin, minimize pores,
+[0:30 - 0:36] boost blood circulation for a radiant complexion, and provides relief for sunburn and irritations.
+[0:36 - 0:41] When ready, plunge the front of your face into the water for a span of 20 seconds.
+[0:41 - 0:47] You won't last very long the first time you do this, but as your resilience grows,
+[0:47 - 0:49] you can extend this time to 30 seconds.
+[0:49 - 0:51] Do this routine twice.
+[0:51 - 0:55] To finish off, apply your preferred serum or moisturizer
+[0:55 - 0:56] to further invigorate your skin.
+[0:56 - 1:00] The result is beautiful and immediate.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] a evollen facel
+[0:02] upon awakening)
+[0:04] itotallyitades.
+[0:06] iwhilelemedies:
+[0:07] = existito
+[0:08] eliminate this
+[0:10] workgjust right
+[0:10] iif
+[0:11] works
+[0:11] justright.
+[0:12] bateman's
+[0:12] न्‍ gt
+[0:13] ice a
+[0:13] OM 1
+[0:14] the cold
+[0:15] ( failitojtarget
+[0:16] entire\facen
+[0:18] itheibetter/method) |]
+[0:18] PEEL,
+[0:19] OF ४
+[0:19] IES)
+[0:20] किक,
+[0:20] VV) Saale
+[0:21] to.prepare;
+[0:22] apristine
+[0:23] ater-filledibowl!
+[0:24] ‘plum
+[0:24] ing)
+[0:25] lits temperature)
+[0:26] ज्ञान व्यय |
+[0:27] roven
+[0:28] duce puff
+[0:28] ee आफ
+[0:29] fightentioskin, |
+[0:30] iminimizejporess
+[0:30] Rea
+[0:30] हि श
+[0:31] = “SEL
+[0:31] exe
+[0:32] for a radiant
+[0:33] icomplexion
+[0:33] “pol
+[0:34] and provides) |
+[0:35] for sunburn
+[0:37] whenjready,
+[0:38] ‘face into the
+[0:39] ll a fora
+[0:39] — खिजन्क
+[0:43] /०७७४७॥
+[0:43] itilast
+[0:44] ithejfirstitime)
+[0:46] “iad =
+[0:47] hd grows) )
+[0:48] w time to
+[0:49] 30 seconds.
+[0:50] do this pouting 5
+[0:50] ~~ Une
+[0:51] psf
+[0:53] apply-your pre + 12]
+[0:54] serum
+[0:55] rr ae
+[0:55] to) see |
+[0:56] Lit skin..
+[0:57] » 1" कु
+[0:58] if ga
+[0:58] जे is
+[0:59] Wiss
+[0:59] Sof
+[0:59] NY & immediate.
+[0:59] aie:
+[0:59] vil
+[0:59] it aie
+[1:00] eee ay
+[1:00] eam
+[1:00] 5 3, 8
+[1:00] sid

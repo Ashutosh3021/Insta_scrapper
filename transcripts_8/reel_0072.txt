@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[72] https://www.instagram.com/reel/DD-eMFLzQer/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] You lazy people were not a fan of my six-step skincare routine, and I don't blame you, especially if you're a guy.
+[0:05 - 0:08] So here's a three-step version that'll give you almost the same results.
+[0:08 - 0:12] First off, wash those hands. Cleanliness is key.
+[0:12 - 0:14] Now, step one, grab a toner like this one.
+[0:14 - 0:18] You can use pads, but to keep it simple, just clean fingers will do.
+[0:18 - 0:21] Rub it gently to remove sebum and dead skin cells.
+[0:21 - 0:24] Step two, apply your favorite serum.
+[0:24 - 0:28] I'm using an ampoule here that gives me a subtle glow and calms my skin instantly.
+[0:28 - 0:31] And finally, step three, moisturizer.
+[0:31 - 0:35] Something like this soothing cream works wonders to cool your skin and lock in that moisture.
+[0:35 - 0:38] There you have it, a three-step routine you can do in minutes.
+[0:38 - 0:43] You can find all this stuff from Skin 1004. Try it out. You'll thank me later.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] vig
+[0:04] geo Sy
+[0:05] ‘a का
+[0:06] thr
+[0:08] results.
+[0:10] हर Fy CE
+[0:11] cleanliness
+[0:14] बॉ ye
+[0:16] af 4
+[0:17] lz MEN | ‘A
+[0:17] Yin
+[0:20] remove)
+[0:24] ys me
+[0:24] ता ह
+[0:24] OT, me
+[0:25] poul
+[0:26] iia
+[0:27] calms
+[0:28] Poss,
+[0:28] Pox,
+[0:30] za ५
+[0:31] "ele
+[0:32] 3b. rs
+[0:38] ८०२
+[0:39] G, Hira
+[0:39] नमन ह।
+[0:40] A Skiin1004
+[0:40] ‘wee
+[0:41] skinioo,

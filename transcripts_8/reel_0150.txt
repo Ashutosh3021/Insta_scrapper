@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[150] https://www.instagram.com/reel/C7CpaH5PjQA/
+STATUS: OK
+DURATION: 0:53   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] that's not k shami
+[0:03 - 0:09] what the that's you
+[0:09 - 0:18] holy shit what are you doing on here can you give me can you give me one minute bro
+[0:18 - 0:21] grab my friend real quick can you be that guy
+[0:30 - 0:36] i can't that is a crazy bro bro honestly right now i'm like
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ps5
+[0:02] all
+[0:03] x not KiShami
+[0:05] जब Ss
+[0:05] ure?
+[0:07] res
+[0:08 - 0:09] “that’s YOU?!
+[0:10] हू, मनी
+[0:12] Fea]
+[0:12] ZHEUN)
+[0:12] 328.
+[0:13] as क्लिक]
+[0:13] ale
+[0:14] “HOLY.
+[0:14] 2eUNN,
+[0:14] 26 q
+[0:15] ‘what’re: loing
+[0:16] “on pe
+[0:18] st grab my friend rq’
+[0:20] bre
+[0:20] | है get himnl
+[0:25] “K Shami”
+[0:28] "all
+[0:31] हू. 2]
+[0:33] Profound Self-Improvement
+[0:35] ft nr
+[0:35] हे 2

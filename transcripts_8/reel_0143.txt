@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[143] https://www.instagram.com/reel/C7cQRAcyN01/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] but i want you to just follow through with the definition guide but i don't want you to take
+[0:06 - 0:06] everything that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] joined mogwarts
+[0:00] just to mog all of us &
+[0:00] an 2
+[0:02] Pes
+[0:05] Lak
+[0:06] bes
+[0:07] L Ad
+[0:07] i 63
+[0:07 - 0:14] bro joined mogwarts
+[0:07 - 0:14] just to mog all of us ७&
+[0:10] 0४८ ग:ज़

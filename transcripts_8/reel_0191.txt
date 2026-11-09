@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[191] https://www.instagram.com/reel/C34ZJdmrxfa/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I think I have this thing where I need everybody to think I'm the greatest, the quote-unquote fantastic Mr. Fox.
+[0:05 - 0:11] And if they aren't completely knocked out and dazzled and kind of intimidated by me, then I don't feel good about myself.
+[0:11 - 0:18] I know what it's like to feel different.
+[0:18 - 0:21] I'm not different.
+[0:21 - 0:22] Am I?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ithhimksi have this, ding
+[0:01] MWihenelimeed.evenybod
+[0:02] ७० हि
+[0:03] lhe
+[0:03] tha,
+[0:03] 1८011 00101 €'
+[0:04] Rantastic 10.2:
+[0:05] “Fantastic Mr
+[0:05] 224
+[0:06] reqifathey/aremits
+[0:07] ‘ompletely knockedfout}
+[0:08] and kind) off
+[0:09] intimidated by me}
+[0:09] Tae %
+[0:10] toy
+[0:11] an donit feel good)
+[0:11] about:
+[0:11] Gul
+[0:11] ५561
+[0:14] नल 5
+[0:15] end. It’s only a matter of time bro
+[0:16] tae |
+[0:16] “हैं
+[0:20] geal
+[0:22] Lat]
+[0:23] CFL 7.
+[0:23] Sa खत
+[0:23] lie

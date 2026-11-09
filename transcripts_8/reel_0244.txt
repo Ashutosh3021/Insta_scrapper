@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[244] https://www.instagram.com/reel/ChyxHDZL9-x/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I already told you everything.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] wes
+[0:00] छा —e
+[0:00 - 0:07] friend”
+[0:00 - 0:08] ‘babe i told you he’s just a
+[0:01] mz i
+[0:02] Fill a
+[0:03] fog
+[0:03] wos
+[0:04] fe Z
+[0:04] ६8 - ८८
+[0:04] LS का.
+[0:04] vss
+[0:05] ffl v4
+[0:06] “bal
+[0:06] ofl
+[0:08] “babe

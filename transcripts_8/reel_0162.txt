@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[162] https://www.instagram.com/reel/C6kajWSx04a/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] Субтитры сделал DimaTorzok
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] HOWATOJARRLY
+[0:00] sie
+[0:00 - 0:01] FRAGRANCES:
+[0:01] HOW VOR NG
+[0:01] ह की
+[0:02] 1. MoI
+[0:02] RIZE BIRST:
+[0:04 - 0:05] (this willistrengthen
+[0:04 - 0:05] ४ scent)
+[0:05] / The
+[0:06] oad
+[0:08] 5. BEHIND
+[0:09] ——opi I
+[0:10] OW) CREASES)

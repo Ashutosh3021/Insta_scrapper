@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[96] https://www.instagram.com/reel/DAcPUHSyjYE/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] you just started your accutane i started a month ago with accutane what you're gonna see
+[0:03 - 0:08] is a huge reduction in your pore size which can result in your nose actually shrinking
+[0:08 - 0:12] right inflammation is going down in this area with this your lips might get plumper i'm going
+[0:12 - 0:16] to illustrate to you the effects of your accutane i'm going to illustrate to you what you'd look
+[0:16 - 0:20] like with longer hair what you'd look like with clearer skin with thicker eyebrows by using
+[0:20 - 0:28] minoxidil and dermarolling here with a goatee as you can see you're going to look amazing this is
+[0:28 - 0:31] the look that you're going for and i wish you the best of luck
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] * चै;८
+[0:00] पक] rt
+[0:01] I'started
+[0:02] [accutane
+[0:03] Pew)
+[0:04] [reduction
+[0:04] pe y
+[0:05] asi
+[0:05] RB 2 a oe
+[0:07] Rs ee
+[0:08] he | 4
+[0:10] Pie
+[0:13] है 2
+[0:13] the)
+[0:15] Ley)
+[0:16] हे a
+[0:17] hed
+[0:17] | गा g
+[0:17] > जया
+[0:19] gue
+[0:19] १७४
+[0:19] ising
+[0:19] 405७
+[0:21] oly,
+[0:21] Boos
+[0:22] Phe)
+[0:26] {7 mm
+[0:26] GFF;
+[0:26] As‘you can’see
+[0:26] oh yeah
+[0:27] a: हि
+[0:27] call
+[0:27] gonna
+[0:28] this‘is the)
+[0:29] ५ आह
+[0:30] Yt I |

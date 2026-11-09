@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[194] https://www.instagram.com/reel/C1TP7TNoIbA/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] If this ain't real, is it real, right, huh?
+[0:02 - 0:04] You talking right, huh?
+[0:04 - 0:06] You talking right
+[0:06 - 0:08] Let's party, let's party
+[0:08 - 0:10] Let's party, let's party
+[0:10 - 0:12] Let's fall out, let's fall out
+[0:12 - 0:14] We'll party till we die
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] SRS,
+[0:00 - 0:09] “BABE stop wearing thatior,
+[0:00 - 0:09] i'm goingjto leave you.”
+[0:01] “img
+[0:01] leave you.
+[0:02] ५५ 3
+[0:02] श्र
+[0:03] Zhe
+[0:03] ZENS
+[0:04] uke
+[0:08] Aly
+[0:10] /28885510[2 6७169 that or
+[0:10 - 0:11] itolleave you.”
+[0:11] “BABE
+[0:11] wearing that or

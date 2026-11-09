@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[55] https://www.instagram.com/reel/DGWRzTaxkZ6/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] DIG pwn
+[0:00 - 0:02] a withoutiaifade.>>
+[0:01] hale uvithout om
+[0:01] orn
+[0:03] न 4722:
+[0:03] Wel
+[0:03] I Von See
+[0:03 - 0:05] haircut without a fade >>
+[0:04] g (4009
+[0:04] ray
+[0:04] ies
+[0:05] Wh iN
+[0:05] क्ष
+[0:06] करे
+[0:06] Conroe
+[0:08] Ore gy

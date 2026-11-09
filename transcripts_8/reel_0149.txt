@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[149] https://www.instagram.com/reel/C7DH61GPdbk/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] his acne his eyebrows the way he has dark under eye circles like maybe freaking gets him sleep
+[0:07 - 0:11] the way he has a big nose the way he's got an ugly widow's feet
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Sint you react that way?
+[0:02] हे you react that से
+[0:02] cx acl
+[0:03] acne —_
+[0:05] 7 eu
+[0:05 - 0:13] eat you react that way?
+[0:06] Vigg
+[0:07] get Som:
+[0:07] Sal
+[0:08] Fal
+[0:09] the ue
+[0:10] widow's!
+[0:10] ipeak.”
+[0:11] idow'sjpeak.”
+[0:12] esi ys
+[0:12] hat way?

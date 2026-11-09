@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[183] https://www.instagram.com/reel/C4tyNTWpqmd/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] I like the way you kiss me, I can tell you miss me, I can tell it is, is, is, is, not true
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] bros hette
+[0:00 - 0:02] myjhaiglooksiso)padirngs
+[0:01] bros iets
+[0:02] tain
+[0:02] nay
+[0:03] aay
+[0:05] Pacis
+[0:06] lbelssobadl a?
+[0:06] set]
+[0:06 - 0:08] hair;
+[0:07] kes
+[0:08] Kos
+[0:08] 100
+[0:08] aes
+[0:09] 3012301110
+[0:09] िए७॥ ६1

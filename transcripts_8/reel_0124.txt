@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[124] https://www.instagram.com/reel/C9F0ADhPlZr/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Today is a big day. After two years, I'm finally seeing the one friend that was there for me when
+[0:05 - 0:10] I was at my lowest, and now I'm repaying the favor. My brother K Shammy recently got into
+[0:10 - 0:15] an altercation and suffered 20 stitches on his backside. I packed my bags and grabbed a one-way
+[0:15 - 0:20] ticket straight to LA. A true friendship means you're there for each other no matter what.
+[0:20 - 0:24] It's hard to come by a real friend, and that's why you should never take them for granted.
+[0:24 - 0:27] Can't wait to see K come back stronger than ever.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] added
+[0:00] today,
+[0:01] day,
+[0:02] years) =
+[0:03] ५५4
+[0:04] रु that
+[0:04] ३ है|
+[0:05] S Sei |
+[0:06] and
+[0:08] oly
+[0:10] nto
+[0:12] Zid
+[0:13] backside:
+[0:13] wae
+[0:13] vey
+[0:15] ५८ «० ०६०७४ DFADDEGrirus ati
+[0:15] LAX Round Trip
+[0:15] Depart — R
+[0:15] es Arg cA
+[0:15] Shop with Mies
+[0:15] One Way $
+[0:15] 21771 —~
+[0:16] str
+[0:17] vis
+[0:18] friendship
+[0:19] क्र
+[0:20] what
+[0:20] प्र
+[0:20] mail
+[0:21] ConniS
+[0:22] tidemel
+[0:24] aia
+[0:26] y fi
+[0:26] y >> जे

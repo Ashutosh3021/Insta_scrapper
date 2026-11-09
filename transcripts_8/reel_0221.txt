@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[221] https://www.instagram.com/reel/CrPrNtAuRQW/
+STATUS: OK
+DURATION: 0:52   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] If you're anything like me, you want to keep that youthful, vibrant look for as long as possible.
+[0:05 - 0:10] That's why I've started using retinol, and let me tell you, it's not for the faint of heart.
+[0:10 - 0:15] The first few days, my skin was in full-on purge mode.
+[0:15 - 0:20] Dry spots, redness, and even some pesky pimples, but trust me, it's worth it.
+[0:20 - 0:23] The benefits of retinol are undeniable.
+[0:23 - 0:29] It stimulates collagen production, evens out skin tone, and reduces the appearance of fine lines and wrinkles.
+[0:30 - 0:33] Now, the trick with retinol is to apply it right before bed.
+[0:33 - 0:35] That way, it has all night to work its magic.
+[0:35 - 0:43] I use a retinol moisturizer that I gently massage into my face, and I wake up with a full, rejuvenated glow.
+[0:43 - 0:45] It's like a mini facelift while you sleep.
+[0:45 - 0:48] So, if you're willing to go through the purge, you're welcome.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] vit
+[0:00] NOU TRS
+[0:01] vin! ;
+[0:01] ४८८१
+[0:01] 109 1७%
+[0:02] that
+[0:03] PY 4
+[0:03] MOLY
+[0:03] vibrant
+[0:04] Phy)
+[0:04] forasjlong ‘
+[0:05] - आडजछट्र: -
+[0:05] as"possible
+[0:06] that's % i
+[0:06] vVerstanted
+[0:07] S Windy tl
+[0:07] e.started
+[0:07] fry
+[0:08] &sletimeltell, you
+[0:09] Peo
+[0:11] the
+[0:11] Paintoineara
+[0:12] thesfirst few d
+[0:13] my sin Wes 2
+[0:15] modes
+[0:15] स्का
+[0:15] गटर
+[0:17] ४ Ne
+[0:17] TAs
+[0:18] eee
+[0:18] 1८4
+[0:18] Kor
+[0:19] pimples.
+[0:20] worth: it
+[0:22] ES OF
+[0:23] feria
+[0:23] undeniable
+[0:25] wth;
+[0:25] ‘ie At
+[0:26] कि ०»
+[0:26] Skin tone,
+[0:27] reduces the
+[0:32] right .
+[0:34] alljnight
+[0:37 - 0:38] हर moisturizer,
+[0:39] a massage
+[0:42] See
+[0:42] piovenated
+[0:42] Ways,
+[0:43] glow.
+[0:44] it's like a mini
+[0:45] while you sleep
+[0:47 - 0:48] go through the purge,
+[0:49] you're welcome.

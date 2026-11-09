@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[28] https://www.instagram.com/reel/DJSkPKvSUKf/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Your skin is your largest organ, exposed to countless irritants every day.
+[0:04 - 0:06] Even a simple shave can agitate it.
+[0:06 - 0:13] If you've seen my three-step skincare routine, you'll know why and how I use this ampoule from Skin 1004.
+[0:13 - 0:18] It's formulated with centella, an ingredient known for its soothing and healing properties.
+[0:18 - 0:25] It's an overall great serum as it hydrates deeply and reduces irritation, making it rather essential, especially after I've shaven.
+[0:25 - 0:32] I apply it generously, ensuring my skin is not just treated but pampered, leaving it impeccably smooth with minimal redness.
+[0:32 - 0:35] Try incorporating this in your skincare. You won't regret it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Neb
+[0:01] / “yorga
+[0:03] jitance
+[0:04] 4, oo
+[0:05] have
+[0:05] 4 if
+[0:08] kiincare
+[0:11] this
+[0:12 - 0:13] 004;
+[0:14] vformulated
+[0:15] Cenitellia
+[0:15] AGASCAR
+[0:15] AMPOULE
+[0:15] WNIOO4
+[0:16] a \ Pe
+[0:19] rt fu»
+[0:19] great:
+[0:21] ian है
+[0:21] reduces
+[0:22] Ana
+[0:22] tion
+[0:24] 85|92७॥8॥
+[0:25] 603
+[0:26] generously,
+[0:27] easurigg
+[0:28] ym 4 ated\
+[0:29] pam
+[0:29] peed
+[0:30] mpeccably,
+[0:31] Wei,
+[0:32] redness }
+[0:35] हे iy

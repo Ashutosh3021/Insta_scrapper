@@ -1,0 +1,155 @@
+# model: ggml-large-v3
+========================================================================
+[32] https://www.instagram.com/reel/DI9jCUdT07I/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] - For example, in the case of Lacey and Marlon,
+[0:02 - 0:03] Lacey would have to gain two inches
+[0:03 - 0:06] going from five foot six to five eight.
+[0:06 - 0:10] And if we plot that, he would need a nine out of 10 face card
+[0:10 - 0:11] to be considered Chad.
+[0:11 - 0:13] And if we just look at where Marlon sits,
+[0:13 - 0:14] we plot him from six foot five
+[0:14 - 0:16] all the way up with a face card of seven,
+[0:16 - 0:18] it's probably even higher, he gets mocked.
+[0:18 - 0:21] As I mentioned, each one unit is a mock.
+[0:21 - 0:22] This is a mock, this is a mock.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] mee
+[0:00] Co i es
+[0:00] aso]
+[0:00] BHA DS SS SOUS
+[0:00 - 0:02] Bees
+[0:00 - 0:21] why Lacy can't ever mog
+[0:00 - 0:21] Marlon:
+[0:01] ead
+[0:02] arial
+[0:03] Tie
+[0:03] i Net
+[0:03] Wexe
+[0:03] ia rma
+[0:04] acd |
+[0:04] Ti INN Gwe
+[0:04] Pas Va ew we ee |”
+[0:04] eee £ ane Dee =
+[0:04] lt gd
+[0:04 - 0:06] sees
+[0:04 - 0:09] ~ es Ss
+[0:05] is _ SS
+[0:05] TRA Se
+[0:05] कील नव ०
+[0:05] SSG. in
+[0:05] eae ||
+[0:05] ANY,
+[0:05] aos
+[0:05] SO: IN SD ०
+[0:05] 3 So <0 ४
+[0:06] iP SS iy CE
+[0:06] mee
+[0:06] (51 बेला |
+[0:06] emacs |
+[0:06] ७, ४५ ४१
+[0:06] SoC ore
+[0:06 - 0:08] Wexe
+[0:07] as Ea
+[0:07] SS SS
+[0:07] SRS
+[0:07] हि Ss
+[0:07] mie
+[0:07] Souls eed
+[0:07 - 0:08] CHAR
+[0:08] Sree #किक
+[0:08] ७5 877:
+[0:08] है का
+[0:08] RAR
+[0:08] i wy
+[0:08 - 0:10] ES) SE
+[0:08 - 0:10] wie
+[0:09] peas St
+[0:09] 11 5 अल
+[0:09] Aes
+[0:09] Fed
+[0:09] के a
+[0:09] OHA
+[0:09] Heze
+[0:09] HRD So 2 BUS
+[0:10] O| 2 tae
+[0:10] menses oS
+[0:10] eS पक तप
+[0:10] Noy
+[0:10] [S| ae
+[0:10] [NORM
+[0:10] She on
+[0:10] Wezxe
+[0:11] a AEE
+[0:11] आह (UE
+[0:11] ena त.स 189
+[0:12] PSS
+[0:12] Lay
+[0:12] EES SS
+[0:12] Sea
+[0:12] 642, ai
+[0:12] ip Nar
+[0:12] ७ ७, ७
+[0:12] execu
+[0:12] Woe
+[0:13] pees GS
+[0:13] 3 सा हा
+[0:13] NTA
+[0:13] aoe
+[0:13] ieee
+[0:13] Co ga
+[0:13] San |)
+[0:13] RRRE AAR
+[0:13] Hexe
+[0:13] we ० २2
+[0:13] So 3
+[0:14] the
+[0:14] SSS
+[0:14] 3 ee
+[0:14] LA cer
+[0:14] wie
+[0:14] | NORMT EN
+[0:14] Sam
+[0:14] econ
+[0:14] Zee
+[0:14] RRR OHA
+[0:14] We SO 59 ४ SO <0
+[0:14 - 0:16] Heze
+[0:15] eS Se
+[0:15] eRe SS
+[0:15] wie a | रू
+[0:15] fo _| NORMS
+[0:15] Nea
+[0:15] ier
+[0:15] RRR SHR A
+[0:15] a SO लक nai mel eg
+[0:16] | SRS
+[0:16] lee
+[0:16] “Lae
+[0:16] ID SSS a
+[0:16] RAS
+[0:16] one F
+[0:16] lend
+[0:17] wie
+[0:17] Wy a
+[0:17] has! चल
+[0:17] Exe
+[0:17] SUS SL BIS
+[0:18] NA a
+[0:18] SEL va
+[0:18] Weseur?
+[0:19] Psy
+[0:19] एज | कि]
+[0:19] Be 21% a 1 के
+[0:20] Van
+[0:20] exer
+[0:20] Re ed
+[0:21] wie
+[0:21] Kale)
+[0:21] जे 032
+[0:21] "० ५9 है ५० So

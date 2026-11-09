@@ -1,0 +1,283 @@
+# model: ggml-large-v3
+========================================================================
+[8] https://www.instagram.com/reel/DRs7aHwj6g7/
+STATUS: OK
+DURATION: 1:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] My hair's been honestly looking lifeless lately.
+[0:02 - 0:03] No texture, no volume,
+[0:03 - 0:05] and I've been wanting highlights again for over a year now.
+[0:05 - 0:07] But I couldn't find a single place in LA
+[0:07 - 0:10] until I found the only men's salon in Beverly Hills.
+[0:10 - 0:13] So I pulled up and let the owner, Rodonte, work his magic.
+[0:13 - 0:14] If you've got straight hair like me,
+[0:14 - 0:15] you know how flat it can look.
+[0:15 - 0:17] And so highlights, especially blonde ones,
+[0:17 - 0:18] are the easiest way to bring it back.
+[0:18 - 0:20] I decided to go full blonde this time
+[0:20 - 0:21] because in the past, when I've done it lighter brown,
+[0:21 - 0:24] it's always turned to this orange, warm, gingery tone
+[0:24 - 0:25] and I absolutely hate it.
+[0:25 - 0:27] So to avoid that, we lifted my hair
+[0:27 - 0:28] all the way up to a pale yellow tone,
+[0:28 - 0:30] which is the correct stage you want to be
+[0:30 - 0:31] before toning blonde.
+[0:31 - 0:32] That way, the final color comes out controlled,
+[0:32 - 0:34] clean, and actually intentional.
+[0:34 - 0:36] He mixed the bleach with a 20 volume developer,
+[0:36 - 0:38] added Olaplex to protect the hair bonds,
+[0:38 - 0:40] and focused the highlights only on the top of my head
+[0:40 - 0:41] because as you know,
+[0:41 - 0:43] it grows out very fast on the sides and the back.
+[0:43 - 0:45] And the top is where you get the most texture
+[0:45 - 0:46] when it comes to straight hair, of course.
+[0:46 - 0:47] He applied everything in layers,
+[0:47 - 0:49] wrapped sections up in foil,
+[0:49 - 0:50] and then he covered it with a shower cap,
+[0:50 - 0:53] and then he used heat from a diffuser for about 30 minutes.
+[0:53 - 0:55] Once we hit that pale yellow stage, it was toner time.
+[0:55 - 0:57] That's the step that actually gives the hair the final shade.
+[0:57 - 0:59] We went for an ashy, dirty blonde tone
+[0:59 - 1:01] using a Redken EQ Gloss Ivy
+[1:01 - 1:04] mixed with a clear gloss to keep it all natural.
+[1:04 - 1:05] Two washes to remove the bleach,
+[1:05 - 1:06] and then we used toner in the sink,
+[1:06 - 1:08] and of course we washed it off and then blow dried.
+[1:08 - 1:10] And the result is insane.
+[1:10 - 1:12] More texture, more movement.
+[1:12 - 1:13] It's the perfect winter blonde.
+[1:13 - 1:16] It's the kind of Leon Kennedy vibe that I was going for.
+[1:16 - 1:17] We finished off with some light scissor work
+[1:17 - 1:19] and to hold everything together, pomade.
+[1:19 - 1:20] And that's it.
+[1:20 - 1:22] If your hair has been feeling flat or dead,
+[1:22 - 1:24] I definitely recommend checking out highlights.
+[1:24 - 1:25] It might be exactly what you need.
+[1:25 - 1:26] No regrets on this one, you guys.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] KASS
+[0:02] texture
+[0:03] you me
+[0:04] 0 fa
+[0:06] : find
+[0:06] n है
+[0:07] af ae क्रितक-
+[0:08] onl
+[0:08] 2: भा
+[0:09] a salon
+[0:11] प्र
+[0:11] Pil
+[0:12] Rodante
+[0:12] ७. 5-51
+[0:12] क्र
+[0:12] i अं ह।
+[0:13] ate
+[0:13] youve
+[0:14] > aoe
+[0:14] ofa
+[0:15] aA jue
+[0:15] 27m mgt
+[0:15] ४६१४ ४
+[0:17] are
+[0:19] . 7 PR ०
+[0:19] full |
+[0:20] ह iy
+[0:21] fore.
+[0:23] wa rm
+[0:23] "९७ कि ॥
+[0:24] tone
+[0:24] "९५० के \
+[0:26] Hair hart
+[0:26] Eee
+[0:26] 9 ७ &2 ७
+[0:26] Light Brown Highlights
+[0:26] “Ti fT
+[0:26] Fas | /
+[0:26] Ait
+[0:26] Brown with
+[0:26] oie
+[0:26] lights
+[0:26 - 0:27] 0-1 Jot Black
+[0:26 - 0:27] 0-2 Dark Brown
+[0:26 - 0:27] C-2-4 Medium Brown
+[0:26 - 0:27] €-2-2 Light Brown
+[0:26 - 0:27] 0-3 Dark Brown with
+[0:26 - 0:27] 0-4 Aubum Brown
+[0:26 - 0:27] 0-5 Ash Brown with
+[0:26 - 0:27] 0-6 Cherry Red
+[0:26 - 0:27] C7 Light Ash Brown
+[0:26 - 0:27] 6-8 Dirty Blonde:
+[0:26 - 0:27] ९-9 Copper Red
+[0:26 - 0:27] ९-10 Copper Blonde
+[0:26 - 0:27] C-11 Light Blonde
+[0:26 - 0:27] C-11-1 Golden Blonde
+[0:26 - 0:27] 0-12 Platinum Blonde
+[0:27] Hair ०५
+[0:27] Chart
+[0:27] BS i
+[0:27] ४४४
+[0:27] ७७ ६-3
+[0:27] 1 dda
+[0:27] 0-13 Light Brown with
+[0:28] Viellow,
+[0:28] ‘Tay,
+[0:29] , correct
+[0:30] toning
+[0:30] ces
+[0:31] जि ४
+[0:32] = one
+[0:35] Y 0 v
+[0:37] BOND MULTIPLE
+[0:37] OLAPLE ya
+[0:37] सका
+[0:37] MIX WITH
+[0:37] LIGHTENER, 20100
+[0:37] CHEMICAL SERVICES
+[0:37] 525 MI/Net 17.75 floz
+[0:39] Vie ae
+[0:39] Mts
+[0:40] oes
+[0:40] Src
+[0:40] a ad
+[0:40] AIR
+[0:40] arr
+[0:41] “leet NV
+[0:45] 7 क्र e*
+[0:46] Bees
+[0:46] (1156
+[0:47] ts ie
+[0:47] ike
+[0:48] fee
+[0:48] sections
+[0:48] a5 if
+[0:49] covered
+[0:50] yee,
+[0:51] Sab
+[0:51] 10027]
+[0:51] haa
+[0:52] about
+[0:52] ©) १०५
+[0:52] 42.7.
+[0:53] errr
+[0:54] stage
+[0:55] i time
+[0:56] क्र 4
+[0:56] Wah
+[0:56] > 4 लामक
+[0:56] ARS
+[0:57] ०» एज
+[0:57] final
+[0:58] ashy,
+[0:59] _ tone
+[0:59] 39८ Sn
+[0:59] “she
+[1:00] sic =
+[1:00] | RED |
+[1:00] Redken
+[1:00] 0801५
+[1:02] NUE
+[1:02] ४९४९०
+[1:02] ~_COLOR
+[1:02] COLORATION
+[1:02] Keep um * Conserve vesticale ©
+[1:02] fextores
+[1:02] 00001 vertical * 680 tala canoe *
+[1:02] bewaren * Aufrocht aulbewatven *
+[1:02] opesterde « Firs senda
+[1:02] 10100 8॥ |
+[1:02] it) feu ‘i
+[1:02] 10 ae Oe
+[1:02] A qa
+[1:02] NW OAV!
+[1:02] 75008 08
+[1:02] 19000000*
+[1:02] dott
+[1:02] 14007
+[1:02] fot
+[1:02] ou, Ess
+[1:02 - 1:03] CONDITIONING
+[1:02 - 1:03] REVITALISANTE ET
+[1:02 - 1:03] EQUILIBRANTE
+[1:02 - 1:03] AVEC EFFET
+[1:02 - 1:03] GLOSS"
+[1:02 - 1:03] BRILLANCE
+[1:02 - 1:03] ACID PH/ PH ACIDE
+[1:02 - 1:03] CRYSTAL CLEAR
+[1:02 - 1:03] FOR PROFESSIONAL USE ONLY
+[1:02 - 1:03] i, HERVE AUX PROFESSIONNELS
+[1:02 - 1:03] 0 PARA USO PROFESSIONAL
+[1:02 - 1:03] tobe Awards 2001-201
+[1:02 - 1:03] ‘demi-permanent by behindthechair.com
+[1:03] (0106
+[1:03] WAR
+[1:03] थाम
+[1:03] EQUALIZING
+[1:03] COLO kee p
+[1:03] favorite
+[1:03] Croce,
+[1:03] upright * Conserver 3 la verticale *
+[1:03] n pasicién vertical © Tenere dntta la confegione #
+[1:03] * Autrecht aufbewatven *
+[1:03] a किला
+[1:03] + Firvaras:
+[1:03] fin
+[1:03] iat
+[1:03] SOOM (14-1601
+[1:03] nus il
+[1:03] DLE
+[1:03] Hay MM
+[1:03] adh «
+[1:03] NEW York, NY 10017 # 277 Ru Saint Honan
+[1:03] 10000४
+[1:03] 0414 Drissaor, Deutschland # NV.
+[1:03] ५५1९
+[1:03] Lag Cg
+[1:03] 42,6:
+[1:03] Great Soult Hoa,
+[1:03] 7 Miallores, 14004;
+[1:03] TION.
+[1:04] ethes
+[1:05] blea
+[1:07] Yr’ खत
+[1:07] Ee Fa
+[1:09] result
+[1:11] texture
+[1:12] waren" |
+[1:12] igi ‘
+[1:12] eta
+[1:12] _ Bee
+[1:13] Vn WN
+[1:13] Winter a
+[1:13] SL LFA
+[1:13] pes
+[1:13] ८५४
+[1:14] iene
+[1:15] 2227
+[1:15] SS क८
+[1:15] जन्नत
+[1:16] Yip}
+[1:16] Neg
+[1:16] > fin
+[1:16] क्र
+[1:17] scissor
+[1:18] | a, २०
+[1:18] thing
+[1:19] ade
+[1:20] ram
+[1:20] Les
+[1:20] Ise
+[1:21] feeling
+[1:21] tobe
+[1:21] 122
+[1:22] 997
+[1:22] LRAS
+[1:22] tely:
+[1:25] — ass
+[1:26] हे ७! om
+[1:26] =you
+[1:26] DSS
+[1:26] ~en FE
+[1:26] bot

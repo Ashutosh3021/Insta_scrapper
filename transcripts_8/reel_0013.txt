@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[13] https://www.instagram.com/reel/DP-NwMuDYg_/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] - Do you think a guy caring about their looks is insecure?
+[0:02 - 0:03] - Some people say that it's gay.
+[0:03 - 0:05] How is it gay or feminine if I'm doing something
+[0:05 - 0:06] that's gonna make me pull more?
+[0:06 - 0:08] If I'm doing it to have your bitch look at me.
+[0:08 - 0:09] Like, how is that gay?
+[0:09 - 0:11] What's gay is going to the gym, going on roids,
+[0:11 - 0:12] just to have other guys look at you.
+[0:12 - 0:14] Girls care more about the face and the body.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] fad
+[0:12] LOOK AT YOU

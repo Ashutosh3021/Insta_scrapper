@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[185] https://www.instagram.com/reel/C4oLiPdSj2p/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] *Outro*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:04] eee
+[0:04] gee कब.
+[0:05] ool
+[0:05] f “se
+[0:07] ost
+[0:08] wen
+[0:10] ae क्थ
+[0:10] डिस्क
+[0:11] Pe ew}
+[0:11] ip x
+[0:11] i ia at

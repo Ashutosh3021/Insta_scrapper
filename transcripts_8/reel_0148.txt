@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[148] https://www.instagram.com/reel/C7FlEZDSdUv/
+STATUS: OK
+DURATION: 1:03   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] You want flawless skin?
+[0:01 - 0:06] Not that I have flawless skin, it's a TikTok filter, but it all starts with toner.
+[0:06 - 0:09] Now what a toner is going to do for you is what your cleanser can't.
+[0:09 - 0:12] After washing, this thing is going to take care of all the remaining impurities,
+[0:12 - 0:16] balance your pH levels, and prep your skin to absorb more products later.
+[0:16 - 0:18] I'm going to show you how to apply it very quickly.
+[0:18 - 0:21] This is the bottle. You uncap it very simply.
+[0:21 - 0:23] Usually you want to use cotton pads like these.
+[0:23 - 0:25] You'll see a lot of girls doing them in their skincare videos.
+[0:25 - 0:29] But you can just keep your hands very clean, and if you do so, you should be fine.
+[0:29 - 0:32] You just dab it onto your hand like this, small amount, rub it through.
+[0:32 - 0:37] You want to focus on the T-zone in the face, and you want to swipe outwards, okay?
+[0:37 - 0:40] You're swiping outwards.
+[0:40 - 0:44] This is the T-area. You don't have to stick to it.
+[0:44 - 0:47] You can also do your cheeks, areas that you're prone to acne.
+[0:47 - 0:48] It's what I usually do.
+[0:48 - 0:52] Now you can't just apply this alone. You have to make sure that you wash your face prior.
+[0:52 - 0:55] You don't have to use a cleanser. You can just wash with water.
+[0:55 - 0:58] As long as your face is damp, it's going to make the effectiveness of it way better.
+[0:58 - 1:03] And then once you're done applying your toner, you can use any other serums on your face and moisturize and do your thing.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] a ०७७;
+[0:00] nt: flawless skin??
+[0:04] filter
+[0:05] a जे
+[0:06 - 0:07] toner,
+[0:10] / / «washing,
+[0:12] remaining
+[0:13] balance ,
+[0:14] levels
+[0:20] Pt # af
+[0:22] z LL
+[0:24] lot
+[0:24] knowsiwhatishe;
+[0:25] skine: re
+[0:25] (ged) whatishe!
+[0:25] cing)
+[0:30] ary पं
+[0:31] small
+[0:32] lz amount,
+[0:43] tea)
+[0:59] छ्ठ
+[0:59] youjre)
+[1:03] ‘thing:

@@ -1,0 +1,77 @@
+# model: ggml-large-v3
+========================================================================
+[90] https://www.instagram.com/reel/DBFGxk0PWWF/
+STATUS: OK
+DURATION: 0:53   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] i feel like i'm repeating the same day over and over again kind of thing like i know i like i know
+[0:04 - 0:09] i'm still young sort of thing but i do want to like do more you want to break the cycle what
+[0:09 - 0:14] makes you feel like you're repeating the day okay i'll wake up i'll work from seven to four i'll
+[0:14 - 0:18] work nine hours then i'll come home eat for a bit then go to the gym and then i'll do that for four
+[0:18 - 0:23] days and then the three days that i do get off i'm just going to sleep late waking up eating and
+[0:23 - 0:26] playing video games and that's it the comfort zone and this is where you're in right you're
+[0:26 - 0:31] comforting yourself with video games the comfort zone it kills so what happens is you're relieving
+[0:31 - 0:35] yourself short term and then long term what's happening you're deteriorating you're not really
+[0:35 - 0:39] you're not feeling happy with yourself you have to get out of the slump asap and you've got this
+[0:39 - 0:43] one life that you're living and you're burning it you're losing that time to find a hobby other
+[0:43 - 0:48] than video games that's going to give you some productivity my brain goes into like is this kind
+[0:48 - 0:52] of seems pointless like what if this like just doesn't work you have to give yourself hope and
+[0:52 - 0:53] you have to try there's no you don't lose anything by trying
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] P44
+[0:06] eke
+[0:06] 4 || lao
+[0:09] the cycle
+[0:09] है: J
+[0:10] (acaba
+[0:10] 10॥ J
+[0:12] ©. work
+[0:13] 11011 7
+[0:14] pes
+[0:15] then
+[0:15] ret
+[0:16] है. a bit
+[0:17] q to the gym
+[0:17] (wht
+[0:18] § days
+[0:19] रु 9५5५
+[0:19] (eet
+[0:20] get off
+[0:20] Canals}
+[0:21] i sleep
+[0:23] [Sale
+[0:24] the comfort zone
+[0:26] "प्ष
+[0:26] ४00॥०
+[0:26] als)
+[0:28] the Comfort
+[0:28] (४४४४
+[0:30] what|happens
+[0:30 - 0:32] St J
+[0:31] yourself
+[0:33] happening
+[0:33] Se J
+[0:34] deteriorating
+[0:35] youre
+[0:35] eu j
+[0:37] ‘out
+[0:37 - 0:38] cS J
+[0:38] ASAP
+[0:39] got ris
+[0:39] BS J
+[0:40] living
+[0:40] cS 5
+[0:41] bu i
+[0:43] a hobby
+[0:43] zx. * 5
+[0:44] gam
+[0:46] productivity
+[0:49] ४४311
+[0:50] | whe
+[0:51] give yourself 4b:
+[0:53] y के
+[0:53] क्र ा ज़्
+[0:53] trying)

@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[231] https://www.instagram.com/reel/CoDVMX_JH63/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] What's the matter with you?
+[0:05 - 0:09] There is no tomorrow
+[0:09 - 0:12] There is no tomorrow
+[0:12 - 0:15] There is no tomorrow
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 2 ३101
+[0:00] bl va
+[0:00 - 0:06] POV: you quit for a year
+[0:00 - 0:06] after getting sick
+[0:01] अनन्त
+[0:01] 00५०७,
+[0:01] प quit for a year
+[0:02] WE ८.
+[0:02] SSA
+[0:04] हैक
+[0:05] ner
+[0:10] N77
+[0:10] yey
+[0:10] iat J
+[0:12] “Mes,
+[0:12] Vee
+[0:16] vil
+[0:16] B18
+[0:17] ties
+[0:17] » Bes
+[0:19] Bish
+[0:19 - 0:20] » Woe
+[0:20] Bye
+[0:20] ल्‍ Pe
+[0:21] N77
+[0:22] 3७७
+[0:22] ” बला
+[0:23] N7 We
+[0:23] Bis
+[0:23] Ven
+[0:23] tial
+[0:24] ice ie
+[0:24] ies

@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[237] https://www.instagram.com/reel/CnxGKhmOueG/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:01 - 0:04] I wish I could say I'm making a difference, but I are.
+[0:04 - 0:14] The city streets are crowded for the holiday, and the chaos is the element waiting to strike like snakes.
+[0:14 - 0:17] And I'm there too, watching.
+[0:17 - 0:22] But when that light hits the sky, it's not just a call, it's a warning.
+[0:22 - 0:25] Fear is a tool.
+[0:26 - 0:30] They think I'm hiding in the shadows, but I am the shadows.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] wet मी
+[0:00] = aad
+[0:00 - 0:05] ~~ awaits.. ६
+[0:00 - 0:09] हु your bruce wayne arc
+[0:01] "am तो
+[0:01] क्र >.
+[0:01] wish i couldfsay
+[0:02] i cine =
+[0:02] wishi b Say
+[0:02] i'm making/a
+[0:03] कस 2
+[0:03] ‘differ
+[0:03] ence
+[0:04] butitdonit know.
+[0:05] ANY
+[0:05] Le KNOW
+[0:05] cad a
+[0:08 - 0:10] awaits..
+[0:09] प्र “
+[0:10] j bruce 4 arc
+[0:12] ३७७२०
+[0:13] if 3
+[0:16] P नजर
+[0:16] aie
+[0:18] LOE
+[0:21] bas |
+[0:22] Whee’
+[0:22] ve x}e
+[0:22] ५ ही
+[0:27] ma SS
+[0:27] »A_ws
+[0:28] हैँ
+[0:29] = aan
+[0:30] fay

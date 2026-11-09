@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[67] https://www.instagram.com/reel/DEvYZvMykSP/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Thank you for watching.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] oid
+[0:08 - 0:11] patience is a virtue.
+[0:10] सामना
+[0:10] Cer

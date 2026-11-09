@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[43] https://www.instagram.com/reel/DHpo8o1A2-g/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] didi
+[0:00] ‘find
+[0:01] whe
+[0:01] id iju
+[0:02] —aAwhatididii
+[0:02] justfin
+[0:03] aay
+[0:04] Ale ft (y
+[0:04 - 0:06] what did i just:find
+[0:05] 12740 ij
+[0:06] OF x
+[0:06] ie wa

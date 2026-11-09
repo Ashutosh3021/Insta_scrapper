@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[45] https://www.instagram.com/reel/DHcJubZAoJd/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] finally'debloated
+[0:00] no one's
+[0:00] ake't
+[0:01] fies
+[0:01 - 0:06] awake to see ९७
+[0:01 - 0:11] finally, debs loated but no-oneis;
+[0:02] snk But no. one}s)
+[0:02] han ©
+[0:02] ZF i
+[0:04] finally;d
+[0:04] 20 butinojon
+[0:04] EW el ejto see
+[0:04] evi
+[0:06] a Bley
+[0:06] final
+[0:06] loate
+[0:06] OCHS
+[0:07] Lent Meese ne
+[0:07] why
+[0:07] oat
+[0:08] eee =
+[0:08] peg rare
+[0:09 - 0:11] awakejtojsee ९१
+[0:11] hal)

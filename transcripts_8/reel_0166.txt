@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[166] https://www.instagram.com/reel/C6UlhzhSYEj/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Frese
+[0:00 - 0:05] & Week
+[0:00 - 0:05] ६ MONTH
+[0:00 - 0:07] ‘After a Breakup
+[0:00 - 0:07] Man
+[0:00 - 0:07] Woman
+[0:01 - 0:07] Fest
+[0:05] ries

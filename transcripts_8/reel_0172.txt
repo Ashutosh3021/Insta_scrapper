@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[172] https://www.instagram.com/reel/C5yqI_QJb72/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] "Seven minutes. Seven minutes is all I can spare to play with you."
+[0:03 - 0:08] "Father, it's the year of father."
+[0:08 - 0:12] "Oh, playtime is over."
+[0:12 - 0:17] "Father, it's the year of father."
+[0:17 - 0:25] "Father, it's the year of father."
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:09] ih NY
+[0:13] et oe
+[0:22] छः Wy,
+[0:24] i) 4 aw

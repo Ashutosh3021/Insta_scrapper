@@ -1,0 +1,96 @@
+# model: ggml-large-v3
+========================================================================
+[18] https://www.instagram.com/reel/DNwHvWB5Ooi/
+STATUS: OK
+DURATION: 0:54   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Ever since I started shaving every single day, I've started getting these red spots on my face, especially around my hair follicles, and I figured out just the solution for you guys.
+[0:07 - 0:14] But let's shave first. I'm a big fan of using a foil shaver, and the key to using this is having a flat surface for less irritation.
+[0:14 - 0:15] Everything is about having less irritation.
+[0:15 - 0:21] But once you've cleaned up everything, you can go about waiting 20 minutes before applying this beautiful stuff.
+[0:21 - 0:26] And by stuff, I mean toner pads, and I say beautiful because the minute I stopped using them, I started breaking out again.
+[0:26 - 0:32] I use this in my shaving routine. These from MediCube are amazing because they're AHA and BHA infused,
+[0:32 - 0:38] which will help remove your dead skin cells and exfoliate your skin whilst also unclogging your pores, respectively.
+[0:38 - 0:41] And as you can see here, I'm using it on my nose because it's not only for areas where you have hair,
+[0:41 - 0:45] it's for any pore on your face that's enlarged, clogging, etc.
+[0:45 - 0:47] This stuff is proven. I've seen many videos about it.
+[0:47 - 0:50] I highly recommend you add it to your shaving routine or even your skincare routine.
+[0:50 - 0:53] The tightening effect is instant, I'm telling you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] every
+[0:04] especially,
+[0:04] hae
+[0:04] (its
+[0:05] follicles
+[0:05] a हु
+[0:07] @ for
+[0:07] रा कं
+[0:07] y Nati
+[0:08] shave
+[0:09] big
+[0:12] flat
+[0:12] PS As
+[0:13 - 0:15] less
+[0:14] everything
+[0:15] ONS
+[0:16] NN aned
+[0:16] Wty
+[0:16] 33444
+[0:17] Vie
+[0:18] abouty~
+[0:19] minutes
+[0:19] Saat
+[0:19] ih ag
+[0:20] beautiful
+[0:22] mean
+[0:22] tis
+[0:23] ye eo PORE eee
+[0:24] mrinute |
+[0:26] aga
+[0:26] Vin} \
+[0:26] fall
+[0:27] y ५5
+[0:28] these
+[0:29] are
+[0:29] Foy
+[0:29] है X
+[0:31] BHA
+[0:33] remove
+[0:34] tia,
+[0:34] cells
+[0:34] a > ar
+[0:36] also
+[0:36] Wea i
+[0:37] ores
+[0:38] हैं; J
+[0:38] ie 3
+[0:39] i १1
+[0:39] y iA
+[0:40] ity
+[0:41] you
+[0:41] Wie
+[0:42] 1105
+[0:43] 221
+[0:43] ace
+[0:43] क्र
+[0:44] Aimee. ing
+[0:45] etc
+[0:45] hoe
+[0:45] boii
+[0:46] proven
+[0:46] है Y
+[0:47] FF sbout
+[0:47] jte gq 3
+[0:47] nee
+[0:48] reco
+[0:48] end |
+[0:49] ‘routine
+[0:49] (78. Me a
+[0:50] क्र
+[0:50] kincare
+[0:51] Z ed
+[0:51] a, ( ys
+[0:53] telling

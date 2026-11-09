@@ -1,0 +1,71 @@
+# model: ggml-large-v3
+========================================================================
+[37] https://www.instagram.com/reel/DIwnEbXTyxB/
+STATUS: OK
+DURATION: 0:52   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Just a couple weeks ago, my skin looked like this, and now it's just a whole lot better.
+[0:04 - 0:06] And it's all thanks to this 3-step skincare routine I've been using.
+[0:06 - 0:08] So the first step is using a cleanser.
+[0:08 - 0:10] I've used this Green Mochi Cleanser before in my videos.
+[0:10 - 0:12] It's one of the few that actually help with acne.
+[0:12 - 0:15] Just make sure your face is wet first, and then you want to gently apply it all over.
+[0:15 - 0:16] Very simple.
+[0:16 - 0:19] After rinsing and patting dry, you want to use a serum now.
+[0:19 - 0:21] Something before moisturizer.
+[0:21 - 0:23] I'm going to use this. It's a Hyssop Serum.
+[0:23 - 0:28] It's packed with vitamins, and it's known for calming skin and fading hyperpigmentation overall.
+[0:28 - 0:30] The last step, as I mentioned, is moisturizing.
+[0:30 - 0:34] Technically, I'm using blurring cream, but yeah, it's going to be a moisturizer for now.
+[0:34 - 0:37] It locks everything in and keeps your skin clean and soft.
+[0:37 - 0:38] It's a great finish.
+[0:38 - 0:41] You can find all this stuff from Orencia if you want to use exactly what I use in this video.
+[0:41 - 0:44] But yeah, 3 steps, and your skin's going to look something like this.
+[0:44 - 0:47] Glowing, you know, getting clearer over time, of course.
+[0:47 - 0:50] And yeah, remember, consistency beats complexity every time.
+[0:50 - 0:51] So keep at it for results.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] and
+[0:02] w 10
+[0:05] Sig
+[0:06] जहर
+[0:06] using
+[0:06] गान
+[0:08] clealn
+[0:09] shy
+[0:10] Vil
+[0:10] eos
+[0:10] ne A
+[0:17] rinsing
+[0:18] Nag
+[0:19] now:
+[0:20] before
+[0:21] wil
+[0:21] moist
+[0:21] izing
+[0:23] eked,
+[0:24] mins
+[0:25] Migs
+[0:25] for
+[0:26] Vii
+[0:27] hyperpigmentation)
+[0:30] moisturizing),
+[0:31] technically
+[0:32] crea
+[0:33] 2 Con
+[0:33] ला 3
+[0:35] Ing)
+[0:36] clean
+[0:39 - 0:40] \rencia
+[0:40] ५७५९!
+[0:40] ह जाए
+[0:44] like
+[0:45] owing
+[0:46] iy A
+[0:47] ourse
+[0:48] oN r
+[0:48] mes
+[0:49] # beats है

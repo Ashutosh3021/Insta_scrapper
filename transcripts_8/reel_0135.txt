@@ -1,0 +1,111 @@
+# model: ggml-large-v3
+========================================================================
+[135] https://www.instagram.com/reel/C8LhzBBREpF/
+STATUS: OK
+DURATION: 1:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Nighttime skincare has transformed my skin immensely, and this routine is a testament to that.
+[0:05 - 0:07] We begin with the essential double cleansing.
+[0:07 - 0:10] First, I use a pore control cleansing oil.
+[0:10 - 0:16] This helps remove blackheads and sebaceous filaments, making it perfect for sensitive and acne-prone skin.
+[0:16 - 0:20] I like to emulsify the cleansing oil by simply adding a splash of water.
+[0:20 - 0:24] Next, I proceed with this deep-cleaning foam from Anua.
+[0:25 - 0:32] This foam is designed to leave your skin soft and soothed while ensuring it doesn't strip away the natural oils that maintain your skin's integrity.
+[0:32 - 0:36] Following the double cleanse, I apply a toner.
+[0:36 - 0:44] This toner is instrumental in protecting the skin from further acne, providing a calming effect that primes the skin for the subsequent steps.
+[0:44 - 0:48] Now, let's focus on the serum, a pivotal component of this routine.
+[0:48 - 0:50] Anua's Retinol Serum.
+[0:50 - 0:55] This gentle yet effective retinol activates skin cycling to promote...
+[0:55 - 0:58] ...regeneration, reducing wrinkles and fine lines.
+[0:58 - 1:06] I've found it prudent to use this serum only two, three times a week initially, gradually increasing frequency as your skin adjusts.
+[1:06 - 1:12] I've noticed remarkable improvements in skin texture and elasticity within just a few days.
+[1:12 - 1:14] Finally, we reach the moisturizing stage.
+[1:14 - 1:19] Opt for a moisturizer with a non-greasy texture to complete the routine.
+[1:19 - 1:25] If there's one takeaway from all this, it's that retinol is unmatched, especially if it's in your nightly routine.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ahh
+[0:00] ime
+[0:01] transformed
+[0:03] aid
+[0:04] testament
+[0:06] essential
+[0:06] ee OO ¥
+[0:07] icleansing:
+[0:07] कै 4
+[0:08] Sen.
+[0:11] remo
+[0:13] laments,
+[0:14] ect
+[0:15] ene
+[0:16] skin.
+[0:17] mulsify
+[0:18] aN i
+[0:20] WWM
+[0:21] next
+[0:22] eed
+[0:23] \ WES
+[0:23] animng)
+[0:24] HEARTLEAE
+[0:25] his
+[0:27] 350
+[0:28] Win)
+[0:29] 5112]
+[0:30] oll
+[0:31] PER
+[0:31] MOU
+[0:32] limit
+[0:32] hity.
+[0:32] Nee”
+[0:34] cleanse)
+[0:35] apply;
+[0:38] ing
+[0:39] Aue
+[0:39] Vifes
+[0:39] Tithe)
+[0:40] ovidiin
+[0:41] Soy %
+[0:41] fifi
+[0:42] Eb Six
+[0:42] Times
+[0:46 - 0:48] this)
+[0:47] pivota
+[0:50] wo RE"
+[0:50] Nou"
+[0:50] SNIACIN,
+[0:50] Nev
+[0:50 - 0:51] anu@
+[0:51] ० RETINOL ON
+[0:51] PNAC,
+[0:53] axN '
+[0:53] tinol
+[0:54] skin
+[0:55] eration
+[0:56] eme Stion
+[0:58] lines:
+[1:00] use
+[1:01] ger
+[1:01] only
+[1:03] imitially,
+[1:04] Cracluallhy
+[1:06] adjusts)
+[1:07] Nyy
+[1:07] VOSS
+[1:08] jkable
+[1:09] kin
+[1:10] ticity,
+[1:12] finally
+[1:14] 8 1०।
+[1:17] greasy
+[1:18] completa
+[1:19] Routine)
+[1:20] isa
+[1:21] ithiis
+[1:21] \\ell
+[1:22] Vii
+[1:23] eciallly-
+[1:23] ial
+[1:24] न if
+[1:24] हुँ

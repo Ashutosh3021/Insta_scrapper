@@ -1,0 +1,80 @@
+# model: ggml-large-v3
+========================================================================
+[197] https://www.instagram.com/reel/CzfxcI-Ob1I/
+STATUS: OK
+DURATION: 1:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Looks like my dad. Zero.
+[0:02 - 0:04] If I saw you in Walmart,
+[0:04 - 0:06] and like, you tried to talk to me,
+[0:06 - 0:08] and if you asked me, like, for my
+[0:08 - 0:10] snap, I probably wouldn't give it to you.
+[0:10 - 0:12] Four. Zero.
+[0:12 - 0:14] Two.
+[0:14 - 0:16] Eww.
+[0:16 - 0:18] Zero.
+[0:18 - 0:20] Like a four. 4.5.
+[0:20 - 0:22] Two. A two. A seven.
+[0:22 - 0:24] What?!
+[0:24 - 0:26] A six. A six.
+[0:26 - 0:28] A SIX?!
+[0:28 - 0:30] I say an eight
+[0:30 - 0:32] first, and now a six? It's okay.
+[0:32 - 0:34] Bye-bye.
+[0:34 - 0:52] You are fine.
+[0:52 - 0:58] I'm so sorry.
+[0:58 - 1:00] Oh my God.
+[1:00 - 1:02] I was trying to say
+[1:02 - 1:04] you had a nice face until you started.
+[1:04 - 1:06] I'm a little bit of a weirdo.
+[1:06 - 1:08] I'm sorry. It's okay.
+[1:08 - 1:10] You know, I can't real quick give you this vibe.
+[1:10 - 1:12] Yo. I like your
+[1:12 - 1:14] lips. I like your skin. I like your hair.
+[1:14 - 1:16] I like your eyes. I like your
+[1:16 - 1:18] smile. Continue. Just a little
+[1:18 - 1:20] bit longer. Just a little bit longer.
+[1:20 - 1:22] I'm almost done. Just keep going.
+[1:22 - 1:24] Your skin perfect. I like your skin.
+[1:24 - 1:26] Yo.
+[1:26 - 1:28] Oh my God. You are fine.
+[1:28 - 1:30] as hell. That's very nice of you. Thank you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] q” out
+[0:02] सके पतन
+[0:02] Vale
+[0:03] a यछ०-
+[0:04 - 0:09] Rate me out of 10%
+[0:05] बा ee
+[0:06] Rate me out offlOz
+[0:07] whi
+[0:12] ey ee
+[0:14] Bi wal
+[0:16] \ UA 38
+[0:17] | all )
+[0:19] \ Nae
+[0:21] 3: 50७
+[0:23] mae
+[0:27] Call -
+[0:30] int |
+[0:32 - 0:33] it’s never over.
+[0:42] ley
+[0:46] ae rn my
+[0:57] ee Bites
+[0:57] goin
+[0:57] ०००००
+[1:01] 100५
+[1:02] Part
+[1:07] f i-Se 7
+[1:12] rem
+[1:13] rai
+[1:13] rap
+[1:19] ie 1
+[1:21] rel
+[1:22] 1 has
+[1:22] add)
+[1:23] Pray
+[1:29] ७५८

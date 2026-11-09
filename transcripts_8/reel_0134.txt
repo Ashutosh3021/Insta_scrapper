@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[134] https://www.instagram.com/reel/C8dpIXFNmct/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] and giving up please to my drink boy i got your bitch all in these
+[0:06 - 0:11] they know i'm a big bounce got a big bounce miss bitch
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:06] | “just. growjitiout bro”
+[0:03] 5 ६10!
+[0:03] itjout bro,
+[0:08] 93५

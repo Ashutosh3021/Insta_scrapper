@@ -1,0 +1,114 @@
+# model: ggml-large-v3
+========================================================================
+[119] https://www.instagram.com/reel/C9WMF8fpmLY/
+STATUS: OK
+DURATION: 0:54   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] So, uh, are you single?
+[0:01 - 0:01] No.
+[0:01 - 0:03] Oh, s**t.
+[0:03 - 0:07] Show me the guy sleeping again.
+[0:07 - 0:08] What?
+[0:08 - 0:11] What? What do you want?
+[0:11 - 0:12] Is that a deer?
+[0:12 - 0:13] Yeah, bro.
+[0:13 - 0:14] Why do you say that, dude?
+[0:14 - 0:15] That looks so cute.
+[0:15 - 0:17] Why is it just casually?
+[0:17 - 0:19] My friend thinks you're cute.
+[0:19 - 0:21] I'm a dude.
+[0:21 - 0:24] You look like somebody from TikTok.
+[0:24 - 0:27] Who, which one? Me or...
+[0:27 - 0:27] Both of y'all.
+[0:27 - 0:28] Are you modeling?
+[0:28 - 0:30] You look like a model.
+[0:30 - 0:31] Yeah, you look like a model.
+[0:31 - 0:34] You guys both have that face structure.
+[0:34 - 0:35] Yo, K-Shammy, bro.
+[0:35 - 0:37] I'm in Mogworts.
+[0:37 - 0:39] I'm in Mogworts, bro.
+[0:39 - 0:43] How much? Are you paying the $7 or the $10 one?
+[0:43 - 0:44] The $7.
+[0:44 - 0:46] Yeah, you got in early, bro.
+[0:46 - 0:48] You're looking good, bro. You don't need Mogworts.
+[0:48 - 0:49] Thank you. Thank you. You too.
+[0:49 - 0:53] What in the tarnation?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] GCG
+[0:01] hee
+[0:01] yave w Bal
+[0:01] LUM
+[0:01] २ / / tial |
+[0:03] 72860: -
+[0:06] leeping
+[0:08] “WUT”
+[0:09] ट्रक
+[0:10] Cen
+[0:11] “wut do u want”
+[0:12] My “ye
+[0:15] = oreute
+[0:15] /222222/
+[0:15] Esa
+[0:17] Vi t
+[0:18] Bo my friend thinks
+[0:19] Neg,
+[0:21] Via
+[0:22] ‘e look Yh,
+[0:23] 4 i e! Wi.
+[0:24] “tiktok..”
+[0:24] # 5७ ८८८८
+[0:26] O72
+[0:27] 4: of
+[0:27] y’all”
+[0:28] “are you mod lin
+[0:29] ४८८
+[0:31] yOuRlOOk like a
+[0:31] 52220,
+[0:32] ha. Lh,
+[0:33] hel
+[0:33 - 0:34] that face structure
+[0:34] “1:21
+[0:35] aim}
+[0:35] ८2222
+[0:35] ff ff ff fa
+[0:36] ३) ‘allt
+[0:37] min mogwa
+[0:38] MTs
+[0:38] (८2222 2
+[0:38] बे ड्ि
+[0:39] wR i
+[0:39 - 0:40] found'his profil
+[0:39 - 0:40] Level 4 - Apprentice
+[0:39 - 0:40] “, 66 points to level up @
+[0:39 - 0:40] | @milan-schaffer-5889
+[0:40] ह ay
+[0:40] Lit
+[0:41] \| YCWI2
+[0:41] ~All
+[0:41] Powe
+[0:42] meee | ‘
+[0:42] a it G
+[0:43] rar ae — ए 7
+[0:43] AIC
+[0:43] प्र
+[0:44] ' re वि: ll
+[0:44] Vii his
+[0:45] got
+[0:45] AAI
+[0:47] lide
+[0:47] Sell
+[0:48] Sal
+[0:48] LNG
+[0:49] pts
+[0:50] oan 5
+[0:50] GE W2
+[0:51] gr ~4
+[0:52] tar
+[0:52] Lal
+[0:52] = NEA
+[0:53] 4 112:
+[0:53] soon
+[0:53] दिखा

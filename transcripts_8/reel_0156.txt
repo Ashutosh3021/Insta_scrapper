@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[156] https://www.instagram.com/reel/C6zqUlav6e4/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] POV: you let a
+[0:00] looksmaxxer babysit
+[0:01] 4 letyal
+[0:01] babysit
+[0:01 - 0:03] looksmaxxen
+[0:02] youlsta
+[0:02] है maxxenbabysit
+[0:03] Wanye जवान é
+[0:03] 234
+[0:04] es 6 SN“ 2
+[0:06] POVEVeMieta
+[0:06 - 0:09] llooksmaxxer babysit
+[0:07] ROV: you letal
+[0:08] looksmaxxer
+[0:08 - 0:09] POVR you lst
+[0:09] क्र मर

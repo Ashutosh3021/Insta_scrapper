@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[70] https://www.instagram.com/reel/DEL_23nplpG/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] ♪ Dance with me, please stay, and I'm never gonna dance again, again. ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] > ७/ ३०
+[0:00] ग्ज | |
+[0:00] Pov: your barber
+[0:00] girl
+[0:01] hay
+[0:01] POV: your 42 15901.
+[0:01] tae
+[0:02] barbenistayg
+[0:03] 5a नह
+[0:03] barbermistaygirl 5 ७
+[0:03] ent
+[0:04] ron
+[0:05] ART
+[0:05] hay जात
+[0:05] wei
+[0:05] 7 हक खा
+[0:05] yj td
+[0:07] है] है.
+[0:07] नानक.
+[0:08] af का A hed

@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[20] https://www.instagram.com/reel/DL3tC1bxaSF/
+STATUS: OK
+DURATION: 0:53   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Tip to my looks maxers, use Bacutral instead of Retinol. It's natural and less potent to irritation.
+[0:04 - 0:08] That's true. I've actually made the switch myself a couple months ago.
+[0:08 - 0:12] You know, I've made a lot of viral videos about Retinol in the past, and I've used it for a while, and it works, no questions asked.
+[0:12 - 0:16] But, the side effects were brutal. I'm talking about the purging, the redness, the flaking.
+[0:16 - 0:20] It was temporary, but it made consistency hard, especially if you care about how your skin looks like on a day-to-day basis.
+[0:20 - 0:25] That's why switching to Bacutral makes sense. You know, it works just like Retinol without the harsh side effects.
+[0:25 - 0:27] It hits the same exact receptors, you know, the science is there.
+[0:27 - 0:32] You still get that collagen stimulation, smoother texture, all the benefits of Retinol, you know, tighter pores.
+[0:32 - 0:35] But no peeling, no irritation, and no downtime.
+[0:35 - 0:39] So, the one I've been featuring in my videos, my skincare videos, is this purple one from Equalberry.
+[0:39 - 0:43] It works the same, if not better than Retinol, and it actually feels healthy during the process.
+[0:43 - 0:45] Not like I'm burning off layers just to see results.
+[0:45 - 0:50] So yeah, if you're looks maxing and you want to, you know, keep your skin in check long-term without going through a purging phase,
+[0:50 - 0:53] then Bacutral is going to be the smartest move you can make.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:09] # Q surianpsycho
+[0:09] K Shami 2023-44
+[0:10] Cee,
+[0:10] Tig एज
+[0:14] _STHE'SIDE:
+[0:14] ss 9 = ey
+[0:14] Pare
+[0:15] 4.५9
+[0:17] HARD CONSISTENCY
+[0:21] ao i
+[0:24] ul Sa
+[0:24] NOI
+[0:24] SID
+[0:24] ECTS
+[0:25] ANg
+[0:27] MER IBGS:
+[0:30] ral
+[0:30] GEN
+[0:30] 0 OTHER
+[0:31] ULATION
+[0:33] a Ni
+[0:34] JIRRITATIC
+[0:35] D WN
+[0:40] और या
+[0:43] I. FEELS.
+[0:43] EALTHRS
+[0:47] o) Wy
+[0:50] 12 S

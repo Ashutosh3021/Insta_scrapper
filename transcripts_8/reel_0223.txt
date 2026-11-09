@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[223] https://www.instagram.com/reel/CqR23Uqv1Lk/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Gotta go on Accutane for the second time guys, look at this.
+[0:02 - 0:14] I am not happy with my skin, um, so.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] bouttalgoxon
+[0:00] Accutane
+[0:00] 19 3
+[0:01] ole:
+[0:01] tt® second)t
+[0:01] ime,
+[0:01] i 41
+[0:02] look at this
+[0:02] hig
+[0:03] al a
+[0:05] jamnothappy ~~
+[0:06] ZN my’skin
+[0:07] ir pet
+[0:09] , चच्स
+[0:09] raat रु
+[0:09] SAS

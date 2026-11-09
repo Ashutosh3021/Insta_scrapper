@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[117] https://www.instagram.com/reel/C9d6c-KJooM/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] You don't know about real loss,
+[0:02 - 0:06] because it only occurs when you love something more than you love yourself.
+[0:06 - 0:10] I doubt you've ever dared to love anybody that much.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] POV: you asked for advice]
+[0:00 - 0:03] felt thejtouch) foffalwoman)
+[0:00 - 0:06] from the one bro who hasn't}
+[0:02] IROV: you asked for advice]
+[0:03] हि you asked J advice)
+[0:04] a you मर for advice}
+[0:04] its
+[0:04] हि 1द19021013 wom:
+[0:05] (of a wom:
+[0:05 - 0:07] POV: you asked for advice]
+[0:05 - 0:07] felt the)
+[0:06] 213 woman
+[0:07] Welurte
+[0:07 - 0:09] fromithe}
+[0:07 - 0:09] brojwho hasnt.
+[0:08] है youjasked , advice
+[0:08 - 0:09] felt the\touchlotalwoman
+[0:09] हैँ youjaskedifor : ५

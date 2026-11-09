@@ -1,0 +1,20 @@
+# model: ggml-large-v3
+========================================================================
+[123] https://www.instagram.com/reel/C9IgjP9yV-s/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ba whatithe
+[0:00 - 0:03] did to me..
+[0:01] B 4 what they did to me..
+[0:02] look what they,
+[0:03] के, what
+[0:05] et if
+[0:08] lad
+[0:09] fal
+[0:11] iin

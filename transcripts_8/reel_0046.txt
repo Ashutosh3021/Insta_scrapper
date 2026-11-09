@@ -1,0 +1,66 @@
+# model: ggml-large-v3
+========================================================================
+[46] https://www.instagram.com/reel/DHUDPlwR2qE/
+STATUS: OK
+DURATION: 0:55   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] You have to be there for your bro, especially when he needs to get back to his prime.
+[0:03 - 0:07] I've made it my mission to looks max my best friend after life piled on over 60 pounds to
+[0:07 - 0:10] his frame. He's been shutting down slowly ever since, but to speed up his progress,
+[0:10 - 0:16] I'm putting him on my looks maxing routine. It's simple. Incline walking for one hour at
+[0:16 - 0:20] eight elevation at a pace of 3.6. I had him wear his sweater to increase the sweat,
+[0:20 - 0:24] pushing more water out and de-bloating as we went along. Hydration is crucial though,
+[0:24 - 0:28] but not any hydration. We go for a high potassium drink. It doesn't have to be prime.
+[0:28 - 0:32] It's perfect for minimizing water retention, helping him feel and look less bloated.
+[0:32 - 0:35] By the second mile, you're sweating out nicely. And by the end of the hour,
+[0:35 - 0:40] you burned off a whole burger. An hour can seem a long time, but if you keep yourself entertained,
+[0:40 - 0:43] it's super manageable. You guys don't worry about it. And then finally, for a last touch,
+[0:43 - 0:47] we hit the steam room just to further help with de-bloating and to relax our muscles
+[0:47 - 0:51] after that intense session. Now just look at these before and after shots. What a difference.
+[0:51 - 0:54] This is just the beginning, you guys. What more can you work on? Let me know in the comments.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] have
+[0:01] bro
+[0:03] I've
+[0:04] 422३३
+[0:07] his |
+[0:07] “क्र
+[0:09] ike.
+[0:09] ever,
+[0:12] axing
+[0:13] Simple
+[0:14] incline
+[0:14] as ले
+[0:15] ONS
+[0:16] 2222
+[0:17] pace
+[0:21] oJ imore
+[0:22] debloating
+[0:23] along
+[0:24] ecru
+[0:24] cial
+[0:28] 48 «६ ५६
+[0:29] 5 के
+[0:31] feel
+[0:37] Sar,
+[0:37] urg
+[0:37] किट
+[0:37] ailt >”
+[0:38] hour
+[0:39] keep
+[0:39] mr m
+[0:39] क्र
+[0:39] pee
+[0:40] 19८
+[0:42] then
+[0:43] last
+[0:47] Iw 4
+[0:48] 259
+[0:49] these
+[0:50] shots:
+[0:51] difference
+[0:52] eginning..
+[0:53] 0916 5

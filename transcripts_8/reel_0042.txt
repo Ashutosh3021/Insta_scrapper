@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[42] https://www.instagram.com/reel/DH4AVyBSchV/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I don't know about you guys, but Ramadan has not only worsened my eye bags, but my skin too.
+[0:04 - 0:06] And yes, the food is exactly to blame.
+[0:06 - 0:10] To tackle this, I've been using this green rice mochi cleanser for the past few days,
+[0:10 - 0:12] and it's been working pretty well, I'm not gonna lie.
+[0:12 - 0:14] It kind of reminds me of like Korean rice cakes.
+[0:14 - 0:16] I don't know if you've ever seen those, but anyways.
+[0:16 - 0:19] I just read the back and I can confirm it's entirely natural.
+[0:19 - 0:21] So it's got 20 ingredients that'll clean your pores while
+[0:21 - 0:24] slacking in that hydration without drying out your skin.
+[0:24 - 0:25] And before you ask, it's from Orencio.
+[0:25 - 0:29] They have three other ones, but I chose this one specifically because it deals with acne.
+[0:29 - 0:32] So if you've got acne or need a cleanser, definitely give this one a try.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] WwW
+[0:00] know
+[0:00] ३००
+[0:01] Ram
+[0:01] adan
+[0:01] SSS
+[0:02] ड्ाः
+[0:02] oom
+[0:02] WARTS
+[0:04] Ling 4
+[0:04] tty
+[0:04] ‘and
+[0:05] food
+[0:05] CEE
+[0:05] ७ -- llc 2
+[0:06] LA: 4
+[0:07] this
+[0:07] /“+ ्वकूः
+[0:08] green
+[0:09] clean ser
+[0:11] ब्लड
+[0:11] well
+[0:12 - 0:13] like
+[0:14] cakes?
+[0:14] ७८८2
+[0:14] 1९३४
+[0:15] Vie
+[0:15] tin
+[0:18] entirely,
+[0:19] tis \
+[0:19] hia
+[0:19] ५५५
+[0:20] SST
+[0:20] lents
+[0:20] ngre
+[0:21] ore
+[0:22] - +्स्
+[0:22] hydration
+[0:23] drying A Hh H
+[0:24] before
+[0:25] Arencia
+[0:26] have
+[0:26] XX on?
+[0:27] chose
+[0:27] CLEANSER
+[0:27] GREE!
+[0:27] NARTISAN’S
+[0:27] 2c at
+[0:27] oygaajor 28 OF
+[0:27] op ones ae
+[0:27] aga wis ae 2
+[0:27] pur
+[0:27] sen EE
+[0:27] 1200 /
+[0:27] 4.23 ०7
+[0:27] अल तथा
+[0:27] enesn FOR 24 MONTHS
+[0:29] acne.
+[0:31] ‘definitely,
+[0:32] _try

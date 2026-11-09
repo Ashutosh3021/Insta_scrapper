@@ -1,0 +1,86 @@
+# model: ggml-large-v3
+========================================================================
+[164] https://www.instagram.com/reel/C6exNiOy_lx/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Ever since it became a trend, it's been the final step in my oral hygiene ritual.
+[0:03 - 0:07] And though it may sound odd, the benefits are quite impressive.
+[0:07 - 0:11] I'm talking about oil pulling, specifically coconut oil.
+[0:11 - 0:17] You see, coconut oil has properties that are fantastic for combating bad breath and tackling plaque.
+[0:17 - 0:23] It's not vital for dental care, but think of it as a polished finish to enhance mouth health.
+[0:23 - 0:27] And, by extension, how you present yourself to the world.
+[0:28 - 0:29] Here's how it goes.
+[0:29 - 0:34] Every other day, I take a cap full of Guru Nanda's coconut oil, no need for anything more,
+[0:34 - 0:36] and start swishing it around in my mouth.
+[0:36 - 0:39] I set a timer for five minutes.
+[0:39 - 0:44] It's important during this time to keep the oil moving, covering every corner.
+[0:44 - 0:52] The goal is to bind the oil with the bacteria and plaque before spitting it out directly into the trash can.
+[0:52 - 0:57] It's a crucial step since pouring it down the sink could lead to clogged pipes.
+[0:58 - 1:00] you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Y fl
+[0:00] 1४2:
+[0:01] itys
+[0:01] Fil
+[0:03] yGiielne
+[0:07] impressive
+[0:10] pulling
+[0:10] ara
+[0:10] २७५४४
+[0:11] coconut
+[0:11] करे
+[0:12] ofl
+[0:12] के है,
+[0:14] Ree
+[0:16] Td At
+[0:17] wh ty
+[0:17] kling %
+[0:19] yl uh हि
+[0:21] lished
+[0:22] sees
+[0:22] finish
+[0:22] Ihe
+[0:23] ith
+[0:23] क्र
+[0:23] cay
+[0:23] WAN
+[0:24] (jee
+[0:25] teMsiio n)
+[0:26] 9 ५४
+[0:26] enit
+[0:27] the
+[0:31] 12221
+[0:31] है im
+[0:32] Soe:
+[0:32 - 0:33] Nanda’s
+[0:32 - 0:34] Guru
+[0:34] more
+[0:34] gan (७)
+[0:34] Nanci
+[0:35] a rt
+[0:36] डे i
+[0:38] timer
+[0:38] hows Sin ee
+[0:38] We Tw Ents
+[0:38] 5:00
+[0:39] का! Sor हा.
+[0:39] Edit
+[0:39] Timers minutes
+[0:39] Osec
+[0:39] Start
+[0:39] Chimes >
+[0:40] i “a po rtant
+[0:42] oil
+[0:43] erin
+[0:44] orner
+[0:44] has
+[0:47] ill
+[0:48] YoY
+[0:48] etenia
+[0:52] (calm
+[0:56] clgaded
+[0:59] e Pe

@@ -1,0 +1,46 @@
+# model: ggml-large-v3
+========================================================================
+[245] https://www.instagram.com/reel/ChlALF8FjpO/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] i'm not davis i'm patrick bateman don't you recognize me listen listen very very carefully
+[0:09 - 0:13] i killed paul ellen and i liked it
+[0:13 - 0:29] there is an idea of a patrick bateman
+[0:30 - 0:34] some kind of abstraction but there is no real me
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Jeg
+[0:01] im netigangerous
+[0:04] है 7
+[0:05] don
+[0:05] ‘tyyoujrecognize
+[0:05] mez?)
+[0:07] listen.
+[0:08] listen, very
+[0:11] जनक
+[0:12] a EE
+[0:14] m2 ane थी ]
+[0:14] शक्ल
+[0:22] है 52
+[0:22] ३ हैं
+[0:23] 6:24
+[0:23] at > हक)
+[0:25] Res .
+[0:27] ६. iil
+[0:28] ४५2
+[0:28] जिस
+[0:29] he. 4
+[0:29] चाह
+[0:30] Yi \b
+[0:32] “yin
+[0:32] cor es
+[0:32] MES Rh,
+[0:32] vie
+[0:32] Key
+[0:32] fy a
+[0:32] pear
+[0:32] Pr aa
+[0:33] bor

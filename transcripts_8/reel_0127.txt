@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[127] https://www.instagram.com/reel/C85XoybSdod/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] badjpersonality
+[0:02] great,
+[0:02] rsonality
+[0:03] Gia oa
+[0:04] polity
+[0:05] hk lm
+[0:07] क्र
+[0:07] . ७ यान

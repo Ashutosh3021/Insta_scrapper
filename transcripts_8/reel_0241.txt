@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[241] https://www.instagram.com/reel/CkOreMPppki/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I've been here 60 years, and I'm still not bored
+[0:02 - 0:05] There's absolutely nothing that I can't afford
+[0:05 - 0:07] And I've found that almost everything is made of cardboard
+[0:07 - 0:10] And there's absolutely nothing I can't sing with weird chords
+[0:10 - 0:13] And I can run faster with no wind resistance
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] Nig
+[0:02] Nhe
+[0:02] ris want to
+[0:02] why don't
+[0:02] talk tom
+[0:03] श्र
+[0:03] 17680 to reinventimyselt..
+[0:04 - 0:05] I needjtojreinventimyselt.
+[0:04 - 0:05] Dnssd to love mys?
+[0:04 - 0:05] first
+[0:05] ८५2
+[0:07] Impress
+[0:07 - 0:08] Setian actualoutine.
+[0:08] Impress myself
+[0:09] “कहे
+[0:10] Tackle, il
+[0:10] inthe bool
+[0:10] ao I
+[0:10] amt aa
+[0:11] feo
+[0:12] ats
+[0:12] न्‍्ध्राः
+[0:12] करू
+[0:14] What

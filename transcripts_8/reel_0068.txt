@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[68] https://www.instagram.com/reel/DEi9RzpSRup/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] You know you're better than this
+[0:03 - 0:07] Come make a star, got your heart in the hammer
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ज इक
+[0:00] 00:00 4
+[0:00] जा जा
+[0:00] 18.40
+[0:00 - 0:01] jovie on 2011-06-28 at 09.57
+[0:00 - 0:02] © Open with ¢
+[0:00 - 0:03] Movie on 2011-05-27
+[0:00 - 0:03] at 18.43
+[0:01] a ह कं
+[0:01] Oo o
+[0:01] ब्याज
+[0:01] @ 00:01
+[0:02] “05-28 at 09.57
+[0:02] Sol
+[0:02] 1४४
+[0:02] 00:02 +
+[0:02] नगर 3
+[0:02] ‘on! SS
+[0:02 - 0:03] lovie on 2014
+[0:03] QO Op
+[0:03] 00:03
+[0:03] | gin a 6 |
+[0:04] 2019
+[0:05] 2020
+[0:07 - 0:08] 2024,
+[0:08] fier

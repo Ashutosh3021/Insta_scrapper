@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[140] https://www.instagram.com/reel/C7nSfobpVTl/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] llil|bro:can‘t walkiyet
+[0:01] WAS
+[0:02] lil broyean:
+[0:02] Ikiyet
+[0:03] Hare
+[0:03] श्र
+[0:04] brojcamtiwalkayets
+[0:05] righ
+[0:05 - 0:06] me but; he's learning peed
+[0:06 - 0:07] tight way,
+[0:07] but he’s ae ai
+[0:09] a li
+[0:10] jan
+[0:11] fell

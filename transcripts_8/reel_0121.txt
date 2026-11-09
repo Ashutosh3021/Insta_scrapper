@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[121] https://www.instagram.com/reel/C9QSdHlyIJE/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] This time, it can be different.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] this time..
+[0:02] 7 can be
+[0:03] a ifferent.
+[0:07] oh Z ae
+[0:07] rie

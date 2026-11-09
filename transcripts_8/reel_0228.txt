@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[228] https://www.instagram.com/reel/CoJcm33rgsJ/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] Tonight, Gotham's relying on one man to save us all.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] कु now.. |
+[0:00] nnd
+[0:00 - 0:07] your Bruce Wayne arc
+[0:01] Vat,
+[0:01 - 0:06] starts now..
+[0:05] wan }
+[0:06] aad
+[0:06] (MoM,
+[0:06] AAAMAQART 03
+[0:06] mar
+[0:06] आ01 ७७०
+[0:07] “AH 1,
+[0:07] GUART
+[0:07] 12 ७
+[0:07] कथा.
+[0:14] A Eleaf
+[0:14] 0& से 2०४१९ ofl
+[0:14] ace
+[0:14] SS Sa
+[0:15] जा भा
+[0:17] SSS
+[0:17] Sas
+[0:18] PD 1
+[0:18] शूट
+[0:19] 5 and N

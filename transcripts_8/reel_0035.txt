@@ -1,0 +1,104 @@
+# model: ggml-large-v3
+========================================================================
+[35] https://www.instagram.com/reel/DI2CY7VziXY/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Now the problem with a cute cell is you can't really stay cute forever.
+[0:02 - 0:06] When you reach your late 20s and 30s, being cute, you kinda look weird.
+[0:06 - 0:09] If you're a cute cell and you're watching this, my advice to you would be to settle down before your 30s.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Frat
+[0:00] bay
+[0:00] 8०-4७
+[0:00] ire
+[0:00] nLite
+[0:00] TRUST
+[0:00] 10्ष 101४ by १
+[0:00 - 0:01] Mole
+[0:00 - 0:01] Balieny
+[0:00 - 0:01] RESPEC
+[0:00 - 0:09] warning to all my cute boys! !
+[0:01] Pret, boy
+[0:01] U Bred
+[0:01] Osre
+[0:01] vedi
+[0:01] Bald,
+[0:01] जरा
+[0:01] TRO
+[0:01] [ly AGE:
+[0:01] ATTENTION
+[0:02] 1 Da
+[0:02] 1७६७:
+[0:02] Male
+[0:02] (0५६
+[0:02] Tid
+[0:02] Baal He
+[0:02] Babies,
+[0:03] 4 Da
+[0:03] 14०६:
+[0:03] Fal He
+[0:03] Ser ae
+[0:03 - 0:04] Mate.
+[0:04] aly
+[0:04] Preeti
+[0:04] At Gye
+[0:04] बट 9०4
+[0:04] ७४००
+[0:04] FEMA
+[0:04] NT LON. by AcE
+[0:04] ७ ८9
+[0:04 - 0:06] Bearley
+[0:04 - 0:06] RESPEC
+[0:04 - 0:08] TRUST
+[0:05] feel RB
+[0:05] atty be
+[0:05] ale
+[0:05] Tindue
+[0:05] Baal He
+[0:05 - 0:08] Mole
+[0:06] aoe
+[0:06] Ade
+[0:06] ey Be del
+[0:06] | Hae
+[0:06] Suk
+[0:06] 0०4००)
+[0:06] FEI
+[0:06] G-2C
+[0:06] bes
+[0:06 - 0:07] Tull,
+[0:06 - 0:07] AT ee | by AGE
+[0:06 - 0:08] vtec |
+[0:06 - 0:09] Fratty
+[0:07] Mar
+[0:07] “०8४0 «६४
+[0:07] beanie),
+[0:07] \ Bw del
+[0:07] ual He
+[0:07] Fel
+[0:07] CUp
+[0:07] fal
+[0:08] fod fl +t
+[0:08] a iam
+[0:08] 8०4४.
+[0:08] ere
+[0:08] Bl He
+[0:08] की व्कर
+[0:08] ATILEN
+[0:08] hes
+[0:08 - 0:09] Stor
+[0:08 - 0:09] eri by AGE
+[0:09] Mai
+[0:09] Vlece
+[0:09] [०४ +S
+[0:09] wie
+[0:09] Dic.
+[0:09] der ould
+[0:09] Tors
+[0:09] 0५५०१
+[0:09] PEC
+[0:09] TRUST UST
+[0:09] ALD

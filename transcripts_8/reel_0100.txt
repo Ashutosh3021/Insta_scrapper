@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[100] https://www.instagram.com/reel/C_wqCqlP0tK/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] do you have a do you have a big forehead can i see your forehead so that is not a big forehead
+[0:04 - 0:08] you have a bit of signs of maturity in the hairline the big question is have you noticed
+[0:08 - 0:12] it going further back yes now we have to halt this i don't want you having to go to a dermatologist
+[0:12 - 0:16] spending $200 to get this advice so i'm glad you're on here bro i'm saving your next two years
+[0:16 - 0:20] bro i don't want you going to turkey and getting a hair transplant okay finasteride all right the
+[0:20 - 0:24] side effects are so little your forehead doesn't look that bad bro if anything i think you should
+[0:24 - 0:28] start rocking a middle part because when you do this bro you have the hair coming down here the
+[0:28 - 0:33] hair coming down here and it covers these corners where you're yeah definitely just get that hair
+[0:33 - 0:37] down and um you're gonna look great bro you're gonna look great you're 18 okay
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ing?
+[0:00] ie 97
+[0:00] have
+[0:01] forehead
+[0:03] that\is
+[0:04] forehead
+[0:05] of/signs
+[0:07] question
+[0:08] inoticed|it:
+[0:10] now,
+[0:11] itovhalt\this;
+[0:12] toja
+[0:13] hel
+[0:14] (HETe}
+[0:15] ims
+[0:15] aving
+[0:15] ral
+[0:16] प् (४४०0),/९४॥४५ |
+[0:17] You are
+[0:19] ‘Okay,
+[0:20] १4०५
+[0:20] y ४ ६७
+[0:24] start rocking
+[0:25] aimiddle part -
+[0:26] hie: bro
+[0:31] receding
+[0:31] Yeah
+[0:32] just
+[0:33] ain.down
+[0:34] \ and
+[0:35] \ great:
+[0:37] ‘and\whatnot:

@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[126] https://www.instagram.com/reel/C88iOkPRU3k/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] *Outro music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] dogs are bet:
+[0:01] aie
+[0:01] better
+[0:03] idogs are better
+[0:03] Tas
+[0:04] gdogstare)
+[0:04] betters
+[0:04] श्र
+[0:05] Uaogsiare
+[0:05] um Sf
+[0:06] 4 are better
+[0:06] ॥ हैँ:
+[0:06] Ray
+[0:07] ५, जे
+[0:07 - 0:08] sacogsjare)better
+[0:09 - 0:11] “dogs are better
+[0:10] ne . Y
+[0:10] , “dogs are
+[0:10] better’
+[0:10] The
+[0:12] Lge

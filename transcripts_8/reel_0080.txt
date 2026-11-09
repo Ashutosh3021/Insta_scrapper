@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[80] https://www.instagram.com/reel/DC2PeP6zNtl/
+STATUS: OK
+DURATION: 0:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Ever tried the 'Age' filter?
+[0:02 - 0:04] It's a sneak peek at where you'll wrinkle.
+[0:04 - 0:06] Why care?
+[0:06 - 0:08] Youth is key to attractiveness.
+[0:08 - 0:10] That's why everyone's chasing anti-aging methods.
+[0:10 - 0:12] And the biggest aging culprit: the sun.
+[0:12 - 0:14] The best defense?
+[0:14 - 0:16] Avoid UV exposure. Prevention beats repair.
+[0:16 - 0:18] And for that, you need serious sunscreen.
+[0:18 - 0:20] SPF over 50.
+[0:20 - 0:22] PA++++
+[0:22 - 0:24] blocking both UVA
+[0:24 - 0:26] and UVB rays.
+[0:26 - 0:28] I use this one for mix soon daily.
+[0:28 - 0:30] Under harsh sun.
+[0:30 - 0:32] You might not worry now, but you will.
+[0:32 - 0:34] Stay in your prime longer. Stay sharp. Stay young.
+[0:34 - 0:36] Let's beat time, not just the market.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] a ee
+[0:04] a ८८
+[0:04] बुर
+[0:07] attractiveness
+[0:07] “Ssh
+[0:08] everyone’
+[0:08] नष्ट
+[0:09] Yi fo
+[0:09] aging
+[0:10] nse
+[0:10] Rime
+[0:10] 2 Se
+[0:10] and
+[0:10] all
+[0:11] 4 हु
+[0:12] ८2८
+[0:12] iif
+[0:12] the sun: .
+[0:12] bk ५
+[0:12] श्र
+[0:12] Moy
+[0:12] 9 है]
+[0:12] awe |
+[0:13] -defense? a
+[0:15] ention
+[0:15] prev,
+[0:16] 122
+[0:16] repair
+[0:17] iat >
+[0:18] काट
+[0:18] creen
+[0:18] iy V
+[0:19] SRE
+[0:23] both
+[0:24] fae
+[0:25] क्रम
+[0:26] iMixsoon
+[0:27] Centella «
+[0:27] sn Sun Cream
+[0:29] 1 N We
+[0:29] mig
+[0:31] iff
+[0:31] Will
+[0:33] शेप
+[0:33] Sharp
+[0:35] f कु
+[0:36] बजे

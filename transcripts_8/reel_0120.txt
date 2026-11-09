@@ -1,0 +1,54 @@
+# model: ggml-large-v3
+========================================================================
+[120] https://www.instagram.com/reel/C9Va4LHyd6w/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:22] *outro music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] our friend j
+[0:00] ‘mogwarts
+[0:00] Ihe
+[0:00] bey
+[0:00] Ww f
+[0:01] yy joi
+[0:01] ‘ POV: your frie
+[0:01] wee
+[0:01] warts:
+[0:01] peg
+[0:02] श्र के fafhiend “4
+[0:02] 109:
+[0:02] wat
+[0:03] बडे &
+[0:03] है ६
+[0:03] ature
+[0:03 - 0:06] imogwarts
+[0:03 - 0:07] POV: your friend|joined:
+[0:05] ad 9
+[0:06] quitiiend joined)
+[0:08] 1२७४: ४००:
+[0:08] करे जम
+[0:09 - 0:11] iendjjoined.
+[0:09 - 0:13] POV: yourta
+[0:09 - 0:16] pmogwalts:
+[0:10] POV: your friend joined
+[0:10] moswartaal है
+[0:10] tet
+[0:12] your f joined|
+[0:13] 8 od
+[0:13 - 0:15] A jour friend joined
+[0:15] RON
+[0:16] BON:
+[0:16] \Vourifriend
+[0:17] OVE
+[0:17] Nnaijoine
+[0:17] Wour
+[0:17] mog)
+[0:18 - 0:19] POVR your
+[0:19] OG WEL
+[0:20] mogwants)
+[0:21] [HONE
+[0:21] your

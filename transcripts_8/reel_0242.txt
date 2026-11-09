@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[242] https://www.instagram.com/reel/CjLzvocpxjM/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] What does a man do?
+[0:04 - 0:07] A man provides for his family.
+[0:07 - 0:10] They will always be your priority, your responsibility.
+[0:10 - 0:13] And a man...
+[0:13 - 0:18] A man provides.
+[0:18 - 0:22] And he does it even when he's not appreciated.
+[0:22 - 0:24] Or respected.
+[0:24 - 0:27] Or even loved.
+[0:27 - 0:29] He simply bears it up.
+[0:29 - 0:32] But he doesn't.
+[0:32 - 0:35] Because he's a man.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] sled
+[0:00] i me
+[0:01] Loaves do?
+[0:01] all
+[0:02] what) does a|Man
+[0:02] Pil
+[0:02] “ea we gee
+[0:04] mal
+[0:04] bis
+[0:04 - 0:06] ‘a Man provides) for his} family
+[0:05] Se 1
+[0:08] will
+[0:08] your,
+[0:08] Bins
+[0:09] 4 iz
+[0:11 - 0:13] and a Man?
+[0:13] Gia
+[0:14 - 0:17] a Man provides..
+[0:16] <— 49०००
+[0:17] जा आई
+[0:18] and he does it,
+[0:19 - 0:21] even when he's not
+[0:19 - 0:21] appreciated...
+[0:21 - 0:22] 4 Bia
+[0:22 - 0:23] or respected...
+[0:24 - 0:25] or even loved..
+[0:26 - 0:28] he simply bears up..
+[0:27] ale
+[0:29 - 0:32] and HE DOES IT.
+[0:33 - 0:34] Man.
+[0:35] तर्क =

@@ -1,0 +1,126 @@
+# model: ggml-large-v3
+========================================================================
+[216] https://www.instagram.com/reel/Cs1y7vnvA3m/
+STATUS: OK
+DURATION: 1:02   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] The skin care routine that helped transform my face from this to this.
+[0:03 - 0:06] It's best to do this routine right before bed.
+[0:06 - 0:13] Start with your preferred facial cleanser, wetting the face and applying it with tiny circular motions.
+[0:13 - 0:17] Now would be a good time to use a gua sha roller.
+[0:17 - 0:19] It's optional, but shows to help with facial puffiness.
+[0:19 - 0:23] Drag it under your cheekbones and jawline with a little bit of pressure.
+[0:23 - 0:27] Long hair is a pain. I usually use a headband, but I just lost mine.
+[0:28 - 0:31] Apply your moisturizer right afterwards. I use one that's infused with retinol.
+[0:31 - 0:36] It thins the skin, unclogs pores, and increases collagen production.
+[0:36 - 0:39] Time it right, since it works best in the dark.
+[0:39 - 0:44] To deal with eye bags or any facial lines, I use a 100% volufilene serum.
+[0:44 - 0:51] Some people, including me, genetically have purple under-eye pigmentation as a result of missing fat.
+[0:51 - 0:56] This serum solves that, as you can apply one drop directly on any skin you wish to grow fat under.
+[0:57 - 1:02] The results are permanent with no side effects, and don't forget to wash your bedsheets every week.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] the skincearejrouti
+[0:01] tihelpe:
+[0:01] ansform
+[0:02] eA os
+[0:04] AWE
+[0:04] A ee
+[0:05] V/ Yj
+[0:05] बड़
+[0:06] 4742
+[0:06] हा htibefor
+[0:06] e bed.,
+[0:07] a N77
+[0:08] start with, your
+[0:08] जा छ |
+[0:09] Wi (2
+[0:10] the,
+[0:11] epphying fit
+[0:12] 2222
+[0:12] withytiny)
+[0:13] ४42
+[0:13] circular
+[0:15] ७७८ A
+[0:15] जिस
+[0:15] VY ie
+[0:15] Now,
+[0:16] —— mai
+[0:16] ब्र्ट्रः
+[0:16] itojUseyal
+[0:17] guajshajroller,
+[0:18] but
+[0:18] ito
+[0:19] [20111655:
+[0:20] कि को
+[0:20] क्र
+[0:21] Uncheekbones;
+[0:21] ATN
+[0:22] jawli
+[0:23] — of pressur
+[0:23] thf
+[0:24] long.ha
+[0:24] 2222
+[0:24] lary)
+[0:25] ilus
+[0:25] i Use)
+[0:25] रहे
+[0:26] = but
+[0:27] 22 4
+[0:27] min
+[0:27] just
+[0:27] रेल
+[0:28] led
+[0:28] moisturizer
+[0:28] apply,
+[0:29] 4 ध्े
+[0:29] श्र |
+[0:29] ight afterwards
+[0:32] itithins}the’ski
+[0:33] yj i
+[0:33] ODE see
+[0:34] Ms wy Hi:
+[0:34] Ske
+[0:34] 165
+[0:35] yom |
+[0:35] ie] nereasss
+[0:36] collagen|production
+[0:36] 8७, ६.
+[0:37] tim
+[0:37] tinight
+[0:38] क्र
+[0:38] sincelitiworks
+[0:39] dark.
+[0:40] yebag
+[0:41] ४ ae
+[0:42] Law
+[0:42] 22222. ५
+[0:42] श्र
+[0:44] lufiline’ser
+[0:46] neluding
+[0:47] 72%; y
+[0:47] geneticallyjhave)
+[0:48] 72222.
+[0:48] purple
+[0:48] Under,
+[0:51] BOP;
+[0:52] aia
+[0:52] 7 ii
+[0:52] solves:
+[0:53] \OUICan)
+[0:53] cry
+[0:54] Uy 4
+[0:54] हँ _— आ
+[0:54] applyoneldrop
+[0:55] ranviskin:
+[0:55] ZEB
+[0:58] AO fe
+[0:58] iresultsfare)
+[0:59] YT Ge
+[0:59] side)
+[1:00] &i donit
+[1:00] हैः
+[1:01] me sheets;
+[1:02] ९५८४

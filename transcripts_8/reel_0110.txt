@@ -1,0 +1,179 @@
+# model: ggml-large-v3
+========================================================================
+[110] https://www.instagram.com/reel/C-50kVaSRPy/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] People don't talk enough about toner. I noticed a significant improvement in my skin tone after I started using it regularly.
+[0:05 - 0:12] A lot of people are hesitant about exfoliation. It can seem complex and a bit scary due to the risk of irritation.
+[0:12 - 0:15] But finding the right stuff can simplify this step.
+[0:15 - 0:23] I've been using Equalberry's toner, which provides a gentle, mild exfoliation, helping to manage those concerns without overwhelming the skin.
+[0:23 - 0:29] After cleansing, I apply it primarily to the T-area, where oiliness and impurities tend to concentrate.
+[0:30 - 0:38] This toner has a silky texture, it's super hydrating, and it's gentle with a low pH, which is optimal for maintaining skin health.
+[0:38 - 0:45] It also includes hyaluronic acid, a personal favorite ingredient of mine, known for its ability to hold on to moisture.
+[0:45 - 0:52] If you're not already using a toner, I'd genuinely recommend trying one out, especially something like Equalberry's.
+[0:52 - 0:56] It's a simple step that could make a big difference in your skincare routine.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Rig
+[0:01] ony
+[0:03] (22225
+[0:03] Vil
+[0:04] after
+[0:04] via
+[0:05] Mb (ls.
+[0:08] exfoliation
+[0:09] oes:
+[0:11] \ (ites
+[0:12] Soe a
+[0:13] जे का
+[0:14] FI M7
+[0:15] Step |
+[0:17] geRRY
+[0:17] ner
+[0:17] 51 TONER
+[0:18] ved
+[0:18] cone
+[0:18] ool TO!
+[0:18] INI
+[0:18] Dex
+[0:18] ‘aoe
+[0:21] cerns
+[0:22] elming
+[0:24] fe 1८८८
+[0:26] WON)
+[0:26] lane)
+[0:26] Oily
+[0:26] Dry que Ory
+[0:27] ems
+[0:27] 1888
+[0:28] eand
+[0:29] wii)
+[0:32] हैं
+[0:34] gentle
+[0:37] 2८८2
+[0:37] थ initaimi
+[0:38] healin
+[0:39] also)
+[0:40] क्र
+[0:40] hyalu
+[0:44] 17०७७
+[0:46] iif,
+[0:46] vid
+[0:50 - 0:52] oust
+[0:51] QQUIRERY Bard Oy Gow Gt
+[0:51] Puno
+[0:51] 0७७71 2106 Met 760
+[0:51] Ror vp
+[0:51] ६०0६ Ga cing. Karen Sie EWG ren
+[0:51] ose 2
+[0:51] pee
+[0:51] han 6१००५
+[0:51] ovine
+[0:51] 10.14 Fl. 02 /300mI| Hydrating &
+[0:51] Vis he EQUAL
+[0:51] erred
+[0:51] किक चना
+[0:51] erat | Shs pe
+[0:51] Jem One,
+[0:51] ००० ९
+[0:51] Saree
+[0:51] eet
+[0:51] ron tC ety Spt re i
+[0:51] ४.०८
+[0:51] ent tom
+[0:51] tui!
+[0:51] ill
+[0:51] iil
+[0:51] Seto eto §
+[0:51] ४22०:
+[0:51] 32995
+[0:51] pein
+[0:51] rogues
+[0:51] 00% ७०१०० ४० optnn en
+[0:51] 6:7८:
+[0:51] al hr 6G em Cte
+[0:51] rou antes nines ea yn Sg a
+[0:51] ‘ttn tn ome re
+[0:51] out iar
+[0:51] + 00६0 sem TEs any a ng
+[0:51] ‘etm oa ee yea
+[0:51] + Non cats ue YUN or os owe an
+[0:51] ‘eta y open nae
+[0:51] + 0००५ eset soe
+[0:51] jen
+[0:51 - 0:52] SORE)
+[0:51 - 0:52] ७९ Facial Toner -
+[0:51 - 0:52] Soothing Toner for Face | Pore Control
+[0:51 - 0:52] & Mild Exfoliating | All Skin Types |
+[0:51 - 0:52] Korean Skincare - EWG Green
+[0:51 - 0:52] re er
+[0:52] QUALI pt Bad Day Gn et
+[0:52] {leer 71 feo Mang a,
+[0:52] 600 6# sig ६०७० ४५७ 6 Gren
+[0:52] soe 5
+[0:52] Ham tama
+[0:52] rie
+[0:52] 10:14 Fl. Oz / 36011 | Hydrating &
+[0:52] Vr EQUALS See
+[0:52] Seer S
+[0:52] "Wer | Sah ae
+[0:52] [-1044/+ पक
+[0:52] 23% ४169 ssa non
+[0:52] roared
+[0:52] orn Om On,
+[0:52] अवध ९
+[0:52] «5920४
+[0:52] =” Gf Cre men कान et en
+[0:52] १००४८
+[0:52] Soa
+[0:52] ‘et en
+[0:52] in POOL
+[0:52] Sg Fos Tw
+[0:52] yao oa cy
+[0:52] «$2999
+[0:52] ‘sso
+[0:52] Ses bay
+[0:52] and
+[0:52] rom
+[0:52] Sha hee
+[0:52] Sonam
+[0:52] MLO en rons
+[0:52] Conn eg,
+[0:52] aye
+[0:52] ‘ew nae
+[0:52] a a rm Gre esa
+[0:52] ‘te bet ns ena png Sah +०,
+[0:52] ‘tlre Meg sos oe hs
+[0:52] Aboot hi ham
+[0:52] + autruseona sores
+[0:52] ay a eens
+[0:52] oti pao
+[0:52] ‘sents voy sna
+[0:52] ‘ttm oy sp
+[0:52] Nom Gath Sa TATE fl at ७७.
+[0:52] ‘Metco cence
+[0:52] —— ७ ७9923 २२७७
+[0:53] Subscibe & Save
+[0:54] Ydrating &
+[0:54] Delivery
+[0:54] One
+[0:54] | Pore Controt
+[0:54] Purchase
+[0:54] kin Types |
+[0:54] 516%
+[0:54] ireen
+[0:54] voriied
+[0:54] Returns 2
+[0:54] FREE date
+[0:54] ES 7७४०७
+[0:54] श्र
+[0:54] In Stock
+[0:54] Subse 8S
+[0:54] 6 ०76०५
+[0:54] शहद
+[0:54] RE es Tom,
+[0:55] 3 ar,
+[0:56] fou

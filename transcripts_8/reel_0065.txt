@@ -1,0 +1,156 @@
+# model: ggml-large-v3
+========================================================================
+[65] https://www.instagram.com/reel/DFODrM6yHtN/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] After falling off my prime for excuses that no longer hold up, here's exactly what I'm doing to
+[0:04 - 0:12] get back. First off, remember this. Diet is 70% and training is 30%. Together, they make up the
+[0:12 - 0:17] foundation of your body. Right now, I'm sitting at what I believe is a very high body fat percentage,
+[0:17 - 0:24] around 20%. My goal, to get down to 11% back to my peak. To achieve this, I'm body recomping,
+[0:24 - 0:30] losing fat while gaining muscle. A classic bro split. Chest and triceps, back and biceps,
+[0:30 - 0:35] shoulders on their own to really carve out that V taper, and of course, legs. On my rest days,
+[0:35 - 0:40] I'm doing small runs and tracking them along with my sleep to accelerate the process and to make
+[0:40 - 0:45] sure I'm recovering. If you've noticed my face looking leaner, it's because I've been deep
+[0:45 - 0:51] bloating. Something I'll dive into with a full breakdown in a separate video. Until next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] falling
+[0:01] oot
+[0:01] z2syp aril
+[0:01] SNe)
+[0:01] De, 4
+[0:02] excuse
+[0:02] M if
+[0:02] च्च
+[0:02] gai / Fy
+[0:04] 061
+[0:06] off
+[0:08] N Py
+[0:08] var
+[0:08] a कै
+[0:08] eye
+[0:09] L ad
+[0:10] a Oo =
+[0:11] 5५०३
+[0:11] \6 ther
+[0:11] ee ae
+[0:11] ot के '
+[0:12] “foun
+[0:12] Yer
+[0:12] पाल कल
+[0:13] ft 22%
+[0:13] I aa:
+[0:13] “body,
+[0:14] | ४71
+[0:14] tor \
+[0:14] १७७०४ aw
+[0:14] ०१४
+[0:14] के te iu}
+[0:14] meen
+[0:14] a a i
+[0:17] “percentage
+[0:17] न. आज
+[0:17] बनी सच
+[0:17] “जय न
+[0:17] won
+[0:17] — आए चआ छू
+[0:17 - 0:18] ६०७५४
+[0:18] @ ING
+[0:18] ens
+[0:18] fies
+[0:18] leg
+[0:18] Ste
+[0:18] RES
+[0:18] 1 हुए
+[0:18] om १९
+[0:18] a ee
+[0:18] we रे
+[0:18] rms
+[0:19] we _ 5
+[0:19] Lat
+[0:19] | gti
+[0:19] B ६6७४४
+[0:19] शी आईं
+[0:19] _ 7 ाााममाममााााा
+[0:19] Lom Oe
+[0:21] peak
+[0:22] WAS
+[0:22] achie
+[0:23] # परम
+[0:24] ess
+[0:25] of Senwetil
+[0:25] sort
+[0:26] 1. oe
+[0:26] classic
+[0:26] श्टि
+[0:26] yang ig”
+[0:27 - 0:28] CHEST & TRICEPS
+[0:27 - 0:28] Incline Dumbbell Press - 3 sets of 8-10 reps
+[0:27 - 0:28] Cable Flyes - 3 sets of 12-15 reps
+[0:27 - 0:28] Dips - 3 sets to failure (focus on leaning
+[0:27 - 0:28] forward to engage the chest)
+[0:27 - 0:28] Tricep Pushdowns - 4 sets of 10-12 reps
+[0:27 - 0:28] Overhead Tricep Extension - 3 sets of 10-12
+[0:27 - 0:28] reps
+[0:27 - 0:31] Overhead Press - 4 sets of 6-8 reps
+[0:29] BACK & BICEPS
+[0:29] Pull-Ups - 4 sets to failure
+[0:29] Barbell Curls - 4 sets of 8-10 reps
+[0:29] Lat Pulldowns - 3 sets of 10-12 reps
+[0:29] Seated Cable Rows - 3 sets of 10-12 reps
+[0:29 - 0:31] Hammer Curls - 3 sets of 10-12 reps
+[0:30 - 0:31] SHOULDERS
+[0:30 - 0:31] Lateral Raises - 3 sets of 12-15 reps
+[0:30 - 0:31] Rear Delt Flyes - 3 sets of 12-15 reps
+[0:31] really
+[0:32] af T
+[0:33] 223
+[0:33] qu mow
+[0:33] 1105
+[0:34] LEGS
+[0:34] Squats - 4 sets of 6-8 reps
+[0:34] Leg Press - 3 sets of 10-12 reps
+[0:34] Lunges - 3 sets of 10 reps per leg
+[0:34] Calf Raises - 4 sets of 12-15 reps
+[0:35] REST DAYS
+[0:35] | saat 3
+[0:37] ७ Awake
+[0:37] @ REM
+[0:37] Tim
+[0:37] ७ Core
+[0:37] 38m
+[0:37] 2h 30m
+[0:37] 49m
+[0:37 - 0:39] them
+[0:37 - 0:39] JAN 22
+[0:38] wm «CR
+[0:38 - 0:39] SHR 57min
+[0:38 - 0:39] ‘ 3:37 - 7:45 AM
+[0:39] SAM
+[0:40] जा 2
+[0:41] Calf’
+[0:41] eh 2
+[0:42] wan oo
+[0:42] ta FR
+[0:42] Tan,
+[0:42] sonine™
+[0:42] notice das
+[0:42] 702%
+[0:42] 147०
+[0:43] ६८८,
+[0:43] ६०0
+[0:43] look
+[0:43] ing
+[0:43] 01:33:53
+[0:43] pee
+[0:43] 563 CAL
+[0:43] JOT.
+[0:43] 702 cA
+[0:43] 141०
+[0:45] - debloating..
+[0:46] 7 एज,
+[0:47] into \
+[0:48] eakd

@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[17] https://www.instagram.com/reel/DO1OAfiibkd/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Party Rock!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 6 it's: 2026/andiyou &bre
+[0:00] et ol
+[0:00 - 0:03] ‘have ascended
+[0:00 - 0:04] (you're spamming|LTBs
+[0:00 - 0:08] with¥snaps),
+[0:01] 82023 ancl you &
+[0:01] have)
+[0:01] [ATIBs
+[0:02] POV: it
+[0:02] 2OP6 eine] YOu
+[0:03] POWAit
+[0:03] 320/24० ८1॥ ०7 1] 0%
+[0:04] OWE 089
+[0:04] VOU'& bro
+[0:04] hema escanclyel
+[0:04] Sap
+[0:05] ascenclac
+[0:05] Spamming [185
+[0:05 - 0:06] i's 2025 end] you & like)
+[0:06] have)
+[0:06] spamming LIES
+[0:07] it's 2026 andwourk
+[0:07] (you'refspam
+[0:07] ming]
+[0:07] ‘with
+[0:07] snaps)
+[0:07 - 0:08] have,ascended
+[0:08] OWE it's 2026 eine] Yow & [ao
+[0:08] (youre seeming Luss

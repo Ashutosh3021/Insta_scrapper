@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[232] https://www.instagram.com/reel/CoA3o9cv_fv/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] so i'm taking accutane again
+[0:01 - 0:08] but i've been having acne this whole time guys and you haven't known this because
+[0:08 - 0:13] tiktok filters or whatever but going on accutane is my second time doing it so uh wish me luck
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:14] POV: i was catfishing a
+[0:00 - 0:14] couple months ago कै
+[0:03] यु months ago &
+[0:10] POV: i
+[0:10] couple
+[0:10] onths ago ©
+[0:11] M4, My,
+[0:13] Aha
+[0:15] १81५
+[0:16] TSO कर
+[0:16] ath
+[0:16] off
+[0:16] A as
+[0:17] Fea
+[0:18] atl
+[0:18] ABS

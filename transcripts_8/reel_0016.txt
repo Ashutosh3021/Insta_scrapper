@@ -1,0 +1,134 @@
+# model: ggml-large-v3
+========================================================================
+[16] https://www.instagram.com/reel/DO9iDpnEm_B/
+STATUS: OK
+DURATION: 1:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I'm turning 24 years old, you guys, on the 26th.
+[0:02 - 0:04] It's crazy to think that I'm an unk now.
+[0:04 - 0:07] I've been doing social media for about six years now.
+[0:07 - 0:10] And back then, my own classmates, my peers, my friends,
+[0:10 - 0:12] they made fun of me for it.
+[0:12 - 0:14] The same way they ridiculed me for self-improving,
+[0:14 - 0:15] like going to the gym.
+[0:15 - 0:17] Same way they laughed at me in 2020
+[0:17 - 0:19] when I said that I'd leave the Middle East
+[0:19 - 0:22] and make it out in the US.
+[0:22 - 0:25] But when I finally graduated pre-law with a 4.0,
+[0:25 - 0:26] no one said anything.
+[0:26 - 0:29] When I moved to Beverly Hills, no one said a word.
+[0:29 - 0:32] When I broke 4 million followers, silence.
+[0:32 - 0:35] When Ascend Labs launched two months ago, successfully,
+[0:35 - 0:36] again, silence.
+[0:36 - 0:38] No one will say anything when you win.
+[0:38 - 0:41] Everyone will say something when you don't.
+[0:41 - 0:43] And that's why you can't live for external validation.
+[0:43 - 0:44] It'll never be enough.
+[0:44 - 0:45] Of course, I'm grateful though.
+[0:45 - 0:47] You know, as a Syrian, I never thought I'd be out in LA,
+[0:47 - 0:50] graduating, building a business, taking care of Kylo,
+[0:50 - 0:52] and living this sort of lifestyle.
+[0:52 - 0:54] If there's anything I wanna leave you guys with,
+[0:54 - 0:56] it's a reminder to believe in yourself.
+[0:56 - 0:58] Don't wait for applause, because it won't be there.
+[0:58 - 0:59] The world will stay.
+[0:59 - 1:00] It's quiet when you rise.
+[1:00 - 1:02] And so I want you to rise for you.
+[1:02 - 1:04] Rise for yourself.
+[1:04 - 1:04] Improve for yourself.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] (September 261
+[0:03] — आटा
+[0:03] $ CRAZY TO T
+[0:03] THAT
+[0:04] 5 VE BEEN DO
+[0:05 - 0:06] SOCIAL MEDIA
+[0:07] % YEAR
+[0:07] oN 4
+[0:08] a) BACK THEN
+[0:09] MY OWN CLASSMATES
+[0:10] NDS
+[0:11] THEY MADE FUN OF ME FOR IT
+[0:12] THE SAME WAY THEY
+[0:13] RIDICULED ME FOR SELF-IMPROVI
+[0:14] 3 | FO ELF-IMPROVIN
+[0:15] LIKE GOING
+[0:15] HE GYM
+[0:16] LAUGHED
+[0:17] 2020 WH
+[0:17] HAT
+[0:18] ; 2020 WHEN I'SAID THAT
+[0:19] है है)
+[0:19] I'D LEAVE THE MIDD
+[0:19] _— UNITED, ARAB}
+[0:19] ५७४१
+[0:19 - 0:20] " LEBANON
+[0:19 - 0:20] SUDAN
+[0:20] AND MAKE IT HT
+[0:20] eMelterranean
+[0:20] D. ARAB
+[0:20] UNI
+[0:20] yer
+[0:22] ifs
+[0:22] NTHEUS)
+[0:23] BUT WHEN I FINALLY GRADUATE
+[0:24] धर PRE-LAW |] 14.
+[0:25] PRE-LAW WITH A 4.0
+[0:26] NO ONE SAID ANYTHING
+[0:27] 4 | MOVED TO BEVERLY HLS
+[0:28] WHEN | MOVED TO
+[0:28] ERLY HILL
+[0:29] WHEN | BROKE 4
+[0:29] LION FOLLOWERS
+[0:30] WEN)
+[0:30 - 0:31] HEN | BROKE 4 MILLION FOLL
+[0:31] 4 \ 000
+[0:32] SILENCE नि
+[0:33] oeceye =
+[0:33] WHEN ASCEND LABS LAU
+[0:33] CHED
+[0:34] osm हो
+[0:34] 2 MONTHS AGO
+[0:35] SUCCESSFULLY!
+[0:36] AGAIN SILENCE
+[0:37] श्र
+[0:37] ONE WILL SAY ANYTHING
+[0:38] 3} 100 न
+[0:39 - 0:40] VERYONE WILL SAY SOME
+[0:41] £ THAT'S WHY !
+[0:42] - YOU CAN'T LIVE'FOR
+[0:43] f VALIDATION
+[0:44] IT'LL iy OUGH
+[0:45] Det
+[0:45] HURSE IM GRATEFUL THOU
+[0:45] Lay
+[0:46] A SYRIAN TD NEVER
+[0:47] दे मी
+[0:47] OUGHT I'D BE OUT IN LA
+[0:48] BUILDING A BUSINESS
+[0:49 - 0:50] ¥ TAKING CARE OF शा
+[0:52] D LIVING THIS SORT 0॥17६५॥॥
+[0:53] WANNA LEAVE YOU aus amy
+[0:53] Cog
+[0:54] ITS A REMINDER
+[0:55] TO BELIEVE IN YOURSELF
+[0:55] omg
+[0:56] bow WAIT FOR APPLAUSE
+[0:56] ke = P| 9
+[0:57] CAUSE IT WON'T BE THERE
+[0:58] L STAY
+[0:58] 1 WORLD WIL!
+[0:59] THE WORLD WILL STAY
+[0:59] 0 ~ Sy
+[1:00] WHEN YOU HSE
+[1:01] AN $01 WANT YoU 10
+[1:02] Mey,
+[1:02] e है.
+[1:02 - 1:03] RISE FOR YOURSELF
+[1:03] omg
+[1:04] IMPROVE FOR YOURSELF
+[1:04] a oJ /
+[1:04] Asc

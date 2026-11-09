@@ -1,0 +1,111 @@
+# model: ggml-large-v3
+========================================================================
+[86] https://www.instagram.com/reel/DB93VDcSY3o/
+STATUS: OK
+DURATION: 1:05   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Establishing a proper skin care routine starts with knowing your skin type and
+[0:03 - 0:07] it's easier than you might think to figure this out. Here's a quick method:
+[0:07 - 0:12] wash your face and leave it bare for about an hour. After that, observe how
+[0:12 - 0:17] your skin feels. If your t-zone, forehead, nose, and chin is oily but your cheeks
+[0:17 - 0:22] are dry, you likely have combination skin. If your entire face feels oily, you're
+[0:22 - 0:27] looking at oily skin, and if it feels tight or flaky, your skin is dry. Once you
+[0:27 - 0:32] know your skin type, choosing the right products or applicators is crucial. For
+[0:32 - 0:36] instance, if you have dry skin, I recommend a Probioseca line because it's
+[0:36 - 0:41] intensely moisturizing. For those with oily skin, a Poremising line is
+[0:41 - 0:45] excellent as it's designed to deep clean your pores. And if you're like me with
+[0:45 - 0:50] combination skin, a Centella line is perfect. It balances and soothes. The key
+[0:50 - 0:54] takeaway here is to use products that align with your skin type to truly
+[0:54 - 0:56] maximize the benefits of your skincare routine.
+[0:56 - 0:57] All this
+[0:57 - 1:01] stuff I've mentioned can be found from places like Skin 1004, which offers
+[1:01 - 1:06] tailored solutions that cater specifically to your skin's needs.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] recut
+[0:00] hing
+[0:01] care
+[0:02] ty res
+[0:04] क्र
+[0:04] hag
+[0:06] t. aN
+[0:07] inn)
+[0:11] that
+[0:13] typ
+[0:14] zone
+[0:14] Oily
+[0:14] caf
+[0:18] you Wi
+[0:19] comlbimation
+[0:20] Rage
+[0:20] hae
+[0:21] V/s Ts:
+[0:21] 1689
+[0:23] me ५७
+[0:23] Lif
+[0:23] skin,
+[0:23] नी शक
+[0:24] feels
+[0:26] पे df ia
+[0:26] ary
+[0:28] + type
+[0:28] ve W
+[0:30] हट ५
+[0:31] res
+[0:32] rucial
+[0:33] ay a
+[0:34] 2 + my
+[0:35] (rololocikers)
+[0:36] oat
+[0:37] Moisturizing
+[0:40] izing
+[0:41] excellent
+[0:42] signed
+[0:43] youl
+[0:46] Skin
+[0:47] ime)
+[0:48] खली
+[0:49] xinioo4
+[0:50] हे Wi
+[0:50] ke a f
+[0:52] align
+[0:53] y wa
+[0:53] Nhe
+[0:53] Wil,
+[0:54] max!
+[0:54] ८29
+[0:56] Sor
+[0:56] कहे
+[0:56] [008८०
+[0:57] thils
+[0:58] AES
+[0:59] ‘hie
+[0:59] plac
+[1:00] tam
+[1:00] SKIN1004
+[1:02] ores STURMOIS or (०७
+[1:02] Skin Type
+[1:02] Prod
+[1:02] uct Type
+[1:02] ALL
+[1:02] Normal
+[1:02] Cleanser
+[1:02] NEW
+[1:02] Sensitive
+[1:02] Toner / Mist
+[1:02] BEST
+[1:02] Dry
+[1:02] ‘Ampoule / Seru
+[1:02] SET
+[1:02] sombination
+[1:02] cream
+[1:02] Sunscreen
+[1:02] Acne
+[1:02] Mask / Pad
+[1:02] Special
+[1:02] are
+[1:03] 004
+[1:03] specifically
+[1:04] ie eS

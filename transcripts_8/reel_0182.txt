@@ -1,0 +1,12 @@
+# model: ggml-large-v3
+========================================================================
+[182] https://www.instagram.com/reel/C4v-tinSPd8/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] If your hairstyle keeps getting ruined by the wind, then quite frankly
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] Peas

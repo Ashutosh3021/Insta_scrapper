@@ -1,0 +1,63 @@
+# model: ggml-large-v3
+========================================================================
+[29] https://www.instagram.com/reel/DJMuXNwpv8L/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] A lot of you guys don't actually have big noses, in reality, the slope that's occurring
+[0:04 - 0:07] is because the base of the nose is flawed.
+[0:07 - 0:11] When you get forward growth, it can actually improve the base of the nose, giving it a
+[0:11 - 0:12] 90 degree angle.
+[0:12 - 0:16] You're also improving the balance in the face, your lower third ends up being much bigger.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] lla Guest
+[0:00] \ydrocortse
+[0:00 - 0:07] Filler
+[0:00 - 0:09] Accdane
+[0:00 - 0:16] your nose isn't big..
+[0:00 - 0:16] it just needs support:
+[0:02] Med
+[0:03] SOLU
+[0:03] tee i
+[0:03] wala
+[0:04] 12225 i
+[0:04] ॥॥० ८०5
+[0:05] NOS
+[0:05] आग 4
+[0:05] uae
+[0:06] श््््ग्ग्ग्न्न्न्न्ननः
+[0:06] हीं?
+[0:06] dpe
+[0:07] ere
+[0:07] Mra
+[0:07] ‘dec
+[0:08] (oot
+[0:08 - 0:09] Bhi
+[0:08 - 0:12] \ydrocortsere |
+[0:09] —lns.
+[0:09] Vyplrocotisere |
+[0:10] S cee tel GG
+[0:10 - 0:11] NOS
+[0:10 - 0:12] Acctane
+[0:11] Nectane
+[0:11] Vylkocotisone |
+[0:11] ४०८1 ॥
+[0:13] Pra
+[0:13] Cie
+[0:13] Acdane
+[0:13] Vpbrocottse
+[0:13] vel
+[0:14] a aa
+[0:14] NOSE ““iiton
+[0:14] wh ae
+[0:15] ONS
+[0:15] rat
+[0:15] SS 3 का
+[0:16] OLUTIONS
+[0:16] “Way
+[0:16] हिट
+[0:16] [lew
+[0:16] है 4

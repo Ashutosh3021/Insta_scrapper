@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[116] https://www.instagram.com/reel/C9loDuVJKyA/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Should you start using a hair dryer?
+[0:01 - 0:06] I decided to put this question to the test with none other than the Dyson Supersonic.
+[0:06 - 0:08] A hair dryer that's anything but affordable.
+[0:08 - 0:13] It arrived with a variety of attachments, each promising a different styling experience.
+[0:13 - 0:17] I focused on the straight nozzle attachment, curious about its claims.
+[0:17 - 0:23] This hair dryer features an automatic mode that adjusts the heat and fan levels for you,
+[0:23 - 0:25] ensuring optimal results.
+[0:25 - 0:27] I used this setting throughout my testing.
+[0:27 - 0:29] The power of this device is impressive.
+[0:30 - 0:30] Almost too impressive.
+[0:30 - 0:33] It made my hair too voluminous for my taste.
+[0:33 - 0:36] So I switched to the attachment designed to flatten volume.
+[0:36 - 0:39] The results? Well, here they are.
+[0:39 - 0:40] Is it worth it?
+[0:40 - 0:42] You guys can be the judge.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] should
+[0:00] Bao WR
+[0:01] rye
+[0:01] Ree
+[0:01] Putte
+[0:03] ‘eat
+[0:04] none tg
+[0:04] 07 RIA 2
+[0:04] 1 WAM
+[0:04] pray
+[0:06] Personic
+[0:07] thats
+[0:07] “isd a
+[0:09] rrived
+[0:10] attachments,
+[0:10] fees
+[0:10] PR AEALE Vorm
+[0:10] WUT Wy
+[0:11] promising}
+[0:15] Loo
+[0:15] ‘attachments
+[0:16] curious
+[0:17] FO 2)
+[0:17] Pay
+[0:19] any
+[0:19] wa Mn
+[0:20] ॥ VIER p
+[0:21] 116
+[0:21] \ Wei y
+[0:23] ensuring)
+[0:23] 6% हर.
+[0:24] tig
+[0:24] ptimal
+[0:26] Sali
+[0:28] wal
+[0:28] a ee
+[0:29] PAY
+[0:30] PAPAL VIN
+[0:30] ५७८८
+[0:31] > poco
+[0:31] ole a
+[0:32] mInous
+[0:32] Mol
+[0:33] Bans nn:
+[0:34] hed
+[0:34] NOM y
+[0:34] mews
+[0:35] ae e_|
+[0:35] BONE
+[0:36] flatten
+[0:38] iin result:
+[0:38] 6८2 «
+[0:39] they are
+[0:40] CV 4 4
+[0:40] AN Wan
+[0:42] judge
+[0:42] TIM 0

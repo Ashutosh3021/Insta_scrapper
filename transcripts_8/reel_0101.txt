@@ -1,0 +1,97 @@
+# model: ggml-large-v3
+========================================================================
+[101] https://www.instagram.com/reel/C_tx1NOSZM3/
+STATUS: OK
+DURATION: 1:03   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Sea salt spray is taking over as the biggest trend in men's hairstyles, but it's funny.
+[0:04 - 0:06] Most guys don't even know how to use it properly.
+[0:06 - 0:12] First off, it's crucial to choose one that's completely natural to avoid drying out or damaging your scalp.
+[0:12 - 0:16] And for that, I'm using the Base Body Works Sea Salt Spray.
+[0:16 - 0:23] I recommend theirs because it's also infused with vitamin B5 and kelp extract to counteract over-dyeing and to nourish the hair.
+[0:23 - 0:27] Now let me walk you through five simple steps to really get the most out of this stuff.
+[0:27 - 0:30] Step 1. Start with damp hair.
+[0:30 - 0:32] This helps the spray distribute evenly.
+[0:32 - 0:36] Step 2. Spray it generously from roots to ends, but don't soak your hair.
+[0:36 - 0:37] Just a light mist.
+[0:37 - 0:42] Step 3. Scrunch your hair with your hands to add texture and help define your style.
+[0:42 - 0:44] Step 4. Let it air dry.
+[0:44 - 0:48] This is when the magic happens and that texture starts to form.
+[0:48 - 0:54] Finally, Step 5. The next day, just apply a little water to reactivate the salt for another day of great texture without having to reapply.
+[0:55 - 0:58] Remember, these steps are redundant if you don't start with the right stuff.
+[0:58 - 1:02] Make sure your Sea Salt Spray is top-notch to truly benefit from these tips.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 4 है
+[0:01 - 0:02] “ane
+[0:02] agen
+[0:04] funny
+[0:05] ke t
+[0:07] a dx
+[0:08] me हर
+[0:08] Nis
+[0:09] that
+[0:10] Be a
+[0:12] Seall|
+[0:14] ४०३
+[0:15] rom 60x
+[0:16] ps2?
+[0:16] iy AN
+[0:17] USS
+[0:17] BAS
+[0:18] ५४०८
+[0:18] 3 wi
+[0:18] ith
+[0:18] pag
+[0:18] Ess
+[0:18] oor
+[0:18] foe
+[0:18] Yt ‘et
+[0:18] ० ots
+[0:18] east
+[0:18] Pat
+[0:19] rat.
+[0:19] Ptah
+[0:19] i) ch
+[0:20] ie 4
+[0:20] nT जाई
+[0:20] aes
+[0:20] rag
+[0:20] Te aor
+[0:20] Ses,
+[0:20] oie
+[0:20] cask
+[0:20] 5७०
+[0:21] 8 Effective,
+[0:21] coun 7
+[0:21] Ralighe.
+[0:21] “80 only,
+[0:23] alll
+[0:25] steph,
+[0:26 - 0:28] thes }
+[0:27] Kil
+[0:27] W iy
+[0:28] q iN
+[0:29] with
+[0:29] है 6)"
+[0:32] कट ve " Ive
+[0:33] हैं|
+[0:34] ॥ en er ou Sly
+[0:35] Lif
+[0:36] diy
+[0:39] 4° eh
+[0:39] | eas
+[0:40] add
+[0:43] ५ VA
+[0:44] No \coy
+[0:45] ८८०
+[0:45] 3 कु
+[0:47] tarts
+[0:48] घर ul
+[0:53] ture.
+[0:54] 5 ले
+[0:56] are
+[1:01] fin.
+[1:01] fit

@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[190] https://www.instagram.com/reel/C4CGTfvpTGc/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] I don't want to live in a hole anymore it makes me feel poor we are poor but we're happy come see
+[0:07 - 0:15] come son anyway the views are better above ground honey I'm seven non-fox years old now my father
+[0:15 - 0:20] died at seven and a half I don't want to live in a hole anymore and I'm going to do something about it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] don,
+[0:01 - 0:02] = don’t wannallive like
+[0:01 - 0:02] this anymore...
+[0:03] rat
+[0:03] it makes me feel
+[0:05] “iwejareloUtcasts,
+[0:05] mee
+[0:07] happy,
+[0:10 - 0:12] it's only amatter of
+[0:11] itisjonlyjaimatter of
+[0:12] time:
+[0:15] lim) old now,
+[0:15] [ian a
+[0:16] ed out
+[0:16] lot.
+[0:17] ifdon,
+[0:17] atiwannailive
+[0:18] like)
+[0:18] anymore.
+[0:20] ete]
+[0:20] mado
+[0:20] igo
+[0:20] about it.
+[0:25] a ee
+[0:26] tie

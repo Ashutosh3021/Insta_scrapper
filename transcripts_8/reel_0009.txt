@@ -1,0 +1,150 @@
+# model: ggml-large-v3
+========================================================================
+[9] https://www.instagram.com/reel/DRApwjfEdXz/
+STATUS: OK
+DURATION: 1:00   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] 5'8 is too short. I'm 5'4, so 5'8, it's not gonna work. It's not gonna work. You know, you like, you like my little sister.
+[0:04 - 0:08] Nobody wants to say it, but heightism might actually be worse than racism.
+[0:08 - 0:10] You see, racism is socially condemned.
+[0:10 - 0:14] You say something racist, you lose your job, your reputation, your platform, etc.
+[0:14 - 0:16] Society punishes you.
+[0:16 - 0:19] But mock someone for their height, that's not condemned.
+[0:19 - 0:23] It's actually normalized. It's entertainment. It's a preference.
+[0:23 - 0:23] Liar.
+[0:23 - 0:24] How am I a liar?
+[0:24 - 0:25] 6'5 is a lie.
+[0:25 - 0:26] You gotta round up.
+[0:26 - 0:27] Round it up heavy.
+[0:27 - 0:29] No, I didn't.
+[0:29 - 0:29] He's 6'5. I'm 6'5.
+[0:29 - 0:31] 6'4. Exactly.
+[0:31 - 0:34] And the irony is, height is 95% genetic.
+[0:34 - 0:37] You can't train it, manifest it, or grind for it.
+[0:37 - 0:40] No amount of effort is going to change your bone length.
+[0:40 - 0:45] Only about 15% of men are 6 feet or taller, yet somehow that becomes the baseline nowadays.
+[0:45 - 0:51] It's so bad that even talking about someone's weight is considered more offensive than mentioning their height.
+[0:51 - 0:53] Especially when it comes to women, right?
+[0:53 - 0:54] And that's something that you can control.
+[0:54 - 0:58] I just find it hilarious that this double, actually triple standard, still exists.
+[0:59 - 0:59] Till this very day.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] 8 Ranking men heights]ID)
+[0:02] 6'0o—
+[0:03] है «०1 करण
+[0:04] क्र
+[0:04] tnt
+[0:04] 9 5'g
+[0:04] TikTok
+[0:08] | bivivi
+[0:09] MIS SOCIALLY CONDEMNED
+[0:10] 5 rh
+[0:11] PSs
+[0:11] रे a
+[0:14] DESTROYS PLATFORM
+[0:15] Ve 7
+[0:17] BUT MOCK SOMEDNE
+[0:17] rr Y
+[0:17] ना है
+[0:18] FOR THEIR HEIGHT
+[0:19] THATS NOT CONDEMNED
+[0:21] | ENTERTAINM
+[0:23] re as
+[0:23] 117 ६:४ é:
+[0:23] pT al
+[0:23] AY fd
+[0:23] Faw ८०
+[0:23] “ene?
+[0:23] lll |
+[0:23] 5-9 जा
+[0:23] BaD
+[0:23 - 0:25] MARLON FOR LYING AB HIS HEIGHT 6
+[0:23 - 0:31] HALEY BAYLEE PRESSED ©
+[0:24] HALEY
+[0:24] MARLON FOR LYIN
+[0:24] sat हक
+[0:24] Hoes ®
+[0:24] or 9 \)
+[0:25] fos
+[0:25] yf nine
+[0:26] GHT ©
+[0:26] J oe
+[0:26] re tial
+[0:26] Ps a
+[0:27] HEIGHT @
+[0:27] 100
+[0:28] MARLON FOR LYING AB HIS HEIGHT हो
+[0:28] 08४.
+[0:28] 138.
+[0:30] IGHT ®
+[0:30] ° Age
+[0:30] 909
+[0:30] wm i
+[0:31] MARLON
+[0:31] cor Gd AB HIS HEN
+[0:31] प्र
+[0:31] rarer
+[0:31] noite
+[0:31] pep oes
+[0:33] dal
+[0:33] HEIGHT IS 95% GENETIC
+[0:33] 7 oS
+[0:34] = height determined by genetics?
+[0:34] wre
+[0:34] on heeiaghe. phess 9 smaller contribution from environment
+[0:34] cn gare vararts have been discovered
+[0:34] nd many more ३०
+[0:34] varaems wen ganes that
+[0:34] fectly oF indirectly affect cartiiage
+[0:34] 2223७ A the legs and arms where new bone is prockiced
+[0:34] genes
+[0:34 - 0:35] ३ MedlinePlus
+[0:34 - 0:35] Trusted Health Information for You
+[0:34 - 0:35] _ 80 percent of an individual's height is determined by the DNA
+[0:34 - 0:35] wich genes these changes are in and what they do &
+[0:34 - 0:35] me rare gene variants have dramatic effects on heg
+[0:34 - 0:35] ondroplasia, a rare condition characterized by sh
+[0:34 - 0:35] height ७ controlled largely by a combination of genetic var
+[0:35] mined by genetics?
+[0:35] plus a smaller contribution from environmental
+[0:35] yatiams have been discovered and many more are ex
+[0:35] are in genes that directly or indirectly affect cartilage
+[0:35] nee A the legs and arms where new bone is /0005७८
+[0:35] Mtn
+[0:35] 6 many other height-associated genes remains
+[0:35] YANO
+[0:36] MANIFEST IT
+[0:37] 2) हे
+[0:37] क्ॉ
+[0:37] OR GRIND FORT
+[0:38] NO AMOUNT OF EFFORT IS GOING
+[0:40] TO CHANGE YOUR BONE LENGTH
+[0:41] 5 5 शक
+[0:41] / re है
+[0:41 - 0:44] . — NORMAL DISTRIBUTION-
+[0:41 - 0:44] ‘The normal distribution is the most important distribution in statistics. it describes 2
+[0:41 - 0:44] Sgemmetnic bell-shaped distribution. People's heights and weights are all roughly Det
+[0:41 - 0:44] ‘shaped and symmetrical around a central value called the mean. In the US.
+[0:41 - 0:44] ‘women are 6 feet tall or taller. The equivalent height cutoff for US men (only 15%. 0f
+[0:41 - 0:44] ‘Populstion taller) is about 6’4”.
+[0:42] pocu ston, SSGUEISIS |PERCEESHSINTENSrESIKTESHOROVER Roughly 1% of US
+[0:42] vem
+[0:43] oom)
+[0:43 - 0:44] Roughily 1% of US
+[0:45] THEBASANEN
+[0:47] TALKING ABOUT SOM
+[0:48] TALKING ABOUT SOMEONE'S WEIGHT
+[0:49] ६ CONSIDERED MORE OFFENSIVE
+[0:51] THAN MENTIONING THEIR HEIGHT
+[0:52] iv f
+[0:56] a DOU
+[0:56] mm Sf
+[0:57] ran
+[0:57] TRIPLE STAN
+[0:58] STILL EXISTS -
+[0:58] ym ON
+[0:59] TILLTHIS
+[0:59] {7 अं

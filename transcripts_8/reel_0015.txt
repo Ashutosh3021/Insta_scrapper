@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[15] https://www.instagram.com/reel/DPAFyIFkgy8/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Now, and I'm dreaming right where I belong
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] gsutr
+[0:00] ७025॥#701306 (/0७॥01७
+[0:00] ayiin. £
+[0:00] h VN)
+[0:00] HAN
+[0:00 - 0:02] his lifeY’eause of;/me
+[0:00 - 0:03] knowingjhe
+[0:01] my,best friendiknowing|heyy ——.
+[0:01] doesn't have to) workta
+[0:01] Gayjin
+[0:02] Goesnathaveltolworkia’da
+[0:03] Vv ey
+[0:03] of a
+[0:03] myibes
+[0:03] end
+[0:03] oesmut toiworkiaidayjin
+[0:03] his life
+[0:03] causelofim
+[0:03] ह ८ जे
+[0:04] does
+[0:04] have}to workra\day/in
+[0:04] sis fete Causelofime &
+[0:04] 7 baa
+[0:04 - 0:05] friend|/ knowing “A
+[0:05] A ee >>
+[0:05] जन सर,
+[0:05] work,aidayjin)
+[0:05] 2-80
+[0:05] हुँ
+[0:05 - 0:06] an ae
+[0:05 - 0:06] ) Whisilifefcauselofimes >
+[0:06] knowing
+[0:06] हे के
+[0:06] है. ले
+[0:06 - 0:07] doesnitihave\tol\worktaldayiin)
+[0:07] =e ० आ/

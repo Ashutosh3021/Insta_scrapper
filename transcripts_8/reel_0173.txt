@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[173] https://www.instagram.com/reel/C5wKDuAP8MG/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Having to shave every other day can be dreadful, but I will say, it pays off.
+[0:04 - 0:09] The key, I've found, to avoid those dreadful red bumps and unsightly cuts,
+[0:09 - 0:12] begins with proper skin preparation.
+[0:12 - 0:15] I use Cetaphil's Hydrating Foaming Cleanser,
+[0:15 - 0:19] massaging it in circles to lift and soften the stubble.
+[0:19 - 0:22] This is crucial. It's all about the foundation, after all.
+[0:22 - 0:26] Once rinsed, the precision of Philips' OneBlade comes into play.
+[0:27 - 0:30] I always ensure the head is clean, a new one if necessary,
+[0:30 - 0:33] because precision and hygiene go hand in hand.
+[0:33 - 0:37] Following the shave, a quick wash removes any lingering hairs,
+[0:37 - 0:40] leaving my skin fresh and impeccably clearer.
+[0:40 - 0:45] Finally, I apply a moisturizer rich in hyaluronic acid and ceramides.
+[0:45 - 0:47] You see, it's not just about looking good.
+[0:47 - 0:50] It's about skin health, about presentation.
+[0:50 - 0:53] This routine isn't just maintenance.
+[0:53 - 0:57] It's a testament to the virtues of self-care and meticulous attention
+[0:57 - 0:57] to do the right thing.
+[0:57 - 0:57] detail.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] other __
+[0:04] pay,
+[0:06] हे जे
+[0:07] those
+[0:08] HUMPS
+[0:08] Yarn
+[0:10] ra 7
+[0:11] proper
+[0:11] a ae
+[0:12] Ons, ©
+[0:13] <P emmss
+[0:14] Hydirati
+[0:14] Ing)
+[0:15] 18908
+[0:16] Massaging
+[0:17] circles)
+[0:19] stubble
+[0:21] 6109० ae
+[0:23] lil
+[0:24] rll)
+[0:24] जल ae
+[0:25] wr Se
+[0:26] “eae
+[0:26] mes
+[0:27] ont
+[0:27] ona
+[0:28] CHSUTS
+[0:29] clean
+[0:31] because
+[0:33] hand
+[0:35] hta
+[0:36] waisih. ४
+[0:38] leaving
+[0:38] SS y
+[0:39] {fresh
+[0:40] »» impel
+[0:40] ccably
+[0:41] 1७४:
+[0:43] oisturizer
+[0:44] श्र
+[0:45] VAN
+[0:45] vit»
+[0:47] ab But
+[0:47] 38३९
+[0:49] out
+[0:50] sentation
+[0:50] हैं (८
+[0:52] int}
+[0:52] ale
+[0:53] Mrenames
+[0:54] etament
+[0:55] ral fi
+[0:56] lous
+[0:59] gma

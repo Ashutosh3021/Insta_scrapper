@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[4] https://www.instagram.com/reel/DWPJ1V2D17U/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] The Beatles got the big belly rollin', she thinks she love me, I think she trollin', so let go, it's a real family.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] ‘ihe
+[0:01] Fah
+[0:01] eft
+[0:01] cat
+[0:01] Sm के
+[0:01] Boy.
+[0:01] BS ५
+[0:03] ate
+[0:03] डेट
+[0:04] all
+[0:04] age
+[0:04] है; ५
+[0:04] हैः
+[0:04] wre
+[0:04] Mey
+[0:04] ४४ 4
+[0:04] ३1] ड़
+[0:04] (की (2
+[0:04] ail
+[0:04] id ing
+[0:04] है 5
+[0:04] Wai: ५
+[0:04] ९८-३६
+[0:05] sew
+[0:07] “5 SN

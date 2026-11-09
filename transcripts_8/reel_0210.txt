@@ -1,0 +1,67 @@
+# model: ggml-large-v3
+========================================================================
+[210] https://www.instagram.com/reel/Ct2pfMdJdsD/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Like, she looks like me, huh?
+[0:02 - 0:12] Why are you doing this to me?
+[0:12 - 0:21] 10.
+[0:21 - 0:23] I can't answer that.
+[0:23 - 0:24] She has a boyfriend.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] uti
+[0:02] 1 Omer¥ Veo Out — op
+[0:02] St ome:
+[0:02] Ganw
+[0:05] comety
+[0:05] met vj
+[0:05] Pr “44
+[0:05] lan
+[0:05 - 0:07] Stop
+[0:05 - 0:08] Country:
+[0:05 - 0:12] ideo Chat —TopC @ x +
+[0:06] क OneV Veo Cat Ten #
+[0:06] तलब
+[0:06] Gan
+[0:07 - 0:08] met]
+[0:10] @ ometv
+[0:10] mikey
+[0:10 - 0:11] Count
+[0:10 - 0:12] Stop
+[0:11] netvj
+[0:11] likely
+[0:11 - 0:12] met
+[0:12 - 0:14] Country:
+[0:13] ०23
+[0:14] out
+[0:14] ९ fo) oe
+[0:14] lam:
+[0:19] aly ०
+[0:21] mV Ont
+[0:21] Ct owes
+[0:21] j Omaay
+[0:22] me Veo Oat — ep $
+[0:22] ews
+[0:22] Tomer
+[0:22] ra can't answer, that”
+[0:23] ate #
+[0:23] “she has a boyfriend”
+[0:24] whyican
+[0:24] nt be
+[0:24] 1 है!
+[0:24 - 0:29] ithis loyal
+[0:25] Can
+[0:25] ne theyibe
+[0:26] winygca
+[0:26] HHUUUUU
+[0:26 - 0:28] nitithey,be
+[0:27] this
+[0:27] EUHUH
+[0:28] whyjcan
+[0:29] they be
+[0:29] Waugh
+[0:30] *SKIPS*

@@ -1,0 +1,186 @@
+# model: ggml-large-v3
+========================================================================
+[61] https://www.instagram.com/reel/DFtexPwyvCl/
+STATUS: OK
+DURATION: 1:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] It took me 19 years to figure out how to properly shave, and I'm going to show you guys how in less than 27 seconds.
+[0:06 - 0:10] For the cleanest shave, I always opt for a single-blade safety razor.
+[0:10 - 0:16] Start with a high-quality shaving foam. It's not just about the glide, it's about protecting your skin.
+[0:16 - 0:18] Leave a little foam for touch-ups later.
+[0:18 - 0:22] Before you even begin, make sure your razor is clean and sterile.
+[0:22 - 0:26] Since I use a single-blade tool, I replace the cartridge every time. They're cheap.
+[0:26 - 0:30] Here's a quick diagram for the direction of shave to avoid irritation.
+[0:30 - 0:36] Always go with the grain first. Work patiently, and don't forget to rinse the blade frequently to keep it sharp and clean.
+[0:36 - 0:42] For the neck, use this tucking technique. It creates a smoother surface, making the shave cleaner and easier.
+[0:42 - 0:47] Once you're done, if there are any spots you've missed, use an electric shaver to tidy up.
+[0:47 - 0:50] You don't want to overwork your skin with the blade.
+[0:50 - 0:54] Finally, finish with a moisturizer to soothe and hydrate the skin.
+[0:54 - 0:55] There you have it.
+[0:55 - 0:58] It's the perfect routine for the cleanest shave possible.
+[0:58 - 1:06] If you want more routines like this, or personalized advice, check out Mogwarts, my fully-fledged self-improvement community.
+[1:06 - 1:07] Trust me, it's worth it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] took
+[0:00] नशा
+[0:02] properly
+[0:02] i ff
+[0:03] “and
+[0:04] JUS
+[0:06] ५27;
+[0:06] Cones
+[0:07] cleanest
+[0:11] hos.
+[0:11] q ro
+[0:12] ing
+[0:12] (> shav
+[0:13] pate
+[0:14] ide
+[0:15] rotecting
+[0:16] ३ जे
+[0:17] for
+[0:18] lat
+[0:19] ‘begin
+[0:20] Wout
+[0:21] clean
+[0:22] 31110 6
+[0:23] 2901
+[0:23] lade
+[0:23] pis
+[0:23] 3D op
+[0:24] eplace
+[0:24] ७ के
+[0:25] time
+[0:25] A Pe.
+[0:26] cheap
+[0:27] gram
+[0:27] है है
+[0:30] irritation
+[0:31] grain
+[0:33] patiently
+[0:34] करता
+[0:35] ow | J
+[0:35] Bae)
+[0:37] , 2 Lf
+[0:39] es wy
+[0:40] \ Fsmo
+[0:40] मनन
+[0:40] 4 Vi
+[0:41] a ma
+[0:41] २७ i
+[0:42] हिल
+[0:43] war”
+[0:45] missed
+[0:46] vele
+[0:48] Ont
+[0:49] WOUr
+[0:51] २७५
+[0:51] fit
+[0:54] 522:
+[0:54] ie a
+[0:57] 524
+[0:57] anest
+[0:57] गैर
+[0:58] Sate
+[0:59] o (४४
+[0:59] mann ete Hint
+[0:59] a | ne
+[0:59] 6००2
+[0:59] jmncsne nat nsec mee ta
+[0:59] enero
+[0:59] प्र
+[0:59] incepta tan ela
+[0:59] Jee ters ner ara
+[0:59] woe
+[0:59] womoosvoF
+[1:00] 0 (०४
+[1:00] oe न ime
+[1:00] this
+[1:00] ७००
+[1:00] eRe THE
+[1:00] owner
+[1:00] 0->न tet
+[1:00] eineneneieatnncem eet
+[1:00] 7... eterno tt
+[1:00] noe
+[1:00] wemgosrot
+[1:01] personalized
+[1:01] A) wee
+[1:02] check
+[1:02] mene
+[1:02] Still not sure?
+[1:02] (Check ot wa otra yg.
+[1:02] क्रय
+[1:02] renee
+[1:02] ee ae
+[1:02] omeoeroF
+[1:03] Mogwants
+[1:03] Wat
+[1:03] /१७१०००
+[1:04] 16886
+[1:04] epg 2
+[1:04] bach
+[1:04] Lenten
+[1:04] १०:५०.
+[1:04] Net oe ५.
+[1:04] A ogy
+[1:04] AF ८ 2005
+[1:04] Bp बन
+[1:04] 4०७३९,
+[1:04] © neg
+[1:04] dose
+[1:04] (bray,
+[1:04] © hee 24m
+[1:04] 0००७७ ३७७०,
+[1:04] 4 200g
+[1:04] S time
+[1:04] (९ ७०७७ >
+[1:04] > hate a
+[1:04] emi ae 20७७,
+[1:05] improveme nt
+[1:05] Community Classroom
+[1:05] Caleng
+[1:05] Remy Jaibay
+[1:05] Oriel 2545
+[1:05] © Aatve sy 290
+[1:05] 2 “ohned Feb 4 2625
+[1:05] Ben Goran
+[1:05] ७ 4०00३ ९६०
+[1:05] 2 PM Fe ८ 2005
+[1:05] yeaa saan
+[1:05 - 1:06] Here to morove >
+[1:06] Community
+[1:06] Classroom
+[1:06] Gp Canceling
+[1:06] Chu
+[1:06] @ramy: ‘Halbaii-2545
+[1:06] 3 4०093 ago
+[1:06] . “eined Feb 4, 2005
+[1:06] Ben Gorgy
+[1:06] © 2७७७.
+[1:07] SSS SS
+[1:07] monies
+[1:07] Lee re me तन>..
+[1:07] pete
+[1:07] नल लक
+[1:07] 61 ७। meme
+[1:07] ele
+[1:07] vrei
+[1:07] SoS पद: ०
+[1:07] anon ३0३५४
+[1:07] cet
+[1:07] sme
+[1:07] 17777: 22 70:22
+[1:07] लिन
+[1:07] 00 0५.९0 ee
+[1:07] jesse
+[1:07] reve
+[1:07] are manne
+[1:07] ‘ten
+[1:07] 6600 A है है mmm
+[1:07] tale”
+[1:07] Crs
+[1:07] mwomgeeror

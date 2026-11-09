@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[102] https://www.instagram.com/reel/C_l5P2XS9xM/
+STATUS: OK
+DURATION: 1:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] It's officially no-shave September, and it's been 12 days since my last shave.
+[0:03 - 0:07] I'm finally trimming, so I'll show you just how to go about shaping it to enhance your beard's
+[0:07 - 0:12] thickness and angularity. First things first, you'll have to tidy up your neck. With my Norelco
+[0:12 - 0:17] shaver, I shave everything below where my two fingers rest under my chin. While I'm at it,
+[0:17 - 0:23] I'll also clean up anything above my cheeks. Next, with a steel plucker, meticulously remove
+[0:23 - 0:29] any stray hairs that stand out from the bunch. After this, switch to a higher trim setting to
+[0:29 - 0:33] gently fade the neckline without taking off too much. Then, use an even higher setting across
+[0:33 - 0:38] your entire beard to make sure everything levels out nicely. Now, here's the important part. To
+[0:38 - 0:43] avoid any inflammation or red spots, use a cleansing oil like this one. This is V. Green's
+[0:43 - 0:48] Rice Daily Pore Cleansing Oil. This stuff is fantastic for soothing the skin by clearing out
+[0:48 - 0:53] pore waste, and it moisturizes without the stickiness. It's also brilliant for dealing
+[0:53 - 0:57] with blackheads, the stuff on your nose especially. Using something like this,
+[0:58 - 1:03] even daily, makes shaving so much easier because I know I won't have to deal with irritation
+[1:03 - 1:07] afterwards. I can't wait to see what my beard will look like by the end of this month. See you guys!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] 14 Ny
+[0:01] SEPTEMBER
+[0:06] ITs
+[0:07] ९» Md
+[0:07] te enhanec«
+[0:08] V4 ip
+[0:08] ith
+[0:09] gullarity:
+[0:10] 071]
+[0:12] rel
+[0:13] Shave
+[0:15] TESt_S
+[0:18] also
+[0:18] AYE
+[0:18] Sas
+[0:19] bove
+[0:20] क्र
+[0:22] Msi
+[0:23] remove
+[0:24] hairs
+[0:24] pee 4
+[0:24] नहा
+[0:25] है ख-
+[0:26] aft
+[0:29] gem
+[0:34] 11111 6
+[0:35] — Ses
+[0:37] (4 How |
+[0:38] bat /
+[0:39] 11111] हित
+[0:40] श्र red =~
+[0:45] १४९9
+[0:45] 10500 Pore
+[0:45] iol
+[0:45] GOL
+[0:47] 2066७
+[0:47] 500
+[0:47] i है
+[0:48] clearin
+[0:49] ४५० 312|
+[0:50] =e iz
+[0:50] 110॥51॥॥7 65
+[0:52] re रे
+[0:53] itr
+[0:54] f khead
+[0:57] IF he
+[0:57] cl हें
+[0:57] this
+[0:58] *, 819
+[0:58] Hwee
+[0:59] Hl VP
+[1:00] a Rsier
+[1:04] alm) t
+[1:07] see you guys

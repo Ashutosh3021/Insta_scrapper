@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[66] https://www.instagram.com/reel/DFJ_XQjREXb/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] ♪ Yeah, yeah, look, look how blue, look how blue, she's with me as the... ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] =~ wae
+[0:01] Pam GAN
+[0:04] 422
+[0:05] ८274 |
+[0:06] का 7
+[0:08] mae
+[0:08] ४.५ ४ -
+[0:08] भरा
+[0:09] cat
+[0:10] les

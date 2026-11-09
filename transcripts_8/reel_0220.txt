@@ -1,0 +1,81 @@
+# model: ggml-large-v3
+========================================================================
+[220] https://www.instagram.com/reel/CrfEw01sIFZ/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] some self-care tricks i wish i had known when i was younger if you have redness around the nose
+[0:05 - 0:11] or rosacea use coconut oil you see coconut oil is naturally anti-inflammatory so it soothes and
+[0:11 - 0:17] calms the skin getting an eye balm is a must particularly one with caffeine as it can help
+[0:17 - 0:22] get rid of under eye bags and refresh your appearance shaving unwanted facial hair is
+[0:22 - 0:28] the wrong way to go trust me on this instead opt for a high quality plucker as the hair will take
+[0:28 - 0:34] longer to grow back and it's far more precise flossing can be a hassle to keep up with but
+[0:34 - 0:37] with micro flossers now those are a game changer
+[0:37 - 0:42] you really don't want to sleep with this stuff in between your teeth
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] f id
+[0:01] ॥ self=carestricks
+[0:02] knownwhen
+[0:03] a younger
+[0:03] 6 ae
+[0:04] around
+[0:05] ithe)
+[0:05] कु 1
+[0:06] NEN
+[0:06] fosacea,
+[0:07] oconut
+[0:08] syoujsee
+[0:09] 107
+[0:10] ९ an
+[0:11] so it’soothes
+[0:11] rent
+[0:12] Soe
+[0:14] eye)
+[0:14] चहल
+[0:15] cae |
+[0:16] nelwithyeaffeine)
+[0:16] बनना
+[0:17] Yar 4
+[0:17] asjit{ean
+[0:17] ७५1
+[0:17] खान.
+[0:18] pres!
+[0:18] Vira
+[0:18] eye bags
+[0:19] 14४
+[0:20] your
+[0:21] , ¢ unwanted
+[0:22] ifaciallhair,
+[0:24] USE MS OM Was
+[0:25] instead
+[0:26] qu || pl
+[0:26] Vid
+[0:26] ker,
+[0:27] high quality plucker,
+[0:28] will take longer
+[0:29] to grow back
+[0:30] 3 far §
+[0:31] recise..
+[0:32] a\\ है
+[0:32] 1॥05511८
+[0:33] 1॥1[9011॥
+[0:34] ssers?
+[0:34] तक श्र
+[0:34 - 0:35] within
+[0:35] «२.1 2
+[0:35] flossers?
+[0:36] ow those
+[0:36] क्र
+[0:36] ० की]
+[0:37] aye ee
+[0:37] sangre
+[0:37] ‘arerarga
+[0:37] changer.
+[0:37] apout
+[0:38] youlreally don't
+[0:39] ZOD
+[0:39] this stuff S
+[0:40] iteeting

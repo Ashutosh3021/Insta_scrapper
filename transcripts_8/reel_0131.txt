@@ -1,0 +1,56 @@
+# model: ggml-large-v3
+========================================================================
+[131] https://www.instagram.com/reel/C8nSAORyjks/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] You're not real.
+[0:00 - 0:02] I'm real.
+[0:02 - 0:02] No, you're not.
+[0:02 - 0:05] This is not real.
+[0:05 - 0:06] Oh my god.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] how
+[0:00] sd OW:
+[0:00 - 0:01] e your
+[0:01] howto,
+[0:01] SKIN|GLOW:
+[0:01] 1 क ९
+[0:02] के ऐ
+[0:02 - 0:03] how to:make.your
+[0:03] रु LO
+[0:03] 1 कई
+[0:04] jeanser
+[0:04] 1 EXFOLIATE with, x
+[0:05] IREULAR motions
+[0:06] ra ess) thal
+[0:06] 0 SECONDS
+[0:07] aN hype
+[0:07] (ORTIONAL)
+[0:07] है है
+[0:07] 4. applya'
+[0:08] 5. GENERQUSjamount
+[0:09] La ३"
+[0:09] Ans.
+[0:09] 65FOCUSTonjyour T-Zone
+[0:10] EINES
+[0:10 - 0:11] FOLLOW) TE
+[0:11] SrINES
+[0:12] 7. LOCKUN)
+[0:13] aloca . good MeisTURIZER!
+[0:14] od| MOISTURIZER:
+[0:14] igor
+[0:15] 9. focus onDRY
+[0:16] 9. fo
+[0:16] Sion. DRY q
+[0:17] 10. use albrightening} a ७
+[0:18] oe use a brightening SERU
+[0:19] 11. niacinamide)
+[0:19] ORWWital
+[0:19] mini
+[0:20] ide OR vit
+[0:21] Fo ats
+[0:22] THEJRES

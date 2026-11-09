@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[95] https://www.instagram.com/reel/DAhPeZgyu2e/
+STATUS: OK
+DURATION: 0:55   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] how old are you santiago i'm 16. i can tell your skin's very very clear i don't think
+[0:04 - 0:08] it's really clear because like i don't see i don't know if you can see right now your
+[0:08 - 0:12] forehead is being touched by your hair and your hair carries oil like you said today you didn't
+[0:12 - 0:16] you didn't wash it right so the oil goes onto your forehead and it clogs your pores so the only
+[0:16 - 0:21] solution here is if you wash your hair always which is a very very hard thing to do or if you
+[0:21 - 0:25] put your hair up because if you keep your hair here you're going to keep having the acne thinking
+[0:25 - 0:30] about getting a buzz cut this is my forehead yeah you have a very good skull i think you can
+[0:30 - 0:37] definitely rock rock that buzz cut also i ordered like those mastic gum and i think it's arriving
+[0:37 - 0:41] tomorrow and i started to do it uh three times a week yeah you're building up that jaw width just
+[0:41 - 0:44] be careful with it right you don't want to go too all out you don't want to get injured you know
+[0:44 - 0:47] what you're doing man just stick to the guides everything that i gave you all the routines stick
+[0:47 - 0:51] to them and for your skin care as well like i said check out the skin care guide build your routine
+[0:51 - 0:55] if you want and do your thing and you're going to the gym so that's really good on you okay brother
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 9 . Ao |
+[0:05] ff a है
+[0:08] bee
+[0:09] touched
+[0:11] ७ कै
+[0:11] like
+[0:12] है L
+[0:13] हा oil
+[0:15] मर है
+[0:15] rea
+[0:18] ‘as है
+[0:19] || c very)
+[0:22] airjup)
+[0:24] 4 iM
+[0:26] a\buzzcut
+[0:28] age 2
+[0:29] cde
+[0:31] 0 कह om
+[0:32] (heed
+[0:34] those mastic)
+[0:37] tomorrow;
+[0:38] tod
+[0:39] thi
+[0:44] You|know,
+[0:44] wor
+[0:45 - 0:47] stick’ |
+[0:50] ith
+[0:53] oujre
+[0:54] ally,

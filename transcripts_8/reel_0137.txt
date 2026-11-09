@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[137] https://www.instagram.com/reel/C8DSfRAgi6q/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Electros
+[0:01 - 0:03] Electros
+[0:03 - 0:05] Electros
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Nie
+[0:00] 3 ke
+[0:01] — st साा>
+[0:04] 1 Be.
+[0:06] aes
+[0:07] 1 ७४.
+[0:08] bee जज
+[0:09] Ss J
+[0:11] pal
+[0:13] a Ya“
+[0:15] rae
+[0:16] नाल ता
+[0:17] foe
+[0:18] nie
+[0:19] Vig
+[0:19] So ida
+[0:19] (eal
+[0:21] ४ जे
+[0:23] 1 'च७ि
+[0:23 - 0:24] o> re —
+[0:24] gee
+[0:25] wih
+[0:26] tube.
+[0:26] ६८८१
+[0:26] beak
+[0:26] She
+[0:26] SSS

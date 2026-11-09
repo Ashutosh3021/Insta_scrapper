@@ -1,0 +1,108 @@
+# model: ggml-large-v3
+========================================================================
+[203] https://www.instagram.com/reel/CwWT1Rrpze0/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] 9-1-1 emergency
+[0:04 - 0:09] hello
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 7२0
+[0:00] be we
+[0:00] igistreak)
+[0:00] G pe
+[0:00] fe 4
+[0:00] Ais
+[0:00 - 0:02] g my had)
+[0:01] ifn
+[0:01] POV. fe
+[0:01] great: —
+[0:01] akimy hai
+[0:01] 6 516
+[0:01] Lan
+[0:01] A NT
+[0:01] दि 0
+[0:01] ows hae
+[0:01 - 0:02] i canst bre
+[0:02] sey
+[0:02] POV. 4%
+[0:02] t:dan:
+[0:02] रे streak)
+[0:02] Me eS
+[0:02] AQT
+[0:02] 4०00
+[0:02] Aon Ds
+[0:02] von yey
+[0:02] 348: IN
+[0:02 - 0:03] Sar
+[0:03] POWiimin great Gaver (but
+[0:03] Dore
+[0:03] lifean't br
+[0:03] तर 5
+[0:03] teak)
+[0:03] yh hard RS ‘
+[0:03] pepe =
+[0:03] ५९४
+[0:03] BAG
+[0:03] TAS
+[0:03] ५126
+[0:03] श्र
+[0:03] न NS
+[0:03] errs
+[0:04] POV: i'm in greatidanger
+[0:04] i eo t bre
+[0:04] wee streal
+[0:04] Nas
+[0:04] Myron
+[0:04] voy ३११
+[0:04 - 0:07] 1, myjhard
+[0:05] “a हरी
+[0:05] POV:jiim
+[0:05] mewing}streak) | ।
+[0:05] ma 2.2५
+[0:05] a oR
+[0:05] ‘Ay C Pea
+[0:05 - 0:09] imlin great danger (but
+[0:06] ७75
+[0:06] VD iim)
+[0:06] mewing!str ६५५
+[0:06] an 9
+[0:06] NG ary
+[0:06 - 0:09] ilcanstibreak myjhard
+[0:07] a aes
+[0:07] 4202
+[0:07] unites
+[0:07] a (but
+[0:07] streak)
+[0:07] BS 2
+[0:07] offs
+[0:07] 5 ew ५०
+[0:08] नशे
+[0:08] OVI
+[0:08] Wey
+[0:08] 2७ ३2
+[0:08] ING 2/:2/:५
+[0:08 - 0:11] Mmewingjstreak)
+[0:09] 1२७४.
+[0:09] oe he
+[0:09] 22४.
+[0:09] LONG.
+[0:10] Wat
+[0:10] oe i
+[0:10] eatidanger. h
+[0:10] ‘a hard
+[0:10] my LN
+[0:10 - 0:11] icanit
+[0:11] 9८५४
+[0:11] oe i’m iin
+[0:11] at’ Aan i)
+[0:11] hea
+[0:11] kimyjhard
+[0:11] VAL
+[0:11] Dip fe
+[0:12] ह 18
+[0:12] 720 <
+[0:12] ५४१५

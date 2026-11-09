@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[206] https://www.instagram.com/reel/CviD-0TMmwy/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I love you, I'm coming for you, to you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 671
+[0:00] Ss. ee
+[0:01] ais
+[0:01] “Spee °
+[0:02] जे are
+[0:02] ty! Se
+[0:08] प्र
+[0:09] अल ८

@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[192] https://www.instagram.com/reel/C31ReRhpLza/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] thier
+[0:00] गा will
+[0:00] Meg
+[0:01] key
+[0:01] al e ri
+[0:03 - 0:04] your life!
+[0:03 - 0:05] MEN/s'SALON|will
+[0:04] a\MENis}SALON will
+[0:04] change'y:
+[0:05] =k sat
+[0:05] change yourlifes
+[0:06] var
+[0:07] 956 5ऋ
+[0:07] ane

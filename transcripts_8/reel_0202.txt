@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[202] https://www.instagram.com/reel/CwbUNrtMZO0/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Редактор субтитров А.Семкин Корректор А.Егорова
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] POV: you forgot to pution
+[0:00 - 0:07] your shirt’. \
+[0:05] OWE
+[0:05] your
+[0:05] forgot to put on
+[0:06] OV: ‘you:fo aorta 4
+[0:07] a you forgot-to put:
+[0:07] Wal
+[0:07] कै 8
+[0:08] 00५

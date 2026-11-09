@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[239] https://www.instagram.com/reel/CmfpEL8s3Yo/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] We got eyes.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] | government: having no
+[0:00 - 0:02] hOes is now illegal है |
+[0:04] vernmen avin 0
+[0:04] w illegal © i}
+[0:05] 4A i
+[0:05 - 0:06] | - having no
+[0:05 - 0:10] hOes is now illegal हैं
+[0:07] nti
+[0:07 - 0:10] government: having no
+[0:09] 7 ks
+[0:10] STAIR2
+[0:11] फ्री
+[0:12] है" १ ४
+[0:13] ais
+[0:13] tes F
+[0:13] cs = 8.
+[0:14] 10.४
+[0:14] eae
+[0:15] Stale
+[0:15] Gil
+[0:15] maf
+[0:15] Tah
+[0:15] hig
+[0:15] कमी

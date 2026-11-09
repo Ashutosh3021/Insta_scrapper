@@ -1,0 +1,13 @@
+# model: ggml-large-v3
+========================================================================
+[196] https://www.instagram.com/reel/Cz2m4Jmr9u0/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] It was a starry night, you looked so high and mighty
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:05] ७९८
+[0:08] alt

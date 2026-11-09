@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[146] https://www.instagram.com/reel/C7PoOdbyCnK/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Man, Germans are so funny
+[0:02 - 0:14] Hit me with that 8x stare
+[0:14 - 0:16] What the
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] 4 शरण ar
+[0:02] Stop
+[0:07] ४ के
+[0:08] 1 छा
+[0:11] Stop
+[0:13] | Next |
+[0:14] ## 145
+[0:15] हैं:
+[0:16] ine
+[0:16] ff 2

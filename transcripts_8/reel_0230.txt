@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[230] https://www.instagram.com/reel/CoG4fEVpEcS/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Oh, who is she?
+[0:02 - 0:05] Oh, who is she?
+[0:05 - 0:07] Can't decide on that.
+[0:07 - 0:09] Mustn't stop the gym.
+[0:09 - 0:11] Must only strive.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ERICS
+[0:00] Tee
+[0:02] oP il
+[0:07] ihe
+[0:07 - 0:08] ‘from)thejpast
+[0:08] $ 5 it
+[0:08] ia {16}
+[0:08] (816
+[0:08] 181
+[0:08] the
+[0:09] wusn’t stop the gym:
+[0:09] 12187
+[0:10] Ags
+[0:10] 111
+[0:10 - 0:11] you must always..
+[0:12 - 0:13] strive
+[0:14] Le — ३७००
+[0:14] ao डा
+[0:15] Sony
+[0:15] jy a
+[0:18] नया का

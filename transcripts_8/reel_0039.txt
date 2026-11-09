@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[39] https://www.instagram.com/reel/DIXEUz4z5z2/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] So baby, you the referee.
+[0:01 - 0:05] You could've died like New York City girl.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] that one Bio © euléan'téver
+[0:00] introd
+[0:00] ७901:
+[0:00] OMe
+[0:00] girl
+[0:01] vs enero you can't ever. 4
+[0:01] ४९४०३ to your girl ® .
+[0:02] Ente
+[0:02] nif
+[0:02] aes
+[0:02] अच्छे
+[0:02 - 0:04] that one bro you can't ever
+[0:02 - 0:05] .introduce to your girl ®
+[0:03] 3 (/ ना
+[0:04] mn F
+[0:05] हू 3
+[0:05] 11370०0180910|/00 can't ever

@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[122] https://www.instagram.com/reel/C9NhGFSvjQJ/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Chug, chug, chug, chug, chug, chug, chug, chug, chug.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] ‘0 get, CUll
+[0:02] ues
+[0:02] how'toiget
+[0:02] CUij
+[0:03] ow'to get: CUM

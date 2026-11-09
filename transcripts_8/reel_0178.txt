@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[178] https://www.instagram.com/reel/C5KFyH5AX9p/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Lal
+[0:00 - 0:04] hair or height?
+[0:00 - 0:04] what y'all choosingj,
+[0:01] Roe,
+[0:02] oY aia और
+[0:02] hai
+[0:03] ies
+[0:03] had
+[0:04] ae! oe
+[0:05] hai
+[0:05] hoosing? i
+[0:06] hair or
+[0:06] ‘all choosing?
+[0:06 - 0:08] what y’
+[0:07] mhair or 101४9
+[0:07] Wwhatiy:
+[0:07] lie
+[0:07 - 0:08] all cho
+[0:08] hair or height
+[0:10] 9-27

@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[48] https://www.instagram.com/reel/DHOWj-gRI0X/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] This is my brother of six years, K-Shammy, aka the godfather of looks mixing.
+[0:03 - 0:06] One of us stayed in their prime and the other fell off hard.
+[0:06 - 0:08] That's right, the one that let their emotions get the best out of him.
+[0:08 - 0:13] Anyways, I used to be 185 pounds lean and I hit my heaviest at 245 pounds.
+[0:13 - 0:16] Now I've lost over 60 pounds, but that's when I realized
+[0:16 - 0:19] people treat you completely different based on how you look.
+[0:19 - 0:20] When I was at my fattest, I got ignored.
+[0:20 - 0:23] People overlooked me and no one took me seriously.
+[0:23 - 0:25] But now people are happy when they see me.
+[0:25 - 0:27] They talk to me differently and I get more respect.
+[0:27 - 0:29] Pretty privilege is real people.
+[0:29 - 0:30] And I'm a first-hand witness.
+[0:30 - 0:33] So if you've been waiting for a sign to start taking care of yourself, this is it.
+[0:33 - 0:35] Summer's coming, don't make the same mistake I did.
+[0:35 - 0:37] Lock in with your friend and level up together.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] years
+[0:02] ae ii
+[0:02] mS ka!
+[0:03] ray "
+[0:03] XING
+[0:05] he: 4
+[0:08] best
+[0:09] ays)
+[0:09] we ०
+[0:09] bal
+[0:10] 185
+[0:14] pounds
+[0:16] people’
+[0:17] a कं
+[0:17] completel
+[0:18] based
+[0:19] ४०५ कि
+[0:21] overlooked
+[0:21] poy
+[0:22] 110
+[0:22] “बडे
+[0:23] she Nea
+[0:27] Pes
+[0:28] * privilege)
+[0:29] 8110
+[0:30] > Ware 5
+[0:32] takin
+[0:34] है ७
+[0:35] PEs
+[0:37] together

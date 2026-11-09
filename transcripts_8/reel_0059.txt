@@ -1,0 +1,84 @@
+# model: ggml-large-v3
+========================================================================
+[59] https://www.instagram.com/reel/DF6J6ssyCO_/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I really struggle with my appearance, confidence a lot.
+[0:03 - 0:05] If you don't have self-esteem now and then you look smacks,
+[0:05 - 0:06] you're still not going to have self-esteem.
+[0:06 - 0:08] But the process obviously is going to help you feel better.
+[0:08 - 0:12] I see a lot of people around me getting easy with girls.
+[0:12 - 0:13] I was never approached.
+[0:13 - 0:15] I don't think you are putting yourself in these...
+[0:15 - 0:17] Are you going to parties and stuff like that?
+[0:17 - 0:17] No.
+[0:17 - 0:20] This is where women really want to approach.
+[0:20 - 0:23] These guys that get approached, they don't just stand and then girls come to them.
+[0:23 - 0:25] They look at them, they establish eye contact,
+[0:25 - 0:28] they have a smile on their face and they also do the approaching themselves.
+[0:28 - 0:30] It's always good to initiate but not chase.
+[0:30 - 0:31] So I tell you this right now.
+[0:31 - 0:32] I spoke to Chico Lachowski.
+[0:32 - 0:34] It's like actually hard for me to date people.
+[0:34 - 0:37] And he himself as a model and even Jordan Barrett, bro, I can get this out of him.
+[0:37 - 0:40] He admitted that when he goes out, girls don't want to approach him.
+[0:40 - 0:42] Girls by nature don't want to approach him.
+[0:42 - 0:45] If a girl approaches you, something's wrong because that's not a girl.
+[0:45 - 0:46] I promise you, bro.
+[0:46 - 0:49] So what you got to do, try dating apps.
+[0:49 - 0:51] Get on a dating app, conversate via text.
+[0:51 - 0:54] Notice how the girls are actually into the way you look, into your personality.
+[0:54 - 0:56] Then the next time you get rejected, you're going to be like,
+[0:56 - 0:57] oh wait, that girl liked me though.
+[0:57 - 1:01] That one really hot girl liked me, even though we only texted for a few minutes, she was willing to meet me.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] ~confidence
+[0:03] Wis,
+[0:03] if you don't
+[0:04] n ow
+[0:05] looksmax
+[0:06] — self-esteem
+[0:07] but theJprocess
+[0:08] Pipi) *
+[0:08] feel
+[0:08] anal
+[0:10] around
+[0:11] ait
+[0:13] approached
+[0:15] putting
+[0:16] parties
+[0:20] guys
+[0:21] they don
+[0:22] then
+[0:24] establish
+[0:25] contact
+[0:26] their,face
+[0:27] do,the
+[0:28] but
+[0:29] initiate
+[0:31] | 5[201(2 10
+[0:33] actually;
+[0:38] He admitted
+[0:39] out
+[0:40 - 0:42] approaches
+[0:41] nature
+[0:42] 7 कु
+[0:44] Ady
+[0:45] Bes
+[0:45] girl
+[0:46] bro
+[0:47] you,got
+[0:50] conversate
+[0:51] Notice
+[0:52] Pons
+[0:52] actually
+[0:55] rejected
+[0:56] wait
+[0:58] BS ५
+[0:58] girl
+[0:59] tough
+[1:01] meetme

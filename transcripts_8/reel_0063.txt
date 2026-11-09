@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[63] https://www.instagram.com/reel/DFbW1NOy7wk/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] homo DEBLOAT.
+[0:02] Vout weight (Ibs) x 10)
+[0:02 - 0:05] \you need daily.
+[0:02 - 0:06] magloffpotassium
+[0:03] your, ‘weight (109) x10)
+[0:04] fal
+[0:04] Your orate (Ibs).
+[0:04] aig)
+[0:05] Ki weight (0:
+[0:06] lyour a (lips) x10)
+[0:08 - 0:09] thank mellater
+[0:08 - 0:09] hydrate + sauna.

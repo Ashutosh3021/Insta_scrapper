@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[105] https://www.instagram.com/reel/C_TxJ33yRTf/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Many are saying that the Leon Kennedy hairstyle is impossible to pull off, but I accept the challenge.
+[0:05 - 0:08] Leon Kennedy is literally a video game character.
+[0:08 - 0:11] Getting your hair to look like that, make it look good, is borderline impossible.
+[0:11 - 0:15] It's not impossible. It just needs the right approach and styling.
+[0:15 - 0:21] First things first, you'll need to both shampoo and condition your hair as it needs to be damp for styling.
+[0:21 - 0:25] You can air dry, but to speed things up, I'm using a hair dryer today.
+[0:25 - 0:28] To mimic Leon's pin straight sides, we need to remove some volume.
+[0:28 - 0:34] You can use a hair straightener, or if you're like me, a hair dryer with the right attachment works wonders.
+[0:34 - 0:39] Now that the hair is straight and flat, it's time for the most crucial part, styling it right.
+[0:39 - 0:42] I'm using this pomade from Based Body Works.
+[0:42 - 0:44] It's got a medium hold and medium shine.
+[0:44 - 0:48] Plus, it's all natural and oil-based, so it'll be gentle on your hair.
+[0:48 - 0:54] Using your fingers, set in his iconic messy middle part, and voila, the look is complete.
+[0:54 - 0:57] I even threw on his iconic jacket.
+[0:58 - 1:00] What do you guys think?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:05] Von g
+[0:07] viicleo
+[0:07] ay 7,
+[0:09] ie 4
+[0:13] just
+[0:14] & pproach
+[0:23] Pry
+[0:27] ides)
+[0:28] Some
+[0:30] straightener
+[0:31] git
+[0:32] ght
+[0:33] ANN
+[0:33] works
+[0:34] TNS
+[0:37] &. rucia |
+[0:40] ons
+[0:41] PomaAce
+[0:42] "Based
+[0:43 - 0:44] medium
+[0:44] POM
+[0:44] ADE
+[0:45] pli
+[0:46] natural
+[0:48] SS n
+[0:50] a in
+[0:51] AG sy
+[0:52] श्र
+[0:54] hy lete,
+[0:55] ity
+[0:56] a Se
+[0:57] aes
+[0:58] 4 if

@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[40] https://www.instagram.com/reel/DIPI8d4SLW2/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] I just want to know who made this
+[0:01 - 0:05] The meme itself isn't funny, don't get me wrong
+[0:05 - 0:08] It's the fact that we know what's actually on his face
+[0:08 - 0:11] And Jordan, I know you're gonna see this because we follow each other
+[0:11 - 0:12] You know, you're a friend and everything
+[0:12 - 0:14] But you gotta let this one slide, bro
+[0:14 - 0:16] Alright, you've done enough damage to my career
+[0:16 - 0:18] It's okay, you mogged me
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] 7 Ka
+[0:01] yay a
+[0:01 - 0:04] me when k shami drops that
+[0:01 - 0:04] debloating supplement
+[0:02] W 5६
+[0:02] fag
+[0:02] in कह
+[0:02] 5 की
+[0:03] 772
+[0:04] हि 2s
+[0:04] ees
+[0:04] A ed
+[0:06] ९ jh
+[0:09] rin
+[0:10] ead
+[0:11] हा J
+[0:12] a - की ७
+[0:13] कि 3
+[0:13] ५8३
+[0:14] क्र
+[0:18] YAY

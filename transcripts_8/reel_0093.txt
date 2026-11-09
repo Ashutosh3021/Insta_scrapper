@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[93] https://www.instagram.com/reel/DAzGMHUPq9K/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] You can whiten your teeth as much as you'd like, but if you're not properly brushing, it won't last one bit.
+[0:05 - 0:11] You see, brushing right helps keep your teeth clear of plaque and stains, leaving you with better breath and whiter teeth.
+[0:11 - 0:15] If you haven't switched to electric already, what are you waiting for? Do it.
+[0:15 - 0:20] It makes everything a lot easier, especially in terms of consistency and the level of cleaning.
+[0:20 - 0:25] All-day plaque monitoring ensures that I've cleansed thoroughly and haven't left any spots.
+[0:25 - 0:32] When you get your first electric brush, start with the lowest mode and work your way up, especially if you have sensitive gums.
+[0:32 - 0:35] I like to pair it with whitening toothpaste for the best results.
+[0:35 - 0:40] And before you ask, I'm using YouSmile's Sonic Electric Toothbrush.
+[0:40 - 0:45] It's pretty neat, considering it comes with automatic pressure control and diamond-embedded bristles.
+[0:45 - 0:48] It's also a far better alternative to other models.
+[0:48 - 0:55] They're almost identical, except this one doesn't have me throwing away double for a replacement head and instead comes with an extra head. Lovely.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] rea >>
+[0:02] but’ ,
+[0:03] Nae
+[0:03] छ्छ
+[0:05] bit
+[0:08] Hal)
+[0:08] plaque _._
+[0:09] Stains)
+[0:10] eath
+[0:11] teen.
+[0:13] aoe
+[0:16] Ss of
+[0:16] wed
+[0:20] cleaning
+[0:20] Nee
+[0:21] Nai,
+[0:22] monitoring)
+[0:22] oud
+[0:22] 650d
+[0:23] Vie
+[0:24] wah
+[0:25] Spots
+[0:26] mi v
+[0:27] brush
+[0:29] wiork
+[0:30] स्व
+[0:31] Ine)
+[0:33] pair,
+[0:34] toothpaste
+[0:35] resulits-
+[0:37] at च
+[0:43] Comurols
+[0:44] embedded
+[0:45] bristles:
+[0:46] far a
+[0:47] am | ६
+[0:49] cil
+[0:50 - 0:51] usmit
+[0:51] throw
+[0:52] replacement
+[0:52] usm
+[0:53] and
+[0:53] omit

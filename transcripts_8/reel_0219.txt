@@ -1,0 +1,87 @@
+# model: ggml-large-v3
+========================================================================
+[219] https://www.instagram.com/reel/CrogSsJtZce/
+STATUS: OK
+DURATION: 0:46   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] It's been about two months since my last haircut, hence the pretty long hair.
+[0:03 - 0:10] And before anyone asks, the top I'm wearing is a slim-fitted, pure linen green shirt from Suit Supply.
+[0:10 - 0:13] I've just booked my appointment at a men's salon.
+[0:13 - 0:17] Unlike barbers, they specialize in dealing with longer hairstyles.
+[0:17 - 0:19] Here we are.
+[0:19 - 0:26] I always shampoo and condition at home, keeping my hair quality uniform and giving my stylist more time to cut.
+[0:27 - 0:32] I asked for de-thickening and a messy middle part style with sides that can go behind the ear.
+[0:32 - 0:38] I had my stylist use scissors only, layering with side cuts to avoid a blocky look.
+[0:38 - 0:40] I'm quite pleased with the final look.
+[0:40 - 0:43] They let me leave with a cookie, too.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] it's bee
+[0:00] bout
+[0:01] F monthsfsince
+[0:02] haircut
+[0:02] है ९"
+[0:03] long
+[0:03 - 0:04] g hair.
+[0:04] Se) lon
+[0:05] & (59 81016 5165|
+[0:06] e top ve miwearing
+[0:07] is a’slim/fitted
+[0:07] ३5० है
+[0:12] mae 1 मनन नि नी न ीः + ;)्ओ
+[0:12] ४०5०६ ३७७१0 CUT WITH THE TAILORED MODE APPL
+[0:12] TAILORED
+[0:12] my, appeintment
+[0:12] sit back, relens 67 Totomized ust PO"
+[0:12] oa enjoy an elevated darbern”g
+[0:13] WOOK YOURN
+[0:13] छत CUT WITH THE TALORED MOBILE APPL
+[0:13] THE SHOP
+[0:13] SERVICES STVUSTS.-_ EDUCATION CAREERS Ls
+[0:13] ata
+[0:13] men's Pal
+[0:13] AN DIEG
+[0:13 - 0:16] BEST MEN'S SALON IN SAN D
+[0:14] Lal
+[0:14] unis barfaersn's SALON
+[0:15] they
+[0:16] EDUCATION CAREERS ™
+[0:16] ABOUT ‘THE SHOP
+[0:16] SERVICES ‘STYusTS
+[0:16] longa
+[0:20] Pe i
+[0:21] i always shampoo
+[0:21] pil i
+[0:23] keeping
+[0:24] Uniform
+[0:25] 2 | my stylist
+[0:25] / yy el
+[0:26] more time to cut.
+[0:28] «रू thickening
+[0:29] CAN
+[0:29] ‘almessy
+[0:29] meg _
+[0:30] al part style
+[0:31] ca sides
+[0:32] है 2 ear.
+[0:33] Shy -
+[0:34] had Daylice
+[0:34] 7 झज
+[0:35] Roe 4 21
+[0:35] Mi हे
+[0:35] के . 60:
+[0:36] layering) with
+[0:38] blocky look
+[0:39] ५4८
+[0:39] milk ‘ pleased
+[0:39] Nay
+[0:39] Wed
+[0:39] Pr atl
+[0:40] final look
+[0:40] arr
+[0:43] __ ve with 8
+[0:43] fon,
+[0:44] Eookiextoo ss)
+[0:44] Ede

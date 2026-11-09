@@ -1,0 +1,107 @@
+# model: ggml-large-v3
+========================================================================
+[218] https://www.instagram.com/reel/Cr1x8GkPGhl/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Since I've got fine and flat hair, I maintain a stringent regimen of using volumizing shampoo and conditioner thrice weekly.
+[0:06 - 0:08] Dab you guys, never drag.
+[0:08 - 0:13] I always slick it all back, usually letting it air dry, basking in its natural state.
+[0:13 - 0:19] On a side note, I've been using retinol on my skin, and the purging phase is finally over after a week and a half.
+[0:19 - 0:21] I highly recommend it.
+[0:21 - 0:24] Because I'm running late, I'll be resorting to blow-drying.
+[0:24 - 0:28] Remember to remove the nozzle and set the device to medium temperature.
+[0:28 - 0:35] While it adds even more volume to the hair, it's worth noting that this process can cause damage if performed carelessly.
+[0:35 - 0:38] Choose wisely, my friend.
+[0:38 - 0:42] And now, the pièce de résistance, hairstyling powder.
+[0:42 - 0:50] When applying this miraculous stuff, aim to distribute it evenly, avoiding an unsightly concentration in any one area.
+[0:50 - 0:56] This product is, without a doubt, the ultimate solution for achieving impeccable volume and style.
+[0:58 - 0:59] We'll be right back.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] since ive got. |
+[0:01] finey& flat hair,
+[0:01] che
+[0:02] i maintain a
+[0:03] stringent regiment
+[0:04] volumizing sha
+[0:04] THE py
+[0:04] Owe
+[0:05] i Gomehitkeyaretr
+[0:05] “sony
+[0:05] १०५५४
+[0:05] The Rese;
+[0:05] 2५५५३.
+[0:05] ine
+[0:05 - 0:06] VOLUME
+[0:06] 1116० हैं
+[0:06] 51 iu,
+[0:06] ay we
+[0:06] See.
+[0:06] Heep
+[0:06] pty
+[0:06] SES
+[0:06] 20a
+[0:06] _ bey
+[0:06] wih
+[0:07] dab} youl guys
+[0:09] lifalways} Slick
+[0:10] Alt
+[0:11] dry,
+[0:12] basking in‘its
+[0:12] Niiyg
+[0:13] च्य State=
+[0:14] aa 17०9
+[0:14] 016,
+[0:15] PWS
+[0:17] re the purging
+[0:18] t latur,
+[0:18] 4Of;
+[0:18] na 2
+[0:19] faftenfa)
+[0:19] ४७७६०. 7
+[0:19] Rt yyy,
+[0:20] ishighly
+[0:21] recommend it
+[0:22] Unning late
+[0:23] oe bejresortin
+[0:24] t Pe g
+[0:25] 1 femove:
+[0:26] & set the
+[0:27] medium
+[0:29] while)
+[0:30] olu
+[0:30] 271
+[0:30] ib fie
+[0:32] t worth noting)
+[0:33] hat this process
+[0:34] Can cause ~
+[0:35] carelessly.
+[0:37] choose wisel
+[0:38] Y friend
+[0:39 - 0:40] piece dejrésistan
+[0:40] neem
+[0:41] haigstyling powder.
+[0:41] Salon
+[0:41] TALC
+[0:41] NET 106/0.3502
+[0:42 - 0:43] yling:powder.
+[0:43] न्ज् a
+[0:44] ZS 0
+[0:44] ie mirac
+[0:44] ulous stufft
+[0:46] 55. toydistribute
+[0:49] econcentration’
+[0:49] ALY i}
+[0:50] in area
+[0:51 - 0:52] , this product is,
+[0:53] ithe ultimate solution
+[0:54] e Ws
+[0:54] So Se
+[0:54 - 0:55] for achieving impeccable
+[0:55] “fora
+[0:56] 4 and style:
+[0:58] 4 है
+[0:58] श्र

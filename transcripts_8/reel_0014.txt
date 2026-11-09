@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[14] https://www.instagram.com/reel/DP7vDeQDeOW/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] What's a beauty secret that women gatekeep from men?
+[0:02 - 0:03] Volufleen.
+[0:03 - 0:07] And what it does is, once applied to skin, it promotes the production of fat.
+[0:07 - 0:09] So much so that girls were taking this stuff, mixing it in lotion,
+[0:09 - 0:12] and applying it on their bodies in areas where they wanted more fat.
+[0:12 - 0:15] I was like, okay, wait, I can experiment with this on my upper lip and my under eye bags.
+[0:15 - 0:17] And I noticed some change there.
+[0:17 - 0:19] So a lot of people suffer from eye bags, from hollowness.
+[0:19 - 0:21] They could benefit from experimenting with volufleen.
+[0:21 - 0:24] Now, the only drawback is the fact that it doesn't work for everyone.
+[0:24 - 0:26] Only a small percentile actually react to it.
+[0:26 - 0:29] Comment the word LOOKSMAX and we'll send you the full podcast.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] श्र
+[0:07] पे 00 ्
+[0:08] Y were rat
+[0:12] FAT
+[0:14] aff
+[0:15] NYS
+[0:15] ५१६
+[0:18] 1 आर
+[0:23] THAT
+[0:26] TOIT
+[0:28] atu

@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[171] https://www.instagram.com/reel/C5101CzP2zq/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] You get to take a breath from me
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iain‘t with ¢savi ngeurope
+[0:00 - 0:08] but they got some bangers / >
+[0:01] iain‘t\with, “fF europe’:
+[0:02] iain'twithes.
+[0:02] rope
+[0:02] but they/gotis
+[0:02] ers हू
+[0:03] Rate
+[0:03 - 0:08] iJain't with “saving europea)
+[0:04] 1191 with “saving europe”

@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[212] https://www.instagram.com/reel/CtKkpm7OwGQ/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I don't want to live in a hole anymore.
+[0:03 - 0:04] It makes me feel poor.
+[0:04 - 0:07] We are poor, but we're happy.
+[0:07 - 0:09] Come see, come saw.
+[0:09 - 0:11] Anyway, the views are better above ground.
+[0:11 - 0:15] Honey, I'm seven non-Foxy years old now.
+[0:15 - 0:17] My father died at seven and a half.
+[0:17 - 0:19] I don't want to live in a hole anymore.
+[0:19 - 0:21] And I'm gonna do something about it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] —s शक
+[0:01] idon
+[0:01] auWwanna live like
+[0:01] more.
+[0:01] thiseny
+[0:02] i don’t wannaillive like
+[0:02] this anymore...
+[0:03] aad
+[0:03] हैं
+[0:03] it makes me feel
+[0:05] Sap
+[0:05] AWS ETO CUUKCESIS
+[0:05] ल्‍्ड्ो
+[0:05 - 0:07] oe अ
+[0:06] Mer
+[0:07] कर happyz
+[0:08] | हैं.
+[0:09] Y | Dy
+[0:10 - 0:12] it’s only a matter of
+[0:11] itis
+[0:11] only/aimatter of
+[0:11] “ny A
+[0:12] time
+[0:12] ५ लि
+[0:14] lim
+[0:14 - 0:15] oldinow,
+[0:15] री a ;
+[0:16] By7=)
+[0:16] UWA
+[0:16] e€ missed out
+[0:16] onjallot
+[0:17] iido
+[0:17] stywanna live
+[0:18] like}thisjanymore
+[0:20] im) ome do
+[0:20] bout it.
+[0:21] wane Tf
+[0:21] jMoM
+[0:21] \MOOART I
+[0:21] mre
+[0:22] TANOAR
+[0:22] 20053 YRswp
+[0:24] Lael

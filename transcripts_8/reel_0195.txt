@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[195] https://www.instagram.com/reel/C0c-DUJpGBr/
+STATUS: OK
+DURATION: 1:00   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Please don't desert me, please don't desert me
+[0:04 - 0:08] Please don't desert me, I was up early
+[0:08 - 0:13] Up all night, I was scratching off the 30s
+[0:13 - 0:16] You make me feel dirty, tell me I'm disgusting
+[0:16 - 0:20] Tell me that you love me, but really you mean nothing
+[0:20 - 0:24] I don't wanna talk, no it's not up for discussion
+[0:24 - 0:29] You control my life, I feel like a fucking puppet
+[0:29 - 0:33] You keep telling me to shut it, okay baby alright
+[0:33 - 0:37] I remember nights we were dancing in the moonlight
+[0:37 - 0:41] I remember hiding, I was shy and I had stage fright
+[0:41 - 0:46] I remember crying, I just want you to be alright
+[0:46 - 0:50] Want you to be okay, okay baby alright
+[0:50 - 0:54] Want you to be okay, okay baby alright
+[0:54 - 0:58] All I want is you now, all I wanna do now
+[0:58 - 0:59] ♪ I was meant for you ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] छः jus
+[0:02] Tha
+[0:02 - 0:04] & you just grew up’
+[0:03] has
+[0:04] कं 2
+[0:05 - 0:06] me ‘old
+[0:07] प्र
+[0:07 - 0:09] me at18 years old:
+[0:08] me atil8ivearsjold
+[0:17 - 0:18] ७9७८ छछ:-0४७७० ७७७८ ७
+[0:30 - 0:31] 222
+[0:30 - 0:31] NAN
+[0:33] hie
+[0:34] Wis
+[0:36] ey पु:
+[0:44] 5 Ww WES =
+[0:46] PSS)
+[0:58] च्छ

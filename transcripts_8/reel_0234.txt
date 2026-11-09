@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[234] https://www.instagram.com/reel/Cn43c0GDhKQ/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] And I would just be a nobody and fuck man. I want to be somebody I want to be great like I
+[0:07 - 0:14] Want to inspire people how I was inspired and I want to show people that you can be whoever the fuck you want to be
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] and | would just be
+[0:01] eal,
+[0:02] ve as
+[0:02] a nobody...
+[0:03] a थी
+[0:04] -- somebody..
+[0:04] न ta.
+[0:05] |: wanna
+[0:08] Mt <3
+[0:08] WwGOART @:
+[0:08] MoM
+[0:08] Moan »
+[0:09] inspire people..
+[0:09] ae मे
+[0:10] | 1 ५/95 inspired
+[0:11] show people that
+[0:16] Zz . चऔ
+[0:18] La 4
+[0:18] 4 बँ

@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[161] https://www.instagram.com/reel/C6mptMoyR7G/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] All that work and what did it get me?
+[0:05 - 0:10] Why did I do it?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] look
+[0:00] Ore st tolend'up
+[0:00 - 0:02] tillion guys: ®
+[0:01] pul
+[0:01] milli
+[0:01] \ she
+[0:02] Le ५
+[0:02] lookspn:
+[0:02] xxed ju:
+[0:02] pulli
+[0:02] sett
+[0:02 - 0:06] sttgjen tojend!
+[0:03] कक्षा to है
+[0:03] looksmax» Ee ed ju
+[0:03] ing,
+[0:03] ili ou
+[0:03] sent
+[0:04] 1.511॥01॥ gi
+[0:04] नी जब
+[0:04 - 0:05] pul
+[0:04 - 0:09] looks
+[0:05] ixxed
+[0:05] Eto oi
+[0:05] Till
+[0:06] looksmax, ed
+[0:06] pulling;1!5/million 8
+[0:07 - 0:09] stig en
+[0:07 - 0:09] iong
+[0:08] looksmp. XX
+[0:08] 72०॥1७॥5!
+[0:09] syaxxed
+[0:09] pull
+[0:09] alsin

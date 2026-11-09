@@ -1,0 +1,89 @@
+# model: ggml-large-v3
+========================================================================
+[57] https://www.instagram.com/reel/DF_iRCvS1PU/
+STATUS: OK
+DURATION: 0:47   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] How do you deal with hate?
+[0:00 - 0:04] The one thing I learned about myself recently is I value myself more than others.
+[0:04 - 0:08] I know how I feel about myself, and I don't care what anyone has to say.
+[0:08 - 0:10] It's always been like that people looked at me differently.
+[0:10 - 0:14] They said some horrible things to me, but I still pushed them and I moved forward.
+[0:14 - 0:17] Is there a specific moment that strikes you when you were young,
+[0:17 - 0:18] when you realized that you were different?
+[0:18 - 0:23] Growing up, I didn't realize that at first until I started hitting like my teenage years.
+[0:23 - 0:24] I look different than most people.
+[0:24 - 0:26] Let's take advantage of this.
+[0:26 - 0:27] You can either risk your life to please others,
+[0:27 - 0:30] or you can live with your insecurities and make yourself feel better.
+[0:30 - 0:33] The people in Mogwards has helped me out with that a lot too.
+[0:33 - 0:34] Has anyone ticked you off on Mogwards?
+[0:34 - 0:35] No.
+[0:35 - 0:36] Everyone's been nice and respectful.
+[0:36 - 0:37] They respected the game.
+[0:37 - 0:40] I'm glad that you're helping people out when it comes to their confidence.
+[0:40 - 0:42] Especially from like a unique point of view, you know?
+[0:42 - 0:42] Definitely.
+[0:42 - 0:43] I've seen your posts.
+[0:43 - 0:44] They're amazing.
+[0:44 - 0:46] I've learned from you myself, so.
+[0:46 - 0:47] I'm very happy to be here, man.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] eth
+[0:01] The,one,thing
+[0:02] Dee
+[0:02] myself,
+[0:03] Ivalue
+[0:04] than others
+[0:05] “tree
+[0:05] a feel
+[0:05] e| it
+[0:05] Ww 4
+[0:06] and
+[0:07] anyone
+[0:08] always
+[0:11] cll
+[0:11] horrible
+[0:12] 10 116
+[0:15] moment
+[0:16] when you,were
+[0:17] realized
+[0:18] tll
+[0:18] youwere |}
+[0:18] ten
+[0:19] Yeah
+[0:20] realize
+[0:21] until!
+[0:22] keimy,
+[0:24] rey
+[0:25] advantage
+[0:27] please
+[0:29] insecurities
+[0:30] feel
+[0:31] cere
+[0:31] 0००३
+[0:31] ves
+[0:31 - 0:32] tener
+[0:31 - 0:33] eeses
+[0:32] sooo:
+[0:32] ao UF
+[0:32] 2eeet
+[0:33] 2608
+[0:33] coors
+[0:33] veser
+[0:35] everyone 5
+[0:36] respectful
+[0:38] that
+[0:39] it y )
+[0:39] 7,7. NS
+[0:40] especially,
+[0:41] unique
+[0:42] definitely |
+[0:43] ॥ ४९ seen
+[0:44] amazing
+[0:45] ue ioe सी
+[0:45] बे ०
+[0:45] eel

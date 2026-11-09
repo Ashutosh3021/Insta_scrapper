@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[129] https://www.instagram.com/reel/C8yDfZqp3fT/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] You're not real.
+[0:00 - 0:02] I'm real.
+[0:02 - 0:03] No, you're not.
+[0:03 - 0:06] This is not real.
+[0:06 - 0:07] Oh my god.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] we te
+[0:02] खच्ण््द्
+[0:04] 6 ही
+[0:05] b ms

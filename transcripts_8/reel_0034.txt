@@ -1,0 +1,73 @@
+# model: ggml-large-v3
+========================================================================
+[34] https://www.instagram.com/reel/DI4e1L0TxMM/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] want you to stick your tongue out completely like that it looks kind of weird looks funny but by
+[0:04 - 0:07] sticking your tongue out what you're doing is you're simulating having space in your mouth
+[0:07 - 0:12] to accommodate for it the hyoid is lifted all the way up because if your palate can't accommodate
+[0:12 - 0:17] your tongue the palate is likely narrower so if you've done this test and you've deduced that
+[0:17 - 0:20] you're recessed it's likely over for you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ral
+[0:00] Sette
+[0:00] Pte
+[0:00 - 0:01] aye Out
+[0:00 - 0:20] how to check if your
+[0:00 - 0:20] maxilla is recessed:
+[0:01] eat
+[0:02] aes
+[0:02] Rede
+[0:02 - 0:03] epi
+[0:02 - 0:08] 190१७ Out
+[0:03] ral
+[0:04] tes
+[0:04] ७६ Out
+[0:04 - 0:06] eet
+[0:05] sui
+[0:06] al aed
+[0:06] Fete.
+[0:07] ogi
+[0:07] ७ 2०
+[0:07 - 0:08] uate
+[0:07 - 0:08] tie,
+[0:08] eel
+[0:09] lio Rie ce, lest
+[0:09] - lau
+[0:09] कक ्र
+[0:09] we Out
+[0:10] alte ० oe dest
+[0:10] Win
+[0:10] Per =
+[0:10 - 0:12] Teague Out
+[0:11] ira
+[0:11] ८7४०
+[0:11] Tongue Out
+[0:11 - 0:12] edie
+[0:12] Aes
+[0:13] as | a
+[0:13] Tenge Our
+[0:13 - 0:14] ture,
+[0:14] Taye Out
+[0:15] Lay
+[0:15] के 1200,
+[0:15] A Fede,
+[0:15] Tenge Ost
+[0:16] fecal a
+[0:16] cod Feature
+[0:16 - 0:17] Tongue Out
+[0:17] F; ea
+[0:17] pod Fete
+[0:17 - 0:18] Cae
+[0:17 - 0:19] hal
+[0:18] 4 Fedine
+[0:18 - 0:20] Tenge Our
+[0:19] een
+[0:19] ००५ Fete “Tay Out
+[0:20] ial
+[0:20] Coals
+[0:20] A Retire

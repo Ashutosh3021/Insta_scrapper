@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[47] https://www.instagram.com/reel/DHPEMocRGH_/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:16] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] icomingitogetherto)lockiin}
+[0:00] ‘or this'st
+[0:00] MMer:
+[0:00 - 0:02] imejand|brosivariants)
+[0:01] brosyvariants)
+[0:01] ‘thisisummen)
+[0:02] OmMing tog
+[0:02] ifor this summer;
+[0:02] है ै
+[0:02 - 0:03] itolloc k¢iny
+[0:03] oath
+[0:04] hisisummer;
+[0:04 - 0:05] brossvariants)
+[0:04 - 0:06] falllcomingitogethentolloc kein
+[0:05] and)
+[0:05] ifort
+[0:05] ‘summer:
+[0:05 - 0:07] itogetherjtojlocktin}
+[0:07] falllcoming)
+[0:07] for
+[0:08] Rogethertollocdiin
+[0:08 - 0:12] forithistsummer:;
+[0:09] coming together tollockiin)
+[0:09] "जल है
+[0:10] fall
+[0:10] together,
+[0:10] 1115 summer:
+[0:11] Variants}
+[0:11] alllcomingytog
+[0:11 - 0:15] mejand|bros, Wel
+[0:12] meland|bros, Wel
+[0:12] iants)
+[0:12] Gif
+[0:12 - 0:13] allfco!
+[0:13] ithisist
+[0:14] meljand|bros)variants,
+[0:14] itogether
+[0:14] ifon?
+[0:14] his'summer:
+[0:15] 3) Variants)
+[0:15] failcoming|together to)
+[0:15] ‘fort
+[0:15] summ
+[0:15] pee

@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[114] https://www.instagram.com/reel/C9-e-kLSmnR/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Bro, he's maughing.
+[0:01 - 0:02] Bro, you're maughing.
+[0:02 - 0:03] Look at this guy.
+[0:03 - 0:04] This guy's maugher.
+[0:04 - 0:05] You probably know him.
+[0:05 - 0:07] Yo!
+[0:07 - 0:08] Yo, baby!
+[0:08 - 0:09] Yo, baby!
+[0:09 - 0:11] Yo, baby!
+[0:11 - 0:11] Yo, baby!
+[0:11 - 0:11] Yo, baby!
+[0:11 - 0:12] Yo, baby!
+[0:12 - 0:14] Yo, baby!
+[0:14 - 0:14] Yo, baby!
+[0:14 - 0:15] Yo, baby!
+[0:15 - 0:16] Yo, baby!
+[0:16 - 0:17] Yo!
+[0:17 - 0:19] Look at the camera directly.
+[0:19 - 0:20] Please.
+[0:20 - 0:24] Oh, my God.
+[0:24 - 0:24] Oh, my God.
+[0:24 - 0:25] Oh, my God.
+[0:25 - 0:26] I f***ed the s*** out of him.
+[0:26 - 0:27] No, I didn't do it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] vig
+[0:01] “mogginggggg”
+[0:02] aes
+[0:03] rat
+[0:03] Po it this guy:
+[0:03] Mig
+[0:04] Samara 2
+[0:04] Alay,
+[0:11] gab
+[0:12] प्र
+[0:12] come bi
+[0:14] Vat
+[0:14] ad pHa, ,
+[0:15] yr. Wi
+[0:15] ae जे
+[0:19] ONT,

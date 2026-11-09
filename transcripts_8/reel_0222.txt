@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[222] https://www.instagram.com/reel/CqmKKwhJ5rC/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Chami and Azai from the past
+[0:02 - 0:04] You mustn't stop at the gym
+[0:04 - 0:07] You must always strive for better physique
+[0:07 - 0:09] Mentality
+[0:09 - 0:12] And overall well-being of your body
+[0:30 - 0:32] you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] 10७5७
+[0:02] 7 theypast
+[0:03] you
+[0:03 - 0:04] you'musnit;stop)the gym
+[0:04] eal
+[0:05] you must always..
+[0:06] strive
+[0:07] str
+[0:07] ive
+[0:07] for a better physique
+[0:08] >a ये
+[0:08] for a better |
+[0:09] strive
+[0:09] for a better mentality
+[0:09] ite
+[0:10 - 0:11] and overall well goodness
+[0:10 - 0:11] of your health..
+[0:12] if » Oe
+[0:12] all. ५ 8५ ut. 68s
+[0:12] ty cw Rent.
+[0:16] SS न
+[0:17] mre
+[0:17] EROS
+[0:17] 2 te
+[0:17] pea
+[0:17] ort
+[0:17] Fie’.
+[0:17] eat
+[0:17] Coa
+[0:19] SS ७४
+[0:19] Pee es =
+[0:19] VA AAU
+[0:19] all
+[0:19] Ete iF
+[0:19] Al 1
+[0:19] 1 aN
+[0:21] Sei,
+[0:21] ८८८
+[0:22] Bes.
+[0:23] बन 2 +t हु 6 -
+[0:23] Hit
+[0:24] i 08
+[0:24] peli ee
+[0:24] ray
+[0:24] Pes
+[0:24] rae a
+[0:24] Gna
+[0:25] 1 6218
+[0:25] Zak
+[0:25] tll
+[0:25] Alin
+[0:26] हैः
+[0:26] wey,
+[0:27] th Ue
+[0:28] me 5
+[0:28] wil
+[0:28] Yt #3
+[0:28] foe
+[0:29] ces
+[0:29] oat
+[0:29] व्यय मी
+[0:29] her

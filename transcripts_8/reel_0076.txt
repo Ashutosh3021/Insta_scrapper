@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[76] https://www.instagram.com/reel/DDISfyATM0y/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Alright, so pretty much, I don't feel like writing, so I'm gonna talk this one out.
+[0:04 - 0:11] Well, it seems pretty clear that science doesn't fact, side, and it doesn't just stop the body, this is in general.
+[0:11 - 0:16] It is a Gregory Meyer quote, it's absolutely safe.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] श्र
+[0:00 - 0:21] POV: it's 2020 & you spent
+[0:00 - 0:21] the entire lockdown
+[0:00 - 0:21] looksmaxxing..
+[0:01] क्रँ
+[0:04] सा we
+[0:12] oe i
+[0:17] Or A
+[0:17] हु आए
+[0:18] tka

@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[238] https://www.instagram.com/reel/CnsvqukMuIk/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] What happened to you?
+[0:02 - 0:06] What happened?
+[0:06 - 0:08] Because this isn't you.
+[0:08 - 0:14] What would you know about me?
+[0:14 - 0:19] What would your presumption about me be exactly?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] = APPENED
+[0:01] tee
+[0:04] WHAT है “
+[0:05] HAT#HAPPENED
+[0:05] 423
+[0:06] Ban
+[0:06] ma SS
+[0:06] BECAUSE «
+[0:07] रत ८
+[0:07] BECAUSE THIS
+[0:08] ent’
+[0:08 - 0:09] | must ascend. It’s only a matter of time bro
+[0:11] WHAT i ॥ KNO
+[0:12] WHAT WOULD YOU KNOW..
+[0:12] 2 years ago, today
+[0:12] Flashback from January 9
+[0:13] ८७७
+[0:13] ABOUT
+[0:15] 41७
+[0:15] #के aw १
+[0:17] ite
+[0:17] 4०1 3
+[0:18] try
+[0:19] किम
+[0:20] oof
+[0:20] aN 4
+[0:20] 7080 +
+[0:20] Say STN
+[0:20] aie
+[0:21] {bia
+[0:21] Bos)
+[0:21] y ote
+[0:22] 2५४1
+[0:22] शेर
+[0:22] “190
+[0:22] 4 है
+[0:22] रा पन्ना

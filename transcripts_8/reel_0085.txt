@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[85] https://www.instagram.com/reel/DCIQZ6ly5jq/
+STATUS: OK
+DURATION: 0:41   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Got blackheads? Start cleansing consistently before bed, acne, get your hands on a spot treatment.
+[0:05 - 0:10] As for whiteheads? Here's where it gets tricky, because they often need a gentler approach.
+[0:10 - 0:12] That's where my favorite toner comes in.
+[0:12 - 0:15] With consistency, you can clear up those bumps in just two weeks.
+[0:15 - 0:20] The toner I've been using is from Equal Berry, and it contains an enzyme called Protease.
+[0:20 - 0:25] This enzyme gently exfoliates, tackling these comedones without a hint of irritation.
+[0:25 - 0:30] And with controlled sebum, large pores start to tighten up, leaving you with clean, smooth skin.
+[0:30 - 0:35] Truth be told, I'm on my second bottle already, and will be definitely keeping this in my routine.
+[0:35 - 0:41] I've seen significant improvements so far, so if you're looking to get one yourself, definitely check it out.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] blackheads
+[0:03] ene
+[0:07] mien
+[0:09] हैँ
+[0:11] bed
+[0:11] wll
+[0:12] wit h
+[0:14] bump
+[0:16] toner
+[0:16 - 0:17] BERRY
+[0:17] “from
+[0:17] ६९९
+[0:18] EQQUALBERRY
+[0:18] SWIMMING PO
+[0:19] called
+[0:20] protease
+[0:21] enzyme
+[0:21] est
+[0:21] on भा
+[0:22] a ie
+[0:22] exfo
+[0:23] hes
+[0:24] without
+[0:26] sebu m
+[0:26] SEBACEOUS GLAND
+[0:26] OIL SECRETE
+[0:26] THAT PA\
+[0:27] pores
+[0:27] eas
+[0:27] ONIB, GTERI
+[0:31] ‘3 4 d
+[0:32] itt!
+[0:33] and)”
+[0:33] tae
+[0:34] defi
+[0:34] Bihy
+[0:37] spa,
+[0:37] vemen ts
+[0:41] olit!

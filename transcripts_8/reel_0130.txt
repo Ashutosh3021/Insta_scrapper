@@ -1,0 +1,95 @@
+# model: ggml-large-v3
+========================================================================
+[130] https://www.instagram.com/reel/C8u4dIRSEsB/
+STATUS: OK
+DURATION: 1:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Determining whether your hairline is maturing or receding can be a bit tricky.
+[0:04 - 0:10] A mature hairline typically settles slightly higher on the forehead as you move from your late teens into your 20s.
+[0:10 - 0:14] This is a natural process and usually stabilizes.
+[0:14 - 0:22] However, a receding hairline often continues to move backward, creating an M-shape or a more pronounced thinning at the temples.
+[0:22 - 0:28] Male baldness is quite common, with over 20% of men experiencing hair loss by their 20s.
+[0:28 - 0:32] But don't worry, there are effective ways to maintain a great hairline.
+[0:32 - 0:35] I've found a two-step process that works wonders.
+[0:35 - 0:37] The first step is a foam from Groplex.
+[0:37 - 0:41] This foam not only stops hair loss, but also reverses it.
+[0:41 - 0:47] It contains a potent blend of minoxidil, ginseng, biotin, safflower, and ginger.
+[0:47 - 0:54] These ingredients not only stimulate hair growth, but also improve the health of your scalp to maximize the effectiveness of the foam.
+[0:54 - 0:58] I pair it with a 540 titanium medical grade roller.
+[0:58 - 1:03] Using this roller helps to boost growth by improving circulation in the scalp area.
+[1:03 - 1:08] The results are rather promising, and I can't wait to update you guys.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] determining
+[0:01] ita)
+[0:01] कर्क
+[0:01] bai
+[0:04] ee «८ i
+[0:04 - 0:06] ieee
+[0:07] ttt
+[0:07] a Cae
+[0:07] te aie
+[0:07] my ra
+[0:07] 2 है
+[0:07] “wane nn
+[0:07] all
+[0:08] iro
+[0:09] aa a
+[0:09] teens
+[0:10] Pn ५०४.
+[0:10] twenties™ ७0?
+[0:11] Pe) naturale
+[0:11 - 0:13] iid Balding
+[0:11 - 0:13] किले
+[0:14] loweve
+[0:15] 11173
+[0:16] continues)
+[0:17] bale!
+[0:17] Wid
+[0:18] thi
+[0:20] Inc
+[0:24] way)
+[0:24] ANS
+[0:27] ७ ७ '७ ७
+[0:30] Maintain
+[0:31] eft
+[0:31] line
+[0:32] sel |
+[0:33] a Po
+[0:33] tae
+[0:33 - 0:34] fess
+[0:34] 1८८
+[0:35] श्र
+[0:37] growplex
+[0:38] » only
+[0:39] » loss
+[0:40] 38150)
+[0:42] con,
+[0:43] len
+[0:44] ‘Res
+[0:45] ; bioti
+[0:46] लक कि.
+[0:46] er 2
+[0:50] ee re
+[0:50] improve
+[0:51] scal
+[0:52] m, axir
+[0:56] tita)
+[0:57] grace
+[0:59] his
+[1:00] grow,
+[1:01] improwngy
+[1:02] on nl
+[1:03] ain
+[1:03] Lif
+[1:04] results:
+[1:04] ‘ATFER
+[1:04] रण int
+[1:04 - 1:05] 10 Months
+[1:04 - 1:05] Regrowth Rate
+[1:05] promising
+[1:05] BEFORE
+[1:05] Improvement int
+[1:07] guys

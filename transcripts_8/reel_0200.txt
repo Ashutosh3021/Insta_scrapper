@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[200] https://www.instagram.com/reel/Cw_wOWQry22/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] When that light hits the sky, it's not just a call, it's a warning to them.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Tine
+[0:00] dilit
+[0:00 - 0:01] are you n
+[0:00 - 0:07] nice make up bro |
+[0:01] wor
+[0:01] ब्रा
+[0:01] be be
+[0:01] Mie
+[0:02] क्र makejup bro
+[0:02] secre
+[0:02] \ yume 3
+[0:02 - 0:05] are youlemojnow?”
+[0:03] anil
+[0:03] emojnow?”
+[0:04] aaa
+[0:06] are you cme now?”
+[0:07] are - emo now?”
+[0:08] ७ LG
+[0:09] wee
+[0:09] gow
+[0:10] Stegt
+[0:10] oat
+[0:10] 1 और
+[0:11] + * Beat
+[0:11] कैच

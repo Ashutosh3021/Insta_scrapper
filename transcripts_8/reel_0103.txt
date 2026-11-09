@@ -1,0 +1,84 @@
+# model: ggml-large-v3
+========================================================================
+[103] https://www.instagram.com/reel/C_i8Ammy5Kc/
+STATUS: OK
+DURATION: 1:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I've failed you guys. I accidentally shaved. I was just trying to trim and level out my beard,
+[0:04 - 0:09] and I ended up using the wrong guard level. But hey, No Shave September just started,
+[0:09 - 0:14] so there's still time to save the beard look. In the meantime, I'm taking advantage of my mishap
+[0:14 - 0:20] by doing my weekly clay mask treatments, which are a lot easier to apply without the beard in the way.
+[0:20 - 0:26] These masks are incredible for removing dead skin and absorbing excess sebum that can lead
+[0:26 - 0:31] to acne and blackheads. I'm using this duo clay mask. It's perfect because it targets both the
+[0:31 - 0:37] T-zone and U-zone of the face. For the oily T-zone, I apply a gray clay that provides deep cleansing
+[0:37 - 0:43] and long-lasting oil control. The U-zone gets a gentler touch with a white clay that moisturizes
+[0:43 - 0:48] while it cleanses. Now, the real challenge? Sitting still for 15 minutes while it dries?
+[0:48 - 0:54] It's super ticklish, but worth it. I spent that time tweaking things on mogwarts, and it flew right by.
+[0:54 - 0:56] After rinsing off, I'm going to apply a little bit of oil to my face.
+[0:56 - 1:01] It's crucial to moisturize immediately as the skin can feel quite dry. The result?
+[1:01 - 1:05] It's like having brand new skin. Can't wait to see how my beard turns out this time around.
+[1:05 - 1:07] Until next time, you guys.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ill,
+[0:01] SAW.
+[0:02] शा dis
+[0:03] eas
+[0:05] Ad 14
+[0:06] — wrong
+[0:09] Started
+[0:11] looks
+[0:12] $ meantime
+[0:14] hap /—
+[0:16] asky «™
+[0:20] finese
+[0:23] skin
+[0:24] Eosoroing
+[0:26] Gan.
+[0:28] (15114
+[0:29] clay,
+[0:29] de i
+[0:30] pPeniect
+[0:30 - 0:32] fae
+[0:31] italgeits
+[0:32] ane
+[0:33] हि 1 z
+[0:33] 4240
+[0:34] ०१८
+[0:37] fhe
+[0:38] lasulling)
+[0:38] ~o हु
+[0:39] COMtGO)
+[0:40] gine
+[0:41] ASK
+[0:41] entler
+[0:42] ६ रे
+[0:43] 151111765
+[0:44] i है —
+[0:49] per
+[0:50] worth
+[0:52] tweak
+[0:53] Mogwarts
+[0:53] eadeny
+[0:53] Mogwante™
+[0:53] tem
+[0:53] ight?
+[0:53] ०७७०७
+[0:53] ser
+[0:53] (७34७8
+[0:53] 9०७०)
+[0:53] ie aa
+[0:53] Maen
+[0:56] rinsing रे
+[0:58] २७.४४:
+[0:58] tely
+[0:59] an” S
+[1:00] नर oa
+[1:03] Gant
+[1:04] we \) हैँ
+[1:04] = beard. ~
+[1:05] है| A रह. ay
+[1:06] mtil
+[1:07] guys

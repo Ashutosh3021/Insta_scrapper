@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[224] https://www.instagram.com/reel/CqBb-haOmAE/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Chami and Zai from the past
+[0:02 - 0:04] You mustn't stop at the gym
+[0:04 - 0:06] You must always
+[0:06 - 0:08] strive for a better physique
+[0:08 - 0:10] mentality
+[0:10 - 0:12] and overall well-being as a footballer
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] 7 theJpast
+[0:02] * वजन
+[0:03] 118
+[0:03] 0॥10५9171 stop the gym
+[0:04] Lips
+[0:04] you’musnit;stop\the gym
+[0:04] $;1 3९४
+[0:04] int
+[0:05] you must always..
+[0:06] strive
+[0:07] str
+[0:07] Ive
+[0:07] for a better physique
+[0:08] 109 ae physique
+[0:09] strive
+[0:09] for a better mentality
+[0:10 - 0:11] and overall well goodness
+[0:10 - 0:11] of your health..
+[0:12] जिन
+[0:12] वन See
+[0:13] — ac he से 2०७१8 ५7
+[0:13] He! j
+[0:13] thy nay
+[0:14] ip 19
+[0:17] i sx
+[0:19] J 1०७३७
+[0:19] 30 3
+[0:20] ८ ba
+[0:20] Lae
+[0:21] sno
+[0:21] Wen
+[0:21] alo
+[0:21] | प्र
+[0:21] mrt
+[0:24] UN “4 te

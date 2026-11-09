@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[128] https://www.instagram.com/reel/C82wa6VSVq_/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] don't do it again astrid do what again
+[0:03 - 0:08] attach yourself to anyone who shows you the least bit of attention
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:08] “plenty of fish in the sea”
+[0:00 - 0:08] bro the sea’s contaminated
+[0:03] कार

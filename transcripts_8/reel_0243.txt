@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[243] https://www.instagram.com/reel/Ci8WOKLgdhX/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] SIGMA?
+[0:00 - 0:02] Now there's a SIGMA?
+[0:02 - 0:03] What the f*ck's a SIGMA?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] tat joo
+[0:00] a ऋ फल
+[0:00 - 0:01] Birth Da
+[0:00 - 0:02] Surname
+[0:00 - 0:02] Father N
+[0:00 - 0:02] Mother |
+[0:00 - 0:02] Birth Pl
+[0:00 - 0:02] Sex/Sexi
+[0:00 - 0:05] Given N
+[0:01] Anal jo
+[0:01] i ie o
+[0:02] ile
+[0:02] Birth 08
+[0:02] a जाना
+[0:03] है OF BEARER
+[0:03] PASEP ORT
+[0:03] eal
+[0:03] Rian
+[0:03 - 0:05] Surman
+[0:03 - 0:05] SHA
+[0:03 - 0:05] KAR
+[0:03 - 0:05] Nation
+[0:03 - 0:05] UNI
+[0:03 - 0:05] Date of
+[0:03 - 0:05] 26S
+[0:03 - 0:05] Place ०
+[0:03 - 0:05] SYRI
+[0:03 - 0:05] 27M
+[0:03 - 0:05] 26M
+[0:03 - 0:05] Eridarse
+[0:03 - 0:05] SEI
+[0:03 - 0:05] SSS
+[0:04 - 0:05] ‘SIGNATURE OF BEARER
+[0:04 - 0:05] paAcenony
+[0:04 - 0:05] Sry
+[0:04 - 0:05] yi Ne
+[0:04 - 0:05] ८730 ACE once asa
+[0:04 - 0:05] Sot

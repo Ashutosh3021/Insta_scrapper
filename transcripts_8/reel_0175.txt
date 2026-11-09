@@ -1,0 +1,71 @@
+# model: ggml-large-v3
+========================================================================
+[175] https://www.instagram.com/reel/C5lzjW-vOCe/
+STATUS: OK
+DURATION: 1:00   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Today, I thought, what better than to try Kohl on again?
+[0:03 - 0:09] You see, Kohl not only defines the eyes, making them more prominent and expressive,
+[0:09 - 0:14] but it also has a certain elegance to it, enhancing the overall eye area with a touch of tradition.
+[0:14 - 0:18] When applying it, I focus on the waterline.
+[0:18 - 0:21] That's the area right between your eyelashes and your eye.
+[0:21 - 0:28] Doing so really brings out the depth in your eyes, adding to that intense, captivating look.
+[0:28 - 0:33] However, it's crucial to choose a Kohl that is lead-free to avoid any harmful effects.
+[0:33 - 0:36] Your health is paramount, after all.
+[0:36 - 0:41] Interestingly, this period of Ramadan makes it an ideal time to reintroduce such a practice,
+[0:41 - 0:45] as it's considered Sunnah, aligning with traditional custom.
+[0:45 - 0:52] So, in the spirit of trying something beneficial and culturally resonant, I encourage you to give it a go.
+[0:56 - 0:58] Ramadan Mubarak to all.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] proday =
+[0:01] h ate
+[0:02] kohl ¥
+[0:04] Cin
+[0:05] not
+[0:05] जि जी
+[0:06] eyes
+[0:08] minent
+[0:10] psi
+[0:12] x08
+[0:21] eye
+[0:23] Wim =
+[0:24] (dept
+[0:24] agli
+[0:25] Hig
+[0:28] looks
+[0:29] ४५४८ ४८
+[0:30] hoose)
+[0:30] oe k
+[0:33] jhe ol,
+[0:33] 7} nn wi8"
+[0:33] fe.com
+[0:33] 40g"
+[0:33 - 0:34] gmand
+[0:34] lead.
+[0:34] jl ol,
+[0:35] paramount
+[0:35] joow Natural
+[0:35] niffesece
+[0:35] free’
+[0:35] gman Obed
+[0:37] cll
+[0:38] period
+[0:40] wes *-
+[0:40] et Ag
+[0:41] Pre)
+[0:41] Getic
+[0:41] eS हर
+[0:42] | wy as
+[0:43] sunnia
+[0:44] i is
+[0:44] aligning
+[0:45] customs
+[0:45] iit
+[0:53] हैः
+[0:54] pee
+[0:54] soy
+[0:56] vey
+[0:57] goin

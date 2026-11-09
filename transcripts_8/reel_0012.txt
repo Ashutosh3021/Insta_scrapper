@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[12] https://www.instagram.com/reel/DQAiyA9jfy4/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] what is bone smashing you're literally smashing your bones in an attempt to produce bone growth
+[0:04 - 0:09] in that localized area it falls in line with wolf's law where when you apply stress to a bone
+[0:09 - 0:14] the body reacts by producing more bone in that area it's flawed because one the result isn't
+[0:14 - 0:18] exactly appealing it's usually just inflammation two even if you did get results it would be
+[0:18 - 0:22] asymmetrical and three people that are doing it their issue isn't even their
+[0:22 - 0:25] bones they're simply trying to mask the real problem which is recession
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] के ०
+[0:00] श््ट
+[0:02] YOUR BONES
+[0:03] SE ee AE
+[0:03] हि आन as
+[0:07] fornur
+[0:07] teal
+[0:07 - 0:08] Load here
+[0:07 - 0:08] (body weight)
+[0:07 - 0:08] Wolff's Law
+[0:07 - 0:08] —— Head of
+[0:07 - 0:08] Tension and compression
+[0:07 - 0:08] cycles create a small
+[0:07 - 0:08] electrical potential that
+[0:07 - 0:08] stimulates bone deposition
+[0:07 - 0:08] and increased density at
+[0:07 - 0:08] points of stress.
+[0:07 - 0:08] here
+[0:07 - 0:08] Comprossion
+[0:07 - 0:08] Point of
+[0:07 - 0:08] no stress
+[0:08] fomur
+[0:11] 4 fi
+[0:16] ्क़
+[0:19] व्छ अछ+
+[0:20] THAT ARE

@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[163] https://www.instagram.com/reel/C6j3kmbyJCn/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] No!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] cut!
+[0:00 - 0:03] POV: you.asked forthe,
+[0:01] leon kenne:
+[0:01] ut (again)
+[0:02] POV: you 35/€७[0०ा the’
+[0:02 - 0:03] leon kennedy cut (again);
+[0:03] rao

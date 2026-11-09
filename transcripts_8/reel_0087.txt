@@ -1,0 +1,44 @@
+# model: ggml-large-v3
+========================================================================
+[87] https://www.instagram.com/reel/DB4WdLHSXGW/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] you do have a negative tilt your eyes but this is a unique look and it's not something that you
+[0:04 - 0:07] should forget about you look way better without the glass right this is you this is what we're
+[0:07 - 0:11] doing with your face contacts sunlight you're in australia you can easily get that grow your hair
+[0:11 - 0:16] out lean down to 10 and make sure your face is clean shaven and you're gonna live a whole
+[0:16 - 0:19] completely different life bro and that's what soft maxing can do for you all right well done
+[0:19 - 0:24] do you think i should do anything to my eyes like this tilt your eyes you can't change the tilt on
+[0:24 - 0:28] your eyes but look at how it doesn't really matter anymore because your eyes are yeah and you have
+[0:28 - 0:31] all these other features that come together and actually the eyes make you look more trustable
+[0:31 - 0:34] you're more approachable looking like this all right yeah i like that
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ileal
+[0:00] do)have)
+[0:01] ‘lla
+[0:02] ile)
+[0:03] पाक
+[0:04] हरे
+[0:05] for
+[0:06] \y Si
+[0:08] contacts
+[0:13] ty; 4 a
+[0:14] ish
+[0:18] canjdo)
+[0:19] Well)
+[0:20] ifshould|
+[0:21] Phe
+[0:26] anymore
+[0:27] your eyes
+[0:28] WY Nit
+[0:28] > jet
+[0:28] ETaye| |
+[0:29] come हु
+[0:32] approachable
+[0:33] Wee
+[0:33] right
+[0:34] illiketthat

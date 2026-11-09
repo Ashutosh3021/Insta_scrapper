@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[229] https://www.instagram.com/reel/CoI_8lYJPkY/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] ♪ Oh, who is she? Oh, who is she? A mystic and- ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:05] i hugged erie mewing for |
+[0:00 - 0:05] dear life..
+[0:05] re i
+[0:06] Des
+[0:07] Low
+[0:07 - 0:10] & it hugged me back & '
+[0:08] | 4 me back &

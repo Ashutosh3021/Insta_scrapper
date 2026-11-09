@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[225] https://www.instagram.com/reel/Cp9Zlo0JxQC/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I think my mask of sanity is about to slip.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] abe OTE
+[0:00] Suit
+[0:00] Nitin
+[0:00] गाए
+[0:00] ite
+[0:00] Ont
+[0:00] a ee
+[0:00] Sb tire
+[0:00 - 0:02] Sen
+[0:00 - 0:04] Date
+[0:00 - 0:07] Given N
+[0:01] हे अल की
+[0:01] TON
+[0:01] PAS
+[0:01] LDS
+[0:01] ETA
+[0:01] ys Ni
+[0:01] 3००५२
+[0:01] Bie
+[0:01] rsa
+[0:01] paras A CAE RY PE ATi 33/९६/०८७३
+[0:01] कर पक
+[0:01 - 0:02] 0०%&<«- ८०७९१ एए
+[0:01 - 0:02] Re ep
+[0:01 - 0:04] Surn
+[0:01 - 0:04] Natic
+[0:01 - 0:04] Place
+[0:01 - 0:04] 26:1
+[0:01 - 0:04] Endo}
+[0:01 - 0:07] Type
+[0:02] बा आओ,
+[0:02] Beers
+[0:02 - 0:03] Jaa
+[0:02 - 0:03] Bas”
+[0:02 - 0:03] i think my mask of sanity
+[0:02 - 0:04] 511
+[0:03] 2 ai
+[0:03] भा शक,
+[0:03] i pele
+[0:03] 34:27]
+[0:03] ise
+[0:03] Se? A
+[0:03] poems
+[0:03 - 0:04] ए०%७<«८ ८० ७८७१४ एए
+[0:04] Leer
+[0:04] ys Ne
+[0:04] BOS NS
+[0:04] is about to slip.
+[0:04] lees
+[0:04] ried
+[0:04] jeez!
+[0:04] - 2228
+[0:04] Ser SEA
+[0:04] Soe
+[0:04] 2820 (2०४४
+[0:04] प्स्स्स्दा
+[0:04] aS Se
+[0:05 - 0:07] Surname
+[0:05 - 0:07] Father N
+[0:05 - 0:07] Mother |
+[0:05 - 0:07] Birth Da
+[0:05 - 0:07] Birth Pl.
+[0:05 - 0:07] Sex/Sexi
+[0:06] Pie.

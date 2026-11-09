@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[139] https://www.instagram.com/reel/C7sK1hvSvRj/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] *Outro music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] likes\you?
+[0:03] tt One:
+[0:03] Silikeyye
+[0:03] ञ्स
+[0:04] noon
+[0:04] ikely.
+[0:05] an en

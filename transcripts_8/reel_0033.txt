@@ -1,0 +1,256 @@
+# model: ggml-large-v3
+========================================================================
+[33] https://www.instagram.com/reel/DI7IZJVzxsH/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] The Oofy Doofy Theory.
+[0:01 - 0:03] These are the four stages, rather the life cycle.
+[0:03 - 0:06] In the first stage, we're gonna call it Chad or Nothing.
+[0:06 - 0:07] She's in her prime.
+[0:07 - 0:08] Because she's in her peak, she's gonna have
+[0:08 - 0:11] a great preference for that 1% of matters.
+[0:11 - 0:13] The next stage is Chad ghosting.
+[0:13 - 0:15] And it could take multiple heartbreaks
+[0:15 - 0:16] before she realizes her worth.
+[0:16 - 0:18] From then, she's gonna shift to the next stage,
+[0:18 - 0:21] which is Plan Z.
+[0:21 - 0:24] When Plan Z initiates, she's suddenly open to settling,
+[0:24 - 0:25] especially when it comes to guys
+[0:25 - 0:28] that she wouldn't be deeming them attractive from the jump,
+[0:28 - 0:29] as you can see here in this clip.
+[0:29 - 0:33] - I didn't see anything romantic nor really felt that.
+[0:33 - 0:35] - And finally, we're at the last stage,
+[0:35 - 0:37] where Oofy wins by default.
+[0:37 - 0:39] Because he's not the first choice,
+[0:39 - 0:41] he's in fact the last choice.
+[0:41 - 0:43] But to be fair, he was chosen.
+[0:43 - 0:44] A lot of guys don't end up being chosen, so.
+[0:44 - 0:46] Now, I don't have a personal issue with Vinny,
+[0:46 - 0:48] but if you can afford to look smacks,
+[0:48 - 0:49] then you might as well.
+[0:49 - 0:51] Just clip your toenails, bro.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] (by Vetalt)
+[0:00] wes
+[0:00] Hore
+[0:00 - 0:04] ® oor
+[0:00 - 0:08] AD Ghosts
+[0:00 - 0:51] how chopped guys end up
+[0:00 - 0:51] pulling:
+[0:01] 196
+[0:01] PLA
+[0:01] Lat
+[0:01] jorce’
+[0:01 - 0:02] HOKE’
+[0:01 - 0:02] ba ( ey 1१2]
+[0:02] Ere ence |?
+[0:02] ATS /
+[0:03] Rates gg oS
+[0:03] Ae छ
+[0:03] Lest THe
+[0:03] PLAN 2 |@ OOFY
+[0:03] 1७०६ GSD 5)
+[0:03] dry
+[0:03] (ley Vette)
+[0:04] las |
+[0:04] Ley
+[0:04] (3) PLAN
+[0:04] Hoxe
+[0:04] ace”
+[0:04] oA ( a 1१2]
+[0:04] 1233
+[0:04 - 0:06] Lat v
+[0:05] Z |@ oorr
+[0:05 - 0:06] CHOKE
+[0:05 - 0:08] (४) Veta)
+[0:06] he O)
+[0:06] Sey)
+[0:06] LAN Z |@) OOFY
+[0:06] Ere
+[0:07] हि 39077
+[0:07] (४) Vette)
+[0:07] ae कं
+[0:07 - 0:10] Nor]
+[0:08] eck:
+[0:08] PLAN Z
+[0:08] (23 31॥
+[0:08] PREre
+[0:08] TRVE
+[0:08] Hoxe’
+[0:08] jorce™
+[0:09] ren
+[0:09] PRE
+[0:10] Ly B
+[0:10] TRY
+[0:11] OOFY
+[0:11] Hoxe’
+[0:11] (७) Veta)
+[0:11] PRere
+[0:11] Lat
+[0:11 - 0:12] of Ghosts
+[0:11 - 0:13] TRVE GI
+[0:12] iy 2 | O
+[0:12] ErER ence,
+[0:13] Gye
+[0:13] < Si Gtosts
+[0:13] PREFERENCE,
+[0:14] “ays
+[0:15] ‘Wai
+[0:15] rN a
+[0:15] ait 5
+[0:16] AKA A
+[0:17] Hoxe
+[0:17] t oa 49
+[0:17 - 0:19] PLAN 2 |@ OOF
+[0:17 - 0:19] Lat 4
+[0:17 - 0:19] jorce™
+[0:17 - 0:22] 2 Ghosts
+[0:18] AD_ Ghosts
+[0:18] PLAN 2 |G ००
+[0:18] CHOKE
+[0:18] (४) Vette)
+[0:19] a kes
+[0:19] uny
+[0:19] सांग:
+[0:20] ue O
+[0:20] (PLAN iz
+[0:20] ory
+[0:20] yore
+[0:20] iad
+[0:20] on ( a Dealt)
+[0:20] Lit FA
+[0:21] TRV!
+[0:21] Freres
+[0:21 - 0:22] JIN
+[0:21 - 0:22] Ey (by Veet)
+[0:22] PRErer
+[0:23] the
+[0:23] CHOICE
+[0:24] 5 TRE
+[0:25] aes
+[0:25] 5133
+[0:25] PREre
+[0:25] on ( 4 Veet)
+[0:25 - 0:26] D_Gkosts
+[0:25 - 0:26] wr Ss
+[0:25 - 0:27] LAT
+[0:25 - 0:28] ® oor
+[0:25 - 0:28] CHOKE
+[0:25 - 0:28] TRVE
+[0:25 - 0:28] jorce™
+[0:26] Gy Wh
+[0:26] ieory
+[0:26] oe Sy Veto)
+[0:26 - 0:27] aks
+[0:26 - 0:27] ग्स्स््त्हि
+[0:26 - 0:28] PLAN
+[0:27] 5233
+[0:27] है 51 क्री)
+[0:27 - 0:28] Ghosts
+[0:28] wr 8
+[0:28] PREre
+[0:28] (oy Veet)
+[0:29] Fuk
+[0:29] Samy,
+[0:30] 111
+[0:34] ~OOFY
+[0:34] Las Y oe
+[0:34] iy क्र)
+[0:34] CHOICE
+[0:34 - 0:35] rer
+[0:34 - 0:36] TRVE
+[0:34 - 0:37] \D_Ghosts
+[0:35] Orr
+[0:35] Oke
+[0:35] Moxe’
+[0:35] dry
+[0:35] ( हे कक)
+[0:36] PLAN Z (के Cory
+[0:36] Hoxe’
+[0:36] PRErER ENC,
+[0:36] LAT
+[0:36] jorce™
+[0:37] Fide
+[0:37] @® 0077
+[0:37] WINs
+[0:37] (oy Dest)
+[0:38] yey]
+[0:38] w AA
+[0:38 - 0:40] 105
+[0:39] + tke O
+[0:39] OSTS
+[0:39] ko के
+[0:39] Not
+[0:39] THOEE
+[0:39 - 0:40] PRE
+[0:40] ko ऋ
+[0:40] (किमी)
+[0:40] eye
+[0:40] x AR
+[0:41] © the QOPYEDOORY te.
+[0:41] Sar
+[0:42] PLA
+[0:42] ® oor
+[0:42] Nor
+[0:42] on Loy Veet)
+[0:42] PREFER ENC,
+[0:42] CHOICE
+[0:42 - 0:44] 90 Ghosts
+[0:42 - 0:44] TRVE
+[0:42 - 0:45] Hox
+[0:43] 12204
+[0:43] 0 6॥0श5
+[0:43] wee
+[0:43] Loy Vest)
+[0:43] ही से
+[0:44] roy
+[0:44] PLAN Z [७ 507
+[0:44] ret
+[0:44] Las
+[0:44] ANS
+[0:44 - 0:47] Ake
+[0:45] Cnty, \INS
+[0:45] TRY
+[0:45] boy Defalt)
+[0:45] rere
+[0:45] aid
+[0:45] Lat
+[0:45 - 0:46] ory
+[0:45 - 0:46] (3) PLAN Z
+[0:45 - 0:47] \D_ Ghosts
+[0:45 - 0:47] CHORE
+[0:46] Uiing
+[0:46 - 0:47] Lat th
+[0:47] Heo
+[0:47] 1603)
+[0:47] yee
+[0:47] (by Death)
+[0:47] Yan
+[0:48] [॥055
+[0:48] fect);
+[0:48] ९०६ (
+[0:48] Bet)
+[0:48] et aa a
+[0:48 - 0:50] PERE
+[0:49] FAS]
+[0:49] fcct);
+[0:49] 1१211
+[0:49 - 0:50] hosts
+[0:49 - 0:51] TRVE (
+[0:50] 205
+[0:50] (3] Neill
+[0:51] \D_ Ghosts
+[0:51] Sof
+[0:51] Jka
+[0:51] स्व
+[0:51] (PLAN Z
+[0:51] OOFY
+[0:51] Ake
+[0:51] Hoxe
+[0:51] Chr. WINS
+[0:51] ret
+[0:51] Lat,

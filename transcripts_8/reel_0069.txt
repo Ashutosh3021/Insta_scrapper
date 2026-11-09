@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[69] https://www.instagram.com/reel/DEQ0UsfSgw4/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] Thank you for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Ks you owe it to yourself to
+[0:00 - 0:06] debloat.at leastionce..
+[0:03] youjowe itt
+[0:03] © yourself, to
+[0:04 - 0:06] "you owe ittto yourself to
+[0:05] Re at east once:.

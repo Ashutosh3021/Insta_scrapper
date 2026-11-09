@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[177] https://www.instagram.com/reel/C5Ug4H8gQ8a/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] We'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Colley Closeint
+[0:00] itimatter
+[0:01] eye colondoesnit’
+[0:02] doesnt matter
+[0:03] carat
+[0:03] fal
+[0:04] Tol
+[0:06] or ail
+[0:06] —_ doesnitimatter’
+[0:09] idoesnitimatter’
+[0:10] matter’
+[0:11] wai
+[0:12] wes

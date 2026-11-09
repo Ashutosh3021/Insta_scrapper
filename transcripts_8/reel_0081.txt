@@ -1,0 +1,68 @@
+# model: ggml-large-v3
+========================================================================
+[81] https://www.instagram.com/reel/DCzxgjgzDxu/
+STATUS: OK
+DURATION: 0:52   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Do you have fine hair or thick hair?
+[0:01 - 0:03] If you're not sure, don't worry.
+[0:03 - 0:05] It's actually pretty common not to know.
+[0:05 - 0:07] But there's an easy way to find out.
+[0:07 - 0:08] The water bowl test.
+[0:08 - 0:09] Here's what you do.
+[0:09 - 0:13] Fill a bowl with water, pluck a single hair from your head,
+[0:13 - 0:14] and lay it gently on the water.
+[0:14 - 0:16] Watch what happens.
+[0:16 - 0:18] If it floats, you have fine hair.
+[0:18 - 0:20] But if it sinks, that means you've got thick hair.
+[0:20 - 0:22] Now, why does this matter?
+[0:22 - 0:26] Knowing your hair type makes choosing the right hairstyle and applicants so much easier.
+[0:26 - 0:29] For those with thick hair, which can be tougher to manage,
+[0:30 - 0:33] I recommend sticking to heavy-duty applicants like clay or pomade.
+[0:33 - 0:36] And for my fine-haired friends who might lack some volume,
+[0:36 - 0:41] try using a salt spray or texture powder to give your hair that extra boost.
+[0:41 - 0:45] If you're looking for where to get these applicants, check out Based Body Works.
+[0:45 - 0:48] I recommend them because they use all-natural ingredients,
+[0:48 - 0:51] which is a game-changer compared to other options out there.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Lay
+[0:01] 7 thick
+[0:03] ‘2 "Ge
+[0:05] My SW,
+[0:05] oy ४
+[0:07] out
+[0:08] & test
+[0:09] wee
+[0:10] fill
+[0:11] water,
+[0:11] aha
+[0:12] oars
+[0:24] oosing ५
+[0:24] CAT
+[0:25] ylle
+[0:26] ule,
+[0:26] much
+[0:26] wend
+[0:26] ye है
+[0:28] hair
+[0:28] २७2०
+[0:29] Rs ees
+[0:33] Pe pomade.
+[0:34] vil
+[0:41] है, Wy,
+[0:41] ian
+[0:42] NAY
+[0:43] | fi कक
+[0:44] “९८६
+[0:44 - 0:45] Based
+[0:46] recom
+[0:46] mend
+[0:47] Pan
+[0:48] atuljall
+[0:48] ४५७७, ७,
+[0:50] compared
+[0:50] rel
+[0:51] options

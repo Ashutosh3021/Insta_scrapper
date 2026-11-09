@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[52] https://www.instagram.com/reel/DGtjTFtRUOS/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] *Outro music plays*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] shair doesn
+[0:00] t matter
+[0:00] Stl
+[0:01] = doesnptimatter"
+[0:02] = doesnt ae |
+[0:04] 5818
+[0:04] 810710
+[0:05] TT) a
+[0:05] के िट७०७-
+[0:05] दस a
+[0:07] 10०
+[0:10] rh 3
+[0:11] Ze \s

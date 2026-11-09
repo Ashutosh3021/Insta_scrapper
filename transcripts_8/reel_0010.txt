@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[10] https://www.instagram.com/reel/DQPprTwE3sk/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] my friend clavicular he's looking to get further upper jaw advancement and then a lower jaw
+[0:04 - 0:08] advancement as well it would be basically a double jaw surgery and we call it laforte one because
+[0:08 - 0:11] he's working with the first base down here but he's also combining the surgery with rhinoplasty
+[0:11 - 0:17] so he's looking to get his nose not so upturned and he's also trying to get facial implants along
+[0:17 - 0:20] with all this on one surgery and it'll be weird especially in the beginning because it's going to
+[0:20 - 0:24] be a lot of inflammation so god knows how he's going to look like later on but honestly it's
+[0:24 - 0:28] his body at the end of the day he can do what he wants but do i think he's being greedy yeah and
+[0:28 - 0:31] He's willing to risk ending up botched for the chance of ascending.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] ee ५
+[0:05] कैता-
+[0:05] 5 1 48
+[0:05] Hoo
+[0:06] OSURGERY
+[0:06] ० कई bE
+[0:07] Les]
+[0:08] WITH THE
+[0:16] rag
+[0:16] a Yo |
+[0:17] yee
+[0:17] - 222
+[0:17] * 26” 5
+[0:17] een,
+[0:21] ATION
+[0:25] DAY
+[0:30] 149
+[0:30] हूँ

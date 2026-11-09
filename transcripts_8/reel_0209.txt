@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[209] https://www.instagram.com/reel/Ct5aeidPBD2/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] I'll see you next time.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] ° leon kennedy”
+[0:00 - 0:08] “babe stop you're not
+[0:02 - 0:08] ‘ actually Jeon kennedy”
+[0:03] Ob (8९ “babe stop you're not
+[0:03] ait
+[0:03] श्र
+[0:04] YOM
+[0:09] 9 V7
+[0:09] Sap?
+[0:09] कहे
+[0:11] 2027;
+[0:11] 7419 ¥
+[0:11] eee
+[0:11] wie
+[0:13] Ape
+[0:13] lh pee
+[0:13] 167
+[0:13] Wigan

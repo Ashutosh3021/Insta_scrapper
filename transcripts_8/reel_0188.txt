@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[188] https://www.instagram.com/reel/C4RmeCJpc1t/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] If you ride like lightning, you're gonna crash like thunder.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] P you डे like lighting...
+[0:01 - 0:03] if youtride like lighting...
+[0:05] you're gonna crash
+[0:06] like thunder.
+[0:07] ns sees
+[0:07] bs Abs
+[0:08] हैः
+[0:08] 3. पी
+[0:09] 52272:
+[0:09] Fi Dv
+[0:09] He A
+[0:11] hie

@@ -1,0 +1,137 @@
+# model: ggml-large-v3
+========================================================================
+[89] https://www.instagram.com/reel/DBPIdp5Si06/
+STATUS: OK
+DURATION: 0:57   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Retinol has always been a staple in my skincare routine, one of the most effective ingredients out there.
+[0:04 - 0:10] However, I recently discovered Bacuchiol, a gentle, plant-based alternative to retinol.
+[0:10 - 0:16] The standout feature of Bacuchiol is its compatibility with morning use, as it doesn't increase sun sensitivity.
+[0:16 - 0:22] If you're finding retinol too harsh, or you're simply looking to elevate your skincare regime, Bacuchiol might be your answer.
+[0:22 - 0:31] I use one from Equal Berry because it not only contains high-grade Korean Bacuchiol, but also ceramides and peptides that tighten and refine skin texture.
+[0:31 - 0:34] Also, don't let its girly packaging fool you.
+[0:34 - 0:38] It's important to remember that some of the best beauty solutions are often marketed towards women.
+[0:38 - 0:49] Impressively, 13 clinical tests have demonstrated a 41% increase in skin firming, a 300% boost in moisturization, and a 48% improvement in skin pores.
+[0:49 - 0:52] I apply it after my toner, each morning.
+[0:52 - 0:54] You can save retinol for before bedtime.
+[0:54 - 0:57] Give it a try and see the transformative effects for yourself.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] ple
+[0:02] ine,
+[0:03] pa ५
+[0:03] effective
+[0:04] रे ithie
+[0:05] Via
+[0:05] ever
+[0:06] — कनन-
+[0:06] शणण्ण- मई
+[0:06] fie Yaray eed tem tare
+[0:06] mb rarer nd caeiered td
+[0:06] cn wah ry we
+[0:06] asa conpentie os icteaoa te
+[0:06] = oven Sam
+[0:06] PeZFO (
+[0:06 - 0:09] "bakuchiol"
+[0:07] oO Ls
+[0:07] ARAALEOOADRGT ANE CORY SpGOLEUTOMNEACCAM — fh
+[0:07] ego
+[0:07] थ्थे
+[0:07] the
+[0:07] | कहे
+[0:07] Liman
+[0:07] nee en कम
+[0:07] काम मम मन
+[0:07] nad
+[0:08] s2cxsomwumerTun2sac.& 6) |) NovCham an |
+[0:08] plant
+[0:08] kuchiol, Pure
+[0:08] iat aerate हि!
+[0:08] sccm ००४००
+[0:08] coma
+[0:08] ete nt mn टन नम
+[0:08] ose
+[0:08] eee
+[0:08] ब्ल5७9
+[0:08 - 0:09] Cosmetic ingredient for
+[0:08 - 0:09] ormudation Natural
+[0:08 - 0:09] 55.00" - n stock
+[0:09] RS ZCKSGIMUImICrXTM%262C... Yr £5} | ) New Chrome aval
+[0:09] aktern
+[0:09] Pure Bakuchiol,
+[0:09] ‘alternative ~ Etsy
+[0:09] tural Retinol
+[0:09] अल cos sr at
+[0:09] cnc webs fri
+[0:09] sot pn 24 rang acre
+[0:09] A swe
+[0:09] < shore
+[0:11] प्र
+[0:11] Che SS
+[0:11] ture
+[0:13] tibility
+[0:14] कै 2. “आप
+[0:14] Xap)
+[0:14] aay
+[0:15] imerease
+[0:15] thy, a4
+[0:16] isi
+[0:17] fine)
+[0:19] te ie
+[0:19] ito)
+[0:21] hai"
+[0:21] bakuchiiol
+[0:22] aIN. SW Cf
+[0:23] 0७4
+[0:23] PAKUCH,
+[0:23] 300/101 8. 62
+[0:23] Weeden
+[0:23 - 0:24] DEEP CER,
+[0:23 - 0:24] Plumpin,
+[0:23 - 0:24] Serum
+[0:24] Berry.
+[0:24] 30m! / 1.01 FL.
+[0:25] contains
+[0:26] Kor,
+[0:26] mu Gey
+[0:27] an ee
+[0:28] ice)
+[0:28] (४ है
+[0:29] des
+[0:29] peptl
+[0:30] hten
+[0:32] alsowy
+[0:32] oor
+[0:32] कमाना
+[0:33] ily,
+[0:36] reg"
+[0:36] a ed
+[0:37] a YD
+[0:37] aye)
+[0:37] HOME
+[0:37] Utions
+[0:38] क्र =
+[0:38] (०७४०७
+[0:39] SSS
+[0:39] fessional
+[0:39] 13 Clinical Tests Completed!
+[0:39] hin Pi Eat
+[0:39] ‘aoa orem
+[0:39] $ 47222
+[0:40 - 0:42] $ Completed!
+[0:41] Trusted by Pr
+[0:42] Trusted by 11002
+[0:42] प्र Sa
+[0:43] crease
+[0:46] Stu
+[0:46] tion
+[0:47] mots
+[0:49] Skil
+[0:50] i na
+[0:52] orming
+[0:54] bed
+[0:55] ane)
+[0:56] | transfo
+[0:57] Yours

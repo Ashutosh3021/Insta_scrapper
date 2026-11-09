@@ -1,0 +1,132 @@
+# model: ggml-large-v3
+========================================================================
+[27] https://www.instagram.com/reel/DKdNV-xSnje/
+STATUS: OK
+DURATION: 1:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] - How to grow five centimeters in two weeks.
+[0:02 - 0:05] First, take Moringa daily to fill your body
+[0:05 - 0:08] with 97 nutrients, so you can...
+[0:08 - 0:10] - Your growth plates don't care about your Moringa,
+[0:10 - 0:12] and it doesn't have 97 nutrients, only 20.
+[0:12 - 0:15] And not a single one triggers linear bone growth,
+[0:15 - 0:17] after your plates have fused especially.
+[0:17 - 0:19] And once they're fused, it's game over.
+[0:19 - 0:21] No magical leaf is going to undo that.
+[0:21 - 0:24] - Vertical jump training.
+[0:24 - 0:28] You will do five sets of 10 jumps each, as high as possible.
+[0:28 - 0:30] This has been shown to increase bone density.
+[0:30 - 0:35] - Yes, plyometric exercises like box, jump, sprints,
+[0:35 - 0:36] they're going to stimulate bone density.
+[0:36 - 0:39] They activate osteoblasts and they improve bone strength,
+[0:39 - 0:41] but do they make your bones longer?
+[0:41 - 0:42] No.
+[0:42 - 0:43] - Take vitamin K2.
+[0:43 - 0:46] Vitamin K2 deficiency in children
+[0:46 - 0:49] was linked to shorter height, as K2.
+[0:49 - 0:50] - What does that even mean?
+[0:50 - 0:52] He's cherry picking an observational study
+[0:52 - 0:54] from a small group of people, kids,
+[0:54 - 0:56] that were deficient in vitamin K2,
+[0:56 - 0:57] and they were statistically shorter.
+[0:57 - 1:01] But there was no casual link, no growth boost, just correlation.
+[1:01 - 1:03] And in the study, nothing says that VK2
+[1:03 - 1:05] can cause growth spurts in healthy kids.
+[1:05 - 1:07] It's blatant misinformation.
+[1:07 - 1:08] And I'm not surprised,
+[1:08 - 1:10] he pretty much fluffs all his videos with facts,
+[1:10 - 1:12] and then he pushes a supplement afterwards,
+[1:12 - 1:13] like he's about to do right now.
+[1:13 - 1:15] - And buy the most affordable Moringa
+[1:15 - 1:17] on the entire internet.
+[1:17 - 1:19] - Gee, I wonder why it's affordable.
+[1:19 - 1:21] It's 800 milligrams of Moringa per serving,
+[1:21 - 1:23] which is a very small amount,
+[1:23 - 1:24] and you're getting trace amounts
+[1:24 - 1:25] of the vitamins that he mentioned.
+[1:25 - 1:27] - You won't find it at this price, and--
+[1:27 - 1:28] - Yeah, you can.
+[1:28 - 1:30] You can find it from a supplier for about $9
+[1:30 - 1:33] from his dropshipping supplier, Supplethrill.
+[1:33 - 1:34] You can get it right now for $9.
+[1:34 - 1:35] So it's a real shame,
+[1:35 - 1:36] because this guy used to put out
+[1:36 - 1:38] semi-decent content back then, Jose,
+[1:38 - 1:40] and now he's doing this.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] है भें
+[0:03] 2५७
+[0:04] ian
+[0:10 - 0:11] MORINGA
+[0:10 - 0:11] PURE
+[0:11] “97 NUTRIENTS”
+[0:14] NONE TRIGGER LINEAR BONE GROWTH
+[0:15] ae कफ
+[0:16] aii
+[0:22] 9155
+[0:22] Pats
+[0:27] the
+[0:29] - श्र
+[0:31] Www
+[0:32] Zod
+[0:32] — pee
+[0:33] Sa a
+[0:34] प्र
+[0:34] A Ey
+[0:35] CANS
+[0:36] ३1 oI
+[0:36] vTap z
+[0:37] x डा
+[0:37 - 0:39] POLYMETRICS:
+[0:41] ._YMETRIC:
+[0:46] Cs i
+[0:50] oi! Roe
+[0:53] Publi{jed
+[0:56] DEFICIENT IN
+[0:57] aol
+[0:58 - 1:00] THERE was
+[0:59] CASI was
+[0:59] ._ Mae
+[1:00] minal
+[1:03] ry ne
+[1:04] Son
+[1:04] oma
+[1:04] SS आस
+[1:04] है. YA
+[1:06] “हूँ
+[1:12] nee,
+[1:16] Ses
+[1:16] (0५5
+[1:20 - 1:23] “MORINGA PURE” NUTRITION LABEL
+[1:20 - 1:23] Supplement Facts
+[1:21] er Ci
+[1:21] nts: Hyprome
+[1:22] t Por
+[1:22 - 1:24] Serving Size: 2
+[1:22 - 1:24] Servings Por Cont:
+[1:22 - 1:24] etable
+[1:23] ing
+[1:23] nts
+[1:24] Supplem
+[1:24] nt Facts
+[1:24] er: 30
+[1:24] 7Amount Por
+[1:24] "Serving
+[1:24] Daily
+[1:24] z Oretera (ed
+[1:24] ly Value not establishes
+[1:24] ‘Other Ingredients: Hypromel
+[1:24] capsule)
+[1:28] ” ees
+[1:29] है 4
+[1:30] ॥0,20
+[1:31] हैः
+[1:31 - 1:33] [0 supliful
+[1:31 - 1:33] Moringa Pure|
+[1:31 - 1:33] $9.20
+[1:34] wet
+[1:38] nny |
+[1:39] Vaal

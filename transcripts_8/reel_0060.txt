@@ -1,0 +1,63 @@
+# model: ggml-large-v3
+========================================================================
+[60] https://www.instagram.com/reel/DF1dPX1Jddx/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I just noticed something you see that sideburn that you got going on over there that sideburn
+[0:05 - 0:08] has to go because it's too long you have to shorten it and I know exactly what happened
+[0:08 - 0:12] because you're not shaving bro you don't have a beard to shave you want it to stop right here
+[0:12 - 0:17] it's too long what it does is it hides away your jawline it makes your ramus you know the ramus the
+[0:17 - 0:20] part that actually makes the jaw look really nice from the side can't really see it but when you
+[0:20 - 0:25] shave that your jaw becomes crazy bro keep the sideburns trimmed trim that you're gonna thank
+[0:25 - 0:28] me but it's an instant instant upgrade right there how's margaret's been for you brother
+[0:28 - 0:31] It's going pretty well. I joined recently. I really like it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] iT हक
+[0:01] | just noticed
+[0:02] a You
+[0:02] see,that
+[0:03] that you
+[0:04] that’sideburn
+[0:05] has to 7
+[0:06] too <
+[0:07] ae shorten it
+[0:07] eee 2
+[0:08] exactly
+[0:08] SES
+[0:08] so Vp
+[0:09] ot a
+[0:10] beard'to’shave
+[0:11] You.want it
+[0:12] La 4
+[0:12] ere
+[0:12] fer right h:
+[0:13] what it does
+[0:14] sil
+[0:14] yourjawline
+[0:15] A — e It mak
+[0:15] — पके.
+[0:16] है. < मं
+[0:16] yourramus
+[0:16] SS महक
+[0:18] § makes the jaw
+[0:19] § from the side
+[0:19] हा 3 Ba 2
+[0:20] है j
+[0:21] e youre
+[0:22] a keep
+[0:23] trimmed
+[0:24] Trim
+[0:25] & than! k me
+[0:26] an instant
+[0:27] ght. there
+[0:28] for.you
+[0:28] Sain LF
+[0:30] PZ by
+[0:30] चूहा
+[0:31] है: मो
+[0:31] f by पे
+[0:31] खन्ना: -_
