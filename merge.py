@@ -3,7 +3,7 @@ import os
 import re
 
 # Folder containing your TXT files
-folder_path = "transcripts_6"  # Current folder
+folder_path = "transcripts_8"  # Current folder
 
 # Output file
 output_file = os.path.join(folder_path, "complete_reel.txt")
