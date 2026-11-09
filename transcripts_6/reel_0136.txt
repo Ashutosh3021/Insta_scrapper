@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[136] https://www.instagram.com/reel/DN4bNirDDbM/
+STATUS: OK
+DURATION: 0:45   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] With the mouth being open, even though that is a way of breathing, it is not the most efficient
+[0:04 - 0:10] or effective way of breathing. It results in a reduction in the amount of oxygen that our body
+[0:10 - 0:15] absorbs into the system, and that has a knock-on effect. It affects our brains, it affects our
+[0:15 - 0:21] hearts, it affects our blood pressure, and also affects our jaw and teeth and gums. So these
+[0:21 - 0:27] things add up over time, and for children and adults alike, it is actually a serious health
+[0:27 - 0:34] problem that takes a slow but gradual toll on our well-being. But as a dentist, I can add,
+[0:34 - 0:41] I spot the mouth breathing with very shiny lips and funny way of gum being inflamed
+[0:41 - 0:45] only in the front. It can look red or bluish.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] Intash
+[0:00 - 0:14] CENT:
+[0:00 - 0:19] GUEST SPEAKER
+[0:00 - 0:45] health
+[0:00 - 0:45] WHY IS MOUTH-BREATHING A
+[0:00 - 0:45] RED FLAG? HOW TO SPOT IT?
+[0:00 - 0:45] THE GREAT MEWING EVENT
+[0:01 - 0:02] oom
+[0:02] aly
+[0:03] GUES
+[0:03] SPEAKER
+[0:04] agi
+[0:07] i Si
+[0:09] meee
+[0:10] | ँ 3 Ms
+[0:10 - 0:14] 13६
+[0:11] ~ sev
+[0:11 - 0:14] ale.
+[0:15 - 0:19] dENT:
+[0:17] a aS)
+[0:18] Bi a
+[0:19] 7 al
+[0:20] ong, |
+[0:20 - 0:24] GUES
+[0:20 - 0:24] SPEAKER
+[0:20 - 0:29] CENT:
+[0:21] lll
+[0:24] क्र
+[0:24] jay
+[0:25 - 0:39] GUEST SPEAKER
+[0:28] DROBLEMITHAT)
+[0:29] a जे
+[0:30 - 0:34] dENT:
+[0:31 - 0:32] rae
+[0:33] a me
+[0:34] big
+[0:35 - 0:45] CENT:
+[0:36] nea
+[0:36] ras
+[0:40] jay
+[0:40 - 0:44] Intash
+[0:40 - 0:44] GUES
+[0:40 - 0:44] SPEAKER
+[0:41] neat
+[0:42] जे 3
+[0:45] GUEST SPEAKER

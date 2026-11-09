@@ -1,0 +1,56 @@
+# model: ggml-large-v3
+========================================================================
+[177] https://www.instagram.com/reel/DEfNWb8MF7m/
+STATUS: OK
+DURATION: 0:50   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] rapid increase in interest in breathing i think that james nestor's book was just a huge leap
+[0:08 - 0:14] ahead he came to visit us um he stayed with me in my house we came and interviewed dad at my
+[0:14 - 0:19] sister's me and my father at my sister's and then we came up we stayed up because he was flying off
+[0:19 - 0:24] the next day so we came into london with me and it seemed an age it seemed something like two years
+[0:24 - 0:29] i heard absolutely nothing i'd almost forgotten about this guy and then all of a sudden wham the
+[0:29 - 0:36] book lands and whoa there's wave of interest and it's not just the waves are still coming
+[0:36 - 0:42] they still seem to come in this book seems to have been one of many but a really important
+[0:42 - 0:44] turning point you know getting that information out
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] ey x
+[0:02] sgl =)
+[0:02] INCREASE
+[0:04] BREATHING
+[0:14] DAD AND
+[0:15] SISTER'S
+[0:16] vai
+[0:17] AND THEN
+[0:18] WE STAYED UP
+[0:20] "रू अत
+[0:20] बिक
+[0:20] bere
+[0:22] IT SEEMED
+[0:23] LIKE TWO
+[0:24] Bins
+[0:24] HAD ABSOLUTELY
+[0:25] NOTHING
+[0:26] FORGOTTE!
+[0:27] CAT
+[0:28] SUDD!
+[0:29] THE BOOS,
+[0:30] AND
+[0:32] ii 2
+[0:32] ie ओ
+[0:33] WAVE OF
+[0:37] To COME
+[0:38] THIS BOOK
+[0:40] ONE OF MANY;
+[0:42] Mis,
+[0:42] TURNING
+[0:44] BY SUTHERE!!6 TO
+[0:44] THE
+[0:44] BY MIK
+[0:44] MEW
+[0:44 - 0:49] HELP SUPPORT THE CAUSE
+[0:45 - 0:49] BY SUBSCRIBING TO
+[0:45 - 0:49] THE MEWING APP BY MIKE MEW
+[0:48] | App Store | D> Google Pay |

@@ -1,0 +1,185 @@
+# model: ggml-large-v3
+========================================================================
+[2] https://www.instagram.com/reel/DfSSuy0oy4O/
+STATUS: OK
+DURATION: 1:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] The midterms have everyone looking at the Trump family again, even at their faces.
+[0:04 - 0:07] The one thing people keep asking me about is Ivanka's.
+[0:07 - 0:09] Now, look at an earlier face.
+[0:09 - 0:12] Like lots of us, she's grown back and down.
+[0:12 - 0:15] You could call it recessed or down-swung.
+[0:15 - 0:17] Now, look at the more recent one.
+[0:17 - 0:22] Forward-supported, defined jawline, chin and cheekbones.
+[0:22 - 0:25] That's what sometimes is called an anterface.
+[0:25 - 0:29] Forward-projected, well-developed facial form.
+[0:29 - 0:32] Now, I don't know what she's done for her transformation,
+[0:32 - 0:36] and I guess it's not exactly our business.
+[0:36 - 0:41] But here's how a face gets from one to the other.
+[0:41 - 0:43] You can fake it.
+[0:43 - 0:45] Dermal fillers, chin and cheek implants,
+[0:45 - 0:50] canthal tilt of the eyes corrected, under-eye area fixed.
+[0:50 - 0:53] Or you can rebuild it.
+[0:53 - 0:58] Double-jaw surgery moves the maxilla and the mandible bones forwards,
+[0:58 - 0:59] lifts or tightens.
+[1:00 - 1:04] It gives more support for the lips, the nose, and under the eyes.
+[1:04 - 1:09] Or you can actually grow a natural one.
+[1:09 - 1:14] Properly, step by step from the inside.
+[1:14 - 1:19] Less in yourself after growth, more in your children.
+[1:19 - 1:25] But only if you pay attention, especially in the first thousand days of life.
+[1:25 - 1:27] Two cost a fortune.
+[1:27 - 1:29] They are fixes.
+[1:29 - 1:30] With risks.
+[1:30 - 1:35] One of them is free, natural, and without any risks.
+[1:35 - 1:39] Guess which one nobody's selling you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] at the Trump family
+[0:02] ogre
+[0:02] fess
+[0:02] again
+[0:02] Pr 4 D
+[0:02] B) sou
+[0:02] WMIWBUSTLECOM
+[0:03] Wea,
+[0:03] ane
+[0:03] arr
+[0:03] ६59
+[0:03 - 0:04] even at their faces ५
+[0:04] way
+[0:04] Wid
+[0:04] ६०9
+[0:05] people keep
+[0:06] asking me about
+[0:08] = Seat
+[0:09] Tea face
+[0:10] of ७:
+[0:10] ‘SOURCE. VI @WORSE EVERY DAY
+[0:11] back andidow
+[0:13 - 0:15] Recessed or Downswung
+[0:16] f we
+[0:16] rec
+[0:17] ‘SOURCE शा ७५01
+[0:18] Forward-supported
+[0:19] Ait
+[0:19] Rit
+[0:19 - 0:20] fined jawline |
+[0:21] Yor Ones)
+[0:22] y IN
+[0:22] shin aiid)
+[0:23] पार्क
+[0:23] sometimes is called
+[0:24] can
+[0:24] sometii
+[0:24] is called
+[0:25 - 0:26] Ante Face
+[0:27 - 0:29] Ante race
+[0:28] e Face
+[0:28] aig
+[0:28] Sul form
+[0:28 - 0:29] (Ante means forward)
+[0:29] Dt <ailWes
+[0:29] Zui
+[0:29] facial for
+[0:30] FoR,
+[0:30] vad
+[0:31 - 0:33] TeX)
+[0:32] for Her, transformation
+[0:33] I gues
+[0:34 - 0:35] it’s [NOt exactly
+[0:37] Nas)
+[0:39] ANS
+[0:45] ILVA
+[0:45] Implai
+[0:45] chin and cheek implants
+[0:46] canthal tilt
+[0:46] source
+[0:46] IANDest
+[0:47] बडे
+[0:47] 1 the:
+[0:47] SOURCE YF @ORROVRINMD
+[0:48] Comment a caption Z
+[0:48] Ofithe eyes corrected
+[0:49] xed)
+[0:49] INADIRQHZ)
+[0:49 - 0:50] under-eye are
+[0:50] FOS
+[0:50] fixed
+[0:51] Pag
+[0:51] १५-९७
+[0:51 - 0:53] Or you can rebuild it:
+[0:54] urgery
+[0:54 - 0:56] ‘SOURCE: VI @OOTELVALERIORAMIER!-CHIRURS?O02
+[0:55] moves then
+[0:56] ayy
+[0:56] bane
+[0:56 - 0:57] ind the mandible, bones
+[0:57] HRY
+[0:58] Post-Op
+[0:58] te I
+[0:58] forwards
+[0:59] न्याय
+[0:59] ae 8
+[0:59] lift:
+[1:00] / tog
+[1:00] 1101 (0105 |
+[1:00] /A\ERIORAMIER!-CHIR
+[1:01] न 0 ३
+[1:01] 3377 mm?! Minimum Axial
+[1:01] ३0७/08 ४ @DOTTVA
+[1:01] ॥-0५॥२७६७702
+[1:02] 5 ane
+[1:02] forthe lips
+[1:02] TRIN
+[1:03] नहर
+[1:03] 10147 011 333
+[1:03] SOURCE VI QOOTIVALERORAMIER-CHIURS
+[1:04] NOTICE TatiIE) eyes
+[1:04] TALE
+[1:05 - 1:07] Or you can actually Grow.
+[1:08 - 1:10] a vee One| properly)
+[1:09] fea
+[1:09] a natural One properly
+[1:10] Ante F.
+[1:11 - 1:14] has a guideline
+[1:12] Stepyoy) Step
+[1:12] 421
+[1:12 - 1:14] source:
+[1:12 - 1:14] SNoutline}
+[1:13] from
+[1:13] inside
+[1:13] SNoutting}
+[1:14] from the) inside
+[1:15] Bal
+[1:17] a 59
+[1:19] more in your children
+[1:20] Lay
+[1:20 - 1:21] lyou pay attention
+[1:22] कश्यप
+[1:23] Sa ail
+[1:23] #- the first 1,000
+[1:23] days;
+[1:24] प्र
+[1:24] ॥11 115 1,000 days
+[1:26] 1. FAK
+[1:26] 2. RE
+[1:26 - 1:27] Two costa fortune
+[1:27] 2. REBUILD IT
+[1:27] 3. GROW IT
+[1:27 - 1:28] 1. FAKE IT
+[1:28] 2. — IT
+[1:28] They are fixes
+[1:29] They are
+[1:30] 48६
+[1:30] 1915
+[1:31] the i
+[1:33] is free, natural
+[1:33 - 1:34] 1. FAKE IT
+[1:33 - 1:34] 2. REBUILD IT
+[1:33 - 1:34] 3. GROW IT
+[1:34 - 1:35] and without any risks
+[1:38] fay
+[1:40] bas
+[1:42] IMI

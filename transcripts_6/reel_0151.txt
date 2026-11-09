@@ -1,0 +1,68 @@
+# model: ggml-large-v3
+========================================================================
+[151] https://www.instagram.com/reel/DMgDMliI0MX/
+STATUS: OK
+DURATION: 1:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] So we are very pleased to announce the great mewing event that will be on the 6th of September
+[0:07 - 0:15] at Logan Hall in University College London. So that's a large 900 seat auditorium in central
+[0:15 - 0:22] London. The tickets are £30 and this will be on the 6th of September, the day before what would
+[0:22 - 0:32] have been my father's 97th birthday. Now we've got a really good list of professionals and some
+[0:32 - 0:40] non-professionals coming to talk. We've got Bill Hang, Patrick McEwan, Rom Ede, John Flutter, David
+[0:40 - 0:45] McIntosh. Then of course I'm going to be talking about mewing developments, new things we're looking
+[0:45 - 0:51] at and doing and of course problems and how you can overcome problems. And also then it's going
+[0:51 - 0:52] to be a big event. I'm going to be talking about mewing developments, new things we're looking at
+[0:52 - 0:59] and how we can work better as a community and make better answers through science. If you want
+[0:59 - 1:04] to learn something, if you want to be there at a pivotal moment, I would attend this event. I would
+[1:04 - 1:09] highly recommend it. I would like to meet you. I will be taking questions as will everyone else.
+[1:09 - 1:16] This is here for you to learn, you to get better. It's the great mewing event. Thank you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ihe
+[0:06] 6th of
+[0:06] Hamlet
+[0:07] Log A OHINORRSTEY Concrete टली हर tendon
+[0:07] किक
+[0:08] 6th of Septembe'
+[0:08] Logan Hi
+[0:08 - 0:09] ity College London
+[0:09] ember
+[0:09] ‘Logan Hall Unis
+[0:09] arr
+[0:11] | जाके पाक
+[0:12] बन्ज्जय्ण्ण्त
+[0:13] नी डा
+[0:13] oie
+[0:14] SSS
+[0:14] (०७७.
+[0:14] ५५5
+[0:15] ४5५७६
+[0:19] | करन
+[0:21] AGA
+[0:27] से का
+[0:27] ayy
+[0:28] phe
+[0:28] / fis
+[0:30] थीज.
+[0:32] SOI
+[0:33] f ag
+[0:36] a Hang
+[0:37] Patrick Mckeown
+[0:40] Dr David Mcintosh
+[0:46] हिल.
+[0:47] cial
+[0:55] ND Ma
+[0:55] sams
+[0:59] ३६४,
+[0:59] UO WAN
+[0:59] on है
+[1:00] ges
+[1:01] / hs Don
+[1:02] हिल
+[1:08] sTAKING QU
+[1:11] 67 aw
+[1:12] ows |
+[1:13] hey
+[1:14] Jpg.

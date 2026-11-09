@@ -1,0 +1,61 @@
+# model: ggml-large-v3
+========================================================================
+[203] https://www.instagram.com/reel/DCR0xTFoHAZ/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] you know the idea that the the constriction of the jaws would constrict the airway was
+[0:06 - 0:11] totally foreign to me until i was you know privileged to learn from the dentist and the
+[0:11 - 0:15] orthodontist and of course it's one of those things when when someone says it it makes
+[0:15 - 0:21] perfect sense it's extraordinarily you know straightforward and simple premise is that if
+[0:21 - 0:27] you have a space that is constricted then the ent problem that may exist within that space doesn't
+[0:27 - 0:32] need to be anywhere near as bad as it would have otherwise had to be to then start causing these
+[0:32 - 0:36] pathologies that you know we trip over as ear knives and throat doctors but you know in effect
+[0:36 - 0:41] these people were set up to fail becomes one of those you know beasts that feeds itself because
+[0:41 - 0:48] if we have a nasal restriction then we have you know a touch of irritation and that leads to a
+[0:48 - 0:53] bit of blockage and then that is the trip wire to the you know far more in entrenched mouth breathing
+[0:57 - 0:58] you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] MOUTH 3
+[0:00] DR. ४६ ५
+[0:00 - 0:01] ING
+[0:00 - 0:01] CAUSES AND
+[0:00 - 0:01] OUENCES,
+[0:00 - 0:01] (OSH
+[0:01] MOUTH BI
+[0:01] DR, MIKE MI
+[0:01] DR. ४७ 9
+[0:03] STRICT
+[0:06] tate
+[0:07] ‘sel
+[0:08] है ef
+[0:10] ‘eet
+[0:12] toe
+[0:18] nal
+[0:19] RAIGHTFORWARI
+[0:21] whe
+[0:25] PROBLEM
+[0:29] AS BAD
+[0:35] 40५
+[0:37] WERE
+[0:38] FAIL
+[0:43] 7 ef
+[0:48] OF BLOCKAGE
+[0:51] FAR MORE
+[0:54] TON
+[0:54] कि Google Play
+[0:55 - 0:58] AUSE
+[0:55 - 0:58] ‘HELP
+[0:55 - 0:58] SUPPORT
+[0:55 - 0:58] SUBSCRIBING
+[0:55 - 0:58] HE MEWING APP 8)
+[0:55 - 0:58] MIKE MEW
+[0:56] NUS =
+[0:59] ida
+[0:59] wit ih
+[0:59] fib
+[0:59] fel
+[0:59] vane

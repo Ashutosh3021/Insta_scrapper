@@ -1,0 +1,56 @@
+# model: ggml-large-v3
+========================================================================
+[164] https://www.instagram.com/reel/DIClYJ-hzGw/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] The concept I put forward is called craniofacial dystrophy.
+[0:03 - 0:06] It means incorrect growth of the craniofacial complex.
+[0:06 - 0:08] And we can all agree it's not growing properly,
+[0:08 - 0:12] and something that ain't the right shape don't work proper.
+[0:12 - 0:14] It's not the right shape, and it sometimes doesn't look as good.
+[0:14 - 0:17] And that is a real double-edged sword.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] The concept | put
+[0:00 - 0:17] “Airway Answers with Nicole Goldfarb*
+[0:00 - 0:17] Ep. 49: Dr. Mike Mew: The Face
+[0:00 - 0:17] Behind The Mewing Movement, | om)
+[0:00 - 0:17] Reveals All
+[0:00 - 0:17] > Youtube
+[0:01] forward is called
+[0:02] craniofacial dystrophy.
+[0:03] o"Diswepn
+[0:03] It means incorrect
+[0:04 - 0:05] growth of the craniofacial
+[0:05] "Dison
+[0:05] Ls oe
+[0:06] 2 कप
+[0:06] complex, and we can all
+[0:06] के iii
+[0:07] o"Diswepn
+[0:07] agree it's not growing
+[0:07] a if
+[0:08] "Dison
+[0:08 - 0:09] properly, and something
+[0:09] Lr a
+[0:10 - 0:12] that ain't the right shape
+[0:11] 2 कप
+[0:11] don't work proper.
+[0:12] "Dison
+[0:13] and it sometimes
+[0:13] Pig
+[0:13 - 0:15] o"Diewopn
+[0:14] doesn't look as good.
+[0:15] And that is a real
+[0:16] "Dison
+[0:16 - 0:17] double-edged sword.
+[0:17] “Sao
+[0:18] + ED 2
+[0:18] © yout
+[0:18 - 0:23] ***\What is Craniofacial
+[0:18 - 0:23] Dystrophy?***
+[0:21 - 0:22] |» yout
+[0:23] Tube

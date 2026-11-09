@@ -1,0 +1,70 @@
+# model: ggml-large-v3
+========================================================================
+[120] https://www.instagram.com/reel/DPWQJsriFcs/
+STATUS: OK
+DURATION: 2:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Do teeth extraction prevent me from reaching my full genetic potential even if no retraction was done?
+[0:08 - 0:13] You're saying no retraction was done, so what, you didn't have any form of treatment?
+[0:13 - 0:19] Now, let's say, for argument's sake, you just had teeth taken out, but no treatment at all.
+[0:19 - 0:24] There is a, so two different things, you could have had your wisdom teeth out and no treatment.
+[0:24 - 0:28] Great. First of all, very few people are going to reach their full genetic potential.
+[0:28 - 0:37] I think I've had one patient who I think came close, and he was, I think he was brought up in the Amazon rainforest in a relatively remote tribe,
+[0:37 - 0:44] and he then went and had a westernised education around eight to ten years old.
+[0:44 - 0:47] He was clearly an exceptionally bright kid because he ended up working in the city in London.
+[0:47 - 0:58] So he, you know, you imagine this, you were born in a remote tribe, and you end up working in the banking industry in London city centre.
+[0:58 - 1:07] So you, you know, I don't argue, some people argue your life hasn't gone well, but clearly I think he had done very well, exceptionally well.
+[1:07 - 1:13] And of course he had actually gaps between his teeth, which I think is because his, anyway, listen, that wasn't the answer.
+[1:13 - 1:22] I don't think you're going to reach your full genetic potential, and of course it, it totally, the question is why you had extractions.
+[1:22 - 1:27] And if your extractions were just for decay, then maybe you've got your full genetic potential.
+[1:28 - 1:30] I can't tell you if you haven't.
+[1:30 - 1:39] But if your, your extractions were done because you had, there was a lack of space for the teeth, then you're already in a bit of a hole.
+[1:39 - 1:44] Now, it's very hard to get out of a hole.
+[1:44 - 1:49] It is. I mean, when you look at all the self-help books, when you look at all, I mean, that's what we're all doing.
+[1:49 - 1:57] Our objective is I'm coming out of a monetary hole, I'm coming out of an educational hole, I'm coming out of a psychological hole.
+[1:57 - 1:58] You know.
+[1:58 - 2:02] You know, we're defined by our problems, everything we're doing in life is to come out of a hole.
+[2:02 - 2:06] And you're, everyone's on that slippery slope, aren't they?
+[2:06 - 2:11] And if you're too far down and you don't make enough effort, no, you're not going to get out the hole.
+[2:11 - 2:16] And if you, you're not so far down and you make a lot of effort, then you can get out the hole.
+[2:16 - 2:22] And then incrementally, on that lip edge, that's where we are.
+[2:22 - 2:28] Then this is all your problems, all the way through your life, in every facet, in every angle.
+[2:28 - 2:33] And it is not so much about the situation and the state you're in.
+[2:33 - 2:39] It's often about how much effort you are going to make to get out of that hole.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:17] श्र
+[0:17] | OUT,
+[0:19] aS o
+[0:22] ISDOM
+[0:37] By ल्‍
+[0:44] Gs leds as
+[0:51] oy AS
+[0:56] Sa as
+[0:58] 3000.
+[1:06] Qs 3
+[1:07] ey G
+[1:09] oi त्णे
+[1:10] or EY
+[1:11] BECAUSE
+[1:23] yay
+[1:27] | ans
+[1:33] Sea
+[1:35] =e छा
+[1:36] SPACE
+[1:38] all
+[1:41] Yai
+[1:43] के. ९५ -
+[1:49] \ aay 7 -
+[2:02] poe’
+[2:04] e -॥ैं
+[2:06] वि ra
+[2:14] oom:
+[2:16] a TE
+[2:18] COS a
+[2:19] 5 जा
+[2:20] 7 J t E>
+[2:23] ae “Sy
+[2:29] > GaP ac

@@ -1,0 +1,56 @@
+# model: ggml-large-v3
+========================================================================
+[258] https://www.instagram.com/reel/C3VBr0vtVjO/
+STATUS: OK
+DURATION: 0:36   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] April 2021, May 2021, November 2021, April 22, December 22, and December 22, so what's this, a year and a half, possibly more?
+[0:21 - 0:35] I think it's changed his facial form, I think videos are often a better way of looking at it, because you get those multiple idols, you get movement, you get a better appreciation, and yeah, well done, you know, persistence pays pot.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Before | started mewing
+[0:00 - 0:02] (almost two years ago )
+[0:00 - 0:02] April 2021
+[0:00 - 0:02] DR. MEW RATES 2 YEAR
+[0:00 - 0:02] === MEWING
+[0:00 - 0:02] TRANSFORMATION
+[0:01] DR. MEW R
+[0:01] ATES 2 YEAR
+[0:01] हूँ १ |
+[0:02] row NX
+[0:03] श्र
+[0:09] Yas
+[0:11 - 0:12] बी का
+[0:14] ial
+[0:14] c aN
+[0:21] बी का
+[0:22] Echiyooo
+[0:22 - 0:24] Before | started mewing
+[0:22 - 0:24] (almost two years ago )
+[0:22 - 0:24] April 2021
+[0:23] [4 160
+[0:24] betti
+[0:24] Way
+[0:24 - 0:25] Fcriyooo
+[0:25] ookii
+[0:25] atl
+[0:26] ४५००
+[0:26] ५४८
+[0:26] ultiple,
+[0:26] ieee.
+[0:26] ign
+[0:27] ultiple,angle:
+[0:27] wth Lt
+[0:28] ment
+[0:30] बी XY
+[0:32] elldone
+[0:32] a है कै
+[0:33] persistence,
+[0:33] ली आर
+[0:33] 4007
+[0:34] nom.
+[0:35] Days) भर
+[0:35] नल चर
+[0:36] re कि

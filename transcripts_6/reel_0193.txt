@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[193] https://www.instagram.com/reel/DDXtq21vJt9/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] And I'm sure you're going to talk about it, is the presentation of the immune system and
+[0:05 - 0:08] the way the immune system is.
+[0:08 - 0:12] First point of the immune system, the breathing is the nose and the nasal complex.
+[0:12 - 0:15] You've got all these adenoids on tonsils, all this lymphatic tissue.
+[0:15 - 0:16] Why have you got it there?
+[0:16 - 0:18] Because this is a processing unit.
+[0:18 - 0:22] And we're just talking about using the body correctly.
+[0:22 - 0:24] Using the nose to breathe, that's what they're designed to do.
+[0:24 - 0:26] The mouth's not designed to breathe.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] NITY
+[0:00 - 0:01] HOW
+[0:00 - 0:01] ‘THING
+[0:00 - 0:01] Dr. Patrick
+[0:00 - 0:01] Keown
+[0:01] SUPPORTS
+[0:01] 1५7४
+[0:02] itl
+[0:03] eet
+[0:03] ३111६
+[0:04] ITATI
+[0:05] beer
+[0:05] ; 7 SYSTEM —
+[0:10] vem
+[0:13] as N
+[0:13] ILS
+[0:15] yg U
+[0:16] ६५०
+[0:16] nll!
+[0:16] WHY HAVE Y
+[0:17] aed
+[0:17] tas,
+[0:18] सका
+[0:19] क्र
+[0:20] ७७४ ॥ ७७
+[0:20] ey 3
+[0:22] हैं ores
+[0:23] SPs
+[0:25] eer’
+[0:25] aden
+[0:25] IGNED
+[0:26] sant
+[0:26] AppStore
+[0:26] Googie,
+[0:26] HELP SUMPORTTHE CAUSE
+[0:26] AY SUBSCIOAING TO
+[0:26] THE MEWING APP BY MIRE Mil
+[0:27 - 0:28] Google Play
+[0:27 - 0:28] =RIBING
+[0:27 - 0:28] MEWING
+[0:28] क्र
+[0:28] Ist
+[0:28] MIKE

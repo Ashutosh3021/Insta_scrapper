@@ -1,0 +1,61 @@
+# model: ggml-large-v3
+========================================================================
+[243] https://www.instagram.com/reel/C5oTCaWNcL2/
+STATUS: OK
+DURATION: 0:52   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] - Science by Muir.
+[0:01 - 0:04] Ever wondered why Muir works?
+[0:04 - 0:06] How it can enhance your facial structure
+[0:06 - 0:08] and the science behind it?
+[0:08 - 0:10] Let's dive in.
+[0:10 - 0:14] Meet your maxilla, upper jawbone,
+[0:14 - 0:17] the seat of facial beauty.
+[0:17 - 0:20] By applying proper tongue posture,
+[0:20 - 0:22] up, forwards and outwards,
+[0:22 - 0:25] consistently over long periods,
+[0:25 - 0:29] this bone can move.
+[0:29 - 0:30] The sutures of the top jaw
+[0:30 - 0:34] are designed to allow this bone some flexibility.
+[0:34 - 0:37] Understanding Newing is understanding
+[0:37 - 0:40] how these jaw bones moved.
+[0:40 - 0:43] And you can unlock the full potential,
+[0:43 - 0:46] gain more confidence, a balanced appearance.
+[0:46 - 0:49] And if you're ready to harness the power of Newing,
+[0:49 - 0:51] download the Newing app.
+[0:51 - 0:52] Give it a go.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] BEHIND
+[0:01] ind a
+[0:01 - 0:02] THE
+[0:02] Oude
+[0:03] लंड
+[0:04] How it can
+[0:07] the science:
+[0:13] jaw cay
+[0:13] Upper jaw bone
+[0:14] Jpy
+[0:15] he seat
+[0:18] ie yi
+[0:20] othe up
+[0:21] है हा]
+[0:26] Edi ted
+[0:29] thesutures;
+[0:30] jaw)
+[0:31] to allow)
+[0:33] some:
+[0:34] Sagi
+[0:34] aire
+[0:34] Lay
+[0:39] jaw bones;
+[0:41] unlock the,
+[0:43] तीज
+[0:44] confi aN
+[0:45] 2 का
+[0:45] or abal a
+[0:46] ६ AL “|
+[0:48] नट्र
+[0:49] 4७ “जब

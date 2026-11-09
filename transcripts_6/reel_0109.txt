@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[109] https://www.instagram.com/reel/DQXBPjUCMtD/
+STATUS: OK
+DURATION: 1:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] TM day dislocation is happening because of mewing because I use mewing technique since two years and now
+[0:06 - 0:14] My jaw always dislocated and lock whenever I yawn or eating burgers. What is the reason sir?
+[0:14 - 0:21] please help me most people rest with their tongue between their teeth their lips a little bit open and
+[0:21 - 0:24] Their jaw slightly open
+[0:26 - 0:31] Yeah, oh, maybe you could have your lips together. But even if your lips are together the tongue is still slightly between the teeth
+[0:31 - 0:35] That's a modern norm these days and the jaw slightly open
+[0:35 - 0:42] So then your jaw joint reforms to this position because it's going to reform to whichever position you leave it
+[0:42 - 0:48] In and the problem with mirrors is that it's not the mewing often. It's the chewing
+[0:48 - 0:53] I'm gonna guess you've started chewing and you're chewing quite a lot and it's the chewing
+[0:53 - 0:55] So what you had is you had a problem
+[0:56 - 0:58] And it was a sub acute problem
+[0:58 - 1:03] You had a difference when where you rested and where you chewed and I hadn't caused you any problems in your life
+[1:03 - 1:05] then you start chewing and
+[1:05 - 1:13] Now it's causing problems and that's causing most problems clearly as you said when you're yawning or eating burgers
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:22] bw me
+[0:23] श्र
+[0:23] २८ oi
+[0:23] Nes)
+[0:24] Si? यह
+[0:27] ASN
+[0:27] MAYBE
+[0:28] YOUR LIPS
+[0:28] TOGETHER
+[0:42] ra a aa नमः
+[0:42] ie ७
+[1:10] cole. Lal

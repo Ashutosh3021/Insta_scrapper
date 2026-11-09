@@ -1,0 +1,124 @@
+# model: ggml-large-v3
+========================================================================
+[45] https://www.instagram.com/reel/DW0xNtakqS-/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Okay, I don't know if you want a little bit of new history, but this was my CBR 1000 from when I was
+[0:07 - 0:14] young and stupid. When I went off to Denmark to specialise as an orthodontist, I put it in the
+[0:14 - 0:22] barn and that was what I left in 2001. It's not really been ridden since 2001. Brakes have locked
+[0:22 - 0:27] up but engine's fine. It was restricted because back in those days you couldn't have any more
+[0:27 - 0:34] than 100 horsepower in a motorbike. So there you go. It's up for sale. It's on eBay. Link's below.
+[0:34 - 0:39] You want to buy a bit of new history, here's my motorbike.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] LEB
+[0:00] wary)
+[0:01] amy!
+[0:01] bis
+[0:01] eee.
+[0:03] NBA
+[0:03] aa 4
+[0:03] aan)
+[0:03] tae
+[0:04] NRA
+[0:04] its
+[0:04] pen
+[0:04] a are
+[0:06] wee
+[0:06] Boe
+[0:08] fae
+[0:08] pom
+[0:09] 5 66 . हर
+[0:09] jeu
+[0:09] 1 if
+[0:09] fis
+[0:09] Eig
+[0:09] ‘sey
+[0:10] Lis of
+[0:10] Kg ee
+[0:10] aye
+[0:10] Pig:
+[0:10] f my)
+[0:11] है हर
+[0:12] Pia
+[0:12] ७24
+[0:12] ७६५)
+[0:12] be 5
+[0:12] ७80, %
+[0:13] oe SE
+[0:13] was
+[0:13] mst
+[0:13] eae
+[0:13] PT Se
+[0:15] ate! had
+[0:15] Noh,
+[0:16] Fee
+[0:16] sal |
+[0:16] Loi
+[0:18] rie
+[0:18] hoe
+[0:18] y ae
+[0:19] 20180
+[0:19] हि te a
+[0:19] pea जे
+[0:20] 2228
+[0:20] tral
+[0:20] we. हे
+[0:20] ५४३४
+[0:20] Ew + रे
+[0:20] tow
+[0:21] awe
+[0:22] 2223
+[0:22] ee ie tee:
+[0:22] Pome
+[0:22] Via
+[0:22] ४४६
+[0:23] 4 ७ न
+[0:24] 12 225
+[0:24] es eae ae
+[0:24] aaa 4.
+[0:24] Tes
+[0:25] aie
+[0:25] 4 हि
+[0:25] प्र.
+[0:25] Tae
+[0:26] eee
+[0:26] res.
+[0:26] BSS
+[0:26] hoe
+[0:27] Sot tat
+[0:27] saa
+[0:27] eve
+[0:27] Tee
+[0:28] 7-22
+[0:28] sae
+[0:28] ol Bt)
+[0:28] fis
+[0:29] 1६५७ 3
+[0:29] 4424
+[0:30] eed]
+[0:31] Petes
+[0:32] is = a
+[0:32] a ७७
+[0:33] ANG ७
+[0:33] oft.
+[0:35] Lig
+[0:36] 4 ky
+[0:36] std |
+[0:36] ray ३७४
+[0:36] Bie x,
+[0:36 - 0:37] Nees
+[0:37] ७9: 3 ५
+[0:37] Loe &4
+[0:37] tide
+[0:37] Hips
+[0:37] Tee
+[0:38] Re 2
+[0:38] hat #
+[0:38] fips
+[0:39] be ky
+[0:39] st Tas
+[0:39] Wie

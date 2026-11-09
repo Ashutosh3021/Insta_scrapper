@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[59] https://www.instagram.com/reel/DVRaSzPCKrk/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] So this one we can reference.
+[0:01 - 0:03] It says day one of doing chin tucks.
+[0:03 - 0:08] All right, so we'll do the chin tucks as my rosy version of a McKenzie chin tuck.
+[0:08 - 0:11] Day 700 and something of doing chin tucks.
+[0:11 - 0:14] Well, it's not just the chin tucks that changed, sir.
+[0:14 - 0:18] You seem to put on a lot of muscle in your shoulder and your face seems to have got better.
+[0:18 - 0:21] You seem to have had a general upswing in facial form.
+[0:21 - 0:22] But good, well done.
+[0:22 - 0:25] You know, you are making health gains.
+[0:25 - 0:26] You rock it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] si q
+[0:01] adayal
+[0:01] ofidoing
+[0:01] chin't
+[0:01] cKs
+[0:01] है 1
+[0:01] on बा
+[0:05] fona
+[0:05] side"profile
+[0:06] Se eee
+[0:09] chi
+[0:09 - 0:10] day)768\of
+[0:09 - 0:10] chin tucking
+[0:11] agi
+[0:12] है. ८
+[0:15] Magi
+[0:22] क्ष
+[0:27] aad

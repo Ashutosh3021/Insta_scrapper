@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[244] https://www.instagram.com/reel/C5ikyQHNbK0/
+STATUS: OK
+DURATION: 0:48   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I thought you'd like to catch up with what's been going on in the Mewing world.
+[0:05 - 0:12] I've written a little book, which is really just a sort of aide-de-memoire, as you might call it,
+[0:12 - 0:18] to remind you that you need to keep your tongue in the right place.
+[0:18 - 0:23] But the most important thing is to keep your lips together.
+[0:23 - 0:26] That is what causes the forward bend.
+[0:27 - 0:31] Keeping the tongue in the palate gets rid of your double chin.
+[0:31 - 0:39] But the most important thing, remember, is keep your lips in contact
+[0:39 - 0:45] and your tongue touching your palate day and night.
+[0:45 - 0:47] That is what is important.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] 6043
+[0:02] i ar
+[0:04] aac
+[0:06] iar
+[0:07] Orga -
+[0:09] ३ op
+[0:10] Pr ४
+[0:12] fovea
+[0:14] (ura
+[0:15] ७ fag ३
+[0:19] tie
+[0:20] Gaby
+[0:22] aa“ 2
+[0:23] mae
+[0:24] gar
+[0:25] ; 1५९ कुकर
+[0:27] iar — Zi
+[0:27] A TRS
+[0:28] eS 3
+[0:29] eta
+[0:29] 1 बन
+[0:31] hon
+[0:32] ६०१
+[0:33] sate
+[0:35] aar
+[0:38] Pris by
+[0:39] pra
+[0:40] Par
+[0:41] aay ee A
+[0:41] by ms
+[0:43] है 1 a \
+[0:43] fay"
+[0:44] vias
+[0:44] Son
+[0:45] asc
+[0:47] si: (Ne

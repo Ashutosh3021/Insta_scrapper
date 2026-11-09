@@ -1,0 +1,95 @@
+# model: ggml-large-v3
+========================================================================
+[253] https://www.instagram.com/reel/C3igfnxtKsJ/
+STATUS: OK
+DURATION: 0:52   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] truly intriguing is that we face a deformity the cause of which remains unknown to the vast
+[0:06 - 0:11] majority of orthodontists if orthodontists solution is straightforward align the teeth
+[0:11 - 0:16] within the existing structure this approach only provides a temporary remedy without addressing
+[0:16 - 0:22] the underlying cause the moment the orthodontic treatment is finished and the alignment is
+[0:22 - 0:28] achieved the teeth can relapse those who have undergone orthodontic treatment may relate to this
+[0:28 - 0:34] they're often handed retainers and told to wear them forever if the teeth don't stay straight
+[0:34 - 0:41] without a retainer then what is actually achieved our ancestors had well-aligned teeth from birth
+[0:41 - 0:46] to death without any assistance stop wearing retainers and the teeth may shift back to their
+[0:46 - 0:50] original position wear them and you are preventing them from moving to where they want to go
+[0:50 - 0:51] which i really worry about
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fai
+[0:00] y oN
+[0:01] Yaa?
+[0:03] defo,
+[0:03] A SSS
+[0:04] hich
+[0:05] nown
+[0:06] majority
+[0:07] orthodontists.
+[0:08] An orth
+[0:11] 1 का we
+[0:13] Jno
+[0:14] OIE
+[0:14] calf ins
+[0:14] ala A
+[0:14] fe |e
+[0:14] fie.
+[0:14] ea 1 1]
+[0:15] eS eae
+[0:15] tal = JEL
+[0:15] eae
+[0:15] 2291. 3 ee :
+[0:16] etc
+[0:16] PPT
+[0:16] EEE
+[0:16] ner
+[0:16] pre
+[0:16] wlll
+[0:16] one
+[0:16] EHEC
+[0:16] PT y
+[0:17] ze nen
+[0:17] a eal
+[0:17] DBV TF
+[0:17] हे गा tH
+[0:17 - 0:18] UNDERLYING
+[0:18] Fiat
+[0:18] Let
+[0:18] | परप्तह an
+[0:18] CAUSE
+[0:18] AEE
+[0:18] TE r HH
+[0:19] हम ०
+[0:19] ey. VD
+[0:20] aly
+[0:21] thea
+[0:21] Ti: . Wi
+[0:22] गा हा w=
+[0:25] unde
+[0:26] ortho,
+[0:31] ‘WEAR THIS FOR
+[0:31] 20years'
+[0:34] Vy toue
+[0:34] retainers
+[0:35] ievaliners
+[0:35] Pal
+[0:37] ved
+[0:39] Cor
+[0:39] W oo
+[0:40] ate
+[0:40] = YOU WON'T 7
+[0:40] THEIR
+[0:40] Aaa
+[0:41] ial
+[0:42] Chee |
+[0:42] ro as
+[0:42] कि हि कि;
+[0:42] amu
+[0:43] रद f
+[0:44] हि Y
+[0:45] may
+[0:47] Wear
+[0:48] preventi
+[0:49] towher
+[0:50] to go

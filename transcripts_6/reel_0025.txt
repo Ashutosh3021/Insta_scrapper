@@ -1,0 +1,109 @@
+# model: ggml-large-v3
+========================================================================
+[25] https://www.instagram.com/reel/DY6pM8ik5Ct/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] I think for more veneers, it's just bad.
+[0:09 - 0:13] Shaving down teeth causes permanent damage.
+[0:13 - 0:18] This procedure destroys healthy tooth structure for quick, unnaturally white, perfect teeth.
+[0:18 - 0:26] Veneers or crowns need to be replaced every 10 to 15 years, increasing the risk of infections and fractures.
+[0:26 - 0:29] Repeated replacements can lead to tooth loss.
+[0:29 - 0:32] It can potentially result in indentures and facial bone loss.
+[0:32 - 0:38] Instead, consider safer alternatives like orthodontics to naturally align your teeth.
+[0:38 - 0:43] Orthodontics may be slower, but it's much safer than destroying your teeth for veneers.
+[0:43 - 0:50] Please make sure you mew to improve your oral posture and facial structure naturally, creating a permanent result.
+[0:50 - 0:56] For healthier smiles, check out the Mewing app to learn more about safe and effective alternatives.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:06] bey
+[0:07] neo BERORE
+[0:07] VENEERS#IikS)JUSTT}
+[0:07 - 0:09] BAD!
+[0:08] Neen BEFORE
+[0:08] rey
+[0:08 - 0:09] VENEERS lih
+[0:08 - 0:09] yS) JUST
+[0:09] THINK(BERORE
+[0:10] Fes AVING
+[0:10] DOWN
+[0:10] 11: -1111
+[0:10] CAWSES
+[0:11] SHAVING'IDOWN
+[0:11] TEETH CAUSES
+[0:12] PERMANENT DAMAG]
+[0:14] हे Uns
+[0:14] MEEMH
+[0:14] कैफ
+[0:16] asad
+[0:16] ALLY
+[0:16] TEETH
+[0:16 - 0:17] FOR
+[0:16 - 0:17] WRITE’ PERFECT
+[0:16 - 0:18] UNNA
+[0:17] वीं
+[0:17] UNNATURALLY¢
+[0:17] EET
+[0:18] QUICK
+[0:18] URATIAY,
+[0:18] WHITEIREREEGT
+[0:18] EER
+[0:19] VENEERSIOR
+[0:19] CROWNS
+[0:20] 7२२८1२1२०७७८४८७०८४/८२॥७।०
+[0:20 - 0:21] 11550 गा8185&
+[0:20 - 0:22] TO15 YEARS
+[0:21] TONS YEARS
+[0:21 - 0:22] REPLACED) EVERY;10
+[0:22] NSS TOES
+[0:23] ee ot
+[0:23] |. जे THE
+[0:23 - 0:25] RISK OF INFECTIONS:
+[0:23 - 0:25] » AND FRACTURES
+[0:24] INCREASING THE
+[0:24] RISK(OFIINFEGTIONS
+[0:25] a HIE
+[0:26 - 0:28] REPLAGAMENTS CAN
+[0:26 - 0:28] LEAD TO TOOTH
+[0:29 - 0:32] QNDENTURSS AND
+[0:29 - 0:32] RESULTING 69
+[0:33] INSTEADIECONSIDER
+[0:33 - 0:36] SAFER
+[0:33 - 0:36] ALTERNATIVES) EIKE
+[0:33 - 0:36] ORTHODONTICS
+[0:34] ia CONSIDER
+[0:35] INSTEADICS
+[0:35] NSIDER
+[0:36] INSTEADICONSIDER
+[0:37] ALIGN YOUR: TEETH
+[0:38] हि । MAY,
+[0:38] BE SLOWER
+[0:39] ORTHOD
+[0:39] BES
+[0:39] LOWES
+[0:40] THAN SUNOS VO YOUR
+[0:40] NHC
+[0:40 - 0:41] BUT) ISIMUGHISAFER
+[0:40 - 0:42] TEETHIROR§SVENEERS
+[0:41] THAN (roe YOUR
+[0:42] 11211)
+[0:42] 80151 6565२
+[0:42] NG)YOUR
+[0:44 - 0:45] PEEASE{MAKE SURE
+[0:44 - 0:45] YOUIMEWING TO}
+[0:44 - 0:45] IMPROVE YOUR ORAL
+[0:44 - 0:45] “==POSTURE
+[0:46 - 0:48] FACIAL
+[0:46 - 0:48] STRUCTURE
+[0:46 - 0:48] NATURALLY
+[0:49] NENT HIER |
+[0:49] Fea EALTHIER
+[0:49] MILES
+[0:49 - 0:50] CREATING y
+[0:50] [6018 | FOR NEALTHIER |
+[0:53 - 0:55] mew
+[0:54] iad
+[0:54 - 0:55] BECOME A
+[0:54 - 0:55] MEWING MASTER

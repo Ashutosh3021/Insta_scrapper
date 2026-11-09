@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[33] https://www.instagram.com/reel/DYMPJLIjtxA/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] - Want to take your mewing to the next level?
+[0:03 - 0:05] Don't forget about posture.
+[0:05 - 0:07] Slouching can affect tongue posture.
+[0:07 - 0:09] It's a very simple mechanism.
+[0:09 - 0:16] As the head comes forward, the tongue's dropped down.
+[0:16 - 0:18] If your body posture and your neck posture ain't good,
+[0:18 - 0:22] you're gonna struggle to mew effectively,
+[0:22 - 0:23] or remember to mew.
+[0:23 - 0:25] Sit up straight, ensure your tongue
+[0:25 - 0:27] is on the roof of your mouth.
+[0:27 - 0:29] Practice makes perfect.
+[0:29 - 0:31] Set a daily routine, set daily reminders.
+[0:31 - 0:35] Consistency is always key.
+[0:35 - 0:38] Keep at it and watch your face transform.
+[0:38 - 0:41] If you want any tips and hints, get the app.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] int to
+[0:00 - 0:01] THE NEXT L
+[0:00 - 0:02] | ter YOUR
+[0:01] eae
+[0:01] wine rr G जे
+[0:01] \ Storie ne
+[0:02] next level?
+[0:02] ० La NEXT L'
+[0:02 - 0:04] ster
+[0:03] forget)
+[0:04] IMPAIRED
+[0:04] spa
+[0:04] eon
+[0:04] ete हज
+[0:04] cretion
+[0:04] fort ete
+[0:04] heise
+[0:04] eotorction
+[0:04] aoe
+[0:04] wer
+[0:04 - 0:05] 0 CORRECT|
+[0:04 - 0:05] posture,
+[0:04 - 0:05] DRAWBACKS OF
+[0:04 - 0:05] BENEFTTSOF
+[0:04 - 0:05] ‘ABAD POSTURE
+[0:05] ele
+[0:05] ki fF aya
+[0:05] reas
+[0:05] nando
+[0:05] segstvensod
+[0:05] stein,
+[0:05] eters
+[0:05] owt लक,
+[0:05] फल पल
+[0:05] मना
+[0:05] lett
+[0:05] eee)
+[0:05] ootcrtion
+[0:05] porte
+[0:05] ekg eed
+[0:05] Slouching:
+[0:06] can affect.
+[0:09] a vo
+[0:15] down.
+[0:16] १-81
+[0:18] 3५५४
+[0:19] ८ red
+[0:22] a Or rememb:
+[0:22] Lt ge
+[0:29] 3323 2)
+[0:31] minders.
+[0:33] कै al
+[0:34] — अशलर रा.
+[0:36] sey i
+[0:38] = any tips
+[0:40] yom
+[0:41] ome the ae.

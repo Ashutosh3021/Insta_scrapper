@@ -1,0 +1,107 @@
+# model: ggml-large-v3
+========================================================================
+[80] https://www.instagram.com/reel/DTz2VB2CN5X/
+STATUS: OK
+DURATION: 3:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Back in London, last day of the trial, this is where it counts.
+[0:04 - 0:09] Now, this monument behind me always reminds me of my father.
+[0:09 - 0:14] I remember as a young child coming up here to see the Golden Hind.
+[0:14 - 0:17] They'd just built this replica of a boat that I think had gone round the world.
+[0:17 - 0:21] And he brought me up, and I just remember standing in front of this monument,
+[0:21 - 0:26] and I got the impression it was related to the Golden Hind, as you would as a young boy.
+[0:27 - 0:31] However, here I am, back in London, for the last day of the trial.
+[0:31 - 0:35] It reminds me that this is the third generation of my family
+[0:35 - 0:41] that's been on this path to try and get changed, make people better.
+[0:41 - 0:47] And of course, my father started all of this,
+[0:47 - 0:49] trying to push for debate on why people are crooked.
+[0:49 - 0:53] He kind of almost emulated me in that.
+[0:53 - 0:56] I came along 20, 30 years later,
+[0:56 - 0:59] and I had this six-year letter-writing campaign,
+[0:59 - 1:01] writing to every...
+[1:01 - 1:05] I exhausted every single possible avenue
+[1:05 - 1:09] in my attempt to gain some form of debate on why people are crooked.
+[1:09 - 1:13] You know, the orthodontic speciality, my speciality,
+[1:13 - 1:16] for treating a large percentage of the population,
+[1:16 - 1:20] admitting openly, you know, look at the court records,
+[1:20 - 1:22] openly admitted they have no idea.
+[1:22 - 1:24] They then came to the idea it's multifactorial.
+[1:24 - 1:26] Well, everything's multifactorial.
+[1:27 - 1:29] And hey, tell me, which factors...
+[1:29 - 1:31] That'd be a good start.
+[1:31 - 1:34] Anyway, in the entire career of my father,
+[1:34 - 1:38] he never had any meaningful discussion
+[1:38 - 1:42] on any subject within orthodontics.
+[1:42 - 1:46] He did have a couple of very carefully stage-managed events,
+[1:46 - 1:50] like, for example, the public hanging in Manchester
+[1:50 - 1:52] that Kevin O'Brien organised.
+[1:52 - 1:54] Yeah, I'd love to have a chat about that, Kevin.
+[1:54 - 1:56] So, here we go.
+[1:56 - 1:59] You know, after court, to see, to do or to die,
+[1:59 - 2:01] to try and push forward science,
+[2:01 - 2:03] to, you know, we want debate, you know.
+[2:03 - 2:09] I'm not trying to stand on the same bandwagon my father
+[2:09 - 2:12] and say I have all the answers, because I don't.
+[2:12 - 2:15] But I am asking the right questions,
+[2:15 - 2:17] important, sensible questions,
+[2:17 - 2:21] like, why are people crooked?
+[2:21 - 2:23] What is the cause?
+[2:23 - 2:26] Because it's unacceptable, as a profession,
+[2:26 - 2:29] to be treating the majority of the profession,
+[2:29 - 2:33] the public, sorry, at a young age,
+[2:33 - 2:35] often multiple times,
+[2:35 - 2:39] and not only openly admit that you don't know
+[2:39 - 2:40] the cause of the problem,
+[2:40 - 2:44] but literally avoid, at all cost,
+[2:44 - 2:47] any form of engagement or to debate,
+[2:47 - 2:51] and then to rule on me when you don't understand the cause,
+[2:51 - 2:56] the epidemiology, the pathology, or the cure of the problem.
+[2:56 - 3:00] Come on, all our ancestors had space for 32 teeth, or more.
+[3:00 - 3:02] Now we're struggling to have space for 28.
+[3:02 - 3:06] Something's going on there, and we need answers.
+[3:06 - 3:06] We need debate.
+[3:06 - 3:10] And I hope to hell, winning this court case,
+[3:10 - 3:13] or the win, I get off, that's a win,
+[3:13 - 3:16] will help propel this forward, so that we just get discussion.
+[3:16 - 3:20] Come on, that's science, open debate.
+[3:20 - 3:23] Right, here we go.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] duly
+[0:05] । dil
+[0:05] - जन a
+[0:05] क्र है
+[0:10] fins
+[0:10] aad,
+[0:10] Tas!
+[0:15] avs
+[0:20] Pelle
+[0:30] ania ti hm,
+[0:30] ih ead
+[0:30] =F id
+[0:40] i Me
+[0:45] पता ५ 1
+[0:45] 2488.
+[0:45] wa Ty
+[0:45] | rad
+[0:50] 5 28 |
+[1:00] 5 we
+[1:00] 223
+[1:05] f क्र
+[1:10] aml
+[1:20] हि A
+[1:30] 4 ly 4
+[1:45] जनता
+[1:50] vue
+[2:05] aan a की.
+[2:25] et cel
+[2:30] bomen
+[2:50] vee
+[2:50] हे 1]
+[3:00] हा 0
+[3:05] rene
+[3:10] a ad
+[3:15] eon
+[3:15] wh “wil

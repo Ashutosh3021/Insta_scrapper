@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[124] https://www.instagram.com/reel/DPLhCiJiL6n/
+STATUS: OK
+DURATION: 1:02   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] The skin under my chin does not get sucked up
+[0:03 - 0:07] no matter how hard I try to create a vacuum inside my mouth.
+[0:07 - 0:08] Am I doing something wrong?
+[0:08 - 0:11] Well, let's have a relatively quick answer to this one.
+[0:11 - 0:14] Have you properly identified the back third of your tongue?
+[0:14 - 0:15] Have you really, really worked on that?
+[0:15 - 0:18] The way I'd say you're gonna struggle
+[0:18 - 0:19] is if you lack tongue space.
+[0:19 - 0:21] I mean, that's the age-old thing.
+[0:21 - 0:23] I seem to be repeating the same thing
+[0:23 - 0:24] again and again and again here.
+[0:24 - 0:28] This is going to be hard if you lack tongue space.
+[0:28 - 0:29] There's no magic here,
+[0:29 - 0:31] but you need to identify the back third of the tongue.
+[0:31 - 0:35] Is the back third of the tongue not the vacuum?
+[0:35 - 0:39] The vacuum's not creating the skin getting sucked up here.
+[0:39 - 0:41] You know, I can create a vacuum, so I put my tongue down.
+[0:41 - 0:48] Yeah, it does raise a little bit,
+[0:48 - 0:50] but when I actually raise the back third of my tongue,
+[0:50 - 0:53] massively different.
+[0:53 - 0:56] I mean, orders of magnitude different.
+[0:56 - 0:58] It's raising the back third of my tongue, so.
+[0:59 - 1:02] Tell me different.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:45] किलो
+[0:51] हैं.
+[0:53] 19९७४
+[0:56] के कै

@@ -1,0 +1,44 @@
+# model: ggml-large-v3
+========================================================================
+[105] https://www.instagram.com/reel/DRRQ5VziONx/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] people ask me all the time how do i get a better jawline without surgery the answer is mewing
+[0:06 - 0:12] but only if you do it right i'm dr mike mu and this is my official mewing app inside i'll guide
+[0:12 - 0:18] you through everything you need to get results step by step it's not a gimmick this is the
+[0:18 - 0:24] method i've spent decades perfecting start today and take control of your face and health
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] aoe
+[0:06] Pg ey
+[0:08] CTL
+[0:08] BMUVUIiUr
+[0:09] m=wW
+[0:09] AND Tris 18
+[0:10] WY OFFICIAL
+[0:11] INSIDE
+[0:12] YOU THROUGL
+[0:13] 11:50
+[0:13] YOU N.
+[0:14] meu
+[0:14] ve, fac he
+[0:14] It well-bein
+[0:14 - 0:16] Discover a new level of self-
+[0:14 - 0:16] confidence, facial harmony
+[0:14 - 0:16] and overall well-being.
+[0:14 - 0:16] a new level |
+[0:15] ect Megan ty
+[0:15] eee iared,
+[0:15 - 0:16] Mike Mew’s Mowing program offers over 80+ Mewing exercises
+[0:15 - 0:16] ‘and techniques designed to achieve lasting results.
+[0:15 - 0:16] BY STaP
+[0:16] 50, facial ha
+[0:16] foes]
+[0:16] “et nn spt
+[0:16] Ornate sntonan se
+[0:21] 5200
+[0:22] ६९.1४ 181
+[0:22] VEL

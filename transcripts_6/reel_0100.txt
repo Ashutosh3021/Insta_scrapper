@@ -1,0 +1,76 @@
+# model: ggml-large-v3
+========================================================================
+[100] https://www.instagram.com/reel/DR-SP6RCH9s/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I am 21 years old.
+[0:02 - 0:06] When I do mewing, my double chin doesn't disappear.
+[0:06 - 0:07] What am I doing wrong?
+[0:07 - 0:09] Well, Minnow, first you're expecting
+[0:09 - 0:10] your double chin to disappear.
+[0:10 - 0:15] Please get the mewing amp for crying out loud.
+[0:15 - 0:16] These are some of these, I'm answering them,
+[0:16 - 0:18] but they're silly questions.
+[0:18 - 0:23] When you mew, you're taking some of the volume here
+[0:23 - 0:25] and you're moving it up onto the roof of the mouth
+[0:25 - 0:28] to great pressure to develop the facial form, okay?
+[0:28 - 0:30] That's what should happen naturally.
+[0:30 - 0:32] So if you're gonna do the rosy chin tuck,
+[0:32 - 0:34] most people are gonna get a double chin.
+[0:34 - 0:38] So you asking me why your double chin doesn't disappear,
+[0:38 - 0:40] I'm thinking, well, it should appear
+[0:40 - 0:42] when you're doing a chin tuck with your mewing.
+[0:42 - 0:45] Clearly, one of the reasons we selected this question
+[0:45 - 0:50] is an interesting reflection of you've got the ideas wrong.
+[0:50 - 0:55] So actually, you're saying, why don't my chins disappear,
+[0:55 - 0:57] your double chins disappear, and I'm saying,
+[0:57 - 0:58] well, you want them to.
+[0:58 - 1:01] You've got it back to front.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:10] ort)
+[0:12] SHE EWING
+[0:13] LINK
+[0:14] UT LOUD)
+[0:16] IANS)
+[0:16] ERING THEM
+[0:17] SILLYQ
+[0:17 - 0:18] IONS’
+[0:18] ew Cl
+[0:18] LINK INDE
+[0:18] TION)
+[0:20] q ce
+[0:22] श्र
+[0:22] IE, VOLUME
+[0:22 - 0:24] ६ जज
+[0:24] IMOVING ITUP
+[0:25] (OFTHE!
+[0:29] IAT; S|
+[0:30] SOF)
+[0:31] TODO
+[0:35] a है
+[0:37] "१ छऋ
+[0:37] CHIN DOESN'T
+[0:39] MECC
+[0:40] NHEN ४० फारे
+[0:42] WT की
+[0:42] ING
+[0:44] IWE'SELE
+[0:44] ‘CTED'
+[0:45] HIS a a
+[0:46] INTERESTING
+[0:48] EFI
+[0:49] ani
+[0:49] OU'VE GOT;
+[0:50] ING
+[0:50] EA'IS!
+[0:51] ISOYACTU:
+[0:53] WHY DONG
+[0:55] 01०७२ 4 Bi!
+[0:58] Pe ph
+[0:58] TO, APPEAR!
+[0:59] sTOJABPEAR!!
+[1:00] TOF

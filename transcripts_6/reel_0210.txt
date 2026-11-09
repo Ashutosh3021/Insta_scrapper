@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[210] https://www.instagram.com/reel/DB9h5e3Ib6c/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] we've got some research to show that it's actually subliminal like it's subconscious
+[0:05 - 0:09] and that research was done where they had people with obstructive sleep apnea and they put them
+[0:09 - 0:14] into a functional mri machine and they flashed images of food in front of them and measured
+[0:14 - 0:19] their brain response and they could measure the brain responses in terms of a timing of it all
+[0:19 - 0:25] when they put up the calorie rich nutritionally poor so your high sugar high fat foods their
+[0:25 - 0:32] little pleasure center that you know the little dopamine hit actually lit up before their visual
+[0:32 - 0:38] cortex did so basically the message was responded to before the image was consciously registered
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] THE है
+[0:00] INFLUEN!
+[0:00] ‘OOD
+[0:00] DR. DAVII
+[0:00] (OSH
+[0:06] was DOS
+[0:15] RESPONSE
+[0:17] Fis
+[0:27] CEI
+[0:29] ८८22
+[0:39] HEI
+[0:39] JPPOR
+[0:39] ISI
+[0:39] SUBS!
+[0:39] 3ING
+[0:39] Mill
+[0:39] MEW
+[0:39 - 0:42] ‘HE MEWING APP 8)
+[0:39 - 0:43] TON
+[0:39 - 0:43] Google Play
+[0:40 - 0:43] AUS!
+[0:40 - 0:43] HELP
+[0:40 - 0:43] SUPPORT
+[0:40 - 0:43] SUBSCRIBING
+[0:40 - 0:43] MIKE MEW
+[0:41] SUBSCRI
+[0:41] BING
+[0:43] 115 MEWING APP 5)

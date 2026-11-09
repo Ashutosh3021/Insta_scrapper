@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[196] https://www.instagram.com/reel/DDSaXMJsl94/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] with nasal breathing why might that happen well when you breathe through your nose you you pick
+[0:06 - 0:12] up a gas called nitric oxide nitric oxide is only discovered on the exhale breath of the human being
+[0:12 - 0:17] back in 1991 and this is an amazing molecule you know when we think about the respiratory system
+[0:17 - 0:22] we shouldn't be just thinking about oxygen and carbon dioxide but we also need to include nitric
+[0:22 - 0:27] oxide and when we breathe through our nose and we pick up nitric oxide we're taking this nitric
+[0:27 - 0:32] oxide laden air into the lungs nitric oxide helps to open up the airways it helps to dilate the
+[0:32 - 0:37] blood vessels in the lungs it helps to sterilize the incoming air and it helps to redistribute
+[0:37 - 0:44] the blood throughout the lungs so when we breathe through our nose we have better oxygenation
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] NASAL 3
+[0:00] Dr. Patrick McKeown
+[0:00 - 0:01] BETTER
+[0:00 - 0:01] BLOOD @
+[0:00 - 0:01] ‘TION
+[0:01] NASAL BREATHI
+[0:01] Dr. Patrick
+[0:01] pri
+[0:01] Keown
+[0:02] i ie
+[0:03] Ve ine
+[0:05] iia 11
+[0:05] Wii
+[0:15 - 0:18] हैः
+[0:21] हैं.
+[0:23] Cot
+[0:23] ब्रा
+[0:23] ANI
+[0:23] a an
+[0:28] ill
+[0:29] wii
+[0:29] if ~ j
+[0:29] MATRIC
+[0:33] Toe
+[0:33] है. ६) ७ है
+[0:35] a oo
+[0:37] 'HE BLOO!
+[0:39] a me
+[0:40] a ain
+[0:42] Google Play
+[0:42] BIN
+[0:43] IBINC
+[0:43] HIN
+[0:44] mish

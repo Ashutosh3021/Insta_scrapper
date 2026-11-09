@@ -1,0 +1,84 @@
+# model: ggml-large-v3
+========================================================================
+[261] https://www.instagram.com/reel/C22rYG8NwoL/
+STATUS: OK
+DURATION: 1:04   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] history shows us that beauty standards shift based on scarcity and prevailing circumstances
+[0:06 - 0:11] for example when people didn't have a lot of food and being skinny was considered malnourishment
+[0:11 - 0:17] we had a lot of plump beauty standards the rubenesque period in contrast today a lot of
+[0:17 - 0:23] people are overweight and have too much to eat so you have these super skinny supermodels the same
+[0:23 - 0:29] goes for skin tans back in the day the rich were pale and the poor were tanned because they would
+[0:29 - 0:33] work in the fields because of this beauty standard people used to apply lead powder
+[0:33 - 0:39] to look artificially more attractive now because the rich people are able to enjoy the sun
+[0:39 - 0:44] and people who work stay in offices you have people applying fake tans
+[0:44 - 0:51] kim kardashian thus seems attractive because scarcity brings value she has an impossibly thin
+[0:51 - 0:58] waist and an impossibly big bum and bust this is extremely expensive to have even if you don't
+[0:58 - 1:03] like the way she looks you have to say that she looks expensive because few people are able to get
+[1:03 - 1:04] her procedures
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] His
+[0:00] ry shows
+[0:02] uty
+[0:02] nift
+[0:03] Ee ae
+[0:04] SCARCI
+[0:05] = CITY
+[0:05] Snr _
+[0:05] PREVAILIN
+[0:05] MSTANCES
+[0:07] J: people
+[0:08] a lot of foo
+[0:09] ing
+[0:10] con
+[0:10] ere
+[0:11] malnourishment,
+[0:12] UI 4
+[0:13] aga
+[0:13] beau
+[0:14] ERI
+[0:15] yet
+[0:15] ~RUE >
+[0:15] 481
+[0:15] ERIOD
+[0:16] “ett
+[0:16] THE
+[0:16] UBENESQUE—
+[0:16] ॥ Tala)
+[0:22] HEH
+[0:23] aiid
+[0:25] he day
+[0:26] the rich we!
+[0:27] y the poor
+[0:27] ७ 7m कक,
+[0:28] ‘because
+[0:28] हूँ
+[0:30] ry 1]
+[0:31] ayy.
+[0:32] 118
+[0:32] . 5. EEE ae |
+[0:33] a ar
+[0:35] —__U Sees
+[0:36] | Now, becaus
+[0:37] | are able
+[0:38] | to enjoy
+[0:39] the sun
+[0:40] ho work
+[0:41] offices,
+[0:45] = tah
+[0:48] snc
+[0:51] Jif
+[0:54] $301 02,
+[0:55] _$79082
+[0:56] LY a
+[0:57] ९६ 7
+[0:57] es “5 ‘i
+[0:59] she look:
+[1:00] to say tha
+[1:01] expensive)
+[1:02] | people
+[1:03] to get
+[1:04] | procedures

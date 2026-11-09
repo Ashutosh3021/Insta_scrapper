@@ -1,0 +1,159 @@
+# model: ggml-large-v3
+========================================================================
+[47] https://www.instagram.com/reel/DWmWm8LEjDS/
+STATUS: OK
+DURATION: 0:53   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] your posture is changing your face unlike new and forward head posture isn't harmless most people
+[0:08 - 0:14] live their whole lives with their heads held forwards dramatically changing their body posture
+[0:14 - 0:23] instead gently bring your head back over your shoulders translating it so that it's not tilting
+[0:23 - 0:33] up just backwards the alignment immediately improves body posture but you must not hold
+[0:33 - 0:39] this back with your neck muscles this is a recipe for problems you hold this back with a suction
+[0:39 - 0:48] hold in your mouth posture influences how your jaws and body change posture and balance if you
+[0:48 - 0:52] want to gain a suction hold go to the mewing app at mewingapp.com
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:05] head.posture
+[0:07] apy
+[0:08] Ove they
+[0:13] Forward Head Postre
+[0:13] (00 10000,
+[0:13] We Sing
+[0:13] Forward
+[0:13] Posture
+[0:13] Sea
+[0:13] (Rest iow)
+[0:13] eta
+[0:13] Ale \
+[0:13] oon Hea Poste
+[0:13] Tow Torque |
+[0:13] Weak Je
+[0:13] (soe ean
+[0:13] Neutral Postare
+[0:13] Tongue on Pate
+[0:13] Spe comet
+[0:13] Neutrat
+[0:13] १15
+[0:13] fos!
+[0:13] Neate
+[0:13] डाक
+[0:16] Aly
+[0:17] your
+[0:27] mediately
+[0:28] SUBOPTIMAL)
+[0:28] ALIGNED
+[0:29] NecesTRAW.
+[0:29] 00088 |
+[0:29] (oUNDED BAC)
+[0:29] pave Tar
+[0:29] :% RELAXED NECK
+[0:29] SPINE
+[0:29] 20780 nents
+[0:29 - 0:30] ‘SLOUCHED POSTURE (SUBOPTIMAL)
+[0:29 - 0:30] ALIGNED POSTURE (OPTIMAL)
+[0:30] eck stRAN --- 24
+[0:30] eave Ter
+[0:30] — nevaren nex
+[0:30] जंधक्षा आह
+[0:33] Wee
+[0:34] neck muscles,
+[0:37] (orn sion
+[0:37] ‘ae Ce in
+[0:37] own
+[0:37] Veuhels)
+[0:37 - 0:39] (SUBOPTIMAL, POSITION)
+[0:38] ete
+[0:38] पुर ey
+[0:38] 112]
+[0:38] ery
+[0:38 - 0:39] TONGUE
+[0:39] een
+[0:39] nose
+[0:39] cei
+[0:39] ree
+[0:39] eouction held
+[0:40] तले
+[0:41] Post
+[0:42] influences)
+[0:42 - 0:43] Enhanced facial structure
+[0:42 - 0:43] educed
+[0:42 - 0:43] ack Disc
+[0:42 - 0:43] Regular Mewing can significantly
+[0:42 - 0:43] change the structure of your face for
+[0:42 - 0:43] ve placem
+[0:42 - 0:43] the better. These positive
+[0:42 - 0:43] tricately ०
+[0:42 - 0:43] transformations include enhanced facial
+[0:42 - 0:43] Jk health,
+[0:42 - 0:43] wing jou
+[0:42 - 0:43] symmetry, a more defined jawline, and
+[0:42 - 0:43] {dress this
+[0:42 - 0:43] the development of more prominent
+[0:42 - 0:43] cheekbones. Moreover, Mewing can
+[0:42 - 0:43] tek and ba
+[0:42 - 0:43] effectively minimize the appearance of
+[0:42 - 0:43] double chins.
+[0:42 - 0:45] ‘proved pc
+[0:43] jaws)
+[0:44] 151
+[0:45] Reduced Neck and
+[0:45] Back Discomfort
+[0:45] practisin
+[0:45] face for
+[0:45] Japtto kee
+[0:45] The placement of your tongue is
+[0:45] ‘4 breathir
+[0:45] ced facia
+[0:45] intricately connected to your neck and
+[0:45] line, and
+[0:45] back health. As you progress in your
+[0:45] minent
+[0:45] Mewing journey, you will specifically
+[0:45] ing can
+[0:45] arance of
+[0:45] address this connection, leading to
+[0:45] improved posture and a decrease in
+[0:45] neck and back pain.
+[0:45] posture
+[0:47] Improved nasal breathing
+[0:47] Jetter sie
+[0:47] By practising Mewing your body will
+[0:47] seis
+[0:47] adapt to keeping your mouth shut
+[0:47] by aaapting
+[0:47] tose you w
+[0:47] rneck and
+[0:47] and breathing through your nose.
+[0:47] ‘our sleep.
+[0:47] sin your
+[0:47] ‘ou automa
+[0:47] cficaly
+[0:47] ven wen
+[0:47] ding 10
+[0:47] vit resut in
+[0:47] ease in
+[0:47] 89७८७ sn
+[0:49] ing
+[0:49] Better sleep and less snoring
+[0:49] Fewer he
+[0:49] ody wil
+[0:49] shut
+[0:49] By adapting to breathing through your
+[0:49] Fe torwa
+[0:49] 1s adopt ०५
+[0:49] ose you will improve the quality of
+[0:49] Jeadaches.
+[0:49] owing रू
+[0:49] your sleep. Over time, Mewing will help
+[0:49] you automatically correct your posture
+[0:49] Jour hea ५
+[0:49] forrect pes
+[0:49] even when sleeping. A better posture
+[0:49] fou relieve
+[0:49] will result in a better airflow at night ant
+[0:49] reduced snoring.
+[0:49] gana
+[0:52] wee )
+[0:52] Www.mewingapp.co

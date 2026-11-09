@@ -1,0 +1,72 @@
+# model: ggml-large-v3
+========================================================================
+[43] https://www.instagram.com/reel/DW9MLyuAnam/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] - The posture that ruins your face.
+[0:03 - 0:06] This daily habit is changing your face,
+[0:06 - 0:09] unlike me, and posture is not cosmetic.
+[0:09 - 0:14] Head forward, upper back rounded, phone posture.
+[0:14 - 0:17] Sustained posture influences jaw development,
+[0:17 - 0:20] especially in growing individuals.
+[0:20 - 0:23] The spine and face develop together.
+[0:23 - 0:26] Orthodontics can't ignore posture.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] 7.21
+[0:01] Wis4
+[0:02] your face’
+[0:03] eo, 4
+[0:04] 7.21
+[0:05] ed 4
+[0:09] Head fenwanel,
+[0:10] NEUTRAL
+[0:10] FORWARD HEAD.
+[0:10] POSTURE (FHP)
+[0:10] (MISALIGNMENT)
+[0:16] ALTERED JAW
+[0:16] POSITION
+[0:16] INFLUENCES
+[0:16] DEVELOPMENT
+[0:16] MENT
+[0:16] fnilwences few
+[0:17] "सकता
+[0:17 - 0:18] EFFECT OF FORWARD HEAD POSTURE
+[0:17 - 0:18] ‘AFFECTING JAW POSITION
+[0:18] “sath
+[0:18] nae
+[0:18] zoe
+[0:18] ४४६
+[0:18] wea
+[0:18] especially tin
+[0:19] Poa
+[0:20] Sata sue
+[0:20] cos
+[0:20] ary
+[0:20] cas)
+[0:20] 1252]
+[0:20] ZAR) wooo
+[0:20] fiance,
+[0:20] [072]
+[0:20] feaLieoone
+[0:20] 51213
+[0:20] Thespine
+[0:21] DOWNWARD-GROWING| FORWARD-GROWING FACE.
+[0:21] women wcrot_voszoua cron
+[0:22] DETAILED CERVICAL SPINE DIAGRAM
+[0:22] vans)
+[0:22] )—$§ pens as
+[0:22] ake, है
+[0:22] zon)
+[0:22] Process
+[0:22] ८227 fe
+[0:22] verre
+[0:22] ren
+[0:22] estan
+[0:22] 222]
+[0:22] Cif
+[0:22] (ane
+[0:22] together

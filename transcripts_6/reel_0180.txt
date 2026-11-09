@@ -1,0 +1,61 @@
+# model: ggml-large-v3
+========================================================================
+[180] https://www.instagram.com/reel/DEK_SOfM2II/
+STATUS: OK
+DURATION: 0:47   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] This is a picture of a woman driving her car in New York, she's an orthodontist and that's
+[0:06 - 0:10] her taking a picture with her cell phone of her son with his mouth hanging wide open.
+[0:10 - 0:14] Now the next view, here they are flying back from California to New York where she brought
+[0:14 - 0:19] her son for me to adjust his orthotropic appliance and in the plane you can see the father there
+[0:19 - 0:24] with his mouth hanging wide open and someone else with it wide open.
+[0:24 - 0:29] But this is the next slide is the next summer in Long Island where kids are at camp and
+[0:29 - 0:36] you see the yellow circle around her son who has his lips together and every other boy
+[0:36 - 0:41] there has their mouth hanging open, which the point is, this is how widespread it is.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] THE ip ne BI
+[0:00] ING
+[0:00] MOUTH)
+[0:00] LL HANG
+[0:00 - 0:01] DR. MIKE MI
+[0:01] THE BATTLE
+[0:02] Hit
+[0:03] if १1
+[0:05] SHE IS AN
+[0:05] ORTHODONTIST
+[0:05] ATT
+[0:06] TAKING
+[0:07] CELL
+[0:08] HER SON
+[0:09] HANGING
+[0:10] OPEN
+[0:11] THE NEXT VIEW
+[0:13] CALIFORNIA
+[0:13 - 0:14] DAD
+[0:14] SHE BROUGHT HER
+[0:16] THORS
+[0:17] APPLIANCE
+[0:18] ® THE PLAN
+[0:18 - 0:21] - SON
+[0:24] SON कि
+[0:25] है के ।
+[0:25] SLID)
+[0:26] a » है
+[0:30] (4०९ a
+[0:31] CIRCLE
+[0:32] WHO
+[0:33] TOG! R
+[0:36] ful
+[0:37] MOUTH
+[0:41] Oral Posture Is The
+[0:41] THE 48
+[0:41] avery
+[0:41] wet
+[0:42 - 0:47] HELP SUPPORT THE CAUSE
+[0:42 - 0:47] BY SUBSCRIBING TO
+[0:42 - 0:47] THE MEWING APP BY MIKE MEW
+[0:47] eon th
+[0:47] App Store

@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[127] https://www.instagram.com/reel/DO9pcgTDMBY/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] is going to fit you all your life.
+[0:02 - 0:04] So it's much...
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] [70910 =. a
+[0:00] —atilasapty! 3
+[0:00] aaa a
+[0:00 - 0:03] _the world who practice the same.
+[0:01] —philosophy:
+[0:01] पी el
+[0:01] se el)
+[0:01 - 0:02] Imeta Racin round. —
+[0:02] "9 रो. 2 गा
+[0:03] किक समापन
+[0:03] Tmetalot of Rats
+[0:03] im aroundy
+[0:03] 200 8 7 Ff
+[0:03] eel if
+[0:04] fill
+[0:04] Nestor

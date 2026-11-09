@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[89] https://www.instagram.com/reel/DTs30shiDYF/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Can adults change their health and face with mewing or is it too late?
+[0:04 - 0:08] As adults, our facial bones don't grow the way they do in children.
+[0:08 - 0:10] But that doesn't mean change is impossible.
+[0:10 - 0:14] What adults can change is posture.
+[0:14 - 0:19] Tongue posture, head posture, breathing patterns and muscle balance, as well as strength.
+[0:19 - 0:24] When those improve, the face looks healthier, more defined and more balanced.
+[0:24 - 0:29] Mewing isn't magic and won't suddenly expand adult bones dramatically.
+[0:29 - 0:35] But correcting poor habits can absolutely improve health and facial appearance.
+[0:35 - 0:37] The question isn't age, it's consistency.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:09] Ce | pore
+[0:10] PP wie |
+[0:11] AD | irae
+[0:12] FN i
+[0:12] |. "eseanen
+[0:19] के | ome
+[0:20] बुक
+[0:20] ANG7
+[0:22] न्यू
+[0:23] 2°93.
+[0:24] > 1०८८
+[0:25] ae | if
+[0:27] SUDDENLY EXPAND
+[0:28] ADULT BONES
+[0:29] DRAMATICALLY BUT
+[0:33] CAN/ABSOLUTELY/IMPROVE
+[0:34] née
+[0:35] Arr | puree
+[0:36] are Be

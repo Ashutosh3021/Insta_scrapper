@@ -1,0 +1,169 @@
+# model: ggml-large-v3
+========================================================================
+[159] https://www.instagram.com/reel/DLAqYtlozp0/
+STATUS: OK
+DURATION: 1:50   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] what's happening what's happening to our faces your faces when we thought that facial growth
+[0:06 - 0:11] was genetic well it just happened so you didn't need an explanation but when we realize there's
+[0:11 - 0:17] a strong if not overwhelming environmental influence to how your face grows then we need
+[0:17 - 0:24] an explanation the pathological process by which this occurs let's let's look back so i could say
+[0:24 - 0:30] that i don't know if our ancestors had type 2 diabetes i don't know if they had sleep apnea
+[0:30 - 0:36] but i could be fairly certain where their teeth were or where their teeth still are because we've
+[0:36 - 0:41] got the records and this is clearly something that's only happened in a very the blink of an
+[0:41 - 0:47] evolutionary eye that we've had these problems so if we look back at how our ancestors skulls were
+[0:47 - 0:53] looking there with that their facial forms we can see that they usually had space for excessive
+[0:53 - 0:54] space for all their teeth but they didn't have enough space for all their teeth so we can see
+[0:54 - 0:54] that they didn't have enough space for all their teeth but they didn't have enough space for all
+[0:54 - 0:54] their teeth but they didn't have enough space for all their teeth but they didn't have enough
+[0:54 - 1:00] teeth most of them would have space for an extra teeth so rather than the 32 teeth we have with our
+[1:00 - 1:06] wisdom teeth they would have some in the region of space for 36 teeth and the teeth seemed to be
+[1:06 - 1:12] well aligned from when they were born to when they died and with all exceptions they had
+[1:12 - 1:18] pretty straight teeth all the time there was no problem and that's strange because in modern
+[1:18 - 1:24] society people are lucky if they've got space for 28 teeth that's missing the wisdom teeth
+[1:24 - 1:30] and a lot of people not only have their wisdom teeth extracted but they have another tooth taken
+[1:30 - 1:35] out so that they can have the remaining teeth straightened up to make space for the remaining
+[1:35 - 1:42] teeth to be really clear the profession doesn't even pretend to know why this change has occurred
+[1:42 - 1:45] there's been this huge change the profession admits
+[1:45 - 1:50] that it doesn't know why so this is clearly an open question we should be probing
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:03] TO YOUR
+[0:01 - 0:04] Maen
+[0:02] Crna
+[0:02 - 0:04] FACES?
+[0:03] Hey)
+[0:03] wit
+[0:03] Freinds Sal
+[0:03] Moser
+[0:04] nae
+[0:07] nee
+[0:08] er. C
+[0:08] aie
+[0:08] Soln
+[0:08] १४६ ¢
+[0:08] 10 Pay
+[0:08] Cae
+[0:08] १५ dame
+[0:08] nite
+[0:08] ५ ce
+[0:08] dad
+[0:08] A que pm
+[0:08] CONtESTH 4 aaa
+[0:08] Nir
+[0:08] ) me devol
+[0:09] TAN)
+[0:09] -XPLANATION
+[0:19] SEO Cantera: eee
+[0:19] PATHOL
+[0:20 - 0:21] SD Conteras ;
+[0:31] ing
+[0:31] Witt: \
+[0:32] Sang”
+[0:32] whe
+[0:33] vite
+[0:34] Sing
+[0:35] ह,71
+[0:44] fs. 9
+[0:45] Saat a
+[0:45] Bex ee
+[0:45 - 0:47] eres
+[0:46] os, i.
+[0:46] Eat.” Ca
+[0:46] erat
+[0:46] ESTORS
+[0:47] ite Te
+[0:47] get
+[0:47] wy gy
+[0:47] 1,7 ee
+[0:48] WITH
+[0:48] 20464 | |
+[0:49] FACIAL
+[0:49] Adal a
+[0:50] WE CAN
+[0:50] 16464 / १
+[0:51] THEY
+[0:51] dalle ts
+[0:52] SPACE
+[0:53] EXCESSIVE
+[0:53] 4444 rs
+[0:54] 444 । ok
+[0:55] MOST OF
+[0:55] Threw rs
+[0:56] SPACE
+[0:56] Prev
+[1:00] wit H OUR
+[1:01] है एएएर
+[1:02] WET
+[1:02] ५ 98८
+[1:02] Rim
+[1:02] The
+[1:02] grey
+[1:03] ५०५
+[1:03] सं ve
+[1:03] हैँ “pga
+[1:04] Pies
+[1:04] 2३6
+[1:04] 42८
+[1:04] Ria
+[1:04] raw
+[1:05] हि a,
+[1:05] a ol
+[1:07] हुए
+[1:09] pid
+[1:15] NO PROBLEM
+[1:17] BECAUSE
+[1:21] > pay
+[1:21] ner
+[1:21] SPACE
+[1:22] 0828
+[1:23 - 1:24] हिल
+[1:24] AVE‘
+[1:25] PLE
+[1:26] carte al Fa
+[1:26] 1113
+[1:26] HEIR
+[1:27] 6 ars |
+[1:27] way,
+[1:28] susie ete
+[1:28] if al
+[1:28] अनिल
+[1:28] ej 4
+[1:29] NOTHER@®
+[1:30] LL LA
+[1:30] TAK
+[1:30] ple
+[1:31] ae 1 agen »
+[1:31] THEYICAN
+[1:32] + ees
+[1:32] Oe oe
+[1:32] $ ७ aa”
+[1:32] oe ee e's
+[1:32] ore a ee
+[1:32] ७७७७ ७
+[1:32] Pusat >
+[1:33] toe ee
+[1:33] ore es
+[1:33] ete eet
+[1:33] its
+[1:33] ‘STRAIGHTENED.
+[1:34] Oo ० ० ७००००३०६
+[1:34] © © ७ ७ ७५० ७५ ७५ ७
+[1:34] ७७००७...
+[1:34] if rat
+[1:34] श्र
+[1:35] a" 9.9 @ ७ ७ 6 >> ९ो
+[1:35] vere
+[1:35] © 0 ere etatata0_0 6 a"s
+[1:35] ७७१७०
+[1:35] sistets]
+[1:35] wee ee
+[1:35] 1°, 0.0 0 erate
+[1:35] Peas
+[1:35] है 361
+[1:37] PROFESSION
+[1:40] Kas
+[1:45] ead
+[1:50] nee

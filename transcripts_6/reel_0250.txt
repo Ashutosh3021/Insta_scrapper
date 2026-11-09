@@ -1,0 +1,104 @@
+# model: ggml-large-v3
+========================================================================
+[250] https://www.instagram.com/reel/C4OSE0ttQ0G/
+STATUS: OK
+DURATION: 1:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Hello everyone, Dr. Mike Mew here. Today I have some updates and news to share with you.
+[0:05 - 0:10] Over the Christmas holidays, my new editor and I released our first collaborative video,
+[0:10 - 0:17] which astonishingly surpassed my previous record of 3.9 million views in just 22 days.
+[0:17 - 0:23] However, this success came with some unexpected problems, and frankly I am very worried.
+[0:23 - 0:30] First, Coco Hayashi, a prominent supporter of Mewie, who had double our subscriber count,
+[0:30 - 0:36] saw her channel deleted by YouTube for reasons labelled as harmful and dangerous.
+[0:36 - 0:41] This is crazy, considering she promotes face yoga.
+[0:41 - 0:48] She's tried contacting them, but it's been more than a month now and YouTube hasn't responded to any of her messages.
+[0:48 - 0:52] It's hard for me to understand how this is harmful and dangerous.
+[0:52 - 0:53] How?
+[0:53 - 0:53] Is my YouTube channel dangerous?
+[0:53 - 0:53] How?
+[0:53 - 0:57] Is massaging and promoting good posture going to be harmful,
+[0:57 - 1:01] especially considering all the other kinds of content you can find on YouTube?
+[1:01 - 1:02] There's more.
+[1:02 - 1:08] During this period of her channel being deleted, we also experienced a sudden sharp drop in viewership.
+[1:08 - 1:16] It recovered quickly, but strangely it had no effect on the amount of downloads we were gaining on the Mewing app.
+[1:16 - 1:20] You'd expect with more views, you'd get more downloads.
+[1:20 - 1:23] With less views, you'd get less downloads.
+[1:23 - 1:23] Right?
+[1:23 - 1:29] Anyway, this has scared us about releasing more content out of fear of our channel being deleted.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:06] wer, wt
+[0:08] Oo o @
+[0:09] | BEGINN!
+[0:10] rel
+[0:10] — डबडल
+[0:11] snare
+[0:11 - 0:13] Je | BEGINNER
+[0:12] महू
+[0:12] lL aa
+[0:14] BE nic ses imate Mew
+[0:14] samp mmm
+[0:14] ssi
+[0:14] छः का
+[0:15] Seen
+[0:15] sense mam
+[0:15] ait
+[0:15] yy «6 a
+[0:15 - 0:16] De Mika Mews Utimate Mew
+[0:16] ced
+[0:16] ~ all
+[0:31] Pinned
+[0:31 - 0:33] Koko HAYASHI @
+[0:31 - 0:33] \iere reaching out to you, our incredible community, for urgent support to
+[0:31 - 0:33] ‘ring ०७ YouTube Channel back we believe our content aligns with their
+[0:31 - 0:33] {uldelines please help us ८
+[0:33] th tree
+[0:33] sppoet to
+[0:33] ees
+[0:34] ses | .
+[0:34] comthnvtenrmetiee tortor ton
+[0:34] eet
+[0:34] reer
+[0:34 - 0:37] »ved your channel from YouTube inbox €
+[0:34 - 0:37] Ww this is probably very upsetting news, but it's our job t
+[0:34 - 0:37] uTube is a safe place for all. If we think a channel sever
+[0:34 - 0:37] ies, we take it down to protect other users on the platf
+[0:34 - 0:37] jieve we've made the wrong call, you can appeal this dec
+[0:34 - 0:37] >re information about the policy in question and how to
+[0:34 - 0:37] below.
+[0:35] लि मलिक आज orton ton
+[0:35] omer
+[0:35 - 0:36] Gres
+[0:36] लि न मलिक अमल आन अल
+[0:36] covert
+[0:37] nth ontenrmotiee मल नल अमल
+[0:37] Braise
+[0:37] terre
+[0:37] ——————— भत-“8६8ल्‍)६8६त२ मत ता ता
+[0:45] 140
+[0:48] vie
+[0:58] (Car WAP foat Megan)
+[0:58] ficial W
+[0:58] etal
+[0:58] Lier
+[0:58] tate
+[0:58 - 1:01] Lil Nas X - MONTERO (Call Me
+[0:58 - 1:01] By Your Name) (Official.
+[0:59] a किडम
+[0:59] 2 > वि
+[0:59] 210
+[0:59 - 1:01] (Cardi 8 - WAP feat. Megan Thee Stallion [Official M
+[1:07 - 1:12] “© Returning viewers
+[1:07 - 1:12] First 24H
+[1:08 - 1:11] 26 Dee
+[1:08 - 1:11] 1Jan
+[1:09] © Returning
+[1:10 - 1:11] 280 _
+[1:10 - 1:11] 7Jan
+[1:10 - 1:12] 174,
+[1:11] —_aana
+[1:12] ०8 published
+[1:12] 28D
+[1:27] uae

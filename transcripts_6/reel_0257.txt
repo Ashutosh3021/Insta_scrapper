@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[257] https://www.instagram.com/reel/C3XmcxBt-72/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] It's a snowman!
+[0:05 - 0:07] Snowberry Christmas-y is it?
+[0:07 - 0:10] And it looks like he has had work done.
+[0:10 - 0:14] Cheekbones, jaw, and lips.
+[0:14 - 0:18] Someone's trying to make it look dramatic,
+[0:18 - 0:23] and they're using the concepts familiar with me to make it look dramatic.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] I ger af
+[0:00 - 0:02] GONE WRONG $&
+[0:01 - 0:02] ~ SNOWMAN MEWING
+[0:04] alle f
+[0:04] nowm:
+[0:05] >1 0४४ 1110॥|
+[0:07] itdooks\like)
+[0:07] rw Y
+[0:08] iilooksilike)
+[0:09] diwor)
+[0:09] Kedone}
+[0:09] Lea”
+[0:11] — shaakionss yy
+[0:12] cheekbonessjawy
+[0:13] and |lipS is
+[0:14] तिल]
+[0:15] = cers ॥ ह २.०७
+[0:15] है r
+[0:15] sandilipsn
+[0:19] they,rejusing
+[0:21] कि e
+[0:21] है “9 a
+[0:22] 49 HELO 10
+[0:23] lookdramaticn
+[0:23] ow ON S|

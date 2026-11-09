@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[248] https://www.instagram.com/reel/C5DSqT1tE2V/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] Thank you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] BEF
+[0:04] Nicola Age 15
+[0:10 - 0:14] Nicola Ag
+[0:10 - 0:14] AFTER -

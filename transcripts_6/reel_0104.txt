@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[104] https://www.instagram.com/reel/DRrhseVDjL3/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] mewing tutorial pointing out where his tongue very effective that seems to be a reasonable
+[0:07 - 0:15] mu push swallow and he's pointing to the right area and it does look yeah yeah yeah yeah he's
+[0:15 - 0:22] got his high up you can see the high up if i jump back but it definitely looks like that yeah yes
+[0:22 - 0:30] look there the high goes up nicely effective mewing yeah but again someone with good form
+[0:30 - 0:35] finds it easier sorry life ain't fair that's just the way isn't it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] tial
+[0:00] sMEW)
+[0:01] Via
+[0:01] mutorial
+[0:02] ING
+[0:05] oer,
+[0:06] THAT|SEEMS.TOIBE]
+[0:08] के 5
+[0:09] CME!
+[0:09] INS
+[0:13] if DOES
+[0:13] LOCLg
+[0:13] utorial “MEWIN
+[0:17] S== HIGHER
+[0:20] PB UTIDEFINITE!
+[0:20 - 0:21] Tutorial
+[0:20 - 0:21] =MEWIN
+[0:21] LOCK.
+[0:21] aos
+[0:22 - 0:23] IGHIGOESIUP’
+[0:23] iuitorialeM
+[0:23 - 0:24] [SWING
+[0:24] 10॥ 8
+[0:25] INICELY4
+[0:25] ‘Orial_“
+[0:25] EWIN
+[0:26] cat
+[0:26] EFFECTIVE
+[0:26] Utorial
+[0:26] AVY)
+[0:27] Tenn cur ants
+[0:27] Tutorial sMeE\
+[0:27] anes
+[0:27] Fe me
+[0:31] FINDS) IT
+[0:33] Sj ‘eh
+[0:35] WAY Er or

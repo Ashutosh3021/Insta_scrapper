@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[211] https://www.instagram.com/reel/DB6n4SQoHd0/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] could we argue that obese people get sleep apnea or the alternative do you think most people with
+[0:09 - 0:14] sleep apnea could be inclined to become obese you're absolutely right it's that vicious circle
+[0:14 - 0:19] and you know each individual have a starting point they might start with a food problem that
+[0:19 - 0:24] becomes a sleep apnea problem through obesity that then exacerbates food problem or they could
+[0:24 - 0:29] have some form of a structural problem that brings the sleep apnea on first and then their
+[0:29 - 0:34] food seeking behaviors change and then they throw obesity into the mix and but unfortunately once
+[0:34 - 0:38] they're on that circle it's a very you know vicious feedback loop
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] CAN SLEEP
+[0:00 - 0:01] TO 3
+[0:00 - 0:01] LEAD
+[0:00 - 0:01] DR, MI
+[0:01] DR. DAVII
+[0:01] (OSH
+[0:02] ARGUE
+[0:02] \ hes
+[0:03] ‘Lay
+[0:03] = 7 OBESE
+[0:03] Lei
+[0:04] GET i,
+[0:05] किक,
+[0:05] APNEA?
+[0:06 - 0:07] 1. THE ALTERNATIVE ‘
+[0:08] POSSIBLY
+[0:09] "APNEA
+[0:11] TO BECOME
+[0:18 - 0:20] PROBLEI
+[0:19] THAT BECOMES
+[0:21] OBESITY
+[0:22] vad
+[0:23] PROBLEM
+[0:36] है 7
+[0:38] iil
+[0:38] silable on the
+[0:38] है] ५
+[0:38] tore
+[0:38] PP 62०५६०७,
+[0:38] BoRT THE CAUS.
+[0:38] 4P S|
+[0:38] IBSCRIBING TO
+[0:38] THE MEWING 877 BY MIKE MEW
+[0:39] iron
+[0:39] iELP SUPPORT
+[0:39 - 0:40] Google Play
+[0:39 - 0:43] “AUS!
+[0:39 - 0:43] 3Y SUBSCRI
+[0:39 - 0:43] BING
+[0:39 - 0:43] HE MEWING APP 8)
+[0:39 - 0:43] MIKE MEW
+[0:40] ST ITON
+[0:40 - 0:43] 1ELF
+[0:40 - 0:43] SUPPORT
+[0:41] 1ELt
+[0:41] SUI
+[0:41] SCRI

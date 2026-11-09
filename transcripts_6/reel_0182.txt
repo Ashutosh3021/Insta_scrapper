@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[182] https://www.instagram.com/reel/DEFgfVJsz7M/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] and it once once people see it as they say once you see it you can't unsee it and that's what's
+[0:07 - 0:12] going to happen parents are going to demand it and the profession if they're wise will respond
+[0:12 - 0:17] to that and change appropriately or to be honest with you the profession will go away
+[0:17 - 0:22] because it will become it will be deemed useless and and uh and that's very sad
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ~ARENTS.
+[0:03] PEOPLE
+[0:04] के ee
+[0:08] PARENTS
+[0:08] iif
+[0:10] PROFESSION
+[0:10] Hil
+[0:12] RESPOND y
+[0:14] APPROPRIATELY
+[0:15] HONE:
+[0:15] als
+[0:16] HE PROFESSION
+[0:17] ILL GO AWAY,
+[0:18] BECOME
+[0:18] iit
+[0:20] if a
+[0:22] BY SUB
+[0:22] ING TO
+[0:22] _ cate
+[0:22] — sop Sure
+[0:22] Pace
+[0:22 - 0:27] HELP SUPPORT THE CAUSE
+[0:22 - 0:27] THE MEWING APP BY MIKE MEW
+[0:23 - 0:27] BY SUBSCRIBING TO

@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[178] https://www.instagram.com/reel/DEPZ5lgskm7/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] when I do a consultation and I explain to patients the whole story of what's gone wrong
+[0:08 - 0:13] and what the treatment's trying to do I then sum up and I go look short summary of this
+[0:13 - 0:19] short summary of the treatment is stand up straight and shut your mouth that's not a new idea is it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] KEEP YOUR MM
+[0:00] CLOSED,
+[0:00] DR. MIKE MI
+[0:00] ILL HANG
+[0:01] STRAIGHT ANI
+[0:01] DR. MII
+[0:02] 7 Nw 4 Say
+[0:03] ONSULTATION 5
+[0:04] ANDI
+[0:05] EXI
+[0:07] i“. be
+[0:07] STO!
+[0:12] a ayy ‘os
+[0:12] ioe
+[0:12] THE
+[0:14] rs प्
+[0:17] beg
+[0:17] ‘Sus
+[0:17] STRAI
+[0:20 - 0:25] - HELP SUPPORT THE CAUSE
+[0:20 - 0:25] BY SUBSCRIBING TO
+[0:20 - 0:25] THE MEWING APP BY MIKE MEW

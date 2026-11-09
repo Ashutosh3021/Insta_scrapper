@@ -1,0 +1,118 @@
+# model: ggml-large-v3
+========================================================================
+[224] https://www.instagram.com/reel/C-Dq9Q1MO4k/
+STATUS: OK
+DURATION: 0:57   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] 5 of turning my nephew's expander. Grab the key and turn.
+[0:05 - 0:13] Have you seen this device? It's an expander that widens the face and jaws. Expanders can be painful,
+[0:13 - 0:20] but let me explain which type to use. There are three types. Slow, semi-rapid, and rapid. Rapid
+[0:20 - 0:27] expansion splits the maxilla into two halves. The vomer bone tends to go on one side or the other,
+[0:27 - 0:32] but you can't really control how this breaks, often causing uneven splits and facial asymmetry.
+[0:32 - 0:37] I don't understand why people choose rapid expansion. I feel semi-rapid is much safer.
+[0:37 - 0:44] Make sure to clean the expanders well. I prefer removal once, but otherwise use a wood pick to
+[0:44 - 0:50] remove the trapped gunk. You may feel pressure, but no pain. Take painkillers if needed. If you
+[0:50 - 0:55] see a gap between your front tooth, that is quite normal and means the expander is working. Your
+[0:55 - 0:57] orthodontist is likely to close the gap. If you see a gap between your front tooth, that is quite
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] nephews) expander
+[0:00 - 0:01] Day, 5 of tu
+[0:00 - 0:01] ing) mys
+[0:01] wet
+[0:01 - 0:02] nephews
+[0:02] श्र
+[0:02] बना
+[0:02] (98५ 5 ofjturningimys
+[0:03] ab the ॥,
+[0:04] ithe)key!|
+[0:07] Jy जहा
+[0:08] ब्लू
+[0:08] | '92210॥11115
+[0:09] IT’S THE EX
+[0:09 - 0:12] THAT, WIDENS THE
+[0:09 - 0:12] FACE AND JAWS
+[0:10] ims rie ANDER
+[0:10] THAT; SRA Uinl=
+[0:11 - 0:12] 1105 THE EXBANDER
+[0:13] PAINFUL
+[0:14] Whlch TYRE TO Uss
+[0:15] Whlch TYRE TO ७७३
+[0:16] THBAES TYRES
+[0:18 - 0:19] SLOW;
+[0:19] SEMIERAPID
+[0:20] SPUTS THIS MALLA
+[0:20 - 0:23] INTO TWO HALVES
+[0:21] THEWWAXIIUN
+[0:22] rae,
+[0:22] ais ne WMAxIi
+[0:23] Ea SEMAN UA
+[0:24] Fill
+[0:24] का AKI
+[0:24] INTO TWO ॥४४७४53
+[0:25] 1113 YOMER SONS
+[0:26] ole
+[0:26 - 0:28] GOING 19 ONEGR:
+[0:26 - 0:29] Tre YOMESR BONS
+[0:27] BUTS!
+[0:27 - 0:28] OTHERISIDE,
+[0:28] THE YOMESR BONS
+[0:28] BUI
+[0:28] _— कलर्स
+[0:28] 7 CONTRI»
+[0:29] GOING 19 91:91,
+[0:29] 91117 SIDE?
+[0:29] BUT 410 51,
+[0:29] CONTROMAOW,
+[0:29] BREAK
+[0:30] THE Melyiere BONE:
+[0:30] HORT
+[0:31] aah Co)
+[0:31] लगी
+[0:31 - 0:32] NI GAUSING
+[0:32] SRuTS)
+[0:33 - 0:35] | DONST;
+[0:33 - 0:35] UNDERSTAND) WHY,
+[0:33 - 0:35] PE@PLE'GHOOSE:
+[0:33 - 0:35] RAPID EXPANSION गन
+[0:34] | DONS
+[0:34] RAPID मिल
+[0:36 - 0:37] | FEEL. SET) ME|/RAPID:
+[0:36 - 0:37] IS MUCH SAFER
+[0:38 - 0:40] MAKEXSURE THE
+[0:38 - 0:40] CLEANING
+[0:38 - 0:40] EXPANDERS) WELL
+[0:41] | PREFERIREMOVAL
+[0:41 - 0:43] ONESIBUT,
+[0:41 - 0:43] OTHERWISE
+[0:42] | 77२57६/१॥३२:।४७ ४:51:
+[0:43] | हि नि 011
+[0:44] ७५६५ Wry PICK
+[0:44] TO REMONEWHE
+[0:44 - 0:45] TRAPPEDIAND GUNK
+[0:45] USE wy WATER) PICK
+[0:45] WON SMIONAS inl
+[0:46] PAIN
+[0:46 - 0:48] YOU MAY4REEL
+[0:46 - 0:48] PRESSURE\BUT NO
+[0:47] vou
+[0:47] SURES! REEL
+[0:48] q atti
+[0:48] २८211
+[0:49] \. all
+[0:49] Pod
+[0:49] DED
+[0:50] TAKE ww. IF
+[0:51] isl
+[0:52 - 0:53] THAT IS{QUITIE
+[0:52 - 0:53] NORMAL AND
+[0:52 - 0:53] MEANS EXPAND
+[0:52 - 0:53] WAS WORKING
+[0:54] Saar
+[0:54] pues
+[0:56] ten 4)
+[0:56] 1150
+[0:56] MEWING MAs
+[0:56 - 0:57] BECOME A

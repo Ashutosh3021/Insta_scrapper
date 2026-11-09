@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[255] https://www.instagram.com/reel/C3aLMbmtQTb/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:11] So this still looks so much better with the Gekka Tama. It is, it is interesting, you know, so much better.
+[0:11 - 0:17] But the Tama is only there part of the time. It is only during it to look good for that moment.
+[0:17 - 0:27] And we all know it is an old adage in orthodontics and medicine, that when bones and muscle have a fight, the muscle always wins.
+[0:27 - 0:32] And here, if you move that muscle to a new position, it will reform things. That's what happens.
+[0:32 - 0:36] This is this thing I see with mewing. Some people are just doing it for a second because it looks good.
+[0:36 - 0:41] And some people understand that if you persist, it will become permanent.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Instant mewing results?
+[0:02] ; TKTOR है
+[0:02] a= जय
+[0:02 - 0:03] aci_shiers
+[0:03] TikTOK
+[0:05] ry en
+[0:06] Tol
+[0:06] ers,
+[0:06] She'sigetti
+[0:07] बी का
+[0:08] interesting
+[0:08 - 0:09] * TikTOR
+[0:08 - 0:09] aci_shiers
+[0:09] जज {a
+[0:12] PS N
+[0:13] की N
+[0:14] acy
+[0:14] ime;
+[0:14 - 0:15] * TikTOR,
+[0:14 - 0:15] aci_shiers
+[0:18] fi. im,
+[0:19] Me ee
+[0:20] Pw NY
+[0:21] ind,
+[0:21] Cine:
+[0:21 - 0:22] * TikTOR”
+[0:21 - 0:22] aci_shiers
+[0:22] jt njbones,
+[0:23] /् हि
+[0:24] pen
+[0:24] Ps XN
+[0:25] kK 2m
+[0:26] Pia पु
+[0:27 - 0:28] * TikTOR
+[0:27 - 0:28] aci_shiers
+[0:28] (1-1 1111]
+[0:28] क्र
+[0:31] बी का
+[0:32] Pi NY
+[0:33] ith}mewing|
+[0:33 - 0:34] * TikTOR:
+[0:33 - 0:34] aci_shiers
+[0:34] कण आपदा
+[0:39 - 0:40] * TikTOR.
+[0:39 - 0:40] aci_shiers
+[0:40] cease ca ds’

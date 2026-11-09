@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[188] https://www.instagram.com/reel/DDpbwnTsl9Y/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] when you switch from mouth to nose breathing during physical exercise the benefits are
+[0:05 - 0:10] absolutely enormous even just on the basis that when you breathe through your nose during any
+[0:10 - 0:15] sort of physical exercise i'm talking about walking gardening yoga in and out through the
+[0:15 - 0:19] nose it will improve blood flow throughout your body including the brain
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Dr. Patrick McKeown
+[0:00 - 0:01] ‘WHY YO!
+[0:00 - 0:01] NASAL 43
+[0:00 - 0:01] iG EXERCISH
+[0:01] Dr. Patrick
+[0:05] | IE BENE! FITS
+[0:06] SrormMors
+[0:07] EVEN
+[0:08] HT EER | |
+[0:13] ft TR | |
+[0:13] RDENING
+[0:14] ei) 6
+[0:18] HT RRR | |
+[0:19] HEL
+[0:19] BY SU
+[0:19] HE MEWING Af
+[0:19] VIE!
+[0:19 - 0:21] MIKE
+[0:20] SUPP
+[0:20] 5085;
+[0:20] MEWING APP
+[0:20 - 0:21] le Play
+[0:21] nthe
+[0:21] App Store
+[0:21] ING
+[0:21] VIEWING

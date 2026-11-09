@@ -1,0 +1,59 @@
+# model: ggml-large-v3
+========================================================================
+[199] https://www.instagram.com/reel/DDKq1lkIgdb/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] back over 25 years ago it absolutely changed my life and i'm not sure how i would have performed
+[0:08 - 0:14] would i have reached my potential you know because ultimately as human beings we set goals we strive
+[0:14 - 0:19] to achieve them and we want to give life our best shot i wouldn't have been able to give life my
+[0:19 - 0:24] best shot because back then i was a chronic mouth breather faster breather upper chest breather
+[0:24 - 0:28] terrible sleep herbal concentration and very much stuck in my head that's really the premise of
+[0:28 - 0:34] today's talk is shedding some awareness and now mouth breathing is starting to get some awareness
+[0:34 - 0:36] especially in the last three to four years
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] HOW BRI
+[0:00 - 0:01] TRANSFORMED
+[0:00 - 0:01] OTENTIAL
+[0:00 - 0:01] Dr. Patrick
+[0:00 - 0:01] Keown,
+[0:01] if y
+[0:01] [ORK
+[0:02] Lt नि
+[0:03] ol ही
+[0:03] MN) te
+[0:06] Lt te
+[0:07] 41811
+[0:08] बहिन
+[0:10] शिव
+[0:10] lao.
+[0:12] aay
+[0:13] it) 6" पड
+[0:14] Lt 1
+[0:18] me ob
+[0:19] BEST. ,
+[0:20] Bl eee |
+[0:20] | अन्‍य
+[0:22] Lt न
+[0:22] ere
+[0:24] al ny
+[0:24] TERRIBLE
+[0:25] CONCENTRATION
+[0:27] fas
+[0:29] Bai
+[0:29] TALK
+[0:30] SHEDDING
+[0:31 - 0:33] Baie
+[0:32] wie
+[0:34] ae 6B
+[0:34] 91111
+[0:37 - 0:38] Google Play
+[0:38] IPE
+[0:38] BSCR
+[0:38] Wain
+[0:38] MIKI
+[0:39] PP Googie!
+[0:39] Play

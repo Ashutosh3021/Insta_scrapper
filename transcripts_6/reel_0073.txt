@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[73] https://www.instagram.com/reel/DT-zD2BCBvc/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] mouth breathing doesn't just affect health it changes your face when mouths stay open
+[0:06 - 0:12] the tongue drops the jaws narrow and the face often looks longer and weaker nose breathing
+[0:12 - 0:18] allows the tongue to rest in the palate supports natural facial structure this is well documented
+[0:18 - 0:24] in orthodontic and airway research breathing is posture and posture shapes the face
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:11] ORS 7)
+[0:13] ७४7
+[0:17] a OO.
+[0:18] Niece’
+[0:19] Goa
+[0:19] । जाल,
+[0:20] pags
+[0:20] Ney
+[0:21] "wwreenee
+[0:21] Loa
+[0:23] FFE

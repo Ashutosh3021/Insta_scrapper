@@ -1,0 +1,88 @@
+# model: ggml-large-v3
+========================================================================
+[26] https://www.instagram.com/reel/DY1Ucy7CDKb/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Do you have a recessed maxilla? You can check by looking at your cheek line.
+[0:04 - 0:09] Ideally the cheek line should be parallel to the bridge of the nose. If
+[0:09 - 0:14] the face grows back and downwards the cheeks become flatter. This makes the
+[0:14 - 0:19] nose appear larger and the cheeks set back and the cartilage grows downwards
+[0:19 - 0:24] eventually causing the hooked look. To check, take aside a LAT4 profile
+[0:24 - 0:28] picture and see how parallel your cheek line is to your nose. For more tips on
+[0:28 - 0:32] facial posture, check out the Mewing app.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] bps
+[0:01] aint
+[0:01] HAV!
+[0:02] LA j |
+[0:02] 16॥17
+[0:02] PAB ¢
+[0:03] है 4
+[0:03 - 0:04] you can check by,
+[0:03 - 0:04] looking at your
+[0:03 - 0:06] cheekline
+[0:05] oe ४०-३५
+[0:05] vy f
+[0:05] ideally the
+[0:06] iy =o
+[0:06] feleeilhy tine
+[0:08] pare
+[0:08] Well
+[0:09] hes
+[0:09] joule
+[0:09] parallel
+[0:09] > the
+[0:10] fay
+[0:10] eXQOWS
+[0:10] ack aly
+[0:10 - 0:11] downwards
+[0:11] if है
+[0:11] fra
+[0:11] egrOws
+[0:11] lpack“ame™
+[0:12] # nests
+[0:12] become latter
+[0:13] Wy ७
+[0:13] thistita the
+[0:13] खा fe)
+[0:13] (01085 0
+[0:13 - 0:15] larger
+[0:14] esate
+[0:14] was
+[0:14] unig
+[0:14] kesi the
+[0:14] OSE
+[0:14] larg ja
+[0:15] cet
+[0:15] the
+[0:15] : ppeels
+[0:15] MOs'
+[0:16] anol
+[0:16] amelitinexeineeks
+[0:16] acl
+[0:16 - 0:17] set
+[0:17] Eig) the Ghee
+[0:18] cel
+[0:18] a ae
+[0:19] ३५1)
+[0:19] Gventue
+[0:19] CaAUSING
+[0:19] / Ya nookechlook
+[0:20] Snel
+[0:20] Cwantualhy cawisiinte)
+[0:20] / Npoolkec |
+[0:20] look
+[0:21 - 0:24] To checek@take a
+[0:21 - 0:24] side a lack for
+[0:21 - 0:24] profile picture
+[0:23] wif
+[0:25 - 0:27] and see how,
+[0:25 - 0:27] Parallel your
+[0:25 - 0:27] cheekline is to
+[0:25 - 0:27] your nose
+[0:29 - 0:30] BECOME A
+[0:29 - 0:30] MEWING MASTER

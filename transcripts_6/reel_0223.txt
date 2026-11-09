@@ -1,0 +1,105 @@
+# model: ggml-large-v3
+========================================================================
+[223] https://www.instagram.com/reel/C-LFYFMMirF/
+STATUS: OK
+DURATION: 0:52   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Uh does this happen to anyone else? I get these tonsil stones like every day and I really want to
+[0:07 - 0:13] know if this happens to anyone else. Ever seen tonsil stones trapped in a crypt in tonsils? Here's
+[0:13 - 0:18] why we think it happens. Mouth breathing which dries them out brings in unprocessed debris and
+[0:18 - 0:23] antigens leading to bacterial infections and inflammation festering in the throat. First step
+[0:23 - 0:29] to get rid of the tonsil stones, hydrogen peroxide, mouthwashes or use hot salt water. Then you need
+[0:29 - 0:34] to learn to keep your mouth shut especially at night when you're not conscious. Try using lip
+[0:34 - 0:39] tape while watching a movie to practice then wear it during light exercise. Once you can do that
+[0:39 - 0:45] easily you'll have established nasal breathing and can comfortably lip tape at night but check
+[0:45 - 0:50] with your doctor first. For more tips on lip taping and nasal and diaphragmatic breathing
+[0:50 - 0:52] check out the viewing app.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] nah.
+[0:01] Hing”
+[0:09 - 0:10] STONES
+[0:10] EVER waa iO
+[0:11] q Pai
+[0:11] rare INAG
+[0:11] RYPT,
+[0:11 - 0:12] IN THE TONSILS?
+[0:12] TRAPPED Rn
+[0:13] HERE'S WHY, WE
+[0:13] THINK IT) HAPPENS
+[0:14] STDIN KAT ABBENS
+[0:15] MOUTH BREATHING
+[0:15] WHICH DRIES THEM
+[0:15 - 0:16] MOUTH
+[0:15 - 0:16] BREATHI
+[0:16] BRINGS IN
+[0:16] UNPROCESSED
+[0:16 - 0:18] खाट DEBRIS AND
+[0:16 - 0:18] ANTIGENS
+[0:18] oon
+[0:19] काजल DINGTO —
+[0:19 - 0:21] BACTERIAL
+[0:19 - 0:21] ==" INFECTIONS AND
+[0:19 - 0:21] INFLAMMATION
+[0:20] LEADING TO
+[0:21] करना TO
+[0:22] ” TERING IN THE
+[0:22] TRO
+[0:23] RID OF!
+[0:23] VONETE
+[0:23 - 0:25] FIRST STERATO}GET,
+[0:24] RID. “yy ONSIL
+[0:24] SUNS
+[0:25] RID ORATERONSIL
+[0:28] HYDROGEN PEROXIDE:
+[0:28] HOT) SALT,
+[0:29] THEN YOU NSD TO
+[0:29] TEAR
+[0:29] YOUR
+[0:29] MOUTRISHUTs
+[0:30] हक R/MOUTHISHUT,
+[0:30 - 0:31] THEN PNITOKEE NEED TO
+[0:30 - 0:31] HEARN) TO) KEE!
+[0:31] yore SHUT,
+[0:32] SRECIAL
+[0:32] Tal
+[0:32] NIGHT;
+[0:32] WHEN)
+[0:32] YOU!!
+[0:32] 5107
+[0:32] SGIOUS
+[0:34] TRY USINGIIIP है.
+[0:34] WHILE nO maou A
+[0:34 - 0:36] MOVIE TO]JPRACTICE
+[0:35] TRY USINGILID TAPE
+[0:35 - 0:36] WHILE WATEHING A
+[0:36] प्ज्ञु
+[0:36] TRY TENOUPY: LIPATAPE
+[0:37] THEN
+[0:37] NSCs
+[0:37] EAR IT,
+[0:37] INGEN
+[0:37 - 0:38] DURINGJEIGHT,
+[0:37 - 0:38] EXERGISE
+[0:38] Teenie arn WEAR i
+[0:39] ONCE YOU
+[0:39] THAT, EASIEY
+[0:40] ESTABLISH
+[0:40] NASAL
+[0:40] BREATHING
+[0:40 - 0:41] YOU}LE HAVEL
+[0:41] ESTABLISHEDINA =>) NAS
+[0:42] AND, CANS
+[0:42] TAPEVAT
+[0:42] IGHTj
+[0:42 - 0:43] COMFORTABLY, LIP.
+[0:43] ou CAN
+[0:43] TAPE!
+[0:43] “५ NIGHT,
+[0:45] YOUR DOCTOR ARST
+[0:51 - 0:52] MEWING MASTER
+[0:52] f क्र
+[0:52] 1510
+[0:52] BECOME A

@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[246] https://www.instagram.com/reel/C5VbIv7tagv/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Do you know some celebrities swear by Mewing to get that great jawline?
+[0:03 - 0:08] Take a look at Bella Hadid, whose jaw definition everyone is talking about.
+[0:08 - 0:12] Or Margot Robbie, some of the best cheekbones I've seen and great jawline.
+[0:12 - 0:15] How do they achieve this? Well, it's perfect body posture,
+[0:15 - 0:20] it's perfect oral posture and tongues on the roof of the mouth.
+[0:20 - 0:24] But here's the lesson, Mewing is not just for the stars.
+[0:24 - 0:30] Everyone can do this, from chance, their facial attractiveness and confidence.
+[0:30 - 0:35] Are you ready to Mew like a celebrity? Well then, download the app.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] kim
+[0:00] some celebrities
+[0:00] MARGOT, BELLA, ah
+[0:00 - 0:03] shelby mewing |”
+[0:01] 3 mewing!?
+[0:01] Lae
+[0:01 - 0:03] 18: didjijust see tommy.
+[0:02] fo get that
+[0:04 - 0:05] at Bella Hadid,
+[0:05] ve ie
+[0:05] Lg) ead |
+[0:06] whose jaw definition
+[0:09] ‘got Robbie.
+[0:10] best cheekbones
+[0:11 - 0:12] and a great jawline.
+[0:13] है जी
+[0:13] How do they achieve
+[0:14] le बत्प
+[0:14] Well, it's
+[0:15] perfect body posture.
+[0:17] oral posture
+[0:18] and tongues:
+[0:19] on the roof
+[0:20] of the mouth.
+[0:21 - 0:22] : But here's the lesson.
+[0:22] lon
+[0:23] for
+[0:23] Mewinofaget just
+[0:24] the stars.
+[0:25 - 0:26] Everyone can do this
+[0:27] er fom
+[0:28] attractiveness
+[0:29 - 0:30] and confidence.
+[0:31] कि hd -
+[0:31] ‘re ready to =k
+[0:32] If you're
+[0:32] to mew
+[0:33] like a ci
+[0:33] rity.

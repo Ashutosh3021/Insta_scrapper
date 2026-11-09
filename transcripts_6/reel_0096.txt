@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[96] https://www.instagram.com/reel/DSqEqj8iH5n/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] announcement this saturday i'm going to be meeting in person oscar patel from thumb pulling i'm going
+[0:07 - 0:14] to be meeting him up with a top london cranial osteopath we are not here to play ball i want
+[0:14 - 0:20] answers so i'm going to put oscar and this cranial osteopath in interview put them under pressure
+[0:20 - 0:26] but get answers for you but what i really need is some tough questions i need you to give me
+[0:26 - 0:31] the tough questions i want your questions so i can put back to oscar so i can get that breadth
+[0:31 - 0:37] and depth that challenge that not playing ball finding answers so you understand what's going on
+[0:37 - 0:38] but i need your questions
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] INNOUNCEMENT THIS SATURDAY.
+[0:02] I'M GOING TO
+[0:03] BE MEETING IN
+[0:04] PERSON
+[0:05] OSCAR'PATAL FROM
+[0:06] THUMB PULLING.
+[0:07] I'M GONNA BE
+[0:08] Bae)
+[0:08 - 0:09] WITH A TOP.
+[0:10 - 0:11] ILONDON CRANIAL OSTEOPATH.
+[0:13] HERE TO PLAY
+[0:14] BALL.
+[0:16] PUT OSCAR AND
+[0:17 - 0:18] THIS CRANIO PATHOLOGIST
+[0:18] afte
+[0:19] ae I
+[0:19] INIINTERVIEW, S
+[0:20] PUT THEM UNDER
+[0:21] PRESSURE, BUT GET z
+[0:22] frm,
+[0:22 - 0:23] ANSWERS FOR YOU.
+[0:24] NEED IS SOME
+[0:25] INEED YOU
+[0:26] THE TOUGH QUESTIONS.
+[0:27] 1 WANT YOUR
+[0:29] ‘CAN PUT BACK
+[0:30] TO OSCAR,
+[0:31] GET THAT BREATH
+[0:32] AND DEPTH,
+[0:33] CHALLENGE, THAT,
+[0:34] PLAYING “a =
+[0:35] रच हक
+[0:35] DING/ANSWERS SO_
+[0:36] YOU UNDERSTAND WHATS»
+[0:37] Vaan |
+[0:37] GOING ON.
+[0:38] YOUR QUESTIONS.
+[0:39] | Sly,

@@ -1,0 +1,73 @@
+# model: ggml-large-v3
+========================================================================
+[191] https://www.instagram.com/reel/DDfQAWzslno/
+STATUS: OK
+DURATION: 0:58   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] you can really help yourself by learning how to breed especially if you have a respiratory
+[0:06 - 0:12] condition the bbc did a documentary on buteco for asthma a little bit like your dad's documentary
+[0:12 - 0:17] that was by channel 4 dispatches an investigative documentary they got three long-term mathematics
+[0:17 - 0:23] they had them practice the buteco method for five days and the goal was can we make these people
+[0:23 - 0:27] significantly better in five days that these people were at the end of the road in terms of
+[0:27 - 0:32] their medical treatment they could hardly walk and one lady she was hospitalized regularly
+[0:32 - 0:37] frequently there's an economic cost here there's a social cost here and a simple breathing technique
+[0:37 - 0:41] was able to make these people fundamentally different in five days feeling better better
+[0:41 - 0:46] control of their asthma less symptoms better quality of life and also they were followed
+[0:46 - 0:50] then one year later the young 15 year old girl who had been on asthma medication all of her
+[0:50 - 0:54] life since a very young child she was completely symptom and medication free
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] CAN 4
+[0:00] Dr. Patrick McKeown
+[0:00 - 0:01] INIQUES
+[0:00 - 0:01] HELP.
+[0:01] CAN a |
+[0:01] Dr. Patrick
+[0:01] ‘Keown
+[0:06] SCONDITION
+[0:08 - 0:09] हैं.
+[0:09] a FOR
+[0:12] ot Te
+[0:16] a! hee
+[0:16] फैं.
+[0:17] ASTH
+[0:18] IEY HAD THI
+[0:18] ASS
+[0:19] ॥ शक. pal
+[0:20] DAYS
+[0:21] Ht ee
+[0:22] van
+[0:26] will
+[0:26 - 0:27] im il
+[0:27] vant
+[0:29] Va 7
+[0:31] Ho! कं
+[0:32] Va nl
+[0:34] r~ पी 1
+[0:40] Ht वी
+[0:40] wii
+[0:42] Ma It
+[0:42] willl
+[0:43] wii
+[0:48] ae It
+[0:48] mui
+[0:52] श्र
+[0:53] a, ‘MPTOM.
+[0:55] peal
+[0:55] @ App
+[0:55] Store
+[0:55] HELP support tHe cAUse
+[0:55] BY SUBSCRIBING TO
+[0:55] THE MEWING APP BY MIKE MEW
+[0:55 - 0:56] ‘onthe
+[0:55 - 0:56] Lad Google Play
+[0:56] क्र
+[0:56] 3ING
+[0:56] iEWIN
+[0:56 - 0:57] @ AppStore
+[0:57] the
+[0:57] 10८
+[0:57] [ING API
+[0:57] Mit

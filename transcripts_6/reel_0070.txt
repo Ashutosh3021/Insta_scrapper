@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[70] https://www.instagram.com/reel/DUOeuUfCMrV/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Why do our modern faces look so different from our ancestors?
+[0:04 - 0:09] Our ancestors chewed harder foods, breathed through their noses and had better posture
+[0:09 - 0:12] with excess space for all 32 teeth.
+[0:12 - 0:19] Soft modern diets, mouth breathing and sedentary posture change how faces develop.
+[0:19 - 0:22] You're now lucky to have space for 28.
+[0:22 - 0:26] It's not just genetics, it's mainly your environment.
+[0:26 - 0:28] How we live shapes how we grow.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:04] OUR ANCESTORS
+[0:05] CHEWED HARDER FOODS
+[0:11] pon ne
+[0:11] Les SS
+[0:11] शशहिररे
+[0:11 - 0:12] THESE?S2\TEETH|
+[0:12] pena
+[0:13] 41 SOFT MODERNIDIETS: ab
+[0:13] ht ALAA AAR A hi hts
+[0:15] crooked
+[0:15] nase
+[0:15] recoaing 4
+[0:15] ‘chin
+[0:15] td posture
+[0:15] Smoller away
+[0:17] era =
+[0:18] Nia
+[0:19 - 0:22] GFe
+[0:20] Naa /
+[0:21] CSE
+[0:25] Pray शल्य
+[0:26] (Kgl
+[0:27] aes

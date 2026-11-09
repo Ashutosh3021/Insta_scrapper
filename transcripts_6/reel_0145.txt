@@ -1,0 +1,77 @@
+# model: ggml-large-v3
+========================================================================
+[145] https://www.instagram.com/reel/DNIMg17M772/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] HYBRID event
+[0:00] THE
+[0:00] GREAT
+[0:00] Fie"
+[0:00] 134
+[0:00] ELOPMENT
+[0:00 - 0:05] MIKE MEW
+[0:00 - 0:05] JOHN FLUTTER
+[0:00 - 0:05] JAMES NESTOR
+[0:00 - 0:05] Journalist and
+[0:00 - 0:05] Author
+[0:00 - 0:13] Host and Founder
+[0:00 - 0:13] of Mewing
+[0:00 - 0:14] Dentofacial
+[0:00 - 0:14] Orthopaedics
+[0:01] 117 87210 ENE NT
+[0:01 - 0:04] BAL SPEAKERS/PANELISTS
+[0:01 - 0:05] ATHERING OF EXPERTS ON
+[0:01 - 0:05] © DENTOFACIAL GROWTH,
+[0:01 - 0:05] HING, FUNCTION AND DEVELOPMENT
+[0:01 - 0:14] LONDON AND
+[0:01 - 0:14] ONLINE
+[0:01 - 0:14] THE GREAT MEWING
+[0:01 - 0:14] EVENT - 6 SEPT 2025
+[0:02 - 0:03] hy BIRD) EN EN 1
+[0:03] है. 4
+[0:03] OF G
+[0:04] 117 BRD) ENE NT
+[0:04] ali
+[0:05] कक :+ 3-00 है
+[0:05] PANELISTS
+[0:06] AY IB RTD EVEN Tt
+[0:07 - 0:12] DRDAVIDMCINTOSH PATRICK MCKEOWN
+[0:07 - 0:12] RON EAD
+[0:07 - 0:12] _ EXPERTS THAT ARE CHANGING THE
+[0:07 - 0:12] RSTAND GROWTH AND DEVELOPMENT
+[0:07 - 0:12] FRIBUTE TO THE LATE PROF JOHN MEW
+[0:07 - 0:13] Jack Hacks
+[0:07 - 0:13] ; BOTH IN LONDON AND ONLINE
+[0:07 - 0:14] 11787२10 EVEN Tt
+[0:10] 2 80
+[0:11] OPEN TO THE PUBLIC: BOTH IN LONDON AND ONLINE
+[0:11] MEET THE GLOBAL EXPERTS THAT ARE CHANGING THE
+[0:11 - 0:13] WAY WE UNDERSTAND GROWTH AND DEVELOPMENT
+[0:11 - 0:13] INCLUDES A TRIBUTE TO THE LATE PROF JOHN MEW
+[0:12] 1६६
+[0:13] OPEN TO THE PUBLIC
+[0:13] BOTH
+[0:13] AEE
+[0:13] THE
+[0:13] GLOB
+[0:13] EXPERT
+[0:13] HAT ARE
+[0:13] CHANGING THE
+[0:14] DR BILL HANG
+[0:14] DR KEVIN BOYD
+[0:14] TRIBUTE TO PROF
+[0:14] Pioneering airway
+[0:14] JOHN MEW
+[0:14] orthodontist
+[0:14] Recently Deceased
+[0:14] | जि/५ ak
+[0:14] UCL LOGAN HALL,
+[0:14] 20 BEDFORD WAY,
+[0:14] LONDON, WCIH OAL GB
+[0:14] BIT.LY/4MNM8LC

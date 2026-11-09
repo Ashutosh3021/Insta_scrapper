@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[230] https://www.instagram.com/reel/C9h6YiiMl4F/
+STATUS: OK
+DURATION: 0:53   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] How does muine work?
+[0:01 - 0:07] Modern orthodontics usually avoids expander devices due to frequent relapse.
+[0:07 - 0:12] But my father discovered that relapse doesn't happen if the patient keeps their tongue on the roof of the mouth.
+[0:12 - 0:19] Since then, we have been using devices to expand jaws and train patients to keep their mouths shut.
+[0:19 - 0:24] However, I realized that you could achieve this without devices at all.
+[0:24 - 0:29] If you see someone who has had a stroke, it is clear that faces can change.
+[0:30 - 0:33] Change a lot and at any aim.
+[0:33 - 0:43] Muing aims to do the reverse in a symmetric way to gain an upswing in facial form, improving the health and appearance of your face.
+[0:43 - 0:53] To understand how to improve facial aesthetics and health naturally, check out the Muing app for my comprehensive guide.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Se 5 -ल्‍- lP
+[0:02] MODERN ORI
+[0:02] HOW DOES
+[0:02] MEWING
+[0:02 - 0:05] usually avoid expander
+[0:02 - 0:05] devices
+[0:02 - 0:07] modern orthodontics
+[0:03] ८ कक es
+[0:03] dern ० S
+[0:04] avoid expander
+[0:07] “but my father
+[0:09] प्र
+[0:11 - 0:12] the patient keeps their
+[0:11 - 0:12] tongue on the roof.of the
+[0:11 - 0:12] mouth
+[0:13] jaws
+[0:13 - 0:16] since then\we)havelbeen)
+[0:13 - 0:16] using devices}torexpand,
+[0:14] using)
+[0:14] itoyexpand|
+[0:17 - 0:19] ‘andhtrainjpatientsito)keep)
+[0:17 - 0:19] theigmouthystut:
+[0:22] rin
+[0:23] DEMIGES
+[0:23 - 0:24] YOU COULD
+[0:23 - 0:24] ACHIEVE THIS
+[0:23 - 0:24] WITHOUT
+[0:24] DEVICES
+[0:24] AT ALL
+[0:25 - 0:27] has hadia\stroke J
+[0:26 - 0:27] if you see someone who
+[0:28 - 0:29] it is clear that faces can
+[0:28 - 0:29] change
+[0:33] ३४४भीताठ EV an (0) G
+[0:34] ING=aim
+[0:34] the
+[0:34 - 0:35] way
+[0:34 - 0:36] reverse in a symmetric
+[0:36] 918
+[0:36] Mingea inMskto)
+[0:36] NEN
+[0:38 - 0:39] facial form
+[0:39] 00911 10॥19300॥॥
+[0:40] ane)
+[0:40 - 0:42] appearance of your face
+[0:41] aoe oe
+[0:44 - 0:47] to understand how to
+[0:44 - 0:47] improve facial aesthetics
+[0:45] improve
+[0:45] aesthetics
+[0:48 - 0:49] and health naturally,
+[0:49] wit
+[0:50] mew
+[0:51 - 0:52] BECOME A
+[0:51 - 0:52] 1501
+[0:51 - 0:52] MEWING MASTER

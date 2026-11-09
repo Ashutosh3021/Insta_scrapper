@@ -1,0 +1,92 @@
+# model: ggml-large-v3
+========================================================================
+[218] https://www.instagram.com/reel/DBZGvT8M5LQ/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] It's a very important point, what I've noticed, is when I see people doing maxillomandibular
+[0:06 - 0:13] surgery, bimaxillary surgery, both/or surgery, really they're emulating the objective of
+[0:13 - 0:14] orthotropics.
+[0:14 - 0:15] Exactly.
+[0:15 - 0:19] For years I've said that orthotropics is basically surgery without a scalpel.
+[0:19 - 0:25] It's doing what a surgeon would do, but in a very non-threatening way.
+[0:25 - 0:26] It makes total sense to do that.
+[0:26 - 0:32] And many people would have died by that time because sleep apnea carries with it a 20%
+[0:32 - 0:34] reduction in life expectancy.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 4 is
+[0:00 - 0:01] NON-SURGICAL
+[0:01] श्र
+[0:01] TO JAW
+[0:02] yor
+[0:03] lOTICE!
+[0:05] ४2111.
+[0:09] les
+[0:11] EMUI a
+[0:12] OBJECTIVE
+[0:13] OTHOTROPICS
+[0:15] I'VE SAID
+[0:15] 118
+[0:16] OTHOTROPICS
+[0:16] Ht i
+[0:16] iit
+[0:17] BASICALLY,
+[0:21] WOULD
+[0:23] ‘nia
+[0:23] YOU
+[0:23] KNOV
+[0:24] 2064०
+[0:24] }THREATENING
+[0:25] IT MAKE:
+[0:26] TO DO
+[0:26] क्र
+[0:26] ltaits
+[0:27] PEOP!
+[0:27] 1४५४
+[0:28] HAVE DIED.
+[0:28] Hii
+[0:28] nfl
+[0:29] TIME
+[0:29] HEAT
+[0:30] SLEEP
+[0:31] CARRIE:
+[0:32] A20% >
+[0:32] Hirt
+[0:32] Was
+[0:33] IN LIFE . (६
+[0:33] fit
+[0:34] ‘eb iret
+[0:34] App Store
+[0:34] © 0०१६ Pay
+[0:34] HEL
+[0:34] wort
+[0:34] Aas GF
+[0:34] BSC HEIN TE
+[0:34] THE EWING APP 8९ AINE MEV
+[0:35] IBS!
+[0:35 - 0:36] ISI
+[0:35 - 0:36] INfe
+[0:35 - 0:37] SUP I
+[0:35 - 0:38] MEV
+[0:35 - 0:39] TON
+[0:35 - 0:39] MIKI
+[0:35 - 0:40] Google Play
+[0:36] UPPOR
+[0:36] SUBSt
+[0:36 - 0:39] iE MEWING
+[0:37] ING
+[0:37 - 0:39] ble on the
+[0:37 - 0:39] pp Store
+[0:38] MIKt
+[0:38 - 0:40] CAUS!
+[0:39] MEW
+[0:39 - 0:40] SUPPOR
+[0:40] 151
+[0:40] हयात ०४
+[0:40] HEL
+[0:40] SUBSCRIBING
+[0:40] MEWING APP 8'
+[0:40] MIKE MEW

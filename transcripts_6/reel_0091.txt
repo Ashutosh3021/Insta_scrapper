@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[91] https://www.instagram.com/reel/DTkQ-EeDL83/
+STATUS: OK
+DURATION: 1:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] well tuesday i go to the high court either i make history and start to gain changes
+[0:10 - 0:18] in my profession or i go down in flames it's one or the other isn't it the case is simple
+[0:18 - 0:26] all right it's it wasn't about i did anything wrong it was about the treatment itself and
+[0:26 - 0:30] whether or not it should be done whether it's got evidence you know whether it's evidence-based
+[0:30 - 0:37] although there was no there was no concern that all current orthodontics lacks evidence it was
+[0:37 - 0:44] that orthotropics didn't have adequate evidence it was it was not a fair fight we are putting
+[0:44 - 0:50] forward the the prosecution experts basically lied they just twisted things to make me look bad
+[0:50 - 0:54] and themselves good they didn't apply the law properly
+[0:54 - 0:55] they
+[0:55 - 1:01] totally skirted around things like bolin bolito if you want to know these details
+[1:01 - 1:12] and we'll see how it goes but it is my life and i think healthcare of the nation that is on the line
+[1:12 - 1:13] here
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:21] SEs
+[0:26] Widnes
+[0:28] ध्थ
+[0:30] ows
+[0:45] Fins
+[1:04] कट्टर
+[1:06] 3०५८३.
+[1:12] ie gy

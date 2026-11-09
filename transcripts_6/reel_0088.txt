@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[88] https://www.instagram.com/reel/DTukWjejbzf/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] Right, here I am, what will be, Tuesday 20th, train pulling in, Tunbridge station, heading up to the High Court.
+[0:09 - 0:13] As they say, they say medicine changes one funeral at a time.
+[0:13 - 0:18] I have a feeling if I win, this will put a firecracker up the whole system.
+[0:18 - 0:24] We'll get change, we'll get the much needed debate, but hey, one step, nothing's guaranteed.
+[0:24 - 0:25] Right, here I am.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] sai a
+[0:01] cas pull
+[0:01] कैद
+[0:03] वीं
+[0:16] fed
+[0:19] कक आ
+[0:25] rT. ७०.

@@ -1,0 +1,190 @@
+# model: ggml-large-v3
+========================================================================
+[17] https://www.instagram.com/reel/DaNnk1QoteT/
+STATUS: OK
+DURATION: 2:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] By the age of five, your upper jaw is already 80% grown.
+[0:03 - 0:06] The rest of your body isn't even close.
+[0:06 - 0:09] That gap is the whole story.
+[0:09 - 0:12] Our body doesn't grow and mature all at once.
+[0:12 - 0:18] It follows certain blueprints, one of which is the cephalocordial gradient,
+[0:18 - 0:22] which simply means growth happens from the head downward.
+[0:22 - 0:25] It applies to your face as well.
+[0:25 - 0:31] At the very top is the neurocranium, the bony vault that protects your brain.
+[0:31 - 0:36] At birth, the neurocranium is already 25% of its adult size,
+[0:36 - 0:40] while the face is relatively tiny and flat.
+[0:40 - 0:46] The lower facial bones, like the maxilla and the mandible, develop comparatively later.
+[0:46 - 0:49] So your maxilla comes next.
+[0:49 - 0:50] That is your upper jaw.
+[0:50 - 0:55] It forms the roof of your mouth and the floor of your nose and much of your midface.
+[0:55 - 1:02] By the age of five, it is already about 80 to 85% of its adult size.
+[1:02 - 1:07] From there, growth slows, complete by the mid to late teens.
+[1:07 - 1:12] Suspended at the bottom of your face is your mandible, the lower jaw,
+[1:12 - 1:14] which develops on a later timetable.
+[1:14 - 1:20] Between the ages of five and ten, it grows more slowly than the upper jaw,
+[1:20 - 1:25] which is why so many children naturally appear to have a recessed jaw.
+[1:26 - 1:33] It keeps growing into the late teens and structural changes can carry on into your mid-twenties.
+[1:33 - 1:40] In short, the cephalocordial gradient explains why the skull is top-heavy in development.
+[1:40 - 1:44] The brain and its bony housing are prioritized early,
+[1:44 - 1:49] with the upper and lower structures maturing progressively later.
+[1:49 - 1:51] Look at that order again.
+[1:51 - 1:54] The maxilla shapes your midface and your airway,
+[1:54 - 1:55] and it looks like this.
+[1:55 - 1:59] It locks in first, while you are still a child.
+[1:59 - 2:03] By the time you start caring about your jaw,
+[2:03 - 2:08] the central bone that shapes your face is done growing.
+[2:08 - 2:13] If you're older, the foundation is set, but you are not stuck.
+[2:13 - 2:18] You can open your airway, retrain your posture,
+[2:18 - 2:21] and strengthen the muscles that hold it all together.
+[2:21 - 2:25] For real structural change, the tools exist,
+[2:25 - 2:28] and they keep on getting better.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] By che |
+[0:03] tr se,
+[0:03] %80C6
+[0:04] %805
+[0:07] Act
+[0:08] we Sd
+[0:08 - 0:09] + Thab gap
+[0:08 - 0:09] is the whole story
+[0:10] feb"
+[0:10] क्र
+[0:10] doesn't
+[0:11] fe=by" a
+[0:11] grow and
+[0:12] स्श्र्छ
+[0:12] cai
+[0:13 - 0:14] certain
+[0:13 - 0:15] blueprints
+[0:15] जाओ =
+[0:15] ०९७9
+[0:16] Lesh"
+[0:16] Po lal
+[0:19] rate
+[0:19] fert—
+[0:20] wate
+[0:20] wey
+[0:21] हैँ
+[0:22] Lest"
+[0:22] क्यो
+[0:22] downward
+[0:23] applies
+[0:24] tee)
+[0:24] your face
+[0:26] AG the
+[0:27] hati
+[0:27] Mi fe
+[0:29] कुल
+[0:32] at birth
+[0:33] The neurocranium
+[0:41] rare
+[0:41] po lies
+[0:45] comparatively
+[0:45 - 0:46] fess"
+[0:46] क्ले
+[0:47] jour maxilla
+[0:50] aie
+[0:50] pill
+[0:52] jai
+[0:52] Add
+[0:52 - 0:54] your mouth
+[0:52 - 0:55] roof of
+[0:53] Weer,
+[0:54] \ sit /
+[0:54] Sip
+[0:56] g fi
+[0:56 - 0:57] aan
+[1:03] dat
+[1:03] oat
+[1:04] ton
+[1:05] Leb
+[1:05] lexj—
+[1:07] Suspended
+[1:08 - 1:09] Leb
+[1:10] ff 7,
+[1:10 - 1:13] Labs
+[1:14] timetable
+[1:15] the ages
+[1:16] tet
+[1:17] पे in
+[1:19] pri las
+[1:27] It keeps
+[1:29] teens
+[1:30] कुछ
+[1:30] and structural
+[1:32] mid 20s.
+[1:34] नजर
+[1:35 - 1:39] bey
+[1:36] बलि
+[1:36] baby"
+[1:36] # cephalocaudal gradient
+[1:38] 1५. ६/
+[1:40] Ley"
+[1:40] Ce) aan
+[1:40] development
+[1:41] ~, rani
+[1:41] ium
+[1:41] Sor
+[1:42 - 1:43] Maxille,
+[1:43] Neurocranium,
+[1:44] ” ile
+[1:44] Sar
+[1:45] hog
+[1:46] upper and
+[1:47] जा बन
+[1:47] struct
+[1:48] progressively
+[1:49] जब्त
+[1:49] Aor
+[1:51] again.
+[1:53 - 1:54] + midface
+[1:54] + airway
+[1:57] Pin
+[1:58] » vot te:
+[1:58] While
+[1:58] fil
+[1:59] child.
+[2:01] om 4
+[2:01] bali
+[2:01 - 2:02] rate
+[2:01 - 2:02] ian
+[2:03] किले
+[2:04] rot
+[2:06] ste
+[2:06] iw b |
+[2:07] a ie
+[2:09] lan”
+[2:09] ear
+[2:10] foundation
+[2:10] is seb,
+[2:10 - 2:11] Lesh"
+[2:10 - 2:12] aan
+[2:11] क्छि
+[2:12] bash"
+[2:13] rate
+[2:14] Lesshy"s
+[2:14] बंध
+[2:15] Lesh"
+[2:15] Cer rs
+[2:17] Lehi"
+[2:18] fei"
+[2:19] ४28"
+[2:20] Ghab का
+[2:20] 16 all box
+[2:20 - 2:21] ian
+[2:21] क्लि
+[2:21] Gha& hold
+[2:21] 16 all Gogethe
+[2:24] Lesh"
+[2:25] 4७4४ <a
+[2:25] tm <a
+[2:27] And ७&
+[2:27] j keep
+[2:27 - 2:28] on getting better
+[2:28] श्र
+[2:28] जले
+[2:28] And 6

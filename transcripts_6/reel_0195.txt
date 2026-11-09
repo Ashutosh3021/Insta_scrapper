@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[195] https://www.instagram.com/reel/DDXm0tmP8fV/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] The diaphragm breathing muscle also isn't just for respiration, but it provides stabilization
+[0:06 - 0:07] for the spine.
+[0:07 - 0:11] Fifty percent of people with lower back pain, those individuals have dysfunctional breathing.
+[0:11 - 0:16] Now, is it lower back pain which is causing them to breathe up their chest, or is it that
+[0:16 - 0:20] they have poor recruitment of the diaphragm, so they're not getting the generation of intra-abdominal
+[0:20 - 0:21] pressure?
+[0:21 - 0:25] Because, of course, with every breath, with every inspiration that's coming into the lungs,
+[0:25 - 0:29] there's a negative pressure in the thorax, but there's a positive pressure in the abdomen,
+[0:29 - 0:34] and it's the movement of the diaphragm that's providing that stabilization for the spine.
+[0:34 - 0:35] That's why nose breathing can happen.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Dr. Patrick McKeown,
+[0:00 - 0:01] THE 3
+[0:00 - 0:01] BREATHING
+[0:00 - 0:01] KEPAIN)
+[0:01] Dr. Patrick
+[0:01] pr. Mi
+[0:01] Keown
+[0:01] | lees
+[0:03] 5 tS pl
+[0:04] pts Pal
+[0:05] J; [24
+[0:06] SPINE
+[0:08] Oru
+[0:12] vas
+[0:16] im i
+[0:17] 7] THE DIAPHRAGM
+[0:19] GENERATION
+[0:28] ant
+[0:28] Ar l
+[0:31] PROVIDING
+[0:34] ri (- j at
+[0:36] xIBIN
+[0:36 - 0:37] val
+[0:36 - 0:37] nthe
+[0:36 - 0:37] App Store
+[0:36 - 0:37] Google Play
+[0:36 - 0:37] fEWIN

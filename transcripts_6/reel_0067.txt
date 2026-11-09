@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[67] https://www.instagram.com/reel/DUi3-c0iCPF/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Your body posture affects your face more than you think.
+[0:03 - 0:05] When the head comes forwards, the jaw drops back
+[0:05 - 0:07] and your tongue drops into your airway.
+[0:07 - 0:11] Facial posture rests on body posture, your neck and spine.
+[0:11 - 0:13] The face is connected to the body.
+[0:13 - 0:15] Stand up straight and shut your mouth.
+[0:15 - 0:17] This is mewing, it's hardly new.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:04] (COMES!) IRWARE = :
+[0:06] AQP YOUR TONGUE PROPS
+[0:08] | किजिटकबर
+[0:08] ERAGE
+[0:09] Fe | ree
+[0:11] st pe
+[0:12] f> #ह्न्कूए Pe
+[0:12] 10 ०॥
+[0:12] Log)
+[0:14] FANDISHUTAYOURIMOUTE)
+[0:15] ss | meee
+[0:16] 5% | oe

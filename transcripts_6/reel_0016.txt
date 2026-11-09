@@ -1,0 +1,132 @@
+# model: ggml-large-v3
+========================================================================
+[16] https://www.instagram.com/reel/Dafrwt2IgSf/
+STATUS: OK
+DURATION: 2:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] your maxilla can change after your teens it's just hard to move there are two ways bones change
+[0:07 - 0:13] first displacement moving the core of the maxilla itself after growth displacement is usually
+[0:13 - 0:21] achieved surgically it can be changed sideways transversely via expansion at the midline suture
+[0:21 - 0:29] with a marpe or other expanders second remodeling not moving just natural appositional growth
+[0:29 - 0:38] surface bone added or lost right where it already is the clearest example the alveolar bone it's not
+[0:38 - 0:43] a separate bone it's the bottom layer of the maxilla the horseshoe shaped ridge that your teeth
+[0:43 - 0:50] are planted in this bone the teeth within it and the gums upon it resides within the dental balance
+[0:50 - 0:58] zone created between the tongue on the inside and the lips and cheek muscles on the outside change
+[0:58 - 1:05] the balance and you change the position of the teeth and bone and that alveolar bone layer never
+[1:05 - 1:12] loses the ability to change otherwise adult ortho would be impossible extract a few teeth and the
+[1:12 - 1:19] bone fades the maxilla and your tongue space gets smaller breathe through your mouth for years chew
+[1:19 - 1:27] on one side and the bone reshapes to match or fix tongue posture and chew a lot more it reshapes again the other way
+[1:27 - 1:36] so when someone says mewing changed their face as an adult consider that it might not be the core
+[1:36 - 1:43] maxilla growing it could be alveolar bone remodeling shifting arch shape shifting tooth
+[1:43 - 1:49] position all reflected on the face this is exactly why ortho can relapse and you end up
+[1:49 - 1:56] wearing a retainer move the teeth without changing this balance zone and relapse is bound to happen
+[1:56 - 2:02] but change the balance zone and you break the cycle the alveolar bone and the teeth within it
+[2:02 - 2:09] will always want to drift back towards whatever posture it's been rehearsing for years break
+[2:09 - 2:17] the cycle and go wider it's a big subject my long form on this is coming soon so stay tuned
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:04] DTO
+[0:06] iS छ
+[0:08 - 0:11] + DISPLACEMENT
+[0:10 - 0:11] maxilla
+[0:12] eae
+[0:13] eae ‘tinier?
+[0:15] of ol
+[0:17] am: 4
+[0:18] I RAN NSVERSELY
+[0:18] प्र
+[0:21] 429
+[0:21] VITRA™M
+[0:22] ४1५
+[0:25 - 0:28] + REMODELING
+[0:29] atl
+[0:30] हे (जे R
+[0:31] RIGI
+[0:31] हे (रे
+[0:32] \ WHI
+[0:34] bse
+[0:34] THES
+[0:34] TiN
+[0:34] - चलछ
+[0:37] atta
+[0:39] aes
+[0:39] ६ 0५ he
+[0:39] OTTON
+[0:40] THE MAX
+[0:40] LLA
+[0:43] ETH:
+[0:45] , 4or"
+[0:48] ७७० \
+[0:50] DENI
+[0:50] TAL
+[0:51] CRI
+[0:52] ONGUE
+[0:53] ७०३६
+[0:53] THE IN
+[0:54] VES
+[0:55] ID. CHEEK
+[0:56] हे के
+[0:57] UTSID
+[0:59] OUC
+[1:00] THE
+[1:01] AND,
+[1:09] न ie
+[1:11] EXTRACT
+[1:12] nndéona-
+[1:12] weee
+[1:12] AND THE BONE
+[1:13] 0 XS Gar
+[1:13] aes
+[1:14] कक. 6
+[1:15] TONGI
+[1:17] BRE
+[1:18] OR YI
+[1:19] CHEW
+[1:20] 1७५
+[1:20] D THI
+[1:21] HAI
+[1:22] MATCI
+[1:23] FIX TONGUE
+[1:24] AND CHEW
+[1:25] “ALOT MORE
+[1:26] IT RESHAPES
+[1:27] a a By
+[1:28] OTHI
+[1:28] 1AY
+[1:29] हे (शो
+[1:31] 9 FAC!
+[1:32] a ANADULT
+[1:34] MIC
+[1:36 - 1:37] lla ~
+[1:38] a il
+[1:41] ay ५
+[1:41] awd
+[1:43] Wee
+[1:44] LSS i
+[1:47] WHY —
+[1:50] wake
+[1:50] All
+[1:51] Sti
+[1:51] rele)
+[1:52] किक
+[1:52] वैन
+[1:54] el el 3
+[1:55] ७ 6३ बुआ!
+[1:56] cS — \N
+[1:58] YOU
+[1:58] aad
+[1:58] Cas
+[1:59] ZS N
+[1:59] व््््
+[2:00] Li j
+[2:01] ETI
+[2:01] ‘aes
+[2:03] Mk हैँ
+[2:06] HATE)
+[2:09] R YEA
+[2:10] रेप
+[2:13] है ९
+[2:14] है FORK
+[2:16] 1७५

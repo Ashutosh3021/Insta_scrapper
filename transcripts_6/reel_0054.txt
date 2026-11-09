@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[54] https://www.instagram.com/reel/DVq3SRXCP73/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:00] What are you doing?
+[0:00 - 0:03] How do you mew?
+[0:03 - 0:04] Guy in a banana suit.
+[0:04 - 0:06] How do you mew?
+[0:06 - 0:10] Sucking your cheeks and bite on them.
+[0:10 - 0:14] No, that is not how you mew.
+[0:14 - 0:16] Sorry, guys.
+[0:16 - 0:17] Sucking your cheeks and bite on them.
+[0:17 - 0:17] Sorry.
+[0:17 - 0:19] Get the mewing out.
+[0:19 - 0:20] Get an idea, please.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] श्र
+[0:01] 4 बा
+[0:03] |. TWA
+[0:04] OU L
+[0:04] walt, ¥
+[0:06] ere)
+[0:07] Ree
+[0:14] ee अं
+[0:16] के a
+[0:18] rie
+[0:21] g La

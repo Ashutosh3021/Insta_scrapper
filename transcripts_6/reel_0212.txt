@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[212] https://www.instagram.com/reel/DB5pc5DIoQW/
+STATUS: OK
+DURATION: 1:00   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] We've come a long way since then to realize so this thing called the gut microbiome I mean it
+[0:06 - 0:12] wasn't a term until you know the past few years and now it's actually become an industry and it's
+[0:12 - 0:19] a fascinating area of scientific endeavor realizing what we call the gut brain axis and you know we
+[0:19 - 0:24] have a very basic understanding of this complexity so far but we're understanding things such as the
+[0:24 - 0:30] fact that bacteria we sort of notionally divide into good and bad bacteria what we've known with
+[0:30 - 0:36] obstructive sleep apnea because of the oxygen that drops that happen that actually changes the
+[0:36 - 0:42] living environment for the bacteria and it favors the ones that fall into the so-called bad category
+[0:42 - 0:47] over the good ones and the problem with those bad ones is their impact then on our metabolic health
+[0:47 - 0:52] they're associated with blood sugar regulation issues they're associated with high blood pressure
+[0:52 - 0:54] they're associated with mood disorders
+[0:54 - 0:58] such as depression they also seem to impact itself on food seeking behaviors
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] THE IMPACT OF,
+[0:00] HEALTH
+[0:00] ON SLEE!
+[0:00] CITY
+[0:00] DR, MIKE MI
+[0:00] DR. DAVII
+[0:00] (OSH
+[0:06] 2८५
+[0:06] alt
+[0:06 - 0:08] ner y
+[0:07] onl?
+[0:09] anal
+[0:09] Sas
+[0:09] ale
+[0:09] क्र
+[0:16] ० 48
+[0:22] y के
+[0:23] है aa
+[0:23] DERSTANDING
+[0:25] BACTERIA
+[0:26] Sau
+[0:27] ~ Fr 5
+[0:30] OBSTRUCTIVE
+[0:48] WERE ASSOC!
+[0:52] PRESSURE,
+[0:57] ON FOO!
+[0:59] ‘Available on the
+[0:59] p Store
+[0:59] कहता 0४
+[0:59] P Google Play

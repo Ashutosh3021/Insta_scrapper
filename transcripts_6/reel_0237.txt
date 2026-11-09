@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[237] https://www.instagram.com/reel/C8bgbBzM3HX/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] Outro Music
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] TEN
+[0:03] aad
+[0:17] til
+[0:20] i Py
+[0:24] ge z/%
+[0:28] हे z/%

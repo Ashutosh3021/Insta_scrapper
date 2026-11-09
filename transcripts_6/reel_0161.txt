@@ -1,0 +1,50 @@
+# model: ggml-large-v3
+========================================================================
+[161] https://www.instagram.com/reel/DIb0rxVMxk5/
+STATUS: OK
+DURATION: 0:46   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Within dentistry, we have known for years
+[0:02 - 0:05] that the teeth and bone sit in a balance
+[0:05 - 0:08] between the soft tissues,
+[0:08 - 0:10] the tongue on the inside pushing outwards
+[0:10 - 0:14] and the lips and cheeks on the outside pushing in.
+[0:14 - 0:17] And this is used by the Frankel Appliance System.
+[0:17 - 0:22] The Frankel System both holds away the lips and the cheeks
+[0:22 - 0:26] and also discourages their future use training them.
+[0:26 - 0:28] It's a very effective system,
+[0:28 - 0:30] but it is designed to be uncomfortable
+[0:30 - 0:32] if you do the wrong thing.
+[0:32 - 0:34] The appliances are removable,
+[0:34 - 0:37] so you struggle getting patients to wear them
+[0:37 - 0:40] and it's not particularly commercially viable.
+[0:40 - 0:42] And it fell into disuse,
+[0:42 - 0:46] particularly when fixed braces orthodontics arrived.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] लिए —
+[0:02] KNOWN FOR YEARS THAT
+[0:02] THI
+[0:05 - 0:06] 100
+[0:09] THE TONGUE 'ON'THE'INSIDE’
+[0:11] AND THE LIPS AND CHEEKS
+[0:12] ON THE OUTSIDE PUSHING IN.
+[0:13] P an)
+[0:16 - 0:19] SYSTEM
+[0:16 - 0:20] FRANKEL APPLIANCE
+[0:26] RY EFFECTIVE
+[0:33] 4८9 आाक |
+[0:33] ARE
+[0:33] Bigs
+[0:35] iat
+[0:38] te ea
+[0:38] ANDI
+[0:38] wer PARTICULARLY
+[0:41] ced
+[0:41] AND IT FELL INTO DISUSE,
+[0:43] Jf Fy
+[0:43] PARTICUL?
+[0:43] ‘WHEN FIXED
+[0:43] BRACE!

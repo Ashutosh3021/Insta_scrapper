@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[23] https://www.instagram.com/reel/DZHi2_JDhsy/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Prince Charles habitually left his mouth open, which has created an elongated or adenoidal face.
+[0:06 - 0:10] Here's what he would have looked like had he learned to keep his mouth shut much earlier.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] १८४०
+[0:00 - 0:01] Knew About
+[0:00 - 0:09] If Prince Charles
+[0:01] Habitually
+[0:02] Bene,
+[0:02 - 0:06] Knew/About|/Mewing
+[0:04] (AAnjelongated
+[0:05] Oriadenoidal’
+[0:06] cre ~~" What h
+[0:07] 050 About Mewing
+[0:07] 230
+[0:08] ३ One
+[0:08] Knew About
+[0:08] adihe learned
+[0:09] Knew About Mewing
+[0:09] eepjhis,
+[0:10] ३४5
+[0:10] हैः
+[0:11] Sass
+[0:11] धरे
+[0:11] A offi
+[0:12] ३४५

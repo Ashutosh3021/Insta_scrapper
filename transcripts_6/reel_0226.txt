@@ -1,0 +1,90 @@
+# model: ggml-large-v3
+========================================================================
+[226] https://www.instagram.com/reel/C92x8qhstIy/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Ever seen a tongue like this and wondered, "Does that hurt?"
+[0:12 - 0:16] No, it doesn't hurt. It's a condition called Fissured Tongue.
+[0:16 - 0:19] Fissured tongues have no nerve endings, so it's painless.
+[0:19 - 0:23] It's completely benign, not contagious, and not harmful.
+[0:23 - 0:28] There is a link to deficiencies in iron, folate, keratin, zinc, and B12, but not that often.
+[0:28 - 0:33] Usually, scientists don't know why this happens, but here's my theory.
+[0:33 - 0:36] Mouth breathing causes the tongue to dry out, leading to bacterial buildup.
+[0:36 - 0:42] These bacteria enter the tongue's pores, causing them to inflame and grow into fissures.
+[0:42 - 0:46] Keep your tongue healthy by practicing proper oral posture and nose breathing.
+[0:46 - 0:49] Learn more about oral health with the Mewing app.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] 524
+[0:04] 534
+[0:06] © 40० tajin seasoning
+[0:08] © cotaji
+[0:10] EVER KEINISIA AWTONGUE
+[0:10 - 0:11] LIKEQTHISJAND
+[0:10 - 0:11] WONDERED
+[0:11] EVER A.
+[0:11] TONGS
+[0:12] 4 THAT; HURT?
+[0:13] Co CALLED
+[0:13 - 0:14] IT DOESN'T, HURT, THIS
+[0:14] CONDITION CALLED
+[0:16 - 0:18] FISSUREDATONGUES
+[0:16 - 0:18] HAVE|NO]NERVE
+[0:16 - 0:18] ENDINGS
+[0:19 - 0:20] SO IT'S PAINLESS IT'S
+[0:19 - 0:20] COMPLETELY BENIGN
+[0:21 - 0:22] NOT CONTAGIOUS
+[0:21 - 0:22] AND NOT HARMFUL
+[0:23] Es iO
+[0:24] JEF
+[0:24] THERE IS A. LINK TO
+[0:25 - 0:28] VEFIGIENGY.
+[0:26 - 0:28] FERRITIN
+[0:28] Bi2
+[0:29] war
+[0:29 - 0:31] USUALLY SCIENTISTS
+[0:29 - 0:31] DON'T; KNOW; WHY
+[0:29 - 0:31] THIS HAPPENS
+[0:30] a SGIENTISTS
+[0:32] BUTHERE:S MY
+[0:33] MOUTH पक
+[0:33 - 0:34] MOUJHIBREATHING
+[0:33 - 0:34] CAUSES}THE'TONGUE
+[0:33 - 0:34] DRYAZOUT,
+[0:35] BAGTERIAISBUIEDUP
+[0:36] ५0% BRT
+[0:36] BeSLBRGULDUE *
+[0:37] MOU
+[0:37] श्र
+[0:37] aH B i ५ है
+[0:37] IS.,BAGTERIA\
+[0:37 - 0:38] ENTER 4
+[0:37 - 0:38] THE|TONGUE'S PORESJ
+[0:38] US} BACTER TERI
+[0:39] 10०॥111210,1 0
+[0:39 - 0:41] ie TOJFISSURES
+[0:39 - 0:42] JINFEAMEFAND GROW
+[0:40] tin
+[0:40] ५51]
+[0:40] NGRTHEM TO
+[0:40] y UN
+[0:40] ND GROW
+[0:41] () HEM TO
+[0:42] .. THEM 12)
+[0:42] INIKOMASSURIES
+[0:43] és j
+[0:43] KEEP जे [01160
+[0:43] HEALTHY,
+[0:44] BY OPER IEING
+[0:44] PROPERIORAL
+[0:44 - 0:45] POSTURE
+[0:45] BY OPERIOR TIE!
+[0:45] ING
+[0:45] PROPE
+[0:46] AND wy BREATHING
+[0:48] mew
+[0:49] | meu
+[0:49] MEWING MASTER

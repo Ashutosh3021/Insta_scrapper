@@ -1,0 +1,94 @@
+# model: ggml-large-v3
+========================================================================
+[234] https://www.instagram.com/reel/C9J6ReyMcNi/
+STATUS: OK
+DURATION: 0:50   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] properly and moderately is it safe or not and why well in essence i think they're probably
+[0:05 - 0:10] relatively safe i don't have any information to say that they're dangerous but what i do
+[0:10 - 0:17] like about them is because you don't fully close your teeth together you're far less likely to
+[0:17 - 0:23] cause jaw joint problems than if you're using normal chewing gum if you have jaw joint problems
+[0:23 - 0:29] remember the one thing i can't recommend people do is chewing gum i think it can be massively
+[0:29 - 0:34] valuable but if i'm recommending that and someone's got a jaw joint problem they can get
+[0:34 - 0:40] into real problems and i think that some of these trainers get around that by you're not
+[0:40 - 0:45] fully bringing your teeth together when you're training clearly don't overdo it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] se mtr er se
+[0:00] ory
+[0:00] a sn wm
+[0:00] afta
+[0:00 - 0:01] ae te
+[0:00 - 0:02] not and why?)
+[0:00 - 0:03] 177 3 days ago
+[0:00 - 0:03] / trainers safe?
+[0:00 - 0:03] 2 bad but what about the molar based ones like
+[0:00 - 0:03] roperly and moderately is it safe or not and why
+[0:00 - 0:03] Markdown Mode |
+[0:01] a नन«
+[0:01] (ea an ia at
+[0:01] ahh
+[0:02] settee ar सन
+[0:02] aa sia
+[0:02] wfol
+[0:02] T = 1 9
+[0:03] ‘ied an sino ae
+[0:05 - 0:06] ey're probably rel:
+[0:07] fie
+[0:07] fee)
+[0:07] we JA don't
+[0:07] n't have any info
+[0:10 - 0:11] hat | do like about
+[0:11] -_ Yon
+[0:12] जक उन
+[0:12 - 0:14] ou don't fully clos:
+[0:12 - 0:14] together
+[0:14] ur teeth,
+[0:16] tes
+[0:16] you'r
+[0:16 - 0:18] , likely to cause ja\
+[0:19] fox)
+[0:19] han i
+[0:19] 're using normal ८
+[0:20] Sri
+[0:20] air
+[0:21] a yy
+[0:22] ioe
+[0:22] बुक ॥ you have jaw joint problems)
+[0:22 - 0:23] 1 have jaw joint pr
+[0:24 - 0:26] he one thing | can’
+[0:24 - 0:26] people do
+[0:25] eee)
+[0:26] ऋ 72 mber the one thing | can’
+[0:26] mmenk
+[0:27] eer
+[0:27 - 0:30] — ‘gum. 1 think it can be
+[0:27 - 0:30] valuable
+[0:28] is chewing gum. think
+[0:28] tcan be my
+[0:28] » ae fa
+[0:29] jassivel
+[0:29] Llaar —
+[0:30] for
+[0:31] a tae 8
+[0:32] name
+[0:33] EEE
+[0:35] cee
+[0:35] Sea /
+[0:36 - 0:39] that some of these
+[0:36 - 0:39] around that
+[0:38] and | think
+[0:38] हु =a
+[0:39] and | think that somi
+[0:39] aroun
+[0:39] 16 Of t
+[0:39] that
+[0:39] बम CO
+[0:40 - 0:42] fully bringing you
+[0:41] eel
+[0:41] EE a
+[0:42] by you
+[0:43] i aa”
+[0:48 - 0:50] corthotropies

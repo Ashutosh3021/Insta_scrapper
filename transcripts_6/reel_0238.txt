@@ -1,0 +1,70 @@
+# model: ggml-large-v3
+========================================================================
+[238] https://www.instagram.com/reel/C66sdBAtVGw/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] And not everybody knows that Cupid, who was actually the son of the goddess of love, had what people call a Cupid's bow for the shape of his lips.
+[0:15 - 0:30] This is important, and there is no doubt that a Cupid's bow shape makes the lips very kissable and is a feature in all very good-looking people.
+[0:30 - 0:43] Now, most people don't have lips that shape, but anyone can if they just learn to keep their lips in contact most of the time.
+[0:43 - 0:45] Then, slowly...
+[0:45 - 0:55] They will develop the shape of a Cupid's bow, and that is an important message you should not forget.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ea ER
+[0:03] a allel
+[0:03] 5३ घ
+[0:03] was]
+[0:07] कक का
+[0:07] Tay
+[0:08] हक का
+[0:09] Bes)
+[0:09] UVa
+[0:10] e 25
+[0:12] Bee
+[0:16] pase 8 =
+[0:18] pans
+[0:20] pe ae ——
+[0:20] sees)
+[0:20] 10202
+[0:21] Ves
+[0:22] JAS
+[0:23] pase oe =
+[0:23] Se gs
+[0:25] fae 8
+[0:25] Pie.
+[0:25] fst
+[0:27] any
+[0:28] जला
+[0:28] pass pS
+[0:28] है 2
+[0:31] 422
+[0:31] all
+[0:32] IIE
+[0:33] Bin
+[0:33] ‘Ss 7
+[0:34] pase 8,
+[0:35] pane
+[0:35] a का
+[0:37] pase
+[0:37] yy ih
+[0:38] 22.8
+[0:39 - 0:41] pan
+[0:40] mate
+[0:41] ४. ८ आज
+[0:42] Bie)
+[0:44] 6234"
+[0:45] OOO
+[0:45] way,
+[0:45] om i
+[0:47] 42 ६8
+[0:49] Yy a
+[0:50] Yyy
+[0:51] pane
+[0:51] may
+[0:51] 422
+[0:51] 427
+[0:52] Bec)
+[0:54] 4८7

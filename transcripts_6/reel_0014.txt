@@ -1,0 +1,204 @@
+# model: ggml-large-v3
+========================================================================
+[14] https://www.instagram.com/reel/DbJAFueIEYj/
+STATUS: OK
+DURATION: 2:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] People will tell you that the adult jaw is set.
+[0:03 - 0:06] And in terms of its overall length, they are probably right.
+[0:06 - 0:09] It is under relatively tight genetic control,
+[0:09 - 0:11] which is laid down while you're growing.
+[0:11 - 0:14] But that is not where you should be looking.
+[0:14 - 0:18] Look at where the big chewing muscles grip the bone.
+[0:18 - 0:22] These sites are the most mechanically alive parts
+[0:22 - 0:24] of the whole facial skeleton.
+[0:24 - 0:27] They are dynamic throughout adult life.
+[0:27 - 0:29] Bone can come and go.
+[0:29 - 0:33] So if a load signal shows up anywhere in an adult face,
+[0:33 - 0:34] it shows up here.
+[0:34 - 0:38] Take the angle of the jaw where the masseter attaches.
+[0:38 - 0:40] Evidence such as the use of Botox,
+[0:40 - 0:42] which has the reverse effect,
+[0:42 - 0:45] smaller jaw angle preferred by many women in Asia,
+[0:45 - 0:49] which clearly demonstrates the dynamism of this area.
+[0:49 - 0:54] Doctors are also using it as a medical diagnostic tool
+[0:54 - 0:55] for people who brux and grind.
+[0:55 - 0:59] By assessing the extra bone building up right at
+[0:59 - 1:01] the angle on X-rays.
+[1:01 - 1:05] Currently, we don't chew nearly enough.
+[1:05 - 1:09] And teenagers often have weak jaw angles today.
+[1:09 - 1:11] Appositional growth takes time.
+[1:11 - 1:15] It accumulates over the years, but it is never too late.
+[1:15 - 1:17] And most teenagers today have grown up
+[1:17 - 1:19] with a huge chewing deficit.
+[1:19 - 1:22] With masseteric load, or chewing in plain language,
+[1:22 - 1:27] the muscle gets big and the bone underneath answers back.
+[1:27 - 1:29] It thickens and builds up at the angle
+[1:29 - 1:30] here.
+[1:30 - 1:34] The apparent length increases, but the total length does not.
+[1:34 - 1:37] So with higher loading, more chewing,
+[1:37 - 1:39] you change this apparent length.
+[1:39 - 1:42] And what you see on the outside is that squarer,
+[1:42 - 1:44] stronger, more defined jaw.
+[1:44 - 1:46] All skeletons tell the same story.
+[1:46 - 1:49] Bony buildup means measurably stronger,
+[1:49 - 1:52] squarer jaws, but the direction is clear.
+[1:52 - 1:54] Loading the bone through chewing in adulthood
+[1:54 - 1:56] doesn't grow the jaw length.
+[1:56 - 1:59] It reshapes it, building the bone exactly where the muscles
+[1:59 - 2:00] pull.
+[2:00 - 2:02] Adding bone on the angle of the mandible
+[2:02 - 2:04] will make the mandible look bigger.
+[2:04 - 2:05] I've got a strong jaw.
+[2:05 - 2:07] How do you get a strong jaw?
+[2:07 - 2:08] From using it.
+[2:08 - 2:10] But be careful.
+[2:10 - 2:13] If you are at risk of TMD, jaw joint problem,
+[2:13 - 2:16] usually because the way your body is responding
+[2:16 - 2:19] to suboptimal craniofacial growth,
+[2:19 - 2:21] focus on tongue chewing instead.
+[2:21 - 2:24] And watch this space for more soon.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:04 - 0:05] SHAPE - NOT GENETIC
+[0:06] ऐसे
+[0:09] LAID DOW! बा
+[0:11] bid
+[0:12] NOT WHI
+[0:15] ~~ राकाकन्क
+[0:16] Masset
+[0:16] pee tine
+[0:16] fete
+[0:16] pas
+[0:16] कै «०००
+[0:16] eee
+[0:17] agmatine
+[0:17] ome una
+[0:17] omens
+[0:17] wee
+[0:17 - 0:18] oronetnonete
+[0:18] Masseter muscle attachments
+[0:18] mete ety
+[0:18] woe SS
+[0:18] enon
+[0:19] w AN
+[0:20] a Muscle
+[0:20] Maxila
+[0:20] के? 0
+[0:20] Masseter
+[0:20] | Tongu
+[0:20] ‘Medial Plerygoid Muscle — ५
+[0:20] {tera Pteyaoit df
+[0:20] | Mandible
+[0:25] They are dynamic throughout ३006
+[0:26 - 0:27] ‘They are dynamic throughout adult life
+[0:28] (७७४;
+[0:30] Lan
+[0:31] है, ५
+[0:31] हब अऋइ._
+[0:32 - 0:33] Bye
+[0:37] Masseter
+[0:41] ॥ 4 ३ हाय
+[0:41] ~ THE < EFFEC
+[0:43] Small jaw angle
+[0:46] DEM
+[0:48] osx
+[0:49] Mid
+[0:50] ५ 4५
+[0:50] poc
+[0:51] USII
+[0:51] गाता
+[0:52] UT जे a
+[0:56] Lhd
+[0:57] ere. ome
+[0:57 - 1:01] BRUXISM
+[0:58] Can
+[0:58] ne om
+[1:05] 0३1,
+[1:05] vals
+[1:10] 40९५२
+[1:10] ONAL GR
+[1:13] ati
+[1:15] ont
+[1:15] ahs
+[1:15] TEE
+[1:16] a AW?
+[1:19 - 1:20] LOAD )
+[1:20] I NI
+[1:22] ७८०
+[1:30] 4Qy
+[1:31] mee
+[1:33] The
+[1:33] शक्ल
+[1:34] Pay
+[1:35] a Higher loading
+[1:36] 7 = loading
+[1:36] @ cscs
+[1:37] wee
+[1:38] mye
+[1:38] eS y
+[1:39] (aks
+[1:39] ON THI
+[1:42] wee
+[1:42] 821
+[1:42] छुआ.
+[1:42] STRO
+[1:43] lak
+[1:44] कक. के
+[1:45] ‘SKELI
+[1:47] Ned
+[1:47] /01५
+[1:52] AX ee
+[1:52] aa CHEWING II
+[1:54 - 1:55] ‘SHAPE - NOT GENETIC
+[1:55] THE JAW LENGTH
+[1:56] ला @ESMAPES IT
+[1:57] BUN DING THE BONE
+[2:01] Nie
+[2:05] Eee)
+[2:08] a Muscle
+[2:08] Maxita
+[2:08] Masseter
+[2:08] Tong
+[2:08] Medial Perygoid Muscle —
+[2:08] Mandible
+[2:11] mee
+[2:12] 3099 os
+[2:13] Mid
+[2:15] wee
+[2:15] ४32
+[2:15] BOD’
+[2:16] ING ५
+[2:17] IOFACIAL
+[2:20] TONG
+[2:20] rc ऋ
+[2:21] IGUE
+[2:22] Fon yoLLows FUNCTION
+[2:22] ‘The Founders of M
+[2:22] ving: Dive into the Authentic Guide to @
+[2:22] Latest
+[2:22] Popular
+[2:22 - 2:23] [MiKEMEW]
+[2:22 - 2:23] Mewing By Mike Mew
+[2:22 - 2:23] 637k subscribers
+[2:22 - 2:23] 641 videos
+[2:22 - 2:23] more
+[2:22 - 2:23] 60 mikemew.com and 8 more links
+[2:22 - 2:23] §Q community
+[2:22 - 2:23] Home
+[2:22 - 2:23] Shorts
+[2:22 - 2:23] Live
+[2:22 - 2:23] Playlists
+[2:22 - 2:23] Oldest
+[2:23] on yaicows पता
+[2:23] ‘The Founders of Mewing: Dive into the Authentic Guide to a
+[2:23] Natural Jawline
+[2:23] Chewing + Mewing:
+[2:23] What Actually
+[2:23] Changes?
+[2:23] 5.9K views - 1 month ago
+[2:23] Court Case Verdict:
+[2:23] What Comes Next?
+[2:23] 4:32

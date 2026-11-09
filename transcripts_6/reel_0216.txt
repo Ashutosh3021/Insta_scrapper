@@ -1,0 +1,85 @@
+# model: ggml-large-v3
+========================================================================
+[216] https://www.instagram.com/reel/DBmDQpWMxNb/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] this is a patient where my realization that airway mattered came from this this patient she was 35
+[0:08 - 0:13] years old had horrible pain pattern and I had her in an appliance to bring her job forward which
+[0:13 - 0:18] made her feel really great she felt better than she had really in years but the appliance broke
+[0:18 - 0:22] and what happened she didn't get into the office for a couple of weeks and she came in she was
+[0:22 - 0:27] distraught and she said to me dr. hang when I came to see you I was suicidal I never told you that
+[0:27 - 0:32] but I felt great when I had the appliance in and then when it broke I felt like I did when I came
+[0:32 - 0:38] to see you like I was going to drown or choke to death those were her exact words luckily that
+[0:38 - 0:43] resonated with me and I thought well what does that mean you can see the airway at the base of
+[0:43 - 0:48] her tongue and it's real small well I had no idea what size that was supposed to be and I called an
+[0:48 - 0:52] oral surgeon that I worked with and he said that should be ten or eleven millimeters and it's you
+[0:52 - 0:57] know it's really two or three and ever since that time about every time I'd look at a lateral head
+[0:57 - 0:57] adductoris and I'd look at it and I'd be like oh my god there's something wrong there's something
+[0:57 - 0:59] x-ray, that's the first thing I look at is the
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] THE IMPACT 0
+[0:00] ITION
+[0:00] LTH
+[0:00] DR, Mil
+[0:01] iat
+[0:01] ipa i
+[0:02] ue IsA PATIENT:
+[0:02] iil
+[0:04] THAT)
+[0:04] Hii
+[0:05] MATTERED
+[0:06] ROSS
+[0:06] i Hf
+[0:08 - 0:09] vile
+[0:11] PLIA!
+[0:12 - 0:14] vile
+[0:15] BETTER
+[0:16] REALL)
+[0:16] Heyy!
+[0:17] THE APPLIANCE
+[0:17] oy h
+[0:17] 149
+[0:17] Bil}
+[0:18] BROKE
+[0:19] S= Dip
+[0:19] init
+[0:20] OFFICE
+[0:21] AND
+[0:21] Mii}
+[0:22] SHE WAS DISTRAUGHT.
+[0:23] SHE SAI
+[0:24] ING WHEN
+[0:25] ॥ CAME TO SEE YOU
+[0:26 - 0:27] vile
+[0:27] ie sy
+[0:27] I NEVER TOLD Yt
+[0:27] IAT
+[0:29] 6 |HAD THE
+[0:30] pes
+[0:30] » » AND THEN
+[0:31] ie ॥ ni
+[0:32] AME
+[0:33] WAS
+[0:34] TO DROWN
+[0:35] OR CHOK!I
+[0:36] THOSE WERE
+[0:37] Lae |
+[0:38] LUCKILY
+[0:38] Hit
+[0:39] RESONATED 7]
+[0:40] THOUGH
+[0:41] MEAN
+[0:44] हे है । 4
+[0:46] VAN
+[0:46] ay ae
+[0:47] THAT Was ‘
+[0:47] uit
+[0:48] AND ul
+[0:54] Al Evi
+[0:54] Hi it
+[0:55] THAT TIME
+[0:55] iff

@@ -1,0 +1,98 @@
+# model: ggml-large-v3
+========================================================================
+[221] https://www.instagram.com/reel/C-VzZWOM8lh/
+STATUS: OK
+DURATION: 0:41   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] Did you know improper swallowing can affect your teeth?
+[0:10 - 0:15] Kivo's front teeth stick out because he's pushing them forward with his tongue every time he swallows.
+[0:15 - 0:18] He doesn't even swallow his food properly. He's suckling it.
+[0:18 - 0:21] A proper swallow should have no indication in the face.
+[0:21 - 0:27] The lips resting together and the tongue forcing on the palate raising the cheekbones, not teeth.
+[0:27 - 0:33] Pushing them forwards. You can tell he's not chewing his food enough, he just sucks and gulps it down.
+[0:33 - 0:38] Chewing thoroughly and swallowing correctly are key to good oral posture and dental health.
+[0:38 - 0:41] Learn more about proper swallowing techniques with the Mewing app.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Pam + के 2
+[0:02] es ed
+[0:03] . me eral
+[0:03] ae ey
+[0:03] aos Be Fe
+[0:05] as, Oh
+[0:06] vs! Db
+[0:06] awe
+[0:07 - 0:09] DID YOU KNOW;
+[0:07 - 0:09] IMPROPERY
+[0:07 - 0:09] SWALLOWING CAN
+[0:07 - 0:09] AFFECT Y,QURMTEETH
+[0:08] 010/901॥९४७४४
+[0:08] IMBRORE
+[0:08] SWALUOW,
+[0:08] CAN
+[0:08] R TEETH
+[0:08] Ta अआ
+[0:10] GIVE THOSE|FRONT,
+[0:10] TEETH STICK OUT
+[0:11] PUSHINGIAIFORWARD.
+[0:11 - 0:12] mae
+[0:11 - 0:12] HES
+[0:11 - 0:13] WITH HIS TONGUE
+[0:12] IGJAEORWARD
+[0:13] sae SEIHE
+[0:13] PBUSHIN
+[0:13] RVVARD
+[0:14] EVERY@TliIME\|HE}
+[0:14 - 0:16] SWALLOW]H
+[0:15] HE Ww EVEN
+[0:15] SWALLOW) HIS FOOD,
+[0:15 - 0:17] PROPERLY.
+[0:16] HE DOESNaI
+[0:16] VEN
+[0:16 - 0:17] STFOOD
+[0:17] HE iY EVEN
+[0:17] SWALLOWJHI
+[0:18] HE'S ay IT,
+[0:19] fey:
+[0:19] PRO
+[0:19] RISWAL
+[0:19] OUI
+[0:19] NIN
+[0:20] RROREF
+[0:20] 17०५४
+[0:20] (11०1८
+[0:20] wil
+[0:21] PROPER
+[0:21] NUL
+[0:21] INDICAY
+[0:21] NEE
+[0:21] ACE!
+[0:22] 7 LIRSIRESTING
+[0:22] KOGETHER
+[0:25 - 0:27] THE TONGUE FORCING
+[0:26 - 0:27] ON THE PALATE RAISING
+[0:27] THE CHEEKBONES
+[0:27] NOT DEEPI
+[0:28] HEM
+[0:28] FORWARDS
+[0:29] YOU coe है HE'S
+[0:29] NOT, CHEWING HIS
+[0:29] FOOD ENOUGH
+[0:31] ५७-०4
+[0:33] क्र 4
+[0:34] Lom)
+[0:34] THOROUGHINJAND
+[0:34] SWALTOWING
+[0:34] CORREGTLY
+[0:35] है jj
+[0:35] ARE Law GOOD
+[0:35 - 0:36] ORAL POSTURE AND
+[0:35 - 0:36] DENTAIMH HEALTH
+[0:36] है हे
+[0:36] 181२६ खा 0(/७000
+[0:38] जय ८
+[0:40] ! जड़
+[0:40] BECOME A
+[0:40] MEWING MASTER

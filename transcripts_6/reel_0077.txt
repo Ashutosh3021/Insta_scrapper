@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[77] https://www.instagram.com/reel/DT0trBHCHWp/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] here's correct tongue posture in under 10 seconds close your mouth teeth lightly together not
+[0:05 - 0:11] clenched place your tongue flat against the roof of your mouth including the back third and suck
+[0:11 - 0:17] it into place most people miss the back foot of the tongue that's the most important part no
+[0:17 - 0:23] pushing no tension just hold the suction this should feel natural if it doesn't go see my app
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:04] ara
+[0:04] ha | aoe
+[0:05] Fe) rT आ 5८
+[0:05] > | ope
+[0:08 - 0:09] INCLUDING THE BACK
+[0:10] PANDISUCKAITIINTO)
+[0:11] AD SUK it Di FLAS
+[0:13] = | ome
+[0:16] PRS
+[0:16] ५-३३
+[0:17 - 0:18] NO PUSHING NO TENSION
+[0:18] ९3 बा. 2
+[0:19] JUST HOLD THE SUCTION

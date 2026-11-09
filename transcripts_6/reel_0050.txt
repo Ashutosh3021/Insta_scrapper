@@ -1,0 +1,36 @@
+# model: ggml-large-v3
+========================================================================
+[50] https://www.instagram.com/reel/DWUQAWXiO8S/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] can facial asymmetry be improved naturally no face is perfectly symmetrical and that's normal
+[0:07 - 0:13] asymmetry often comes from chewing dominance after the central balancing force of the tongue
+[0:13 - 0:18] on the palate has been lost due to poor posture and breathing patterns better functional balance
+[0:18 - 0:25] can improve this especially during growth but the most important aspect is to get the tongue
+[0:25 - 0:32] resting back on the roof of the mouth aim for tongue position first balance second and then perfection
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] tye
+[0:00] Level }
+[0:00] the
+[0:00 - 0:01] Tilted Midline |
+[0:00 - 0:01] rooked Jawline
+[0:01] rye Level
+[0:02] f * RB
+[0:05] bes,
+[0:06] And that's
+[0:12] क्र
+[0:12] ' balancing
+[0:16] posture end
+[0:19] cei eee eeeee ees
+[0:19] belencoe can
+[0:20] limproverthicn
+[0:28] ५०३७ ॥
+[0:28] Aim for
+[0:29] Rey
+[0:29] CHAS
+[0:29] position first,
+[0:32] perfection.

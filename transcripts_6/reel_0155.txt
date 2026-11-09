@@ -1,0 +1,95 @@
+# model: ggml-large-v3
+========================================================================
+[155] https://www.instagram.com/reel/DLiIrtQsVW8/
+STATUS: OK
+DURATION: 1:41   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Chew your food until it's liquid.
+[0:02 - 0:05] My grandmother told me to chew 32 times
+[0:05 - 0:08] because I had 32 teeth.
+[0:08 - 0:11] Well, very few people have 32 teeth
+[0:11 - 0:14] and I don't know if there's much science behind that.
+[0:14 - 0:16] But don't rush.
+[0:16 - 0:19] Remember the slow food movement.
+[0:19 - 0:23] It surprises me how long and elaborately
+[0:23 - 0:25] people are with cooking their food,
+[0:25 - 0:28] only to gulp it down like animals.
+[0:28 - 0:30] Savor every mouthful.
+[0:30 - 0:34] Also, stop complaining about issues
+[0:34 - 0:37] like gluten or carbohydrate intolerance
+[0:37 - 0:42] before you properly process your food in your mouth,
+[0:42 - 0:45] thoroughly mixing it with amylase,
+[0:45 - 0:47] the natural enzyme in saliva,
+[0:47 - 0:51] which catalyzes the breakdown of starch into sugars,
+[0:51 - 0:55] a crucial step in carbohydrate digestion.
+[0:55 - 0:58] Totally unexploited by almost
+[0:58 - 0:59] everyone.
+[0:59 - 1:04] During this, your facial muscles should be completely passive.
+[1:04 - 1:08] Busy on the inside, Mona Lisa on the outside.
+[1:08 - 1:10] Not a flinch.
+[1:10 - 1:14] Finally, chin tuck and swallow
+[1:14 - 1:18] while you are biting together in your normal position,
+[1:18 - 1:21] engaging the back third of your tongue,
+[1:21 - 1:24] pressed firmly against the roof of your mouth.
+[1:24 - 1:27] Assisted, if necessary, with a chin tuck.
+[1:27 - 1:28] I cannot tell you
+[1:28 - 1:31] how to engage the back third of your tongue
+[1:31 - 1:32] here in this video.
+[1:32 - 1:33] It's too complicated.
+[1:33 - 1:37] For that, you will need the Mewing App by me, Mike Mew,
+[1:37 - 1:41] which also covers the suction hole in some detail.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] YOUR FOOD
+[0:00 - 0:01] CHEWING
+[0:01] It’s
+[0:03] MY GRANDMOTHER
+[0:07] ७७ Aad
+[0:24] पे 2
+[0:26] ‘ey pl?
+[0:35 - 0:36] CARBOHYDRATE
+[0:37] oak
+[0:38] BEFORE
+[0:39] PROPERLY
+[0:41] fan
+[0:42] ihe
+[0:42] THOROUGHLY;
+[0:43] coed
+[0:45] eal
+[0:47] ALS
+[0:49] BREAKDOWN
+[0:51] SUGARS
+[0:53] CARBOHYDRATE
+[0:55] ‘Si 4
+[0:56] aia
+[0:57] ALMOST
+[0:58] है 1 }
+[0:59] Ges
+[1:00] ton
+[1:04] BUSY ON
+[1:06] amt
+[1:07] ows
+[1:10] sail
+[1:12] ona J
+[1:16] irs
+[1:18] why,
+[1:18] POSITIO
+[1:20] wo 0
+[1:21] 8 1५ -
+[1:22] re ey
+[1:24] 4725
+[1:24] ASSISTED
+[1:34] = ‘Mewing by Or Mik
+[1:34] © Concei
+[1:34] NEED
+[1:36] ey eee
+[1:36] MIKE
+[1:36 - 1:38] न्न्ष्ण्ग्नि
+[1:37] Ate ee
+[1:37] WHICH
+[1:38] te ie
+[1:38] COVERS
+[1:39] PER
+[1:40] fae

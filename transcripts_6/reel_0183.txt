@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[183] https://www.instagram.com/reel/DEAq7R5MeoX/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] How can we be more effective at helping kids, not just kids, but adults as well?
+[0:06 - 0:10] We realize that people of all ages have these issues, and the deeper the dive you make into
+[0:10 - 0:16] this, you realize it really is a pandemic, and all these breathing issues are correlated
+[0:16 - 0:18] to every chronic disease known to man.
+[0:18 - 0:22] Unless and until we take control of this, we're still going to be fighting forest fires
+[0:22 - 0:24] when it makes more sense to prevent them.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] EATHING
+[0:01] EATH
+[0:02] के के:
+[0:04] figs
+[0:11] REALIZE
+[0:11] hit
+[0:15] SRRE!
+[0:16] 7 it
+[0:16] TO EVER
+[0:18] UNLESS)
+[0:20] STILE
+[0:22] S24
+[0:24] ORT THE CAUSE
+[0:24] THE
+[0:24] Pat
+[0:24] ull
+[0:24] re aeiils)
+[0:25 - 0:30] HELP SUPPORT THE CAUSE ;
+[0:25 - 0:30] BY SUBSCRIBING TO
+[0:25 - 0:30] THE MEWING APP BY MIKE MEW
+[0:30] [osu]
+[0:30] onthe |
+[0:30] | « ‘Avail
+[0:30] p Store

@@ -1,0 +1,46 @@
+# model: ggml-large-v3
+========================================================================
+[154] https://www.instagram.com/reel/DL74HLbs2LW/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Your wisdom went the way of your airways.
+[0:03 - 0:07] How many teeth should any modern human have?
+[0:07 - 0:09] It's a really simple question,
+[0:09 - 0:12] but it's one of those ones that no one is asking
+[0:12 - 0:14] or even noticing.
+[0:14 - 0:16] Why is your airway shrinking?
+[0:16 - 0:18] Or why are you not sleeping well?
+[0:18 - 0:20] Are two really related questions
+[0:20 - 0:22] that people are asking more about,
+[0:22 - 0:25] but don't seem to have answers to.
+[0:25 - 0:26] Both less space for the teeth
+[0:26 - 0:28] and less space for your airway
+[0:28 - 0:33] seem to have increased massively over the last 30 years
+[0:33 - 0:35] in parallel trajectories,
+[0:35 - 0:38] seeming to affect the same people with sleep apnea
+[0:38 - 0:40] occurring a little later in life.
+[0:40 - 0:43] So what's going on?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:15] 2 Ge ey Lae
+[0:15] SS SS SS ST
+[0:15] a a SS Se ee पाया पाया“
+[0:15] ——— अननमन
+[0:15] SHRINKING
+[0:15] "ae a! Set “कक ES ES डा "६ ऋ..
+[0:15] Z ff fy NNN
+[0:15] a समा5 चचा
+[0:15] आना (या lo जाता:
+[0:16] 107 WHY
+[0:17] SLEEPING
+[0:18] ARE TWO
+[0:19] RELATED
+[0:20] QUESTIONS
+[0:22] ABOUT
+[0:27] baa
+[0:31] (ays
+[0:34] TRAJECTORIES
+[0:38] APNEA

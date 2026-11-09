@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[239] https://www.instagram.com/reel/C6qRnMZttiS/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] What the f*** is mewing and how do I start? I feel left out. Everyone's mewing except Madeleine. I thought it was this.
+[0:05 - 0:13] Mewing is a possible technique that I invented that involves placing the tongue on the roof of the mouth to gain health and facial improvements.
+[0:13 - 0:21] My father noticed that our orthodontic patients that have their lips together, tongue on the roof of the mouth and teeth in or near contact
+[0:21 - 0:26] had more attractive faces and their faces would grow forwards.
+[0:27 - 0:35] Then I created mewing as a way to help people keep their mouth closed without appliances with the minimum of effort.
+[0:35 - 0:39] Check out the mewing app and become an expert mewer.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] MEWING?
+[0:07] जैक
+[0:07] postural
+[0:07] है F
+[0:08] invented
+[0:09] wii
+[0:10] onthe root)
+[0:16] patients
+[0:20] Jamini Age 15
+[0:20] ... ४५५४४५५७
+[0:20] and teeth)
+[0:21] Age
+[0:21] ५५५
+[0:21] contact:
+[0:22] had mor
+[0:23] wwe
+[0:23] aaa
+[0:23] बात आन
+[0:23] attractive
+[0:26] forward:
+[0:27] हि. A
+[0:27] Then
+[0:29] awi
+[0:30] help people
+[0:31] their mouth
+[0:32] without
+[0:33] py 2Peliances.
+[0:34] minimum
+[0:35] ol a \.
+[0:35] of effort,
+[0:36] (check Gut
+[0:37] aba a
+[0:38] Z प्र
+[0:38] an expert
+[0:39] Mew

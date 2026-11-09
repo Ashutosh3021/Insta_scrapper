@@ -1,0 +1,80 @@
+# model: ggml-large-v3
+========================================================================
+[235] https://www.instagram.com/reel/C9ApM1OskRG/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Do you have a recessed maxilla? You can check by looking at your cheek line.
+[0:04 - 0:09] Ideally the cheek line should be parallel to the bridge of the nose. If
+[0:09 - 0:14] the face grows back and downwards the cheeks become flatter. This makes the
+[0:14 - 0:19] nose appear larger and the cheeks set back and the cartilage grows downwards
+[0:19 - 0:24] eventually causing the hooked look. To check, take aside a LAT4 profile
+[0:24 - 0:28] picture and see how parallel your cheek line is to your nose. For more tips on
+[0:28 - 0:32] facial posture, check out the Mewing app.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] bes
+[0:01] ana
+[0:02] peat es जा
+[0:02] 16॥# ४11
+[0:03] है 4
+[0:03 - 0:04] you can check by,
+[0:03 - 0:04] looking at your
+[0:03 - 0:05] cheekline
+[0:05 - 0:06] ideally the
+[0:06] tine)
+[0:06] Neektine
+[0:08] ine ‘of
+[0:08] ithelmose
+[0:08 - 0:09] ‘arallel
+[0:09] showed)
+[0:09] [9 1119)
+[0:09] dge
+[0:09] > tie
+[0:10] if 3 Taeexgrows
+[0:10] lgack ame”
+[0:10 - 0:11] downwards
+[0:11] 12210५४5
+[0:11] ack“ape>
+[0:11] if हे
+[0:12] it 1 हित
+[0:12] beeome'ilatter
+[0:13] itll
+[0:13] unl in the
+[0:13] ear
+[0:13] larger
+[0:14] unis mel
+[0:14] Ike'si the
+[0:14] peels
+[0:14] lar
+[0:14] oid
+[0:15] Jalna!
+[0:15] 10 2|८5
+[0:15] set backs
+[0:16] cael
+[0:16] Hy i
+[0:16] Pig] the Cheeks
+[0:16] set
+[0:17] the Chews
+[0:19] Gventualhy Catisine)
+[0:19] / Ya hookedilook
+[0:20] aioe
+[0:20] श्र
+[0:20] Cwentualhy 30519
+[0:20] look
+[0:20] / Npoolkec |
+[0:21 - 0:24] To checek¢take a
+[0:21 - 0:24] side a lack for
+[0:21 - 0:24] profile picture
+[0:25 - 0:27] and see how,
+[0:25 - 0:27] parallel your
+[0:25 - 0:27] cheekline is to
+[0:25 - 0:27] your nose
+[0:27] 3 #-रे
+[0:29] 4०५ *
+[0:29] for
+[0:29 - 0:30] BECOME A
+[0:29 - 0:30] MEWING MASTER
+[0:30] mew

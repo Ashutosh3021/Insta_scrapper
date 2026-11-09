@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[215] https://www.instagram.com/reel/DBwlz0UsCHz/
+STATUS: OK
+DURATION: 1:00   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] just to explain the concept so when our heart beats from one beat to the next to the next to
+[0:07 - 0:13] the next it's not a perfect rhythm we talk about a heart rhythm when we measure it in microseconds
+[0:13 - 0:19] it's not 100 perfect there's little micro adjustments that are made and it ties in a lot
+[0:19 - 0:25] with the autonomic nervous system which is divided into two elements the sympathetic and the parasympathetic
+[0:25 - 0:29] now the sympathetic nervous system will make the heart go faster and the parasympathetic system
+[0:29 - 0:33] will slow it down and there's a reason for each and there's a moment for each when we have sleep
+[0:33 - 0:38] disordered breathing back to what you were saying you know that panic and anxiety that comes with
+[0:38 - 0:42] sleep disordered breathing well that's your flight and fight system and that turns up your sympathetic
+[0:42 - 0:48] nervous system which then turns up your heart rate now the faster the heart is going the less
+[0:48 - 0:53] it can adjust in between beats it doesn't have enough correction time in between beats this is
+[0:53 - 0:55] what we call heart rate variability
+[0:59 - 1:02] Subtitles by the Amara.org community
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] (OSH
+[0:00 - 0:01] HEART RATE ४;
+[0:00 - 0:01] ITY AND.
+[0:00 - 0:01] THE NER’
+[0:00 - 0:01] DR, DAVII
+[0:13] oo ma
+[0:14] we A
+[0:26] ree
+[0:26] nai
+[0:30] W IT DOW!
+[0:34] BREATHING
+[0:34] Be 1,
+[0:35] eee
+[0:35] है के
+[0:51] ORRECTII
+[0:53] ret
+[0:55] HEI
+[0:55] ISE
+[0:55] 3ING TO
+[0:55] 3SCR
+[0:55] IG APP
+[0:55 - 0:59] SUPPOR
+[0:55 - 0:59] HE MEWING
+[0:55 - 1:00] MIKE MEW
+[0:56] ble on the
+[0:56] pp Store
+[0:56] 5085:
+[0:56] MIKE
+[0:56] MEW
+[0:56 - 0:58] ‘AUS!
+[0:56 - 0:59] 1ELt
+[0:57] HE MEWING APP
+[0:57 - 1:00] TON
+[0:57 - 1:00] Google Play
+[0:57 - 1:00] SUBSCRIBING
+[0:59] ISI
+[1:00] mM=W
+[1:00] SUPP
+[1:00] IRT
+[1:00] MEWING APP

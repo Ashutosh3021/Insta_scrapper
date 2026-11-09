@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[68] https://www.instagram.com/reel/DUd8GkoiEDZ/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Does chewing hard foods matter?
+[0:02 - 0:04] Chewing stimulates jaw muscles
+[0:04 - 0:06] and supports healthy development.
+[0:06 - 0:08] Soft, modern diets reduce stimulation,
+[0:08 - 0:10] especially in children.
+[0:10 - 0:13] Chewing won't fix posture, but it plays a role.
+[0:13 - 0:15] Function builds form.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 1 Ul
+[0:01] Tinie a:
+[0:01] eer
+[0:03] | हें
+[0:03 - 0:04] beens
+[0:04] dae
+[0:05] 84 60/ /
+[0:06] RNIDIETS
+[0:06] us D
+[0:08] des at
+[0:11] bot
+[0:12] i= | aneepr
+[0:13] eee
+[0:13] L भ्शै
+[0:15] Kat

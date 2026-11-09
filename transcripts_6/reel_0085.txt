@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[85] https://www.instagram.com/reel/DTwqSa0CF9c/
+STATUS: OK
+DURATION: 1:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:10] Okay, back home after a, well, really weird day, and sometimes I wonder why I'm going through all of this.
+[0:10 - 0:14] It's been, what, eight and a half years? It's cost me everything.
+[0:14 - 0:18] And I guess sometimes you have to stand up your beliefs, don't you?
+[0:18 - 0:23] And however much it costs you, and, whoa, this has cost me an awful lot.
+[0:23 - 0:27] And here I'm home, family, and sitting down with my oldest.
+[0:27 - 0:31] We're watching a movie, and I'm going back to have some strawberries and cream.
+[0:31 - 0:33] I'm trying to do a keto diet.
+[0:33 - 0:49] So it's tough, and, you know, I could have just, I could have mitigated, said I won't do it again, and got out of all of this.
+[0:49 - 0:51] But, no, I stuck to my guns.
+[0:51 - 0:53] I stuck to my beliefs.
+[0:53 - 0:57] And here I've, well, so far I've paid the ultimate price.
+[0:57 - 1:01] If I win, I guess, I guess I win, and then things change.
+[1:01 - 1:09] And that's the hope I have, to make a better future for all those kids and a better future for humanity.
+[1:09 - 1:11] God, that sounds crazy, doesn't it?
+[1:11 - 1:14] But that is literally what I'm hoping for.
+[1:14 - 1:16] So, anyway, let's see.
+[1:16 - 1:18] Let's see what tomorrow brings.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] ars)
+[0:01] lem
+[0:01] Now
+[0:05] Ain
+[0:08] are;
+[0:09] 7100
+[0:10] स्तन
+[0:14] 010
+[0:17] woe
+[0:17] Red
+[0:18] sini
+[0:19] gin
+[0:20] eae
+[0:22] cme
+[0:31] fae
+[0:44] fay)
+[0:46] mye
+[0:47] Sar
+[0:48] स्का
+[0:49] otis,
+[0:52] Sse,
+[0:55] ole
+[0:57] tr Sy
+[1:05] / Aaa
+[1:09] agit:
+[1:10] slits
+[1:12] ner:
+[1:14] Bor
+[1:14] Saad
+[1:15] oye
+[1:15] Pe sig

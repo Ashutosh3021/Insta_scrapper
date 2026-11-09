@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[63] https://www.instagram.com/reel/DVrSP79iDoQ/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] I think Tom Cruise is someone who's made definitive improvements in his space or form through his life.
+[0:05 - 0:07] I'm certain of it.
+[0:07 - 0:10] Either he was going to get better or he was going to get worse.
+[0:10 - 0:17] And I think just selection, you know, the Tom Cruise you've got as a actor clearly is someone that got better.
+[0:17 - 0:24] But I think that we sort of progress by success, progression by succession.
+[0:24 - 0:31] If you become successful, you want to stand up straight and keep your mouth closed and effectively have better body posture.
+[0:31 - 0:34] You're going to mew more if you have success.
+[0:34 - 0:36] Just, you know, you see a friend looking like this.
+[0:36 - 0:38] Why the long face?
+[0:38 - 0:40] What do you think's happened?
+[0:40 - 0:42] A good thing or a bad thing?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] red
+[0:00] ७७०
+[0:00] pe उ््क
+[0:00 - 0:01] दे you'r
+[0:02 - 0:05] iy type’
+[0:04] "Sorry yc
+[0:04] re not my pe
+[0:06] ayer
+[0:11] 3 you're no
+[0:11] y type
+[0:21] डक ल्च
+[0:31] a eC
+[0:31] wed
+[0:40] “J sand

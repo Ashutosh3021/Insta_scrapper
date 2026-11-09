@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[206] https://www.instagram.com/reel/DCKEm7GsyFZ/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] For those that are not familiar with the adenoid facies or the adenoid face, that's a situation
+[0:06 - 0:11] where the child, when they're mouth breathing, it restricts their jaw growth and cranial
+[0:11 - 0:16] form and development such that the jaw ends up elongated and narrow.
+[0:16 - 0:21] And that basically, you know, is the outer framework for then the inner workings of the
+[0:21 - 0:22] nose and throat.
+[0:22 - 0:32] And if the outside is squashed in, then the inside is squashed in.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] ADENOID 3
+[0:00 - 0:01] THEIR
+[0:00 - 0:01] IMPACT ON 51
+[0:00 - 0:01] HEALTH,
+[0:00 - 0:01] DR, MIKE MI
+[0:00 - 0:01] DR. DAVII
+[0:00 - 0:01] (OSH
+[0:04] sai
+[0:07] ‘set
+[0:15] ba NARROW)
+[0:18] maa
+[0:20] igi
+[0:22] ‘AND THROA}
+[0:23] ‘sel
+[0:27] mM=W
+[0:27] ™ HELP SUPPORT THE CAUSE
+[0:27] BY SUBSCRIBING TO
+[0:27] eT HE MEWING APP BY MIKE MEW
+[0:27] श्र
+[0:28] HE MEWING ४7०7 B}
+[0:28 - 0:29] 1ELF
+[0:28 - 0:29] SUPPOR
+[0:28 - 0:29] SUBS‘
+[0:28 - 0:31] lable on the
+[0:28 - 0:31] App Store
+[0:28 - 0:32] ‘AUS!
+[0:28 - 0:32] MIKE MEW
+[0:29] "AUSE
+[0:29] iE MEWING AP}
+[0:30] HE MEWING APP BY MIKE MEW
+[0:30 - 0:31] BING
+[0:30 - 0:32] +ELP SUPPORT
+[0:30 - 0:32] SUBSCRI
+[0:31] PPORT
+[0:31] 115 MEWING APP
+[0:32] Google Play
+[0:32] IELP
+[0:32] HE MI
+[0:32] NING APP

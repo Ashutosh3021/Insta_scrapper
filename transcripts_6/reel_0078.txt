@@ -1,0 +1,194 @@
+# model: ggml-large-v3
+========================================================================
+[78] https://www.instagram.com/reel/DT0do9CCBfz/
+STATUS: OK
+DURATION: 4:52   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Okay, still in the High Court, still the last day, but look, we've got lots of cameras here,
+[0:06 - 0:10] you know, because Liz Hurley's in town.
+[0:10 - 0:15] Yeah, we had Prince Harry yesterday, this is this big case against the Daily Mail.
+[0:15 - 0:24] Alright, so Stephen Bullough, my KC, not QC anymore, has opened and he's now giving the
+[0:24 - 0:27] final bit of speaking from the lawyers, alright.
+[0:27 - 0:34] Final comment, this is to save my skin, to save these ideas, to push forwards orthodontics
+[0:34 - 0:38] into a modern era, I believe, remember, it's all my belief.
+[0:38 - 0:47] So what he's opened with, he opened with the idea that what I was doing was, no, the bias,
+[0:47 - 0:53] the bias, because he's saying, look, the bias, it's binary, either they were biased or they
+[0:53 - 0:53] weren't biased.
+[0:53 - 0:57] And we've got lots of examples of bias and it's a binary.
+[0:57 - 0:57] It's a binary decision.
+[0:57 - 1:05] There's not a, it's not a sort of, oh, he was a little bit biased, because it's like
+[1:05 - 1:10] you finding out a mate was lying, you know, if you find out a mate was lying, basically
+[1:10 - 1:13] how much have they been lying to you in the past?
+[1:13 - 1:16] You don't know, do you?
+[1:16 - 1:22] And those lies could run way, way deep, because if you found one example of them lying, they
+[1:22 - 1:26] could have just lied and lied and lied, so it has to be a binary decision.
+[1:27 - 1:33] Because it's quite difficult to find an example of someone lying if they're lying very effectively.
+[1:33 - 1:40] So when you do find an example of someone lying, you've got to assume those lies run
+[1:40 - 1:41] all the way through.
+[1:41 - 1:45] And that's what he really emphasises when he came on.
+[1:45 - 1:48] He really emphasised, look, a lie is a lie.
+[1:48 - 1:54] And if those guys were lying, then you've got to throw out everything they say.
+[1:54 - 1:54] And that's the law.
+[1:54 - 1:57] That's how the law works, because it's a binary decision.
+[1:57 - 2:05] He then went on to tackle this idea that the bolo-bolitum thing, you know, because again,
+[2:05 - 2:12] if I'm doing the same treatment as a respectable body of sensible, I can't remember, sensible
+[2:12 - 2:15] body of other practitioners, then you're fine.
+[2:15 - 2:21] You know, how can, it's not for the authorities to go around deciding what treatments people
+[2:21 - 2:22] should or shouldn't do.
+[2:22 - 2:27] It's for, you know, a group of doctors to get together.
+[2:27 - 2:28] Say, we're going to do this treatment.
+[2:28 - 2:31] And they've got some, some evidence.
+[2:31 - 2:35] It doesn't need to be perfect because, hey, you often don't have perfect evidence, do you?
+[2:35 - 2:37] And it's got to be sensible.
+[2:37 - 2:38] It's got to make logical sense.
+[2:38 - 2:39] It can't be crazy.
+[2:39 - 2:40] Then you're fine.
+[2:40 - 2:46] Now, what we said in the court case is that, well, we demonstrated there was a sizable
+[2:46 - 2:48] body of people doing orthotropics.
+[2:48 - 2:55] Then, after we demonstrated that, the GDC went on to say, ha, ha, well, but they're
+[2:55 - 2:57] not doing exactly what you're doing.
+[2:57 - 3:05] And my barrister said, well, then you're introducing, all of a sudden, another level
+[3:05 - 3:06] that we just didn't expect.
+[3:06 - 3:08] And how could we prepare for that?
+[3:08 - 3:17] And he pointed out that the Maxfacts expert, just in the stand, when he was on the stand,
+[3:17 - 3:22] suddenly goes, oh, by the way, I went online, I had looked, I looked up some orthotropic
+[3:22 - 3:25] practices, there weren't many, there's Dr.
+[3:25 - 3:27] Mew in the UK, there's another guy.
+[3:27 - 3:27] No.
+[3:27 - 3:30] Three in Ireland, three in Europe and a load in America, but you know what, from what I
+[3:30 - 3:32] could see, they were doing different stuff.
+[3:32 - 3:35] Now, he didn't tell in advance that he'd done that.
+[3:35 - 3:38] He didn't provide the Google search he'd done.
+[3:38 - 3:40] He just floated the idea.
+[3:40 - 3:43] And when we complained, no, they said, that sounds fine.
+[3:43 - 3:44] That went through.
+[3:44 - 3:50] Now, what we'd done is we'd gone and done a Google search and we'd listed the Google
+[3:50 - 3:51] search.
+[3:51 - 3:52] We listed the terms we used.
+[3:52 - 3:57] We printed it all out and we had it all there in the paperwork and said, well, here's our
+[3:57 - 4:01] search, you know, search as we did, you know, we've done them professionally, we've given
+[4:01 - 4:05] you advance warning and we've printed them out, we've told you which search terms, and
+[4:05 - 4:07] they were denied.
+[4:07 - 4:10] So he said that this is not a fair equivalence.
+[4:10 - 4:16] And yeah, well, there you go, he's got started and he's taken the two big points.
+[4:16 - 4:22] Because if they throw out what the GDC experts said, because they were biased, and if they
+[4:22 - 4:26] accept that, yes, not only because they've accepted already, there's a significant body
+[4:26 - 4:31] of information that's doing orthotropics, but that I'm doing the same thing, then in
+[4:31 - 4:34] theory, I should be pretty much home and dry.
+[4:34 - 4:39] But hey, this is the law and the law is an ass, as they say, and you never know what's
+[4:39 - 4:40] going to happen.
+[4:40 - 4:41] Anyway, here we go.
+[4:41 - 4:47] Mike Mew at that High Court, yeah, checking in, well, we're almost over, almost over for
+[4:47 - 4:48] the third day.
+[4:48 - 4:51] Is my life going to, am I going to survive this or am I not, who knows?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] bi ipa
+[0:05] 47%. है
+[0:05] ४०१३६
+[0:10] Res
+[0:20] AOS
+[0:25] Ol as
+[0:25] हे ig
+[0:30] Mid
+[0:30] हर पु
+[0:35] fii
+[0:40] Se XN
+[0:40] jis
+[0:45] Rive
+[0:50] ‘Dalam
+[0:50] Oho j
+[0:50] ६ enw
+[0:55] yyy
+[0:55] ivy ~
+[0:55] tal
+[1:00] val be
+[1:15] sa a.
+[1:15] yr NS
+[1:15] iv 4
+[1:20] be nl
+[1:20] ofl
+[1:20] हैः
+[1:25] is cil
+[1:25] MUD
+[1:35] हुक ४
+[1:40] Was ob Aa.
+[1:40] res
+[1:45] ४२०
+[1:45] Ney Re")
+[1:50] +5 और
+[1:50] 920.
+[1:55] Asn
+[1:55] sta
+[1:55] a) 0१७
+[1:55] tis
+[2:00] ea. ry
+[2:00] ८ 25
+[2:05] on Y
+[2:10] श्र
+[2:10] nfl
+[2:20] Very
+[2:20] ei rs
+[2:20] ayYy
+[2:20] eat
+[2:25] hn A
+[2:25] heh
+[2:25] | Ton
+[2:25] है. rr
+[2:30] rw Wy
+[2:30] wth
+[2:30] tab iy
+[2:35] Nias.
+[2:35] 7 हे as
+[2:35] aie’:
+[2:40] aX SS
+[2:40] ग्रे
+[2:45] ५५४2३
+[2:45] १३३
+[2:45] 17 ४१४
+[2:45] ४:2९
+[2:45] fe; हा
+[2:50] len
+[2:55] DA 0१ “
+[2:55] Hie
+[3:00] Sal
+[3:00] rh) 4
+[3:00] Gea
+[3:10] as, pet
+[3:10] ४222,
+[3:20] 10००५
+[3:25] 1 1 4५
+[3:35] Wwe St
+[3:35] ees
+[3:40] eat
+[3:40] yal
+[3:45] a od
+[3:50] ava
+[3:50] Naw
+[3:55] tye,
+[3:55] CAAT
+[4:00] 420४8,
+[4:05] S59 \
+[4:05] e353)
+[4:05] See
+[4:10] हरे
+[4:10] 1५9
+[4:10] Toy
+[4:15] Huis
+[4:15] aa भी
+[4:20] TEN
+[4:20] fol
+[4:20] ९३६
+[4:25] Ty VhAag
+[4:30] ATs]
+[4:30] ०७३४
+[4:30] ie e
+[4:35] pit
+[4:35] Pag
+[4:35] WA SP
+[4:35] Nore
+[4:40] pres \
+[4:45] 7 ay
+[4:45] ४४५

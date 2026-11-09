@@ -1,0 +1,330 @@
+# model: ggml-large-v3
+========================================================================
+[11] https://www.instagram.com/reel/Db_A3aXoOhk/
+STATUS: OK
+DURATION: 2:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] About 95% of modern humans have some sort of jaw issue.
+[0:04 - 0:08] That's craniofacial dystrophy, or clinically, long face, adenoid faces.
+[0:08 - 0:13] Some of the most eminent minds of the 20th century published a top-tier paper
+[0:13 - 0:17] about the epidemic of suboptimal craniofacial development.
+[0:17 - 0:21] Basically, an altered maxilla manifests in crowded teeth,
+[0:21 - 0:24] weaker midface, and narrower obstructed airways,
+[0:24 - 0:28] with domino effects across multiple facial and bodily systems,
+[0:28 - 0:30] respiration, and sleep architecture.
+[0:30 - 0:36] Most of us are somewhere on this map, but no two faces share the same story.
+[0:36 - 0:40] Ethnicity, baby food, chewing time, breathing habits,
+[0:40 - 0:42] and other environmental and cultural factors
+[0:42 - 0:47] shape how each person's genes guiding facial growth were expressed.
+[0:47 - 0:49] The tendency is down and back,
+[0:49 - 0:54] but everyone's maxilla undertakes a slightly different personal journey.
+[0:54 - 0:56] For some, it may get stuck backwards.
+[0:56 - 0:57] Others rotate sideways.
+[0:58 - 0:59] Others swing downwards.
+[0:59 - 1:03] Some are affected by just a few millimeters, and some much more.
+[1:03 - 1:07] To compensate, some unconsciously thrust their mandible forwards.
+[1:07 - 1:09] Others let it hang loose.
+[1:09 - 1:11] In some people, these changes are subtle.
+[1:11 - 1:14] In others, they redefine the entire face.
+[1:14 - 1:18] So, think of craniofacial dystrophy as a spectrum.
+[1:18 - 1:21] We will all have individual variations,
+[1:21 - 1:24] but it is where you fall on that spectrum that matters.
+[1:24 - 1:27] If you are further along it, any intervention can happen.
+[1:27 - 1:30] Any intervention can become double-edged.
+[1:30 - 1:33] Like if you are somewhere in the middle of the CFD spectrum,
+[1:33 - 1:36] and your jaw joint is already fragile,
+[1:36 - 1:38] heavy chewing may provoke TMD.
+[1:38 - 1:41] If you are higher on the CFD spectrum,
+[1:41 - 1:44] regaining normal oral posture may be tough.
+[1:44 - 1:47] Not because you're doing it wrong,
+[1:47 - 1:49] but because the high, narrow, vaulted palate
+[1:49 - 1:52] makes it harder for you to achieve tongue seal,
+[1:52 - 1:55] let alone get the back section engaged fully.
+[1:56 - 2:00] If you are at the tail end of CFD S,
+[2:00 - 2:03] you likely have an anatomically congested space
+[2:03 - 2:04] in your nose and throat,
+[2:04 - 2:08] an S-shaped septum and deformed turbinates,
+[2:08 - 2:12] and you are dependent on supplemental mouth breathing.
+[2:12 - 2:14] So, don't beat yourself.
+[2:14 - 2:19] And quite possibly, your sleep is already severely fragmented,
+[2:19 - 2:22] making this your overriding priority.
+[2:22 - 2:25] So, everybody, beware of your anatomical boundaries,
+[2:25 - 2:27] and go easy on yourself.
+[2:27 - 2:30] And remember, besides some who were lucky enough
+[2:30 - 2:34] to have their facial growth go ideally
+[2:34 - 2:36] to its full genetic potential,
+[2:36 - 2:40] most of us are somewhere on the CFD spectrum.
+[2:40 - 2:42] Quick update.
+[2:42 - 2:45] Everything I'm part of will always be listed
+[2:45 - 2:49] in the description on MikeMew.com.
+[2:49 - 2:50] So that's your reference point
+[2:50 - 2:52] for what is genuinely mine
+[2:52 - 2:55] versus anything else out there that's using my name.
+[2:55 - 2:55] my name.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] है. २
+[0:01] ies
+[0:01] “in HO
+[0:02] of modi
+[0:02] mans
+[0:02] डरे
+[0:03] of modernjhumans
+[0:03] have Whee
+[0:03] sort
+[0:03] of ja
+[0:04] ९ pie
+[0:04] ihat's
+[0:05 - 0:08] That's craniofacial
+[0:06] or clinically
+[0:06 - 0:08] DYSTROPHY
+[0:07] LONG 5,
+[0:07 - 0:08] long face
+[0:08] ADENOID FACIEs
+[0:09] Pl © i
+[0:10] Ogu:
+[0:10] ono
+[0:12] publi
+[0:14] = [os bomee
+[0:14] oxrono
+[0:14] ‘The Jaw Epidemic
+[0:14] lecognition, Origins, Cures, and
+[0:14] no nn ma
+[0:14] nae
+[0:14] amen
+[0:14] ono
+[0:14] श््धय्य्य्प््््य्टा<
+[0:14] ग्भ्म्भ्ध्भ्््््ल््डः
+[0:14] ्ध्य्य्ल्ल्््म्््््न्न््स्पप9
+[0:14] ्््््न्न्त
+[0:14] ध्न्प्न्ल्य
+[0:14] pee
+[0:14] स्््म्प्म्प्प्ट
+[0:14] प््स्य्ल््ध्ा
+[0:14] rot
+[0:14] Soa.
+[0:14] 12001: cere
+[0:14] SERS acess
+[0:14] SSS
+[0:14] Seeneitent ran natncpomavesepiesuaa
+[0:14] ध्य्थ्श्ल््श््््ध््क
+[0:14] hin
+[0:14] sents
+[0:14] ‘pent cme nome a ey न +++
+[0:14] pean
+[0:14] gues
+[0:14] BB? Ga Se
+[0:14] fete
+[0:14] praca
+[0:14 - 0:15] Publjed
+[0:14 - 0:15] Prevention
+[0:15] Paes
+[0:15] avi
+[0:15] ‘The Jaw Epidemic: Recognition,
+[0:15] ins, Cures, and
+[0:15] ‘eo sen nce
+[0:15] sree
+[0:15] commer een om te en nt
+[0:15] Series oem
+[0:15] ध््््््य््््््स्ख्ट
+[0:15] tan on runes onan ease gnosis
+[0:15] ज््श्््््ल््््््े्््ल
+[0:15] न्म्भ्भ्म्भ््य्य्ध्य्प्न्य्स्ट
+[0:15] न्््य्य्स्ल््म्स्न्य्य्य्स्प्स्््न्प्न्चा
+[0:15] ल््््च्््श््टल्य्श््ल्न्थ्ड<
+[0:15] य््म््य््भ्भ्भ्््भ्प््य्््््ल्
+[0:15] Soman cannon caterers neat
+[0:15] खश्श्य्््च््चव््ध्न्य
+[0:15] न्स्स्भ्म्््भ्म्ल्ल््भ्य्प्य्य्य्ः
+[0:15] न्््््ल््््ल्ल््््िि मत
+[0:15] न्च्च््््््य्भ््््््स्य्प्प्य्य
+[0:15] य्य्य्््य्य्य्य््य्श््ल्््््लल्
+[0:15] स्स्च्श्ध््य्श्ल्स््य्िनत
+[0:15] श््ं्य्श्य््््् ् ््ल्श्का
+[0:15] ग्म्भ््य्भ्न््श्य्््््य्य्य्य्य््श्
+[0:15] न्ध्न्स्म्प्८
+[0:15] ध्य्््य्य्य्य््य््््य्य्श्थः
+[0:15] erence hd ni in
+[0:15] 25302 nade edeinewtenhaneerioceiinncnen!
+[0:15] goes
+[0:15] 11303]
+[0:15] Be Ea Se
+[0:15] foes
+[0:15] 2252:522
+[0:15] rs rt
+[0:16] Publis
+[0:16] Figure
+[0:16] 22:22
+[0:16] ar ates
+[0:16] too
+[0:18] con
+[0:18] tered)
+[0:18] diy
+[0:19] है. 5... maxilla manifests:
+[0:20] crowded teeth
+[0:21] ‘weaker mid face)
+[0:22] ami
+[0:22] ind narrower
+[0:23] structed airways
+[0:25] लक कक
+[0:25] effects across)
+[0:25 - 0:26] 1७४ 4
+[0:26] — tools
+[0:27] Ns we 4
+[0:28] ro 4: >
+[0:28] oe Pe
+[0:31] ‘Most of u:
+[0:32] ० somelliher
+[0:38 - 0:42] = ethnicity
+[0:38 - 0:42] « baby food
+[0:39 - 0:42] « chewing time
+[0:40 - 0:42] « breathing habits
+[0:41 - 0:42] = other environmental
+[0:41 - 0:42] and cultural factors
+[0:43] pst
+[0:44] Son's)
+[0:44] how each pe
+[0:45] lin
+[0:46] fry
+[0:46] EAS
+[0:47] were expressed
+[0:48] je tendenc}
+[0:49] down and bi
+[0:50] jeryone's
+[0:50] mith
+[0:51] maxilla)
+[0:52] aslightly
+[0:53] snot
+[0:53] personal Festi ey)
+[0:54] onal journe|
+[0:54] lina
+[0:55] ape
+[0:55] Getistuck
+[0:57] caw
+[0:58] ot १३५
+[0:59] another swil
+[0:59] HIT
+[1:00] / Some affecter
+[1:01] byj
+[1:03] and some
+[1:03] Himore)
+[1:04] ensate:
+[1:06] ome unconsciously
+[1:08] forwaras)
+[1:09] छल Me
+[1:10] Lal)
+[1:11] cal
+[1:12] Vie
+[1:12] Las
+[1:13] they redefine:
+[1:14] bi .t
+[1:15] है ANS
+[1:15] thelentire fac
+[1:16] craniofaci.
+[1:17] Ps हर
+[1:17 - 1:19] 5 हा
+[1:20] wile
+[1:20] 13४
+[1:23] where you fall on’
+[1:24] पिन:
+[1:24] that
+[1:24] tru
+[1:24] Inn
+[1:25] that matters)
+[1:26] AGG
+[1:26] along
+[1:27] any interw
+[1:27] Ito)
+[1:28] हैं
+[1:28] can 23328
+[1:29] double edged
+[1:30] बडे
+[1:30] if you are
+[1:35] Gy LJ
+[1:36] है ७
+[1:39] 7 in
+[1:45] because you
+[1:45] VAT
+[1:46] - doing it wi
+[1:47] con,
+[1:49] ९०.८5)
+[1:50] बचे
+[1:51] 0७.०,
+[1:52] Jetalone
+[1:54] Owe,
+[1:57] Ast
+[1:58] WAN
+[1:58] it the tail end
+[2:00] न ध्
+[2:03] Ps हि
+[2:06] 3 shaped sept
+[2:07] id deformed)
+[2:08] turbinates
+[2:09] ‘dependent
+[2:10] )॥1 supplement
+[2:11] mouth breathing)
+[2:13] aha
+[2:14] EAT 4
+[2:15] A ae
+[2:15] ind qui
+[2:17] aie
+[2:18] Mls
+[2:18] १५4५७
+[2:19] pam
+[2:19] making this
+[2:20] your overnding
+[2:21] priority)
+[2:22] pone
+[2:22] So (21212 2०1/ bors
+[2:23] Sojeverybody beware)
+[2:24] i ie) A,
+[2:24] of yor
+[2:25] anatomical
+[2:26] aod
+[2:26] and go ७३५)
+[2:27] SAN
+[2:27] ours
+[2:29] besidi
+[2:30] Kars
+[2:30] jucky@ieligh
+[2:33 - 2:34] go ideally to its
+[2:35] Special
+[2:35] 8 wr
+[2:36] potential
+[2:37] Tose AR)
+[2:37] st of
+[2:38] osto
+[2:38 - 2:39] omewhi
+[2:39] 50१७७
+[2:39] Get OF
+[2:40] mew
+[2:42] mikemew.com
+[2:42] Quick update
+[2:43] Everything
+[2:44] ail J
+[2:44] hee
+[2:44] ara)
+[2:44] ‘I'm part
+[2:44] OOP
+[2:45] ill always
+[2:46] १४७
+[2:46] inthe 071
+[2:47] ith
+[2:47 - 2:48] in mikemew.com)
+[2:48] ३३२५
+[2:49] call
+[2:49] that's your
+[2:49] ves
+[2:50] reference pi
+[2:50] Con
+[2:51] , san
+[2:51] for whatis,
+[2:52] < १३४४
+[2:52] genuinely mine}
+[2:53] anything else
+[2:54] that's usil
+[2:54] SORT
+[2:55] शा name)
+[2:56 - 2:57] IMI

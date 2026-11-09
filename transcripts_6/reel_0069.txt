@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[69] https://www.instagram.com/reel/DUWNIjliOL6/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] - Can braces change your face shape?
+[0:02 - 0:06] Yes, sometimes positively and sometimes,
+[0:06 - 0:07] in my opinion, negatively.
+[0:07 - 0:10] Braces move teeth, but teeth sit in bone
+[0:10 - 0:12] and bone responds to force.
+[0:12 - 0:15] If airway, posture, muscle tone, and tongue position
+[0:15 - 0:18] aren't considered, facial balance can be affected.
+[0:18 - 0:21] Orthodontics should support the face, not fight it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] eta,
+[0:01] vey
+[0:01] SYOURIEACEISHAPE ZS
+[0:03] cK o> *
+[0:03 - 0:04] SOMETIMES POSITIVELY
+[0:06] fin MY OPINION
+[0:10] ढ मनन
+[0:12] a ie ' ९1
+[0:13] aie =
+[0:14] 1 ASSN
+[0:14] MUSCLE TONE AND TONGUE
+[0:15] AREN'T CONSIDERED
+[0:17] raid
+[0:19] Nie
+[0:19] १७७

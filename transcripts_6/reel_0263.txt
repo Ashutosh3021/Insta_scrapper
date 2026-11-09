@@ -1,0 +1,123 @@
+# model: ggml-large-v3
+========================================================================
+[263] https://www.instagram.com/reel/CAVCrUdl0VD/
+STATUS: OK
+DURATION: 0:50   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I'm going to talk about facial appearance.
+[0:02 - 0:07] I find that many people are embarrassed about this.
+[0:07 - 0:11] It's considered such a personal thing.
+[0:11 - 0:15] You can say to somebody, your teeth are very crooked,
+[0:15 - 0:19] but you can't possibly say to someone, you look very ugly.
+[0:19 - 0:25] That just gives a measure of the sensitivity of the whole subject.
+[0:25 - 0:28] However, faces are important.
+[0:29 - 0:35] Most mothers, I find, are reluctant to discuss appearance
+[0:35 - 0:42] because I think they feel it is God-given and not a subject to be mentioned.
+[0:42 - 0:49] However, you will find that teenagers are very concerned about their facial appearance.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Batis
+[0:00] pees
+[0:00] a जा
+[0:00 - 0:01] बिक |
+[0:01] « मै ये Aa
+[0:01] rie
+[0:02] ० के ये ०
+[0:02] 1 <a {a
+[0:02] Oiitss
+[0:03] tia
+[0:03] ile
+[0:03] = 7 जाए
+[0:03] rb) lle
+[0:03 - 0:08] prof. John M
+[0:04] “मा ७७ न
+[0:04] F af
+[0:04] है le
+[0:04 - 0:05] ae A
+[0:05] = wae ० नया
+[0:05] 3 af
+[0:07] wn Xa
+[0:07] > hil
+[0:07] m= See
+[0:07] ९ Al
+[0:08] me ap
+[0:08] ४ & है
+[0:11] WPlee
+[0:11] >: aye
+[0:11] itn.
+[0:12] a af
+[0:12] a ka
+[0:12 - 0:13] ihe
+[0:13] ५ LN |]
+[0:13] Ij a |
+[0:13] ite
+[0:14] yr Ae
+[0:14] tka
+[0:15] हिल
+[0:15] ee |e
+[0:16] i "निया
+[0:17] > pil ile
+[0:17] ines
+[0:18] | मान ile
+[0:18] Roles
+[0:18] F af
+[0:18] Le | न
+[0:19] ae 2,” था
+[0:19] a af
+[0:20] = 7 बम नया
+[0:20] iil
+[0:20] uh) | ने
+[0:21] ee जय
+[0:21 - 0:22] ihe
+[0:22] > की हैं 39०
+[0:23] .. 5 अल
+[0:23] > jl ॥ 110
+[0:23] at ll
+[0:25] — eee ।
+[0:25] af A
+[0:26] i ane
+[0:26] ihe
+[0:27] | स्ज्न
+[0:29] ile =
+[0:29] ही 155
+[0:29] ij - - Z.- a कर
+[0:30] 1 11 हि
+[0:30 - 0:32] Pike
+[0:31] fa i
+[0:31] पा 4
+[0:32] का el
+[0:32] b af
+[0:33] शाह
+[0:34] nan? A
+[0:34] b वर
+[0:34] | लिन
+[0:35] > jl i
+[0:35] i Ras Pea
+[0:35] | "मिल
+[0:36] io Ti
+[0:36] Mtoe
+[0:37] हुं > या
+[0:37] ile
+[0:37] ij eee नल
+[0:37] bk é
+[0:37] बता
+[0:40] lo he
+[0:40] be > ji
+[0:41] file
+[0:41] be af
+[0:41] “uaa
+[0:41] i. ie ia
+[0:42] किक |
+[0:42] —— i sl
+[0:42] use
+[0:43] बिक |
+[0:43] em be
+[0:44] | मिनी
+[0:46] ass
+[0:47] 3. Al
+[0:47] —— नया
+[0:48] = een न
+[0:48] be af
+[0:49] > Att

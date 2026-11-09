@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[117] https://www.instagram.com/reel/DPk_e6hiOz4/
+STATUS: OK
+DURATION: 0:04   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] uae
+[0:00] ine
+[0:00 - 0:02] oper swallow
+[0:00 - 0:03] “ | forw
+[0:00 - 0:03] growth
+[0:00 - 0:03] posture and
+[0:01] cme
+[0:01] 84 0
+[0:02] हे ad
+[0:02] suet
+[0:02 - 0:03] Ule
+[0:03] Pee
+[0:03] Guat
+[0:03] yproper swallow

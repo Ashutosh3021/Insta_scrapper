@@ -1,0 +1,26 @@
+# model: ggml-large-v3
+========================================================================
+[128] https://www.instagram.com/reel/DOYCr0PiOU-/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] But sometimes the answers are right there in front of them.
+[0:05 - 0:09] And it's the real application of the most simple things that can gain the most profound
+[0:09 - 0:10] changes.
+[0:10 - 0:15] And I think a good example of this is the breath work.
+[0:15 - 0:23] You know, you can get such a profound change from simply changing the way you breathe.
+[0:23 - 0:28] And that is so simply, what could be more simple?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:06] र्प-
+[0:11] lll.
+[0:12] eee,
+[0:14] f “ay
+[0:15] Fre i
+[0:16] a Me
+[0:16] Sees
+[0:18] a -रय
+[0:22] Vial
+[0:25] wal

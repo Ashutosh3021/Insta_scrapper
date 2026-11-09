@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[160] https://www.instagram.com/reel/DKzyeFtI921/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Effectively, it's saying lips together, teeth together, tongue on the roof of the mouth,
+[0:03 - 0:06] which is the tropic premise that my father came up with many years ago.
+[0:06 - 0:11] But, and also it's stand up straight and shut your mouth, eat with your mouth shut.
+[0:11 - 0:13] There is nothing new.
+[0:13 - 0:20] Confucius was saying this 2,500 years ago, and the Victorians were saying it 150 years ago.
+[0:20 - 0:23] It's exactly the same message.
+[0:23 - 0:24] We're reinventing the wheel.
+[0:24 - 0:29] I'm just codifying it, analyzing it, and trying to understand it a little bit better
+[0:29 - 0:31] and, you know, giving some good tips and hints.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:07] AND ALSO
+[0:09] act
+[0:11] Wag
+[0:21] Leg”
+[0:21] EXACTLY
+[0:27] hey
+[0:27] na“ i
+[0:31] TIPS AND

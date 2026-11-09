@@ -1,0 +1,320 @@
+# model: ggml-large-v3
+========================================================================
+[84] https://www.instagram.com/reel/DTxMY5FCBnC/
+STATUS: OK
+DURATION: 2:55   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Right, it's London and hey, it's raining. So, we're in for day two.
+[0:07 - 0:13] Everyone's been asking me how I thought it went yesterday. Well, yesterday we heard from my barrister.
+[0:13 - 0:18] Great, it's like a two-sided argument. When you hear one side, it all sounds fantastic.
+[0:18 - 0:24] It's only when you hear the other side of the argument that the cracks start to appear.
+[0:24 - 0:31] My barrister's got about another hour left to go and then we'll swap over to their barrister who's going to respond.
+[0:31 - 0:38] Now, the main thrust of my barrister's argument was that their experts, the GDC experts, were biased.
+[0:38 - 0:42] And he put some really good points forward. He started talking about harm.
+[0:42 - 0:51] Because the General Dental Council, it's out there mainly to check dentists aren't doing harm to people.
+[0:51 - 0:54] Remember that old medical...
+[0:54 - 0:58] Maxim, do no harm.
+[0:58 - 1:07] So, the GDC experts tried really, really hard to say that I was doing harm.
+[1:07 - 1:13] They went out of their way. They were trying to diagnose damage to gums, looking at photographs.
+[1:13 - 1:20] And, of course, the parent of that patient was aware that this had been raised.
+[1:20 - 1:24] So, she went and got a... she saw a periodontist who did a proper...
+[1:24 - 1:29] ...formal report and that was later on, later down the road.
+[1:29 - 1:35] So, in cross-questioning, she said, "Oh, I know there was no harm. I got a periodontal report."
+[1:35 - 1:39] So, all of a sudden, we say, "Well, could we have that periodontal report?"
+[1:39 - 1:42] And that was added in, demonstrating there was no harm.
+[1:42 - 1:48] So, all of this effort by the General Dental Council experts to say, "Harm, harm, harm."
+[1:48 - 1:54] Diagnosing from photographs, going way beyond their remit to suggest that there was harm...
+[1:54 - 1:54] ...turned out to be no harm.
+[1:54 - 1:54] So, all of this effort by the GDC experts to say, "Harm, harm, harm." Diagnosing from photographs, going way beyond their remit to suggest that there was harm, turned out to be no harm.
+[1:54 - 1:55] So, all of this effort by the GDC experts to say, "Well, could we have that periodontal report?"
+[1:55 - 1:56] And that was added in, demonstrating there was no harm.
+[1:56 - 1:56] So, all of this effort by the GDC experts to say, "Well, could we have that periodontal report?"
+[1:56 - 2:06] Well, they were making it up, weren't they? And it's not just a small thing, because if I demonstrate... Sorry, they demonstrated I've caused harm to kids. That's a big issue.
+[2:06 - 2:16] Anyway, there was more and more of that. He went on for a list of areas where not only had they said things, but it was... were detrimental to me.
+[2:16 - 2:23] But it's what they haven't said. You know, the orthodontist was basically saying, "Oh, functional cancers don't work."
+[2:23 - 2:30] Well, in his opinion, they might, but he's got to say there are a group of people who thinks they do work.
+[2:30 - 2:39] Same with expansion. He said nothing about the other side. It was as if they just don't exist, as if no one does that, expansion.
+[2:39 - 2:50] So, it's interesting. We're going to go on, and when we hear the prosecution barrister later today, then I start to get a more balanced opinion of what the lay of the land is.
+[2:50 - 2:53] So, from London's reigning.
+[2:53 - 2:54] That's it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] AN 4
+[0:00] vals
+[0:00] ais
+[0:01] Way
+[0:02] fas ५
+[0:03] ALS
+[0:03] ६६5
+[0:03] हे 3
+[0:04] yes
+[0:04] ्ध्भ््
+[0:04] ante.
+[0:04] #7 95-५३ ५
+[0:04] ist
+[0:06] sei
+[0:06] LEY) ive
+[0:07] iui
+[0:07] Pa BN
+[0:07] ae eh
+[0:07] बडी, nl
+[0:07] १ ४७
+[0:08] Ye er
+[0:08] जन ज़ी.
+[0:09] 0004
+[0:09] 4:2५
+[0:10] 0 के.
+[0:10] १३४ + के है
+[0:10] Suet
+[0:11] Wet
+[0:12] i WD,
+[0:13] ae a
+[0:13] adh -
+[0:14] ett
+[0:14] » 12७
+[0:14] pitine
+[0:15] anys
+[0:15] ‘a 35) - es
+[0:15] ae i
+[0:16] hh i
+[0:18] XN ef
+[0:19] ay 2
+[0:19] कै La
+[0:19] aoe =]
+[0:20] mle
+[0:21] ale
+[0:21] vers
+[0:21] ०४०:
+[0:25] ye oS
+[0:26] है | yi
+[0:26] Tiny ¥
+[0:27] ew १
+[0:27] Tin) nee
+[0:27] क्र
+[0:28] mez
+[0:29] arnt
+[0:29] Ca td
+[0:30] are
+[0:33] ies
+[0:33] Wel |Z
+[0:33 - 0:34] {er ey.
+[0:34] ae 111]
+[0:35] Sh TiN)
+[0:35] Sell
+[0:36] ८७५
+[0:36] rial
+[0:37] Sey
+[0:38] DO हू
+[0:38] wea
+[0:39] हित
+[0:40] fe os
+[0:40] ain
+[0:40] ae बाण
+[0:41] N re
+[0:41] _~ Wes
+[0:42] War
+[0:42] ifs
+[0:42] Cal
+[0:44] 72093 ५
+[0:45] vert
+[0:45] Van
+[0:46] बदा
+[0:47] Be Ns cael
+[0:49] My. ss
+[0:49] ner
+[0:51] cli
+[0:51] owe
+[0:51] Lom
+[0:51] Ant WY
+[0:51] Pro
+[0:52] Ata
+[0:55] 20 4
+[0:56] ५283
+[0:56 - 0:57] aye)
+[1:00] ५५९
+[1:01] ae 7
+[1:02] ena 2
+[1:02] हिल) ॥
+[1:04] Sih A
+[1:04] १४३६]
+[1:06] st ZA,
+[1:07] “gave
+[1:07] Ve a!
+[1:08] VAs
+[1:08] rer %
+[1:10] cal
+[1:10] ee ON
+[1:10] ay रा
+[1:11] Abd
+[1:13] हैक) ।
+[1:16] १४०
+[1:16] ses
+[1:16] ve yy
+[1:17] Ait
+[1:18] ral
+[1:18] ESN
+[1:18] vi wy
+[1:19] Sane
+[1:19] 4 ९४
+[1:21] ne 8
+[1:21] ३५५३३ ६ &
+[1:22] 4८-30 जज
+[1:23] law
+[1:26] eos ey)
+[1:27] eed
+[1:28] ot if )
+[1:29] Naa
+[1:29] wae
+[1:30] Wall
+[1:30] 0 क i |
+[1:32] lps
+[1:32] ane
+[1:33] iT cea
+[1:34] per
+[1:35] ४११1
+[1:35] त्क्ल्छर
+[1:36] (कक WY
+[1:36 - 1:38] Aaya
+[1:37] 2२३३
+[1:37] ae ना
+[1:38] Pal
+[1:38] i te .
+[1:39] ices
+[1:39] owe
+[1:39] bap लक
+[1:39] सकी
+[1:40] 20७८ ¢
+[1:40] ota,
+[1:41] VAS
+[1:42] uy. j
+[1:43] 31761)
+[1:44] Art WY WY
+[1:44] ahd
+[1:45] ‘lie Al.
+[1:45] mae
+[1:45] ant
+[1:45] १ हैक) >
+[1:45] am 33
+[1:46] ‘mia!
+[1:46] wre
+[1:47] ०५०
+[1:47] 31.81
+[1:47] Stee
+[1:48] १३०
+[1:48] — जाला
+[1:49] है है)
+[1:50] ३३०
+[1:50] Sed
+[1:51] (Boe
+[1:52] 7००००
+[1:52] ‘Nake
+[1:52] 1 Vv
+[1:52] lb cl
+[1:52] 420"
+[1:53] ty i
+[1:53] wart
+[1:53] “Axe
+[1:53] =e पा
+[1:53] (aie:
+[1:54] Sei)
+[1:54] Coe
+[1:54] Sete,
+[1:55] Ht ey
+[1:55] rey
+[1:55] Loe
+[1:55] Ett |
+[1:56] Ane
+[1:57] at! j
+[1:57] 77. व
+[1:58] sit
+[1:58] ese: |
+[1:59] 9 2) we
+[1:59] or au a
+[1:59] Sine
+[2:00] Sey
+[2:00] 7 ऑन
+[2:00] च्क
+[2:02] २२७1
+[2:02] Washed
+[2:03] oo, कया
+[2:03] Mag
+[2:03] abet?
+[2:03] ilZ
+[2:04] कब जज
+[2:04] Ce ey
+[2:05] Ges
+[2:05] mS ५
+[2:06] Lal
+[2:06] dba
+[2:06] sie.
+[2:07] 3५०९
+[2:07] Sat
+[2:08] Ail alg
+[2:08] 8 Fh
+[2:09] हैं
+[2:09] soy
+[2:09] vY¥ iV
+[2:09] Wt AMdl ॥॥|
+[2:09 - 2:11] all
+[2:10] NX al
+[2:11] AAS A
+[2:12] oS he
+[2:12] ३१४९]
+[2:12] oi a
+[2:13] sex"
+[2:14] exe
+[2:14] eee
+[2:17] Ben"
+[2:17] Ait
+[2:18] XS i
+[2:18] व्ध्य्ट
+[2:18] hit
+[2:19] WAY
+[2:19] PRAM)
+[2:20] gers
+[2:20] lie
+[2:22] sai
+[2:22] गदर
+[2:23] ee] ey
+[2:25] (aye
+[2:27] pe el
+[2:28] (ने है,
+[2:29] seo
+[2:29] ant
+[2:30] Sel
+[2:30] aAL 4
+[2:30] r (ro
+[2:31] As ft
+[2:31] ore
+[2:32] t Gh
+[2:32 - 2:34] Ser
+[2:34] As 3
+[2:35] दर की
+[2:35] १0४
+[2:35] ney
+[2:37] Sel
+[2:37] sey
+[2:38] eS) Yi
+[2:40] ee ee
+[2:40] Same
+[2:42] sai
+[2:43] Sabena
+[2:44] cess
+[2:44] Jos
+[2:45] A aD
+[2:45] Cad
+[2:46] ict Ex"
+[2:46] a pul
+[2:47] a ig
+[2:48] cit)
+[2:48] vat
+[2:50] MYA
+[2:51] exe |
+[2:51] wae:
+[2:52] i Jaa
+[2:52] a BY
+[2:53] eal
+[2:54] 4, ce
+[2:54] गहन

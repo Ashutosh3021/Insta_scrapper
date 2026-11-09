@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[82] https://www.instagram.com/reel/DTyIRY3CPfn/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] is chewing gum good for you or harmful chewing can strengthen muscles but overdoing it can
+[0:05 - 0:10] cause jaw pain asymmetry and jaw strain chewing doesn't change bone structure
+[0:10 - 0:16] posture and function do but they are influenced by your strength avoid a chewing marathon
+[0:16 - 0:22] and stop if you have any jaw joint pain or clicking muscles help habits matter more
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] ‘STRENGTHEN MUSCLES
+[0:06] GAWIPAINASYMMETRY a
+[0:12] BUT THEY ARE
+[0:15] १६५
+[0:16] Nie जी.
+[0:19] PAIN OR
+[0:21] a oe

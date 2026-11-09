@@ -1,0 +1,68 @@
+# model: ggml-large-v3
+========================================================================
+[207] https://www.instagram.com/reel/DCHZggtsUHR/
+STATUS: OK
+DURATION: 0:55   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] yeah and you know the one i want to point out there is neuronal cell death neuronal cell death
+[0:06 - 0:11] at a cellular level is a one-off and a big picture is a stroke and we can talk about having mini
+[0:11 - 0:15] strokes this is in children you know and we see this effect in terms of this brain damage and
+[0:15 - 0:20] that's why you know i use that term um so front and center because this is clearly brain damage
+[0:20 - 0:25] you know we're talking about tissue damage cell death they get inflammatory changes so the brain
+[0:25 - 0:30] gets irritated the cells are not regulated properly in terms of their volume and they
+[0:30 - 0:36] start to swell which is a sign of unhealthy cell you know these are all very tragic outcomes that
+[0:36 - 0:42] we need to reflect on and really as we've said and agree with mike we've got to make this problem
+[0:42 - 0:47] well known to families and parents so that they can be front and center in terms of finding the
+[0:47 - 0:48] problem well ahead of time
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Loss
+[0:00] DR. oa
+[0:00 - 0:01] OBSTRUCTIVE
+[0:00 - 0:01] APNEA
+[0:00 - 0:01] AND 3
+[0:01] toss
+[0:05] NEURO!
+[0:06] rAd
+[0:06] ees
+[0:06] rat
+[0:07] ais
+[0:07] हैक
+[0:08] SHE BIG
+[0:09 - 0:10] Gon
+[0:14] Y he
+[0:14] ०7२
+[0:14] हूँ;
+[0:14] f= २०३४७
+[0:14] AVS
+[0:16] esa
+[0:23] ren
+[0:26] न ह्ँ
+[0:30] ‘gel
+[0:44 - 0:46] ० ef
+[0:49] mM=W
+[0:49] 1 es
+[0:49] > कि लिल्क
+[0:49] eee HELP SUPPORT THE CAUSE
+[0:49] BY SUBSCRIBING TO
+[0:49] THE MEWING APP BY MIKE MEW
+[0:49 - 0:54] है कि" Google Play
+[0:50 - 0:51] eT ITON
+[0:50 - 0:51] 1ELF
+[0:50 - 0:53] SUPPOR
+[0:50 - 0:53] 3SCRI
+[0:50 - 0:54] >AUSI
+[0:50 - 0:54] HE MEWING APP
+[0:50 - 0:54] MIKE MEV
+[0:51] NIKE
+[0:51] MEW
+[0:51 - 0:53] ING
+[0:52] mM=W
+[0:52 - 0:53] हवा 0४
+[0:52 - 0:53] 4EL
+[0:54] 1151
+[0:54] वात 08
+[0:54] 151? SUPPORT
+[0:54] SUBSCRIBING

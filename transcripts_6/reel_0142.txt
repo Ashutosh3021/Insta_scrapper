@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[142] https://www.instagram.com/reel/DNfdVq3MTf0/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Let's clear something up.
+[0:01 - 0:04] I'm Dr. Mike Mead, the orthodontist behind the mewing movement.
+[0:04 - 0:09] And yes, this is the official mewing app created by me to help people do it properly.
+[0:09 - 0:13] Because truth is, most of what you see online is wrong.
+[0:13 - 0:19] If you want to see real results backed by science, you need proper guidance.
+[0:19 - 0:21] This app gives you exactly that.
+[0:21 - 0:24] Download it now and start mewing with confidence.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] et ६
+[0:02] qt ४
+[0:03] BEHIND
+[0:04] MOVEMENT
+[0:05] G52
+[0:05] Funk
+[0:05] nal Tongue Exer
+[0:05] फाछाछ
+[0:05 - 0:06] MENU
+[0:05 - 0:06] PROGRAM
+[0:06] 1283
+[0:06] mew
+[0:06] Functions
+[0:06] ses
+[0:06] EXERCISES
+[0:06] पक 1.००
+[0:07] CREATE
+[0:08] ans
+[0:09] J ba
+[0:11] IMOSTIOF
+[0:12] YOUISEE)
+[0:14] pao
+[0:15] a’ 2S
+[0:16] {gear
+[0:16] BACKED
+[0:16] ie’ 2nd
+[0:17] sid,
+[0:18] PROPER
+[0:18] len
+[0:18] चना
+[0:22] IT NOW
+[0:22] a ae) App Store
+[0:22 - 0:23] preeey
+[0:22 - 0:23] 388
+[0:22 - 0:23] cerron
+[0:22 - 0:24] © 0०००७
+[0:22 - 0:24] ‘Mewing by r Mike Mew
+[0:22 - 0:24] कै Google Play
+[0:22 - 0:24] Download on the
+[0:23] MEWING
+[0:23] ee til App Store
+[0:24] ३४४४६
+[0:24] CONFIDENCE
+[0:24] हाफ
+[0:24] Lo an) App Store

@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[254] https://www.instagram.com/reel/C3hTWUBtpDi/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] A delicate subject to talk about other people and particularly about their faces.
+[0:06 - 0:09] So one does need to tread carefully.
+[0:09 - 0:14] But if you walk down the street, you'll find a huge number of people who just have flat faces.
+[0:14 - 0:18] Now, most people think, "Well, I've just got a flat face."
+[0:18 - 0:21] But there's a reason for that.
+[0:21 - 0:23] There's a reason for everything.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] हि TAN
+[0:03] ee पी नि न
+[0:04] 0 | उप न
+[0:05] des
+[0:05] 0 | उमर मय कि क्‍
+[0:12] vit
+[0:13] pas
+[0:15] pcs
+[0:16] pres
+[0:17] WON
+[0:20] PRD

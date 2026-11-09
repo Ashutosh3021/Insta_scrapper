@@ -1,0 +1,54 @@
+# model: ggml-large-v3
+========================================================================
+[75] https://www.instagram.com/reel/DT2WnfDiDEx/
+STATUS: OK
+DURATION: 1:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] Right, that was a hell of a day. I was just, just, what do I say? I was in the High Court.
+[0:15 - 0:21] There was how many people in the High Court? There was the GDC lot, there was my lot, there
+[0:21 - 0:29] was a nice group of supporters. And of course, there was the Justice and all of the court
+[0:29 - 0:38] staff, and it was all about me. Okay. Well, it's in the bag. Yeah, what do we say? My
+[0:38 - 0:43] court Justice said that he thought he could make a decision. He has a day, another job.
+[0:43 - 0:50] He's not always a High Court Justice. He has a normal everyday job apart from that. And
+[0:50 - 0:58] he reckons the, he'll, he'll have a, he'll have, make a decision by late.
+[0:58 - 1:04] Um, Feb, early March, but talking to Stephen, Stephen reckons there's a lot more to this
+[1:04 - 1:10] than he reckons. So he doesn't think it's going to be another one, three to four months,
+[1:10 - 1:18] he reckons. Anyway, it's in the bag. I'm destroyed. My Crohn's is playing up. I'm not comfortable.
+[1:18 - 1:25] And that was just, just stress, stress, stress, stress, stress. My life went before my eyes.
+[1:25 - 1:30] Anyway, it's in the bag. We'll see. It's going to be a few months. I'll keep you updated.
+[1:30 - 1:33] And I'm going to be doing more videos because it's, it's time now, isn't it? It's all in
+[1:33 - 1:39] the bag. Nothing I can do. It's the decision will be made. It's now out of my hands. It's
+[1:39 - 1:40] out of my legal team's hands.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] lap
+[0:05] eer
+[0:07] inh
+[0:08 - 0:10] Sei
+[0:13] avi
+[0:14] bes
+[0:19] lew
+[0:20] ars)
+[0:21] wey
+[0:22] ॥ cal
+[0:22] _ 5 सम
+[0:33] lise
+[0:36] ars)
+[0:38] are;
+[0:40] dea
+[0:43] bin
+[0:47] A हे
+[0:52] cer
+[0:54] ‘Let
+[0:56] A chy
+[0:58] Ty Er
+[0:59] (9 हो?
+[1:06] sey
+[1:13] CAS
+[1:14] ait
+[1:15] y जहर
+[1:22] sen,
+[1:26] yea
+[1:39] ‘del

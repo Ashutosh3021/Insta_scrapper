@@ -1,0 +1,68 @@
+# model: ggml-large-v3
+========================================================================
+[162] https://www.instagram.com/reel/DIMXRk8MaKd/
+STATUS: OK
+DURATION: 0:50   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] You've got some experiments of nature.
+[0:01 - 0:05] So be warned, this is an uncomfortable image for many.
+[0:05 - 0:09] Here is a woman who has had something called cancrum oris,
+[0:09 - 0:13] in which the cheek and lip has degraded.
+[0:13 - 0:17] Now, what's happened is because the lips and cheek,
+[0:17 - 0:19] the pressure from the cheeks and lips have gone,
+[0:19 - 0:21] the teeth have moved outwards.
+[0:21 - 0:23] The teeth and bone have moved outwards.
+[0:23 - 0:26] You then have an image of someone who's had a stroke.
+[0:26 - 0:28] And remember, this is only the surface muscles.
+[0:29 - 0:31] You get a much more profound effect,
+[0:31 - 0:32] which I don't have examples of,
+[0:32 - 0:35] when you have the power, deep power muscles,
+[0:35 - 0:37] like the masseter, affected.
+[0:37 - 0:44] Anyway, you can see here how the teeth and the bone have been affected.
+[0:44 - 0:47] So this is quite a powerful change
+[0:47 - 0:50] just from the surface muscles being affected.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] YOU'VE GOT SOME
+[0:00] EXPERIMENTS
+[0:01] OF NATURE, SO BE WARNED.
+[0:02] 393
+[0:04] THIS IS AN UNCOMFORTABLE
+[0:06] ८५ fed
+[0:10] PCL app
+[0:11] NOP app
+[0:12] a ts
+[0:14] 66) ae |
+[0:14] NOW, Fe
+[0:14] PENED
+[0:15] NOW, WHAT'S HAPPE!
+[0:16] IS BECAUSE THE LIPS»)
+[0:17] AND CHEE! ol
+[0:17] IESSURE
+[0:20] IAVE MOVED
+[0:20] JUTWARDS,
+[0:21] TH Al fo)
+[0:22] THE TEETH AND BONE
+[0:23] HAVE MOVED UPWARDS.
+[0:25] WwW
+[0:29] SYOUIGET/A'MUCH!
+[0:30] MORE PROFOUND EFFECT,
+[0:31 - 0:32] ‘WHICH I DON'T HAVE
+[0:31 - 0:32] EXAMPLES OF.
+[0:33] ‘WHEN YOU HAVE ०
+[0:33] POWER,
+[0:34] DEEP POWER MUSCLES
+[0:35] DEEP POWER
+[0:35] USCLES
+[0:38] ANYWA\
+[0:40] जैक टाफाकाउडाए,
+[0:41] है 4
+[0:41] 3 री
+[0:41] MOG दा ESL
+[0:42] है q
+[0:42 - 0:43] Ab UB Hens
+[0:46 - 0:47] QUITE A POWERFUL CHANGE
+[0:48] JUST FROM THE SURFACI
+[0:49] MUSCLES “हुक

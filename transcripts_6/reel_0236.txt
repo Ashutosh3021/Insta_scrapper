@@ -1,0 +1,123 @@
+# model: ggml-large-v3
+========================================================================
+[236] https://www.instagram.com/reel/C8ygVPeoW9r/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Join us for the very first MewCon on Saturday, August the 17th.
+[0:03 - 0:06] I'm hosting an event dedicated to everything mewing.
+[0:06 - 0:11] You'll have the opportunity to meet me and other leading influencers and experts
+[0:11 - 0:15] who are passionate about helping everyone achieve their full genetic potential
+[0:15 - 0:18] naturally or with some minor orthodontic or surgical assistance.
+[0:18 - 0:24] Our distinguished guests include Coco Hayashi, Karan Singh, Dr. Sandra Khan,
+[0:24 - 0:28] Dr. Tasha Ertzit, Dr. Zubat Noas, Ron E, Greg Maverick,
+[0:29 - 0:30] and of course, yours truly.
+[0:30 - 0:33] We will be giving in-depth talks in front of an audience
+[0:33 - 0:37] and are happy to answer any questions you may have at the event.
+[0:37 - 0:40] There will be mewing-related products available for purchase.
+[0:40 - 0:44] Hurry, as there are only 200 tickets maximum available.
+[0:44 - 0:48] And the early bird sales end on July the 31st.
+[0:48 - 0:52] Let's make this a ban so we can keep hosting these events every year.
+[0:52 - 0:56] I'm excited to meet all the fans and can't wait to see you all soon.
+[0:56 - 0:59] Keep your mouths shut and keep mewing.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Mat
+[0:00] Join us for the very first
+[0:00] mewcomon Saturday
+[0:01] MEWCON 202
+[0:02] ey 2024
+[0:03] 2422
+[0:03] aoe
+[0:04] hast
+[0:05] DEDI
+[0:06] "MEW
+[0:06] 134.
+[0:07] = havea
+[0:07 - 0:08] Opportunityato meet me
+[0:08] Dif havea
+[0:09] १4 z
+[0:09] and othemleading
+[0:09] influencers
+[0:10] and| experts
+[0:11] ब्रज
+[0:11 - 0:12] who are%passionate
+[0:11 - 0:12] about helping everyone
+[0:14] POTENTI
+[0:14 - 0:16] ACHIEVE
+[0:14 - 0:16] age IR FULL
+[0:15] GENET
+[0:15] ENTIAL
+[0:15] naturally
+[0:16] GENF
+[0:16 - 0:18] on with some minor
+[0:16 - 0:18] orthodontic Or surgical
+[0:16 - 0:18] assistance
+[0:19 - 0:20] our distinguished
+[0:19 - 0:20] guests include
+[0:21] 41५४
+[0:21] LUI AVA
+[0:21] 51111
+[0:22] -—KARAN SINGH GI}
+[0:24] 4११7
+[0:24] i hme
+[0:24] १880 ह.
+[0:25 - 0:26] WAZ
+[0:26] DR. ZOBADE
+[0:27] RONA EAD
+[0:28] AES) & GRP
+[0:31] हि oon
+[0:31 - 0:32] in-depth talks'in front of
+[0:31 - 0:33] an audience
+[0:33] क्र, |
+[0:34] Eine] are ita SPY to
+[0:34] You maylEWS
+[0:34 - 0:35] answer ES UEStIONS
+[0:35] and Efe heepy @ nap pyAto.
+[0:35] youlmay-haye
+[0:36] and. pio heapy 1 hap pv~to
+[0:36] answe,
+[0:36] pyre GUESTIONS
+[0:36] hn ने कुक have
+[0:37] १: 5 हट
+[0:38] related
+[0:39] productsfayailable for
+[0:39 - 0:40] purehase
+[0:40] produ
+[0:40] = available for
+[0:42] ONLY. 1 yy
+[0:42] 200
+[0:43] 200 TICK
+[0:43] Rous
+[0:44] AVAILABLE
+[0:44 - 0:45] 0 NLY 200 TICKETS
+[0:45] and the
+[0:45] bird sales
+[0:45] Dacor an
+[0:45] the 31st
+[0:46] ends on July the 3151
+[0:46 - 0:47] and the earlysbird sales
+[0:47] ends on रा the 31st
+[0:48] and the ना
+[0:48] gird sales
+[0:48] ends on
+[0:48] uily the 31st
+[0:50] Wwe camkeep
+[0:51] cantkeep
+[0:51 - 0:53] 6? LINK IS IN THE DESCRIPTION BELOW
+[0:52] (000 eS
+[0:52] LINK IS IN THE DE
+[0:52] IPTION BELOW
+[0:53] im WY (७ 0॥|
+[0:53] eet all
+[0:53] une fans
+[0:53] 'WWW.MEWINGAPP.CO/MEWCON
+[0:54] lim exciteditoymeet all
+[0:54] thefans
+[0:55 - 0:56] and canjt wait to'see
+[0:55 - 0:56] you all soon
+[0:57 - 0:58] KEEP YOUR
+[0:58] MOUTH SHUT,
+[0:58] AND KEEP

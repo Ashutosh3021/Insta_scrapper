@@ -1,0 +1,108 @@
+# model: ggml-large-v3
+========================================================================
+[37] https://www.instagram.com/reel/DXuSHi2Gstg/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Your teeth should not be clenching right now or really very often.
+[0:04 - 0:06] Unlike me, check your resting posture.
+[0:06 - 0:10] At rest, your lips should be sealed, your tongue on the roof of the mouth,
+[0:10 - 0:16] and the teeth should either be touching lightly, a butterfly bite, or fracturally apart.
+[0:16 - 0:21] If you're clenching constantly, you're overloading the jaw joints and muscles
+[0:21 - 0:24] because you have lost the antagonistic control
+[0:24 - 0:28] from the muscles in the tongue that oppose these clenching muscles.
+[0:28 - 0:30] Rest posture should be effortless.
+[0:30 - 0:35] It should be balanced and balanced by a tongue suctioned on the roof of your mouth.
+[0:35 - 0:39] If this feels tense, something is compensating,
+[0:39 - 0:41] something is wrong, you could cause real damage.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] eas
+[0:00] Your teeth
+[0:01] may
+[0:01] pens
+[0:01] be ciswelifing
+[0:02] cightacw
+[0:03] ब्ण्ब्बाछ
+[0:04] Aes
+[0:05] Case
+[0:08] fseulecie
+[0:09] rofeceon
+[0:10] a Pa
+[0:10] mou
+[0:10 - 0:11] Paste
+[0:11] Toop
+[0:11] is SD
+[0:11] Tee
+[0:11] Cees
+[0:11] 205
+[0:11] arene
+[0:11] Layeunanra
+[0:11] Geto tase
+[0:11] ‘Myo ese
+[0:11] 1 one
+[0:11] oct
+[0:11] Tres
+[0:11] tooth chould
+[0:12] WANN
+[0:12] een)
+[0:12] chther be
+[0:13] ying
+[0:13] ANY
+[0:13] ७७०३१३॥॥/
+[0:15] 82102:01
+[0:16] apart.
+[0:18] 30 2
+[0:18] constantly,
+[0:19] pport)
+[0:19] SAY POSTURE \\
+[0:19 - 0:20] MUSCLE BALANCE DIAGRAM
+[0:19 - 0:20] (aw-closing vs. Tongue support)
+[0:20] ब्र/8080 JAW POSTURE
+[0:21] aia ts ६७४
+[0:22] have lost the
+[0:23] i 1५
+[0:23] SAA
+[0:23] ne src
+[0:23] /AEFTsIDE:RELaxe0
+[0:23] COMPENSA
+[0:23] Fee?
+[0:23] Frcs
+[0:23] ura
+[0:23] 52011 0111:
+[0:23] Sera
+[0:23] Poe,
+[0:23] [pce | wee
+[0:23] 190]
+[0:25] 9 1 7
+[0:25] the muscles
+[0:26] FR oe
+[0:28] 2203
+[0:29] Rest poste
+[0:30] case
+[0:30] wae
+[0:30] प्रकट
+[0:31] Tmo दर्ख;
+[0:32] CHO
+[0:33] bye
+[0:34] Wiz
+[0:35] Wud
+[0:35] CHYOUP 1) 0 000 1
+[0:37] es ustravon: Gienening ana Wosturar Heangnment
+[0:37] 632 Seo tones
+[0:37] Bean
+[0:37] Topo!
+[0:37] ry) Genet
+[0:37] ‘ister sch
+[0:37] tees
+[0:37] wate)
+[0:37] urges
+[0:37] छुपा
+[0:38] ECL
+[0:38] ELAED AW
+[0:38] xen ॥७'
+[0:38] multe
+[0:38] EE wat reco
+[0:40] cre

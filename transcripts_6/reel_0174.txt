@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[174] https://www.instagram.com/reel/DFQTmGFsLFK/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] viewing plus chewing gum
+[0:02 - 0:05] for five months
+[0:05 - 0:14] It's a great advert of someone who's got some decent facial form.
+[0:14 - 0:17] He's trying to suggest he's achieved this in five months.
+[0:17 - 0:20] This image, I guess, is the beginning.
+[0:20 - 0:22] He's gained some change.
+[0:22 - 0:26] Great. I mean, it's difficult to see from the image you've got in the first place.
+[0:26 - 0:29] I'd love for us to get better recordings of this.
+[0:29 - 0:31] To get better science out of this.
+[0:31 - 0:33] To get better understanding of this.
+[0:33 - 0:36] But, either ways, good on you.
+[0:36 - 0:37] Carry on going, mate.
+[0:37 - 0:38] Good bit of mewing.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Efchewing\gum
+[0:01 - 0:02] Mewing + chewing gum
+[0:04 - 0:05] for 5 months
+[0:11] IGREAT ADVERT OF SOMEON|
+[0:12 - 0:13] WHO'S GOT SOME DECENTS
+[0:14] FACIAL, FORM
+[0:14] HE'S TRYING TO SUGGEST
+[0:15] ois
+[0:15 - 0:16] 15 ACHIEVED)
+[0:15 - 0:16] iS IN FIVE MONTHS. 9
+[0:18] STHIS IMAGE, GUESS, 15
+[0:19] chewing gum
+[0:19] THE BEGINNING:
+[0:22] IHE'SIGETTING| SOME CHANGE!
+[0:23 - 0:24] IIMEAN, IT'S DIFFICULT:
+[0:23 - 0:24] TO SEE FROM THE IMAGE
+[0:24] किक बन
+[0:25] YOU'VE'GOT
+[0:25] IN THE|FIRST PLACE.
+[0:26] 70 LOVE
+[0:26] FOR US TO GET|BETTER
+[0:28 - 0:30] ‘RECORDINGS OF THIS,
+[0:28 - 0:30] TO GET BETTER SCIENCE,
+[0:31] (6 Tai
+[0:31] ‘OUT OF Gis TO GET BETTER\
+[0:31] Nee
+[0:32] UNDERSTANDING OF THIS.
+[0:35] 6०20
+[0:36] CARRY, ON’ Gye MATES
+[0:37] GOOD BIT, FOR MEWING'
+[0:39] LOAD THE
+[0:39] BY DRM
+[0:39] mad
+[0:39] (D> Segetiey
+[0:40] jin)
+[0:40] Crs Cee)
+[0:40 - 0:45] DOWNLOAD THE
+[0:41] MEWING APP BY DR MIKE MEW
+[0:41 - 0:42] Ce Cee)
+[0:42] MEWING
+[0:42] BY DR MIKE MEW
+[0:43] cE MEW
+[0:43] all
+[0:44 - 0:45] MEWING APP BY DR MIKE MEW
+[0:45] ‘Available onthe
+[0:45] App Store
+[0:45] f as
+[0:46] heviEw S.
+[0:48] है है KKK
+[0:48] REVIEW tee Le जो
+[0:49] kk KKK
+[0:49] REVIEW + रे 0 व
+[0:50] kee
+[0:50] REVIEW LINKS IN THE DESCRIPTION
+[0:50] THANK YOU!

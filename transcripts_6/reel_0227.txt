@@ -1,0 +1,123 @@
+# model: ggml-large-v3
+========================================================================
+[227] https://www.instagram.com/reel/C9xmmr6M7RN/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I had my braces for 10 years.
+[0:02 - 0:09] Imagine having a brace for 10 years! A decade!
+[0:09 - 0:15] Braces can straighten teeth, but are teeth really straight if you need a retainer for life?
+[0:15 - 0:23] 100% of cases can expect root resorption of up to 4mm from the use of fixed braces.
+[0:23 - 0:28] And this reduces the lifespan of a tooth and makes them prone to falling out earlier.
+[0:28 - 0:36] Typically, braces are worn for 3-4 years at the most, so something must have gone very wrong here.
+[0:36 - 0:41] Usually, it's that the posture and function are working against the forces from the appliances.
+[0:41 - 0:46] Lips and cheeks exert pressure that are working here to misalign the teeth and cause crowding.
+[0:46 - 0:54] To prevent damage, you need to maintain proper tongue and mouth posture to keep the teeth in a neat new arch form.
+[0:54 - 0:58] Learn how to do this with the Newing app and keep your teeth naturally straight.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] » | had my braces for 10 |
+[0:00 - 0:03] years!
+[0:01] Pa १
+[0:02] abe
+[0:03] jet
+[0:04] 10110 16815
+[0:04] "अं ha’
+[0:04] it कं
+[0:05] NS ah
+[0:06] at 4
+[0:06] BRACES | FOR 0
+[0:06 - 0:07] wt HAVING A
+[0:06 - 0:07] YEARS
+[0:07] IMAGINE|H
+[0:07] BRACES eS) 10
+[0:08] {AMIN
+[0:10] Caney
+[0:10] PAIN
+[0:10 - 0:11] STRAIGHTENSTEETH
+[0:11] ES CAN 4g
+[0:12] Macy
+[0:13] = Sam;
+[0:14] NEED Al
+[0:14 - 0:15] ARE TEETH REALLY
+[0:14 - 0:15] STRAIGHT IF YOU
+[0:15] NEED A RETAINER
+[0:15] FOR LI
+[0:18] ‘an expect root resorp
+[0:18 - 0:19] of up to
+[0:18 - 0:21] 100% ०
+[0:18 - 0:23] 4mm
+[0:19 - 0:21] can expect
+[0:19 - 0:21] root resorpti
+[0:21] atk
+[0:21] of case:
+[0:21] ion
+[0:22] aks at
+[0:22] of c
+[0:22] ‘an expect root resorp'
+[0:23] 100% of cases can expect root resorption of up to
+[0:24] ISJREDUCES
+[0:24] ure
+[0:24] ESPANJORSTHE
+[0:24] 1 (00111
+[0:25] THIS REDUCES \THE
+[0:25] LIFESPAN OF,THE
+[0:25] TOOTH
+[0:26 - 0:27] PRONE\TO FALLING
+[0:26 - 0:28] AND MAKES {THEM
+[0:26 - 0:28] OUT, EARLIER
+[0:28] PRONE \TOJRA
+[0:28] LING
+[0:29] TYPICALLY
+[0:30] BRACES b
+[0:31] WORN
+[0:31] FOR
+[0:31 - 0:33] BRACES ARE
+[0:32] 1068
+[0:32] YEARS
+[0:32] है ॥ 4० &##० न्यूूण
+[0:32 - 0:33] WORN FOR
+[0:33] 3 TO 4YEARS
+[0:33] Seah
+[0:34] SO)}SOMETHING
+[0:34 - 0:35] MUSTWHIAV.EYGONE
+[0:34 - 0:35] VERY*;WRONG HERE
+[0:35] SO}SOMET|
+[0:37 - 0:38] (05 गन ये
+[0:37 - 0:38] EUNGCTION/JARE
+[0:37 - 0:39] WORKING
+[0:38] NID)
+[0:39] FUNCTIONJARE ARE
+[0:39] SHONTAR
+[0:42] THE
+[0:42] ING
+[0:42 - 0:43] IPS/ANDIGHEEKS
+[0:42 - 0:43] EXERTgRRE
+[0:42 - 0:43] WARE!
+[0:42 - 0:43] ERE
+[0:43] “772 ८7६
+[0:43] जान
+[0:44] TEETRVANDICA
+[0:44 - 0:45] TO MSAUENTLTE
+[0:44 - 0:45] USE
+[0:45] TEETH [XID ७2७६ (प्र
+[0:45] GRIOMMADIING
+[0:46] TRO MISAUE
+[0:46] TEETH ANID ON CNUS=
+[0:46] CROW DI
+[0:47] TO)PREVENT;
+[0:47] DAMAGE
+[0:48] YOU NEEDQTO.
+[0:48] MAINTAINIRROPER
+[0:48] TLONGUE'AND.
+[0:48] MOUTH|POSTURE
+[0:52] 7,0, KEERaTHE TEETH
+[0:52 - 0:54] IN A\NEAT) NEW/ART,
+[0:52 - 0:54] FORM
+[0:53] TO wy [HE TEETH
+[0:54] AKO) x THE TEETH
+[0:56 - 0:58] है mew
+[0:57 - 0:58] MEWING MASTE .
+[0:58] BECOME A

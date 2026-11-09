@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[122] https://www.instagram.com/reel/DPRiG5giGR9/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] This is a dial caliper, so what I would do to measure mine,
+[0:03 - 0:08] I identify the tooth number six in the mouth.
+[0:08 - 0:10] So I've got a 36 millimeter intermodal width.
+[0:10 - 0:15] I usually say that 36, where I am,
+[0:15 - 0:17] is about as low as you can go,
+[0:17 - 0:20] and easily and comfortably have good tongue space.
+[0:20 - 0:23] Now, to check you've got enough tongue space,
+[0:23 - 0:25] what I would do is I'd get a good suction hold,
+[0:25 - 0:27] so your teeth are now together,
+[0:27 - 0:28] and then do a chin tuck,
+[0:28 - 0:29] and see if you can breathe comfortably.
+[0:29 - 0:30] And if you can breathe comfortably,
+[0:30 - 0:31] then you've got enough tongue space.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] SST woe
+[0:01] Se 32
+[0:05] Pos 2,
+[0:09] हैँ
+[0:09] eon
+[0:09] Sum -
+[0:13] ayl
+[0:14] Was
+[0:15] Daa
+[0:28] oe i &
+[0:30] हैः

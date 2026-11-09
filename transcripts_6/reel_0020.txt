@@ -1,0 +1,147 @@
+# model: ggml-large-v3
+========================================================================
+[20] https://www.instagram.com/reel/DZsJ9CJIAh1/
+STATUS: OK
+DURATION: 2:00   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Most looks maxing advice is wrong. Here's what actually matters.
+[0:05 - 0:13] If you search looks maxing, you'll see endless advice about bone structure, facial ratios and attractiveness ratings.
+[0:13 - 0:17] But many of these discussions assume your face is fixed.
+[0:17 - 0:28] In reality, few people have space for 32 teeth in full, broad smiles, as all your great-grandparents did.
+[0:28 - 0:32] And how your genetics say you should too.
+[0:32 - 0:38] Faces develop in response to environmental influences, posture and function.
+[0:38 - 0:51] Your breathing pattern, body posture, muscle strength and tongue position influence how the jaws grow during childhood and their balance long after childhood.
+[0:51 - 0:55] If the tongue rests low in the mouth, the jaws can become narrower.
+[0:55 - 0:58] If the tongue rests up on the...
+[0:58 - 1:02] palate, suctioned, it helps support the maxilla.
+[1:02 - 1:06] These ideas are central to orthotropics.
+[1:06 - 1:11] These are the basics for every short-term fix you gain.
+[1:11 - 1:15] Don't forget that the pendulum will always return to the middle.
+[1:15 - 1:25] All short-term fixes will relapse and you will always return to the position of balance that your posture and function dictate.
+[1:25 - 1:27] Don't take my word for it.
+[1:27 - 1:28] People relapse.
+[1:28 - 1:32] People relapse even after major facial surgery.
+[1:32 - 1:39] So, the biggest looks-maxing advice I can give you is surprisingly simple.
+[1:39 - 1:42] Lips together, teeth together, tongue on the roof of your mouth.
+[1:42 - 1:51] Whatever you do, whatever you achieve, you will eventually return to the place that this balance determines.
+[1:51 - 1:56] So, under all that noise, keep an eye on the basics.
+[1:56 - 1:57] Lips together, teeth together, tongue on the roof of your mouth.
+[1:57 - 1:57] Lips together, teeth together, tongue on the roof of your mouth.
+[1:57 - 1:58] Lips together, teeth together, tongue on the roof of your mouth.
+[1:58 - 1:58] Lips together, teeth together, tongue on the roof of your mouth.
+[1:58 - 2:00] together, tongue on the roof of your mouth.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] oo २
+[0:01] Bavice®
+[0:02] 0४1
+[0:02] . \ dan
+[0:02] Mace
+[0:03] ws. 4 ९
+[0:04] Actually Matters.
+[0:06] LOOK
+[0:06] ve J
+[0:06] If you search
+[0:07] (3७०८
+[0:08] ce wR
+[0:08] you'll it MERE.
+[0:09] bene about bone
+[0:10] structure, facial
+[0:11] Vas
+[0:11] Clad
+[0:11] ratios, and
+[0:11] Forex
+[0:12] Jaw Angle 128°
+[0:12] attractiveness
+[0:12] Grok
+[0:14] But many of these
+[0:15] assume
+[0:16 - 0:17] assume your face is fixed.
+[0:18] 0०३३;
+[0:19] In reality, few
+[0:20] have space
+[0:21] Aaa
+[0:21] १00 ॥ ६ (६
+[0:21] "BZ TEETH
+[0:22] Ivy Y |
+[0:22] HALA
+[0:22] “S9 TEETH
+[0:23] ies
+[0:25] Eke!
+[0:26] नकल
+[0:26] oat.)
+[0:27] your great
+[0:28] (alin
+[0:29] SAA os
+[0:30] genetics सै
+[0:31] you should
+[0:34] rey
+[0:35] कि ५५
+[0:35] | a रत
+[0:36] mon)
+[0:38] stu
+[0:39] बा NG
+[0:40] (०००
+[0:40] Your breathing pattern,
+[0:41] body posture,
+[0:42] AAR
+[0:42] muscle strength,
+[0:43] ए on (
+[0:44] rau
+[0:44] how
+[0:51] hugh
+[0:51] Pp 4
+[0:51] fae
+[0:52] If the tongue rests
+[0:53] low in the mouth,
+[0:55] KAS
+[0:55] ‘become
+[0:56] ६ हा
+[0:56] aad.
+[0:57] ary
+[0:57] Pico)
+[1:00] It helps
+[1:01] eer
+[1:01] ihe mall
+[1:02] v wo
+[1:02] ieee
+[1:03] These ideas
+[1:04] These ideas are central
+[1:04 - 1:06] ORTHOTROPICS
+[1:07] #गाधादा।
+[1:07] ips
+[1:08 - 1:09] fore
+[1:09] fe term
+[1:11] fix you gain.
+[1:12] Don't forget
+[1:13] the pendulum
+[1:14] will always
+[1:15] महल
+[1:15] to the middle.
+[1:17] rixes
+[1:22 - 1:24] FOUNDATION
+[1:23] inele Your Doser
+[1:24] ancl hye tion)
+[1:25] and function dictate.
+[1:26] Don't take
+[1:27] Don't take my word for it.
+[1:28] people relapse
+[1:30] major
+[1:31] major facial, 5221
+[1:31] 184
+[1:33] 1D a?
+[1:33] the
+[1:41] Tongue
+[1:42] of your mouth.
+[1:43 - 1:44] Whatever you
+[1:46] Lar
+[1:46] nig
+[1:47] you
+[1:47] entually return
+[1:48] to the place
+[1:49] that this
+[1:50] that this balan
+[1:51] ahh
+[1:58] Teeth together.

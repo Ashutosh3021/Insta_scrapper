@@ -1,0 +1,116 @@
+# model: ggml-large-v3
+========================================================================
+[74] https://www.instagram.com/reel/DT47iLDCMg3/
+STATUS: OK
+DURATION: 2:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Right, two in the morning, couldn't get sleep, that's bound to happen, or at least I did
+[0:05 - 0:10] sleep during the trial but it's caught up with me, things going through my head.
+[0:10 - 0:15] So anyway, okay, we previously talked about bias and we talked about the BOLM and BOLITO.
+[0:15 - 0:22] So the next thing my battle went on to was this thing of adequate objective evidence
+[0:22 - 0:26] because this is the allegation, I lack adequate objective evidence for what I was doing, the
+[0:26 - 0:28] treatments I was applying.
+[0:28 - 0:33] And the orthodontic expert had taken the evidential pyramid, you know, where you've
+[0:33 - 0:38] got Cochrane and RCTs at the top, you've got case examples and professional opinion at
+[0:38 - 0:40] the bottom.
+[0:40 - 0:47] And the orthodontic expert had said people in the bottom, which I think is the red zone,
+[0:47 - 0:51] they're shunned, you know, Dr. Muse shunned because he doesn't have adequate objective
+[0:51 - 0:52] evidence.
+[0:52 - 0:57] Now, what he had missed, because he'd taken this clearly from Prophetic, it was exactly
+[0:57 - 0:58] the image from Prophetic.
+[0:58 - 1:03] What he would have missed was the text underneath, because the text underneath said that getting
+[1:03 - 1:08] to the top of the pyramid was aspirational and at the moment orthodontics wasn't there
+[1:08 - 1:09] yet.
+[1:09 - 1:13] An interesting admission that he had made.
+[1:13 - 1:18] Anyway, when we were at the GDC, at the proper hearing, when the orthodontic expert was grilled
+[1:18 - 1:26] for nine days, my barrister had asked him that should Dr. Muse be judged by the same
+[1:26 - 1:27] fair standards?
+[1:27 - 1:32] That all other orthodontists and professional registrants are judged by the course?
+[1:32 - 1:35] He had to say yes at the end of the day.
+[1:35 - 1:39] Then later on, because they did that with their questions to trick people out, he said
+[1:39 - 1:44] to the orthodontic expert, do you treat class two, division two cases?
+[1:44 - 1:49] Now, they're not a great percentage, but they are a significant percentage of patients and
+[1:49 - 1:52] if you're doing orthodontics, you are going to treat them.
+[1:52 - 1:55] And, of course, the orthodontic expert goes, yes.
+[1:55 - 1:57] And he then brought up with Kevin O'Brien's research.
+[1:57 - 2:03] So Kevin O'Brien, Sue Cunningham, and a few others, I think, had done this meta-analysis
+[2:03 - 2:05] that got into a Cochrane research.
+[2:05 - 2:09] And I mean, that's the highest level of research you can do, way above RCTs.
+[2:09 - 2:15] And they demonstrated that there was no evidence to suggest that not doing treatment, doing
+[2:15 - 2:19] treatment with extractions or doing treatment without extractions were better or worse than
+[2:19 - 2:20] each other.
+[2:20 - 2:24] So basically, you're treating RCT, if you're treating class two, division two, you don't
+[2:24 - 2:26] have any adequate objective evidence.
+[2:26 - 2:32] On to which the orthodontic expert said, they should have asked me, which is, well, as you
+[2:32 - 2:36] pointed out, well, you're using your opinion.
+[2:36 - 2:37] It's anecdotal, aren't you?
+[2:37 - 2:41] And so why are you holding Dr. Mu to a higher standard than you are yourself?
+[2:41 - 2:43] And he didn't buy that one.
+[2:43 - 2:46] So I am being judged to a different standard, and they don't.
+[2:46 - 2:51] And I wonder how many other people have fallen foul of that exact phrase.
+[2:51 - 2:52] And what is this standard?
+[2:52 - 2:53] It's not written down.
+[2:53 - 2:56] It's just in the minds of some people.
+[2:56 - 2:58] mess over people like me.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:16] bes x
+[0:18] Gm 2
+[0:19] att
+[0:24] ees
+[0:26] — करा
+[0:29] ar ee
+[0:34] Bs a
+[0:37] oes
+[0:44] am डर
+[0:46] Nh lal
+[0:55] nis
+[0:55] baa
+[0:59] das
+[1:02] a ai
+[1:02] हरे
+[1:03] pale
+[1:03] cl हू
+[1:07] <> आर रन
+[1:09] "जा ए
+[1:16] ‘om ae
+[1:20] penal,
+[1:21] oon
+[1:25] spotty
+[1:25] a ae
+[1:26] Sista,
+[1:27] = पाकर
+[1:28] a ai
+[1:29] है कर
+[1:30] om ae
+[1:30] कहे
+[1:35] igh 4
+[1:40] faye
+[1:41] a oP §
+[1:52] हर 2
+[1:57] ae 2
+[2:00] hk ow
+[2:00] B wit
+[2:03] —_ बाबर
+[2:05] — चकरन.
+[2:06] q ड़
+[2:07] जल बस
+[2:10] - जऋ ता
+[2:10] पता call
+[2:12] र्थ्ल
+[2:12] way
+[2:23] — बहार
+[2:24] —— गिर
+[2:26] heed
+[2:28] स्का $
+[2:43] न आम
+[2:46] jam 4
+[2:47] व्््श्ट
+[2:47] 5 ५३
+[2:51] श्र
+[2:51] प्र
+[2:52] et hae
+[2:55] क्र
+[2:55] RY) b>

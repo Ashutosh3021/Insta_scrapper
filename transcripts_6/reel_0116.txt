@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[116] https://www.instagram.com/reel/DPmL6Q-CAkS/
+STATUS: OK
+DURATION: 1:05   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] I downloaded your app, bought the subscription,
+[0:03 - 0:06] but I think you need to get into how to actually swallow
+[0:06 - 0:08] without using facial muscles.
+[0:08 - 0:09] I've answered questions on this problem,
+[0:09 - 0:11] exactly this problem before,
+[0:11 - 0:14] about people struggling to initiate a swallow
+[0:14 - 0:17] when they have been swallowing their entire life
+[0:17 - 0:18] the wrong way.
+[0:18 - 0:20] Swallowing is a unique thing that you do.
+[0:20 - 0:23] It starts as a conscious effort
+[0:23 - 0:27] and it moves through to start a subconscious thing.
+[0:27 - 0:30] And the main reason you will struggle there
+[0:30 - 0:31] is 'cause you lack tongue space.
+[0:31 - 0:35] If your saliva is still on the floor of your mouth
+[0:35 - 0:36] when you're swallowing,
+[0:36 - 0:39] you have not done a very effective sweep.
+[0:39 - 0:41] I bet you've got a narrow tongue space.
+[0:41 - 0:42] So you're probably down to a tongue space
+[0:42 - 0:44] of about 30 millimeters.
+[0:44 - 0:47] You measure between tooth number six at the back here.
+[0:47 - 0:50] So between tooth number six at the back there,
+[0:50 - 0:52] the absolute minimum distance.
+[0:52 - 0:54] When you get a caliper, a measurer,
+[0:54 - 0:56] and you just grace between,
+[0:56 - 0:57] I bet you,
+[0:57 - 1:00] not much more than let's say,
+[1:00 - 1:03] I'll give you a 32 maybe.
+[1:03 - 1:05] It sounds like maybe less than 30 millimeters.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:17] T HEIW RONG)WAY;
+[0:20] THAT YOU f
+[0:22 - 0:23] EFFORT]
+[0:23] ७०. ०
+[0:23] दिए
+[0:24] MOVES
+[0:28] y oe
+[0:31] dia
+[0:32] ast
+[0:35] ane |
+[0:36] foes
+[0:37] क्र
+[0:37] किलो

@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[213] https://www.instagram.com/reel/DB1H87UojGO/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] That's a really important distinction, Mike, and I'm glad you made it between sleep quantity
+[0:05 - 0:06] and sleep quality.
+[0:06 - 0:10] I often say that four good hours is better than 12 bad hours.
+[0:10 - 0:11] That really is important.
+[0:11 - 0:16] So often parents will say they're a good sleeper being defined that they go to bed at seven
+[0:16 - 0:20] at night and don't wake up until seven in the morning getting 12 hours, but they wake
+[0:20 - 0:21] up and they're tired.
+[0:21 - 0:27] Well, that wasn't good sleep.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] QUALI
+[0:00] MIKE MEO.
+[0:00 - 0:01] QUANTI
+[0:01] DR. DAVII
+[0:01] DR, MIKE MEW
+[0:01] [TOSH
+[0:08] 1S BETTER
+[0:19] 72 HOURS
+[0:23] ble on the
+[0:23] pp Store
+[0:23] ‘GErITOn
+[0:23] SUPPC
+[0:23] ISE
+[0:23] SUI
+[0:23] iE MEWING
+[0:23 - 0:24] 1318
+[0:23 - 0:27] कि Google Play
+[0:23 - 0:27] MIKE MEV
+[0:24] TON,
+[0:24] SUPPOR
+[0:24] SUBSCRIBING
+[0:24] HE MEWING At
+[0:24 - 0:27] ‘AUS!
+[0:25] 1५७०
+[0:25 - 0:27] ST ITON
+[0:25 - 0:27] HELP SUPPORT
+[0:25 - 0:27] BY SUBSCRI
+[0:25 - 0:27] MEWING APP
+[0:26 - 0:27] 110
+[0:27] mM=W

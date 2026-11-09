@@ -1,0 +1,175 @@
+# model: ggml-large-v3
+========================================================================
+[231] https://www.instagram.com/reel/C9g9lTStKAP/
+STATUS: OK
+DURATION: 1:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:28] Hello and welcome to MUCON 2024. This is the first global event to be centered around Dr. Mike Mew's revolutionary approach to orthodontics and dentistry, an approach that is not only sparking a grassroots revolution in the field, but that has also become a viral online phenomenon with literally tens of billions of searches conducted across the world for mewing on social media.
+[0:30 - 0:51] While the dental profession remains wedded to an outdated, top-down approach to treatment, at this event we will be exploring some of the latest thinking, discussing a holistic view that brings different disciplines together, and promoting a patient-centric methodology that empowers individuals to take an active role in their own treatment.
+[0:51 - 0:59] While the event is limited to just a small audience attending live in New York, it will be open to a vast audience online.
+[1:00 - 1:08] With the event being followed live from all over the world, both on YouTube and from the Mew Health community at MewHealth.com as well.
+[1:08 - 1:26] Mew Health community members that have subscribed to the event will not only get exclusive access to additional content, including interviews with each speaker, but they will also be able to put questions to the speakers, and we will answer as many of these as we can in real time.
+[1:26 - 1:29] We are encouraging people in the room.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] MewCon 2024
+[0:01 - 0:03] Live from New York and Online
+[0:04] 170
+[0:04] LEUNG
+[0:04 - 0:06] and welcome to MewCon :
+[0:05] PIRy,
+[0:05] (ada
+[0:05] PP Ray
+[0:05 - 0:06] to MewCon 2024
+[0:06] Hello and welcome
+[0:07] P round Or
+[0:07 - 0:10] st global event to be centere
+[0:07 - 0:14] क्र
+[0:08] #Ortho'
+[0:08] pics
+[0:08] Sy है
+[0:08 - 0:10] #Mewing
+[0:08 - 0:10] vent tbe contored around De
+[0:09] #MewCon
+[0:09] tobe
+[0:09] contorod around ७५
+[0:09 - 0:10] @Orthotropics
+[0:10] Con
+[0:10] sist
+[0:10] जा 8
+[0:10 - 0:15] @ort
+[0:11] व्व्प ane Garey
+[0:11 - 0:12] 0118५ approach to orthodo
+[0:11 - 0:13] pptoa
+[0:11 - 0:15] ing
+[0:12] Ty ७09/09
+[0:12] व्व् ane oan
+[0:12] onary a
+[0:12] 6 oe Y
+[0:13] दि ane 6600७%
+[0:13 - 0:15] ionary approach to orthodo
+[0:14] ary approach to onthodantes and ante
+[0:15] rth
+[0:15] proach to othodantes an दम
+[0:15] जड़ा A
+[0:16] BB an approach nats not ony sparking a grassroots evolution"
+[0:16 - 0:17] 3 not only sparking a "grass!
+[0:17] 3Pproach that Ist only sparking a"grasro0
+[0:18] onl
+[0:18] nly sparking 3 "५0358
+[0:18] not only sparking a "७1955
+[0:20] ७७० become avi
+[0:20 - 0:21] ‘Phenomenon wth iorly
+[0:20 - 0:23] come a viral online pheno!
+[0:21] vocome 3:
+[0:22] me a
+[0:22] ro phanomenon with rally
+[0:24] or Mowing
+[0:24 - 0:25] arches conducted across th
+[0:24 - 0:29] #Mewin:
+[0:24 - 0:29] tens of billions
+[0:25] tone of ition of
+[0:25] ond
+[0:25] she woret Tor Mowing
+[0:26 - 0:29] fom social media.
+[0:27] Ear
+[0:30] wae
+[0:30 - 0:32] dae
+[0:30 - 0:33] profession remains wedde
+[0:31] maw
+[0:32] ह के.
+[0:32] लीन
+[0:32] sate,
+[0:33] Wat.
+[0:33] css
+[0:33] wedded
+[0:33] outdated
+[0:34 - 0:35] -down approach to treatme
+[0:35] किन
+[0:35] down app
+[0:38] है 5
+[0:40 - 0:41] view that brings different «
+[0:41] erent
+[0:42] Wed
+[0:42] Nee
+[0:42 - 0:43] view that brings olla (
+[0:43] fo Be
+[0:44 - 0:47] patient-centric methodolog
+[0:46] >वश methodolo
+[0:48] if ५
+[0:48] soe
+[0:48 - 0:52] take an active role in their o
+[0:50] Nee
+[0:52] Ania ०
+[0:53] fal!
+[0:53 - 0:55] mited to just a small audien
+[0:55] wal
+[0:55] oes
+[0:56] sia
+[0:56] New York,
+[0:56] ८ नई
+[0:57] all
+[0:57 - 1:01] a vast audience online wit!
+[0:58] 2 के
+[0:58] Nhe
+[0:58] lhe
+[0:58] mee
+[0:58 - 0:59] vent boing
+[0:59] soll
+[0:59] er 4
+[1:00] ike |
+[1:00 - 1:01] tha event being
+[1:02] all
+[1:02 - 1:04] all over the world - both on
+[1:03] sol
+[1:04] sal
+[1:05] Ly on
+[1:05] coma wal
+[1:05 - 1:09] th community at MewHealt
+[1:06] ut (J
+[1:09] sal
+[1:10 - 1:12] ‘Mew Health Community mombors that hav subscribed tothe
+[1:10 - 1:12] munity members that have
+[1:11] ‘Mow Health Community mombors that hav $७७७०/७७० tthe
+[1:13] event,
+[1:14] not only gat exclusive access to adttional content linluding
+[1:14 - 1:17] clusive access to additional
+[1:15] not only get exclusive access 0 300॥003 content includ
+[1:16] ‘ira ony oe ecu sccasto addons content inciding
+[1:17] है oe
+[1:17] ता not only get exclusive access to ational content tncuding =
+[1:18] oe ls
+[1:18] Mi speaker)
+[1:18 - 1:19] Intorviews wth each speaker,
+[1:19] Loe
+[1:20] Pam
+[1:20] 627
+[1:20] Da iy
+[1:20 - 1:23] 2 able to put questions to t
+[1:21] “Cow,
+[1:21] ray a
+[1:21] ao a a!
+[1:21 - 1:22] ine
+[1:22] and
+[1:22] cae
+[1:22] 2 ay
+[1:24] ISL 2
+[1:24] hay,
+[1:24] (Say,
+[1:24] Tro
+[1:24 - 1:26] 3222
+[1:25] bake
+[1:25] it answe
+[1:25] Siz
+[1:25] a 4 «कर
+[1:26] ज आन
+[1:26] es 6
+[1:26] 53:55
+[1:26] wees
+[1:26 - 1:27] as many of these as we can
+[1:28] may
+[1:28 - 1:29] we are encouraging people in the0om to take photos and post
+[1:28 - 1:29] 1g people in the room to tak
+[1:29] ami 1

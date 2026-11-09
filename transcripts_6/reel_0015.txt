@@ -1,0 +1,151 @@
+# model: ggml-large-v3
+========================================================================
+[15] https://www.instagram.com/reel/Da5dqLQIci5/
+STATUS: OK
+DURATION: 2:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Right, I need to do a recap because the internet is all over the place on this one.
+[0:04 - 0:09] A lot of new people are finding this now with the internet exploding in the way it has.
+[0:09 - 0:13] I see the message getting muddled and there's a lot of self-proclaimed
+[0:13 - 0:16] mewing experts who are probably adding to this confusion.
+[0:16 - 0:17] So let me be clear.
+[0:17 - 0:21] Mewing is a health and fitness routine, a lifestyle protocol.
+[0:21 - 0:24] So there are four pillars.
+[0:24 - 0:27] The first one is tongue posture.
+[0:27 - 0:31] Rest your entire tongue against the roof of your mouth with a gentle suction.
+[0:31 - 0:33] This is the position you're born with.
+[0:33 - 0:38] It's the default and is where the tongue is meant to live for the rest of your life.
+[0:38 - 0:40] When you're still growing, this matters enormously.
+[0:40 - 0:44] The window of craniofacial growth is when your plasticity is the greatest,
+[0:44 - 0:48] when posture can evidently change the face.
+[0:48 - 0:50] Mewing is about nose breathing.
+[0:50 - 0:56] This automized natural oral seal at night, an ultimate mewing goal,
+[0:56 - 0:57] keeps your tongue.
+[0:57 - 1:00] From falling back into your airway.
+[1:00 - 1:01] Now, bonus for looks.
+[1:01 - 1:07] Tongue on the palate also elevates the supplemental pouch so that your jaw looks sharp.
+[1:07 - 1:09] Tekken pillow is your swallow.
+[1:09 - 1:12] Swallow like an adult, not a baby.
+[1:12 - 1:17] The baby swallow suckling is pushing the tongue against your cheeks.
+[1:17 - 1:20] The adult swallow is pushing against the palate.
+[1:20 - 1:27] Use the tongue, not your cheeks, not your chin to create that pressure upwards against the palate.
+[1:27 - 1:28] Whenever you swallow.
+[1:28 - 1:33] Since on average, we swallow 500 to 700 times a day.
+[1:33 - 1:39] That's a lot of reps for the tongue up and more repetitive pressure on the palate.
+[1:39 - 1:41] The third pillar is chewing.
+[1:41 - 1:43] Yes, mewing is chewing.
+[1:43 - 1:48] Most of us chew, what, 30 minutes a day at best.
+[1:48 - 1:52] We are designed to chew for about four hours a day.
+[1:52 - 1:56] Ideally, aim for about 30 chews for each bite of food.
+[1:57 - 2:00] And work towards a total of four hours of chewing each day.
+[2:00 - 2:04] Bonus, the tone of your face and your jaw may look sharper.
+[2:04 - 2:08] Finally, mewing is about your head and body posture.
+[2:08 - 2:13] Number four, depending where you are on the craniofacial dystrophy spectrum.
+[2:13 - 2:19] If your airway is open enough that you can breathe comfortably without pushing your head forwards,
+[2:19 - 2:24] make it a habit to keep your head stacked up over your shoulders.
+[2:24 - 2:27] A good head position means keeping your ear
+[2:27 - 2:31] aligned directly over C7, at the vertebra, the base of your neck.
+[2:31 - 2:34] And this is the natural alignment humans are designed for.
+[2:34 - 2:40] And it promotes better overall body posture while also giving you a more confident social presence.
+[2:40 - 2:47] So to recap, mewing boils down to park your tongue up and keep your mouth closed to breathe through your nose.
+[2:47 - 2:56] Swallow correctly, chew more and keep your head stacked straight up above your neck with the tongue suctioned up, helping to lock everything in place
+[2:56 - 2:58] with minimal effort.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] a oo
+[0:02] 98988 सा
+[0:02] eee See
+[0:02] THIS IS WRONG
+[0:02] [TERNET
+[0:02] = ste
+[0:02 - 0:04] See
+[0:03] ‘eat ae
+[0:03] nent!
+[0:03] ini"
+[0:03] ‘OVER _
+[0:03] RIE
+[0:03] Sera नल
+[0:03] MEWING}
+[0:04] sea
+[0:04] owe
+[0:04] Juan 253
+[0:04] rake
+[0:04] Wasi
+[0:04] ABOUT: >
+[0:04] pines
+[0:04] uide
+[0:04] ING
+[0:06] a de
+[0:06] IS NO!
+[0:11] [1070
+[0:18] Ele
+[0:20] aa: Hl
+[0:20] _ gil
+[0:20] mie
+[0:21] mae
+[0:21] AEN,
+[0:23] Lie
+[0:24] Foy
+[0:26 - 0:27] + TONGUE POSTURE
+[0:35] cid
+[0:37] cig
+[0:38] cis
+[0:40] ENO! I
+[0:45] ve 1
+[0:47] ह ही
+[0:48] iin,
+[0:51] iy “ee
+[0:59] क्र
+[1:00] JOV
+[1:01] OR LO
+[1:02] र्ड
+[1:04] HE SUB
+[1:05] MENTAL POUCH
+[1:06] OUR JAW
+[1:07] HARPER
+[1:09 - 1:11] 4+ SWALLOW
+[1:15] TCHR
+[1:15] TLE
+[1:17] THE AD
+[1:18] IS PUSHI
+[1:19] AGA
+[1:21] हा 5
+[1:22] =E st
+[1:22] रे 35.
+[1:23] 4९३.
+[1:25] RES:
+[1:25] mel
+[1:29] thoy,
+[1:34] ind
+[1:34] \ LOT
+[1:35] nm THE
+[1:36] ify
+[1:36] ORE
+[1:38] rors
+[1:42 - 1:43] + CHEWING
+[1:44] MOST =
+[1:47] tall 1
+[1:49] ESI
+[1:50] ब्रेक
+[1:52] ols %
+[2:02] 5 Ri FAG
+[2:07] AS j
+[2:07 - 2:09] HEAD
+[2:07 - 2:09] BODY
+[2:08] ५३५,
+[2:10] ANIO!
+[2:12] 1\ है.
+[2:14] है asi
+[2:19] SSS
+[2:19] # 070७
+[2:25] Asi
+[2:25] POSIT!
+[2:25] fis
+[2:26] ars
+[2:27] SSS
+[2:28] A — al
+[2:31] ७ 3७2
+[2:35] ITP }
+[2:54] SUCTION

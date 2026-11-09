@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[51] https://www.instagram.com/reel/DWO8JfvCJUe/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Why does Mewing work for some people and not others?
+[0:03 - 0:06] Well, the genetics sets the range.
+[0:06 - 0:09] The environment influences the outcome.
+[0:09 - 0:13] Growth stage, breathing history, posture,
+[0:13 - 0:15] and consistency all matter.
+[0:15 - 0:20] Comparing transformations without context is misleading.
+[0:20 - 0:23] Focus on function, not comparisons.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Why dees menting
+[0:04] ual
+[0:04] Well, the genctiice
+[0:05] ohh
+[0:06] ५२६ ।
+[0:06] sets the range,
+[0:08] ae ६)
+[0:08] नर SY
+[0:09] the outcome.
+[0:10] CROWD soe,
+[0:14] emma,
+[0:14] sae?
+[0:15] ys as
+[0:15] जला
+[0:15] all matter.
+[0:18] iwithouncontexg

@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[166] https://www.instagram.com/reel/DH_ZIQgJmKR/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] is good looking. What does it mean? Why are you attracted to high cheekbones? Why are
+[0:03 - 0:08] you attracted to a strong jaw? Maybe it's health. We're hardwired to be attracted to
+[0:08 - 0:14] healthy people. Sleep apnoea was killing 20% of the population a decade early. Look at
+[0:14 - 0:18] the anthropologists who are saying the more complex the grave is, the more malocclusion
+[0:18 - 0:22] you've got. I don't want to be antagonistic to orthodontists. I just think we could do
+[0:22 - 0:24] more than we're doing.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] What is good looking?
+[0:00 - 0:23] > YouTube
+[0:00 - 0:24] “Airway Answers with Nicole Goldfarb*
+[0:00 - 0:24] Ep. 49: Dr. Mike Mew: The Face
+[0:00 - 0:24] Behind The Mewing Movement,
+[0:00 - 0:24] Reveals All
+[0:01 - 0:03] Why are you attracted
+[0:02] to high cheekbones?
+[0:03] 54. a
+[0:04] to a strong jaw?
+[0:05] Ged
+[0:05 - 0:06] Maybe, it's health.
+[0:07] We're hardwired
+[0:08] to be attracted to
+[0:09] बा, बा
+[0:09] healthy people.
+[0:10] Sleep apnea - it's killing
+[0:11 - 0:13] 20% of the population
+[0:14] a decade early!
+[0:15] anthropologists who are
+[0:16] saying the more complex
+[0:17] the grave is, the more
+[0:18] a oo
+[0:18] malocclusion you've got.
+[0:18] Gund
+[0:19] | don't want to
+[0:19] Yr er
+[0:20] be antagonistic
+[0:20] Le ra है|
+[0:21] to orthodontists.
+[0:22] | just think we could do
+[0:23 - 0:24] more than we are doing.
+[0:24] Ys ra
+[0:27] its
+[0:27] sto
+[0:30] Vou
+[0:30] Tube

@@ -1,0 +1,85 @@
+# model: ggml-large-v3
+========================================================================
+[204] https://www.instagram.com/reel/DCO8f8Voq9t/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] I mean when you look at the difference between a pre-industrial nasal cavity you look at a modern
+[0:07 - 0:14] nasal cavity it's almost like a different animal a different species and now in this modern normal
+[0:14 - 0:20] it's very easy to get nasal blockages because there's just no spare capacity and once you start
+[0:20 - 0:27] mouth breathing the stuff in the air the you know dust and mites and of course these seem to arrive
+[0:27 - 0:33] into the lungs go straight into the bloodstream with no processing you know the nose is your
+[0:33 - 0:39] immunological processing unit things that arrive in the lung through the nose they've been marked
+[0:39 - 0:45] up that this you breathed it in that was normal that's what happens if things simply come through
+[0:45 - 0:50] your lungs into your body then i worry how the immune system is going to cope with this because
+[0:50 - 0:53] it's bypassed a whole chunk of the immune system
+[0:53 - 0:55] you
+[0:57 - 0:59] you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] NASAL 5
+[0:00] AND IM
+[0:00] ING
+[0:02] LOOK
+[0:02] हल 1
+[0:03] कक | | BETWEEN
+[0:04] का i ३
+[0:06] ‘OU eS,
+[0:08] OST
+[0:08] vee
+[0:09] weeANIMAL
+[0:10] A DIFFERENT SPEC 1६5
+[0:11] NOW I
+[0:12] Ure)
+[0:13] MODERN
+[0:14] NORMAL
+[0:15] VERY EASY,
+[0:19] 101५) 011८६
+[0:20] VOU START:
+[0:23] THE AIR
+[0:24] ale
+[0:25] AND MITES
+[0:28] fit
+[0:33] aie >
+[0:33] _ ISYOUR
+[0:34] IMMUNOLOGICAL
+[0:36] हे ARRIVE IN
+[0:37] THE LUNG
+[0:37] — Sami
+[0:38] THE NOSE
+[0:39] ee lh
+[0:39] MARKED
+[0:40] THAT THIS
+[0:42] THAT WAS.
+[0:44] ie पे
+[0:46] INTO YOUR BOD"
+[0:47] ist
+[0:47] 4 WORRY
+[0:48] HOW THE
+[0:48] Ciel
+[0:51] A WHOLE
+[0:52] OF THE
+[0:54] ble on the
+[0:54] pp Store
+[0:54] TON
+[0:54] Google Play
+[0:54] ELI
+[0:54] 19907
+[0:54] 5085।
+[0:54] MEWING
+[0:54] APP
+[0:54] MIKE
+[0:54] MEV
+[0:54 - 0:58] >AUSI
+[0:55] 1६1?
+[0:55 - 0:58] SUPP¢
+[0:55 - 0:58] SUBSCRIBING
+[0:55 - 0:58] HE MEWING APP BY MIKE MEW
+[0:56] SUBSCRI
+[0:56] BING
+[0:56] HE MEWING APP 8५
+[0:56] MIKE MEW
+[0:56 - 0:57] iELP
+[0:58] 1६1?

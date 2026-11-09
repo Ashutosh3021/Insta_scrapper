@@ -1,0 +1,180 @@
+# model: ggml-large-v3
+========================================================================
+[141] https://www.instagram.com/reel/DNjL3gctgTv/
+STATUS: OK
+DURATION: 1:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] New in questions. I can't get a vacuum hold no matter what I do. Clearly practice makes perfect
+[0:06 - 0:10] and a lot of people who I've worked with who say they can't get a vacuum hold they just haven't
+[0:10 - 0:16] practiced hard enough so do continue to work. But if you can't really get a vacuum hold the number
+[0:16 - 0:24] one problem is anatomy. It nearly always is. You either lack tongue space so you can't get your
+[0:24 - 0:29] tongue up onto the roof of the mouth without the tongue folding somehow or that you've got a very
+[0:29 - 0:35] high narrow palate and that narrowness continues out along the back. When it carries out along the
+[0:35 - 0:40] back that's then preventing you from getting a suction hold and if you really can't get that
+[0:40 - 0:45] tongue up there you might need some artificial assistance. Something like expansion. That's
+[0:45 - 0:51] nearly always going to be the answer here. I would generally recommend people now use either
+[0:51 - 0:59] a surgical assist or some bone ball expansions. Tads which are effectively screws that
+[0:59 - 1:02] screw into the top jaw and gain some expansion.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] QUESTIONS
+[0:02 - 0:03] scuum hold no matter
+[0:03] cant get:
+[0:03] yhat ido.
+[0:04] Want g
+[0:05] ait
+[0:05] PRACTICE,
+[0:05] ost
+[0:06] well
+[0:06] JAND.A LOT.
+[0:06] —_ Frais
+[0:06] i अकाक.
+[0:06] wi ——EEEEE
+[0:07] all
+[0:08] JEY_CAB
+[0:09] 91010
+[0:11] SO DO
+[0:11] Pos
+[0:14] CANT
+[0:15] CUUM
+[0:15] ‘a UR.
+[0:16] UMBER
+[0:17] LEM IS
+[0:17] कर 9
+[0:18] PGE
+[0:18] ANATOMY
+[0:18] ‘er a.
+[0:19] EARLY
+[0:19] छा अंश 0िक
+[0:20] ‘YOU,
+[0:21] Flack TONGUE
+[0:22] wet
+[0:23] GETYOUR
+[0:24] TONGUE UP
+[0:24] eee eee
+[0:25] HEIN H
+[0:25] ras ae
+[0:26] MONGUE
+[0:28 - 0:30] Narrow Palate
+[0:30] “aes
+[0:33] = बुक
+[0:33] Huge
+[0:33] a 4 AX
+[0:35] wom
+[0:35] ty 7a
+[0:37] LYOUIFR
+[0:37] eae
+[0:39] REALLY
+[0:39] कि चर
+[0:40] TON
+[0:41] ath %
+[0:41] Pun
+[0:42] aad
+[0:42] ICIAL
+[0:42] or 2.
+[0:43] \SSISTANCE
+[0:44] PANSIO
+[0:44] pi SE
+[0:45] . पल «| 7 किक.
+[0:49] <P PEOPLE
+[0:49] NON
+[0:49] See
+[0:49] 21६८:
+[0:50] “auNO}
+[0:50] USE
+[0:51] A SURGICAL af
+[0:51] Nes
+[0:52] Jalal.
+[0:52] ASSIST NS
+[0:53] znd
+[0:53] ous
+[0:54] ASS
+[0:55] ५ le
+[0:56 - 0:57] USES TAGS
+[0:58] EFI
+[0:58] WwW
+[1:01] ID GAIN
+[1:03] EVENT -
+[1:03] P LIN
+[1:03] ANE
+[1:03] Isr
+[1:03] T EVER Gi
+[1:03] HERI
+[1:03] NTH,
+[1:03] FUN
+[1:03 - 1:04] OF EXF
+[1:03 - 1:04] IAL ६
+[1:03 - 1:04] THING,
+[1:03 - 1:08] Journalist and
+[1:03 - 1:08] ‘Author
+[1:03 - 1:15] Host and Founder
+[1:03 - 1:15] of Mewing
+[1:03 - 1:16] HYBRID EVENT
+[1:03 - 1:16] LONDON AND
+[1:03 - 1:16] ONLINE
+[1:03 - 1:16] THE GREAT MEWING
+[1:03 - 1:16] Dentofacial
+[1:03 - 1:16] ‘orthopaedies
+[1:04] AND
+[1:04] NEUF
+[1:04] GLOBAL
+[1:04] ERS,
+[1:04] PANELISTS
+[1:04] AIR
+[1:04] FUNCTION
+[1:04] OPMENT
+[1:04 - 1:08] VER GATHERING
+[1:04 - 1:16] EVENT - 6 SEPT 2025
+[1:05 - 1:06] ४३७
+[1:05 - 1:08] Jo ef
+[1:05 - 1:08] TOP LINEUP OF GLOBAL 571
+[1:05 - 1:08] AKERS / PANELIST.
+[1:05 - 1:08] HE LAr
+[1:05 - 1:08] XPER
+[1:05 - 1:08] D TO DENT
+[1:05 - 1:08] AIRWAY B
+[1:05 - 1:08] ATHING, FUNCT!
+[1:05 - 1:15] EVELOPMENT
+[1:07] Jo of
+[1:09] Host
+[1:09] ATE
+[1:09 - 1:15] Jack Hacks
+[1:10 - 1:12] (४ ५४६
+[1:10 - 1:12] ND 01
+[1:10 - 1:14] OPEN.
+[1:10 - 1:14] IN Londo!
+[1:10 - 1:14] RTS
+[1:10 - 1:14] ARE
+[1:10 - 1:14] RIBUTE Ti
+[1:10 - 1:14] TE PR
+[1:10 - 1:15] 1३ FAS)
+[1:10 - 1:15] ET THE
+[1:10 - 1:15] |ANGING THE
+[1:10 - 1:15] MEW,
+[1:13 - 1:14] (४ WE
+[1:13 - 1:14] ND D
+[1:15] OPEN TO THE
+[1:15] IN LONDON AND ONLINE
+[1:15] RTS THAT ARE
+[1:15] RSTAI
+[1:15] ROWTH AND DI
+[1:15] RIBUT!
+[1:15] HE LATE PROF
+[1:16] AN HALL,
+[1:16] 20 BEDFORD WAY
+[1:16] lois
+[1:16] LONDON, WCIH OAL GB
+[1:16] LY/4MNMBLC
+[1:16 - 1:17] Ploneering airway
+[1:16 - 1:17] ‘orthodontist.
+[1:16 - 1:17] Recently Deceased
+[1:17] YBR
+[1:17] J GREAT M
+[1:17] EVENT -6 ?
+[1:17] eres
+[1:17] gar per
+[1:17] entorecia
+[1:17] Dou
+[1:17] ntiapaedies

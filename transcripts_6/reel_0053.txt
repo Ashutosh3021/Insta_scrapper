@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[53] https://www.instagram.com/reel/DWCIuvdCDt_/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Mouth breathing in adults. Can you reverse it? Yes, very much so.
+[0:06 - 0:11] And if you're an adult mouth breather, this matters far more than aesthetics.
+[0:11 - 0:17] Mouth breathing affects facial posture, airway health, and of course, sleep quality.
+[0:17 - 0:24] While growth potential is limited in adults, breathing patterns can improve.
+[0:24 - 0:29] Nasal breathing is trainable, but while obstructions must be addressed,
+[0:30 - 0:33] nasal breathing is often the solution.
+[0:33 - 0:41] So this can become a virtuous cycle of change, a life-changing change.
+[0:41 - 0:48] This isn't about looks. It's about long-term health and life expectancy.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Mouth breathing In adults
+[0:07] yar
+[0:07] And if you're
+[0:07] an adult
+[0:09] breather, this matters
+[0:10] PGS
+[0:11] meg oa a
+[0:11] ter}
+[0:11] far more than aesthetics.
+[0:12] oer
+[0:13] 7 की
+[0:14] affects facial / ~~
+[0:19] While growth
+[0:20] While growth potential is
+[0:22] limited in adults,
+[0:22] ing
+[0:26] isTR
+[0:28] But while obstructions
+[0:30] ण्त
+[0:30 - 0:31] be addressed,
+[0:31] nasal breathing
+[0:33] ts often the solution.
+[0:35] vor
+[0:35] become
+[0:35 - 0:36] So this can
+[0:36] become & virtuous
+[0:37] Better Sleep
+[0:37 - 0:38] Stronger Airway
+[0:37 - 0:39] Improved Posture
+[0:38] Onygen
+[0:39] = eee ७
+[0:39] Stoner Ainw
+[0:39] Borter Stoop
+[0:40] alife changing
+[0:42] ५९-४३:
+[0:43 - 0:44] This isn't about looks,
+[0:46] t's about long term healt
+[0:48] Bo Get
+[0:48] ical
+[0:48] and life expectancy.

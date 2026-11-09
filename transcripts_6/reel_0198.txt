@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[198] https://www.instagram.com/reel/DDNdT2JIh-r/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] And these children who were snoring or mouth breathing or having acne is stopping breathing
+[0:06 - 0:11] for two or more breaths during sleep. If one treated at age five, they had a 40% increased
+[0:11 - 0:16] risk of special education needs by age eight. Now, how come that is not part of the educational
+[0:16 - 0:19] establishment in the UK, screening children for mouth breathing?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] THE 4
+[0:00 - 0:01] CHILDHOOD MOUT
+[0:00 - 0:01] REATHING
+[0:00 - 0:01] Dr. Patrick
+[0:00 - 0:01] Keown
+[0:01] | alles
+[0:02] Bao
+[0:05] APNEA
+[0:07] \ पहन:
+[0:07] BREATHS
+[0:08] i ce
+[0:13] 888
+[0:13] Baio
+[0:13] Rete AGE
+[0:14] me on
+[0:14] wae
+[0:14] ‘ile
+[0:19] Bae
+[0:20] © App
+[0:20] 3CI
+[0:20 - 0:21] val
+[0:21] le Play
+[0:21] 3SCRIBING
+[0:21 - 0:22] nthe
+[0:21 - 0:22] App Store
+[0:21 - 0:22] MEWING
+[0:22] UPP
+[0:22] IEINC

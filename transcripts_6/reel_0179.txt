@@ -1,0 +1,80 @@
+# model: ggml-large-v3
+========================================================================
+[179] https://www.instagram.com/reel/DEMtq4qsiPT/
+STATUS: OK
+DURATION: 0:45   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Here is Mason with his lips together, nice facial balance, and there's his father with
+[0:06 - 0:12] a long face, as both of them are football players, and the father has sleep apnea.
+[0:12 - 0:14] And there's one more slide here, which is even better.
+[0:14 - 0:19] The mother sends me this before Thanksgiving each year, and that's her son with the lips
+[0:19 - 0:23] together and another boy with his face blocked, but his mouth is hanging wide open.
+[0:23 - 0:29] And he has that long face with the chin down and back, and you and I both know that his
+[0:29 - 0:31] airway is compromised.
+[0:31 - 0:38] So these slides just show that it is a rampant problem worldwide that's basically been ignored.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] ISSUE THAT’S BEE?
+[0:00 - 0:01] INORED
+[0:00 - 0:01] ILL HANG
+[0:00 - 0:01] DR. MIKE MEV
+[0:02] yA ४१
+[0:02] eer M
+[0:02 - 0:07] Father when a
+[0:02 - 0:09] Mason
+[0:02 - 0:09] teen
+[0:03] Va VI
+[0:03] cums
+[0:04] scum
+[0:05] SSS aaa
+[0:05] 05४.
+[0:05] 131]
+[0:05] Fatl
+[0:05] when a
+[0:06] ८.२५.
+[0:06] acuns
+[0:07] ८५४.
+[0:08] ‘aed
+[0:08] ८.२४.
+[0:08] Das
+[0:08 - 0:09] r when a
+[0:09] Saas
+[0:09] Nas
+[0:10] THE FATHER
+[0:11] APN!
+[0:11] 11721.
+[0:12] ONE MORE
+[0:12] lit
+[0:13] 455
+[0:14] VEN BETTER
+[0:15 - 0:23] Ses
+[0:21] Gray
+[0:21] Sy ७०
+[0:21] ५ ८६
+[0:26] bown AND
+[0:29] INS
+[0:29] AIRWAY
+[0:30] ६ ५3
+[0:30] COMPROMISE!
+[0:31] Hil
+[0:32] कष्ट
+[0:33] mil
+[0:33] न्‍्ज्ञौ
+[0:34] RAMPANT
+[0:35] -ace
+[0:35] PROBLEM
+[0:36] Ave
+[0:36] 415
+[0:36] WORLDWIDE Si
+[0:37] 453
+[0:37] BASICALLY J
+[0:38] Vit
+[0:39] ‘Available ०
+[0:39] GETITON
+[0:39] App Store
+[0:39] Google Play
+[0:39 - 0:44] HELP SUPPORT THE CAUSE
+[0:39 - 0:44] 7 BY SUBSCRIBING TO
+[0:39 - 0:44] THE MEWING APP BY MIKE MEW

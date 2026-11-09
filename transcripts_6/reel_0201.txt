@@ -1,0 +1,81 @@
+# model: ggml-large-v3
+========================================================================
+[201] https://www.instagram.com/reel/DCWoDp7oPrC/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] yeah so when we look at the brain what we see we see a global detriment to its development but then
+[0:07 - 0:12] we see focal hot spots amongst all this and the hottest spot is in the frontal and prefrontal
+[0:12 - 0:17] cortex region now just to explain that what that part of the brain does that's kind of like our
+[0:17 - 0:21] regulatory brain that's the thing that sort of makes sure that we do the right things at the
+[0:21 - 0:26] right time and we don't give in to temptations and we can focus and concentrate on whatever it
+[0:26 - 0:31] is we're supposed to be doing at the time and if that is dysregulated you'll manifest as
+[0:31 - 0:35] behavioral problems behavioral challenges behavioral issues and that obviously then
+[0:35 - 0:40] sort of starts then pointing the child towards an adhd diagnosis when in actual fact we know
+[0:40 - 0:46] when it comes to adhd for example 25 maybe as high as 50 of those diagnoses are actually
+[0:46 - 0:50] incorrect or overplayed because the child has sleep disorder breathing
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] [0515
+[0:00] DR, MI
+[0:00] ITOSH
+[0:00] DR. “कु
+[0:00 - 0:01] SLEEP DISO!
+[0:00 - 0:01] ADHD है.
+[0:00 - 0:01] AND
+[0:01] jOsIS
+[0:01] MIKE Mi
+[0:01] पका
+[0:02] a] ey
+[0:05] ‘wel
+[0:10 - 0:13] cortex,
+[0:12 - 0:13] Prefrontal
+[0:16] ‘get
+[0:17] है 4)
+[0:19] ren
+[0:25] Sag
+[0:25] ren
+[0:27] ‘set
+[0:29] क्र
+[0:29] LATE!
+[0:29] रै के
+[0:31] ael
+[0:34] BEHAVIORAL ISSUI
+[0:35] ५५५
+[0:36] ‘gel
+[0:37] INTING
+[0:38] (9 er
+[0:39] ‘GNOSIS;
+[0:40] (9 FACT (1१०!
+[0:44] Se a
+[0:44] AS 50%
+[0:47] ret
+[0:48] )VERPLAYE!
+[0:50] ISORDI
+[0:51] ‘Available on
+[0:51] hed App St
+[0:51] HELP SUPPORT THE CAUSE
+[0:51] THE MEWING APP By MIKE MEW
+[0:51] ell
+[0:51 - 0:54] BY SUBSCRIBING TO”
+[0:51 - 0:56] P> Google Play
+[0:52] 1ELF
+[0:52] HE MEWING Af
+[0:52 - 0:54] iron
+[0:52 - 0:55] AUSI
+[0:52 - 0:56] (51 2 SUPPORT
+[0:52 - 0:56] MIKE MEW
+[0:53] mM=W
+[0:53] ELI
+[0:53 - 0:56] HE MEWING APP BY
+[0:54] ELE
+[0:55] sTITON
+[0:55 - 0:56] ‘Ava
+[0:55 - 0:56] le onthe
+[0:55 - 0:56] App Store
+[0:55 - 0:56] SUBSCRI
+[0:56] GETITON
+[0:56] NOES:
+[0:56] ING

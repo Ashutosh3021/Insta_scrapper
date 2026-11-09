@@ -1,0 +1,66 @@
+# model: ggml-large-v3
+========================================================================
+[64] https://www.instagram.com/reel/DUtV_ebCNNC/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] don't breathe up your nose all right well what do you think we should be doing then sir
+[0:06 - 0:16] yeah reset instead breathe back into your face great so you're demonstrating that we've got the
+[0:16 - 0:23] three paranasal spaces yeah inferior middle and superior because you've got the turbinates in
+[0:23 - 0:31] between the turbinates help to spin moisturize humidify and warm the air as you breathe in
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] BYR (hie Breathe
+[0:00 - 0:02] मर Your Nose
+[0:01] 7 Om
+[0:01] el 4
+[0:01] Don't|Breathe
+[0:01] Ta eg Your Nose
+[0:02] aj Roe
+[0:08] SO" A
+[0:08] ही! coe Back®
+[0:08] IntohYour Face
+[0:08] aft!
+[0:08] Pcoac
+[0:09] tye
+[0:09] lon)
+[0:09] IN a
+[0:09] Wine Breathe Backd
+[0:09] nay Face
+[0:09] Sco
+[0:10] वार |
+[0:10] Wirretesc Breathe B
+[0:10] awd
+[0:10] GD arya,
+[0:10 - 0:11] a, Your Face
+[0:11] ८25
+[0:11] कुक *
+[0:11] Vinsteaa Breathe Backg
+[0:11] WYN
+[0:12] aed
+[0:12] ब्य्
+[0:12] > 2 क्र
+[0:16] AF wa
+[0:16] 7B A
+[0:16] Your Airways
+[0:16 - 0:17] Back Not)Up)
+[0:16 - 0:18] » DONT TRYTHISJAT/HOME! £
+[0:17] DON’T TRY THIS
+[0:17] f ip?
+[0:17] ५ Airways Go —
+[0:18] 1 की
+[0:18] a ah
+[0:19] tae
+[0:19] ४ 72
+[0:20] Paty
+[0:22] Yen
+[0:24] ios
+[0:27] igs
+[0:27] 922
+[0:27] 22227
+[0:28] re Oe
+[0:29] Sensual
+[0:30] fh 3
+[0:31] oD 9

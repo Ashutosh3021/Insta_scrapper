@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[192] https://www.instagram.com/reel/DDeUdi0sFCG/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] and we say there's two kids sitting down together and they're sitting at the school desk and one
+[0:06 - 0:10] child is a heavy coat that child is coughing coughing coughing but the other child is sitting
+[0:10 - 0:14] beside them with their mouth open literally the germs that is coming from one child are going to
+[0:14 - 0:19] be you know with them with them out open there's very little defense that germ-laden air is coming
+[0:19 - 0:19] into the lungs
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] HOW NOSE
+[0:00 - 0:01] ING
+[0:00 - 0:01] PROTECTS ;
+[0:00 - 0:01] ‘GERMS,
+[0:00 - 0:01] Dr. Patrick
+[0:00 - 0:01] Dr. Mi
+[0:00 - 0:01] Keown
+[0:01] Ped
+[0:02] Hee
+[0:04] है आप
+[0:05] wily
+[0:06] Mate
+[0:06] Wt aac
+[0:07] 11 1
+[0:11] wal
+[0:11] WIT é
+[0:13] Te j
+[0:15] will
+[0:18] Hae ||
+[0:18] श्र
+[0:19] ae ५.
+[0:20] sag SUPPORT THE CAUSE
+[0:20] BY SUBSCRIBING TO
+[0:20] THE MEWING APP BY MIKE MEW
+[0:21] aval
+[0:21] P> Google Play
+[0:21] 3SCRIBING
+[0:21] iEWINC
+[0:21 - 0:22] nthe
+[0:21 - 0:22] @ AppStore
+[0:21 - 0:22] MIKE
+[0:22] P 60००५
+[0:22] le Play
+[0:22] USI
+[0:22] 3SCRI
+[0:22] (ING APP

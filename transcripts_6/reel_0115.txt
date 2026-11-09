@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[115] https://www.instagram.com/reel/DPoxN2BCBBe/
+STATUS: OK
+DURATION: 0:51   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] I have a misaligned jaw. How does it affect my mewing and how can I fix it naturally if possible?
+[0:06 - 0:13] Well, if you have an asymmetrically misaligned jaw, that's going to be slightly different than
+[0:13 - 0:19] if your jaw's set back or set forwards. Now, as a general rule with mewing, we're not trying to
+[0:19 - 0:25] change things. We're not going to change the position you bite in. If you're going to do that,
+[0:25 - 0:32] then you need to get help. You need to go and see an orthodontist or surgeon or someone like that
+[0:32 - 0:37] and you're going to move the whole thing forwards. With mewing, we're just going to take what you are
+[0:37 - 0:44] and make you comfortable in the skin you're in and get you improving your own posture. So
+[0:44 - 0:50] you're not going to change the misaligned jaw. You're going to get better, but still get the
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:08] | \ey है
+[0:10] ISALIGN
+[0:23] y कहा का
+[0:24] LFF
+[0:24] ask
+[0:26] कक पा
+[0:37] हिल
+[0:43] ey yi
+[0:45] es Be,

@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[189] https://www.instagram.com/reel/DDm111JMnkV/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] and then we have to think about what's inside the nose and the turbinates and the design of
+[0:06 - 0:11] the nose and the mucus blanket and the production of nitric oxide moisture all the blood flow that
+[0:11 - 0:15] goes to the nose to make sure that the air is warmed up before it comes into the lungs
+[0:15 - 0:20] all of the communication from the nose to the brain so there's so much going on so just even
+[0:20 - 0:25] breaking it down you know it's not natural to mouth breathe if it was natural and normal to
+[0:25 - 0:29] mouth breathe well there would be something in the mouth that serves a purpose in terms of breathing
+[0:29 - 0:30] But there's nothing there.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Dr. Patrick McKeown
+[0:00 - 0:01] WHY IT 4
+[0:00 - 0:01] TO MO!
+[0:00 - 0:01] THE
+[0:01] Dr. Patrick
+[0:01] pr. Mil
+[0:01] Keown
+[0:02] 11 8
+[0:02] | eae
+[0:05] lf a की
+[0:06] Jes
+[0:07] I) ee
+[0:07] wil
+[0:08] NITRIC)
+[0:14] Voy
+[0:16] V ee
+[0:16] tq A~
+[0:16] COMMUNICATION
+[0:17] whee
+[0:17] Lee
+[0:17] THE NOSE
+[0:18] HEN
+[0:20] 11 ae
+[0:20] 7 BREAKING IT
+[0:21] | A ‘Nu
+[0:22] HUE
+[0:23 - 0:26] 11 a
+[0:27] 1 ae ||
+[0:31] HEL
+[0:31] SUF
+[0:31] ISI
+[0:31] THE M
+[0:31] MIKE MEW
+[0:32] IBSCRIBING
+[0:32] MEWING
+[0:32] MikI
+[0:33] P> Google Play
+[0:33] RIBING
+[0:33] HE MEWING API
+[0:33] Mikt

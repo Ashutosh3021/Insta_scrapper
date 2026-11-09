@@ -1,0 +1,79 @@
+# model: ggml-large-v3
+========================================================================
+[220] https://www.instagram.com/reel/C-3IofIMTGk/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Mewing Tongue Posture 101
+[0:02 - 0:07] When your face is resting, the tongue should be up.
+[0:07 - 0:16] Say "N, N, N" or "N, N, N"
+[0:16 - 0:23] Or you can also get saliva and when you swallow, it's flat too.
+[0:23 - 0:29] Please vote me for me to be able to speak about tongue posture at South by Southwest.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] postur
+[0:00 - 0:01] mewing)|tongue'
+[0:01] @ What is mewing
+[0:01] 12051012॥10॥
+[0:01] ening tongue pst
+[0:01] ‘ona
+[0:02] iN 7
+[0:02] Min ong posture
+[0:03] jen\your om
+[0:03] 15165
+[0:03] tongue)
+[0:03] ine
+[0:03] N18 46
+[0:03 - 0:04] should be up) say,
+[0:04 - 0:06] fisjresting tongue)
+[0:04 - 0:07] when your face)
+[0:05] hould| bejup, say,
+[0:06] be’ up) say;
+[0:07] lee
+[0:07] tongue)
+[0:07] 0219 57
+[0:12] dnd
+[0:13] — | tongue pone
+[0:15] ee “cent
+[0:15] ‘ona
+[0:16] (जाल aes
+[0:17] ' आर्मी
+[0:17] #क कब.
+[0:17] c also
+[0:17] eafiva |)
+[0:18] Nfalso
+[0:18 - 0:19] getisaliva
+[0:19] yy «4
+[0:20] ल्‍ ७
+[0:20] fandiwhen}you
+[0:20] SWEOM7 iS TIETs TOO
+[0:20] Merinstonose ली
+[0:20] O1QAA
+[0:21] Da 2895
+[0:21] Aes
+[0:21] ‘swallow/itis}flat;
+[0:22] a le
+[0:22] ‘and\when|
+[0:22] ‘Swallow,
+[0:22] 1Shtlat;
+[0:22] 010
+[0:23] wing ong
+[0:24] Link in cur welssie
+[0:24] endingronyMonday,
+[0:25] imkourswebsite
+[0:25] ‘forgme)}to)
+[0:25] ‘Speaksabout:
+[0:25] CHES POS
+[0:25] Moin
+[0:25 - 0:27] ‘on Monday
+[0:26] lenjMonday}
+[0:26] ‘forgme}toyspeaktabout
+[0:26] tongue) posture
+[0:26 - 0:28] Hink{infourdwebsite
+[0:27] De Linkginfourawebsite
+[0:27] endington
+[0:27] Dy Souiinmess
+[0:28] Votinglending, onjMonday,
+[0:28] by कि

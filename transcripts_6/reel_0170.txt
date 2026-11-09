@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[170] https://www.instagram.com/reel/DH6Zm8SvoG9/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] I agree with Dad's philosophy that prolonged breastfeeding without nasal blockage
+[0:07 - 0:11] encourages the tongue to be up on the roof of the mouth in this rhythmic pattern
+[0:11 - 0:14] and it finds a home there and that pushes the whole maxilla forwards.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] @ ७ ail
+[0:00] Kcribed )
+[0:00 - 0:02] I nich with dad's philosophy that
+[0:00 - 0:02] > YouTube
+[0:00 - 0:14] *Airway Answers with Nicole Goldfarb*
+[0:00 - 0:14] Ep. 49: Dr. Mike Mew: The Face Behind The (sunscrived
+[0:00 - 0:14] Mewing Movement Reveals All
+[0:02] Fived )
+[0:03 - 0:05] prolonged breastfeeding without
+[0:03 - 0:05] a @ to wl
+[0:06] @ éo Wil
+[0:06] > YouTube
+[0:06 - 0:07] nasal blockage encourages
+[0:07] हि हे
+[0:07 - 0:09] @ to ui
+[0:08] the tongue to be up on the roof
+[0:09] of the mouth in this kind of
+[0:10] [8७७७ pattern, and it finds
+[0:10] @ és al
+[0:10] Subscribe
+[0:10 - 0:14] > YouTube
+[0:11] rhythmic pattern, and it finds
+[0:11] @ 0 il
+[0:12] a home there and that pushes
+[0:12] lee
+[0:13 - 0:14] the whole maxilla forwards.
+[0:14] (Ei crive |
+[0:15] | » है Tube
+[0:15 - 0:20] "Airway Answers with
+[0:15 - 0:20] Nicole Goldfarb"
+[0:16] PY susscnse: 2
+[0:17 - 0:18] © Yous:
+[0:17 - 0:20] SUBSCRIBED g,
+[0:18] SUBSCRIBED NY
+[0:19] | » है| Tube

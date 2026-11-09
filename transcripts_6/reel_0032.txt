@@ -1,0 +1,88 @@
+# model: ggml-large-v3
+========================================================================
+[32] https://www.instagram.com/reel/DYOmqzLD8DR/
+STATUS: OK
+DURATION: 1:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] It seems that modern humans have around 28 or sometimes only 24 teeth.
+[0:05 - 0:12] Now dentists are being taught that 28 teeth are normal and that if someone has 28 teeth
+[0:12 - 0:18] in a good arrangement this would reflect perfection as far as how teeth come together
+[0:18 - 0:24] and the absence of wisdom teeth in either this reflection perfection or within the general
+[0:24 - 0:31] public is totally unquestioned. No one suggests that this is abnormal in any shape form or way.
+[0:31 - 0:37] This idea of 28 or 24 teeth is a starting point in all research. It's what would be in any
+[0:37 - 0:44] examination for dentistry or any dental subsection. All the case presentations I've seen at orthodontic
+[0:44 - 0:49] conferences have 28 teeth usually and of course in marketing and of course I've got sort of several
+[0:49 - 0:54] models here. You know this is advertising clear fixed braces, this is advertising a
+[0:54 - 0:54] type of dental implant, this is advertising a type of dental implant, this is advertising a
+[0:54 - 1:00] low friction brace and another low friction brace. So I've got these three different models here and
+[1:00 - 1:07] all of them have 28 teeth, 28 teeth, 28 teeth and of course I've even got this model behind me here
+[1:07 - 1:12] that's got 28 teeth and you know I could buy models to show kids how to brush their teeth
+[1:12 - 1:14] and again they're going to have 28 teeth.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] wae]
+[0:01] te ey
+[0:02] 28 OR
+[0:02] cet
+[0:03] 8७2.
+[0:03] ५48
+[0:03] SOMETIMES
+[0:05] DENTISTS
+[0:06] Pes
+[0:06] कि 7
+[0:09] awe |
+[0:09] कटी
+[0:09] ARE NORMAL
+[0:10] THAT IF
+[0:11] Nes
+[0:11] HAS 28
+[0:13] ‘A GOOD
+[0:13] ARRANGEMENT,
+[0:14] ट्र >
+[0:15] ey) 4
+[0:19] ABSENCE
+[0:20] me Ss
+[0:23] va 7
+[0:26] bot
+[0:26] NO ONE
+[0:29] gee
+[0:32] OF/28
+[0:33] eye)
+[0:33] 164
+[0:33] OR 24 TEETH
+[0:34] STARTING
+[0:37] IN ANY
+[0:38] EXAMINATION
+[0:39] ria
+[0:40] DENTAL
+[0:41] Rae
+[0:41] SUBSECTION
+[0:43] ORTHODONTIC
+[0:44] किक
+[0:44] CONFERENCE:
+[0:46] fey,
+[0:47 - 0:48] OF COURSE
+[0:49] [नमक
+[0:52] FIXED
+[0:53] ग्ब
+[0:53] TED
+[0:55] सश्ण
+[0:55] FRICTION
+[0:56] ANOTHER
+[0:57] हद: ५
+[0:57] PRION
+[0:59] “« ouch
+[1:00] कक पथ
+[1:01] HAVE 28
+[1:01] more
+[1:02 - 1:05] 28 TEETH
+[1:03] 40% 5)
+[1:06] GOT
+[1:07] BEHIND
+[1:08] GOT28
+[1:09] STET
+[1:09] AND YEAH
+[1:10] | COULD BUY
+[1:14] HAVE 28

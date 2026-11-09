@@ -1,0 +1,94 @@
+# model: ggml-large-v3
+========================================================================
+[268] https://www.instagram.com/reel/BVpFLOWFvGM/
+STATUS: OK
+DURATION: 1:00   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] the mealtime exercise right it's drawn from a lot of places first of all you have to have
+[0:04 - 0:11] whenever you're eating i want your feet flat on the floor okay feet fat on the floor legs
+[0:11 - 0:19] horizontal like this you take your elbows off the table all right all these women are doing pilates
+[0:19 - 0:24] trying to build up core body strength just build up core body strength by getting your elbows off
+[0:24 - 0:33] the table it's not complex then when you put food in your mouth you keep your lip sealed but that's
+[0:33 - 0:41] all they do don't use your lips for eating don't use your facial musculature the face is basically
+[0:41 - 0:47] the face is made of these muscles all these muscles make what your face looks like so don't
+[0:47 - 0:51] use them when you're eating because that won't make them the wrong shape which will make your
+[0:51 - 0:54] face the wrong shape what do you mean when you're eating
+[0:54 - 0:59] when you're eating lips should be together but tongs doing the work
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] vars
+[0:00] [ctu |
+[0:01] — 750
+[0:01] हैं
+[0:03] 4 ry
+[0:03] Ws खा 2
+[0:04] a तक
+[0:06] eo 4 |
+[0:07] ८ 1./ ॑
+[0:07 - 0:08] ww A
+[0:09] mab
+[0:11] 1128
+[0:12] wwA
+[0:13] my A
+[0:14] fat
+[0:15] yer
+[0:15] 'e ay
+[0:17] ० के
+[0:18] ake
+[0:19] श्र
+[0:20] ee Annee
+[0:20] Noe
+[0:20] क्र
+[0:21] eal
+[0:21] “my A
+[0:23] क्र
+[0:23 - 0:24] “ww A
+[0:26] Ww 1
+[0:27] +छ> थक
+[0:28] yore
+[0:28] है. जा
+[0:29] wey
+[0:29] Kay
+[0:32] ety
+[0:32] Nes
+[0:32] , Wwe
+[0:33] wey =i!
+[0:34] EBs
+[0:34] e. ey
+[0:35] Jae
+[0:35] प्र
+[0:37] its i
+[0:38] Net i
+[0:38] all
+[0:39] nd y;
+[0:39] rag
+[0:39] श्र
+[0:40] Case
+[0:40] = art
+[0:41] Ne a
+[0:41] "७७2
+[0:41] ्ड्ध
+[0:42] ate क
+[0:42] > vane
+[0:43] vas
+[0:43] yale
+[0:46] ५८ an
+[0:47] Kay
+[0:47] qe 4
+[0:48] 74 r
+[0:48] yal
+[0:48] \ tbs
+[0:48] are |
+[0:48] Se ३ ~
+[0:52] Rady
+[0:52] Wan
+[0:53] cat
+[0:53] m Us
+[0:53] 1 oe
+[0:56] kid ५
+[0:56] tzg
+[0:57] 143३
+[0:59] Pas
+[0:59] Nae

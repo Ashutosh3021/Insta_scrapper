@@ -1,0 +1,12 @@
+# model: ggml-large-v3
+========================================================================
+[247] https://www.instagram.com/reel/C5QWcREt4BN/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:03] BEFORE

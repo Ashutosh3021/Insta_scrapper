@@ -1,0 +1,124 @@
+# model: ggml-large-v3
+========================================================================
+[225] https://www.instagram.com/reel/C9-hd2rsvGt/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Yeah, yeah, yeah, yeah, gone on you with the pick and roll, young and flame here and sick
+[0:06 - 0:09] Think before it ends, it's just bad
+[0:09 - 0:12] Shaving down teeth causes permanent damage
+[0:12 - 0:18] This procedure destroys healthy tooth structure for quick, unnaturally white, perfect teeth
+[0:18 - 0:22] Filiers or crowns need to be replaced every 10 to 15 years
+[0:22 - 0:25] Increasing the risk of infections and fractures
+[0:25 - 0:28] Repeated replacements can lead to tooth loss
+[0:28 - 0:32] Potentially resulted in dentures and facial bone loss
+[0:32 - 0:38] Instead, consider safer alternatives like orthodontics to naturally align your teeth
+[0:38 - 0:43] Orthodontics may be slower, but it's much safer than destroying your teeth for veneers
+[0:43 - 0:48] Please make sure you mew to improve your oral posture and facial structure naturally
+[0:48 - 0:50] Creating a permanent result
+[0:50 - 0:55] For healthier smiles, check out the Mewing app to learn more about safe and effective alternatives
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:07] 1 हे
+[0:07] Neer
+[0:07] BERORE
+[0:07] VENEERS IikS JUST)
+[0:07] 83,519!
+[0:08] NeeRS a BEREORE
+[0:08] VENEERS®%
+[0:08 - 0:09] yS JUST)
+[0:08 - 0:09] BAD!
+[0:09] THINK(BERORE
+[0:09] VENEERSAIih
+[0:10] Pisa
+[0:10] BOW.N
+[0:10] THEEMHCAWSES:
+[0:11] ree
+[0:11] SHAVING ‘weeven:
+[0:11] TEETH CAUSES
+[0:12] PERMANENT DAMAG|
+[0:12] ren,
+[0:13] iHI
+[0:13] EATING
+[0:13] y Ut
+[0:14] eat}
+[0:14] EET
+[0:15] BTHIIS}
+[0:16] है है
+[0:16] ROR
+[0:16] ONNAY
+[0:16 - 0:17] WHITE’ PERFECT
+[0:16 - 0:17] TEETH
+[0:17] EORIQUICK
+[0:17 - 0:18] UNNAWTURALLY¢
+[0:18] न QUICK
+[0:18] WHITEIREREEGT
+[0:18] (EER
+[0:19] VENEERSJOR
+[0:19] EROWNS
+[0:20] NEED ©) BE
+[0:20 - 0:22] REPLACED) EVERY10
+[0:20 - 0:22] TO15 YEARS
+[0:21] 1155/018 BE
+[0:22] a ॥2) 415
+[0:23] Berne THE
+[0:23 - 0:25] RISK(OFIINFECTIONS
+[0:23 - 0:25] AND) FRAGTURES
+[0:24] Lig
+[0:24] INCRE
+[0:24] GWHE
+[0:25] a THE
+[0:26 - 0:28] REPLAGAMENTS CAN
+[0:26 - 0:28] LEAD TO TOOTH
+[0:29] RSIS Oe
+[0:29 - 0:32] QNDENTURSS AND
+[0:30 - 0:32] RESULTING OF
+[0:33 - 0:36] INSTEAD'CONSIDER
+[0:33 - 0:36] SAFER
+[0:33 - 0:36] ALTERNATIVES) EIKE
+[0:33 - 0:36] ORTHODONTICS
+[0:34] जी CONSIDER
+[0:37] TO Ad
+[0:37] ALIGN YOUR TEETH
+[0:38] a MAY,
+[0:38] BE SLOWER
+[0:39] ORTHOD
+[0:39] ANTES MAY,
+[0:39] BES
+[0:39] जाल
+[0:39] WER
+[0:40] 8७15 ise SAGER
+[0:40] THAN STRONG SOUR
+[0:40 - 0:41] TEETH FOR VENEERS
+[0:41] BUT, ISIMUGHISAFER
+[0:41] THAN inoue YOUR
+[0:42] Cae
+[0:42] BUT) IS|M
+[0:42] EISAFER
+[0:42] THAN grea
+[0:42] GNYOUR
+[0:42] TEETH
+[0:42] W.ENEERS
+[0:42] POR
+[0:43] LAU
+[0:44] re MAKE SURE
+[0:44 - 0:45] YOUIMEWING TO]
+[0:44 - 0:45] IMPROVE YOUR ORAL
+[0:44 - 0:45] “===POSTURE
+[0:45] PEEASE{MAKE SURE
+[0:46 - 0:48] FACIAL
+[0:46 - 0:48] STRUCTURE
+[0:46 - 0:48] NATURALLY
+[0:49] ray
+[0:49] PER’
+[0:49] ANENT mR |
+[0:49] | 528 जी
+[0:49] SMILES
+[0:49] HIER
+[0:49 - 0:50] GREATING y
+[0:54] BECOME A
+[0:54 - 0:55] mew
+[0:54 - 0:55] MEWING MASTER
+[0:55] IME A

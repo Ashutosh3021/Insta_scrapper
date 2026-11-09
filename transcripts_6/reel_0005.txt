@@ -1,0 +1,261 @@
+# model: ggml-large-v3
+========================================================================
+[5] https://www.instagram.com/reel/DeEoiiVo7b1/
+STATUS: OK
+DURATION: 2:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] God or evolution?
+[0:01 - 0:02] Who invented mewing?
+[0:02 - 0:04] Who invented mewing?
+[0:04 - 0:09] I was asked this question for an upcoming BBC documentary on looks maxing.
+[0:09 - 0:11] And I'm thinking, well, it's like walking.
+[0:11 - 0:12] No one invented it.
+[0:12 - 0:15] Except, I guess, God or evolution.
+[0:15 - 0:19] Discovering a biological truth isn't an invention.
+[0:19 - 0:21] Dan learned from the best.
+[0:21 - 0:23] He synthesized and simplified the concept.
+[0:23 - 0:25] The tropic premise.
+[0:25 - 0:28] Lips together, teeth together, tongue on the roof of the mouth.
+[0:29 - 0:34] The first to publish on this 150 years ago was Francois Dondas.
+[0:34 - 0:38] He observed that when your lower jaw is completely at rest,
+[0:38 - 0:43] when your lips are closed, a natural vacuum is created
+[0:43 - 0:47] which suspends the tongue against the roof of the mouth by physics,
+[0:47 - 0:50] clearing your throat for nasal breathing.
+[0:50 - 0:52] Sounds like the tropic premise?
+[0:52 - 0:56] Yes, but published in 1875.
+[0:56 - 0:57] That was me.
+[0:58 - 1:02] Then there was Melvin Moss, the Dean of Columbia in New York.
+[1:02 - 1:07] He came up with the functional matrix hypothesis in 1962.
+[1:07 - 1:09] Three functional spaces.
+[1:09 - 1:13] The brain cavity, the nasal cavity, and the oral cavity.
+[1:13 - 1:18] His radical core philosophy was that bones do not grow.
+[1:18 - 1:20] Bones are grown.
+[1:20 - 1:23] Dad was there at that lecture and he picked up on it.
+[1:23 - 1:25] Then came Wilfred Engelke.
+[1:25 - 1:27] He added definitions.
+[1:27 - 1:29] Measurements and he labelled things.
+[1:29 - 1:32] I modified it with a focus on the back third of the tongue
+[1:32 - 1:35] to make it easier on social media.
+[1:35 - 1:38] Now, mewing breathed life into looks maxing.
+[1:38 - 1:40] It was a symbiosis.
+[1:40 - 1:42] I wanted people to be healthy.
+[1:42 - 1:45] They wanted to look good and it's not so dissimilar.
+[1:45 - 1:51] If you avoid the fringes, then there are a lot of people gaining health improvements.
+[1:51 - 1:57] Mewing was the spark giving the terminology and the attention that made looks maxing.
+[1:57 - 2:06] What it is today, but it was too controversial, especially when your ideas compete with more complex and expensive treatments.
+[2:06 - 2:15] Leaving a whole segment of society today, the kids, navigating sites like looks maxing as they don't believe everything their doctor is telling them.
+[2:15 - 2:21] As humans, we go between breathing through our mouth and our nose.
+[2:21 - 2:24] We're never solely doing one or the other.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] God or evolutio
+[0:01] God or बम
+[0:03] ae हल
+[0:04] TB ge
+[0:04] mewing’
+[0:05] his question)
+[0:06] _foran upcoming)
+[0:07] BBC documentary)
+[0:09] and I'm thinkin
+[0:11] Mey
+[0:11] ris
+[0:11] wwe
+[0:11] ti ie
+[0:11] ‘it's like wall
+[0:12] not
+[0:12] stm
+[0:12] ait
+[0:12] ‘oné inventediit)
+[0:14] God or evolution
+[0:15] God or oat
+[0:15] jon)
+[0:16] [3 Me
+[0:16] श्जु
+[0:16] ध्टे
+[0:17] q Aw
+[0:17] biological truth)
+[0:18] asnitaninvention
+[0:19] 4०००
+[0:19] banal at
+[0:20] ied
+[0:20] Ndr
+[0:20] PO "कतल>-कन्कत
+[0:20 - 0:21] Mew
+[0:22] and
+[0:23] the concept,
+[0:24 - 0:25] The Tropic Pre!
+[0:25] ise
+[0:26] _—— PREMISE
+[0:26 - 0:28] LIPS TOGETHER:
+[0:27 - 0:28] TEETH TOGETHER
+[0:28] TROPIC PREMISE
+[0:28] TONGUE ON THE ROOF OF THE MOUTH
+[0:33 - 0:34] was Franciscus Donders,
+[0:34] Dons:
+[0:34] “arr
+[0:34] NAVE
+[0:35] He observed:
+[0:36] your lowe!
+[0:37] is completely at r1 ¢
+[0:38] 2४४ atre
+[0:38] Hii
+[0:40] wars
+[0:41] © ntti an
+[0:41 - 0:42] a aural vacuum
+[0:42] ८22
+[0:42] wih
+[0:43] suspends.
+[0:44] 0000० against
+[0:45] ithe roof of the mouth
+[0:47] by phi
+[0:47] PAY
+[0:48] Cle 19 your tl
+[0:49] al breathing)
+[0:50] nasal breathi
+[0:54] but published in,
+[0:59] lelvin Moss
+[1:00] in Mi
+[1:01] Manny (9103५ Moss
+[1:01] हैः
+[1:01] Sey
+[1:01] lean
+[1:01] ith
+[1:01] 2 कर
+[1:02] Miauyny (191५8: Mess >
+[1:02] in\New Yor!
+[1:02] “7463
+[1:03] S १४७३७
+[1:03] He गए up with
+[1:04] UneHonallmattixg
+[1:05] 12511
+[1:05] 1०62
+[1:05 - 1:07] Functional
+[1:08] Three functional space:
+[1:09] ग्रे
+[1:09] ional space:
+[1:10] the brain cavity,
+[1:12] “and th
+[1:12] il cavity)
+[1:13] and the oral cavity)
+[1:14] His radical
+[1:15] प्र
+[1:15] Bae
+[1:15] core philosophy
+[1:16] ७४३७५ that
+[1:17 - 1:20] BONES
+[1:17 - 1:20] DO NOT
+[1:17 - 1:20] GROWN
+[1:19 - 1:20] ARE
+[1:21] > # कि OW
+[1:21] ad was there
+[1:22] कप asic
+[1:22] 5 जा
+[1:22] t that lecture
+[1:23] Vos
+[1:23] शा q
+[1:24] प्रा
+[1:24] nan \
+[1:24] व) 01 211
+[1:25] TDERTEDIEN
+[1:25] SOR
+[1:25] CENTER GorTINGEN
+[1:25] = m\ilfrec|engelke
+[1:25 - 1:26] THE UNIVERSITY MEDICAL
+[1:26] PIEDIENG
+[1:26] ER GOTTINGEN
+[1:26] == definitions,
+[1:27] q ided defini
+[1:28 - 1:29] and he labeled
+[1:30] 1 monet it
+[1:32] ofthetongue ७
+[1:33] ७३०
+[1:33] to make it ea
+[1:34] COPA
+[1:34] Sur Finanzas
+[1:34] जाता"
+[1:34] ity ia
+[1:35] des
+[1:35] TK TOK @ESPNARGENTINA
+[1:36] ESS
+[1:36] imilprimitojcuando}le}
+[1:36] ggaueles|MEWING 2
+[1:36] << life
+[1:37] looksm:
+[1:37] ‘ing
+[1:38] हे 4d
+[1:38] into looksmaxxing
+[1:41] ‘to be healthy,
+[1:42] They wanted
+[1:43] to look ता |
+[1:44] ‘SOURCE: 16 @AMINEDEAN: ws
+[1:45] Guide
+[1:45] Compote Mewing Transformation + Utimate Free Looksmaxing
+[1:45] 50 dissimil
+[1:45] © source: reoorr
+[1:45] Ppa
+[1:46] CaupateNeving Transformation + Uline Fre (७०७
+[1:46] 0०-००
+[1:46] sod
+[1:46] Onn
+[1:46] ७७१०६ REDONT
+[1:47] | took a picture every day
+[1:47] for 269 days using
+[1:47] Towel metho
+[1:47] 16111 65
+[1:49] wal?
+[1:51] improvements
+[1:52] lewing was the Spal
+[1:53] ing was th
+[1:55] giving the terminology
+[1:55] nil
+[1:56] ८6 उ
+[1:56] कदम
+[1:56] and the attention
+[1:57] that made look:
+[1:57] KXING,
+[1:58] Whatitistodayem
+[1:59] *KS.COM
+[1:59] OOo
+[1:59] fis sods)
+[2:00] Nad
+[2:00] ‘cont
+[2:01] ‘when
+[2:02] y id
+[2:02] pete)
+[2:02] ‘deg |
+[2:03] more ci S|
+[2:04] ५७ है;
+[2:04] ith more co
+[2:05] xpensive treatm
+[2:06] ind expens
+[2:06] jive tres
+[2:06] ments;
+[2:07] egment
+[2:08] 001७8!
+[2:08] lay
+[2:09] 015 a today -
+[2:10 - 2:11] ‘Navigating sites)
+[2:12] like looksmaxxing)
+[2:13] 11०
+[2:14 - 2:15] 4ODON
+[2:15] TICs?
+[2:15] YT GFAROOQ AHMED
+[2:16] 25 y
+[2:16] Soe,
+[2:17] ostpesonnics
+[2:17] est
+[2:17 - 2:22] THODO
+[2:18] oeTHepenrics
+[2:18 - 2:19] {> 'YF@FAROOQ AHMED
+[2:19] LETHADONT! ae
+[2:20] MoO D*
+[2:20] ontnesenTies
+[2:20] ee a
+[2:20] 'SOURCE: YI @FAROOQ AHMED
+[2:21 - 2:22] q 1009
+[2:21 - 2:23] ORTHODONTICS
+[2:22] CRUMB ONT | DONTICS
+[2:23] jely
+[2:27] IMI

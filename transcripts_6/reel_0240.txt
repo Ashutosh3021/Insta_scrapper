@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[240] https://www.instagram.com/reel/C6VrgBRtZQa/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Want to take your mewing to the next level? Don't forget
+[0:03 - 0:09] about posture. Slouching can affect tongue posture. It's a very simple mechanism.
+[0:09 - 0:18] As the head comes forward, the tongue's dropped down. If your body posture and your neck posture
+[0:18 - 0:24] ain't good, you're going to struggle to mew effectively or remember to mew. Sit up straight,
+[0:24 - 0:28] ensure your tongue is on the roof of your mouth, practice makes perfect,
+[0:28 - 0:36] set a daily routine, set daily reminders. Consistency is always key. Keep at it
+[0:36 - 0:41] and watch your face transform. If you want any tips and hints, get the app.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ate
+[0:00] Want
+[0:00] ० YOUR
+[0:00 - 0:02] STO THE NEXT LE
+[0:01] चेक
+[0:01] ce A
+[0:01] wine
+[0:01] | ter NOUR
+[0:02] next level?
+[0:02] \eror YOUR M
+[0:02] ster
+[0:02] yee
+[0:03] forget)
+[0:04] ef IMPAIRED
+[0:04] ॥ (0000
+[0:04] DRAWBACKS OF
+[0:04] ares pla
+[0:04] pampreention
+[0:04] ‘mcnamboes
+[0:04] ‘emit
+[0:04] “pow बहता
+[0:04] esatvemood
+[0:04] stg
+[0:04] ee eng
+[0:04] पलक
+[0:04] hers te
+[0:04] peoreraon
+[0:04] ‘lege
+[0:04] reefer)
+[0:04] paterson
+[0:04] gored net
+[0:04] "0००१4
+[0:04 - 0:05] posture,
+[0:05] fet:
+[0:05] ॥ (0007
+[0:05] BENERITSOF
+[0:05] 3 है।///2/7174
+[0:05] page
+[0:05] ete
+[0:05] eee
+[0:05] inrovedconen
+[0:05] Slouching:
+[0:06] can affect
+[0:09] wr कै
+[0:09] mechanism.
+[0:12] ve Lan
+[0:16] sou
+[0:17] sis)
+[0:18] 11180
+[0:19] red es
+[0:22] Or vem mber
+[0:22] हरी
+[0:23] है. 33
+[0:23] हुए
+[0:25] Lis
+[0:26] बडे
+[0:29] 33४9 z)
+[0:34] key.
+[0:34] —_ Ame
+[0:35] 7 एछ
+[0:35] av atit.
+[0:37] ० ee
+[0:38] any tips
+[0:40] “eee,
+[0:41] ३ the app.

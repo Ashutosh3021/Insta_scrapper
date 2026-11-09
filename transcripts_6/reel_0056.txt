@@ -1,0 +1,73 @@
+# model: ggml-large-v3
+========================================================================
+[56] https://www.instagram.com/reel/DVjHvKBiLxX/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Yeah, these people seem to be in better poses, certainly.
+[0:06 - 0:09] It's amazing how the camera can lie, isn't it?
+[0:09 - 0:13] You know, a different angle, different lighting, different attitude,
+[0:13 - 0:16] and a little bit more preparedness, and the camera can lie.
+[0:16 - 0:22] But we're really careful of that when you're trying to assess outcomes or changes in facial form.
+[0:22 - 0:28] Because it's amazing, you know, that's why we took sensible clinical photographs.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] vial
+[0:00] क्र
+[0:00] प्र
+[0:00] है my बन
+[0:00] re not ug
+[0:00] t bo Phaven
+[0:00] ene
+[0:00] PP ae
+[0:01] IDS
+[0:01] not
+[0:01] ihavelmo
+[0:01] you just don
+[0:01 - 0:02] You're
+[0:01 - 0:02] ugly,
+[0:02] 776:
+[0:02] nou
+[0:02] हैः
+[0:02] you ust cloart have money
+[0:05] rey
+[0:07] Bhp
+[0:07] ou're not ugly »
+[0:08] re A
+[0:08 - 0:09] You
+[0:08 - 0:09] you just donithayelmoney,
+[0:09] a an
+[0:09] rejInotiugly
+[0:10] क्र
+[0:12] you just donithavelmoney,
+[0:12 - 0:13] You're
+[0:12 - 0:13] not
+[0:12 - 0:13] ugly
+[0:13] you just don mone
+[0:14] yous
+[0:14] 0९ not
+[0:14] on't hav
+[0:15] Tay
+[0:15] S iin
+[0:15] re not ugly’
+[0:15] you just don't havelmo
+[0:15] Jit
+[0:18 - 0:19] a ed
+[0:19] कं । e
+[0:19] gly
+[0:19 - 0:21] you just donjthavelmoney,
+[0:20] u'relnotiug|
+[0:21] ) Manet’
+[0:21] You're
+[0:24] fae
+[0:25] notugly
+[0:25] you just don;t
+[0:25] hayvelmoney,
+[0:25 - 0:27] \ Youre
+[0:26] 9००]०५४३४०॥५४॥०३४६९६॥४४॥४०॥०५ थ
+[0:26 - 0:27] LOS
+[0:26 - 0:27] not
+[0:26 - 0:27] ugly
+[0:27] you justidonithhaveimoney ६ \

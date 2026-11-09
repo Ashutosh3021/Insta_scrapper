@@ -1,0 +1,96 @@
+# model: ggml-large-v3
+========================================================================
+[27] https://www.instagram.com/reel/DYywyMpokjh/
+STATUS: OK
+DURATION: 0:57   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] 5 of turning my nephew's expander. Grab the key and turn.
+[0:05 - 0:13] Have you seen this device? It's the expander that widens the face and jaws. Expanders can be painful,
+[0:13 - 0:20] but let me explain which type to use. There are three types. Slow, semi-rapid, and rapid. Rapid
+[0:20 - 0:27] expansion splits the maxilla into two halves. The vomer bone tends to go on one side or the other,
+[0:27 - 0:32] but you can't really control how this breaks, often causing uneven splits and facial asymmetry.
+[0:32 - 0:37] I don't understand why people choose rapid expansion. I feel semi-rapid is much safer.
+[0:37 - 0:44] Make sure to clean the expanders well. I prefer removal once, but otherwise use a wood pick to
+[0:44 - 0:50] remove the trapped gunk. You may feel pressure, but no pain. Take painkillers if needed. If you
+[0:50 - 0:55] see a gap between your front tooth, that is quite normal and means the expander is working. Your
+[0:55 - 0:57] orthodontist is likely to close.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] nephews expander
+[0:00 - 0:02] Day, 5 of turning my,
+[0:01 - 0:02] nephews}
+[0:02] छ्छ
+[0:03] Grab the ip
+[0:04] Grab the)key!
+[0:08] a । [11115
+[0:09] IT/S THE EXP
+[0:09] DER
+[0:09 - 0:12] THAT, WIDENS)STHE
+[0:09 - 0:12] FACE ANDRA NAWS
+[0:10] 175 व EXRANDER
+[0:11] ITiS THE EXBANDER
+[0:12] 18४5 THE EXPANDER
+[0:14] अर्थ,
+[0:14] राव ए॥४378 ७छ३
+[0:15] When TWEE TO USS
+[0:16] PIDEREYARESSSTYBES}
+[0:18 - 0:19] SLOW,
+[0:19] SEMIERAPID
+[0:20] SPLITS TS MAMLLA
+[0:20 - 0:24] INTO TWO HALVES
+[0:21] pas
+[0:21] THE WA
+[0:23] अनाज WAKIIUA
+[0:24] Fel
+[0:24] eeu WOU
+[0:25] 155 YOMER JON
+[0:26] CUING 19 ONEGK:
+[0:26 - 0:28] THE VOMEH SONS
+[0:27] Trl YOMEH SONS
+[0:27 - 0:29] GOING 10 ONEGK:
+[0:29] 1113 VOMEH SONS
+[0:29] TBREAKSI: 4
+[0:30] TSPil
+[0:32] CAUSING
+[0:32] CFIEN
+[0:32] 91415
+[0:33 - 0:35] UNDERSTAND WHY.
+[0:33 - 0:35] PEOPLE CHOOSE:
+[0:33 - 0:35] RAPID EXPANSION
+[0:34] EXON
+[0:36 - 0:37] | FEEL SET) ME|RAPID:
+[0:36 - 0:37] IS MUCH SAFER
+[0:38 - 0:39] ww SURE THE
+[0:38 - 0:40] CLEANING
+[0:38 - 0:40] EXPANDERS)\WELL
+[0:40] MAKE! suse THE
+[0:41] | PREFERIREMOVAL
+[0:41 - 0:43] ONES'BUTj
+[0:41 - 0:43] OTHERWISE
+[0:42 - 0:43] | हि REMOVAL
+[0:44] ७५६५४ ATER PICK
+[0:44] TO REMONME WHE
+[0:44 - 0:45] TRAPPEDYAND GUNK
+[0:45] USE Ww WATER! PICK
+[0:45] MONS MIONS inl
+[0:46] YOU oH REEL
+[0:46] CANIN]
+[0:46 - 0:48] PRESSURE\BUT) NO
+[0:47] OURS
+[0:47] EER
+[0:47] 1२:51
+[0:48] ४७७ हि FEEL
+[0:48] 7२211
+[0:51] TED
+[0:52] Va 1 (01015
+[0:52 - 0:53] NORMAL AND
+[0:52 - 0:53] MEANS EXPAND
+[0:52 - 0:53] WAS WORKING
+[0:53] ‘al ISTQUITIE
+[0:54] ७1०५
+[0:54] PIN
+[0:54] Lit
+[0:56] BECOME A
+[0:56] MEWING MAST

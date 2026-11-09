@@ -1,0 +1,46 @@
+# model: ggml-large-v3
+========================================================================
+[134] https://www.instagram.com/reel/DOCxUrSjGVF/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] snoring is a sign that they are not breathing properly that means that they
+[0:05 - 0:10] are not sleeping properly and that combined means that their brain growth
+[0:10 - 0:15] and development is not as good as it could or should be and this is not good
+[0:15 - 0:18] for their well-being
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ~ aie gi
+[0:00] SNORING
+[0:00 - 0:01] Intast
+[0:00 - 0:17] CENT:
+[0:00 - 0:17] health
+[0:00 - 0:17] WARNING SIGNALS
+[0:00 - 0:17] BEHIND YOUR SNORING
+[0:00 - 0:17] THE GREAT MEWING EVENT
+[0:00 - 0:17] GUEST SPEAKER
+[0:01] ‘SNORING (SYAISIGN]
+[0:02] =i OH रे
+[0:02] NOT BREA
+[0:02 - 0:03] Intos!
+[0:03] eae
+[0:03] PROPERLY
+[0:04] Intast
+[0:04] nea
+[0:04] jay
+[0:04] THAT
+[0:05] mee
+[0:05] THEY
+[0:08 - 0:09] ‘AND THAT
+[0:10] BRAIN
+[0:10 - 0:11] Into
+[0:11] ‘AND DEVE
+[0:12 - 0:14] hee
+[0:14] rae
+[0:14] SHOULD.
+[0:15] mee
+[0:15] AND THIS If
+[0:16 - 0:17] noe
+[0:16 - 0:17] WELLBEII

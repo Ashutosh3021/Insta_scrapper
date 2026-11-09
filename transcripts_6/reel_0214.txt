@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[214] https://www.instagram.com/reel/DBzLzKmIphZ/
+STATUS: OK
+DURATION: 0:50   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] The problem we have is the public health awareness of this condition.
+[0:06 - 0:11] Parents aren't aware of this problem, and it's not necessarily the parent that first notices it.
+[0:11 - 0:15] It could be brought to their attention by the school teacher that has noticed that the child is awfully tired,
+[0:15 - 0:18] bags under the eyes, can't concentrate or focus.
+[0:18 - 0:24] Well, this is what the science has shown, Mike, is that we need about six months is all it takes
+[0:24 - 0:26] for the damage to start to manifest itself.
+[0:27 - 0:30] And that has been shown in multiple studies, very big studies as well.
+[0:30 - 0:32] What kind of research are we talking about here?
+[0:32 - 0:35] Well, if we're going to be specific, to be honest, we're talking about brain damage.
+[0:35 - 0:39] And that's a very confronting term to introduce to the audience.
+[0:39 - 0:44] And I would honestly say that I don't want to apologize for it because it's absolutely the truth.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] DR. “कक
+[0:00 - 0:01] ISSUES IN
+[0:00 - 0:01] REN
+[0:00 - 0:01] DR. MII
+[0:00 - 0:01] (OSH
+[0:04] UBLIC
+[0:06] CONDITION:
+[0:10] = 375
+[0:11] BROUGHT
+[0:14] CHILD IS:
+[0:14] Pom
+[0:15] TIRED
+[0:16] UNDER
+[0:17] CONCENTRATE)
+[0:18] A ae
+[0:18] OR FOCUS
+[0:22] ण्ऊँ
+[0:31] WHAT
+[0:43] ABSOLUTELY
+[0:44] mM=W
+[0:44] 4 Available on the
+[0:44] tore
+[0:44] JSE
+[0:44 - 0:48] BY SUBSCRIBING TO
+[0:44 - 0:49] Y MIKE MEW
+[0:45 - 0:47] 5077;
+[0:45 - 0:48] HELI
+[0:45 - 0:49] AUS!
+[0:45 - 0:49] HE MEWING APP 8)
+[0:48] SUPPORT
+[0:49] mM=W

@@ -1,0 +1,158 @@
+# model: ggml-large-v3
+========================================================================
+[7] https://www.instagram.com/reel/DdEazDRO4fc/
+STATUS: OK
+DURATION: 2:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Your great-great-grandmother had higher cheekbones than you, and she never did a single exercise for them.
+[0:07 - 0:17] Every time someone says your ancestors had better jaws, your brain jumps to some Neanderthal-like guy with a club 40,000 years ago.
+[0:17 - 0:20] That's a mistake. That's not what this is.
+[0:20 - 0:26] We start counting anatomically modern humans from about 300,000 years ago.
+[0:26 - 0:36] So, picture a clock, squeeze all that 300,000 years into a single 24-hour period, midnight till now.
+[0:36 - 0:42] For the first 23 hours, every person alive was a hunter-gatherer.
+[0:42 - 0:51] Tall, healthy, wide jaws, straight teeth, wide open airways, breathing through the nose, sleeping without snoring.
+[0:51 - 0:55] Farming, pyramids, Stonehenge, everything you'd call ancient.
+[0:55 - 0:58] Doesn't begin to show up until the last hour.
+[0:58 - 1:10] And everything globally industrial after World War II, every pacifier, processed meal, every drive-thru, happens in only the last 23 seconds.
+[1:10 - 1:20] So when I say the human norm, I mean the biological baseline of the last 23 hours and 59.5 minutes of our modern human history.
+[1:20 - 1:22] Forget the caveman.
+[1:22 - 1:25] Ancestral baseline is the face and the jaw.
+[1:25 - 1:29] That belong to humanity as recently as your great-great-grandparents.
+[1:29 - 1:37] That change happened to our faces in the last 23 seconds cannot be called evolution by any means.
+[1:37 - 1:43] Millions of people didn't suddenly get genetically altered at once in the blink of evolutionary time.
+[1:43 - 1:51] It can only be explained as an adaption of the genetically programmed bone growth to changed muscle function.
+[1:51 - 1:55] Like a normal foot trying to grow into an ultra-tight.
+[1:55 - 1:55] Like a normal foot trying to grow into an ultra-tight.
+[1:55 - 1:56] Like a normal foot trying to grow into an ultra-tight.
+[1:56 - 1:56] What changed in the last 23 seconds?
+[1:56 - 1:56] What changed in the last 23 seconds?
+[1:56 - 1:57] What changed in the last 23 seconds?
+[1:57 - 1:57] What changed in the last 23 seconds?
+[1:57 - 1:58] What changed in the last 23 seconds?
+[1:58 - 1:58] What changed in the last 23 seconds?
+[1:58 - 1:59] What changed in the last 23 seconds?
+[1:59 - 2:01] Sugar and baby formulas came in.
+[2:01 - 2:03] Our food got softer.
+[2:03 - 2:05] Our chewing time shortened.
+[2:05 - 2:07] Mouth breathing epidemic.
+[2:07 - 2:09] And facial disaster awakened.
+[2:09 - 2:11] You're not in the world you were built for.
+[2:11 - 2:15] You're in the breathless, crazy, commercial, industrial last 23 seconds of it.
+[2:15 - 2:17] You're in the breathless, crazy, commercial, industrial last 23 seconds of it.
+[2:17 - 2:19] You're in the breathless, crazy, commercial, industrial last 23 seconds of it.
+[2:19 - 2:21] You're in the breathless, crazy, commercial, industrial last 23 seconds of it.
+[2:21 - 2:25] You're in the breathless, crazy, commercial, industrial last 23 seconds of it.
+[2:25 - 2:27] You're in the breathless, crazy, commercial, industrial last 23 seconds of it.
+[2:27 - 2:29] You're in the breathless, crazy, commercial, industrial last 23 seconds of it.
+[2:29 - 2:31] You're in the breathless, crazy, commercial, industrial last 23 seconds of it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] STS
+[0:02] aaa
+[0:08] fei
+[0:08] ऐप पु
+[0:15] छ AS
+[0:16] ENS
+[0:18] That's not
+[0:20] lent
+[0:21] cally
+[0:22] i ah
+[0:22] ing anabomi
+[0:23] 1 MR
+[0:23] tie
+[0:23] ate.
+[0:24] ahd
+[0:25] है ऐ
+[0:25] ooh
+[0:26] 3 है,
+[0:26] ३५ ५.
+[0:28] fee
+[0:31] that 300,000 years
+[0:38] TiN
+[0:39] lene
+[0:42] ‘Ses
+[0:43] ध्र्ट
+[0:46] wider
+[0:51] ‘sno
+[0:52] mad
+[0:52] wea
+[0:52] Die
+[0:54] Cana
+[0:54] TV Aree
+[0:54] jes
+[0:55] bah
+[0:55] awww 8
+[0:58] Tia,
+[0:58] 3 24 4
+[0:58] 140 \/
+[0:58] i 8 yy”
+[0:58] ८01 ॥ | ५
+[0:59] 23 24 1
+[0:59] ali
+[0:59] pais
+[0:59] eal
+[1:00] globally industrial
+[1:01] pp om eat
+[1:02] after World
+[1:04] sm i
+[1:05] & Kart
+[1:05] AWS
+[1:06] हर | i
+[1:08] ५ बा
+[1:10] 23 244
+[1:10] Noa
+[1:10] Biv
+[1:10] 12 2 13
+[1:10] Line
+[1:11] his
+[1:13] NS ro
+[1:13] neanibne
+[1:23] VST
+[1:23] pili baseline {
+[1:26] ted
+[1:29] reab-greal
+[1:29] grandparents
+[1:34] fos
+[1:34] ae ds
+[1:36] von
+[1:39] bed 2 -
+[1:39] 0१06
+[1:39] Ces,
+[1:39] हक ue
+[1:39] Cote
+[1:39] e ७६
+[1:39] Dis
+[1:39] aes
+[1:40] sia
+[1:40] ५ AN,
+[1:40] 19. ५६
+[1:40] acd
+[1:40] he gh
+[1:40] ay 7
+[1:40] tio t
+[1:40] a KY
+[1:40] 9.७ +a
+[1:40] lee
+[1:40] ५1५
+[1:40] 30 fie
+[1:40] Se Lael
+[1:40] re ae
+[1:41] once
+[1:44] Pave
+[1:45] ENS "a? te)
+[1:50] inctio
+[1:51] ike
+[1:55] कूलर
+[2:00] pads 0
+[2:01] fer
+[2:01] |£ | Food got softer
+[2:04] less
+[2:04] B Food got softer
+[2:05] fen
+[2:06] Vas
+[2:07] ae disaster
+[2:16] Basu
+[2:30] Vin
+[2:30] for more.

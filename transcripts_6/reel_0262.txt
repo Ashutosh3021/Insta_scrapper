@@ -1,0 +1,90 @@
+# model: ggml-large-v3
+========================================================================
+[262] https://www.instagram.com/reel/CAnL7_XlmTP/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:01 - 0:17] Hello again. I'm going to talk about diagnosis. Clearly that is important, but strangely it is much less important for orthotropics than it is for orthodontics.
+[0:17 - 0:30] The reason is simple. We're not concerned so much where things are, but really we need to know what the potential for improvement is.
+[0:30 - 0:43] This will depend very largely on the age of the patient. Up until eight, you really can achieve almost anything, except with a few very rare things.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] John Mew’s lectures
+[0:00] The opinions expressed in this lecture series
+[0:00] are that of John Mew and he takes
+[0:00] full personal responsibility for them.
+[0:00] If you would like fo discuss any points that he raises
+[0:00] then he would welcome suc!
+[0:00] discussion on the
+[0:00] Facebook group 0|
+[0:00] iodontics, see link below.
+[0:00] onthotropics
+[0:01] est
+[0:01] (० 1M ts
+[0:03] ipport
+[0:04 - 0:09] prof. b}
+[0:06] pi Al
+[0:06] 100
+[0:07] loa
+[0:07] Ml i
+[0:09] Eiat
+[0:09] ‘ Al oi PE
+[0:09] “कु Hane | |
+[0:10] y RT
+[0:10] हा oy
+[0:11] wgises
+[0:11] fa iF i
+[0:11] . | का Pees
+[0:11] प्र |
+[0:11] OR मे
+[0:12] ja a
+[0:12] LOR ty)
+[0:13] !॥ हि हैः
+[0:13] F 12.
+[0:13] Ou मे
+[0:14] ji, = 1
+[0:15] | sl Bes
+[0:15 - 0:16] Oe ty)
+[0:16] jee a
+[0:16] | Baa
+[0:17] joa
+[0:18] हु 4
+[0:19] pee
+[0:19] ‘ Ay 7
+[0:20] ea fi
+[0:20] ie मे
+[0:21] oe Al
+[0:21] halal
+[0:22] ५ १ ॥ मे
+[0:23] ee fi
+[0:24] ‘4 | मै
+[0:26] Si I
+[0:26] Wii pe
+[0:26] Ou wy)
+[0:27] all Ee
+[0:27] 1 wy)
+[0:28] jn ih
+[0:28] hall kes
+[0:29] mY I
+[0:29] Gitin;)
+[0:30] Wie मे
+[0:31] A Bs
+[0:33] jo ib
+[0:33] 1 है|
+[0:34] ee PET
+[0:34] haa
+[0:35] 3 ill =
+[0:35] F ea
+[0:36] ही खा कक
+[0:36] Bes
+[0:37] a AAD
+[0:37] ॥ कि गा
+[0:37] पा ह।।
+[0:38] Wits
+[0:39] Bets
+[0:41] 12: Nr
+[0:42] il है
+[0:43] net 4
+[0:43] ‘1 hy

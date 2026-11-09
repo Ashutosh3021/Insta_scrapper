@@ -1,0 +1,100 @@
+# model: ggml-large-v3
+========================================================================
+[222] https://www.instagram.com/reel/C-Qp2YyMB2v/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] "All that work and what did it get me?"
+[0:07 - 0:09] Can braces get your teeth more accurate?
+[0:09 - 0:11] Yes, you'd be shocked to know that they can.
+[0:11 - 0:15] High force application in braces can exert more than 100 grams of pressure.
+[0:15 - 0:20] Natural forces are only usually about 1-2 grams at rest from your tongues and lips.
+[0:20 - 0:25] Prolonged force from braces can impede blood flow and damage cells.
+[0:25 - 0:28] This leads to root resorption, making teeth vulnerable.
+[0:28 - 0:31] I've seen patients lose teeth in proper orthodontic treatment.
+[0:31 - 0:36] However, this girl actually lost her teeth from a skateboarding accident and not by braces.
+[0:36 - 0:40] Always choose a trained specialist to ensure safe and effective results.
+[0:40 - 0:43] Protect your teeth and learn more with the Mewing app.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] (2, at13 0912
+[0:00] iteethteamnojlongemhave a
+[0:00] pen
+[0:00] ctismile
+[0:00 - 0:02] loseisome
+[0:01] ioses some
+[0:01 - 0:02] longerjhave a
+[0:01 - 0:02] perfectismile)
+[0:01 - 0:03] Getting|bracesjaty13 for 2:
+[0:02] VearsyUstito)
+[0:03] iVearsjjustitojlose|some.
+[0:03] perfect
+[0:03] ३७२
+[0:03 - 0:04] iteetht&ino)
+[0:04] latylS\for {
+[0:04] havea}
+[0:04] smile}
+[0:04 - 0:06] Getting
+[0:05 - 0:06] lath Shfor
+[0:05 - 0:06] iteetht&inojlongerhavelas
+[0:06] ee Pettecusmileye=
+[0:07] कर गत MAKE
+[0:07] YOUR Lan OUT, ?
+[0:08] CAN BRA d MAKE
+[0:08] YOUR “yy FALL OUT ?
+[0:09 - 0:11] YES YOU'D BE SHOCKED
+[0:09 - 0:11] TO KNOW THAT, THEY
+[0:09 - 0:11] CAN
+[0:15] bond
+[0:16 - 0:20] NATURAL FORCES
+[0:17] ख़त
+[0:17 - 0:20] ONLY USUALLY
+[0:18] ABOUT 1 TO 2 6।
+[0:19] जात
+[0:19 - 0:20] ABOUT 1 TO 2 GRAMS|
+[0:20] करा
+[0:21 - 0:22] IMPE
+[0:22] ROLO
+[0:22] ROM
+[0:22] DEB
+[0:22] LOOD
+[0:22] Vow;
+[0:23] PROLONGED FORCE
+[0:23] FROM BRACES CAN
+[0:23] IMPEDE BLOOD FLOW.
+[0:24 - 0:26] AND DAMAGEICELLS
+[0:24 - 0:26] THIS LEADS}T© ROOT
+[0:24 - 0:26] RESORPTION
+[0:27] MAKING TEETH
+[0:27] VULNERABLE
+[0:28 - 0:29] I'VE SEEN PATIENTS
+[0:28 - 0:29] LOSE TEETH AND
+[0:28 - 0:29] POPPED
+[0:30] रे a
+[0:30] बकरे
+[0:30 - 0:31] IMPROPER
+[0:30 - 0:31] ORTHODONTIC
+[0:30 - 0:31] TREATMENT,
+[0:32] HOWEVER THIS GIRL
+[0:33] ५० HER
+[0:33] Sat
+[0:33 - 0:34] TEETH|RROM A
+[0:33 - 0:34] SKATEBOARDING
+[0:33 - 0:34] ACCIDENT,
+[0:34] ACTUALLY{LOST HER
+[0:35] AND e
+[0:35] ALWAYS
+[0:35 - 0:36] K BRACES
+[0:36] AND NOTBACKIBI
+[0:37] ae. | A
+[0:37] ॥५६०
+[0:37] SPECIALIST,
+[0:38 - 0:39] 10 हल SAFE AND.
+[0:38 - 0:40] EFFECTIVE|RESULTS
+[0:39] whi
+[0:40] TO 7 SAFE AND.
+[0:41] mau
+[0:43] mew
+[0:43] MEWING MASTER

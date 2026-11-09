@@ -1,0 +1,44 @@
+# model: ggml-large-v3
+========================================================================
+[163] https://www.instagram.com/reel/DIF8a1oOYmB/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Guys, you've got to realise that what I'm saying is the definitive underlying theory of facial growth in the population under 25.
+[0:08 - 0:17] Whether they believed in the mewing movement, whether they did mewing, the definitive conversation in the school ground is how faces are malleable and influenced by the environment.
+[0:17 - 0:20] So when someone says to them it's all genetic, they'll just go, are you stupid?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Guys, you've gotta realize
+[0:00 - 0:12] > YouTube
+[0:00 - 0:20] _*FACES ARE MALLEABLE*-
+[0:00 - 0:20] “Airway Answers with Nicole Goldfarb*
+[0:00 - 0:20] Ep. 49: Dr. Mike Mew: The Face
+[0:00 - 0:20] Behind The Mewing Movement, =
+[0:00 - 0:20] Reveals All
+[0:01 - 0:02] that what I'm saying is
+[0:02 - 0:04] 17665 ARE MALLEABLE*
+[0:03] eT a
+[0:03 - 0:04] the definitive underlying
+[0:04] YT a
+[0:05 - 0:06] theory of facial growth in
+[0:07] ome)
+[0:07 - 0:08] the population under 25.
+[0:09] Whether they believed in
+[0:09] जाएँ
+[0:11] whether they did
+[0:12] Mewing, the definitive
+[0:13] conversation in the
+[0:14 - 0:15] school ground is how
+[0:15] a Il
+[0:15 - 0:19] > Youtube
+[0:16] afi
+[0:17] the environment.
+[0:18] So when someone
+[0:19] genetic, they'll just
+[0:20] go, "Are you stupid?"
+[0:24] | » Jc Tue)
+[0:26] SCRIBED
+[0:26] C7) Tube}

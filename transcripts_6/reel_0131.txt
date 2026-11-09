@@ -1,0 +1,115 @@
+# model: ggml-large-v3
+========================================================================
+[131] https://www.instagram.com/reel/DOJo_VgiBjZ/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] The great mewing event.
+[0:01 - 0:05] We've got John Flutter from the Myofunctional Research Company.
+[0:05 - 0:07] Now, he really understands malocclusion.
+[0:07 - 0:12] He's an old friend of mine and he understands malocclusion on a deeper level.
+[0:12 - 0:15] And he will help connect a lot of the dots and put things together.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] THE GREAT
+[0:00 - 0:01] MEWING EVENT
+[0:00 - 0:01] 6th of September
+[0:00 - 0:01] Logan Hall University College
+[0:06] HEIREALLY,
+[0:06] Bsa
+[0:07] हिल —
+[0:07] MALOCCLUSION
+[0:09] an Ke
+[0:09] Over
+[0:09 - 0:11] Underbite
+[0:09 - 0:11] Open bite
+[0:09 - 0:11] Crossbite
+[0:10] a Fe
+[0:10] me: ht
+[0:11] on Te
+[0:11] mn ye
+[0:11] Overjet
+[0:12] १०1, wa
+[0:14] DOTS AN
+[0:16] EVENT
+[0:16] ५६५ |
+[0:16] Rie
+[0:16] Gio
+[0:16] oP 1५६७8
+[0:16] § RELATE
+[0:16] 1०४
+[0:16] EVELO!
+[0:16 - 0:19] AND
+[0:16 - 0:19] ERS/PANEL
+[0:16 - 0:19] F EXPER
+[0:16 - 0:19] ING.
+[0:16 - 0:19] MENT
+[0:16 - 0:21] Dentofacial
+[0:16 - 0:21] Journalist and
+[0:16 - 0:21] orthopaedics
+[0:16 - 0:21] Author
+[0:16 - 0:21] T EVER GATHERING.
+[0:16 - 0:22] LONDON AND
+[0:16 - 0:28] Host and Founder
+[0:16 - 0:28] of Mewing
+[0:16 - 0:29] HYBRID EVENT
+[0:16 - 0:29] THE GREAT MEWING
+[0:17 - 0:19] 96 LINEUF
+[0:17 - 0:19] PICS RELATE
+[0:17 - 0:29] ONLINE
+[0:17 - 0:29] EVENT - 6 SEPT 2025
+[0:20 - 0:21] sil
+[0:20 - 0:21] ७0:6७
+[0:20 - 0:21] TOP LINEUP OF GLOBAL
+[0:20 - 0:21] AKERS /PANELISTS
+[0:20 - 0:21] XPERTS ON
+[0:20 - 0:21] TOPICS Ri
+[0:20 - 0:21] D TO DENT
+[0:20 - 0:21] AIRWAY
+[0:20 - 0:21] ATHING,
+[0:20 - 0:21] UNCT
+[0:20 - 0:21] N AND DEVELOPMENT
+[0:22] 2 BAS)
+[0:22] Host
+[0:22] Jack Har
+[0:23] Der
+[0:23 - 0:28] Jack Hacks
+[0:23 - 0:29] LONDON AND
+[0:24] Host and
+[0:24] Dent
+[0:24] fal
+[0:24] orth
+[0:24] THE
+[0:24 - 0:27] 1३ BAS)
+[0:25 - 0:26] UDES
+[0:25 - 0:26] RIBUTI
+[0:25 - 0:27] OPEN TO
+[0:25 - 0:27] ET Th
+[0:25 - 0:27] TH IN LONDON AND ONLINE
+[0:25 - 0:27] ARE
+[0:25 - 0:27] ४ WE
+[0:25 - 0:28] ANGING THE
+[0:25 - 0:28] HAND 01
+[0:25 - 0:28] LOPMENT
+[0:25 - 0:28] MEW,
+[0:25 - 0:29] Dentofacial
+[0:25 - 0:29] ‘orthopaedies
+[0:27] ४०६५
+[0:27] 1श800॥
+[0:28] IN LONDON at
+[0:28] HAT ARE
+[0:28] IDES AT
+[0:28] UTE T
+[0:28] TE PROF
+[0:29] ७-७०
+[0:29] Pioneering alway
+[0:29] orthodontist
+[0:29] Recently Deceased
+[0:29] Geen
+[0:29] UCL LOGAN HALL,
+[0:29] 20 BEDFORD.
+[0:29] LONDON. ५/
+[0:29] H OAL GB
+[0:29] BIT.LY/4MNMBLC

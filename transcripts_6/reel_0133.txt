@@ -1,0 +1,120 @@
+# model: ggml-large-v3
+========================================================================
+[133] https://www.instagram.com/reel/DODavGZCPny/
+STATUS: OK
+DURATION: 0:52   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] The great mewing event.
+[0:01 - 0:06] We've got Bill Hang, who is probably the orthodontist
+[0:06 - 0:09] who brought airway issues to the fore in the world.
+[0:09 - 0:12] And he's spent a career reversing extractions
+[0:12 - 0:16] and putting people through full bimaxillary surgery
+[0:16 - 0:19] to help correct their problems, particularly with airways.
+[0:19 - 0:22] He has a wealth of experience.
+[0:22 - 0:26] And as much as mewing is about non-surgical options,
+[0:26 - 0:31] some of you are going to need an assistant to get going.
+[0:31 - 0:32] All those people who say,
+[0:32 - 0:35] I can't mew, I can't breathe when I'm mewing.
+[0:35 - 0:37] This is the type of lecture you need to listen to.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] THE GREAT
+[0:00 - 0:01] MEWING EVENT
+[0:00 - 0:01] 6th of September
+[0:00 - 0:01] Logan Hall University College London
+[0:02] हैं
+[0:04] WHO IS
+[0:05] B= cHODON
+[0:07] ISSUE:
+[0:08] श्र THE/FORE
+[0:08] Yay
+[0:09] af IN THE WORLD
+[0:14] THROUGH FULL
+[0:18] PROBLEM:
+[0:23] /ANDYAS MUCH
+[0:27] NOU!
+[0:28] TO NEED)
+[0:31] py as
+[0:32] po ag
+[0:33] ace.
+[0:35] eet
+[0:38] EVENT
+[0:38] sil
+[0:38] ARGEST EV
+[0:38] HERING
+[0:38] “ACI
+[0:38] iON
+[0:38 - 0:39] TOP LINEUP ©
+[0:38 - 0:39] (OBAL SPEAKERS/PANELISTS
+[0:38 - 0:39] 5 RELATED बा DENT:
+[0:38 - 0:39] ४ BREATHING.
+[0:38 - 0:43] Journalist and
+[0:38 - 0:43] Author
+[0:38 - 0:50] Host and Founder
+[0:38 - 0:50] of Mowing
+[0:38 - 0:51] HYBRID EVENT
+[0:38 - 0:51] LONDON anp
+[0:38 - 0:51] THE GREAT MEWING
+[0:38 - 0:51] Dentofacial
+[0:38 - 0:51] ‘orthopaedics
+[0:39] a 6४
+[0:39] ARGEST EVER GATHERING
+[0:39] EXPER
+[0:39] UNCTION
+[0:39] EVELO!
+[0:39] PMENT
+[0:39 - 0:49] ५ AND
+[0:39 - 0:51] ONLINE
+[0:39 - 0:51] EVENT - 6 SEPT 2025
+[0:40 - 0:41] il 69४
+[0:40 - 0:41] AIRV
+[0:40 - 0:43] TOP LINEUP OF GLOBAL SPEAKERS/PANELISTS
+[0:40 - 0:43] VER GATHERING
+[0:40 - 0:43] EXPERTS ON
+[0:40 - 0:43] S RELATED
+[0:40 - 0:43] DENT:
+[0:40 - 0:43] IAL GI
+[0:40 - 0:43] ४ BREATHING, FUN
+[0:40 - 0:43] N AND DEVELOPMENT
+[0:41] R GATH
+[0:41] IAL ७1
+[0:42] ५६ LAK
+[0:42] TOPICS RELATED
+[0:42] ATHING,
+[0:42 - 0:43] AIRWA\
+[0:43] TOP LINEUP OF
+[0:44] [1 eal
+[0:44] PEN TC
+[0:44] IN LONDON AND ONLINE
+[0:44] EXPERTS THAT ARE CHANGING THE
+[0:44] TO THE LATE PR
+[0:44] GROWTH AND DEVELOPMEN!
+[0:44] 96 JOHN Mi
+[0:44 - 0:50] Jack Hacks
+[0:44 - 0:50] ATRIBUT
+[0:45 - 0:48] WE UN
+[0:45 - 0:49] IN LONDON A
+[0:45 - 0:49] HAT Al
+[0:45 - 0:49] TE PR
+[0:45 - 0:49] HN MEW,
+[0:45 - 0:50] OPEN TO THE
+[0:45 - 0:50] THE
+[0:45 - 0:50] JANGING THE
+[0:45 - 0:50] LOPMENT
+[0:46] eae
+[0:50] 1३ BAS)
+[0:50] IN LONDON AND ONLINE
+[0:50] RTS THAT Ai
+[0:50] WE UNDERSTA
+[0:50] OWTH AND 01
+[0:50] HE LATE PROF
+[0:51] ७-७०
+[0:51] Ploneering airway
+[0:51] orthodontist
+[0:51] Recently Deceased
+[0:51] UCL LOGAN HALL
+[0:51] 20 BEDFORD WAY,
+[0:51] LONDON, WCIH OAL ७8
+[0:51] BIT.LY/4MNMBLC

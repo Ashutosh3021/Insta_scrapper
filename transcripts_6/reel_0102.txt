@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[102] https://www.instagram.com/reel/DR2ZjLOiNaV/
+STATUS: OK
+DURATION: 0:46   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Okay, nice face.
+[0:01 - 0:03] She's got her...
+[0:03 - 0:05] I think there is some philosophy I know here.
+[0:05 - 0:08] To see if your face will fit in against your hand.
+[0:08 - 0:10] We know that's not true, don't we?
+[0:10 - 0:14] Hands are influenced by one dynamic
+[0:14 - 0:17] and facial forms influenced by another dynamic.
+[0:17 - 0:21] You're not going to get a natural arrangement between the two of them.
+[0:21 - 0:23] Although she has grown better than most.
+[0:23 - 0:25] So I guess if there is truth to this argument,
+[0:25 - 0:28] she will have a better chance than other people.
+[0:29 - 0:32] However, if you get a blocked nose at a young age,
+[0:32 - 0:35] if you had weak muscles from soft food,
+[0:35 - 0:37] you're not going to get close to her facial form.
+[0:37 - 0:39] Not a chance, unfortunately.
+[0:39 - 0:40] You're bad luck, I guess.
+[0:40 - 0:45] So she's not displaying something that's going to be true for everyone.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ma |e
+[0:00 - 0:02] proof that we're all built
+[0:00 - 0:02] exactly how we're
+[0:00 - 0:02] meant to be
+[0:01] IEACEISHE'S) \
+[0:01] y fi
+[0:02] GorniEn ॥
+[0:06] ITO)SEE!
+[0:08] IAGAINST)YOURIHAND)
+[0:10] Gq en
+[0:11] HANDS/ARED
+[0:13] हू हक
+[0:15] Ber
+[0:15] ZAND)JFACIALIEORMS)
+[0:17] JANOTHER)
+[0:21] proof the
+[0:21] built
+[0:22] proof that we're all built
+[0:22] exactly how we're
+[0:22] meant tobe
+[0:27] £3 ne
+[0:29] >5ि3283
+[0:29] 110४४: ५६४२'
+[0:31] INOSE|
+[0:32] wy (A\WOUNG)
+[0:33] Is ee
+[0:33] 1६000 HAD WEAK.
+[0:34] IMUSCLESJEROM|
+[0:35] ce 4
+[0:38] PANCHANCE}
+[0:44] Gi है

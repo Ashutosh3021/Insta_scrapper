@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[123] https://www.instagram.com/reel/DPPDiiuCB8L/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] How many times do I need to drain the maxilla of saliva
+[0:04 - 0:07] until the suction position remains without effort?
+[0:07 - 0:10] Well, you're clearly not getting a suction hole.
+[0:10 - 0:13] The suction hole is where it's going to stay there by default.
+[0:13 - 0:15] If you make a vacuum, the tongue is going to stay up there.
+[0:15 - 0:20] And again, your case, I would focus on the back of the tongue
+[0:20 - 0:26] and getting a good suction hole.
+[0:26 - 0:28] You know, you probably lack tongue space.
+[0:29 - 0:32] When these questions are coming through to me and I drill down,
+[0:32 - 0:35] it's nearly all people who lack tongue space.
+[0:35 - 0:39] If you lack tongue space, then you're going to struggle to get a suction hole.
+[0:39 - 0:44] You're going to struggle to get fit if you're in a wheelchair, okay?
+[0:44 - 0:49] It's just, or you've got a sprained ankle, let's say, a bit more PC, isn't it?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:16] Car
+[0:16] eo ay
+[0:25] ey “4
+[0:26] Gs a
+[0:36] CaN
+[0:37] a az
+[0:38] reed
+[0:39] Hak
+[0:41] P| ae
+[0:42] हिल

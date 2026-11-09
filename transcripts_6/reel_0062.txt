@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[62] https://www.instagram.com/reel/DU6AMWjiGoa/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] you've got a little baseball bat and you're slacking your face with a little baseball bat
+[0:05 - 0:11] do you really think that's going to give you hollow cheeks no i mean eventually maybe you're
+[0:11 - 0:15] trying some bone smashing listen i'm not recommending bone smashing that's going a
+[0:15 - 0:22] little bit way out to where i am trying to sit on the edge of science pushing it forwards i'm
+[0:22 - 0:28] trying not to go too far and you look like you're going a little bit too far there probably too far
+[0:28 - 0:33] and what you're claiming is possible as well but there we go interesting to see but i don't think
+[0:33 - 0:34] you're being very scientific
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ESMASHIING <2
+[0:00] ite
+[0:01] ONESIMASIHING <3
+[0:01] ahs
+[0:04] ao AS
+[0:13] Live
+[0:18] हे y
+[0:19] i SS
+[0:23] क्र
+[0:24] Pe 7
+[0:25] aes

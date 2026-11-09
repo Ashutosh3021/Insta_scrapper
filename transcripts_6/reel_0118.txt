@@ -1,0 +1,46 @@
+# model: ggml-large-v3
+========================================================================
+[118] https://www.instagram.com/reel/DPg9rlbCJM2/
+STATUS: OK
+DURATION: 1:01   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] This month I will turn 20.
+[0:02 - 0:05] Am I too late to start mewing and see results?
+[0:05 - 0:06] What would you reckon?
+[0:06 - 0:08] Do you think you should be like this?
+[0:08 - 0:10] Or should you be like this?
+[0:10 - 0:13] Mewing's just a good biohack using suction to hold this.
+[0:13 - 0:17] I mean, for crumbs sake, should I be mewing?
+[0:17 - 0:19] Should I start mewing at 20?
+[0:19 - 0:20] Start mewing, will you see results?
+[0:20 - 0:22] Well, it takes time.
+[0:22 - 0:23] I remember I was doing clinic
+[0:23 - 0:26] and people come in to me saying,
+[0:26 - 0:29] I can help you to get going with a little bit of expansion,
+[0:29 - 0:32] but you're gonna be doing most of this stuff yourself.
+[0:32 - 0:35] And they would say, oh, doc, well, yeah,
+[0:35 - 0:36] but how long till I see results?
+[0:36 - 0:38] And I go, well, it's gonna take you two, three years
+[0:38 - 0:40] to see anything.
+[0:40 - 0:43] But then start, you get, it's like compound interest
+[0:43 - 0:45] because the more change you get,
+[0:45 - 0:46] the easier it is to get change.
+[0:46 - 0:48] Yeah, well, I want results now.
+[0:48 - 0:51] And I go, well, now you're in the wrong place.
+[0:51 - 0:53] You should go down to the surgical department down the road
+[0:53 - 0:55] because they get results straight away.
+[0:55 - 0:59] Shocking how much relapses afterwards, shocking.
+[0:59 - 1:01] but they do get results straight away.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:07] ey है
+[0:18] fee
+[0:27] Th ०-०
+[0:39] gy y,
+[0:40] BAS
+[0:46] age.
+[0:48] , Ni J
+[0:58] we DS
+[0:58] Bem

@@ -1,0 +1,81 @@
+# model: ggml-large-v3
+========================================================================
+[241] https://www.instagram.com/reel/C6GwhYPN4hS/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] - Who invented mewing and why?
+[0:03 - 0:06] My father, Professor John Mew, laid the groundwork
+[0:06 - 0:09] that would eventually become mewing,
+[0:09 - 0:11] called the tropic premise.
+[0:11 - 0:13] He discovered that with proper oral posture,
+[0:13 - 0:16] his patients' faces would become more attractive.
+[0:16 - 0:20] I, Dr. Mike Mew, expanded on his observation,
+[0:20 - 0:22] developing mewing into a practice
+[0:22 - 0:24] aimed at enhancing facial aesthetics
+[0:24 - 0:27] without invasive devices
+[0:27 - 0:29] and promoting better health naturally.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] i ie
+[0:00] 3s AND
+[0:00 - 0:02] INVENTED
+[0:01] ry why?
+[0:01 - 0:02] G AND
+[0:02] हू 5
+[0:02] J A का
+[0:03] My father,
+[0:06] il, 20. 4
+[0:07] i की
+[0:07] eventually
+[0:08] Mewing
+[0:10] ‘Te Thom Pranse
+[0:10] Pts
+[0:10] काम
+[0:10] pefccsomeoe:
+[0:10] pete
+[0:10] Paes
+[0:10] SRS
+[0:10] Sees
+[0:10] aes aes
+[0:10] sure
+[0:10] sere
+[0:10] Sawa Be
+[0:10] eres Sea
+[0:10] Eas
+[0:10] ered
+[0:10] eae
+[0:10] ace
+[0:10] Seee
+[0:10] a recuse
+[0:10] आओ दे आओ
+[0:10] पा पट
+[0:10] Sates
+[0:10] es Baers
+[0:10] cote
+[0:10] paar
+[0:10] SSS See
+[0:10] eens
+[0:10] Messen
+[0:10] tet
+[0:10] ose
+[0:10] विद्या
+[0:11] discovered)
+[0:12] oh 2.
+[0:13] Yamini 89615
+[0:14] Jamini Age 14
+[0:14] faces.
+[0:15] become more)
+[0:16] attracti\
+[0:18] a वि
+[0:21] fo | Ls
+[0:21] a practice
+[0:22] maimed
+[0:23] aie
+[0:24] fo | Py WwW
+[0:24] stheti
+[0:25] fa), fa), 6७
+[0:28] healt th
+[0:28] “nee

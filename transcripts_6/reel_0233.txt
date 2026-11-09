@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[233] https://www.instagram.com/reel/C9K86zisLWw/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] why is the back third of the tongue important in mewing the back third of the tongue is made
+[0:04 - 0:09] of smooth muscle similar to the tissues in your lungs this means they're involved in making
+[0:09 - 0:15] subconscious movements like breathing in and out in mewing we take advantage of this by keeping
+[0:15 - 0:22] the back third of the tongue on the palate it helps maintain the entire tongue in an upward
+[0:22 - 0:29] position subconsciously allowing a long-term postural change which can lead to structural
+[0:29 - 0:35] change improving facial aesthetics and health with the minimal effort to identify the back
+[0:35 - 0:40] third of the tongue try the cheesy swallow exercise in the mewing app
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02 - 0:03] WHY dS THEBACK
+[0:02 - 0:03] SRD DFS HES DNGUE
+[0:02 - 0:03] IMPORTANT की PEWING
+[0:03] thelbackesncfofathe
+[0:03] ironcue is mack Gi
+[0:03 - 0:05] smooth muscle
+[0:05] iT bo
+[0:05] the backe@3ndlof the
+[0:05] tongue isimade of
+[0:06] MUSCLE
+[0:06] simi lardtowtissues in
+[0:06 - 0:07] youralungs
+[0:07] WSSuSsiial
+[0:09 - 0:11] they involvediin
+[0:09 - 0:11] making subconscious
+[0:09 - 0:11] movements
+[0:12 - 0:13] like breathing in and
+[0:12 - 0:13] out
+[0:14] IN MEWING,
+[0:16] tine pallete
+[0:16 - 0:17] keeping the
+[0:17] dire
+[0:20] HELPS
+[0:21] THE ENTIRE
+[0:21] TONGUE
+[0:21 - 0:23] HELPS MAINTAIN
+[0:22] THE ENTIRE TONGUE
+[0:22] IN AN
+[0:23] WEN ता TONGUE
+[0:25 - 0:27] allowing) a long) term
+[0:25 - 0:27] postal change
+[0:28 - 0:29] which ean lead| to
+[0:28 - 0:29] structural change
+[0:29] bi a
+[0:30] a eS
+[0:30 - 0:32] improving facial
+[0:30 - 0:32] aesthetics and health
+[0:33 - 0:34] with the minimal
+[0:33 - 0:34] effort
+[0:35] Jil
+[0:35] 10 VW the back of
+[0:35 - 0:36] the/tongue
+[0:36] to identify the back of
+[0:38] MEWING
+[0:38 - 0:39] BECOME A
+[0:39] 1501
+[0:39] MEWING MASTER

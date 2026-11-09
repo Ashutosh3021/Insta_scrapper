@@ -1,0 +1,89 @@
+# model: ggml-large-v3
+========================================================================
+[108] https://www.instagram.com/reel/DQZmFqKCL9S/
+STATUS: OK
+DURATION: 2:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] "I'm doing mewing and my jaw development,
+[0:03 - 0:06] "but my maxilla bone undeveloped.
+[0:06 - 0:08] "How do I develop maxilla without surgery?
+[0:08 - 0:09] "Please make a video."
+[0:09 - 0:11] Well, I kind of have.
+[0:11 - 0:13] I mean, there's a lot in the mewing app on this.
+[0:13 - 0:15] If you're over 20,
+[0:15 - 0:17] developing the maxilla is the toughest thing.
+[0:17 - 0:20] I was a lecturer, this was weekend before last,
+[0:20 - 0:23] just, and John Flutter was discussing this,
+[0:23 - 0:27] saying he thought it was the first bone
+[0:27 - 0:30] in the body to develop for maturity.
+[0:30 - 0:32] And the person beside me was saying,
+[0:32 - 0:35] "What about the bones within the ear?"
+[0:35 - 0:38] And thinking, "This guy might be correct.
+[0:38 - 0:40] "Maybe the bones in the ear reached maturity
+[0:40 - 0:41] "before the maxilla."
+[0:41 - 0:44] But the maxilla stopped growing sideways
+[0:44 - 0:46] at about eight years old.
+[0:46 - 0:48] And I think it's gonna grow forwards,
+[0:48 - 0:50] maybe for a year or two more.
+[0:50 - 0:53] But either way, it's 10 to 12 years old,
+[0:53 - 0:55] just certainly your maxilla stopped growing.
+[0:55 - 0:57] Now, if your maxilla stopped growing at 10 to 12 years,
+[0:57 - 1:02] it's going to be hard to gain change.
+[1:02 - 1:06] Even when I see people with strokes,
+[1:06 - 1:09] I make a big point using people with strokes
+[1:09 - 1:13] as an example of changes that you can get at any age.
+[1:13 - 1:14] Well, isn't it interesting
+[1:14 - 1:16] that when you see people with strokes,
+[1:16 - 1:20] the maxilla is far, far less effective than the mandible.
+[1:20 - 1:22] My rule of thumb is that after 25,
+[1:22 - 1:25] it's gonna be really hard to change the maxilla.
+[1:25 - 1:27] Now, things that do change it is expansion,
+[1:27 - 1:30] particularly TAD-based expansion in adults.
+[1:30 - 1:33] So again, you're saying without surgery,
+[1:33 - 1:36] is TAD-based expansion surgery?
+[1:36 - 1:39] Yes, minor surgery, certainly.
+[1:39 - 1:42] But it's not what people would refer to as surgery.
+[1:42 - 1:44] No one's got a knife on you.
+[1:44 - 1:46] It's just hard, it is hard.
+[1:46 - 1:47] I mean, maybe, I'm thinking, you know,
+[1:47 - 1:50] I wanna go down thumb pulling and I wanna learn more.
+[1:50 - 1:52] And I think we're right at the infancy of mewing.
+[1:52 - 1:55] And I think this is, I've opened Pandora's box.
+[1:55 - 1:57] I mean, hell, I've totally opened Pandora's box.
+[1:57 - 1:58] Pandora's box.
+[1:58 - 2:00] This is your video.
+[2:00 - 2:01] I'm giving it to you now.
+[2:01 - 2:02] Please make a video, yes.
+[2:02 - 2:05] I mean, it's just hard to develop the maxilla, okay?
+[2:05 - 2:07] Don't underestimate it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:29] oe Mh
+[0:31] ‘\ias
+[0:35] ही. ४
+[0:37] Eee
+[0:40] weet
+[0:41] कक के
+[0:47] ior
+[0:49] ers
+[0:49] » Aes
+[0:56] Box
+[0:57] Ee है.
+[0:58] ia? AS
+[0:59] & in Sa
+[1:00] Gey
+[1:00] mas
+[1:12] es 30
+[1:14] SS 7
+[1:16] f eR
+[1:22] ee a
+[1:24] Be कर
+[1:24] जिओ |
+[1:38] mcs.
+[1:39] Ss S
+[1:50] fms,
+[1:50] lat
+[1:55] ir x
+[2:03] JUST,

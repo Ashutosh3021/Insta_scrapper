@@ -1,0 +1,131 @@
+# model: ggml-large-v3
+========================================================================
+[110] https://www.instagram.com/reel/DQU1lmCiD2c/
+STATUS: OK
+DURATION: 1:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Unfortunately the court case has been delayed.
+[0:04 - 0:10] My barrister, who has not had a day off sick for 30 years, has caught Covid.
+[0:10 - 0:17] He's not badly affected, but he felt it would be prudent and honourable to tell the court and the judge,
+[0:17 - 0:23] who we thought was a good choice judge, as a family member who was immunosuppressed.
+[0:23 - 0:27] So he's asked it to be delayed. It's crazy.
+[0:27 - 0:31] And we don't know how long it will be delayed.
+[0:31 - 0:36] It's likely to be months, not weeks, though. So here we go.
+[0:36 - 0:41] The emotional impact on me is just unbelievable,
+[0:41 - 0:45] particularly as I've got a lot pending on this and I want to get on with my life.
+[0:45 - 0:48] And, you know, if I get into the clear, I want to start doing consultations.
+[0:48 - 0:54] I want to start earning some money because it is really, really hard.
+[0:54 - 0:56] And to be completely broke. That's the hardest thing.
+[0:56 - 1:01] Yeah, it's hard for everyone. And also it's just not getting the answers.
+[1:01 - 1:05] It's not getting the justice. You know, justice delayed is justice denied.
+[1:05 - 1:09] But hopefully we'll get cracking. We'll find a new date. I'll keep you updated.
+[1:09 - 1:13] I thought following some comments, I might put some information on actual the case,
+[1:13 - 1:18] what the details are and what is what what what the meat of the case is.
+[1:18 - 1:24] All right. Listen, I will keep you updated. Thank you very much for bearing with me.
+[1:24 - 1:25] Here we go.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Fey
+[0:01] UNFORTUNATELY
+[0:02] THE COURT CASE
+[0:03] WAS
+[0:03] HAS BEEN DELAYED
+[0:05] ५ खिल
+[0:05] MY BARRISTER WHO
+[0:06] pies,
+[0:06] A DAY OFF
+[0:07] aan
+[0:07] SICK
+[0:08] ABS
+[0:09] ms ©) je
+[0:09] HAS CAUGHT COVID
+[0:10] काट
+[0:10] AS CAUGHT ००४०
+[0:11] ्र्य्य्अअअ
+[0:12] IT WOULD BE
+[0:13] AND HONOURABLE
+[0:14] TTOMELL THE
+[0:15 - 0:16] COURT AND THE
+[0:17] WHO WE THOUGHT
+[0:18] prs
+[0:19] its
+[0:19 - 0:20] JUDGE ASA
+[0:20] aes
+[0:21] | FAMILY MEMBER WHO
+[0:22] SED
+[0:22] IS IMMUNOCOMPROM!
+[0:23 - 0:24] so SHES ASKED
+[0:26] ॥ IT's rs CRAZY
+[0:27 - 0:28] AND WE DONT
+[0:29] aes
+[0:29] KNOW HOW LONG ७ «
+[0:30] can
+[0:30] mae
+[0:30] we 4
+[0:30 - 0:31] T LL BE DELAYED
+[0:31] ww i
+[0:31 - 0:32] nae
+[0:33] rey
+[0:33] EKS THOUGH
+[0:34] 14५3 oe
+[0:34 - 0:35] 50 O HERE WE
+[0:35] a की.
+[0:36] eka
+[0:36] O THE IE EMOTIONAL
+[0:37] mae
+[0:37] _ IMPACT ON ME
+[0:38] - न्‍िि
+[0:38 - 0:41] IS JUST UNBELIEVABLE.
+[0:42] ees
+[0:42] PARTICULARLY AS I'VE
+[0:43] sane,
+[0:43] PENDING ON THIS
+[0:44] Ley,
+[0:45] ams i,
+[0:47] eer
+[0:47] | WANNA START
+[0:48] mks SH,
+[0:48] DOING CONSULTATIONS,
+[0:49] हाल,
+[0:49] EARNING SOME MONEY
+[0:49] aud
+[0:50] mms et
+[0:50] BECAUSE IT IT
+[0:51] IS REALLY
+[0:52 - 0:54] REALLY HARD AND
+[0:53] ame,
+[0:55] pus
+[0:55] BROKE
+[0:56] THAT'S THE
+[0:56] FVARDEST
+[0:58] FOR EVERYONE AND
+[1:00] pana,
+[1:00] 9-३९.
+[1:02] Nata
+[1:02] KNOW JUSTICE
+[1:03] DELAYED IS JUSTICE
+[1:05] BUT HOPEFULLY WE'LL
+[1:06] pan
+[1:08] ues
+[1:09] KEEP YOU UPDATED
+[1:10] I THOUGHT FOLLOWING
+[1:12] gaa
+[1:12] SOME INFORMATION ON
+[1:13] ACTUAL THE CASE
+[1:14] ARE AND WHAT
+[1:15] । ARE AND, 4
+[1:16] IS WHAT
+[1:17] EAT oN
+[1:18] _ THE CASES:
+[1:19] | WILL KEEP
+[1:19] ५७४
+[1:20] way
+[1:20] YOU UPDATED THANK
+[1:23] HERE WE ७0.
+[1:23] ial
+[1:24] HERE WE GO.
+[1:24] pil
+[1:24] inl
+[1:24] ill

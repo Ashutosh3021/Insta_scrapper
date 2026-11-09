@@ -1,0 +1,59 @@
+# model: ggml-large-v3
+========================================================================
+[200] https://www.instagram.com/reel/DCW7eGwoc9c/
+STATUS: OK
+DURATION: 0:55   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] you mentioned your analogy my analogy is a child that has fallen in the water and ideally we want
+[0:06 - 0:11] to teach that child how to swim but if that child at that moment is in trouble and cannot swim well
+[0:11 - 0:16] look i have to jump in and save them and jumping in and save them does not keep them out of trouble
+[0:16 - 0:21] they still cannot swim and that's where you then come into the mix and you go right well you've
+[0:21 - 0:25] bought me some time david well more importantly you've bought this child some time they're getting
+[0:25 - 0:29] some oxygen to their brain now let's get on and get the rest of this sorted so that this child
+[0:29 - 0:35] is set up for success in the future and i think that the earlier that we find these children and
+[0:35 - 0:39] the earlier we start helping them and giving them the jaw structure i think you know not being a
+[0:39 - 0:43] dentist or an orthodontist but having seen the outcomes of treatments of the same i think you
+[0:43 - 0:47] can sort the teeth out whenever you like you get one moment in time to get the jaws at their best
+[0:47 - 0:49] and that's early on
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] R. DAI
+[0:01] THE BETTER
+[0:01] THE gq
+[0:01] SULTS
+[0:01] HELP
+[0:01] DR. DAVII
+[0:01] 050
+[0:03] ANALOGY
+[0:04] con
+[0:06] ‘eel
+[0:06] hate
+[0:11] 330
+[0:15] हैँ e
+[0:23] IPORTANT
+[0:26] हैँ |
+[0:31] ता 4
+[0:49] THe
+[0:49] CBEST
+[0:49] G APP ene
+[0:50] TON
+[0:50] VIEW
+[0:50 - 0:51] 1६17?
+[0:50 - 0:51] MIKE
+[0:50 - 0:52] P> Google Play
+[0:50 - 0:53] ‘AUSE
+[0:50 - 0:54] SUPPORT
+[0:50 - 0:54] SUBSCRIBING
+[0:50 - 0:54] HE MEWING APP 8'
+[0:51] SUPPC
+[0:51] MEW
+[0:52] lable on the
+[0:52] p Store
+[0:52] ET ITON
+[0:52] SUBSCRI
+[0:52] ING
+[0:52 - 0:53] 1ELP
+[0:52 - 0:54] MIKE MEW
+[0:54] ५155

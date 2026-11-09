@@ -1,0 +1,44 @@
+# model: ggml-large-v3
+========================================================================
+[58] https://www.instagram.com/reel/DVZIsfQiJDm/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] How to get forward great, all right?
+[0:02 - 0:04] He's doing some chin tucks.
+[0:04 - 0:06] Yeah, he's pushing it back a little bit.
+[0:06 - 0:08] He's got our video and he's working it.
+[0:08 - 0:11] He's working his chin forwards and backwards,
+[0:11 - 0:15] doing sort of duck motion and some sort of shoulder work.
+[0:15 - 0:17] Great, but I think you've probably got something
+[0:17 - 0:19] going on inside your mouth, haven't you?
+[0:19 - 0:23] You're probably doing some chewing and mewing.
+[0:23 - 0:26] I think that's a secret as well from what I can observe.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] how to
+[0:00 - 0:02] get
+[0:00 - 0:02] forward growth
+[0:01] how to get
+[0:02] (even aften22)
+[0:03] ‘ Mae dA
+[0:05] है ८
+[0:06] how. to 4
+[0:06] forward/growth
+[0:06] (eveniaften22)
+[0:15] हैं. (5
+[0:17 - 0:19] Vv forward remodeling
+[0:17 - 0:19] orthodontics, palate
+[0:17 - 0:19] expanders, or orthotropic
+[0:17 - 0:19] methods
+[0:18] expanders
+[0:18] or orthotropic
+[0:19] breathing
+[0:19 - 0:20] को appearance-based
+[0:19 - 0:20] improvement:iposture}
+[0:20] breathing training
+[0:21] ey अर
+[0:25] श्र
+[0:26] ced

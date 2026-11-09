@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[44] https://www.instagram.com/reel/DW3XGiAxV1O/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] Okay, so getting ready to do some videos. Got light there, got the camera here, just getting the script up on the thing, going to sit down, of course got my green screen behind me, this is the behind the scenes, that's my main camera over there, that's my second camera over there.
+[0:19 - 0:43] But of course, what is it now? It's Easter holidays, so what else have we got? There, my camera, and down here, I've got company, because well, what else would happen during the holidays? They've got to come downstairs and they want to be with daddy, so it's a way.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:15] 5 हे
+[0:17] र्च्श
+[0:17] fa r
+[0:17] A tes
+[0:19] v py
+[0:24] oe i
+[0:33] De s
+[0:34] ore.
+[0:34] owe
+[0:34] है ज्ऋ
+[0:35] lined

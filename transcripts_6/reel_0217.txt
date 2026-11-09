@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[217] https://www.instagram.com/reel/DBeQPvIsAjo/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] our jaws were forward like our ancestors we wouldn't have sleep apnea this is so interesting
+[0:06 - 0:12] to me and so impactful on the overall health and i began learning more and more over the years
+[0:12 - 0:17] it basically completely took over my life what has been obsessed literally obsessed with this
+[0:17 - 0:21] and how it impacts the patients and their longevity their health span and everything
+[0:21 - 0:27] sleep disturbed breathing is just toxic for people i think it just affects about every
+[0:27 - 0:34] single health system depression to libido and you know really pernicious for healthy
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] HOW JAW ALIGN!
+[0:00] HEALTH AN!
+[0:00] IGEVITY
+[0:00] DR, MII
+[0:00 - 0:01] IMPACTS
+[0:01] ) less
+[0:02] JAW:
+[0:02] iS ARE
+[0:03] ANCESTORS
+[0:04] SLEEP
+[0:04] ७९९
+[0:05] THIS Isso
+[0:06] INTERESTING
+[0:07] AND 50
+[0:07] ५27
+[0:08] IMPACTFUL
+[0:08] HIGH)
+[0:09] HEALTH
+[0:09] Wal
+[0:10] LEARNING
+[0:11] MORE OVER
+[0:13] है 211 नर
+[0:14] MY LIFE
+[0:14] 118
+[0:15] OBSESSED:
+[0:16] LITERALLY) 9
+[0:17] WITH THIS
+[0:17] ditt
+[0:18] IMPACTS)
+[0:19] = 5, AND THI
+[0:20] 252
+[0:20] THEIR)
+[0:20 - 0:21] Seal
+[0:21] 185
+[0:21] ies
+[0:21] = EVERYTHING
+[0:23] ps JUST
+[0:26] AFFECT
+[0:27] EVERY.
+[0:28] SYSTEM)"
+[0:29] ga i
+[0:30] TO LIBIDO
+[0:31] “Sa KNOWE
+[0:32] PERNICIOUS
+[0:32] pte
+[0:33] FOR A
+[0:35] JPPOR
+[0:35] AIKt
+[0:35 - 0:36] MEWING
+[0:35 - 0:36] APP
+[0:35 - 0:37] 3॥1 ७
+[0:35 - 0:38] ISI
+[0:36] ING
+[0:36] MEV
+[0:36 - 0:37] MIKt
+[0:36 - 0:39] SUPP
+[0:37] MEW
+[0:37 - 0:39] ‘HI MEWING APP
+[0:38] mM=W
+[0:38 - 0:39] MIKE MEW
+[0:39] AUSI
+[0:39] sING

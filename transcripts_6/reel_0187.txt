@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[187] https://www.instagram.com/reel/DDuqesOsRNR/
+STATUS: OK
+DURATION: 0:31   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] the one thing that sets buteyko apart from because not all breathing exercises are the same
+[0:06 - 0:12] the emphasis with buteyko is hypoventilation it's about breathing less that is very very
+[0:12 - 0:16] important to mention because it addresses the habit of chronic over breathing which is the
+[0:16 - 0:22] most common form of breathing pattern disorder that's in the population and even if we were to
+[0:22 - 0:28] look at what's the incidence a cochrane review concluded it was 9.5 percent of the general
+[0:28 - 0:31] population.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] THE 3
+[0:00 - 0:01] EXeP}
+[0:00 - 0:01] ‘HOD
+[0:00 - 0:01] Dr. Patrick
+[0:00 - 0:01] Keown
+[0:01] | lees
+[0:02] 1! EE
+[0:03] Bil
+[0:05] wall
+[0:06] mail
+[0:07] wil
+[0:09] HL! Ee
+[0:09] Sui
+[0:11] HERR | |
+[0:12] Tl) EERE | |
+[0:16] a Il
+[0:16] will
+[0:21] ooh EE | |
+[0:22] Tt) EERE | |
+[0:22] il 2 a
+[0:23] THE INCIDENCE
+[0:24] HL ERR | |
+[0:25] wad Ha |
+[0:26] Tl! EER | |
+[0:26] WAS <=
+[0:28] aii
+[0:28] बाज
+[0:29] val
+[0:29] nthe
+[0:29 - 0:31] © AppStore
+[0:30] SUF
+[0:30] MEWING AF
+[0:30] MIKE
+[0:30 - 0:31] Google Play
+[0:31] IBSCRIBING

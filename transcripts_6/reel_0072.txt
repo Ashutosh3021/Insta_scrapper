@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[72] https://www.instagram.com/reel/DUELAE5CG4v/
+STATUS: OK
+DURATION: 0:38   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Does mewing still work after 25?
+[0:02 - 0:04] Yes, but expectations matter.
+[0:04 - 0:07] After growth stops, changes slow
+[0:07 - 0:10] and happen through adaptation, not growth.
+[0:10 - 0:12] If you're correcting mouth breathing,
+[0:12 - 0:15] poor tongue posture and forward head posture,
+[0:15 - 0:18] your face can still change, just gradually.
+[0:18 - 0:20] Old dogs, new tricks.
+[0:20 - 0:21] In my clinical experience,
+[0:21 - 0:24] adults often see improvements in breathing,
+[0:24 - 0:27] ENT issues, snoring, sleep alertness,
+[0:27 - 0:30] jaw joint problems, head posture and neck strains,
+[0:30 - 0:33] then visible facial changes.
+[0:33 - 0:34] But it takes time.
+[0:34 - 0:37] After 25, mewing is about health first.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:05] AFTER GROWTH STOPS.
+[0:08] THROUGH ADAPTATION
+[0:09] nae
+[0:09] NOT GROWTH
+[0:10] recesing 4
+[0:10] Ld face
+[0:10] smaller okay
+[0:10 - 0:11] eves
+[0:10 - 0:11] ose.
+[0:10 - 0:11] ‘chin
+[0:10 - 0:11] sad posture
+[0:11] crooked
+[0:11] recoding §
+[0:11] smaller नया
+[0:19] ZO) ee
+[0:19] कर १
+[0:21] [CLINICALEXPERIENCE}
+[0:30] AN DINECK¢
+[0:30] SunATS
+[0:31] RSS
+[0:32] IEACIALICHANGESIBUTS
+[0:33] G 71
+[0:34] SS7ER 25 MEW
+[0:36] i Rome
+[0:36] iS ABOUT HEALTH FIRST
+[0:37] ré 4 ll
+[0:38] GES Lor ae

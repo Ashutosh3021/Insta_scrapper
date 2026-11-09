@@ -1,0 +1,184 @@
+# model: ggml-large-v3
+========================================================================
+[135] https://www.instagram.com/reel/DN7xXX-CNUc/
+STATUS: OK
+DURATION: 1:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Mewing questions. After one year of mewing, only my left side improved. What should I do now?
+[0:05 - 0:11] I bet you, bet, bet, bet, bet, bet, most of the change you've achieved is through chewing,
+[0:11 - 0:16] not mewing. So what we've got, we've got three supports here. You've got the teeth on the left
+[0:16 - 0:21] side, you've got teeth on the right side, and you've got the tongue in the middle. Ideally,
+[0:21 - 0:25] the tongue gets the change. You get that real inner you, you get the real inner you change
+[0:25 - 0:29] when you get the tongue doing it. And then you get the real outer you change when you get the
+[0:29 - 0:33] teeth doing it. Now the problem is, in most people, and this is again and again and again
+[0:33 - 0:38] and again, well they can do the chewing, but the mewing, well that's boring and it's dull and it
+[0:38 - 0:43] requires constant engagement. So they don't do that nearly as much. And actually the mainstay
+[0:43 - 0:48] of what they're gaining is changed through chewing. So if I take this central support out,
+[0:48 - 0:52] and it's not being very effective, then we've got the supports on the other side. We've got the
+[0:52 - 0:58] chewing on one side, chewing on the other side. Well, most people chew asymmetrically. So if you've
+[0:59 - 1:03] got asymmetry, then that's from chewing. If you were mewing and you've got your tongue right up on
+[1:03 - 1:06] the roof of the mouth, that will correct asymmetry.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 4४४0४
+[0:02] hoya 809 core 92
+[0:02] DB Reo
+[0:02 - 0:05] ‘After 1 year of mewing, ony my lefts hes improved what should do now?
+[0:03 - 0:05] DB key
+[0:06] ॥ y YOU
+[0:09] a, Sen
+[0:09] Ee ean
+[0:09] SRT:
+[0:10] Is THROUGH
+[0:12] SO\WHAT
+[0:13] fama
+[0:13] HREE
+[0:16] eh 1
+[0:17] VOUWE
+[0:19] Bs Gon
+[0:19] pore
+[0:22] THE CHANG
+[0:23] ply,
+[0:23] NNER(U
+[0:27] EAL OUTER
+[0:28] CHANGE
+[0:28] SE EE
+[0:29] DOING IT
+[0:29] PR. SERIES
+[0:31] MOST PEOPLE
+[0:33] ANDJAGAIN |
+[0:33] =~ 86 a
+[0:33] GRE Se
+[0:34] THEY'CAN DO
+[0:34] eee
+[0:34] + ORS. WEEE
+[0:35] hay
+[0:35] ois
+[0:35] EIMEWING
+[0:35] pregame. WERE
+[0:37] DULIWAND
+[0:38] fig ye IRES
+[0:38] | eae
+[0:39] IGAGEMENT
+[0:39] Cet
+[0:39] ¥ oes. SEE
+[0:40] THAT,
+[0:41] FAS
+[0:41] MUCH
+[0:41] f SERS
+[0:42] MAINSTAY
+[0:43] # CEE
+[0:44] | SESE
+[0:44] FAN
+[0:45] ५ aah.
+[0:47] THE CENTRAL
+[0:48] SUPPORT OUT.
+[0:48] ity
+[0:48] Pras
+[0:49] * 101 BEING
+[0:50] Nias
+[0:51] THE SUPPORTS)
+[0:51] aes
+[0:55] WELLMOSTy
+[0:56] RE iy
+[0:56] HEW
+[0:58] sgh *
+[1:04] ECT
+[1:04] oo Lam
+[1:05] vem के
+[1:05] wwe
+[1:06] f ay
+[1:07] Jo :७
+[1:07] TOP LINEUP OF GL
+[1:07] SPEAKERS/ PANELISTS
+[1:07] ARGEST
+[1:07] GATHERING
+[1:07] RELATED
+[1:07] BRI
+[1:07] LGR
+[1:07] INCT
+[1:07] OPMENT
+[1:07 - 1:09] EXPERTS ON
+[1:07 - 1:11] DENT!
+[1:07 - 1:12] Journalist and
+[1:07 - 1:12] Author
+[1:07 - 1:19] Host and Founder
+[1:07 - 1:19] ‘of Mowing,
+[1:07 - 1:20] HYBRID EVENT
+[1:07 - 1:20] LONDON AND
+[1:07 - 1:20] AND ONLINE
+[1:07 - 1:20] THE GREAT MEWING
+[1:07 - 1:20] EVENT - 6 SEPT 2025
+[1:07 - 1:20] Dentofacial
+[1:07 - 1:20] ‘orthopaedics
+[1:08] AIR
+[1:08 - 1:09] Jo of
+[1:08 - 1:09] TOP LINEUP OF GLOBAL SPEAKERS/PANELISTS
+[1:08 - 1:09] ARGEST EVER GATHERING
+[1:08 - 1:09] TOPICS RELATED
+[1:08 - 1:09] AIRWAY BREATHING, FUNCTIOI
+[1:08 - 1:11] ND DEV:
+[1:10] मर 7७
+[1:10] ND ०६४
+[1:10 - 1:11] P LINEUP OF GI
+[1:10 - 1:11] OBA
+[1:10 - 1:11] AKERS /PANELISTS
+[1:10 - 1:11] VER GATHERING
+[1:10 - 1:11] XPER
+[1:10 - 1:11] 5 RELATED TO
+[1:10 - 1:11] ATHING,
+[1:11] 3७ २७ ४०७
+[1:12] ote
+[1:12] TOP LINEUP OF GLOBAL SPEAKERS/PANELISTS
+[1:12] THE LARGEST EVER GATHERING OF EXPERTS ON
+[1:12] TOPICS RELATED TO DENTOFACIAL GROWTH,
+[1:12] AIRWAY BREATHING, FUNCTION AND DEVELOPMENT
+[1:13] RIBUT
+[1:13 - 1:14] THE
+[1:13 - 1:14] IN LONDON AND ONLINE
+[1:13 - 1:14] ANGING
+[1:13 - 1:14] RSTA
+[1:13 - 1:14] H AND DEVELOPMEN!
+[1:13 - 1:14] TE PROF JOHN MEW
+[1:13 - 1:18] 1३ BAS)
+[1:13 - 1:18] HAT ARE
+[1:13 - 1:19] Jack Hacks
+[1:14] 1080
+[1:15] OPEN TO THE
+[1:15] NCL
+[1:15] HE LATE PROF
+[1:15] MEW
+[1:15 - 1:16] RIBUTE Ti
+[1:15 - 1:17] IN (01001
+[1:15 - 1:17] OWTH AND Di
+[1:15 - 1:18] MEET THE
+[1:15 - 1:18] JANGING THE
+[1:15 - 1:18] WAY WE
+[1:15 - 1:18] LOPMEN
+[1:16 - 1:18] THE PUBLI
+[1:16 - 1:18] IN LONDON
+[1:16 - 1:18] TE PROF
+[1:16 - 1:18] HN MEW
+[1:16 - 1:19] NCLUI
+[1:17] THE
+[1:17] 811,
+[1:17] RIBUT!
+[1:18] H AND 01
+[1:18] INCLUDES A TRIBUTE T:
+[1:19] ‘OPEN TOT
+[1:19] BOTH IN LONDON AND ONLINE
+[1:19] MEET
+[1:19] PERTS THAT ARE CHANGING THE
+[1:19] 10801;
+[1:19] HE LATE PROF JOH
+[1:19] OWTH AND DEVELOPMENT
+[1:19] MEW,
+[1:20] Ploneering alway
+[1:20] orthodontist
+[1:20] Recently Deceased
+[1:20] UCL LOGAN HALL
+[1:20] 20 BEDFORD Way,
+[1:20] LONDON, WCIH OAL ७8
+[1:20] BIT.LY/4MNMALC

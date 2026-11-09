@@ -1,0 +1,496 @@
+# model: ggml-large-v3
+========================================================================
+[10] https://www.instagram.com/reel/DcGwyNGIvvO/
+STATUS: OK
+DURATION: 2:44   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] One of the few things that I haven't done is talk about hard gums and chewing. I've put that
+[0:06 - 0:12] slightly to one side and I've done that for some fairly good reasons. Any gum can be hard but few
+[0:12 - 0:19] are engineered and One Jaw is a brand built a few years ago by the people who lived the problem
+[0:19 - 0:25] and know the story, not racing to make the hardest gum on the market. They designed hard gum that
+[0:25 - 0:32] made sense from a physiological perspective. That's why I'm putting my name on it, the Mike
+[0:32 - 0:40] Mew edition and I want to say this up front, it's not for everyone. Hard gum category in itself is a
+[0:40 - 0:46] training tool for one of our most neglected functions, chewing. Today we're all different on
+[0:46 - 0:54] the craniofacial dystrophy spectrum. The lucky few who have optimal facial structure can easily do
+[0:54 - 0:55] more chewing.
+[0:55 - 1:03] But most of us need to build up gradually. And for some, like those with TMD or jaw pain, hard gum
+[1:03 - 1:09] simply isn't appropriate. One thing I don't like about the hard gum market is that it's becoming
+[1:09 - 1:16] a race to increasing grinding hardness, as though that alone gives better results. But chewing isn't
+[1:16 - 1:22] about making your jaw suffer. And that is why there are two types of hard gum, engineered hard
+[1:22 - 1:24] and careless hard.
+[1:24 - 1:25] One Jaw:
+[1:25 - 1:54] Engineered means this particular resistance was a deliberate choice. Jaw training is more about how many times you bite than how hard. It's about building tonic, fatigue resistance muscles that hold your jaw where it should be all day, easier on the joint and with less neck compensation than the common rock hard gum causes.
+[1:54 - 2:13] Jaw masseter isn't just a bicep to pump up. Jaw training is about accumulating controlled work over time. So what else can I tell you about one jaw? It's Swiss-based, made in Europe, using cold compression, which is a genuine technical differentiator with a short and deliberate ingredient list.
+[2:13 - 2:27] I know chewing advice has been controversial, and honestly that's a good thing. The answer isn't simply the harder you chew, the more results you get. Those jaw hacks can get you into trouble.
+[2:27 - 2:42] That's one of the main reasons I wanted to work with one jaw. If you'd like to know when the Mike Mew edition launches, head to one jaw and put your name down. I'll let you know as soon as it's ready.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] है कु
+[0:00] One
+[0:00] 93213
+[0:00] ae a
+[0:02] 71०
+[0:03] Kae
+[0:04] hope)
+[0:05] Br)s WH @
+[0:05] ria
+[0:06] aia
+[0:06] 1४९ that:
+[0:09] Wscdeasons
+[0:11 - 0:14] ANY GUM
+[0:11 - 0:14] can be
+[0:13] BUT FEW
+[0:13] ENG;
+[0:14] ENGINEERED
+[0:15] and ONEJAW,
+[0:16] \J onejaw
+[0:16] isa brand
+[0:17] Qi oneiow
+[0:17] yi 9
+[0:18] nae
+[0:18] who lived
+[0:20] Led A ५,
+[0:21] 14 Wf
+[0:21] 244
+[0:21] Sat?
+[0:22] Lad
+[0:22] Rardestigura
+[0:23] (iio
+[0:24] ५ designer
+[0:27] heey
+[0:27] ot ad
+[0:28] ieeal
+[0:31] my name on it
+[0:31 - 0:34] FORMULATED
+[0:31 - 0:34] BY MIKE MEW
+[0:31 - 0:34] RESISTANCE
+[0:31 - 0:34] TRAINING
+[0:31 - 0:34] FOR YOUR JAW
+[0:32] Aba “लग थ्
+[0:32] ‘onejaw
+[0:32] axe Mews
+[0:32] १2७ tee
+[0:32] हैं
+[0:32] The Mike
+[0:33] बढ news
+[0:33] १2:7४ haa’
+[0:33] SES
+[0:33] 2००८०:
+[0:33] Mew editi
+[0:34] Brita has
+[0:34] orcucrommaace
+[0:34] Want to say
+[0:35] pra
+[0:37] [BAY
+[0:37] 4p है
+[0:38] Hard gum,
+[0:38 - 0:39] SOFT
+[0:39] itself,
+[0:40] training tool
+[0:41] wD GUN
+[0:41] ORAL HYGIENE GUN
+[0:41] vaso 6७५
+[0:41] are
+[0:41] for
+[0:41] one
+[0:42] | cul
+[0:42] ORAL HY
+[0:42] vaso cum
+[0:42] neglected
+[0:43] functions
+[0:43 - 0:44] HARD GUM
+[0:44] JAW TRAINING
+[0:44] Chewing
+[0:46] hast
+[0:53] क्र
+[0:54] है 1
+[0:55] laa
+[0:57] Teel
+[0:58] gradually
+[0:59] कला
+[0:59] lil
+[1:01] ith
+[1:02] 53 2]
+[1:02] Or jaw pa
+[1:04] Fol PIey,
+[1:05] Fol 1
+[1:05] ted हें
+[1:06] WA te
+[1:07] eof
+[1:07] Boe
+[1:08] Boo
+[1:08] vee
+[1:08] Hes
+[1:09] eo0®@
+[1:09] HHS
+[1:10] his]
+[1:10] to increasing
+[1:10 - 1:12] ACTUALLY HARD GUM
+[1:11] 15X
+[1:11] HARDER
+[1:11] 16111
+[1:11] HARD. HARDER. HAROE EST.
+[1:11 - 1:12] # ULTRA TOUGH CHEW
+[1:11 - 1:12] ULTRA HARD,
+[1:12] 15K
+[1:12] wo) करके
+[1:13] प्र
+[1:17] 0०2
+[1:17] JAK
+[1:19] that is why
+[1:20] हाँ
+[1:21] ~ BAD GU ®
+[1:21 - 1:25] HARD GUM
+[1:22] engineered hard
+[1:23 - 1:24] and careless hard
+[1:23 - 1:29] [ enoineereD | ]
+[1:24 - 1:25] [| caretess
+[1:25] ONEJAW
+[1:26] falls into the
+[1:27] [६६२६०
+[1:28] category
+[1:30] for
+[1:31] was
+[1:33] ren
+[1:33] vod on
+[1:33] chi
+[1:34] aii
+[1:34 - 1:38] HARD. GUM
+[1:35] 0४७ GUM
+[1:35] mot
+[1:35 - 1:38] OPTIMAL
+[1:36] OTHER HA
+[1:36] you
+[1:37] OTHER WARD GUMS
+[1:37] than ho’
+[1:37] ard
+[1:38] TOO HARD
+[1:38] OTHER HARD 6015
+[1:38] ‘than how hard
+[1:39] It's about
+[1:40] oni 21012
+[1:41] कै /्
+[1:41] tonic fatigue
+[1:43] एक लए
+[1:43] muscles that
+[1:44] eos
+[1:45] fen)
+[1:48] Wwe
+[1:48] and with less
+[1:50] L Or
+[1:50] hit
+[1:50] compensation
+[1:51] cin
+[1:51] f ८४
+[1:52] > es y
+[1:53] Pee
+[1:58] ety
+[1:58] Tinh
+[1:59] A! ay
+[1:59] ॥ contra
+[2:00] ji ०
+[2:01] ita
+[2:01] So what else
+[2:02] about
+[2:02] EDAW?
+[2:03] Foret
+[2:03] about ONEJAW?
+[2:04] It's Swiss base:
+[2:05] made in Europe.
+[2:07] ies |
+[2:08] 159
+[2:08] 1 agBnuine
+[2:10] differentiator
+[2:11] witha shor
+[2:12] s ss
+[2:14] tenn
+[2:14] know
+[2:16] em noeetrmtranngtnreeinit
+[2:16] few
+[2:16] CON OVETSiclhs
+[2:16] आना
+[2:17] 31 09॥101 514 /॥
+[2:18] ne ge ATUL cn ७५५००
+[2:18] bas
+[2:18] aie
+[2:18] जहा
+[2:19] vat
+[2:19] fame nr a
+[2:19] att
+[2:19] Uasanswer
+[2:21] i em
+[2:21] wan
+[2:22] Feeoreyrerr
+[2:22] न लन न enna amen ten mt
+[2:22] (noynamnnetas geo n srecar veoh
+[2:22] feaieersrronnarsetvereny
+[2:22] [= rom
+[2:22] iin vino stem
+[2:22] nent”
+[2:22] eon ee it
+[2:22] ‘as cla igo
+[2:22] अदा npn name non नाव
+[2:22] ‘seem span reprise sa
+[2:22] presheneaeninendirateireny av eiaevennirny
+[2:22] area
+[2:22] emanate ton
+[2:22] ‘imponmnnna Dt 97D) et Pp pd cd
+[2:22] unt ney पका
+[2:22] aot
+[2:22] Scone ण
+[2:22] man ee
+[2:22] STE
+[2:22] rare (७ ० 0) en AS
+[2:22] EWA
+[2:22] Mole
+[2:22] rer फधक-
+[2:22] पर dpm 8 prepares) cg ma hen =
+[2:22] prempennrseray
+[2:22] 18 0) cn er कज #.
+[2:22] 8890. 33०3.
+[2:22] ‘iy tn at ene Dc bee
+[2:22] ‘Sn rey em rn 9 > 05) Cn Te न
+[2:22] ‘ae ener ee cu pn ewe pny
+[2:22] pon
+[2:22] नरक मिमा समसम मम काका कम मकान
+[2:22] paeianernyeneyeuenelsressrennrsseopter emia
+[2:22] yr enon nen, enema 0/0, आ,
+[2:22] ‘Som prom es ben men, eg mee
+[2:22 - 2:23] ‘Assocation tetween Gum ching and TemporemandiblarDtorders
+[2:22 - 2:23] ‘cones जय
+[2:22 - 2:23] Sagan Convince ih anon yng a ene ot
+[2:22 - 2:23] Sie recede Tat ato eer ene
+[2:22 - 2:23] a en ante on tn pp es oe
+[2:22 - 2:23] espe cme aon Pd ny go
+[2:22 - 2:23] dpe pd gp ot न्कन
+[2:22 - 2:23] यथा depen Teed Ti net गण oer
+[2:22 - 2:23] Sete name tren ee et
+[2:22 - 2:23] Ppa mene
+[2:23] BE ३७४०३ cena’ |
+[2:23] विनय स्ल
+[2:23] बन तन न नान+ नमक “नकल tent
+[2:23] ८८ ८आप्पद८८:८:::
+[2:23] त्हिः
+[2:23] फलपेंेंे॑े:८ ८:
+[2:23] hin vin ust
+[2:23] २७७७८४३४५२४४६४०४४
+[2:23] "etc
+[2:23] eon ce i
+[2:23] ‘ae cl igs
+[2:23] अदा npn enn Hm tt oa i
+[2:23] ‘seem span हलक पल नि ता कितना
+[2:23] See ct er rere gg pm ०५
+[2:23] peeve
+[2:23] “emcee monn rn १०४
+[2:23] ‘empnnnnna Der OTD) et Pp pd cd
+[2:23] un ty Acne
+[2:23] Sree mnrton
+[2:23] mn का
+[2:23] कमा
+[2:23] रण ६2० Ta
+[2:23] pea
+[2:23] अगर wage pe INN ey mer een =
+[2:23] 10 ea en errr बन 6.
+[2:23] 38800. ५3०3.
+[2:23] ‘ty on te ene Dc ee
+[2:23] waa
+[2:23] 0०५०० em rn 9 > 05) Cn Te en
+[2:23] ‘ae near ce cu gn ew ma py
+[2:23] ‘tec cy ce ech et
+[2:23] pramnperseciennperaninnis काका कम न कान
+[2:23] iy ents ct eps te ene no hp
+[2:23] yr emt nen, enema 0/3, आ,
+[2:23] ‘Sonoran es ben rm en og me
+[2:24] > oan tinnion
+[2:24] ston ezmamasoins
+[2:24] 100०“
+[2:24] 105 117%1आन0/0००००००००1 prs
+[2:24] isomer tn? sir sin tas
+[2:24] Satomi
+[2:24] mare swt
+[2:24] mca Puce eins २०७७७कबछ७्बब्ब»
+[2:24] ‘ctr et nee er meme
+[2:24] श्श््््श्य्य्भ्््य्््फट््श्८
+[2:24] ‘enema comma ern rancor te
+[2:24] ‘SStSereersermamn cocrommgnmeaoanreag aaron
+[2:24] a sour tena pene क
+[2:24] ध्श्श्ख्श्य््श्््ं्ल्स्य
+[2:24] ध्धध्ाा्: cosh Pesce
+[2:24] लश्थश्श्श््ि nen at
+[2:24] ‘cron enn maa eng tence cn
+[2:24] खेिपेा::् ener sneer
+[2:24] ete ern ic tg iS aie
+[2:24] ज्श्श्श्श्श्््य्श््््ञ+
+[2:24] ध्श्ल्ल्ल्ल्य्स््ल् सम न+
+[2:24] य््््ज््श्शश्््ुलल्ल्््य्ड
+[2:24] श्य्््श्ल्श्स्््््स सफल
+[2:24] न्ल््म्न्ट
+[2:24] ‘tino enon hisses oe
+[2:24] नशा
+[2:24] Sincacneas
+[2:24] natn cn
+[2:24] 0 con
+[2:24] ध्सञसाा लत pene
+[2:24] भ्भ्नभ्भ्म्भ्स्न््््््ञ्ा
+[2:24] ‘neni 2
+[2:24] aaa
+[2:24] ere on wor nc mace a an Sp
+[2:24] SAREE
+[2:24] coe
+[2:24] eaten incatisio
+[2:24] Sinai
+[2:24] csc prt rar sya oer ns
+[2:24] न्च्ख्स्््ल्ः्ड
+[2:24 - 2:25] Publ{jed
+[2:24 - 2:25] Association of temporomandibular disorders and
+[2:24 - 2:25] other jaw anomalies in chewing gum users-a
+[2:24 - 2:25] systematic review
+[2:24 - 2:25] Confit of interest statement
+[2:25] a am
+[2:25] onal Library of Medicine
+[2:25] > Joarnainnnn अकाल mame
+[2:25] tostanae
+[2:25] frente rameter २०50 ०००४४०००२०००००
+[2:25] erat rt in ran son nn
+[2:25] sine sot
+[2:25] व िपिड Paco ents Ob anatase
+[2:25] Absa
+[2:25] व मानना
+[2:25] श्श््््श्य्भ्ज्श््््श्ल््ध््य
+[2:25] श्््श्अस्‍फस er rons te
+[2:25] ००००० ०० 0०:22%2“27०- “17 a on
+[2:25] ‘ea oro PA tr ing ee Sn टेप ण०
+[2:25] ध््््ख्य्य्च्चख्ट्श्स्ल््य्ल्ः
+[2:25] अधि Sanaa Pearce
+[2:25] (omeusensnoumes ran oaencnen wma wn et
+[2:25] न्ल्््््श्श्ल््ल्ध्य््श््््््न
+[2:25] कि: डे: फ 7८:
+[2:25] ete trina iis fg ia Sm a i
+[2:25] ध्स्््श््््््््््््् 555
+[2:25] ्श्श्थ््श्य््श््न्््््श्ट््ण्ि
+[2:25] श्ध्््ल्शश्च्च्ल्ल्््य्ड
+[2:25] य्््््ल््स्न््््इस्‍ meet RO rn
+[2:25] ‘timc xe apc on es mess er
+[2:25] न््शजद
+[2:25] न्यू
+[2:25] ttn
+[2:25] SSIS
+[2:25] one
+[2:25] ‘Sliertonemanees nape eel fone
+[2:25] म््््््स्क्न्तं
+[2:25] ‘enone SH
+[2:25] ere om wr i ace ce ean Spe
+[2:25] penlpeinenenniin
+[2:25] ‘ammanenocutert rw
+[2:25] Sinica
+[2:25] हनन nd ma नमन sy i पालक,
+[2:25] ‘nec enaurs anemone see
+[2:27] > eet i 0 maemo oe ome
+[2:27] ७०५०७
+[2:27] tenon sm nS
+[2:27] om oo
+[2:27] esermcatnnnons
+[2:27] ere ha i pret ० ल+न० ०
+[2:27] भ्म्भ्म््श्य्श्््य्््् loess
+[2:27] श्श्श्भशि सहज
+[2:27] ‘eet mints eo ny Sapna tn ४ मन
+[2:27] Sitiicmremesesmremirmensimcsnrrsecersr hansen
+[2:27] न्श्भ्भ्म्भ्भ्न्भ्भ्न्ध्ल्ध्ध्ल््ण्ल्न्य
+[2:27] श््ज्श््श्श््ल्य्श्््््प्न
+[2:27] ‘Strasncon atop cn cnn name con obey he
+[2:27] Sorc seeeennnieresene cmigon cera
+[2:27] (Senmontoumeneeseraoe?onae
+[2:27] on eco i na i een तक
+[2:27] ्चख्््य्श्शश््य्स्न्सप्5
+[2:27] भ्््््््न्टप्श्श्््प्
+[2:27] 22240: 22202 ,2:,०072:20
+[2:27] जि: भय
+[2:27] स्पिन ्ंञ्प्त
+[2:27] स्ल्््य्य्टः
+[2:27] के नायक scar moyenne et nner ee
+[2:27] cor
+[2:27] 272:: 2225 alain
+[2:27] 02० ००५००७०५०३००००००००५००००-०००<
+[2:27] Serta
+[2:27] polenta
+[2:27] 24% scone
+[2:27] SSooesnemeee
+[2:27] nina eg nce re ter aan tytn
+[2:27 - 2:28] tion
+[2:27 - 2:28] शिल्पा
+[2:27 - 2:28] oes gum chewing increase the prevalence of
+[2:27 - 2:28] ‘temporomandibular disorders in individuals with
+[2:27 - 2:28] {gum chewing habits?
+[2:27 - 2:28] an + wo
+[2:27 - 2:28] roars
+[2:27 - 2:28] 27:07 777 /2:7/:7777०:2%%०४० ००००
+[2:27 - 2:28] श््स्श्य्श्््श्््य्ञ््प््<डः
+[2:27 - 2:28] pene
+[2:27 - 2:28] soe
+[2:27 - 2:28] Teena
+[2:27 - 2:28] Sic ariies
+[2:27 - 2:28] een a an pra ay an mts ten ee
+[2:28] > sometime oe sompce sn
+[2:28] ७०४००
+[2:28] tentang sm in Sts
+[2:28] oo oo
+[2:28] ere a ny preci ० न+न०1
+[2:28] भ्स्य्ज्््््् Soe fe esos
+[2:28] शशि nesmemeronee
+[2:28] ‘anes mints nee ao Spr ct अमन
+[2:28] श््ल्य्न्््ल्न्न्य्््ं्ः्ि्श्श hansen
+[2:28] न्भ्भ्भ्म्भ्भ््भ्भ्भ्ध्शल्‍्ध्य्ल्ध्ल्न्य
+[2:28] ल्श््श््श्श्भ््श््स्स्प्प
+[2:28] ज्््््््श््श्््श् डिक
+[2:28] नल सचिन
+[2:28] प्रेम कपल
+[2:28] onus eco na ei? en
+[2:28] ्््््य्श््श्श््लश्य्न्ञप्5
+[2:28] ‘Sajousmrneecarapea coon mapctonanamosmttosscase
+[2:28] 22045: 22202,
+[2:28] ज्इ्:्िधक/ भय
+[2:28] Pct meester cnurmnte nemmeremnaontaocaorssoeeoe
+[2:28] स्श्ध्य्य्ट्ः
+[2:28] oom
+[2:28] Catpaaactn pacar etn et mapas ee
+[2:28] Sonora
+[2:28] Sea ctr
+[2:28] frgreteererrhe efayetajanarsoneneeate
+[2:28] Sooner
+[2:28] See
+[2:28] Fr ner enn
+[2:28] डक ramen
+[2:28] nits eg nce का ter aetna e
+[2:29] Usreoe
+[2:29] DIDN'T PLAN FOR
+[2:29] 110 311]
+[2:30] WAS NOT
+[2:30] DESIGNED
+[2:30] FOR MODERN
+[2:30] LIFE.
+[2:30] CHEWING RES| faantedteraTeo
+[2:31] ESISTANCE
+[2:31] 2 YOUR JAW
+[2:32] के MEW’'S
+[2:32] ONE.
+[2:32 - 2:34] onejaw
+[2:32 - 2:34] CHEWING
+[2:33] GUM
+[2:33] [WINTERGREEN |
+[2:33 - 2:34] MIKE MEW’S
+[2:33 - 2:34] HARD
+[2:33 - 2:34] 10 Pieces OF CHEWING GUM
+[2:33 - 2:34] SUGAR ६ ASPARTAME FREE. WITH SWEETENER
+[2:34] PUGteroneen |
+[2:34] Me Me
+[2:35] for)
+[2:35] lew additi
+[2:36] yes
+[2:37] bey :
+[2:39] J onejaw.com
+[2:39] ‘down
+[2:40] \youknow,
+[2:41] हि ०
+[2:43 - 2:44] IMI

@@ -1,0 +1,196 @@
+# model: ggml-large-v3
+========================================================================
+[18] https://www.instagram.com/reel/DZ-uuEoRHmB/
+STATUS: OK
+DURATION: 1:45   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Why is everyone obsessed with jawlines in look-smaxing?
+[0:04 - 0:07] A strong jawline often reflects something deeper.
+[0:07 - 0:10] Healthy jaw development.
+[0:10 - 0:12] The lower jaw sits in relation to the upper jaw.
+[0:12 - 0:15] If the upper jaw grows forwards and wide enough,
+[0:15 - 0:18] the lower jaw tends to follow.
+[0:18 - 0:20] But if development is restricted,
+[0:20 - 0:24] often through open mouth breathing or poor tongue posture,
+[0:24 - 0:28] the face grows downwards, a downswing instead of forward.
+[0:29 - 0:34] This affects both function and appearance, both together.
+[0:34 - 0:37] A face that is the right shape works well.
+[0:37 - 0:41] A face that is not the right shape does not work as well.
+[0:41 - 0:45] Less space for the teeth, less space for the airway.
+[0:45 - 0:49] Your face is the CV of your health,
+[0:49 - 0:53] the outward display of not just what you inherited,
+[0:53 - 0:56] but also what you achieved.
+[0:56 - 0:58] Looking well is being,
+[0:59 - 1:02] looking well, two sides of the same coin.
+[1:02 - 1:07] Look-smaxers want to focus on their appearance and jaws.
+[1:07 - 1:09] I want them to focus on their health.
+[1:09 - 1:12] But at the end of the day, it's the same goal.
+[1:12 - 1:15] It's the same direction.
+[1:15 - 1:17] If you want to improve your CV,
+[1:17 - 1:21] to brush up on your health and look well,
+[1:21 - 1:23] then it's time to team up.
+[1:23 - 1:25] Get the app, get the Mewing app.
+[1:25 - 1:28] It guides you through these exercises.
+[1:29 - 1:34] And remind us to help build better oral posture and habits.
+[1:34 - 1:38] Life is too short not to do it right.
+[1:38 - 1:42] Look-smaxers shouldn't just think about appearance.
+[1:42 - 1:45] Think health, think function, and think about your CV.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Dsesse
+[0:02] Shy
+[0:02] ith jawlines
+[0:03] mat
+[0:05] Ker
+[0:05] Yap~)
+[0:06] MENT
+[0:06] often reflects
+[0:07] हु ye
+[0:07] something deeper.
+[0:08] Healthy
+[0:09] ७०१,
+[0:09] jaw development. 6
+[0:11] ALIG
+[0:12] to the upper
+[0:14] forw
+[0:15] aid
+[0:15] ugh
+[0:16] Diya
+[0:16] thedower
+[0:17] है tends
+[0:18] है tendstofollow.
+[0:19] हूँ
+[0:19] Buti
+[0:20] है is =
+[0:21] BREA
+[0:21] है often
+[0:23] breathin: ro
+[0:24] ey: ES
+[0:24] posture
+[0:26] re downwards.
+[0:27] x downswing
+[0:29] This
+[0:30] This affects both
+[0:31] and
+[0:32] cal
+[0:32] weil
+[0:33] ali
+[0:35] 150
+[0:35] A face th
+[0:36] shap
+[0:39] does
+[0:40] does not work
+[0:42] S'space for th
+[0:43] 1 pew
+[0:43] ज्ब्क
+[0:47] ibe
+[0:47] pti
+[0:50] Le Dai
+[0:50] € outward display
+[0:53] pre
+[0:53] #) ०७७
+[0:53] ine
+[0:56] बडा
+[0:56] you achieved,
+[0:57] Looki
+[1:05] लेक
+[1:05] on their appearance
+[1:06] Pat
+[1:08] Mie y)
+[1:08] Wantithenn io)
+[1:09] 01111810158।
+[1:10] butattheenc
+[1:14] | pli
+[1:15] ree
+[1:18] to brush up
+[1:19] {dress this
+[1:19] anel
+[1:19 - 1:20] Enhanced facial structure
+[1:19 - 1:20] educed
+[1:19 - 1:20] ack Disc
+[1:19 - 1:20] Regular Mewing can significantly
+[1:19 - 1:20] change the structure of your face for
+[1:19 - 1:20] yeplacem
+[1:19 - 1:20] the better. These positive
+[1:19 - 1:20] tricately ९
+[1:19 - 1:20] sek healt,
+[1:19 - 1:20] transformations include enhanced facial
+[1:19 - 1:20] ewing jou
+[1:19 - 1:20] symmetry, a more defined jawline, and
+[1:19 - 1:20] the development of more prominent
+[1:19 - 1:20] ‘proved pc
+[1:19 - 1:20] ‘cheekbones. Moreover, Mewing can
+[1:19 - 1:20] tek and ba
+[1:19 - 1:20] effectively minimize the appearance of
+[1:19 - 1:20] double chins,
+[1:20] ess
+[1:20] 4988 thi
+[1:20] ane look
+[1:21] wall, than
+[1:21 - 1:22] Reduced Neck and
+[1:21 - 1:22] Back Discomfort
+[1:21 - 1:22] ‘i practisn
+[1:21 - 1:22] face for
+[1:21 - 1:22] Japt to kee
+[1:21 - 1:22] The placement of your tongue is
+[1:21 - 1:22] nced facia
+[1:21 - 1:22] intricately connected to your neck and
+[1:21 - 1:22] line, ane
+[1:21 - 1:22] back health. As you progress in your
+[1:21 - 1:22] minent
+[1:21 - 1:22] Mewing journey, you will specifically
+[1:21 - 1:22] ing can
+[1:21 - 1:22] arance of
+[1:21 - 1:22] address this connection, leading to
+[1:21 - 1:22] improved posture and a decrease in
+[1:21 - 1:22] neck and back pain.
+[1:22] tima to
+[1:23 - 1:26] 151
+[1:25] Better sleep and less snoring
+[1:25] Fewer he
+[1:25] ‘By adapting to breathing through your
+[1:25] The torwan
+[1:25] ‘nose you will improve the quality of
+[1:25] adopt ov
+[1:25] your sleep. Over time, Mewing will help “ewing ex
+[1:25] you automatically correct your posture ‘¥ hese
+[1:25] even when sleeping. A better posture jou relieve
+[1:25] «will result in a better airflow at night ant
+[1:25] reduced snoring.
+[1:25] ‘Gat tha mawing app,
+[1:27] ay of,
+[1:27] through thase
+[1:27 - 1:28] noring
+[1:27 - 1:28] Fewer headaches
+[1:27 - 1:28] vgn your
+[1:27 - 1:28] ‘The forward head posture that many of
+[1:27 - 1:28] Us adopt over the years can lead to
+[1:27 - 1:28] 9 880०७
+[1:27 - 1:28] 1 posture
+[1:27 - 1:28] headaches. As you go through the
+[1:27 - 1:28] Mewing exercises you will learn to carry
+[1:27 - 1:28] night and
+[1:27 - 1:28] ‘your head where it should be. The
+[1:27 - 1:28] correct position of your head can help
+[1:27 - 1:28] you relieve headaches.
+[1:28] ty of.
+[1:28] through thase axarelsas
+[1:29] tee,
+[1:29] and reminders
+[1:31] to help build bett
+[1:32] oral posture
+[1:33] 148
+[1:33] Low
+[1:33] oral posture and habits.
+[1:35] Life is too
+[1:37] not to do it
+[1:39] Gay
+[1:40] just think about
+[1:41] pig, |
+[1:41] irance,
+[1:42] i Fe
+[1:42 - 1:43] ‘think
+[1:43] Fs #+2
+[1:45] nd think about your CV.

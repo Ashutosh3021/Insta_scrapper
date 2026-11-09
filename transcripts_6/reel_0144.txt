@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[144] https://www.instagram.com/reel/DNNI2UxslJt/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] People ask me all the time, "How do I get a better jawline without surgery?"
+[0:05 - 0:08] The answer is mewing, but only if you do it right.
+[0:08 - 0:12] I'm Dr Mike Mew and this is my official mewing app.
+[0:12 - 0:18] Inside I'll guide you through everything you need to get results, step by step.
+[0:18 - 0:19] It's not a gimmick.
+[0:19 - 0:22] This is the method I've spent decades perfecting.
+[0:22 - 0:25] Start today and take control of your face and health.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Df i
+[0:00] ASK ME
+[0:02] ALS
+[0:02] है 4
+[0:03] ANBETTER'
+[0:04] Wy ५
+[0:08] a ae
+[0:10] rHIS IS
+[0:12] m=wW
+[0:12] MENU mms,
+[0:12] 1छीनि-
+[0:12 - 0:15] 12:51
+[0:12 - 0:15] EXERCISES
+[0:13] MENU oom.
+[0:13] THROUGH
+[0:13] / hewn
+[0:13 - 0:15] TRACK PROGRESS.
+[0:14] So ib
+[0:14] VOUINEED)
+[0:14 - 0:15] MENU —
+[0:15] astiie
+[0:15] 1०० कि. / शी
+[0:16] STEF
+[0:16] =. ull
+[0:17] BY STEP
+[0:18] iN OT
+[0:19] METHOD
+[0:20] PENT
+[0:21] aie Eww
+[0:21] TING
+[0:22] kkk kt
+[0:22] TODA
+[0:22 - 0:24] iy Mewing by Dr Mike Mew
+[0:22 - 0:24] © Cancel
+[0:23] CONTROL
+[0:23 - 0:24] tek kk I 8.9K
+[0:23 - 0:24] GETITON
+[0:23 - 0:24] p> Google Play
+[0:23 - 0:24] Download on the
+[0:23 - 0:24] \ Sheer App Store |
+[0:24] FACE

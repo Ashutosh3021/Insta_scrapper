@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[157] https://www.instagram.com/reel/DLSyMyiso41/
+STATUS: OK
+DURATION: 0:45   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Eating. This is excellent for people who cannot breathe properly when they are mewing effectively in a full suction hole.
+[0:08 - 0:16] Focus on this one and don't move on till you have mastered this and can breathe with a full suction hold.
+[0:16 - 0:21] Sit up straight. Elbows off the table. Build core body strength.
+[0:21 - 0:25] Three meals a day saves you all those Pilates lessons.
+[0:25 - 0:29] Then food to you, not you to your food.
+[0:29 - 0:36] It takes some coordination and it's fine to lean forwards a little, focusing on a straight spine.
+[0:36 - 0:45] Again, building core strength with relatively light exercise with controlled coordination.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] EATING
+[0:01] THIS IS
+[0:02] ei 2
+[0:04] PROPERLY
+[0:06] y fe
+[0:13] lex
+[0:18] —=ELBOWS
+[0:18] wiled
+[0:22] fon
+[0:25] fai
+[0:30 - 0:32] tan
+[0:33] igs
+[0:43 - 0:44] CONTROLLED
+[0:44] ca ad

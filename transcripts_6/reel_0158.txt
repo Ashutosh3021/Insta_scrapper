@@ -1,0 +1,51 @@
+# model: ggml-large-v3
+========================================================================
+[158] https://www.instagram.com/reel/DLIXpLpIb4C/
+STATUS: OK
+DURATION: 0:41   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] And what I'm suggesting is happening, it's almost like a bilateral, so a two-sided stroke is happening to the modern population.
+[0:08 - 0:12] So, we've got a child's toy and you stretch it like this.
+[0:12 - 0:15] You've only got so much head.
+[0:15 - 0:23] If your head is going to get longer, it's going to get thinner and it's going to get shallower.
+[0:23 - 0:26] So, you reduce your cross-sectional area.
+[0:26 - 0:33] You reduce the space for your teeth, so there's less space for the teeth, they're more likely to get crowded.
+[0:33 - 0:39] But of course, you're also reducing the space for the airway and you're changing the general structure.
+[0:39 - 0:41] So, it gets a little bit more complicated.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] sft
+[0:01] HAPPENING
+[0:04] PA\TW
+[0:05] ard
+[0:05] SIDED
+[0:10] ५ i. 2.
+[0:11] 72 ०८७,
+[0:11] AND YOU STRETC
+[0:12] ss) ee
+[0:16] YOUR
+[0:17] GOING TO
+[0:18] LONGER
+[0:21] दे | हर
+[0:22] alk
+[0:22] OWER
+[0:24] ome
+[0:28] PACE
+[0:29] EETH
+[0:31] E.TEETH i)
+[0:33] OWDED
+[0:34] ट्ज्ा
+[0:35] FOR
+[0:35 - 0:37] CANE
+[0:36] ow, ES ¢. t
+[0:36] HE AIRWAY
+[0:37] YOU'RE
+[0:38] CAME ey
+[0:38] STRUCTURE
+[0:39] (Away (LF
+[0:39] IT GETS
+[0:40] coy ¢.
+[0:40] BIT MORE
+[0:41] COMPLICATED

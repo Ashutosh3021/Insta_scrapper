@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[153] https://www.instagram.com/reel/DMDmhAPMrPU/
+STATUS: OK
+DURATION: 1:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] It seems that modern humans have around 28 or sometimes only 24 teeth.
+[0:05 - 0:09] Now, dentists are being taught that 28 teeth are normal
+[0:09 - 0:13] and that if someone has 28 teeth in a good arrangement,
+[0:13 - 0:18] this would reflect perfection as far as how teeth come together.
+[0:18 - 0:23] And the absence of wisdom teeth in either this reflection of perfection
+[0:23 - 0:26] or within the general public is totally unquestioned.
+[0:26 - 0:31] No one suggests that this is abnormal in any shape, form or way.
+[0:31 - 0:36] This idea of 28 or 24 teeth is a starting point in all research.
+[0:36 - 0:41] It's what would be in any examination for dentistry or any dental subsection.
+[0:41 - 0:46] All the case presentations I've seen at orthodontic conferences have 28 teeth usually.
+[0:46 - 0:50] And of course, in marketing, and of course, I've got several models here.
+[0:50 - 0:52] This is advertising clear fixed braces.
+[0:52 - 0:56] This is advertising a type of low friction brace
+[0:56 - 0:56] that are not...
+[0:56 - 1:00] So I've got these three different models here
+[1:00 - 1:05] and all of them have 28 teeth, 28 teeth, 28 teeth.
+[1:05 - 1:09] And of course, I've even got this model behind me here that's got 28 teeth.
+[1:09 - 1:12] And, you know, I could buy models to show kids how to brush their teeth.
+[1:12 - 1:14] And again, they're going to have 28 teeth.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] 28 OR
+[0:03] प्र.
+[0:04] x ey
+[0:09] ARE NORMAL
+[0:11] HAS 28
+[0:13] GOOD
+[0:13] ARRANGEMENT,
+[0:15] re Gee hay |
+[0:19] ABSENCE
+[0:23] hae
+[0:24] GENERAL
+[0:27] (THIS IS)
+[0:33] ‘OR 24 TEETH
+[0:34] STARTING
+[0:38] EXAMINATION
+[0:41] SUBSECTION
+[0:43] ORTHODONTIC
+[0:45] asi
+[0:56] ANOTHER
+[0:56] -> 40२
+[1:01] Ga on—
+[1:01] HAVE 28
+[1:03] शहर
+[1:03] nfs ai]
+[1:03] 28 a |
+[1:05] २५ a
+[1:06] wee
+[1:06] _ let |
+[1:08] qe 1
+[1:08] GOT-28
+[1:09] AND YEAH
+[1:10] | COULD BUY
+[1:14] HAVE 28

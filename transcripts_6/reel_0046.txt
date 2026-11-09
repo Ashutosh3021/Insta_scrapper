@@ -1,0 +1,89 @@
+# model: ggml-large-v3
+========================================================================
+[46] https://www.instagram.com/reel/DWrWuzvDfXd/
+STATUS: OK
+DURATION: 1:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] As many of you know, understanding the true mechanics of oral posture and function
+[0:05 - 0:10] to improve facial health and structure requires time and careful application.
+[0:10 - 0:14] So it is essential that you are doing the right thing.
+[0:14 - 0:19] For example, many people push constantly with their tongue and believe they're mewing,
+[0:19 - 0:25] when in reality this can lead to confusion, problems and poor results over time.
+[0:25 - 0:29] So I think it is important to give you the opportunity to engage with me directly
+[0:29 - 0:34] to better understand your situation and to respond to your questions and problems.
+[0:34 - 0:40] To help guide you through this process, I will be hosting a live online Q&A session
+[0:40 - 0:44] where I will be addressing individual questions in more detail.
+[0:44 - 0:50] If you would like to take part, please email us using the address below and we will send you the details.
+[0:50 - 0:55] For this session, we are giving priority to our app users,
+[0:55 - 0:59] those who using the app already understand the fundamentals
+[0:59 - 1:03] which allows us to focus on the more advanced and meaningful discussion
+[1:03 - 1:06] rather than covering the basics, which I do too often.
+[1:06 - 1:11] By using the app, you are also helping to move the project forwards,
+[1:11 - 1:14] supporting our work and the wider community
+[1:14 - 1:20] so that it is only fair that we prioritize your time and your questions.
+[1:20 - 1:25] By engaging with you directly, I can better understand what information is still needed,
+[1:25 - 1:28] how to best present it so that we can maximize
+[1:28 - 1:32] the benefits of your time that you spend on the app.
+[1:32 - 1:35] We are also considering making this a regular fixture
+[1:35 - 1:40] so that we can help more people achieve better outcomes more consistently.
+[1:40 - 1:43] We will be selecting participants for this session.
+[1:43 - 1:47] There are limited numbers, so please send your interest as soon as possible.
+[1:47 - 1:50] Currently, we are limiting questions to mewing
+[1:50 - 1:53] rather than clinical orthodontic cases and problems.
+[1:53 - 1:55] I look forward to speaking with you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हैं. है
+[0:01] Nas |
+[0:02] THB TRUB
+[0:09] AXD GARERUL
+[0:11] fe oy
+[0:15] MANY PEOPLE
+[0:15] eA i
+[0:16] PUSH CONSTANTLY
+[0:21] ११२
+[0:22 - 0:24] 7१2
+[0:26] IT IS IMPORTANT
+[0:27] one
+[0:27] jTHE OPPORTUNITY
+[0:29] DIRECTLY
+[0:35] ray
+[0:36] ss ime.
+[0:37] Gees
+[0:38] HOSTING ANNE}
+[0:46 - 0:47] PLEASE EMAIL
+[0:48] Ths APPRESS
+[0:49] AND WE WILL
+[0:50] SED YOU
+[0:52] WB ARE GMNS
+[0:54] OUR APP USERS
+[0:56] MEMMUNGARRSO,
+[0:56] THOEE WhO USING
+[1:03] wis
+[1:04] for
+[1:04] RATHER THAN
+[1:09] meu
+[1:09] TO MOws
+[1:10] Th PReaasr
+[1:13] AND ths
+[1:14] eo ७
+[1:14] WIDER COMMUNI
+[1:17] ary
+[1:19] Ol ie
+[1:22] Gas
+[1:24] हुक
+[1:24] Jil
+[1:24] खिला
+[1:24] INFORMATION IS
+[1:26] Pics
+[1:26] HOW TO BEST
+[1:28] ISO THAT WE'CAN
+[1:30] Pia
+[1:30] OF YOUR TIME
+[1:31] THAT YOU SPEND
+[1:34] स्व
+[1:38] ras
+[1:43] FOR THIS
+[1:46] SEND YOUR

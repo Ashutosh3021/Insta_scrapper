@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[149] https://www.instagram.com/reel/DM1TpsEpCrr/
+STATUS: OK
+DURATION: 0:04   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] 2 मन S TO
+[0:00 - 0:03] @drmariasokolina
+[0:00 - 0:03] HOW COULD
+[0:00 - 0:03] YOUR TONGUE
+[0:00 - 0:03] SAVE YOUR LIFE?
+[0:03] 2 कस S TO

@@ -1,0 +1,315 @@
+# model: ggml-large-v3
+========================================================================
+[9] https://www.instagram.com/reel/DcWJkoUI8uj/
+STATUS: OK
+DURATION: 2:47   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Craniofacial dystrophy is a term to describe a situation when the jaws don't grow properly.
+[0:05 - 0:10] Most people call it the long face and I understand why. It's vivid. It's memorable.
+[0:10 - 0:16] You can picture it but it isn't precise because the same underlying development problem doesn't
+[0:16 - 0:23] produce one face. There's a thing people miss. The keflometric standards that orthodontists still
+[0:23 - 0:31] run on. That's the x-ray standards. Steiner, Tweed and Downs were almost entirely built on white
+[0:31 - 0:38] European ancestry samples. So when we say a long face what we're really saying is a deviation from
+[0:38 - 0:46] a caucasian baseline measured against caucasian norms. That's the yardstick. That's what the whole
+[0:46 - 0:53] field was calibrated to. But sub-optimal maxillary development doesn't read the same way in
+[0:53 - 1:01] every population. If people of African ancestry, it tends to show up as bimaxillary protrusion.
+[1:01 - 1:08] Both jaws and the teeth angled forwards are more convex profile, not the retrusive
+[1:08 - 1:15] vertical face at all. In East and Southeast Asian populations, you again see more bimaxillary
+[1:15 - 1:23] protrusion and a higher share of class III and midface patterns. In the European ancestry
+[1:23 - 1:31] populations, that's where the hyperdivergent maxillary excessive long faces with the class II
+[1:31 - 1:38] protrusion is most characteristically described. That's where the description came from because
+[1:38 - 1:45] that's who was being measured. Now I want to be careful here. This is not only white people get
+[1:45 - 1:53] long faces. That would be nonsense. A Brazilian multi-ethnic study found that the long face patterns exist
+[1:53 - 1:59] right across mixed groups. The problem is universal. But that's exactly my point.
+[1:59 - 2:06] If the problem is universal, but the presentation isn't, then naming the whole thing after one
+[2:06 - 2:14] population's presentation is a mistake. It's a strong evidence-based argument against
+[2:14 - 2:23] the long face spectrum as an umbrella term. Naming it by the shared cause instead is more inclusive.
+[2:23 - 2:28] It's the same thing as naming the whole thing. Naming the whole thing by the shared cause is
+[2:28 - 2:31] more inclusive. Naming the whole thing by the shared cause is more inclusive. Naming the whole thing
+[2:31 - 2:34] by the shared cause is more inclusive. Naming the whole thing by the shared cause is more inclusive.
+[2:34 - 2:38] Naming the whole thing by the shared cause is more inclusive. Naming the whole thing by the shared cause
+[2:38 - 2:42] is more inclusive. Naming the whole thing by the shared cause is more inclusive. Naming the whole
+[2:42 - 2:45] thing by the shared cause is more inclusive. Naming the whole thing by the shared cause is more inclusive.
+[2:45 - 2:46] Naming the whole thing by the shared cause is more inclusive. Naming the whole thing by the shared cause is more inclusive.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ३86
+[0:02] Bee |
+[0:03] at 5
+[0:09] ._॥७ vivic
+[0:11] hee)
+[0:13] ice
+[0:20] CEPHALOMETRIC STANDARDS
+[0:20] Jaa
+[0:20] aero
+[0:20] 52:4०
+[0:21] ete cron
+[0:22] iii oo
+[0:22] पिन
+[0:22] eet
+[0:22] orton
+[0:22] Been
+[0:22] oreo
+[0:22] Coie +नक
+[0:22] cores
+[0:22] Nata
+[0:22] फू rcanes
+[0:22] 5०6 ५०
+[0:22] Peo
+[0:22] ध्ट्प्फ्लट
+[0:23] न्ज््स्िज्
+[0:23] anid
+[0:26] aS ms
+[0:26] BX im
+[0:26] racing
+[0:26] कल operas ce
+[0:26] Pretest De goton ont se
+[0:27] 8. Downs)
+[0:27] 0 वजन
+[0:27] peered
+[0:27] & veo tamey
+[0:27] Oro wve
+[0:27] 0००० नल
+[0:27] (owen
+[0:27] Oven roe
+[0:27] eon
+[0:27] Overcast ne
+[0:27] wan
+[0:27] Me Ge
+[0:27] Otome none
+[0:27] cana
+[0:27] Fee
+[0:27] डरा... कक
+[0:27] हसन,
+[0:27] clan
+[0:27] ‘Suto
+[0:27] On 0pm
+[0:27] aan mst monte
+[0:27] Onesese ene
+[0:27] Ove ace 05
+[0:27] नमन
+[0:27] Omran cr-or
+[0:27] conse
+[0:27] ‘rm ection ae prt
+[0:27] USE: Eats over sata cet an aa pater,
+[0:27 - 0:28] cree)
+[0:27 - 0:28] roe —
+[0:27 - 0:28] Orange
+[0:27 - 0:28] were
+[0:28] DOWNS ANALYS!
+[0:28] (Wiliam 8. Downs)
+[0:28] 0 हनन
+[0:28] O नि मु
+[0:28] ccs
+[0:28] Ova
+[0:28] O recat ote
+[0:28] ran
+[0:28] Me के
+[0:28] O tweens
+[0:28] seanatpane
+[0:28] irony
+[0:28] eon ie
+[0:28] Ortmann
+[0:28] Fc वन
+[0:28] Oran Ao
+[0:28] omnes
+[0:28] JOrennenve
+[0:28] Orso siege
+[0:28] ०००००८॥/००४७//४/०//०
+[0:28] Orca et)
+[0:28] ors
+[0:28] Oaremnorecr
+[0:28] ‘rhc
+[0:28] anaes
+[0:28] USE: Eats ovr satan ३०७ acl pat,
+[0:28] “vont dreton and poe
+[0:33] Aas
+[0:33] bei
+[0:39 - 0:42] Caucasian baseline
+[0:40] हैः
+[0:42] ann}
+[0:46] WES Calibrabet
+[0:46] aia
+[0:48] fx 1
+[0:49] ५5८५
+[0:50] ENS
+[0:50] dad
+[0:54] 2st
+[0:54] 2 OF
+[0:54] Bays 25
+[0:54] 9४५४
+[0:54] Aas
+[0:54] ook
+[0:54] fas
+[0:54] प्र
+[0:54] A Ne
+[0:54] ८:20 oy
+[0:56] A 10201
+[0:57] essary 19
+[0:59] श्र ao
+[1:07] re Ae
+[1:08] खा ७
+[1:10] श्र
+[1:11] ‘a oie
+[1:13] ot 2
+[1:14] yy > 4
+[1:17] हित 91]
+[1:18 - 1:20] a deficiency
+[1:21] ace di
+[1:21] iciency
+[1:22] 185
+[1:23 - 1:24] a ‘2 oe wc
+[1:27 - 1:28] जब excessive
+[1:30] class
+[1:32] ‘obri
+[1:32] ४30
+[1:34] क्र —
+[1:34] chat
+[1:34] ically
+[1:34] cribed)
+[1:38] (par a
+[1:39] rom
+[1:40] wt e~)
+[1:42] fei
+[1:42] noe
+[1:47] sense
+[1:48] ese
+[1:48] नमः
+[1:48] aoe
+[1:48 - 1:50] @ Prevalence of long face pattern in Brazilian individuals of
+[1:48 - 1:50] different ethnic backgrounds
+[1:49] cea
+[1:49] pester
+[1:49] aaa
+[1:50] oer
+[1:50] Sa eet inn मल
+[1:51] wae
+[1:52] e} ७०
+[1:53] ere subtype was rare, except in Blaek indi
+[1:53] als (7.32%), who also p
+[1:53] Fequency (45.53%) of mo
+[1:53] rate subtype, follow
+[1:53] by छल individ
+[1:53] ) showed similar and high
+[1:53] al hhad greater prevalence of long face pattern, followed
+[1:53 - 1:54] HG (68.08%) and White individuals
+[1:53 - 1:55] The prevalence of long face pattern was 14.06% in which 13.3
+[1:53 - 1:55] ‘moderate and severe subtypes, respectively.
+[1:54] Results:
+[1:54] The severe subt
+[1:54] as rare, except iniBia
+[1:54] highest relative fre
+[1:54] vency (45.53%) of moderate sul
+[1:54] mild subtype, Yellow (
+[1:54] 8.08:
+[1:54] frequency valu
+[1:54] Conclusions: Blac
+[1:54] individuals had greater prevall
+[1:54] का Yellow individuals. The prevalence of long face}
+[1:54] belonged to moderate and severe subtypes,
+[1:54] Epidemiology; Long face pattern
+[1:55] its: The severe subtype was rare, except in Blatk individuals)
+[1:55] ast relative frequency (45.53%) of moderate subtype, followee
+[1:55] Subtype, Yellow (68.08%) andiWhite individuals (62.21%) sho¥
+[1:55] jency values.
+[1:55] dusions: Black individuals had greater prevalence of long fac
+[1:55] face pattern
+[1:56] ine’
+[2:00] 10000 है ९ dale 1६
+[2:00] CIO
+[2:03] INS)
+[2:05] fae
+[2:05] क्र
+[2:05] ning Gn
+[2:06] a Mad
+[2:06] hy My
+[2:06] Git
+[2:06] बना
+[2:06] Jake
+[2:06] ba a
+[2:06] Pep,
+[2:06 - 2:08] श्र
+[2:07] po dy?
+[2:07] १४ dy
+[2:07] fis
+[2:07] wer
+[2:07] ees,
+[2:07] beh:
+[2:07] fat
+[2:07] gly
+[2:07] Jew,
+[2:07] 65 ff
+[2:07] vont
+[2:07] 48% डे
+[2:07] See
+[2:07] sey के!
+[2:08] inci
+[2:08] 370
+[2:08] रस fy
+[2:08] lat +4 |
+[2:08] 01478
+[2:08] 121०
+[2:08] 7 dee
+[2:08] , he 8
+[2:08] Y oe
+[2:09] ine
+[2:10] Aw “4
+[2:12] fee
+[2:13] ten)
+[2:15] In subject area: Medicine and Dent
+[2:15] try
+[2:15] Long face syndrome, or adenoid facies, is defined 050
+[2:15] from chronic nasopharyngeal obstruction due to ader
+[2:15] ill mouth breathing, increased anterior facial hei
+[2:15] ‘mandibular dental arches.
+[2:15] definition based on: Snoring and
+[2:16] ‘Scholars Journal of Dental Sciences (8
+[2:16] “Abbreviated Key Te: Sch. J. eat Sch.
+[2:16] ‘Scholars Academic and Scientific Publisher
+[2:16] A Unitof 5०
+[2:16] ars Academic and Sete 3०5९७: In
+[2:16] sow spublisscom
+[2:16] A Literature R
+[2:16] r De. Mabesh Kumar ¥
+[2:16] ‘Head of the Department, Department of Orthodont
+[2:16] Hospital Sulla
+[2:16] aka
+[2:16] Profesor, Departmen of Ontodontes and Denton
+[2:16] Karnataka 108७
+[2:16] "Postauate Student, Department of Orthodontics and
+[2:16] Sallis Kamataka, 100७
+[2:16] “Abstract: Long fae का
+[2:16] {day onhndontst 10फ ६
+[2:16] juin
+[2:16] ‘evans unclear. Tis at
+[2:16] ale)
+[2:16] tesouces in
+[2:16] ‘De Natnata Ramesh
+[2:16] such patent in
+[2:16] google se
+[2:16] ren
+[2:16] Received: 14.12.2017
+[2:16] ‘Accepted: 22.1
+[2:16] Publ
+[2:17] \ Cae
+[2:19] iat
+[2:23] श्ला
+[2:24] feet
+[2:29] [By ect cong
+[2:30] Bee
+[2:30] [EB crate trophy
+[2:31] elon
+[2:32] “maxillary de
+[2:33] > 106 announ
+[2:34] CPS
+[2:38] ess it
+[2:40] किले
+[2:41] 62-1
+[2:41] rt AN
+[2:41 - 2:43] हनन
+[2:42] fae!
+[2:42] hoe
+[2:43] [Bl owen
+[2:44] alt

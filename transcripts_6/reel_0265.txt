@@ -1,0 +1,20 @@
+# model: ggml-large-v3
+========================================================================
+[265] https://www.instagram.com/reel/BZk-IHZljzT/
+STATUS: OK
+DURATION: 0:05   SPOKEN LANGUAGE: -
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no audio track in this video]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] co Me
+[0:00] 1८7१
+[0:01] wen
+[0:01] Sens
+[0:03] Bip.
+[0:03] wet
+[0:03] ore
+[0:04] ध्यडअ्ट
+[0:04] क्र

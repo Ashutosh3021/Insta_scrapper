@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[152] https://www.instagram.com/reel/DMLbyHxs4b7/
+STATUS: OK
+DURATION: 1:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] You know, we've found thousands and thousands, I mean, tens of thousands,
+[0:03 - 0:07] not hundreds of thousands of skulls of our ancestors have been found
+[0:07 - 0:09] from thousands or more different places.
+[0:09 - 0:12] And there's a really clear, obvious trend.
+[0:12 - 0:16] And it's clearly obvious that our ancestors had 32 teeth.
+[0:16 - 0:21] So the summary is that everyone used to have 32 teeth in the past.
+[0:21 - 0:23] So clearly, what's happening?
+[0:23 - 0:26] More importantly, where has the space gone?
+[0:26 - 0:28] Because if you didn't have space for your wisdom teeth,
+[0:28 - 0:30] or in case you didn't have wisdom teeth,
+[0:30 - 0:34] remember, historically, it was very, very rare to be missing teeth.
+[0:34 - 0:36] This is quite a modern thing to be missing teeth.
+[0:36 - 0:40] Maybe it's suppression of teeth because there's not space.
+[0:40 - 0:43] So that comes the problem, where has the space gone?
+[0:43 - 0:46] Because that's why most people get impacted wisdom teeth.
+[0:46 - 0:51] That's why most people get wisdom teeth problems, because they lack the space.
+[0:51 - 0:56] For 99.9% of humans' existence on this planet, we had the space.
+[0:56 - 0:58] We had those teeth coming in.
+[0:58 - 0:58] We conceived them.
+[0:58 - 1:01] We had those teeth coming out from the fossil or the skull records.
+[1:01 - 1:02] It was there.
+[1:02 - 1:07] Also, there's no other mammal of the, what, 5,400 different species of mammals,
+[1:07 - 1:12] no other mammal out there that seems to need these routine extractions like the humans do.
+[1:12 - 1:15] And, you know, crazy, all my fingers fit in my hands.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03 - 0:04] THOUSANDS
+[0:06] ANCESTORS
+[0:08] THOUSANDS
+[0:09] DIFFERENT PLACES
+[0:10] हिला
+[0:11] GQ 355)
+[0:11] CLEAR
+[0:12] (oer
+[0:14] OBVIOUS
+[0:15] OUR ANCESTORS
+[0:23] HAPPENING?
+[0:24] IMPORTANTLY,
+[0:25] (< rsh
+[0:28] yin.
+[0:31] HISTORICALLY
+[0:34] fee
+[0:35] MODERN
+[0:35] ee शी EEE
+[0:40] fi THAT: BECOMES.
+[0:45] IMPACTED
+[0:47] 7 DB
+[0:47] /) PEOPLE
+[0:48] PROBLEMS.
+[0:49] BECAUSE
+[0:51 - 0:52] 99.9% OF
+[0:55] ON Het PLANET.
+[0:56] WE HADiI
+[0:56] WSPACE
+[0:58] ay A
+[1:00] RECORDS

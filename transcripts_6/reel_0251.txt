@@ -1,0 +1,46 @@
+# model: ggml-large-v3
+========================================================================
+[251] https://www.instagram.com/reel/C3z1_uCtLzW/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] back in the day the rich were pale and the poor were tanned because they would work in the fields
+[0:05 - 0:10] because of this beauty standard people used to apply lead powder to look artificially more
+[0:10 - 0:16] attractive now because the rich people are able to enjoy the sun and people who work stay in offices
+[0:16 - 0:24] you have people applying fake tans kim kardashian thus seems attractive because scarcity brings
+[0:24 - 0:29] value she has an impossibly thin waist and an impossibly big bum and bust
+[0:29 - 0:35] this is extremely expensive to have even you don't like the way she looks you have
+[0:35 - 0:39] to say that she looks expensive because few people are able to get her procedures
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] he day
+[0:00] 7४ oo Va
+[0:01] the rich we!
+[0:01] 4 ria
+[0:02] awe
+[0:02] ~ Am as
+[0:02] the poor
+[0:03] ith tanned
+[0:06] ayy.
+[0:11] | Now, becaus
+[0:12] | are able
+[0:13] to enjoy
+[0:14] the sun
+[0:15] 1 who work
+[0:16] offices,
+[0:18] —__ LB BEEEEEEEESE
+[0:21 - 0:22] हूँ है
+[0:24] /AU-UE r
+[0:29] $3102
+[0:30] $79082
+[0:31] Ray
+[0:32] ९६ कर
+[0:33] like the way
+[0:34] she look:
+[0:35] to say that
+[0:36] expensive
+[0:37] ik people
+[0:38] to get
+[0:39] | procedures

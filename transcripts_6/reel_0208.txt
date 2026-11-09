@@ -1,0 +1,102 @@
+# model: ggml-large-v3
+========================================================================
+[208] https://www.instagram.com/reel/DCCTZ5aMG8s/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] so they tested them all for spectral issues and i think they were all clear that none of them had
+[0:07 - 0:13] particularly adhd then they sleep deprived them all they tested again and all of a sudden a large
+[0:13 - 0:19] number of them testing for adhd then they let them sleep properly and they're not testing for adhd
+[0:19 - 0:26] and if you've ever been with some kids who are really tired they become hyper they become very
+[0:26 - 0:32] similar to people with adhd so they hear the suggestion is that there's a component of being
+[0:32 - 0:39] this sort of very sleepy within adhd so it's related to sleep sort of breathing and also
+[0:39 - 0:45] what are we using to treat adhd you know we're using amphetamines we basically wake them up i
+[0:45 - 0:51] think it should be a concern that with medicine being segregated like it is that if a child you
+[0:51 - 0:55] know is presenting with what everyone is calling adhd and and that's just the default diagnosis
+[0:55 - 0:56] for that condition so i think it should be a concern that with medicine being segregated like
+[0:56 - 1:00] considerations of breathing and sleep problems.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] SLEEP 3
+[0:00] IN AND
+[0:00] ADHI
+[0:00] DR, DAVII
+[0:00] (OSH
+[0:01] | गज | 1
+[0:01] Pix
+[0:01] LEEP OFF
+[0:01] ७7५
+[0:01] तल की :
+[0:02] cen
+[0:02] TESTED
+[0:03] THE!
+[0:04] SS SPE
+[0:04] AL ISSUI
+[0:05] EY WEEE
+[0:06] mat
+[0:06] THAT _
+[0:07] not
+[0:07] ARLY
+[0:08] ties
+[0:08] ADHI
+[0:09] SLEEP
+[0:10] 4. ga
+[0:10] ALL.
+[0:12] A SUDDE!
+[0:13] NUMBER
+[0:15] dee
+[0:15] FOR ADHD
+[0:20] EVER BEEND
+[0:22] BAC. ARE ey
+[0:23] REALLY TIRED
+[0:24 - 0:25] THEY BECOME _
+[0:25] dae
+[0:26] ‘SIMILAR
+[0:27] TO PEO!
+[0:28] ल्‍्ू
+[0:28] woH ADHD
+[0:29] ate THE SUGGESTION
+[0:29] के *_a
+[0:30] ws THAT
+[0:30] प्र
+[0:32] ft ut
+[0:32] कर at
+[0:33] NER’
+[0:34] Ve कै
+[0:34] WITHIN
+[0:35] ADHD
+[0:37] SORT OF
+[0:38 - 0:39] \ ND ALSO F
+[0:40] Led
+[0:40] USING |
+[0:41] हुक.
+[0:42] ADHD
+[0:43] SAM PHETAMINES
+[0:46] ‘CONCERN
+[0:47] ते e
+[0:48] करे
+[0:49] ren
+[0:50] ० ai
+[0:51] ‘eel
+[0:53] | ADI
+[0:54] gel
+[0:56] bea
+[0:56] ‘CONSIDERATIONS
+[0:57] है 4)
+[0:58] 5 Ava
+[0:58] pp Stor
+[0:58] 2418,
+[0:58] चाय
+[0:58] HELP SUPPORT THE CAUSI
+[0:58] BY SUBSCRIBING TO
+[0:58] | THE MEWING APP BY MIKE MEW
+[0:59] TON
+[0:59] Google Play
+[0:59] IELP
+[0:59] SUPPORT
+[0:59] NUS:
+[0:59] INTE;
+[0:59] HE MEWING AP
+[0:59] MIKE MEW

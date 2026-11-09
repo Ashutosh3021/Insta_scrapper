@@ -1,0 +1,82 @@
+# model: ggml-large-v3
+========================================================================
+[39] https://www.instagram.com/reel/DXcKtwDDvbu/
+STATUS: OK
+DURATION: 0:25   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Are your kids growing forwards or down?
+[0:02 - 0:05] Growth moves in two directions.
+[0:05 - 0:07] I'm Mike Mew and direction matters.
+[0:07 - 0:12] Forward growth supports stronger facial structure and better airways.
+[0:12 - 0:16] Downward growth usually narrows the airway and your smile.
+[0:16 - 0:20] Posture, breathing and muscle balance influence this.
+[0:20 - 0:22] We shouldn't just wait and see.
+[0:22 - 0:25] We should guide development early.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 6R0WTH AGT: COMMA FRCL at,
+[0:00] slices ponsimons
+[0:00] vaRO FACIAL GROWTH. | DOWNER
+[0:00] १४४5:
+[0:01] FFFORWARDFCAL GROWTH, AGT COMNIA FACIL GOH,
+[0:02] FTFORNABOFACL EREWTH EH: DOWMWARO FACL कक,
+[0:03] vere
+[0:03] (Motor Devons)
+[0:03] (era Developmen
+[0:03 - 0:04] LEFT SIDE:
+[0:03 - 0:04] RIGHT SIDE:
+[0:03 - 0:04] DOWNWARD GROWTH
+[0:04] ed jap
+[0:04] (orzo! Bevlpment)
+[0:08] Fonwand growth
+[0:09 - 0:10] FORWAIRD GROWTH DIRECTION
+[0:12] CLINICAL DENTAL VISUALIZATION
+[0:13] 3. HARO PALATE
+[0:13] 1. MaXILL
+[0:13] Upper teat
+[0:13] owe th
+[0:13] 10 (७३0९४.
+[0:13] VERTEBRAE
+[0:13] 20010:
+[0:13] 8. TRACHEA
+[0:13] ESOPHAGUS
+[0:13] 1101 0५४)
+[0:16] ay) bey
+[0:16 - 0:17] ‘8: POOR POSTURE
+[0:17] ‘A: NEUTRAL POSTURE.
+[0:17] (FORWARD HEAD)
+[0:17] lar
+[0:17] fy 7
+[0:17] sorwaso \
+[0:17] AUGNENT sae)
+[0:17] soa
+[0:17] cur
+[0:18] noua vector
+[0:18] ००००
+[0:18] dig)
+[0:18] inconmecr
+[0:18] ‘Tongue पाक
+[0:18] [11711
+[0:18 - 0:19] ‘DOWNWARD
+[0:18 - 0:19] ‘VERTICAL
+[0:18 - 0:19] MARILLARY
+[0:18 - 0:19] EXCESS
+[0:18 - 0:19] MANDIBULAR
+[0:18 - 0:19] ROTATION TOWP.
+[0:18 - 0:19] RESTING LOW
+[0:18 - 0:19] POSITION
+[0:19] rows x
+[0:19] earner, | (rove rou
+[0:19] MOUTH
+[0:22] manent
+[0:22] uu. Ev
+[0:22] NAR
+[0:22] cau TTR
+[0:22] oer ex
+[0:22] esting (00
+[0:22] age
+[0:22] ana ate 0००००७७ - era
+[0:22] (CS mate |
+[0:22] 1110 10221
