@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[148] https://www.instagram.com/reel/DfxYKdRNi8w/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] every single year you have less and less friends but that one gay little boy is always there with
+[0:06 - 0:13] you let that gay little sweetie boy know that you love and appreciate them send this to that gay
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Every single year
+[0:00 - 0:14] Send this to your gay
+[0:00 - 0:14] a little boy | :
+[0:01] youl have less and
+[0:01] tia
+[0:01] wi ४
+[0:02] less friends
+[0:02] envi
+[0:02] Ths
+[0:03] ; but that one gay
+[0:04] ॥ little boy is always
+[0:04] 1 RAJANATE
+[0:04] पक्का
+[0:05] there with you.
+[0:05] /RAL.AR
+[0:07] fy ४
+[0:10] DP Grven nasawar
+[0:11] iy appreciate them.
+[0:11 - 0:13] j GAVIRAL. RAJAWAT
+[0:12] vate
+[0:12] cexvinnt RAUAAT

@@ -1,0 +1,47 @@
+# model: ggml-large-v3
+========================================================================
+[232] https://www.instagram.com/reel/DfucggSvuBD/
+STATUS: OK
+DURATION: 0:49   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] तीन कारण क्यों तुम्हें 2026 में सिंगल रहना चाहिए
+[0:02 - 0:04] पहली बात तो ये सारी लड़कियां चीट कर रही हैं
+[0:04 - 0:07] डोंट हेट दा गर्ल, हेट दा गेम है, गेम ही ऐसा है
+[0:07 - 0:10] उनको बात बॉयफ्रेंड है लेकिन तब भी वो चार लड़कों से बात कर रही हैं
+[0:10 - 0:10] पाँच �
+[0:10 - 0:40] पहली बात तो ये सारी लड़कों से बात कर रही हैं
+[0:40 - 0:44] और तुम जब standards नहीं meet कर पाओगे तो they'll cheat on you and they'll look down on you
+[0:44 - 0:47] so it is your decision if you want to date or not
+[0:47 - 0:49] मैं तो करूँगा because I want to play the game
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fal My
+[0:00 - 0:03] le = date in 2026 ><
+[0:01] ४४८५
+[0:02] पके
+[0:02] 6 datein ०2५९
+[0:05] ie date in — x
+[0:06 - 0:07] ia date in 2026 ><
+[0:08 - 0:09] (2 date in 026 X
+[0:10] é Don't date in 2026 >€
+[0:11 - 0:13] ‘ date in 2026 x
+[0:12] Don't ४५.८७ x
+[0:14] fe date in 20
+[0:15 - 0:18] Don't date in 2026 x
+[0:19] a date in 2026 ><
+[0:19] ११८
+[0:20] Don't date in i
+[0:21] Don't date in cue xX
+[0:22] may
+[0:22 - 0:48] [Ml Don't date in 2026 १९
+[0:27] Don't be 00% x
+[0:30] tial
+[0:31] ill
+[0:33] jad
+[0:41] a date in 2026 ><
+[0:44] Hy Mi
+[0:44] Don't al
+[0:44 - 0:46] n 2026 »<
+[0:46] y Don't datei

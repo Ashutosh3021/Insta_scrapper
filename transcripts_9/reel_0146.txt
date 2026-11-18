@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[146] https://www.instagram.com/reel/DfxYWvHtUMt/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] *Dramatic Music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:08] Bro | have diabetes type 2
+[0:01 - 0:06] GGAVIRAL,RAGAWAT
+[0:03] rig

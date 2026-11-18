@@ -1,0 +1,92 @@
+# model: ggml-large-v3
+========================================================================
+[155] https://www.instagram.com/reel/DfxXyPXNSSs/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] Everybody thought I was just breathing, but I was performing continuous oxidative phosphorylation across roughly 37 trillion mitochondria, shuttling electrons from NADH and FADH2 through complexes 2 to 5 of the electron transport chain, pumping protons to generate an electrochemical radiant, driving ATP synthesis to phosphorylate ATP plus P into ATP, while simultaneously reducing molecular oxygen to oxygen.
+[0:30 - 0:35] I was breathing water and exhaling the resulting CO2 from the citric acid cycle, making it look like I was breathing.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] AMY
+[0:00 - 0:18] j E breathing :
+[0:00 - 0:35] Everybody thought | was
+[0:01] है! was just breathing,
+[0:01] Ves
+[0:02] hk ut | was performing
+[0:02] FEN
+[0:02] at sz
+[0:03] wel |
+[0:03] nie
+[0:03] हैँ
+[0:03 - 0:04] ntinuous oxidativ
+[0:03 - 0:04] Bava
+[0:04] SAAN
+[0:04 - 0:05] fil
+[0:05] ZEN
+[0:05 - 0:06] है, phosphorylation across |
+[0:06] pz breathing है.
+[0:06] FAN
+[0:07] LAA
+[0:07 - 0:08] roughly 37 trillion हि
+[0:08] y: Ff;
+[0:09] | raitochontria;
+[0:09] wet P
+[0:10] ‘tling electrons jh
+[0:10] aa! t’ 7
+[0:10] CGAVIRAL RAJAWAT
+[0:11] ढक. का
+[0:11 - 0:12] from NADH and FADH2 |}
+[0:12] को 1!
+[0:12] i 28]
+[0:12 - 0:15] 60000
+[0:13 - 0:14] rough complexes 2 |}
+[0:15] of the electron
+[0:15] idl
+[0:16] transport chain,
+[0:16] प iy
+[0:16] ahs
+[0:16] Lim
+[0:16] vid
+[0:17] » pumping protons
+[0:17] Wai [४
+[0:17] hee
+[0:18] generate an
+[0:18] GAVRAL
+[0:19] electrochemical gradient,
+[0:19] ait
+[0:19 - 0:34] pe breathing ७
+[0:20] J sbovathing
+[0:20] 1 S&S
+[0:20 - 0:21] driving ATP
+[0:21] GAVIRAL
+[0:21] Set |
+[0:22] synthesis to
+[0:23 - 0:24] phosphorylate ADP + |]
+[0:24 - 0:26] y id
+[0:25] iv जज
+[0:25 - 0:26] P into ATP while
+[0:26] 80.0
+[0:26] Ui cS} \
+[0:27] ultaneously reducing
+[0:27] Set
+[0:27] 22:31
+[0:27 - 0:28] GAVIRAL RAJAWAT
+[0:28] * molecular oxygen to |)
+[0:29] ail
+[0:29 - 0:30] Ae water and exhaling
+[0:29 - 0:31] 80000
+[0:30] ZA breathing
+[0:30] Bae |
+[0:30] mea
+[0:31] the resulting CO2
+[0:31] fil
+[0:32] J from the citric acid cycle,
+[0:33] making it look like |
+[0:33] जे ६
+[0:34] was breathing. )
+[0:34] we Nd
+[0:34] F it
+[0:35] f posathing

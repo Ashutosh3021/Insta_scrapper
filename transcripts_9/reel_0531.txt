@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[531] https://www.instagram.com/reel/Der9hPyTqyF/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Who remembers back in physical education classes when we were small kids,
+[0:04 - 0:09] we used to have races and the teacher would get naked and chase us.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:08] J Listen till the end «+
+[0:03 - 0:04] ismall kids4Welusedito}
+[0:04] ter ag
+[0:04 - 0:06] fat
+[0:05] teacher
+[0:05] कै ही
+[0:05] atl
+[0:06] ae 2
+[0:06] Pil
+[0:06] ANY
+[0:07] would)
+[0:07] jae 1

@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[483] https://www.instagram.com/reel/DfevlcQt2Pt/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] गर्ल्स इस रील को स्किप कर सकती है
+[0:01 - 0:05] अगली विमेन और अगली मैन आर दा वन्स दा चीट अलाट
+[0:05 - 0:09] बिकॉस दा पर्सन दा टेक्स केर अफ हिस और हर बॉडी
+[0:09 - 0:12] तो उसको इतनी सेंस रहती है कि बाई मैं डिसिप्लेंड हूँ
+[0:12 - 0:12] मैंको डाइट लेनी है, मैंको वाकाउ�
+[0:12 - 0:15] में को डाइट लेनी है, में को वाकाउट करना है, में को अपने आप पर काम करना है
+[0:15 - 0:20] तो जब किसी वन्दे के बाद डिसिप्लिन रहता है ना, तो वो डिसिप्लिन के चलते चीट नहीं करता है
+[0:20 - 0:23] because he has control over his or her emotions
+[0:23 - 0:23] तो जितने भी अगली आपको लोग मिलेंगे ना, ये ही होत
+[0:23 - 0:28] तो जितने भी अगली आपको लोग मिलेंगे ना, ये ही होते हैं जो आपके जिंदगी में ड्रामा लाते हैं
+[0:28 - 0:34] और जो pretty लोग होते हैं, या फिर जो लोग अपनी take care करते हैं, वो ऐसा बहुत कम करते हैं, very less
+[0:34 - 0:38] अगर आप numbers भी उठा के देखो, तो अगली husband और अगली wife cheat
+[0:38 - 0:43] handsome people, हमेशा loyal रहते हैं, आपने देखा होगा, वो कई मूँ मारते नहीं ये दर उदर
+[0:43 - 0:48] बहुत कम होते होंगे, हाँ, there are exceptions, but this is the truth
+[0:48 - 0:51] so if you are dating someone, date with the standards, that is what I am saying
+[0:51 - 0:59] or it is very hard to get a loyal person, or if you get one, just don't cheat, that is my advice
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:41] 4) Ualy people cheat more
+[0:07] bik]
+[0:08] bie]
+[0:13] कर penple cheat more
+[0:16] श्र
+[0:19] Sab
+[0:21] Soi ~
+[0:25] Ug! sel cheat more
+[0:25] werd
+[0:25] जाकर
+[0:26] Pad
+[0:26] Ww a
+[0:27] की जय
+[0:30] Vie a
+[0:42] Ugly p
+[0:42] 208 cheat more
+[0:43] Ugly ene
+[0:43 - 0:47] रू people cheat more
+[0:45] aly eople cheat more
+[0:45] हें
+[0:48 - 0:58] Ral Ualy people cheat more
+[0:49] cad.
+[0:53] Ugly ron cheat more
+[0:54] 7 fl
+[0:55] Wet
+[0:56] \a है ७
+[0:56] हि.स

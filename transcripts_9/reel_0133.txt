@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[133] https://www.instagram.com/reel/DfxYyC1NdgP/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] And the most lonely person award goes to you.
+[0:03 - 0:08] This year also you were the most lonely person and we all love you.
+[0:08 - 0:12] We appreciate your achievement because not everyone can be social.
+[0:12 - 0:15] Someone needs to be a loser like you.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:14] Most lonely |
+[0:00 - 0:15] person award
+[0:01] m award g
+[0:02] Gc go
+[0:03] i lonely
+[0:04] कं हि
+[0:04] ््आी
+[0:04] ch ld
+[0:05] This year
+[0:05] है आप
+[0:06] are the most
+[0:07] person ave
+[0:07] श्र
+[0:08] love
+[0:09] any
+[0:09] करे
+[0:10] levement bh
+[0:10] rae
+[0:11] Pad
+[0:11] ree
+[0:11] bate’
+[0:12] wma है
+[0:12] eT id
+[0:13] ard
+[0:13] person =n
+[0:14] lik
+[0:14] Pal
+[0:15] a lonely
+[0:15] nild
+[0:15] Bal
+[0:15] wnat FB

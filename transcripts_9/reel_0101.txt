@@ -1,0 +1,77 @@
+# model: ggml-large-v3
+========================================================================
+[101] https://www.instagram.com/reel/Dfxbyext4AL/
+STATUS: OK
+DURATION: 0:23   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Indian guys will have a name like Ramachandran Krishnamurthy and still ask bro how did you
+[0:04 - 0:05] know I am Indian.
+[0:05 - 0:11] I don't know bro, your uncle's an engineer, there's a cricket match on in the background,
+[0:11 - 0:15] you hate Pakistanis even though you are watching the same cricket match they are currently
+[0:15 - 0:16] watching.
+[0:16 - 0:21] On top of that your cousin's wedding had 900 guests and you call it small?
+[0:21 - 0:22] Seems cool being Indian.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Indian guys will पर
+[0:00] have a name like
+[0:00] vat
+[0:00] war
+[0:00 - 0:22] Indians must
+[0:00 - 0:22] watch till end
+[0:01] ale
+[0:01] es पा
+[0:01 - 0:02] Ramachandran, “«
+[0:01 - 0:02] Krishnamurthy and |
+[0:02] Bre
+[0:02] Lit
+[0:03] still ask,
+[0:03] bro,
+[0:03] के हे
+[0:03] rd Sed
+[0:04] कक. के
+[0:04 - 0:05] how did you know I'm indian?
+[0:06] I don't know,
+[0:06] bro
+[0:06] ' ७ ot
+[0:06] oc get A
+[0:07] कक ब्लनर,
+[0:07] 2 OE सह सका
+[0:07 - 0:08] Your uncle's an engineer.
+[0:08] oe बाथो ४७-77
+[0:08] fre
+[0:09] re's acricket \
+[0:09] gst सा te
+[0:09 - 0:10] match on in the background.
+[0:10] one सा Ome.
+[0:11] a मे अर
+[0:11] 929 Wi जे,
+[0:11] 11९
+[0:11 - 0:13] You hate Pakistanis, _
+[0:11 - 0:13] even though you're
+[0:12] fie
+[0:12] ; i JRAJAWAT
+[0:13] oe te
+[0:13 - 0:14] so) SAVIRAL, RAUAWAT
+[0:14] watching the same _
+[0:14] cricket match
+[0:14] rad
+[0:15] they're currently watching.
+[0:15] AURAL Ra
+[0:15 - 0:16] oe ee
+[0:16] ss rod शा
+[0:16 - 0:17] On top of that,
+[0:16 - 0:17] your cousin's fs
+[0:17] है. हे
+[0:18] >> eon
+[0:18 - 0:20] wedding had 900 guesis,
+[0:18 - 0:20] and you call it small.
+[0:19] 91a Wi mon
+[0:20] << wa om
+[0:21] fed
+[0:21] ता ६
+[0:21] am ge BE
+[0:21] ve hie
+[0:22] Seems cool being Indiaii.

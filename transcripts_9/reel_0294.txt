@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[294] https://www.instagram.com/reel/DfrnNx8vuwq/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] भाई अगर तुम एक लड़के हो और अपनी लोक्स इंप्रूव करना चाहते हो ना तो ये वीडियो तुमारे लिए
+[0:04 - 0:08] देखो हैंसम दिखने के लिए तुम्हें महंगे कपड़े, एक्सपेंसिव प्रॉड़ाक्स या अच्छी जेनेटिक्स की जरूरत नहीं है
+[0:08 - 0:08] कुछ
+[0:08 - 0:14] कुछ basic चीजे हैं जिन पर काम करके तुम अपना overall appearance काफी जादा improve कर सकते हो
+[0:14 - 0:16] सबसे पहले अपना hairstyle साई करवाओ
+[0:16 - 0:19] हर किसी के उपर middle part ये textured fringe अच्छा नहीं लगता
+[0:19 - 0:21] अपने face के according haircut choose करो
+[0:21 - 0:23] तुसरा अपनी skin का ध्यान रखो
+[0:23 - 0:23] रोस face wash करो, moisturizer लगाओ और sunscreen बिलकुल मत बूलन
+[0:23 - 0:25] रोश वेशवास करो, moisturizer लगाओ
+[0:25 - 0:26] और sunscreen बिलकुल मत बूलना
+[0:26 - 0:29] clear और healthy skin तुमारे चेहरे को काफी fresh दिखती है
+[0:29 - 0:32] तीसरा अपनी eyebrows, beard और mustache को properly groom करो
+[0:32 - 0:35] चोटी चीजे तुमारे face को जादा clean हैं
+[0:35 - 0:36] presentable बना सकती हैं
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ज्यों
+[0:00 - 0:20] By How to look better as aA |
+[0:03] i tolook better as of
+[0:17] i‘ tolook better as <t
+[0:19] ti 2
+[0:21 - 0:29] z. How to look better as m:
+[0:24] ry y 4
+[0:25] थ Howt
+[0:27] aN How
+[0:28] है] How
+[0:30] D ya
+[0:30 - 0:33] ty How tolook better as rs
+[0:31] a ya
+[0:32] yr 2
+[0:34] yy Howt
+[0:34 - 0:36] a How to look better as ¢

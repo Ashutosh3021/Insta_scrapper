@@ -1,0 +1,54 @@
+# model: ggml-large-v3
+========================================================================
+[157] https://www.instagram.com/reel/DfxXtXgttrt/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] And just pretended like you didn't care
+[0:05 - 0:11] I don't know why, I run away
+[0:11 - 0:17] I'll make you
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] POY
+[0:00] =< Mot
+[0:00] g Crank
+[0:00] mai
+[0:00] expander
+[0:00 - 0:09] Unemployed NEET Male
+[0:00 - 0:17] 23 yr old
+[0:00 - 0:17] of the worlds first
+[0:00 - 0:17] 12 screw FME ©
+[0:01] कक्षा
+[0:01] 23 ५०6
+[0:01] maxilla TT
+[0:01 - 0:02] My Morning Crank
+[0:02] AAA
+[0:02 - 0:15] maxilla expander
+[0:03] Pity toring crank
+[0:03] man
+[0:04] \JAWAT
+[0:04] My Morning |
+[0:04] Noa
+[0:05 - 0:17] ly Morning Crank
+[0:08] कस ८
+[0:10 - 0:12] eaublnRmloyed NEET Male
+[0:11 - 0:13] eantdRMROved NEET Male
+[0:14] es NEET Male J
+[0:15] = Moi
+[0:15] 9 Crank
+[0:15 - 0:16] ewdngmmloyed NEET Male |
+[0:16] na Yy
+[0:16 - 0:17] expander
+[0:17] 2. RAL, RAAWAT
+[0:17] Unemployed NEET Male
+[0:18] है 4
+[0:18] alk
+[0:20] ॥ 4 RAJA
+[0:20] * आशा
+[0:21] uly
+[0:21] ose
+[0:22] कै ध
+[0:22] की Al
+[0:25] (GAVIRAL RAJAWAT

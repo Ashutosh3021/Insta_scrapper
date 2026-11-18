@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[509] https://www.instagram.com/reel/DezXMcuBQOt/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] मैंने एक जादू सीखा हूँ, मैं आपका माइंड पढ़ सकता हूँ, अपने दिमाग में अपने क्रश को सोचो, सोच लिया, अगर आप लड़के हो, तो आपका क्रश लड़की है, और अगर आप लड़की हो, तो आपका क्रश लड़का है, देखा?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] CGAVIRALRH J
+[0:01] ‘tas
+[0:01 - 0:12] Mind reading
+[0:02] CGAVIRALRA mY
+[0:03] VIRAL
+[0:07] wey
+[0:07] श्र
+[0:08] 5 AVIRALRA
+[0:08] किक
+[0:10] AVIRALRALANAT
+[0:11] IRALAAIANATAL

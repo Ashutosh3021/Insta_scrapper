@@ -1,0 +1,77 @@
+# model: ggml-large-v3
+========================================================================
+[482] https://www.instagram.com/reel/DfhSYXsvkWU/
+STATUS: OK
+DURATION: 0:47   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] जिस देश में जितना जादा religion होगा और जितना कम education होगा उतना ही जादा वहाँ का birth rate होगा उतना ही जादा वहाँ का crime rate होगा उतना ही जादा वहाँ का rape rate होगा और मैं एक किसी specific religion के बारे में नहीं कर रहा हूँ आप कोई सा भी example उठा के देख लो जहाँ पर बहुती ज
+[0:30 - 0:46] वहाँ के लोग grow करेंगे और आस्था भी रखेंगे और जहाँ पर बिल्कुल ही कम religion होता है और बहुत ही जादा education होता है वहाँ पर बहुत ही तेज grow होती है बहुत ही जादा तेज grow होती है और वहाँ पर लड़ाईया नहीं होती सबसे बात
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:09] More religion Less Education
+[0:01] wy भीम
+[0:02] More re
+[0:02] ॥ Less Education
+[0:07] ant
+[0:08 - 0:23] igion Less Education
+[0:09] sie
+[0:09] है 7
+[0:10] vomang
+[0:10] गजल
+[0:11] More religion Less ६
+[0:12] ” Yen
+[0:12] SAN 2
+[0:12] er ul
+[0:13] More re
+[0:13] कीं
+[0:13] श्री,
+[0:14] er ua
+[0:16] कांके.
+[0:17 - 0:19] More religion Less Education
+[0:18] Morere!
+[0:18] sie
+[0:18] fad
+[0:21] More re
+[0:21] ॥ Less ६
+[0:21] AN का
+[0:21] stn
+[0:22] रेस
+[0:23] 53004
+[0:23] ava
+[0:24] ee 0१७४४
+[0:24 - 0:27] More religion Less Education
+[0:25] More religion Le:
+[0:25] er al
+[0:26] हैं
+[0:26] geet
+[0:27] शोर
+[0:28] ail
+[0:28 - 0:31] Morerel
+[0:28 - 0:31] Less Education
+[0:30] More religion Less Education
+[0:31] हि की!
+[0:32] More religion Le:
+[0:33] er a
+[0:33 - 0:35] More religion Less Education
+[0:34] ee 0१७७"
+[0:36] als
+[0:36] ee ul
+[0:36 - 0:38] More re
+[0:36 - 0:38] ॥ Less Education
+[0:37] eit
+[0:38] बडे
+[0:38] 3000४
+[0:39 - 0:45] More religion Less Education
+[0:40] et ant
+[0:42] More re
+[0:42] in Less Education
+[0:43] ition
+[0:43] yan
+[0:45] हरी
+[0:45] ee ul
+[0:46 - 0:47] Morere!
+[0:46 - 0:47] Less Education
+[0:47] है. के
+[0:47] mail

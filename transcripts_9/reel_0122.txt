@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[122] https://www.instagram.com/reel/DfxZumUNjqW/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] She says sorry even when she sneezes, while you fart and blame on others. There is a difference.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] She says sorry even
+[0:01] e wr
+[0:02] when she sneezes,
+[0:02] a. “8४
+[0:03] while you fart and
+[0:03] hal
+[0:04] blame on oehers)
+[0:04] wb it
+[0:04] Pines
+[0:05] there is a difference.
+[0:05] 3६६

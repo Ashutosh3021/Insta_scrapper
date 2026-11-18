@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[258] https://www.instagram.com/reel/DfuF74MNEH_/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] कि सुन्दर कैसे लगे 8-9 घंटे सो चार लीटर पानी पीओ प्रोग्रेसिव ओवरलोड करो जिम में हमेशा अपने
+[0:06 - 0:12] बैक पर सो माउथ में टेप लगाकर सो रात में प्रॉपरली ऑप्टिमाइस सर्कैरियन रिथम करो 45 मिलिग्राम पोटैशियम
+[0:12 - 0:12] लोड डेली स्किन के
+[0:12 - 0:17] डेली, skin care करो, 3 ग्राम से कम salt लो हर दिन, 24 गंटे, 7 दिन
+[0:17 - 0:21] mewing करो, posture maxing करो, chin tucks करो, gym में जाके body fat
+[0:21 - 0:25] percentage घटा लो, resisted, mouth opening करो, हर kg के जाब से
+[0:25 - 0:30] 2 गोना protein लो, sunscreen लगाओ, tretinoin लगाओ, अच्छे से
+[0:30 - 0:33] dressing करो, optimize करो अपने micronutrients, sleep को track करो,
+[0:33 - 0:37] beta carotene लो, and teeth whitening strip लगा लो.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] fh ne
+[0:00 - 0:37] , How to look better
+[0:00 - 0:37] Part 3
+[0:02] oot
+[0:06] Sentence
+[0:07] A ly
+[0:08] etic”
+[0:08] moa
+[0:09] alien tnt
+[0:10] J ote तब.
+[0:11] nial
+[0:12] Ale
+[0:13] cme कर +..
+[0:13] OS lt
+[0:15] ttt
+[0:15] anaes a
+[0:15] Ve ate
+[0:16] trys
+[0:17] (EEE
+[0:17] yA मस
+[0:20] aba ee
+[0:21] rie
+[0:21] Nis
+[0:22] an 1 * जे
+[0:23] 1 wy
+[0:24] Sete वाह
+[0:25] Ly gaat
+[0:26] jae
+[0:26] (11 ८4, CaO
+[0:27] Oy cae
+[0:29] onl
+[0:29] » * lag
+[0:30] Se al
+[0:30] NEES
+[0:31] ceindenenme
+[0:34] A ie * By
+[0:35] a * ae
+[0:37] गंध":
+[0:37] MES

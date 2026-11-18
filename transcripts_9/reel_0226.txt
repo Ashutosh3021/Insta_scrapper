@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[226] https://www.instagram.com/reel/DfvWYegzTUF/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] तीस दिन में ग्लो अप कैसे करें?
+[0:01 - 0:04] स्किन केर के लिए क्लेंजर, मॉस्टराइजर, संस्क्रीन और कंसिस्टेंट रहो
+[0:04 - 0:04] हेयर के लिए हमेशा अपने बाल क्लीन रखो, दो बार हफते में ओइल लगाओ, स्काल्प की मसाज करो, ट्रिम करो रेगुलरली, फिटनेस के लि
+[0:04 - 0:26] hair care के लिए हमेशा अपने बाल clean रखो, 2 बार हफ्ते में oil लगाओ, scalp की massage करो, trim करो regularly, fitness के लिए 45 minute workout करो, push pull leg split follow करो, 10,000 steps daily चलो और active रहो, hydration के लिए 3-4 liter water पीओ दिन में, अपना दिन water के साथ start करो और sugary drinks जितनी भी ना उसे avoid करो,
+[0:26 - 0:39] nutrition के लिए high protein diet लो, साफ खाना खाओ, more fruits and more vegetables consume करो, sleep के लिए 7-8 गंटा सो, phone बैट के पहले छोड़ दो और अपना sleep schedule fix करो,
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] How to look better
+[0:00 - 0:01] Part 4
+[0:02 - 0:04] in 30 days
+[0:02 - 0:38] How to glow up
+[0:05] in 30 ae
+[0:06] in 30 49)5
+[0:07] aQx
+[0:07 - 0:38] in 30 days
+[0:10] /शै ८,
+[0:10] «०००
+[0:12 - 0:16] “GAVIRALRAJAWAT.AL >
+[0:15] 5 Qua
+[0:20] OQx
+[0:20] ori
+[0:23] न ae
+[0:23] » Lee
+[0:24] i Qe.
+[0:25] प्र
+[0:26] Ave ANA
+[0:26] ne के
+[0:27] = A qe
+[0:28] (GAVIRALRAJAWAT
+[0:30] Pia
+[0:31] VIRAL
+[0:34] ७ Qe

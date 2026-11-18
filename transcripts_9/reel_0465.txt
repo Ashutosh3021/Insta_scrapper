@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[465] https://www.instagram.com/reel/Dfhckn2vuBk/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] एक question आलू की मम्मी को क्या बोलेंगे, आलू की मम्मी को क्या बोलेंगे, आलू की मा, आलू के बाब को क्या बोलेंगे, आलू के बाब, आलू के बॉस को क्या बोलेंगे, क्या बोलेंगे, आलू की साबजी
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Aaloki
+[0:00] lo ke
+[0:00] Whina औआ
+[0:01 - 0:04] | Aalokimammi=aalo keema
+[0:03] Aaloki
+[0:03] lo ke
+[0:05 - 0:07] Aalo ka baap=aalo kebab
+[0:08 - 0:12] Aalo ka boss =aalo ki sabzi
+[0:10] é Ye a2. 4 :
+[0:11] बिक |

@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[533] https://www.instagram.com/reel/Der9fG1TAQm/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Life is like a day, sometime it's up, sometime it's down, sometime it's hard, and it is short, but it won't always be hard, because no matter what, you'll always beat it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:07] Life is like : dick
+[0:01] Hifehis|likefatdicks
+[0:02] १५ ६७
+[0:03] downy
+[0:04] Ihardland|
+[0:04] wet
+[0:05] Sava gi
+[0:06] lis short. |
+[0:06] a) Ny
+[0:06] ep है
+[0:07] (४ ie
+[0:08] Bubitywonst
+[0:08] 3 Dew}
+[0:08 - 0:09] Life is like tl
+[0:09] ihard|Because no}
+[0:09] als
+[0:10] बहा
+[0:10 - 0:12] Life is like 7 dick
+[0:11] bYouillfalways beatsity
+[0:11] PRN
+[0:11] all,
+[0:12] TniMeameaysheathi,
+[0:12] : Hee

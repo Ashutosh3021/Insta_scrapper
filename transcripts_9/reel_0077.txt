@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[77] https://www.instagram.com/reel/Dfy4U3XvVyp/
+STATUS: OK
+DURATION: 0:42   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] सुन्दर कैसे लगे?
+[0:30 - 0:38] टंग स्क्रेपर लगाओ, शारकोल टूथपेज लगाओ, माउथ वास करो, फ्लॉस करो, और वाइटलिंग स्ट्रिप्स लगा लो, और हमेशा कॉन्फिडेंट रहो.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:41] Perfect guide to look better
+[0:01] rtd
+[0:01] न्ग्ड
+[0:11] RALBALANATAL
+[0:14] RALRAANATAL
+[0:15] IRALAASAWAAL
+[0:15] eres
+[0:19] को 0
+[0:28] VACA

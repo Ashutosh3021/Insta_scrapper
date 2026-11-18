@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[259] https://www.instagram.com/reel/DfuAiUJN7zg/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] आपको लिटरली सुपर पावर है, आप एक्टिंग करके किसी दूसरी परस्टनारिटी बन सकते हो,
+[0:04 - 0:06] फ़र एक्जामल लड़की के लिए जेम्स पॉर्ण टाइप की परस्टनारिटी बन गया है,
+[0:06 - 0:07] लड़कों के लिए बहुती दादा बकचोद परस्टनारिटी बन गय
+[0:07 - 0:29] तो आप चाहो तो अभी अपनी personality change कर सकते हो लड़की के सामने आप बहुत ही ज्यादा toxic बन गए लड़कों के सामने बहुत ही ज्यादा caring बन गए मां के सामने बहुत ही ज्यादा loyal बन गए तो ऐसे आप अपनी personality serve कर सकते हो ये cheat code है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] . lay,
+[0:00 - 0:06] You can change your
+[0:00 - 0:06] character
+[0:01] wai
+[0:01] Kon
+[0:01] fie
+[0:02] हैं
+[0:02] Suwon
+[0:03] aia
+[0:05] Ros
+[0:05 - 0:07] Pod
+[0:08] roo
+[0:09 - 0:11] You can change your
+[0:09 - 0:11] character
+[0:14 - 0:19] You can change your
+[0:14 - 0:19] character
+[0:20] Poo
+[0:23] road
+[0:28] You can change your
+[0:28] character
+[0:28] a आय

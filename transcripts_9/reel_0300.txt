@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[300] https://www.instagram.com/reel/Dfrm9Div6-D/
+STATUS: OK
+DURATION: 1:11   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:29] आपने देखा हुआ जितने भी hot guys रहते हैं वो single रहते हैं और जितने भी average या भद्दे शकल के लड़के रहते हैं वो हमेशा committed या फिर उनके पास चार-पास options रहते हैं बई ऐसा क्यों?
+[0:30 - 0:59] बई ऐसा क्यों?
+[1:00 - 1:11] और उससे बहुत सारी लड़कियां shallow नजर से देखते हैं कि ये साला बहुती बड़ा हफसी होगा लेकिन हफसी वो नहीं है हफसी ये है जो medium शकल का लड़का है तो उल्टा पड़ जाता गेम
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 1:10] ,-y hot guys are single and average
+[0:00 - 1:10] looking guys are committed with the
+[0:00 - 1:10] A most loyal girl
+[0:08] ae कै
+[0:12] can @
+[0:23] oe oS.
+[0:27] vo A
+[0:31] ep 4
+[0:32] ad eo
+[0:37] ni a
+[0:38] oo 4
+[0:38] है a
+[0:39] w an
+[0:40] are
+[0:41] u YF
+[0:43] Y ao
+[0:44] cm) q
+[0:46] vu a
+[0:49] arg
+[0:52] ae q
+[0:53] aire
+[0:54] eva
+[0:58] om y j
+[1:05] aie

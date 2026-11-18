@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[433] https://www.instagram.com/reel/DfmJ-3Bt-0m/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: ur
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] تو میڈم امید ہے آپ ڈائپر بدلنے کے لیے تیار ہوں گی
+[0:03 - 0:05] ڈاکٹر صاحب بچہ لڑکا ہے لڑکی ہے
+[0:05 - 0:08] نہیں میڈم آپ کو سٹامک کینسر ہے
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] [ter as
+[0:00 - 0:02] _ “Well, | hope you're ready to change |
+[0:00 - 0:02] diapers.”
+[0:01 - 0:02] Doctor
+[0:03 - 0:05] Patient
+[0:03 - 0:05] “Isita boy ora girl?
+[0:04] —— “lsitaboy ora girl?”
+[0:04] Mir
+[0:06 - 0:08] No, ma’am. You have stomach cancer. »
+[0:09] हैः.
+[0:09 - 0:10] Patient

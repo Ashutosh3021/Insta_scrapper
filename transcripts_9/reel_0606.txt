@@ -1,0 +1,201 @@
+# model: ggml-large-v3
+========================================================================
+[606] https://www.instagram.com/reel/DaZ6i6WPNm7/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] You need to see how to build your first WhatsApp AI agent in under 30 seconds.
+[0:03 - 0:05] You send a message via WhatsApp.
+[0:05 - 0:06] What are the benefits of an AI agent?
+[0:06 - 0:10] The AI agent reads it, uses ChatGPT to generate a smart reply,
+[0:10 - 0:11] and sends it right back to you.
+[0:11 - 0:12] This is how to easily build it.
+[0:12 - 0:15] Start by adding WhatsApp, then connect the AI agent.
+[0:15 - 0:17] It needs a brain, and that's ChatGPT.
+[0:17 - 0:19] To use it, just log into your account.
+[0:19 - 0:21] I walk you through it step by step on my YouTube.
+[0:21 - 0:23] The final step is simple: connect WhatsApp again,
+[0:23 - 0:24] so the agent can send replies back to you.
+[0:24 - 0:26] If you want to dive deeper, join my community.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Disease LO
+[0:00] fool
+[0:00] shoe Tee =
+[0:00] come
+[0:00] You need to
+[0:00 - 0:03] Al CHATBOT
+[0:01] Diese es
+[0:01] ESS
+[0:01] your first
+[0:01] er J
+[0:01 - 0:03] nape Tiger
+[0:01 - 0:03] Te ee
+[0:02] (७ ००७० ५०० t-{@ ft
+[0:02] Al agent in
+[0:02] EAI)
+[0:03] 2 vss apt stat
+[0:03] ७० aaa
+[0:03] coer
+[0:03] under 30s.
+[0:03] लाना
+[0:04] icy 5 ]
+[0:04] 8 message
+[0:04] हट भर
+[0:04] * GAC)
+[0:05] What are the
+[0:05 - 0:07] Sindee
+[0:05 - 0:09] ws थे
+[0:06] न ce @
+[0:06] है vp hw
+[0:06] wna
+[0:06] Al agent?
+[0:07] ‘onetime ann
+[0:07] peng
+[0:07] agent reads it
+[0:08] i ger
+[0:08] ats Tage
+[0:08] ws 8
+[0:08] eric
+[0:08] ChatGPT
+[0:09] 2 तक Agent stato
+[0:09] ements
+[0:09] roan
+[0:09] है नमन
+[0:09] ‘Ors
+[0:09] ime
+[0:09] Sanden
+[0:09] potion
+[0:09] ५ @ somes
+[0:09] a smart reply
+[0:09 - 0:10] coger
+[0:10] neon ©
+[0:10] 2 vnsspp लाए ९४०४०
+[0:10] wens Ean
+[0:10] bowen
+[0:10] लक से
+[0:10] ५ क renee
+[0:10] 5०३
+[0:10] eee
+[0:10] विषय
+[0:10] cay aca,
+[0:10] ‘Seesiesaranan cr
+[0:10] ayy
+[0:10] ‘Sipe ocr
+[0:10] mrs
+[0:10] erat
+[0:10] and sends it
+[0:11] This is how
+[0:11] ind
+[0:12] + Add tag
+[0:12] inactive @
+[0:12] Sunwin
+[0:12] paren
+[0:12] Editor
+[0:12] What triggers this workflow?
+[0:12] A trigger is a step that starts your wo
+[0:12] @ _WhatsApp Business Cloud
+[0:12] build it.
+[0:12] es J
+[0:12 - 0:13] | ५" Whatsap|
+[0:13] 5k wasn sommt stottg nice के
+[0:13] emcees eens
+[0:13] WateApe ger
+[0:13] + aaa
+[0:14] hate ©
+[0:14] Sk vamp saint Aste
+[0:14] 4 Aree
+[0:14] Bhatia
+[0:14] nso
+[0:14] + tee
+[0:14] Bogen
+[0:14] ७ ere
+[0:14] Pert
+[0:14] pou-
+[0:14] जब Troe
+[0:14] Grey
+[0:14] bot coma
+[0:14] then connect the
+[0:14 - 0:15] ‘What happens next?
+[0:15] SS 5 mete tin ००००. () MD ५
+[0:15] ©. Agent
+[0:15] | are
+[0:15] a(o}e
+[0:15] धर 799०
+[0:15] It needs 9 brain
+[0:15] छाबाबान
+[0:15 - 0:16] ~ ees
+[0:16] and that's |
+[0:16 - 0:18] WatsApe ger
+[0:17] See ED
+[0:17] ० (बराक Models
+[0:17] ©. onal
+[0:17] क कट का
+[0:17] AN हा 0०:7...
+[0:17] To use it,
+[0:18] Aine eo TSO
+[0:18] 3 just log into
+[0:19] INPUT | ५००" Parameters Settings
+[0:19] दाता to connect with
+[0:19] शा 2
+[0:19] From ist
+[0:19] pA ink
+[0:19] ‘Aas Option
+[0:19] ४०७: you through it
+[0:19] te १
+[0:19 - 0:20] € Back to canvas
+[0:19 - 0:20] © ChatcPT
+[0:19 - 0:20] ‘Ad Option
+[0:19 - 0:20] No properties
+[0:19 - 0:20] (From the eartest 0,
+[0:20] INPUT
+[0:20] Mapp
+[0:20] Parameters
+[0:20] Settings
+[0:20] Credential to connect with
+[0:20] ‘Openai account 2
+[0:20] Model
+[0:20] Foes
+[0:20] step by step
+[0:20] No inp
+[0:21] ewes Sette
+[0:21] CHEF ge
+[0:21] The final step
+[0:21] feito
+[0:22] Sk wpe aint sAcetn
+[0:22] Sewers
+[0:22] sean, erence
+[0:22] लानत गम
+[0:22] @ Seen
+[0:22] 322
+[0:22] बनने
+[0:22] ह पडता,
+[0:22] yp tow
+[0:22] Ten meat «०
+[0:22] & etiramemtemnroteee
+[0:22] ‘anor et
+[0:22] {impose ton Wenn
+[0:22] WhatsApp again
+[0:22 - 0:23] ‘Whathappens next?
+[0:23] wae
+[0:23] © wrsstep ous Cons
+[0:23] wm Ge =
+[0:23] the agent can
+[0:24] coe Ecce eens
+[0:24] जम कक,
+[0:24] ( 7 ) back to you.
+[0:24] mew
+[0:24] Call
+[0:25] 2 vsspp sae natn
+[0:25] cme @
+[0:25] > eel
+[0:25] to dive deeper.
+[0:25] Bees
+[0:26] 2222 000 0 ISO
+[0:26] iy mnie |
+[0:26] WnatsApp Tae
+[0:26] send mens
+[0:26] ‘remap
+[0:26] community.

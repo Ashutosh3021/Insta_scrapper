@@ -1,0 +1,74 @@
+# model: ggml-large-v3
+========================================================================
+[610] https://www.instagram.com/reel/DaRPHz9oz_w/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:14] I accidentally made the next billion dollar app. This is story.ai. What it does, Netflix like stories in under 10 to 15 seconds. So for example, if I want to watch a story about castle, this is the story. Join the wait list.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] l accidentally made the
+[0:00] 00-14
+[0:00 - 0:13] This video is only 15 seconds |.
+[0:00 - 0:13] (and will change your life) हज
+[0:01] next billion dollar app.
+[0:01] Peed the gs
+[0:01] Imaginatic
+[0:01] जिला
+[0:02] * Story al
+[0:02] HOSE
+[0:02 - 0:03] This is story.ai.
+[0:03] (00:11
+[0:04] eye omege
+[0:04] 7222 oer cre eect ces,
+[0:04] eno
+[0:04] ‘sor sungmi conpia wh Goce ०
+[0:04] 00:10
+[0:04] J! oe Ale Hs
+[0:04] 87 N W
+[0:04 - 0:05] Ty what it does, Netflix |
+[0:04 - 0:05] Unleash Your Imagination
+[0:05] ‘Synod erat erect,
+[0:05] enon caro ५
+[0:05] rave
+[0:05] na en ० >>«न्‍क«»ल
+[0:05] momen san
+[0:05] Ms = outs
+[0:05] ea 5
+[0:06] like stories in under 10
+[0:07] 8 ike stories in under 10 * like stories in under 10 ‘a
+[0:07] 4 00:07
+[0:08] to 15 seconds.
+[0:08] oe er
+[0:08] Is we
+[0:08] Prise
+[0:09] Eo So for example, if ! mrs
+[0:09] Seema er
+[0:09] cro
+[0:09] Pre वथ
+[0:10] BBM want to watch a story की want to watch a story nu
+[0:10] nee
+[0:10] +. छिठडे
+[0:10] 400:04°
+[0:10] Pup
+[0:11] BF about castle, thisis the है Castle, this is the
+[0:11] mye
+[0:11] 1 Ol
+[0:11] 3 (0:03
+[0:11] Prissy
+[0:11] Par
+[0:12] about Castle, this is the
+[0:13] Ace
+[0:13] है न
+[0:13] + 00:01
+[0:13] ha ०
+[0:13] aed)
+[0:14] join the wait lis
+[0:14] | tat tig,
+[0:14] “ Your Imagination
+[0:14] moma
+[0:14] (०७५७ ७ ०७०७,
+[0:14] rage.
+[0:14] Payee

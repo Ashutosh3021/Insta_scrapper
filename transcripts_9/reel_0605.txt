@@ -1,0 +1,376 @@
+# model: ggml-large-v3
+========================================================================
+[605] https://www.instagram.com/reel/DaZ6fphPTwM/
+STATUS: OK
+DURATION: 0:41   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] This is how to add Google Sheets to your WhatsApp AI agent in under 30 seconds.
+[0:03 - 0:07] Firstly, click on the plus icon under Tools and search for Google Sheets.
+[0:07 - 0:10] Then, under Documents, select By URL.
+[0:10 - 0:14] Uncopy and paste the URL of your Google Sheets document.
+[0:14 - 0:17] Afterwards, you need to select the desired sheet.
+[0:17 - 0:20] Simply choose the appropriate sheet from the drop-down menu provided.
+[0:20 - 0:22] Then, return to Canvas.
+[0:22 - 0:25] Select the AI agent and provide it with the new prompt snippet,
+[0:25 - 0:28] which instructs the AI agent to utilize Google Sheets.
+[0:28 - 0:30] Now, let's verify whether it works.
+[0:30 - 0:33] I'll ask the AI agent for Kevin's email.
+[0:33 - 0:35] Excellent. It worked seamlessly.
+[0:35 - 0:40] Here, you can observe the process happening in the background when the message is received.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ‘smote भरा? Atom es
+[0:00] 4 re ©
+[0:00] hon
+[0:00] hat Rode
+[0:00] Moto
+[0:00] This is how
+[0:00 - 0:02] Tools Agont
+[0:00 - 0:03] \WhatsApp Message
+[0:00 - 0:03] Receiver’
+[0:01] ‘smote आजा हजरत ces
+[0:01] WhatsAp,
+[0:01] ‘hat
+[0:01] अब Te
+[0:01] Ret
+[0:01] Sheets
+[0:01 - 0:03] = हिलन
+[0:01 - 0:03] Alagentin &
+[0:02 - 0:03] Sse radon Aon ees
+[0:02 - 0:03] 4 ne ©
+[0:02 - 0:03] cat Re
+[0:03] Tools 46०6
+[0:03] em q
+[0:03 - 0:04] under 30s. &
+[0:04] जी tig tne
+[0:04] asp asioe
+[0:04] Lees tay
+[0:05] pou
+[0:05] ‘Send WhatsApp
+[0:05] Al Chat Model
+[0:06] ets
+[0:06] saves
+[0:06] Q bearch nodes,
+[0:06] | seroma
+[0:06] call nn ५
+[0:06] Uses my PD rion aa ७०५ tows
+[0:06] Too!
+[0:06] ‘packaging any nBn nodes) as 9 ३९०.
+[0:06] gf 0288 T00!
+[0:06] Wire atcotin 48 or Ptnon
+[0:06] HTTP Request Too!
+[0:06] ‘Model Context Protocol
+[0:06] fy MOP Client Too!
+[0:06] icon under tools
+[0:06 - 0:07] + Ada tag
+[0:06 - 0:07] inactive @
+[0:06 - 0:07] ator
+[0:06 - 0:07] 3S Tools
+[0:07] ats
+[0:07] [stare] saves
+[0:07] 2 goose)
+[0:07] aoe ]
+[0:07] Use ne Goo
+[0:07] Google Chat Too!
+[0:07] ‘Consume Google Ghat AP
+[0:07] Google Books Too!
+[0:07] ‘Consume Googie Does APL
+[0:07] Read data rom Google Books
+[0:07] Google Drive Too!
+[0:07] Accossdataon 08896 rive
+[0:07] Google Tasks Tool
+[0:07] Google Sheets.
+[0:07] = Hoan, ७0७७ ana wine cata o Wooais Shests
+[0:08] ‘Then under
+[0:09] € 8००४७ कन्‍न्‍क,
+[0:09] sw इनक
+[0:09] coop Sees
+[0:09] Nobo!
+[0:09] documents, select
+[0:10] Settings
+[0:10] Set Autor
+[0:10] 0००७
+[0:10] 009७०
+[0:10] wy 7 by URL
+[0:10 - 0:11] B Google Sheets
+[0:10 - 0:11] Does e
+[0:10 - 0:11] ‘Sheet Within Document
+[0:10 - 0:12] Ccredenia ७ eonnact wth
+[0:10 - 0:12] Fromust. ७
+[0:10 - 0:16] ‘Get Rows)
+[0:10 - 0:21] ‘Google Sheets account
+[0:10 - 0:21] Too! Description
+[0:10 - 0:21] Resource
+[0:10 - 0:21] ‘operation
+[0:11] Parameters Settings
+[0:11] Set au
+[0:11] cally
+[0:11] noose.
+[0:11] fe as q
+[0:11 - 0:12] win Document
+[0:11 - 0:12] sy URL
+[0:11 - 0:12] © | ter URL
+[0:11 - 0:21] ‘Sheet
+[0:12] View History Bookmarks Profiles
+[0:12] Tab Window Help
+[0:12] gen
+[0:12] mple WhatsAnp Autom!
+[0:12] zel0501.app.n8n.cloud|workfio
+[0:12] 368¥puhmDB3xO
+[0:12] choose.
+[0:12 - 0:13] edit
+[0:12 - 0:14] कह n8n Tutorial - Google Sheets
+[0:12 - 0:21] ‘Set Astomsatiaty
+[0:13] Histor
+[0:13] Bookmarks:
+[0:13] Profiles
+[0:13] Tab
+[0:13] Window
+[0:13] Help
+[0:13] hat
+[0:13] fttps:/docs.google.com/spreat
+[0:13] हे ts/d/I6CBChOsxATICO:
+[0:13] — कै 7-२
+[0:13] kevin
+[0:13] Gender
+[0:13] Class Lovel
+[0:13] Home State
+[0:13] Extra
+[0:13] Major
+[0:13] Female
+[0:13] Senior
+[0:13] English
+[0:13] Dram
+[0:13] Freshman
+[0:13] ‘Math
+[0:13] Lacrd
+[0:13] Bask
+[0:13] Base
+[0:13] Sophomore
+[0:13] [mate
+[0:13] Malo
+[0:13] 3. Junior
+[0:13] ant
+[0:13] Deba
+[0:13] Track
+[0:13] Lace
+[0:13] Physics
+[0:13] 098०
+[0:13] 0०००
+[0:13] Drax
+[0:13] of your Google ४
+[0:13] 385०
+[0:13] Lact
+[0:13] frac
+[0:13] acre
+[0:13] mens
+[0:14] Settings
+[0:14] Cresent (७ connect th
+[0:14] 1 Fm ।
+[0:14 - 0:16] ‘Sheet Wain Document
+[0:14 - 0:21] Does e¢
+[0:15] B Google Sheets
+[0:15] ॥#४ए५०७५३७४००७७७६5७५77००७७७०-०#क०-० oh छ.
+[0:15] Afterwards,
+[0:15 - 0:17] Fromist. ०
+[0:15 - 0:17] choose.
+[0:15 - 0:21] Parameters Settings
+[0:15 - 0:21] Credential to connect with
+[0:15 - 0:21] ‘Sheet Within Document
+[0:15 - 0:21] Document
+[0:15 - 0:21] By URL
+[0:16] = Googe ness
+[0:16] ‘redentia ३७ connect wih
+[0:16] ‘et Auton
+[0:16] Docu
+[0:16] the desired
+[0:16 - 0:19] From ist 3 Choose,
+[0:16 - 0:20] —ntpsidoes goose con/spreadshoetsanecechosed 3 EE
+[0:17] Lies oe de
+[0:17 - 0:21] ‘oot Rows)
+[0:18] ७०३२० ce Lol
+[0:18] Settings
+[0:18] Fea ep
+[0:18] === the appropriate
+[0:19] See
+[0:19] ‘et Rows)
+[0:19] Fea apa
+[0:19] from the dropdown
+[0:20] Federer
+[0:20] From ist ०
+[0:20] choose.
+[0:20] menu provided.
+[0:21] ७ २०-30 तन्‍-
+[0:21] hitps:/does goa com/spreadsheets/anéCBchosxd| op
+[0:21] सख्त ©
+[0:21] acti
+[0:21] ners
+[0:21] ‘Curent itams exist
+[0:21] Then return
+[0:21] Combine Fiters
+[0:21] ‘ano
+[0:21] Options
+[0:21] No popertios
+[0:22] “Ww | Googie Sheets,
+[0:22] Put et Rann अन्‍य
+[0:22] ese
+[0:22] Some
+[0:22] tee
+[0:22] cnet
+[0:22] fae
+[0:22] aan
+[0:22] (लाया
+[0:22] nop
+[0:22] Pony
+[0:22] to canvas.
+[0:22] eT q
+[0:23] Sse भारत न
+[0:23] name @
+[0:23] — सिम
+[0:23] sepsis
+[0:23] Send Wiahgp ese
+[0:23] Cod
+[0:23] AS Al age
+[0:24] rer
+[0:24] sonora yn
+[0:24] fore)
+[0:24] none
+[0:24] with the new
+[0:24] bes.
+[0:25] “Tp: Gata fe! for agents with our quick ov or ee an wane of tow
+[0:25] Today is: (Cnew vateQ 3)
+[0:25] {CSC!whatshon Message Receive
+[0:25] ) Aten. jgonceontacts(a] ro
+[0:25] eau Spectc Ouput Format
+[0:25] IN s
+[0:25] ‘Automatically Passtvouah Binary manos
+[0:25] prompt snippet,
+[0:25] ome
+[0:25 - 0:26] ‘fHecmame 33: (( $$on.messages[0} text body 3),
+[0:25 - 0:27] & Al Agent
+[0:25 - 0:27] Settings.
+[0:25 - 0:27] Docs we
+[0:25 - 0:27] mis node works
+[0:25 - 0:27] Source for Prompt (User Message)
+[0:25 - 0:27] Detine below
+[0:25 - 0:27] Prompt User Message)
+[0:25 - 0:27] ‘You are ay assistant. Reply concisely to this message fron
+[0:25 - 0:27] ‘a Option
+[0:26] “Tip: Got. fel for agents with our quick ७॥७॥७॥ 0( 386 an ७३३१ of how
+[0:26] Ea erst
+[0:26] Today 15: (new Date() 3).
+[0:26] (६ $('#॥#६७४७७ Message 8७८७, ५५
+[0:26] ) :108॥८18०१:६०१ ७
+[0:26] tof
+[0:26] Today is:
+[0:26] 10३६6: 2025-05-00718:03:49,406402:00)
+[0:26] Tip: execs
+[0:26] which instructs
+[0:26] ‘Aaa Option
+[0:26 - 0:27] esut
+[0:26 - 0:27] trom
+[0:26 - 0:27] [execute node imatsApp Message Received” for preview}
+[0:26 - 0:27] Texocote previous nodes for previen!
+[0:27] Tip: Get a fee! for agents with our quick 1tor8! OF $00 an example Of HOW
+[0:27] Eas exrsson
+[0:27] You ar
+[0:27] ty assistant
+[0:27] Reply concisely to this messags
+[0:27] tron
+[0:27] €C-SCvmtsApp message Recoived") item 1३०0 -६००:४८६४(७] 0०
+[0:27] f8lecmane J}: (६ S$t0n.messages(0] text:body 33
+[0:27] ‘You have now access to ny class List in google x
+[0:27] Ther
+[0:27] 6 you can find att information about my students
+[0:27] temo
+[0:27] Today is: (Uater/2025-05-06728:08:59.155+02:00)
+[0:27] Tp: Execute previous
+[0:27] tou
+[0:27] ize
+[0:28] Google Sheets.
+[0:29] ‘Sie vA १७७० et
+[0:29] seg te @
+[0:29] 07“ “7
+[0:29] Now let's verify
+[0:29] er: q
+[0:29 - 0:30] alle
+[0:30] न न Asin ce @
+[0:30] — बने
+[0:30] whether it works.
+[0:31] Sep vn
+[0:31] san you a
+[0:31] for today at tpm my
+[0:31] barber ap
+[0:31] essful
+[0:31] led
+[0:31] ape
+[0:31] int
+[0:31] cored
+[0:31] lbmlen
+[0:31 - 0:32] mets
+[0:31 - 0:33] PMU!
+[0:31 - 0:36] ALAgent
+[0:31 - 0:36] intment |
+[0:32] Sip nde
+[0:32] iment i
+[0:32] 1 10
+[0:32] Omi
+[0:32] pm my
+[0:32] wr १००
+[0:32] ibm
+[0:32] mal
+[0:32 - 0:33] ful
+[0:32 - 0:34] comes
+[0:33] ‘Can you ad for today at pr
+[0:33] है arbor a today rent it's 30min long
+[0:33] ber a
+[0:33] 0100
+[0:33] ral
+[0:33] ats
+[0:33 - 0:34] our appointment
+[0:33 - 0:34] ‘email?
+[0:33 - 0:35] ‘Sipe nto Atom ts
+[0:33 - 0:35] your ap
+[0:33 - 0:35] evi
+[0:33 - 0:36] shop Messe
+[0:34] ‘Spe भाजपा Atom ts
+[0:34] ‘What's is Kevir
+[0:34] Kevin's email ad
+[0:34 - 0:35] ointme
+[0:34 - 0:36] from 1:00 PN
+[0:35] hed
+[0:35] sm 1:00 PM to
+[0:35] ‘email 3068५
+[0:35 - 0:36] ‘What's is Kevin's email?
+[0:35 - 0:36] Kevin’
+[0:36] sion
+[0:36] Atoms
+[0:36] Your barber appoint
+[0:36] ess
+[0:36] ly sched
+[0:36] May
+[0:36] lew your ap
+[0:36] ent
+[0:36] pha
+[0:36] DIOMDC
+[0:36] गति
+[0:36] ail ac
+[0:36] smal
+[0:36] प्र
+[0:37] Goi aoe ical
+[0:37] the process
+[0:37] हैः
+[0:38] happening
+[0:38] alle
+[0:38 - 0:39] ‘Siro vA ast
+[0:39] — अन्‍न्‍«न
+[0:39] sss Mesae
+[0:39] sos ion esane
+[0:39] in the background
+[0:40] ee ee es
+[0:40] ary
+[0:40] asso पटल
+[0:40] mie
+[0:40] Cs received

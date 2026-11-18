@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[558] https://www.instagram.com/reel/DdHih8ytzlK/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: nn
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] 1/4 tsk salt
+[0:02 - 0:04] 1/4 tsk pepper
+[0:04 - 0:06] 1/4 tsk pepper
+[0:06 - 0:08] 1/4 tsk pepper
+[0:08 - 0:10] 1/4 tsk pepper
+[0:10 - 0:12] 1/4 tsk pepper
+[0:12 - 0:14] 1/2 tsk salt
+[0:14 - 0:16] 1/2 tsk pepper
+[0:16 - 0:18] 1/2 tsk pepper
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aid
+[0:03] ( Wg ae
+[0:12] es Ey
+[0:13] gest
+[0:17] ease”
+[0:17] mane

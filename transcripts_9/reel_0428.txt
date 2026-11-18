@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[428] https://www.instagram.com/reel/DfmVbVfNJwd/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] कितना boring planet है यार हमारा ना कोई dragon है ना कोई fairy है ना कोई जादूगर है ना कोई जादूगरनी है ना कोई तंत्रविद्या है ना कोई राक्षस है बहुत बड़ा ना कोई dinosaur है बहुत बड़ा अभी
+[0:12 - 0:18] तो मतलब बहुत boring है यार ना कोई ring है ना कोई ऐसा sword है harry potter जैसा
+[0:18 - 0:23] सब कुछ कितना boring लग रहा है यार मतलब केवल हमारे पास tax है और government है
+[0:23 - 0:26] damn कोई बढ़िया interesting चीज़े लाओ यार planet में
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:24] Earthis a boring planet ,
+[0:03] 7 4 af
+[0:06] कड़े शा
+[0:08] eee /
+[0:11] Earth
+[0:11] eS oe
+[0:13] ial
+[0:14] 1S 4
+[0:20] iat
+[0:26] श्र

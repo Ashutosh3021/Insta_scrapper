@@ -1,0 +1,44 @@
+# model: ggml-large-v3
+========================================================================
+[134] https://www.instagram.com/reel/DfxYvXYNqxB/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] And the biggest loser of the 2026 award goes to...
+[0:04 - 0:06] You!
+[0:06 - 0:09] You were the biggest loser, like always.
+[0:09 - 0:11] Thank you for winning this award.
+[0:11 - 0:12] We all love you.
+[0:12 - 0:14] Not everyone can be a winner.
+[0:14 - 0:16] Someone needs to be a loser like you.
+[0:16 - 0:18] So keep going.
+[0:18 - 0:20] May you lose in 2027.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] And the bij
+[0:00] “AS \Y
+[0:00] r= 8५
+[0:00] 408
+[0:00 - 0:20] Biggest loser of
+[0:00 - 0:20] 2026 award
+[0:01] lose:
+[0:01] 2026
+[0:02] loser of 2026
+[0:02] हैः
+[0:03] fii
+[0:03] eae
+[0:04] AL loser of
+[0:04] Sled
+[0:07] fic
+[0:08] zal
+[0:08] att
+[0:09] अतः
+[0:10] ess: loser of
+[0:13] eS शै
+[0:17] = loser of
+[0:19] 178०५
+[0:20] youk
+[0:20] (2024.
+[0:20] sey

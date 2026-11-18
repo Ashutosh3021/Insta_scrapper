@@ -1,0 +1,26 @@
+# model: ggml-large-v3
+========================================================================
+[549] https://www.instagram.com/reel/Dd30T_fSwnX/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] *Outro Music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 461: 1
+[0:00] 77: 15
+[0:00 - 0:20] Not using my |
+[0:00 - 0:20] phone for 12 hours
+[0:03] — ee कम फेस
+[0:05] OO: te
+[0:07] uu ti
+[0:07] rime ir
+[0:08 - 0:09] SSS
+[0:09] ne ही aoe
+[0:15] SSS
+[0:16] Let
+[0:16] 0:71 ।
+[0:20] ui t
+[0:20] rime 4

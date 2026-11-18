@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[292] https://www.instagram.com/reel/DfrnTBWv1ZX/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] कभी भी पटाना तो हमेशा अपने उमर के साथ की लड़की पटाना ना बड़ी ना छोटी बिल्कुल साथ की लड़की क्योंकि साथ की लड़की पटाओगे ना तो आपका emotional level उसका emotional level same होगा आपका maturity level उसका maturity level same होगा तो जब आपका maturity level उसका maturity level same होगा ना तो ज़्या�
+[0:30 - 0:31] तो हमेशा ये फाइदा रहता है
+[0:31 - 0:34] और साथी साथ बहुत सारी चीज़े आप साथ में सीखोगे
+[0:34 - 0:37] और जब कोई चीज़े आप साथ में सीखते हो तो एमोशनल कनेक्शन मनता है
+[0:37 - 0:40] तो हमेशा हाँ अपने उमर के साथ की लड़की को रेट करना
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:39] Always date same age women |
+[0:06] bei
+[0:12] ae od
+[0:16] bine |
+[0:17] Always date तु women
+[0:17] ew 7
+[0:18] tid
+[0:21] shail
+[0:22] rs) qd
+[0:24] नग्न
+[0:28] hci
+[0:28] Always date sa
+[0:28] ue. age women
+[0:31] Alw
+[0:31] ap 6
+[0:32] 44524 date same age women
+[0:32] can
+[0:38] पैड

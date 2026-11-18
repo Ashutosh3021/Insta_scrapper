@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[535] https://www.instagram.com/reel/Der9c1dT0E9/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] If the ocean's water were sweet, people would trap it in a bottle.
+[0:04 - 0:07] Its saltiness is what keeps it free. Remember that.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] हैः
+[0:00] ahs
+[0:02] Vee
+[0:02] Sis
+[0:02 - 0:07] Sas
+[0:03] - 8३४
+[0:03 - 0:06] Listen till end
+[0:04] any
+[0:04] 3४३
+[0:05] ayy
+[0:06] Say
+[0:06] Lis

@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[121] https://www.instagram.com/reel/DfxZw4kNrnJ/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] Indian aunties will ask your marks at every wedding. Then ask why you never show up anymore.
+[0:05 - 0:11] I don't know auntie. You asked my weight, you asked my salary. Then you asked when I'm getting married. I'm still at school.
+[0:11 - 0:17] Seems cool being an auntie. I wish I could be an auntie. But I can't because I mind my own business.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 1५१
+[0:00 - 0:16] Indian Aunty
+[0:03] क्र
+[0:03] १४ है
+[0:03] ध्््
+[0:04] ५३ है
+[0:05] हैक
+[0:06] 3७३
+[0:07] aay
+[0:07] ant
+[0:08] Lae
+[0:08] wad
+[0:09] sv AR
+[0:09] Ore
+[0:10] 60000
+[0:10] ans
+[0:11] ANY
+[0:11 - 0:16] (GAVIRAL,RAJAWAT
+[0:13] ans
+[0:14] ais
+[0:14] Van
+[0:15] ५३ १
+[0:15] के चअअ
+[0:16] att

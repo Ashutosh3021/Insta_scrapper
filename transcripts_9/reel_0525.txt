@@ -1,0 +1,13 @@
+# model: ggml-large-v3
+========================================================================
+[525] https://www.instagram.com/reel/DeuYkBUtukp/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I love my life, every day I wake up feeling so
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] है i
+[0:04] iW é

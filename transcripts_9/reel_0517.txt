@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[517] https://www.instagram.com/reel/Deyvb2vtB1u/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] And there were sessions for you, in and in the kitchen
+[0:03 - 0:11] And there were sessions for you, in and in the kitchen
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] ७ PSs
+[0:02] we V4
+[0:03] Mey
+[0:03] ey LH
+[0:03] TikTok
+[0:03] ७0०००
+[0:05] tes
+[0:13] लीक
+[0:13] ses ve

@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[144] https://www.instagram.com/reel/DfxYXxKtkJU/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] If you forget how tall you are, just ask two random people how tall they are.
+[0:05 - 0:11] Make them stand in a triangle and just apply Pythagoras theorem and now you know how tall you are.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] If you forget how
+[0:00 - 0:11] Listen tillend ९७
+[0:01] tall you areal
+[0:02] just ask two randoi
+[0:03] Listen till ofl oe
+[0:03] 119
+[0:03 - 0:04] people how tall they are.
+[0:05] Make them stand ina
+[0:05] wg ५
+[0:06] sonia till end «०.०
+[0:06] triangle and just
+[0:07 - 0:08] apply Pythagoras theorem,
+[0:08] neve
+[0:09] and now you know how
+[0:09] wat
+[0:10] _ tillend ९९
+[0:10] GAVIRAL. AJAY
+[0:11] If you forget what

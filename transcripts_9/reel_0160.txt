@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[160] https://www.instagram.com/reel/DfxVfVjP2H6/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] ♪ Never, never, never ♪
+[0:05 - 0:10] ♪ Never, never, never ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:09] Sometimes the delay is
+[0:00 - 0:09] because a beautiful story is
+[0:00 - 0:09] being written
+[0:01] LOX
+[0:06 - 0:09] ial
+[0:06 - 0:09] Z ss

@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[564] https://www.instagram.com/reel/Dc5krLNhF1J/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] और आजकल भाई ऐसी कोई गरीबी नहीं है, सबके पास खाना है, सबके पास इंटरनेट है, ऐसी कोई गरीबी नहीं है जितनी दिखाई जाती है कि भाई रोटी और नमक खा रहे हैं, रोटी और प्याज खा रहे हैं, सबके पास पेड़ भर के खाने का पैसा है, रीचा
+[0:30 - 0:35] हो गए भाई पड़ो जॉब यार कॉल सेंटर में लग जाओ भाई इतनी सारी जॉब है डिलीवरी मारो
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:11] No one is very poor now |
+[0:04] =i ig
+[0:09] vil
+[0:11] \ all
+[0:12] 1 क्‌ -
+[0:14] #, oneis very poor now
+[0:15] की 01818 very poor now
+[0:18 - 0:26] a, one is very poor now
+[0:23] Ne one's cel now
+[0:23] by ol
+[0:23] बञः
+[0:23] 1०144
+[0:24] uae
+[0:27] No o1
+[0:27] ery poor now
+[0:27] Ove
+[0:28] ir now
+[0:28] bio one isvery Bos
+[0:29] i one is very poor now
+[0:32 - 0:34] ७ No oneis very poor now

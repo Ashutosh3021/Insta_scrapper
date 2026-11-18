@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[526] https://www.instagram.com/reel/DeuMbtMNjuL/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: jw
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] coed
+[0:00] ७५२७० ile
+[0:12] mal

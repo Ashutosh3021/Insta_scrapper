@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[158] https://www.instagram.com/reel/DfxVkgWvH-S/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] maa
+[0:00 - 0:09] Trust the overthinker who
+[0:00 - 0:09] tells you they love you. They 1
+[0:00 - 0:09] have, most assuredly, thought
+[0:00 - 0:09] of every reason not to.
+[0:03 - 0:04] maa
+[0:06] ५४०
+[0:07] all

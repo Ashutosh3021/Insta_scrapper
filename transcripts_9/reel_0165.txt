@@ -1,0 +1,20 @@
+# model: ggml-large-v3
+========================================================================
+[165] https://www.instagram.com/reel/DfxVQ0cvr3q/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] ♪ Never, never, never ♪
+[0:05 - 0:10] ♪ Never, never, never ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:09] The moon was the only —
+[0:00 - 0:09] _ witness to my innocence, but
+[0:00 - 0:09] the court scheduled the ६
+[0:00 - 0:09] hearing ona moonless night. " r
+[0:05] isi
+[0:08 - 0:09] isi
+[0:08 - 0:09] हर N
+[0:08 - 0:09] IAN

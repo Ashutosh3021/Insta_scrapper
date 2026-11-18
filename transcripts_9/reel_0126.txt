@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[126] https://www.instagram.com/reel/DfxZlJRNnN1/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Remember when we were kids and our parents said no to buy us a chocolate
+[0:04 - 0:10] cake so we'd imagine our poop as a chocolate cake and we'd eat it and it
+[0:10 - 0:13] was actually really good
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Wwe]
+[0:00 - 0:11] Eat & instead of chocolate
+[0:00 - 0:11] _@j cake
+[0:01] awhen\we}
+[0:01] were
+[0:03] COLA YOS
+[0:03] chocolate
+[0:03] Eat & instead of टाल
+[0:03] wag cake
+[0:04] Praag
+[0:04 - 0:05] icake. Sohweid
+[0:05] >> ९०००
+[0:05] 11८
+[0:06] and
+[0:06] 1-5८
+[0:07] fan
+[0:07] <क है
+[0:07] Oo iF)
+[0:08] [cakefand}
+[0:08] Po i 1८
+[0:09] Cit was
+[0:09] iss e
+[0:10] IL AAA
+[0:11] factually,
+[0:11] IL RAJANAT

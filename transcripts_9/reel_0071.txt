@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[71] https://www.instagram.com/reel/Dfy4sIyvRG0/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] कि सोशल मीडिया ने इतनी सारी लड़की को कन्वेंस कर दिया है कि देजर वेवरीथिंग विदाउट बींग
+[0:04 - 0:09] एनीथिंग और लड़कियों के इतने ज्यादा स्टैंडर्स बढ़ गए हैं वाइस सोशल मीडिया से कि लड़कियां
+[0:09 - 0:09] चाहती है मैं यह चाहिए वह चाहि
+[0:09 - 0:39] कि मैं को यह चाहिए वह चाहिए लेकिन लड़कियां खुद कुछ नहीं बनना चाहती है और यह मैं लड़कियों के लिए नहीं लड़कियों के लिए भी बोलना हूं जो काले हैं मोटे हैं और उन्हें चाहिए भाई एक अपसरा जैसी लड़की तो ऐसा नहीं होगा सो�
+[0:39 - 0:40] Follow please
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:44] Social media has convinced women
+[0:00 - 0:44] | that they deserve everything without
+[0:00 - 0:44] T becoming hetter
+[0:01 - 0:06] (GAVIRALRALAWAT.AL
+[0:03] foe
+[0:07] GAVRALE
+[0:08] GAVIA
+[0:08] Janey
+[0:10] ojo
+[0:12 - 0:14] CGAVIRALRASAW ATA
+[0:14] “कै. 5
+[0:14] bigs
+[0:15] wan
+[0:15] 010१/00०0७. । ~
+[0:16] f RAJAN ATAL
+[0:17] GAVIA
+[0:17] cold
+[0:18] (GAVIRALRA
+[0:19] ave
+[0:22] oni
+[0:25] own
+[0:26] i, WAT
+[0:27] conve
+[0:31] Conve
+[0:31] NATAL
+[0:32] ‘GAVIA
+[0:33 - 0:34] (GAVIRALRALANA
+[0:37] > pe everything without
+[0:38] a better
+[0:39] (GAVIRALRALAAT
+[0:40] she
+[0:40] envina
+[0:40] AWA

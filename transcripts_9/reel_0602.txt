@@ -1,0 +1,287 @@
+# model: ggml-large-v3
+========================================================================
+[602] https://www.instagram.com/reel/DaZ7epZv4Lw/
+STATUS: OK
+DURATION: 0:56   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] if you struggle with posting three to five times a day this ai automation will help you immediately
+[0:04 - 0:10] first head to n8n and create an account or if you already have one just log in then create a
+[0:10 - 0:16] new workflow the first thing we need is a trigger if you click here a website will open where you
+[0:16 - 0:22] can paste in a youtube video and choose how many clips you want from that video after that go back
+[0:22 - 0:28] but now we build our automation which has three parts first analyzing the video second creating
+[0:28 - 0:32] the short and third publishing it at the start another website analyzes the video
+[0:32 - 0:38] then we check if the video is ready if the video isn't ready we wait if it is ready we take the
+[0:38 - 0:44] analysis and based on it we create the shorts next we export the short same process as before
+[0:44 - 0:50] if it isn't ready we wait if it is ready we move on the last step is publishing we schedule the
+[0:50 - 0:56] post save the details in google sheets and upload the short to instagram youtube and tick tock
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 110 THE
+[0:00] CONTENT AUTOMATION
+[0:01] IF vpn eeramate ene
+[0:01] Cod
+[0:01] APOC
+[0:01] Sosa
+[0:01] aly
+[0:02] ou streg@re
+[0:02] \UTOMA
+[0:03] tet 1sHeH=
+[0:03] 4@+ 1०11०11 ७)
+[0:03] Pubtehing
+[0:03] 498५९
+[0:03] CONTENT AUTOMATION)
+[0:03] Bes
+[0:05] Goog
+[0:05] nen
+[0:05] n8n.
+[0:05] ngn
+[0:05] ६011:
+[0:05] n8n free
+[0:06] one
+[0:06] ene naman +
+[0:06] © 5 ० काका
+[0:06] oo@ngn
+[0:06] Flexible Al workflow
+[0:06] automation
+[0:06] ak technical teams
+[0:06] rop.
+[0:06] This websi
+[0:06] We use cookies ४
+[0:06] agents
+[0:06] ‘and to anolyse our tai, We aso share
+[0:06] took,
+[0:06] Information about your use of our sit wih our
+[0:06] ‘advertising ana analytics pornars who may
+[0:06] provided to
+[0:06] ftom your ७५
+[0:06] TRI
+[0:06] O ren
+[0:06] O ue
+[0:06] (0७००
+[0:07] es Sutomating tod,
+[0:07] See
+[0:07] Confer ema अत,
+[0:07] 0p up wan ou const epeovemants MAOH ठण
+[0:07] Look’
+[0:08] 2 ५ ० ऋचा
+[0:08] oof nen
+[0:08] Sign in to n8n cloud
+[0:08] ran comunene
+[0:08] सकल तन yo cous cont we no) RP
+[0:08] Der meer es ec? Cyr went fan
+[0:09] £8 mmc:
+[0:09] जज. Overvi
+[0:09] Petimncdinn | Foteipmdemctees | fetosnie
+[0:09] 1501 om 19 we
+[0:09] 13% sow
+[0:09] sone
+[0:09] ‘epg Atomaton
+[0:09] Fron ossoneny MNO
+[0:10] ME TR ts
+[0:10] CO OE—E
+[0:10] thenjcreate)
+[0:11] ant
+[0:11] ८1०),
+[0:11 - 0:12] कमर |
+[0:12] une oe fw on cc
+[0:12] Jog ston 180. 99०0
+[0:12] happens an
+[0:12] ns 00७ fom wi
+[0:12] or Artable
+[0:12] top the Telegram Notion’
+[0:12] Ronse How every 3,
+[0:12] runs te flow on receivieg an HTTP request
+[0:12] सके webform i nn and pass thelr 7००७०
+[0:12] tome motion
+[0:12] Execute Word
+[0:12] ५0% 9 00% wen » usr sents»
+[0:12 - 0:13] ‘onapp event
+[0:12 - 0:13] ‘ona schedule
+[0:12 - 0:13] hour, oF eustom Inter
+[0:12 - 0:13] ‘On webhook call
+[0:12 - 0:13] (On form submission
+[0:12 - 0:13] workflow
+[0:12 - 0:13] ‘On chat message
+[0:13] ‘Tigger ma
+[0:13] button in 69-6009
+[0:13] ras ef
+[0:13] onc
+[0:13] appens in a
+[0:13] ०0४ ve
+[0:13] 0०७ whe
+[0:13] fr aetaole
+[0:13] tooo Telegram,
+[0:13] ans ne flow every कम:
+[0:13] fons एक ow onrecenving an HTTP request
+[0:13] ‘Onnerate webforms nn an pass thelr १७४७०
+[0:13] tome werktow
+[0:13] (किक
+[0:13] ey the Execute Werk
+[0:13] se wth Al voges
+[0:13] uns 96 ow when a user sends a cnat messag
+[0:14] en रा
+[0:14] tome ecnany Cece
+[0:14] iTyoulclickaneres
+[0:14] aia
+[0:14] 960
+[0:16] aS ns +
+[0:16] 3) ५५००-४७ ५ ०:०1),
+[0:16 - 0:20] Long Form Video
+[0:17] How है... ॥ Short posted per Day)
+[0:17 - 0:20] YouTube Link
+[0:18] h ०1100 1310 10110 0 58]
+[0:18 - 0:20] How many shorts? (1 Short posted per Day)
+[0:19] DOW mY ellos
+[0:20] ॥॥ 01111 3 ५1060 |]
+[0:21] ooGntn
+[0:21 - 0:22] Form Submitted
+[0:22] ona
+[0:22] Bus now we bull)
+[0:23] Meeiton hte
+[0:23] coe @
+[0:23] Ate Maton = hat
+[0:23] oe tess
+[0:23] 90१८
+[0:23] our,
+[0:23] Hon
+[0:23 - 0:25] one
+[0:23 - 0:25] कारक x +
+[0:24] ore
+[0:24] mneciton ne «BER
+[0:24] स्का भकण x +
+[0:24] 3. दा Aan
+[0:24] ene हनन
+[0:24] 11] 1
+[0:24] rfi
+[0:25] ५७०७००७०० «SBT
+[0:25] 0... monpeorarentncudwetto. था
+[0:25] £0 meen:
+[0:25] seme @
+[0:25] tein नरक
+[0:25] ewe tne
+[0:25] char
+[0:26] litte nas २ए6-६४२७५८ ase
+[0:26] (Cupping Automaton + Asti
+[0:26] nace: @
+[0:26] cor faecamer Grane
+[0:26] अमर Video
+[0:26] the wideoy
+[0:27] Editor Executions
+[0:27] Analyzing Video
+[0:27] Second),
+[0:28] feo
+[0:28] ting)th
+[0:28] JAS
+[0:28 - 0:31] Creating Short
+[0:29] 1 1311111: | 1 ५,
+[0:30] ‘Anatrzing Video
+[0:30] Atithestant;)
+[0:31] Anatyting deo
+[0:31] anotnernwe!
+[0:32] *००७
+[0:32] see tae
+[0:32] 0. teonsmeinerincnsente. & & की tmmnwinion |
+[0:32] eng aman <A
+[0:32] te eee एलन.
+[0:32] न Be
+[0:32] arnt
+[0:33] ॥५२.४::४०६३५-६े५
+[0:33] Ceci
+[0:33] 0... moesmmonorsoentacieudwente. te
+[0:33] come tae art
+[0:33] ian
+[0:33] mtg
+[0:33] 111]
+[0:33] waar
+[0:34] SN A
+[0:34] FZ ccajccresncentrotte % अजय
+[0:34] तर tmaton = 42809
+[0:34] oe Go -
+[0:34] on 4 ees
+[0:34] lis
+[0:35] 5 हे Bee
+[0:35] दे msamesorspprenciwonte- मे
+[0:35] 5 creingAtraton = Met
+[0:35] mac ©
+[0:35] What happens next?
+[0:35] Fre conan onsets नमन» का en
+[0:35] meng er
+[0:35] पर erm soma
+[0:35 - 0:36] meow @
+[0:36] aera
+[0:36] ono 2९730:
+[0:36] sloudtworkio मी. |“
+[0:36] ~~ बता ९
+[0:36] creping matin १५०००
+[0:36] tow
+[0:36] crstng her
+[0:37] न Be”
+[0:37] recon के
+[0:37] or oe al
+[0:37] [11113
+[0:38] nose
+[0:38] गा त०
+[0:38] > Mee
+[0:38] cio Acar
+[0:38] wom @
+[0:38] aoe oan
+[0:38] ee a,
+[0:38] ‘cron tert
+[0:38] itn
+[0:39] क्र
+[0:39] cece an ot
+[0:39 - 0:41] ‘Analyzing Video
+[0:40] जार ४३०4
+[0:40] to gegen
+[0:40] creck Status
+[0:40] Creating Short
+[0:41] wat ‘analy
+[0:41] coach ऋम
+[0:41] ‘Getanaipsis Create Snort
+[0:41] eee
+[0:42] nays ४०67
+[0:42] chee Bat
+[0:42] merece
+[0:42 - 0:44] Exported Short
+[0:43] etal
+[0:43] feHe}—_19}
+[0:44] yee?
+[0:44] aed
+[0:44] गज Onan on
+[0:45] oan
+[0:45] taper Short
+[0:46] 400: 4 5
+[0:46] गजल धन
+[0:46 - 0:47] eee
+[0:48] ommch ate of
+[0:48] comms
+[0:48] (801०9!
+[0:48] atop
+[0:48] ecAowsyas Crate
+[0:48] pose
+[0:48] wa Get tcpees Start
+[0:48] we move
+[0:49] Hee
+[0:49] Sea com)
+[0:49] Onn
+[0:50] ee ea
+[0:50] Vescheauied|
+[0:51] Ss ra
+[0:52] Seg कि [कि नको-
+[0:53] Analyzing Video
+[0:53] [की हे eh
+[0:53] (०1०)
+[0:53] बज »बल्‍्ल>>
+[0:53] है. ॥1056558165॥।
+[0:54] nang भवन
+[0:54] Ess
+[0:54] ac nee
+[0:54] tounstagram),
+[0:54] qaktes
+[0:54 - 0:55] <a enters
+[0:55] pouty Vie
+[0:55] ae om
+[0:55] 1111८): -111 <|
+[0:55] J us

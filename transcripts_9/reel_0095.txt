@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[95] https://www.instagram.com/reel/Dfxb5k8titG/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] *Outro Music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:15] Connecting my higher self to |
+[0:00 - 0:15] Benjamin Netanyahu
+[0:02] कान
+[0:02 - 0:03] ‘GAVRAL FA
+[0:07] ८ चक
+[0:09] ४५3,
+[0:14] Benjamin हि.

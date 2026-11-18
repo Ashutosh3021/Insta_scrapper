@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[381] https://www.instagram.com/reel/Dfo9COQvxaY/
+STATUS: OK
+DURATION: 0:46   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] ऐसे लोगों को गोली मार देनी चाहिए जो की पॉइंट पे नहीं आते यार एक बार मैं जिम में गया था अभी दो दिन पहले एक बंदा आया मैंने पूछा आप करते क्या हो वो साला मेरे 40 मिनिट चोद दिया भाई वो कह रहा है मैं यहाँ से पास आउट हूँ यहाँ
+[0:30 - 1:00] इतना ही होगा शादी नहीं हुई है और मेरे से भाई मुक्षूदी करे गारा है मैंने ये करा मैंने वो करा है आखरी में वो पैसे मांग रहा है बाप से नौकरी से उसको निकाल दिया गया है और पूरा वर्काउट खराब कर दिया भाई ऐसे चूती लोगों पर गुस्
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:14] People who don't comet the ps the point
+[0:03] Bien 7 don't cant the point
+[0:04] aly *
+[0:05] = don't come tothe point
+[0:07] 1G ple who 0
+[0:07] he p
+[0:08] Tan
+[0:09] गत point
+[0:11] Ag mse,
+[0:11] aa >ज
+[0:16] tie
+[0:16 - 0:19] [fren who don't come to the point
+[0:17] Dreseutentteoarter who don't come to the point
+[0:20] People who d
+[0:20 - 0:21] he p
+[0:21] Uf oe
+[0:22] People who don't come to the point
+[0:23] People who
+[0:23] डबरा (ताप come tothe point
+[0:24] Pus
+[0:25 - 0:37] 7 People who don't come to the point
+[0:26] क्र
+[0:26] ull
+[0:27] bit de
+[0:27] err
+[0:28] Jina!
+[0:28] Tne
+[0:36] L Wiha’
+[0:37] Lava’
+[0:43] 7 ss
+[0:44] Wal
+[0:44] [१ जूक]
+[0:45] Wav

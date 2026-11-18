@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[100] https://www.instagram.com/reel/Dfxb3OstgO_/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: pa
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] ਨਾਚ ਨਾਚ ਛੇਡਾ ਜਰਾ ਸੁਰ ਮੈ ਗਿਟਾਰ ਦੇ
+[0:02 - 0:05] ਮੈ ਗਾਡ ਮੈ ਦੀ ਆਚ ਹੋਈ ਜਾਮਾ ਬੋਰ
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:09] Hiding my worst facial feature
+[0:06] श्र

@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[120] https://www.instagram.com/reel/DfxZ1Nktkcb/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:18] 🎵
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] को है!
+[0:00 - 0:03] Teacher: Why is
+[0:00 - 0:03] the Statue of
+[0:00 - 0:03] Liberty green? ®
+[0:03] GAVIRAL.AA
+[0:04 - 0:07] Student: Because
+[0:04 - 0:07] Hulk spit on it once.
+[0:08 - 0:09] Teacher: ...Seriously?
+[0:10 - 0:11] RAL RAJAWAT
+[0:10 - 0:14] Student: Now don’t ६
+[0:10 - 0:14] ask why the Taj Mahal
+[0:10 - 0:14] is white.
+[0:12] WAT
+[0:13] SAVIRALAAIANAT,
+[0:14] GAVIRAL RAJAWAT
+[0:17] Teacher

@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[557] https://www.instagram.com/reel/DdHlwVItzVD/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: ko
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] '구독'과 '좋아요'를 눌러주세요.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 1+ | 00110 the solution +
+[0:00 - 0:04] @indian gkhaby55
+[0:01] “+1 found the 4 .
+[0:01] iby55
+[0:02] tI ‘J 29
+[0:03 - 0:05] ‘+1 found the solution +
+[0:05] जा 9 >०
+[0:06] Syl!
+[0:07] Be ७
+[0:08] wae
+[0:08] Aes
+[0:09] (eae
+[0:10] ‘Abe

@@ -1,0 +1,52 @@
+# model: ggml-large-v3
+========================================================================
+[447] https://www.instagram.com/reel/Dfjd_JOt5dI/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] भाई जितना पैसा मैंने लड़कियों पे स्पेंड करा ना, डेट्स और गिफ्ट्स वगेरा में, अगर उतना पैसा मैं अपने एक दोस्त पे स्पेंड कर देता, मर्द दोस्त पे, तो भाई अभी वो मेरे लिए बॉंक बना रहा होता, मेरे लिए रोल कर रहा होता, मेर
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Me 2
+[0:00 - 0:29] Spend money on boys instead of girls FY
+[0:01] eT a
+[0:02] sae
+[0:04] WAC
+[0:06] ite
+[0:07] AGE
+[0:07] tead of girls
+[0:07] | Spend money on boys ins'
+[0:07] SLO L
+[0:07 - 0:11] TeX
+[0:08] SURE
+[0:09] joney
+[0:09] 5 Spend m
+[0:09] on boys instead of
+[0:09] girls
+[0:09] CLS
+[0:10] tae
+[0:10] Las
+[0:10] < ३२००८
+[0:10] ० ल्
+[0:11] Spend money
+[0:11] a boys instead of girls
+[0:12] saan
+[0:13] कुछ
+[0:14] 90 2०
+[0:14] aor.
+[0:14] bad,
+[0:15] GED
+[0:15] Spend money on
+[0:15] joys instead of girls
+[0:16] ९5२
+[0:17] 5 सर
+[0:18] Vom
+[0:18] ad of girls
+[0:18] Fry. ५
+[0:19] rs kd
+[0:19] Irs,
+[0:21] _ACII.
+[0:24] lls
+[0:25] _<eaa

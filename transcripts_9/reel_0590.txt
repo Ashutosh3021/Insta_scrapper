@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[590] https://www.instagram.com/reel/DcnT8PnthHx/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] दोस्तों, आज मेरा बढ़ते है, आज सबल मुझे बोलो, हैपी बढ़ते है, अगर इसमें 50,000 लाइक आगे, तो मैं इसमें डूप जाओंगा
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] " Puneet Superstar lite [7
+[0:01] pars
+[0:01] Sst.
+[0:02] Bye
+[0:02] 33806
+[0:04] ar lite |
+[0:05] ns Wiss
+[0:05] perstar lite
+[0:05] Puneet Su
+[0:05] था | 5६७१
+[0:05] Meer
+[0:05] 10५ 3
+[0:05] 2223
+[0:06] "Puneet caberstal lite |
+[0:07] ५4०
+[0:07] Puneet Superstar lite

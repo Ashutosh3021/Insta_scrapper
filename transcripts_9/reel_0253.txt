@@ -1,0 +1,41 @@
+# model: ggml-large-v3
+========================================================================
+[253] https://www.instagram.com/reel/DfuHCeGN6XW/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] भाई न्यू यॉर्क लंडन डिल्ली और पुने तो फालतुमी बदना में असली जो प्लेबाई और होकप वाला सिटी है ना वो है चेन्नाई
+[0:05 - 0:05] चेन्नाई में जो होकप अगेरा हो रहे है ना मैं डेटिंग एप्स वगैरा यूज़ नहीं करते लेकिन इतना सोशल सरकल �
+[0:05 - 0:33] जो होकप वाला सिटी है ना वो है चेन्नाई
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ker
+[0:00 - 0:30] Chennaiis the most toxic dating, | _
+[0:00 - 0:30] cheater, hook-up and player city ™
+[0:01] cheater, hook-u
+[0:01] pand player city
+[0:01] Se aad
+[0:02] ०, आा आ
+[0:02] 9 के
+[0:02] saat
+[0:03] A Nee
+[0:04] Coal
+[0:04] | De ee
+[0:05] cheater, hot
+[0:05] ok-up and player city |
+[0:06] age
+[0:07] Pe कक
+[0:07] oat
+[0:08] sini
+[0:08] os Cl eal
+[0:16] क्र)
+[0:23] है हा
+[0:28] _ che:
+[0:28] Hirer
+[0:28] amen
+[0:29] Wer
+[0:29] eon
+[0:30] i; aperin
+[0:31] wt चर)

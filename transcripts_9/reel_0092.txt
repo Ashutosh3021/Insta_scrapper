@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[92] https://www.instagram.com/reel/Dfxb82JNCJ3/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Send this Reel To Your Curly Hair Friend
+[0:02 - 0:03] Hey Bro
+[0:03 - 0:05] I Know You Get A Lot Of Girls
+[0:05 - 0:08] I Know You Look Good Because Of Them Curly Hairs
+[0:08 - 0:10] But Don't Forget Me
+[0:10 - 0:11] Because I Love You
+[0:11 - 0:12] I Love Your Curls
+[0:12 - 0:14] Keep It Up
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:13] Share to curly hair friend hr
+[0:01] है 4
+[0:02] Guy
+[0:03] ibro, Iiknowsyoulgetiay
+[0:03] Shi
+[0:03] ly hair friend
+[0:04] ibroyliknow,
+[0:04] BF SS
+[0:05] of/sirlsdliknowsyoul
+[0:06] TOOK
+[0:07] them curly hairs}But
+[0:07] Shi
+[0:07] ly hair f:
+[0:09] [dont
+[0:10] ilovesyousiilovesyoury
+[0:10] (GAVIRAL.AAJANAT
+[0:11] iilovesyous | love}youry
+[0:11] GAVIRAL.RAJAY
+[0:11] ‘tia
+[0:12 - 0:14] SAVIRAL. RAJAWAT
+[0:13] amis Kegnitup

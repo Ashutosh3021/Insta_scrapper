@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[395] https://www.instagram.com/reel/Dfm_KxsP3lH/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Some girls have so much attitude, they'll say my makeup costs more than your salary.
+[0:04 - 0:09] I just tell them, madam, our car needs more servicing only when it is trash.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] = girls have so
+[0:00] wae
+[0:01] much attitude,
+[0:01] fia
+[0:01 - 0:09] Brutal Truth **
+[0:02] makeup costs more
+[0:02] any
+[0:03 - 0:04] than your salary.
+[0:04] Ss जा
+[0:05] Ijust tell them,
+[0:05] ant
+[0:06] 7 car needs more
+[0:06 - 0:07] ang
+[0:07] servicing only when
+[0:07] fia
+[0:08] 1 is trash.
+[0:08] Wow)
+[0:08] ans
+[0:09] ais
+[0:09] Cae

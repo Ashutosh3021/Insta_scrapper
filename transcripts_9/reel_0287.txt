@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[287] https://www.instagram.com/reel/Dfrnen6PIbA/
+STATUS: OK
+DURATION: 1:08   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] उन लड़की की reality बताऊंगा, जो एक relationship over होने के just बाद ही दूसरे relationship में आ जाते हैं, first of all, वो पहले बात तो lawyer ही नहीं थे, because वो already बात कर रहे थे उन लोगों से, और वो इंतजार कर रहे थे, जब ये relationship खतम होगा, मैं एक घंटे के अंदर ही दूसरे बदले को commitment दे दू�
+[0:30 - 0:35] relationship खत्म होने के those are not loyal to you और जो लोग time लेते हैं
+[0:35 - 0:38] दो दो साल चार साल लग जाता है move on करने में वो होते हैं इसकी
+[0:38 - 0:41] loyal लोग क्योंकि उनके पास कोई option नहीं रहता है वो opposite
+[0:41 - 0:44] gender से बात तक नहीं करते हैं और जब ऐसा होता है उनकी दुनिया
+[0:44 - 0:44] हिल जाती है क्योंकि भाई उसके
+[0:44 - 1:14] हिल जाती है क्योंकि भाई उसके जिन को दुनिया माना रहता है वो भी दुनिया जैसा ही रहता है और उसके बाद क्या होता है कि उन्हें टाइम लगता है नए जेंडर से बात करने का और अपने आपको समालने का तो ऐसे लोग होते हैं लॉयल और जो लड़किया मतलब �
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] Aa oy,
+[0:03] हक है|
+[0:09] of girls who immediately get
+[0:09] into anew relationship after break up
+[0:10] ap 4
+[0:13] डी कि
+[0:15] « है आन
+[0:17] eee
+[0:18 - 0:19] ry of girls who immediately get
+[0:18 - 0:19] into anew relationship after break up
+[0:19] ap 4
+[0:23] —jze
+[0:24 - 0:35] rs of girls who immediately get 4
+[0:24 - 0:35] into anewrelationship after break up |
+[0:26] pa 4
+[0:33 - 0:35] ap 4
+[0:34] ep 4
+[0:37] wes
+[0:43] Real
+[0:43] of girls who immediately get
+[0:43] into anewrelationship after break up
+[0:44] > कै छा
+[0:44] बात
+[0:45] Saw /,
+[0:45 - 0:46] 49 6
+[0:46 - 0:54] a] of girls who immediately get
+[0:46 - 0:54] into anew relationship after break up
+[0:47] EE हे]
+[0:50 - 0:53] Real
+[0:51] aR ae
+[0:52] aad
+[0:53] Pp 4
+[0:57] ही] 6
+[0:57] wm be
+[1:00 - 1:04] Real
+[1:00 - 1:04] of girls who immediately get
+[1:00 - 1:04] into anew relationship after break up
+[1:01] iw J
+[1:06] rc) 6
+[1:06] wae

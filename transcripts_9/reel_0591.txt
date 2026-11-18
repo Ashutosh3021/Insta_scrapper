@@ -1,0 +1,12 @@
+# model: ggml-large-v3
+========================================================================
+[591] https://www.instagram.com/reel/DclkMjONfas/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] ले वोई लोंडे कह रहें दो साल होगी जिम में जाते हुए बॉड़ी नहीं बन दी बॉड़ी कैसे नहीं बनेगी क्रिम रॉल काए बॉड़ी बनाए मात्र पांच रुपे में
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[no on-screen text found]

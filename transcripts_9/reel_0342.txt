@@ -1,0 +1,59 @@
+# model: ggml-large-v3
+========================================================================
+[342] https://www.instagram.com/reel/DfrcFXVMsVu/
+STATUS: OK
+DURATION: 1:08   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] उन लड़की की reality बताऊंगा, जो एक relationship over होने के just बाद ही दूसरे relationship में आ जाते हैं, first of all, वो पहले बात तो lawyer ही नहीं थे, because वो already बात कर रहे थे उन लोगों से, और वो इंतजार कर रहे थे, जब ये relationship खतम होगा, मैं एक घंटे के अंदर ही दूसरे बदले को commitment दे दू�
+[0:30 - 0:35] relationship खत्म होने के those are not loyal to you और जो लोग time लेते हैं
+[0:35 - 0:38] दो दो साल चार चार साल लग जाता है move on करने में वो होते हैं असली
+[0:38 - 0:41] loyal लोग क्योंकि उनके पास कोई option नहीं रहता है वो opposite gender
+[0:41 - 0:44] से बात तक नहीं करते हैं और जब ऐसा होता है उनकी दुनिया हिल जाती है
+[0:44 - 0:44] क्योंकि भाई �
+[0:44 - 0:48] क्योंकि भाई उसके जिन को दुनिया माना रहता है वो भी दुनिया जैसा ही रहता है
+[0:48 - 0:53] और उसके बाद क्या होता है कि उन्हें टाइम लगता है नए जेंडर से बात करने का और अपने आप को समालने का
+[0:53 - 0:53] तो ऐसे लोग होते हैं लॉयल और जो लड़किया मतलब बिलकु
+[0:53 - 1:07] वह लड़कों के साथ
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] e7\ कू
+[0:09] pap 4
+[0:09] a me)
+[0:17] saw
+[0:18] ala
+[0:18 - 0:19] ry of girls who immediately get
+[0:18 - 0:19] into anew relationship after break up
+[0:19] pap 4
+[0:20] ५150 \
+[0:24 - 0:35] Reality of girls who immediately get *
+[0:24 - 0:35] into anewrelationship after break up |
+[0:26] pa 4
+[0:28] oa 4
+[0:31 - 0:35] pap 4
+[0:32] ao 4
+[0:38] PIU W
+[0:39] Baw /
+[0:40] aie /
+[0:41] (वक्त
+[0:44] ७ he
+[0:45] Saw
+[0:46 - 0:48] a] of girls who immediately get
+[0:46 - 0:48] into anew relationship after break up
+[0:47] wae
+[0:50] QR 6
+[0:50] a a 4
+[0:51] aR 6 5
+[0:52] wae /
+[0:56] 7 wW
+[0:57] a2 6
+[0:58] eee
+[0:59] asa
+[1:01] owe
+[1:02] | glans
+[1:02] फैन
+[1:04] need
+[1:06] wae
+[1:07] wie
+[1:07] Nae

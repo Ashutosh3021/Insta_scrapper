@@ -1,0 +1,16 @@
+# model: ggml-large-v3
+========================================================================
+[556] https://www.instagram.com/reel/DdIx4jENdLC/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: nn
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:21 - 0:40] Teksting av Nicolai Winther
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] am bi
+[0:00 - 0:02] f 1053:
+[0:02] am btw
+[0:10] con
+[0:26] हिल

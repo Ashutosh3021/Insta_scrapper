@@ -1,0 +1,20 @@
+# model: ggml-large-v3
+========================================================================
+[553] https://www.instagram.com/reel/DdMMetgtnFZ/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] 3, 2, 1, FIRE!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Sia
+[0:02] Pas al
+[0:03] 74 ९
+[0:03 - 0:10] Cleaner
+[0:05] rey
+[0:07] हूँ
+[0:08] be fe
+[0:08] 1 ae
+[0:08] . 7 abe

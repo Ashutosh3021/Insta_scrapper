@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[141] https://www.instagram.com/reel/DfxYbsTNy31/
+STATUS: OK
+DURATION: 0:14   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] If her body count is 5,000, that is not even a lot because there is 8 billion people in the world. So 5,000 is like 0.00005% of the total population. So she is still good.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] क्र
+[0:00 - 0:01] If her body count is 5,000, g
+[0:00 - 0:12] Listen tillend ९७
+[0:02] AL. a
+[0:03] lot because there is
+[0:03 - 0:04] कि ॥ AAJAWAT
+[0:05] ORAL RAJAWAT)
+[0:06] a, है!
+[0:09] te के
+[0:10] ray
+[0:11] AAJA
+[0:13] Listen tl a ०.०
+[0:13] GAVIRAL RAJAWAT

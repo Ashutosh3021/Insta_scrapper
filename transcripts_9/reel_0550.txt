@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[550] https://www.instagram.com/reel/Dd30M5FSspr/
+STATUS: OK
+DURATION: 0:17   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] I'm a bad like the only, like a funeral, but I'm a bad girl
+[0:04 - 0:17] Waste time, just a little bit of love, waste time, waste time, waste time, waste time
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:17] Studying for 12 hours
+[0:01] 222
+[0:02] Studying for 12100
+[0:03] ज्ज्ञ्र
+[0:14] SSL
+[0:15] vee

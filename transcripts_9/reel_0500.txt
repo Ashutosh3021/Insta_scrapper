@@ -1,0 +1,40 @@
+# model: ggml-large-v3
+========================================================================
+[500] https://www.instagram.com/reel/Dfepf5ltzLW/
+STATUS: OK
+DURATION: 0:52   SPOKEN LANGUAGE: ur
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Women want to have sex but not with you
+[0:03 - 0:05] یہ بات سمجھنا بہت ضروری ہے
+[0:05 - 0:08] They want to get physical, they want to kiss someone
+[0:08 - 0:09] But it is not you
+[0:09 - 0:13] So یہ مت سوچو کہ بھائی وہ لڑکی الگ ہے، یہ ہے، وہ ہے
+[0:13 - 0:17] Everyone has desires لیکن سب کے standards ہوتے ہیں
+[0:17 - 0:18] And you are not fitting in their standards
+[0:18 - 0:22] And 99% of the time standards physical ہوتے ہیں بھائی
+[0:22 - 0:25] Tall, handsome, jawline, everything
+[0:25 - 0:29] تو یہ مت سوچو کہ بھائی میں نے اچھے سے بات نہیں کری
+[0:29 - 0:30] یہ نہیں کرا وہ نہیں کرا
+[0:30 - 0:32] Just be good looking and be direct
+[0:32 - 0:35] میرے کاسے دو چیزیں ہی ہیں دیٹنگ میں
+[0:35 - 0:37] اگر آپ good looking ہو سائی ہے
+[0:37 - 0:40] And direct ہونے کا یہ مطلب ہے کہ بھائی فالتو کی بکشودی مت کرو
+[0:40 - 0:42] Just ask her out جاتی ہے ٹھیک ہے
+[0:42 - 0:44] نہیں جاتی ہے تو get on other girl
+[0:44 - 0:46] So that is the reason یار
+[0:46 - 0:47] فالتو میں simping مت کرو guys
+[0:47 - 0:49] Come on شرم آنی چاہیے بھائی
+[0:49 - 0:51] تمہاری ماں ہے تمہاری بہن ہے
+[0:51 - 0:52] اور اس کے بعد بھی تمہیں ایسی حرکتیں کر رہے ہو
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:15] es da
+[0:15] Lat
+[0:16] ५5५
+[0:22] Wit
+[0:30] es mrt
+[0:40] ai if
+[0:48] a ह- पर
+[0:48] ith

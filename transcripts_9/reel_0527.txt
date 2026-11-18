@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[527] https://www.instagram.com/reel/Der-eARzPNu/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] according to Google the most times you can fold this paper is seven but this
+[0:04 - 0:08] guy was able to do it eight times I'm going to fold this paper nine times
+[0:08 - 0:15] that's one two three four five six I think that's seven eight because I just
+[0:15 - 0:19] folded a paper nine times
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] According to Google
+[0:00 - 0:01] ‘the most times you
+[0:01] | J to Google
+[0:01] Tey
+[0:01] soy
+[0:01 - 0:02] ‘GAVIRAL.RAJAWAT
+[0:02] can fold this paper
+[0:02 - 0:03] is 7 but this
+[0:03] Tae, |
+[0:04] के i
+[0:05] 301४
+[0:05] हर za
+[0:06] Vamgoingtofold.
+[0:06] pthisinapere) हर
+[0:07] ४9५
+[0:07] ‘ant
+[0:07] { lam’
+[0:07] ig to fold
+[0:07] y" paper.9
+[0:07] GAVIRAL RAJAWAT
+[0:09] thatis\1i2)
+[0:09] AAAAWAT
+[0:10] GAVIRAL
+[0:10] var
+[0:11 - 0:12] 3456]
+[0:13] iithinkthat;sy7/8)
+[0:13] AAAWAT
+[0:14] ‘ajpapematimess
+[0:14] envt
+[0:14 - 0:16] juss
+[0:15] hacamsalne folded|
+[0:15] alpaper 9\times,
+[0:15 - 0:16] GAVIRAL RAJAWAT
+[0:16] had
+[0:16] "Wis

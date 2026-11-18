@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[581] https://www.instagram.com/reel/DcyZBM5tfb_/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] भाई वो बंदा इतना down to earth है ना, मैंने उसे call करा भाई, उसने मेरे को पता है जा का, तेरी फाड के सुखा दूँगा, अरे भाई इतना हमबर, भाई अभी भी आज की date में अगर मैं किसी भाई से phone करके बोल दूना, इतने पैसों की जरूरत है, तो मिन्ट से पहले आ ज
+[0:30 - 0:32] रफतार ने लिखा है, वॉल्यूम वन लिखा है भाई मेरे दोस्त ने
+[0:32 - 0:35] क्योंकि उससे बड़ा हरामी और कमीना इंसान मैंने आज तक नहीं देखा
+[0:35 - 0:39] और उसने मुझे एक बात कही थी, पाटी हो रही पेंट में
+[0:39 - 0:40] भाबी घुस्ती टेंट में
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Indian Celebrities in Podcast
+[0:01] in Celebi
+[0:01] Podcast
+[0:05] Indian Celebrities in Podcast
+[0:06] Py No
+[0:07] a Coles s in Podcast
+[0:08] Indian Celebrities in Podcast
+[0:11] ध्द्धु
+[0:16] oF 7
+[0:18] Indian Cele!
+[0:18] ies
+[0:18] dcast
+[0:21] Indian Cel
+[0:21] ies in Podcast
+[0:23] डरा
+[0:25] किक
+[0:30 - 0:31] Indian Celebrities in Podcast 4
+[0:34] Aly
+[0:34 - 0:39] Indian Celebrities in Podcast 4
+[0:38] thy.

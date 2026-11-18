@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[184] https://www.instagram.com/reel/Dfw9RaeNCjh/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: ur
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] میں چاہتا ہوں کہ جو میری بیوی ہو یا جو میری گرل فرینڈ ہو وہ جیپور سے ہو
+[0:04 - 0:05] پتہ ہے کیوں
+[0:05 - 0:07] کیونکہ جیپور is a pink city
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] righty
+[0:00] TET
+[0:00 - 0:08] Iwant my girl to be from Jaipur
+[0:01] STS ela
+[0:01] Sir
+[0:01 - 0:04] WEITER
+[0:02] [कि गोरी
+[0:02] ala
+[0:02] SIRENS बोल ची GN
+[0:02] है।लया 2
+[0:03] CHT
+[0:04 - 0:05] CITI
+[0:05] WTR
+[0:07] eERRisapiikselty

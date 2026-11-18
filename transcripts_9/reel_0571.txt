@@ -1,0 +1,34 @@
+# model: ggml-large-v3
+========================================================================
+[571] https://www.instagram.com/reel/Dc4Ot9tNgvY/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:19] सब्सक्राइब करें
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:02] r re
+[0:02 - 0:07] Funny (2६2 Joke,
+[0:04] wunny 620
+[0:05] zrat
+[0:06] ¥ WDD
+[0:08] Fon) ® Joke
+[0:10] 220००
+[0:10] है कु
+[0:11] ‘Funny D® 10७6
+[0:12] pox
+[0:12] ney Funny QD m. |
+[0:12] a हे
+[0:13] पर 4
+[0:13] 20 Soke
+[0:13] भर a 4५
+[0:13] gig |
+[0:14] VAN
+[0:18] हब 1
+[0:18] fio SS
+[0:18] if aa
+[0:19] Vine
+[0:19] Funny B® doke
+[0:19] Te आर

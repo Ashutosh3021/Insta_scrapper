@@ -1,0 +1,62 @@
+# model: ggml-large-v3
+========================================================================
+[37] https://www.instagram.com/reel/Dfz8kU5N116/
+STATUS: OK
+DURATION: 1:09   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] अगर आप लड़की हो तो ये रीलिक्स किप कर दो ये मेरे भाईयों के लिए पहली बात तो ये विमेन जितनी भी है ना ये एमोशन्स के लिए लॉयल है आपके लिए लॉयल नहीं है भाई ये जिन्दगी भर ये करती रहेंगी कि मतलब वो लड़का अच्छा दिख ग
+[0:30 - 0:34] ट्रस्ट करो उनके इमोशन को ट्रस्ट करो ना कि उनकी बातों को भाई मैं तो पहली डेट पर यह उन लड़कियों
+[0:34 - 0:38] ने आई लव यू बोला है मैंने आई लव यू बोला उसके बाद कुछ नहीं है क्योंकि मैंने कुछ एक्सपेक्टी नहीं
+[0:38 - 0:38] कर रहा है और लड़की
+[0:38 - 1:08] लड़की ने भी गोस्ट कर दिया, मैंने भी गोस्ट कर दिया, तो हमेशा भाई सपने मत सजाओ, विमेन किसी की सगे नहीं है, मर्द भी किसी की सगे नहीं है, लेकिन विमेन के बाद ज़ादा उप्शन है, तो भाई लड़कियां ज़ादा ये सब चीज़े करती है, है �
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:08] Women are loyal to emotions
+[0:01 - 0:08] Men must watch =
+[0:01 - 0:08] ILRAJAWATAL
+[0:02] rad
+[0:02] Dur
+[0:03] vie
+[0:04] Dan
+[0:05] Win
+[0:10] (GAVIRALRAJAWATAL
+[0:13] Need
+[0:13 - 0:16] (GAVIRALRAJAWATAL
+[0:17 - 0:23] Women are loyal to emotions
+[0:17 - 0:23] Men must watch =
+[0:17 - 0:23] PALRAJAWAT.AL
+[0:26] wit
+[0:28] GAVRAL
+[0:28 - 0:29] Women are loyal to emotions
+[0:28 - 0:29] Men must watch
+[0:29] My 3
+[0:30] GAVIRALRASAWAT
+[0:32 - 0:40] Women are loyal to emotions
+[0:32 - 0:40] Men must watch हे
+[0:33 - 0:35] SAJAWAT.AL
+[0:36] Wom
+[0:36] JANATA
+[0:39] JANATA
+[0:41] iat
+[0:44] Women are loyal to emotions
+[0:44] Men must watch
+[0:44] (GAVIRALRASAWAT.AL
+[0:45] बार
+[0:46] 5 RAL
+[0:48] VLRAJAWATAL
+[0:48 - 0:58] Women are loyal to emotions
+[0:48 - 0:58] Men must watch =
+[0:50] JANATA
+[0:51 - 0:52] PALRAJAWAT.AL
+[0:53] AJAWAT.L
+[0:54] JANATA
+[0:54] wily ॥
+[0:57] Ens
+[1:01] 21 ee?
+[1:01] r wan
+[1:01 - 1:09] Women are loyal to emotions
+[1:01 - 1:09] Men must watch i हे
+[1:04 - 1:06] AAJAWAT.AL
+[1:07] FRAIANATAL

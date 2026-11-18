@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[536] https://www.instagram.com/reel/Der9b_cTowG/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Some girls have so much attitude, they'll say my makeup costs more than your salary.
+[0:04 - 0:09] I just tell them, madam, our car needs more servicing only when it is trash.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Pa girls have so
+[0:00] ron)
+[0:00] tua
+[0:01] 7 attitude,
+[0:01] sit
+[0:01] Yas
+[0:02] makeup costs more
+[0:02] aus
+[0:02] hey
+[0:02 - 0:09] Brutal Truth **
+[0:03 - 0:04] than your salary.
+[0:04] any
+[0:05] Ijust tell them,
+[0:05] ans
+[0:06] 7 car needs more
+[0:06] ayy -
+[0:06] 408
+[0:06] Vai
+[0:07] servicing only when
+[0:07] ५ >> आए
+[0:07] ang
+[0:07] Vay
+[0:08] 4 is trash.
+[0:08] any
+[0:09] ay 39
+[0:09] Sas

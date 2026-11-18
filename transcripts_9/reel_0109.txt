@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[109] https://www.instagram.com/reel/DfxbnGdNZX8/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] I mean it is good, but why not put this energy into a job or something?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ifmeantit is Sood|but;
+[0:00 - 0:05] When | start discussing my
+[0:00 - 0:05] future plans with bro
+[0:01] + के al
+[0:02] ee Cy
+[0:03] aad ):
+[0:03 - 0:04] RAL,

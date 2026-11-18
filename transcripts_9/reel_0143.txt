@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[143] https://www.instagram.com/reel/DfxYZtTtA4l/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] if your phone runs out of battery just go to the market and buy a new phone
+[0:04 - 0:07] take the battery out of the new phone and put it in your old phone now your
+[0:07 - 0:12] old phone has hundred percent battery smart
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] mori till end ०.०
+[0:00] If your phone runs
+[0:01] roti
+[0:02] market adhwane anew phoné?
+[0:02 - 0:07] Listen till end «०.०
+[0:03] niarket =e anew phon&
+[0:04] ‘Take Pe tha bate eat out
+[0:05] of the new phone and
+[0:06] put it in your old phone.
+[0:07] Now your old phone
+[0:08] % bi ry.
+[0:09] [शिक्षा til en
+[0:10] poe till end ०.०
+[0:10] Smart.
+[0:10] Gav

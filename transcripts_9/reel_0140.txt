@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[140] https://www.instagram.com/reel/DfxYecntmhk/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] Trust the over thinker who tells you they love you. They have definitely thought of every reason not to.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Titanate the overthinker
+[0:00] ip Wi
+[0:00] Le. 2
+[0:00 - 0:06] Listen tillend ९३
+[0:01] who नाल you J .
+[0:01] «inf ie
+[0:01] ile
+[0:01] a ee 4
+[0:02] love you.
+[0:02] “ oy it
+[0:03] They ry have allah J
+[0:03] wis ४
+[0:03] ee 9
+[0:04] HoaghE' of sve y ता J श
+[0:04] “itp aa
+[0:04] LPS
+[0:04] hk /2
+[0:05] t te
+[0:06] The moon was sd

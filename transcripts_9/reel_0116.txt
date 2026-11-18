@@ -1,0 +1,58 @@
+# model: ggml-large-v3
+========================================================================
+[116] https://www.instagram.com/reel/DfxbauMN2pY/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] send this to someone who will get extremely rich in 2027 i know that you are poor right now but
+[0:06 - 0:11] you'll get extremely rich the next year give me a party send me some money because you're going to
+[0:11 - 0:16] be a millennial the next year don't forget me when you get rich i have been your friend in
+[0:16 - 0:22] poor time i will be your friend in your rich time i can see the potential you're going to
+[0:22 - 0:28] overtake elon musk you are so rich that you can buy a country or two when you get extremely rich
+[0:28 - 0:30] 50% is for me
+[0:30 - 0:32] Rich, rich, rich
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Send this to someone
+[0:00 - 0:32] Send this to
+[0:00 - 0:32] someone who will
+[0:00 - 0:32] if) get richin 2027 5)
+[0:01] Pry
+[0:01 - 0:03] extremely rich in 2027.
+[0:04] I know that you are
+[0:05] “4 poor right now,
+[0:05] Pry
+[0:06] but you'll get
+[0:07] extremely rich the )
+[0:07] ey 4
+[0:08] next year.
+[0:09] 4 Give mea party.
+[0:09] aavinAl
+[0:10] Send me some mney,
+[0:10] jig
+[0:10 - 0:16] (GAVIRAL RAJAWAT.
+[0:11] because you're going
+[0:12] to be a millionaire
+[0:14] 74 Don't forget me when
+[0:16 - 0:17] 4 friend in poor time.
+[0:18] 1 get richin illo!
+[0:18] 4 | will be your
+[0:19] riend in your rich time
+[0:19] lyf
+[0:20] Hit
+[0:20] iii
+[0:20] vor” y
+[0:20 - 0:21] I can see the potential.
+[0:21] wae,
+[0:21] ane
+[0:23] overtake Elon Musk.
+[0:23] SUNN
+[0:24] You are so rich that
+[0:27] ee) 4
+[0:28] Pay
+[0:29] (RAL RAJAWAT
+[0:29] 4 AY
+[0:31] 653
+[0:32] van

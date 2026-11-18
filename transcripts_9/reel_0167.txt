@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[167] https://www.instagram.com/reel/DfxVMlUvBkB/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:09] Trust the overthinker who
+[0:00 - 0:09] tells you they love you. They :
+[0:00 - 0:09] have, most assuredly, thought
+[0:00 - 0:09] of every reason not to.
+[0:01] ial
+[0:01] “q you they love you. Thi
+[0:01] कमी
+[0:02] Ean

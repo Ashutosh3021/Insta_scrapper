@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[595] https://www.instagram.com/reel/DcYRekPNp6v/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: pa
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] ਕੈ ਨੂ ਮੇਲ ਜਾ ਮਾਂਗੇ ਆਕੇ ਦੂਰ ਦੋ ਰਾਟੇ ਤੋ
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] eee
+[0:02 - 0:04] ill
+[0:05 - 0:06] हिंता ओ कहाकी के...
+[0:06] जम ill «

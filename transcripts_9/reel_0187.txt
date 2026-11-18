@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[187] https://www.instagram.com/reel/Dfw5rh3NhFk/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] हर किसी के पास वो दोस्तों होता ही है जो लड़की पटाने के लिए kindergarten में घुश जाता है या फिर बच्चों के school में घुश जाता है, second, third class में घुश जाता है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:06] Send this toa friend
+[0:05] Fae
+[0:07] fay this toa friend

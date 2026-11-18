@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[137] https://www.instagram.com/reel/DfxYrZgtAgu/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: nn
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] Takk for ating medietekst.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 300 oy 1 मम
+[0:00] 9118
+[0:00] soo
+[0:00] oss |
+[0:00 - 0:01] r credit protection
+[0:01] poo8
+[0:01] aoa
+[0:02] fy Se
+[0:03] uae
+[0:03] soo
+[0:04] oe a
+[0:05] hig,
+[0:10] i के
+[0:12] aft

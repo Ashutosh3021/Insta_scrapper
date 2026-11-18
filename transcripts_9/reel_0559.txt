@@ -1,0 +1,13 @@
+# model: ggml-large-v3
+========================================================================
+[559] https://www.instagram.com/reel/DdHieOGNDn2/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: zh
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] 字幕提供者 杨栋梁
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] see
+[0:02] आता,

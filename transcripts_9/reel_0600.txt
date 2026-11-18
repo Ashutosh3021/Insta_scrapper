@@ -1,0 +1,68 @@
+# model: ggml-large-v3
+========================================================================
+[600] https://www.instagram.com/reel/Daf_vnLvCU1/
+STATUS: OK
+DURATION: 0:47   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Usually 5's better, said the OG
+[0:01 - 0:05] Imagine if I never switched from 03
+[0:05 - 0:08] Claws flying, claws flying
+[0:08 - 0:12] I can't coach it on my own, ayy no
+[0:12 - 0:15] Gotta watch context window, window
+[0:15 - 0:19] I've been here since 2.0, .0, ayy
+[0:19 - 0:21] Server down cause MCP, yeah
+[0:21 - 0:24] Fought those my API keys, yeah
+[0:24 - 0:27] Make another .md, yeah
+[0:27 - 0:29] But still
+[0:29 - 0:35] Bad change, it's a lot of bad changes
+[0:35 - 0:37] They shipping, they shipping, they shipping
+[0:37 - 0:39] They shipping, they shipping for me
+[0:39 - 0:41] Yeah
+[0:41 - 0:47] Bad change, it's a lot of bad change
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] Actually 5's better
+[0:00 - 0:02] says the OG
+[0:00 - 0:47] 20:34 ७
+[0:00 - 0:47] 3 Claude's Plan छ
+[0:03 - 0:05] Imagine if | never
+[0:03 - 0:05] switched from 03
+[0:03 - 0:12] Por छा.
+[0:10] Pion
+[0:10 - 0:12] I can't code shit on
+[0:10 - 0:12] my own (ay no)
+[0:13 - 0:14] on छा8
+[0:13 - 0:16] Gotta watch context
+[0:13 - 0:16] window (window)
+[0:15 - 0:16] ok छ9
+[0:17 - 0:19] I been here since 2.0
+[0:20 - 0:22] Server down cuz MCP
+[0:20 - 0:22] (yuh wait)
+[0:23 - 0:25] Claude knows my API
+[0:23 - 0:25] keys (yuh wait)
+[0:26 - 0:29] Make another .md
+[0:26 - 0:29] (yuh wait)
+[0:27 - 0:28] Por छा
+[0:29] जा को छा
+[0:29 - 0:34] But still, bad changes
+[0:30] ok छ8
+[0:31] ok छ5
+[0:33] ioe छ9
+[0:34] on छ9
+[0:35] echinnina far ma
+[0:35 - 0:40] It's a lotta bad
+[0:35 - 0:40] changes they
+[0:35 - 0:40] shipping, they
+[0:36 - 0:40] echinninga for me
+[0:38 - 0:39] eff Guc
+[0:41 - 0:43] Jeff Guo
+[0:41 - 0:44] Yeah
+[0:44] Jeff
+[0:45] Guo
+[0:45] Bad changes
+[0:46 - 0:47] It's a lotta bad
+[0:46 - 0:47] changes they
+[0:46 - 0:47] shipping, they
+[0:47] chinnina for me

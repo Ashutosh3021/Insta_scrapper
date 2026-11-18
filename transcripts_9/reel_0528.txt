@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[528] https://www.instagram.com/reel/Der9ljzz3E_/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] being too attractive will make y'all single i ain't gonna lie like
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] being)
+[0:00 - 0:03] iwilllmake)
+[0:00 - 0:03] youl
+[0:02] oa a=
+[0:02] yous
+[0:03] Ine)
+[0:05] हक 3. अल

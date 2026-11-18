@@ -1,0 +1,39 @@
+# model: ggml-large-v3
+========================================================================
+[319] https://www.instagram.com/reel/DfrlPmTPhBy/
+STATUS: OK
+DURATION: 1:31   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] बाई, 2026 में लड़कियों को लगता है वो भगवान बन चुकी है।
+[0:02 - 0:06] So, basically मैं एक लड़की के साथ date पर गया था from Tinder, okay?
+[0:06 - 0:06] So, मैं date पर गया, बाई, I became a gentleman for her, मैंने उसका bags पकड़े, मैंने कहा, चलो ठीक है बाई, like I'll hold your bags for you, I paid for her, something, मतलब 20%, 10% उसको कुछ खरीदना था, म
+[0:06 - 0:26] तो मैं देट पर गया भाई, I became a gentleman for her, मैंने उसका bags पकड़े, मैंने कहा चलो ठीक है भाई, like I'll hold your bags for you, I paid for her, something मतलब 20%-10% उसको कुछ खरीदना था, मैंने pay कर दिया, and उसके बाद क्या हुआ guys, उसके बाद after the date everything went well, we started talking and everything,
+[0:26 - 0:56] और एक दिन बाद वो में को कहती है कि कल सुबा 6 बजे में को जाना है घर लाजिस्थान जाना है भोपाल से और उसके लिए तो में को यूनिवर्सिटी से पिक करो उसकी यूनिवर्सिटी थी यहां से 40 किलोमेटर्स दूर में पास बाइक थी और कहरी 5 बजे की मेरी ट्र
+[0:56 - 1:18] मैंने कहा भाई, okay, as you wish, and उसके बाद मैंने block कर दिया, क्यों लगता है लड़कियों को ऐसा की भाई, they deserve everything, मेरे ख्याल से you should treat a woman like a queen, if you know her enough, लेकिन भाई एक दो दिन के बाद किसी को इतना expect करना, I think that is very wrong and diabolical, और इतनी हिम्मत कहां से आती लोगों में भाई,
+[1:18 - 1:31] और अगर मैं इतना करता अपनी मा के लिए तो समझाता, अगर मैं इतना करता अपनी भैन के लिए तो समझाता, अगर मैं इतना करता अपनी पत्नी के लिए तो समझाता, लेकिन दो दिन पहली लड़की के लिए मैं इतना क्यों करूँगा guys, what the hell?
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:08] Some girl's ego
+[0:02] a ve
+[0:02] whi
+[0:04] ‘ee, ia
+[0:06] कै 4
+[0:10] Ne te
+[0:10] है. ०
+[0:16] Cay \ है
+[0:22] 0७७,
+[0:23] नन्हे
+[0:28] 3 कक
+[0:29] 931
+[0:32] Ne Sf
+[0:35] Daw:
+[0:50] Wh J
+[0:56] कर - (4
+[0:57] sit
+[0:58] 5 ५ J
+[0:58] ॥५ सर
+[1:05] wat
+[1:07] 2०८
+[1:23] | हैं

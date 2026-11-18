@@ -1,0 +1,176 @@
+# model: ggml-large-v3
+========================================================================
+[111] https://www.instagram.com/reel/Dfxbh5tt1jQ/
+STATUS: OK
+DURATION: 1:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Australian weather is actually the biggest scam ever.
+[0:02 - 0:06] You wake up in the morning and it is freezing so you put on a hoodie.
+[0:06 - 0:11] 10 minutes later it's 30 degrees and you are sweating like you have just ran a marathon.
+[0:11 - 0:16] Then suddenly the sky turns black, the wind starts going crazy and it starts raining out
+[0:16 - 0:18] of nowhere bro.
+[0:18 - 0:22] I just put my laundry outside and Australians will literally check the weather app, see
+[0:22 - 0:27] a 90% chance of rain and still decide to have a BBQ.
+[0:27 - 0:32] Because apparently in Australia you don't cancel plans because of bad weather.
+[0:32 - 0:37] You just stand outside holding a sausage hoping for the best and don't even get me started
+[0:37 - 0:38] on the sun.
+[0:38 - 0:43] You walk outside for 15 minutes and suddenly your skin is burning like you have been standing
+[0:43 - 0:44] next to an oven.
+[0:44 - 0:49] And the funniest part, an Australian will look at all this happening and casually say
+[0:49 - 0:52] "Yeah, nah she'll be right".
+[0:52 - 0:57] Mate the sky is literally falling apart but honestly Australian weather makes perfect
+[0:57 - 0:57] sense.
+[0:57 - 1:02] It's cold in the morning, hot in the afternoon and raining by evening.
+[1:02 - 1:05] You don't check the weather forecast in Australia.
+[1:05 - 1:08] You just prepare for everything and hope something goes right.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ll का.
+[0:00] jj J
+[0:00] Poe
+[0:00 - 1:08] ~.. Australia's weather is
+[0:00 - 1:08] crazy “}
+[0:01] is actually the
+[0:01] f jj
+[0:01] Pry
+[0:02] बज biggest scam ever.
+[0:02] id j
+[0:02 - 0:03] rey i
+[0:03] iM j
+[0:03] la ea
+[0:03 - 0:04] morning and it's freezing,
+[0:04] Fae é
+[0:05] so you put on a hoodie.
+[0:06] =», 10 minutes later,
+[0:06] Sie it
+[0:07] a का
+[0:07 - 0:08] ™) it's 30 degrees and
+[0:08] Pua kt
+[0:09] AIA
+[0:09 - 0:10] you have just ran a marathon.
+[0:10] a फा
+[0:10 - 0:11] GAVIRAL RAJANAT
+[0:11] ™ Then suddenly the
+[0:11] rr yi
+[0:12] — ba! turns black,
+[0:12] wg f
+[0:12] ARAL कक
+[0:12] ra हैं / //
+[0:13] 7 the wind starts
+[0:13] GAVIRAL oS ms
+[0:13] tps
+[0:14] ™ going crazy and it
+[0:14] laff !
+[0:14 - 0:15] GAVRAL RAJAWAT "
+[0:15] > | a crazy and it
+[0:15] पु. j
+[0:15] wT 4
+[0:16] ™ starts raining out
+[0:16] 61010 RAJANAT
+[0:17] = Bro,
+[0:17] A tM
+[0:18] \just put my
+[0:19] | laundry) outside and
+[0:19] Sta
+[0:20] >, A cata will
+[0:20] PT Sf / Ze
+[0:21] mf literally check the
+[0:21] है val
+[0:21] Silt
+[0:22] see 90% chance chance of
+[0:22] १9.4
+[0:23] see a 90% chance of
+[0:23] te EMS
+[0:24] rain and still
+[0:24] Ath.
+[0:25] ay | j
+[0:25] क्री
+[0:25] GAVIRAL 9000
+[0:25] 0 री
+[0:25 - 0:26] ‘decide to havea barbecue. |
+[0:26] प्र
+[0:27] Gavin
+[0:28] Because apparently,
+[0:28] Pry i
+[0:28] Y # 6 38
+[0:28 - 0:30] ‘GAVIRAL.RAUAWAT
+[0:29] in Australia,
+[0:30 - 0:31] plans because of bad weather.
+[0:31] a ae
+[0:31] CGAVIRAL.RAJAMAT
+[0:31] ८22
+[0:32] “| You just stand
+[0:32] A dj |
+[0:33] outside holding a sausage, |
+[0:33] yg ft
+[0:33] कर्ता
+[0:34] ~ hoping for the best,
+[0:34] and
+[0:35] f pekinese for the best,
+[0:36] YB i
+[0:36 - 0:37] __me started on the sun.
+[0:37] 67 7
+[0:38] * You walk outside for
+[0:38] 4 Z 1
+[0:38] 672८
+[0:39] F | airesoes =e and
+[0:39] T\ से
+[0:39] yy if
+[0:40] f suddenly your skin
+[0:40] a oh
+[0:41] Tis burning like you
+[0:41] ARAL RANT
+[0:42] have been standing
+[0:42] ७1008
+[0:43] next toan oven.
+[0:43] 4 dj
+[0:43] / veut rasan
+[0:44 - 0:45] “And the funniest part,
+[0:44 - 0:45] ‘SAVIRAL RAJAWAT ii
+[0:46] an Australian will
+[0:46] PA 60010 RAJAWAT:
+[0:47] look at all this
+[0:47] od) ia
+[0:48] { happening an
+[0:48] ded
+[0:48] 222
+[0:49] ff casually say, vs”
+[0:50] yeah,
+[0:51] [shetibe right be right. gamle
+[0:52] of ७०००० के
+[0:53] the sky is 332
+[0:53] i ze
+[0:53] if 47८.
+[0:54] falling apart. |
+[0:54] Athy
+[0:55] शिव
+[0:55] But honestly,
+[0:55] हर wa:
+[0:56] GAVIAAL RAUAWAT
+[0:57] OF की क->
+[0:57] makes perfect sen
+[0:57] ies
+[0:57] AVAL is
+[0:58] i ee
+[0:58 - 0:59] It's cold in the morning,
+[0:59] / ही a
+[1:00] hot in the afternoon
+[1:00] प्र S
+[1:00] hand
+[1:00] 81000
+[1:01] and raining by evening
+[1:01] GAVIRAL RAJAN
+[1:03] श्र
+[1:03 - 1:04] weather forecast in Australia
+[1:04] wus
+[1:04] हट . J
+[1:04] हैः
+[1:05] You just prepare for
+[1:05] ब्रा
+[1:05] e ww;
+[1:06] ris fost al and none.
+[1:07] everything and hope
+[1:08] something goes right
+[1:08] hese

@@ -1,0 +1,13 @@
+# model: ggml-large-v3
+========================================================================
+[183] https://www.instagram.com/reel/Dfw9nLPNGbZ/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: ur
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] میں اپنی بندی یا وائف چاہتا ہوں جیپور سے ہو کیوں جیپور سے ہی کیوں کیونکہ جیپور پنک سٹی ہے
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:07] Jaipur dark joke
+[0:02] a oe

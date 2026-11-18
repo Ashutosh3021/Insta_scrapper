@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[132] https://www.instagram.com/reel/DfxYz_uNNMy/
+STATUS: OK
+DURATION: 0:19   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] and the most single person of 2026 about goes to you in 2026 also you were
+[0:08 - 0:14] single and you couldn't get a partner it's time to pack it up but you know
+[0:14 - 0:18] what we all love you and we want to honor you and appreciate you for your
+[0:18 - 0:20] achievement
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ह91
+[0:00 - 0:19] Most single
+[0:00 - 0:19] person of 2026
+[0:00 - 0:19] award ff
+[0:01] Fak
+[0:01] —SAai\
+[0:01] emer
+[0:02] " single
+[0:03] tai
+[0:03] प्र
+[0:04] sit
+[0:04] Aas
+[0:04] ean
+[0:06] 885
+[0:07] also
+[0:07] जहर
+[0:08] 126 also
+[0:08] 1 eo
+[0:09] LAY |
+[0:09] ial
+[0:09] pee
+[0:10] feet
+[0:11] हैं हि
+[0:12] & single
+[0:12] SLT.
+[0:13] FE r
+[0:13] 0७४
+[0:14] eon
+[0:15] 4८54.
+[0:16] iat
+[0:17] wal
+[0:18] for,
+[0:18] हु हे
+[0:19] for yor
+[0:19] हैं

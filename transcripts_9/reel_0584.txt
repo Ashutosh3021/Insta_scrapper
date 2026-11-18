@@ -1,0 +1,45 @@
+# model: ggml-large-v3
+========================================================================
+[584] https://www.instagram.com/reel/DcvNgvqt-Jk/
+STATUS: OK
+DURATION: 0:34   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] यार ये लड़का तो एक कंदे पर बैक तांगता है
+[0:03 - 0:06] अब तो इसके जिसम की साथ खेलना बनता है यार
+[0:06 - 0:08] यार इसका बैक तांगने का स्वैग तो देखो
+[0:08 - 0:10] इसका स्वैग देखके तो मैं लैग हो गई
+[0:10 - 0:12] यार इसने एक कंदे पर तो बैक तांग रखा है
+[0:12 - 0:12] दूसरे कंद
+[0:12 - 0:32] यार इसका बैक तो बैक तांगने का स्वैग तो बैक तांग रखा है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] lofboysiafter:
+[0:00] bagjonjone)
+[0:01] oc eae
+[0:02] peas
+[0:02 - 0:04] (onjonejshoulderg
+[0:03 - 0:33] (of boysiafiter
+[0:07 - 0:08] ihanging|bagion
+[0:09] Suigneshouldeg
+[0:10] bag
+[0:10 - 0:15] ragjonjonelshoulderg
+[0:11] (onfonejshoulderg
+[0:12] ist
+[0:12] = eae
+[0:12] foe
+[0:13] ast
+[0:13] fet
+[0:14] iad
+[0:14] Nye
+[0:15] igingibag
+[0:15] iit
+[0:16] Aye
+[0:18] mer
+[0:19] (onjonejshoulderg
+[0:21] Nee
+[0:22] ent \
+[0:30 - 0:32] (onfonejshoulderg
+[0:31] जज ५
+[0:33] Lek

@@ -1,0 +1,66 @@
+# model: ggml-large-v3
+========================================================================
+[570] https://www.instagram.com/reel/Dc4O9T8ND5w/
+STATUS: OK
+DURATION: 1:03   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:21] पता है मैंको बिहारियों के सबसे बड़ी दिक्कत क्या लगती है, it's the exclusivity fact, पता है ये जहां भी जाते हैं अपना culture लियाते हैं, मतलब अजीब सा लगता है भाई, मतलब for example you go to a cafe, you go to a bar and then you see a Bihari person that is well behaved, it is already fine, it is always fine, I have no problem with that,
+[0:21 - 0:40] but किसी culture के लोग अगर include नहीं होते हैं society में, for example अगर मैं cafe में जा रहा हूँ, मुझे काम रहना है ताकि बाकी लोग भी enjoy कर सकें, right, but बिहारी लोग आके full on flesh, full flesh, ये, खेसारी लाग, so वहाँ पर जो है कमी वदा होती है,
+[0:41 - 0:46] और बहुत सारी बिहारी ये कहते हैं कि यार हम तो ऐसे हैं भाई बिहारी तो ऐसी तैसी कर देंगे
+[0:46 - 0:49] बट मोस्ट अब बिहारी लेबर्स गो तो उजरात और अगर स्टेट्स
+[0:49 - 0:49] ना ये मैंने कह रहा हूँ कि बिहारी बेखार होते हैं लाइक बिहारी से बढ़िया लॉयल
+[0:49 - 0:55] ना ये मैं नहीं कह रहा हूँ कि बिहारी बेखार होते हैं लाइक बिहारी से बढ़िया लॉयल बंदे मैंने नहीं देखे
+[0:55 - 1:03] और ये बढ़िया बेखार होते हैं लाइक बिहारी से बढ़िया लॉयल बंदे मैंने नहीं देखे
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ff. do everyone hate Bihari | ax
+[0:01] i ओँ
+[0:01] Bw es
+[0:05] fe 840
+[0:05] pwr
+[0:09] है के
+[0:09 - 0:10] Why do everyone hate Bihari
+[0:13 - 0:18] Tl Why do everyone hate Bihari f
+[0:16] tess
+[0:16] VAL
+[0:16] fey
+[0:18] rae
+[0:19] Why do everyone hat
+[0:19] 7. एज
+[0:20] bse
+[0:22] 4222 0५
+[0:23] eryone hi
+[0:24 - 0:28] Why do everyone hate Bihari
+[0:27] | Why do every
+[0:27] hate Bihari
+[0:27] ५,१०६
+[0:28] ail
+[0:28] tir
+[0:31] Why do everyone hate Bian
+[0:32] Why doer
+[0:32 - 0:45] Why do everyone hate Bihari
+[0:34] ged
+[0:35] ही. 4
+[0:41] प्र
+[0:41] i? है न
+[0:41] eid
+[0:41] थे डे
+[0:42] peu
+[0:44] POR
+[0:45] Fi i,
+[0:46] Sere
+[0:46] i ae
+[0:47] हे y
+[0:49 - 0:55] Why do everyone hate Bihari
+[0:50] Jif f
+[0:50] TKS
+[0:55] 5 जा
+[0:58] AA, vel yon hate Bihari
+[0:58] श्र
+[0:58] Pe5
+[0:59] Why do everyone hate Bihari
+[1:02] Why do everyone hate Bihari
+[1:03] OTe
+[1:03] 222

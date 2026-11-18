@@ -1,0 +1,64 @@
+# model: ggml-large-v3
+========================================================================
+[39] https://www.instagram.com/reel/Dfz4BmmNvsR/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] लुक्समेक्शन कैसे करें? हर दिन कार्डियो करो, आठ गंटे से ज़्यादा सो, अपनी आइब्रोस को डाइ कर लो डारकर, ब्लैक कलर में, अपना बाल बढ़ा लो, मैसेटर्स मसल ट्रेन करो, एक गंटे से ज़्यादा संलाइट लो, सोडियम फ्लॉश कर दो, अपना �
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Wie ५७ ay BUEN Hun
+[0:00 - 0:25] How to do Looks maxing
+[0:01] jes
+[0:01] "Weck
+[0:01 - 0:07] Cardio,
+[0:02] neo व
+[0:02] Cardiggt
+[0:02] Dye,
+[0:03] Paks
+[0:03] tral
+[0:03] light eve
+[0:04] rd rm
+[0:04] किक
+[0:05] है é
+[0:06] ors
+[0:06] arker
+[0:06] id mewing
+[0:06] iti
+[0:07] ०५६ है
+[0:07] yay
+[0:07] pint
+[0:08] Cardiogvewdayy
+[0:08] ye ei
+[0:08] ०५९ है
+[0:09] ACA
+[0:10 - 0:19] (Cardi
+[0:11] Cardiogs
+[0:11] on आह cs
+[0:12] B hy
+[0:12] Foye,
+[0:12 - 0:14] Dye,
+[0:13] gas:
+[0:14] 1 tugks
+[0:15] (GAVRALRASAWAT.AL
+[0:16] 128
+[0:20] vey
+[0:20 - 0:21] Cai
+[0:20 - 0:22] ake
+[0:20 - 0:22] sqgium
+[0:20 - 0:22] id mewing
+[0:21] Dye
+[0:21] atker
+[0:21] ere
+[0:21] ean
+[0:21] pin '
+[0:22] Car
+[0:22] hint
+[0:23] id rm
+[0:23] leaned a
+[0:24] _ pe Cardi
+[0:25] Cai
+[0:25] 8157
+[0:25] Foye,

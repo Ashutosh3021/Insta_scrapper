@@ -1,0 +1,228 @@
+# model: ggml-large-v3
+========================================================================
+[30] https://www.instagram.com/reel/Df1lUgXte31/
+STATUS: OK
+DURATION: 1:11   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] फेस फैट कैसे कम करें पहली बात तो भाई फेस फैट अगले कम नहीं होगा पूरा बॉडी फैट कम करना पड़ेगा और 10-15% के बीच में बॉडी फैट रखोगा अगर आप बहुत मोटे हो तो कार्डियो करो और बेस्ट कार्डियो है भाई स्केपिंग रोप या रनि
+[0:30 - 0:59] थर्ड नंबर पर आता है ग्वाशा, ग्वाशा एक टूल होता है बाई, ओयल लगाओ या मॉस्टराइजर लगाओ और अपना चेजल कर लो पूरा फेस, तो बढ़िया डेफिनेशन आ जाएगी।
+[1:00 - 1:11] अपना चेजल कर लो पूरा फेस, तो बढ़िया डेफिनेशन आ जाएगी।
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ~~ CTE
+[0:00 - 1:11] How to reduce face fat
+[0:01] 13661 सका कर
+[0:01] Felsmuctbodyitaticouich cay
+[0:02] शक 39 हि
+[0:02] wane?
+[0:02 - 0:03] Racotrenierien? eau
+[0:03] iemeatace)
+[0:04] woueinesh
+[0:04] Leman
+[0:05 - 0:07] woueinenr
+[0:06] 'छक्वी, 0383
+[0:06] y uf § W
+[0:07] Bibody
+[0:07] andi
+[0:08] 18 FES
+[0:08] rum
+[0:08] बीत]
+[0:08] CORED
+[0:08] ही लाठी
+[0:08] Ee 4
+[0:09] “arene ge
+[0:09] opel
+[0:09] Foriqunnings
+[0:09] erates
+[0:09] ene:
+[0:10] gape
+[0:10] icy
+[0:10] PRED
+[0:10] ccc
+[0:11] hors)
+[0:11] cade
+[0:11] Sits
+[0:11] दी ला
+[0:12] more!
+[0:12] खजार्‌'
+[0:12] ही ष्छ्लोज्लि
+[0:12] im 4
+[0:13] foil criiface)
+[0:13] BUR, chenend erenlook
+[0:13] जे oa
+[0:13 - 0:14] fehag ert, face ticing best
+[0:14] 'छुल्ला-छ््ाज्िह्ी दाह
+[0:14] an, chezend earealoels
+[0:14] 4५3
+[0:14] तर र
+[0:15] face Ganga ysH थाई
+[0:15] ficingjany
+[0:15] bese
+[0:15] Riucailookg
+[0:16] Sorrucniface tcl क्यातित्यी दाह
+[0:16] fchng erat, Gace tk
+[0:16] faisnchazandhsicbilooks
+[0:16] wget!
+[0:17] Siig.
+[0:17] GIT GET
+[0:17] ताक रा
+[0:17] रचा CIA WEE?
+[0:17] cout"
+[0:17 - 0:22] hold}
+[0:18] SRR GIT BEAT
+[0:18] GQIIGNE, SSE, AT
+[0:18] (लाल siucniwaterg
+[0:19] ESET, चला
+[0:19] ea CA
+[0:19 - 0:20] Shy GUaTEBarT
+[0:20] चाल
+[0:21] Siageingnt
+[0:21] Raa
+[0:21] celal
+[0:21] eae
+[0:21] Ect niwaterg
+[0:22] Shycikgiam
+[0:22] TRB SL
+[0:22] cara
+[0:22] coi
+[0:22] es Ce WEP
+[0:23] facot, ती। 02061 0॥ 0 कराता ।
+[0:23] ली का दीलड्ा
+[0:23 - 0:24] रहा।
+[0:24] ewe
+[0:24] ail
+[0:24] ited
+[0:24] नमक रवाना;
+[0:24] दीहह्मा
+[0:25] धाजल्लीलिा
+[0:25] ESTES NG Ck पीछा
+[0:25] aie
+[0:25 - 0:27] facot, cimatar holder
+[0:26] facot, cimatar 0॥0 करा तो
+[0:26] छील्वाह्लणा 3७ दी थाजलीलिला
+[0:26] 'रवाया।
+[0:26] ली का दीलड्ा
+[0:27] Eicieuiiace
+[0:27] दा धाजलीलिता
+[0:27] 'रवाजा
+[0:27] Rene साई Sa
+[0:27] “uf आआण
+[0:27] aye
+[0:28] [cassette\reamiithingl
+[0:28] numbers
+[0:28] aa i Roollely
+[0:28] बजे
+[0:29] a शाह ese ial
+[0:29] wae?
+[0:30] gmarartacomodlert
+[0:30] "है धाह्मात्रि छुछछ 0०ओह्लीछा
+[0:30 - 0:32] (oil)
+[0:31] Sicoitacemodelicy
+[0:31] lnumbel
+[0:31] toollcly
+[0:31] “मैं
+[0:31 - 0:32] cassettelsiemifth ing}
+[0:32] fraceimodelany
+[0:32] number’
+[0:32] wooitoollelay
+[0:33] fag
+[0:33 - 0:34] cremuchiberexn siya
+[0:33 - 0:37] crIRTermoisterizer See
+[0:34] हणाध्यीणाएबीजाएतीय 7 छह
+[0:34] jac
+[0:35] cel
+[0:35] face}
+[0:35 - 0:37] cikerarcheirer’
+[0:36] caer
+[0:36] fsterizer SHI
+[0:36] fracemistegy
+[0:36] Ray
+[0:37] 0233 दा हक!
+[0:37] sug,
+[0:38] wire
+[0:38] imusclesiazi
+[0:38] Kiimuscleisci
+[0:39 - 0:41] erie
+[0:39 - 0:41] imusclelacy
+[0:39 - 0:42] exiiciemesmmuscdies er
+[0:40] RRR
+[0:40] त्लिह्वीजिच्लाल्जी
+[0:40] eritciemesmusclss ery
+[0:40] SKI
+[0:41] eles
+[0:41] SINGS
+[0:42] wiRERTipnieEa
+[0:42] 'मतलब| 11106 अन|
+[0:42 - 0:44] जाएगी और;
+[0:43] SERRE
+[0:43] ्लिह्मीजिच्छाल्जी
+[0:43] 'धाजक्[एएजबीडछ छा
+[0:43] ilimuscleisci
+[0:44] जाएँगी मतलब
+[0:44] [3 छा
+[0:45] y, ‘Vs
+[0:45] vee?
+[0:47] 6१६65,
+[0:47] Cig)
+[0:47] siz eran
+[0:47] क्र
+[0:47] के“ के
+[0:47 - 0:48] wHaNneckerbamwe
+[0:47 - 0:48] आपकी neck’sigqi
+[0:48] ९१६६5,
+[0:48] eee
+[0:48] और हमेशा|
+[0:50] eaeneckerbaawea
+[0:50] /#:बर्त्ी३9 फिर दाह
+[0:50] व ce
+[0:54] यो टी (00101 0५ ६1511 021८6]
+[0:54] हिल
+[0:54] Off
+[0:54] ART SURAERAL
+[0:54] Reakaa|
+[0:55] controversial ackisa
+[0:55] procter
+[0:55] Societe
+[0:56] Sukicomtroversial advices
+[0:56] BwrocttE
+[0:56] लि जितता।
+[0:57] ‘commoversial acivies:
+[0:57] जि चर छिदाहिकरदित्ता लिह॒दा
+[0:57] छ्जल्ाहंलीदाहकए
+[0:58] TENSES
+[0:58] FUNCT
+[0:59] CRUTEESES
+[0:59] छिद्ञावाली पहला पीर
+[0:59] कत्ल
+[1:00] PERI RUAaEsS
+[1:00] Sich
+[1:00] 'हिल्ही ही जु्
+[1:01 - 1:02] आाजत्यो वाली
+[1:02] PERINEUM sS
+[1:02] Seabees
+[1:03] WRICHR
+[1:03] fax
+[1:03] ae aie
+[1:03] Given:
+[1:04] ORCAS
+[1:04] gic
+[1:04] freensstny Gree
+[1:04] होगी।
+[1:04] 'ल्राबफिड लता
+[1:05] GRICHRRGRISIA
+[1:05] Bic
+[1:05] REET
+[1:05] rid
+[1:05 - 1:06] frag
+[1:06] CAR EARTGIS
+[1:06] Grea
+[1:06 - 1:07] Gitex:
+[1:06 - 1:07] SOCEM
+[1:07] एज घरप्ीवीदालहेदन्ली लिदादी दी
+[1:07] How to reduce 1806 fat
+[1:07] 35 6
+[1:08] treckeiariaiga
+[1:10] ही CT
+[1:10] CRTAT IQS

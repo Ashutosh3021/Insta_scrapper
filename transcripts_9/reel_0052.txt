@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[52] https://www.instagram.com/reel/DfzYw1CNpps/
+STATUS: OK
+DURATION: 0:55   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] भाई मेरा एक follower है उसकी height है 5 foot 3 inch ठीक है न उसने अपनी story सनाई कि भाई वो 2014 से you know facebook वगैरा instagram वगैरा पे active है बहुत सारी लड़कियों को follow records भेजा है बहुत सारी लड़कियों से respectfully flirt करा है बात करी है ताकि भाई कोई girlfriend बन जाए लेकिन एक भी girlfriend नहीं बनी वो 5 foot 3 का है और
+[0:30 - 1:00] जाता है और पीछे होना ही चाहिए तो मैंने ऐसे यही उनको रिकमेंट करा कि भाई आप डेटिंग वेटिंग छोड़कर शादी करने का देख लो एक बढ़िया सी बीवी देख लो भाई तो मतलब सरकार को तो भाई पेंशन देनी चाहिए 5 पर 7 से जो नीचे है क्योंक
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Indians below 5'7
+[0:00] कुछ
+[0:01] bees
+[0:03 - 0:29] Indians below5'7 |
+[0:05 - 0:11] (GAVIRALRAJAWATAL
+[0:10] SMe
+[0:12 - 0:13] AJAWAT.AL
+[0:20 - 0:26] (GAVIRALRAJAWATAL
+[0:23] a ll
+[0:32 - 0:54] Indians below 5'7
+[0:34] JANATA
+[0:35 - 0:41] (GAVIRALRAJAWATAL
+[0:38] के 7
+[0:40] wes
+[0:50 - 0:54] (GAVIRALRAJAWATAL

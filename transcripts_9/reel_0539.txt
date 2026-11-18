@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[539] https://www.instagram.com/reel/Der9ZIAzAdi/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Some people think if they use wired earphones, they look cool and aesthetic.
+[0:04 - 0:09] But in reality, you are a gooner and a loner and you need to get a life.
+[0:09 - 0:13] Instead of using those wired earphones, you are not performative.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Some people think if
+[0:01 - 0:02] bi) use wired earphones
+[0:03] they look cool and
+[0:04] aesthetic butin reality
+[0:04] sey
+[0:05] you are 8 gooner and
+[0:06] —_— अआआिाम
+[0:07] aloner and youneed
+[0:07] हैं.
+[0:07] wees
+[0:09] 10 le life instead
+[0:10] of using those wired ta)
+[0:10] anit
+[0:11] sey
+[0:11] earphones
+[0:12] performative.

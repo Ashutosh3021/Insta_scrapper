@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[200] https://www.instagram.com/reel/DfwzefjNHW7/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] मैंने जादू सीखा है कोई भी गाली अपने मन में सोच लो
+[0:03 - 0:04] सोच ली
+[0:04 - 0:08] 3,2,1 वही हो आप
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] ix reading
+[0:01] fe जज
+[0:02 - 0:07] ras reading
+[0:03] (स 0१४७४
+[0:04 - 0:06] Mind reading

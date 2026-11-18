@@ -1,0 +1,31 @@
+# model: ggml-large-v3
+========================================================================
+[117] https://www.instagram.com/reel/DfxbYnQtLWP/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] I can read your mind, think of any abusive word in your mind, done and that is what you are.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] I can read your mind
+[0:00] 4८7
+[0:00 - 0:08] | will read your
+[0:01] min
+[0:01] Be i
+[0:02] avin,
+[0:02] Think of any abusive
+[0:02] 524)
+[0:03] uli
+[0:03] word in your mind.
+[0:03] Yad
+[0:03] off
+[0:04] Aint»
+[0:04] word in your mala,
+[0:04] 5३४ ”
+[0:05 - 0:08] mind
+[0:06] OS Le
+[0:07] > 10५.
+[0:07] And that is what you are.
+[0:07] Zap

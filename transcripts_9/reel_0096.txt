@@ -1,0 +1,55 @@
+# model: ggml-large-v3
+========================================================================
+[96] https://www.instagram.com/reel/Dfxak-7t1L2/
+STATUS: OK
+DURATION: 1:02   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Being a teenager in America is actually a scam.
+[0:02 - 0:05] Your parents tell you when you turn 16 you'll have more freedom.
+[0:05 - 0:09] So you turn 16 and suddenly you're applying for jobs,
+[0:09 - 0:12] paying for gas and getting charged $7 for a sandwich.
+[0:12 - 0:15] Bro, I thought I was supposed to enjoy my childhood.
+[0:15 - 0:21] And why does every American parent act like turning 18 means you're suddenly a fully functional adult?
+[0:21 - 0:25] One day you're asking your mom to make you chicken nuggets
+[0:25 - 0:26] and the next day she's like,
+[0:26 - 0:29] you need to start thinking about your future.
+[0:29 - 0:30] What future?
+[0:30 - 0:35] I still have 47 missing assignments and don't even get me started on college.
+[0:35 - 0:38] They tell you to follow your dreams, get a degree and chase your passion.
+[0:38 - 0:42] Then you graduate with $80,000 in student debt
+[0:42 - 0:47] and start applying for jobs that require 5 years of experience for an entry level position.
+[0:47 - 0:49] I was literally in school 5 minutes ago.
+[0:49 - 0:54] And the worst part, you spend your entire childhood wishing you were an adult.
+[0:54 - 0:57] And then you become an adult and realize
+[0:57 - 1:02] being a kid was the only time you were rich because at least the rent was free.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 1:02] Being a teenager
+[0:00 - 1:02] in America is hell
+[0:02] La scam.
+[0:05] have more freedo:
+[0:08] ing 10
+[0:09] vi aa
+[0:10 - 0:16] (GAVIRAL RAJAWAT
+[0:14] iol
+[0:19] है; 2
+[0:20] हैः
+[0:24] कार
+[0:25 - 0:30] GAVIRAL RAJAWAT
+[0:27] map
+[0:27] धरे
+[0:31] 60000
+[0:33] and do
+[0:33] even get
+[0:40 - 0:44] GAVIRAL.AAJAWAT
+[0:42] 60001.
+[0:45] 8000 RAJAWAT
+[0:46] 60000
+[0:48] Iwi
+[0:48] ral
+[0:54] थे हे
+[0:55 - 0:59] (GAVIRAL RAJAWAT
+[1:00 - 1:01] हक RAJAWAT
+[1:02] GAVIRAL.RAJAWAT.

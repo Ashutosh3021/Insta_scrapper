@@ -1,0 +1,22 @@
+# model: ggml-large-v3
+========================================================================
+[607] https://www.instagram.com/reel/DaZ6KZePBmM/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: nn
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[no speech detected - music or sound only]
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] ite
+[0:01 - 0:08] Al AUTOMATION
+[0:02] आया
+[0:02] #te-s
+[0:02] Sig
+[0:05] श्र
+[0:05] ates,
+[0:06] Eee
+[0:07] sone
+[0:08] owe
+[0:08] sore

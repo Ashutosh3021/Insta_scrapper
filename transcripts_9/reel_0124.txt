@@ -1,0 +1,29 @@
+# model: ggml-large-v3
+========================================================================
+[124] https://www.instagram.com/reel/DfxZqgkNjnz/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] send this to the most evil women you have ever met you're so evil that you turn witch into a
+[0:06 - 0:12] you are so evil stop being so evil with me why are you so rude you are so mean you're a meanie
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Sendithisitotheymosty
+[0:00 - 0:12] Send this to most evil woman
+[0:01] छा lab
+[0:03] val
+[0:04] १९ 0॥ turn jwitchtintoya)
+[0:04] ‘SF UZ
+[0:05] byoulturnywitch'into a}
+[0:06] Send this tom
+[0:06] t evil wom:
+[0:06] see q
+[0:07] eviltwithy
+[0:09] imesawihyyoutare:so}
+[0:09] had
+[0:10] bYoulare so mean yYoul
+[0:11] lare‘ameaniesEwill
+[0:12] fare)
+[0:12] ame)

@@ -1,0 +1,25 @@
+# model: ggml-large-v3
+========================================================================
+[115] https://www.instagram.com/reel/Dfxbc6uN6fp/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:13] Damn Michael Jackson bro, you look so good bro, you sing so good bro, teach me the aura and rays, you got so much aura and motion bro, damn Michael Jackson bro, you moonwalk so good, damn bro.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] Damn Michael Jackson bro,)
+[0:02] a look so good bro.
+[0:02] wae
+[0:02] Vif
+[0:03] You sing so eed bro.
+[0:05] Teach me the aura
+[0:06] and rays.
+[0:07] You got so much aura
+[0:07] bad |
+[0:08] and emotion bro.
+[0:09 - 0:10] Damn Michael Jackson fe
+[0:11] you Sal gd good.
+[0:12] you moonwalk so good.
+[0:13] Damn bro:

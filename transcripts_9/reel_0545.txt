@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[545] https://www.instagram.com/reel/DemY3yitJGi/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: ur
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] یہ نشہ اکھیوں میں زیادہ ہے شراب سے
+[0:03 - 0:06] اکھیوں میں زیادہ ہے شراب سے
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Satine arta Guzarith
+[0:03] GAVIRAL.RAJAWAT
+[0:03] tau

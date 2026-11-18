@@ -1,0 +1,75 @@
+# model: ggml-large-v3
+========================================================================
+[129] https://www.instagram.com/reel/DfxY3QvNUjP/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Indian dads are actually the biggest scammers in the world.
+[0:03 - 0:07] When you are a kid your dad tells you beta study hard I'll buy you anything you want
+[0:07 - 0:11] so you study hard get good marks and go to him asking for an iPhone.
+[0:11 - 0:14] And suddenly this man forgets every promise he has ever made.
+[0:14 - 0:18] He looks at you and says when I was your age I didn't even have a phone.
+[0:18 - 0:21] Bro then why did you promise me one?
+[0:21 - 0:26] And the funniest part is he spent 80,000 rupees on a phone for himself but when you ask for
+[0:26 - 0:30] 500 rupees he'll start explaining the Indian economy.
+[0:30 - 0:34] And somehow after giving you a 40 minute lecture on saving money he'll end it with the most
+[0:34 - 0:39] dangerous sentence in Indian history just wait until you start earning and then when
+[0:39 - 0:44] you realize your childhood wasn't a childhood it was a free trial of adulthood.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Sin
+[0:00 - 0:44] Indian Dads are
+[0:00 - 0:44] scammers
+[0:01] ually the biggest
+[0:01] 777:
+[0:02] sca
+[0:03] When you are a kid
+[0:04] & Auten
+[0:05] FAT?
+[0:08] PAA '
+[0:09] A Wew है.
+[0:09 - 0:16] CGAVIRAL RAJAWAT
+[0:10] for an iPhone.
+[0:10] ye 4
+[0:10] aor
+[0:12] v We ७ mk
+[0:13] promise he has ever made
+[0:14] He looks at you and say:
+[0:14] & Ave
+[0:15] Ss AY
+[0:15] tek
+[0:18] n have a pho
+[0:19] then why did you
+[0:20] Ty 2
+[0:21] rT 3 ४
+[0:22] TT + हे
+[0:22 - 0:23] he spent 80,000
+[0:23] 9 की
+[0:24] - ¥ mut
+[0:25] है के
+[0:25 - 0:31] GAVIRAL RAJAWAT
+[0:26] 0. 4 Wi के कहे
+[0:28] expl
+[0:28] ing the
+[0:29] ७ अप
+[0:30] And somehow,
+[0:30] ah aa
+[0:31] we A
+[0:32] saving money,
+[0:32] ee Ae \\
+[0:33] ५००)
+[0:34] के ५. Y
+[0:35] sentence in Indian histo:
+[0:35] Ss बी
+[0:36] anu
+[0:37 - 0:38] you start earning and the when ५ १७)|
+[0:37 - 0:38] realize
+[0:40] oun childhood wasn'ta
+[0:40] Wow at
+[0:40 - 0:44] GAVIRAL RAJAWAT
+[0:41] e के
+[0:41 - 0:42] childhood. It was a free
+[0:42] ito
+[0:43] trial of adulthood

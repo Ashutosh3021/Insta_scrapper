@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[546] https://www.instagram.com/reel/DeWx-r_PKnC/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:22] *Outro Music*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:03] 110
+[0:07] lees
+[0:08] Resa =
+[0:11] है के
+[0:12] E है
+[0:12] vel
+[0:14] HOA. Ui
+[0:17] bef
+[0:17] ARE
+[0:17] OL Bey
+[0:17 - 0:18] IWC]
+[0:18] Aas
+[0:21] ‘wily i

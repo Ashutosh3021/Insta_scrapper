@@ -1,0 +1,42 @@
+# model: ggml-large-v3
+========================================================================
+[514] https://www.instagram.com/reel/DeyvhUhtP1M/
+STATUS: OK
+DURATION: 0:28   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:21] This is not an exam, this is a survival test.
+[0:21 - 0:28] You don't pass this exam, you survive this exam because if you fail in it, you are dead.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] _iitametional Bem
+[0:00] oan
+[0:01] 3 03.2 ० चिा
+[0:01] ब्लू
+[0:01 - 0:08] Internationall|Exam]
+[0:02] Beam
+[0:02] 3 २५.२६,
+[0:02] fog
+[0:02] Virgie
+[0:03] 7 iwi
+[0:03] Le Ae
+[0:04] SBS
+[0:05] Gay)
+[0:09] shine
+[0:09 - 0:13] _ itemetionel Bem
+[0:10] 2४ ० eee
+[0:11] sat
+[0:11] rie |
+[0:12] Sa 0
+[0:13] Y ० ०.
+[0:14] Chass,
+[0:14] art
+[0:14] Jy re
+[0:14] see
+[0:14 - 0:15] ) International/Exam)
+[0:15] vy we
+[0:15] Bee
+[0:16] . iy? Tei
+[0:18] Thisisinotianlexam
+[0:19] Crw

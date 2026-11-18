@@ -1,0 +1,163 @@
+# model: ggml-large-v3
+========================================================================
+[26] https://www.instagram.com/reel/Df1piNYNX67/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] अगर तुम्हें इंस्टाग्राम पर ग्रो करना तो यह सुन लेना देखो भाई मेरे फॉलोर थे 15 साथ दिन पहले और अभी मेरे फॉलोर है 6000 पहली बात तो लोगों ने मेरे बहुत प्यार दिया और क्यों दिया है क्योंकि मैं अंधा दून पोस्ट करता हूँ भाई मैं
+[0:30 - 0:33] कुडे दान बना दो डस्ट बिन बना दो कि डालते ही जाओ रिल डालते ही जाओ
+[0:33 - 0:36] पुनीस टूपर स्टार वाली स्ट्रेटीजी फॉलो करो भाई और जल्दी जल्दी ग्रो होगे
+[0:36 - 0:36] अर्विन मेरा साती पुनीस टूपर स्टार और ऐसे बहुत सारे क्रियेटर्स हैं जो
+[0:36 - 0:39] अर्विन मेरा साथी पुनीस टूपर स्टार और ऐसे बहुत सारे क्रिएटर्स हैं जो
+[0:39 - 0:43] स्पैम लोग क्वालिटी रील्स डालते हैं क्योंकि इंस्टाग्राम बहुत ज़रदा रैंडम है भाई
+[0:43 - 0:43] मैंने ऐसे सी वीडियोस देखी हैं अपनी जिसमें 50-60% से ज़्यादा �
+[0:43 - 0:47] मैंने ऐसी ऐसी वीडियोस देखी हैं अपनी जिसमें 50-60% से ज़्यादा engagement है
+[0:47 - 0:50] मतलब अगर 1000 में 500-500 like भी आई हुए हैं
+[0:50 - 0:52] लेकिन वो 2000 से उपर नहीं गया है
+[0:52 - 0:54] और ऐसी वीडियोस भी देखी हैं जिसका like ratio बहुत कम है
+[0:54 - 0:57] और वो 2-3-4 लाग भी चली गई हैं
+[0:57 - 0:57] और अमेश
+[0:57 - 0:59] और अमेशा educational content डालो अगर follow करना है तो
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] follower:
+[0:00] Sere GER
+[0:00 - 0:59] How to grow on Instagram
+[0:01] said
+[0:02] 2 JS
+[0:03] bey
+[0:04] RATER ENTER
+[0:04] argsix thousand
+[0:04 - 0:06] eR RE
+[0:05] enepsixtthousand)
+[0:05] ब्रा
+[0:05 - 0:06] ARIES OINERTER
+[0:06] iesiathousand]
+[0:06] SEMcoiseds
+[0:06] हैँ.
+[0:07] CREST
+[0:07] ना ता
+[0:07] 1163॥|
+[0:07] poster
+[0:08] iReallpostichsiacil
+[0:08 - 0:10] Qeikeniieerpeainad
+[0:09] ceU poster gues
+[0:09] ireallposticnxs
+[0:10] eaten ae
+[0:10] Rorctoioiealiposticctict
+[0:10] 321
+[0:11] दि की॥ मे शा ॥1॥॥1॥01॥॥
+[0:11] RIERA
+[0:12] ccic
+[0:12] ETEK
+[0:12] oad
+[0:13] Rontesioueeyminimurn)
+[0:13] cat
+[0:13] SRR ERA
+[0:13] were
+[0:13 - 0:14] eee
+[0:14] yenierei
+[0:14] anes
+[0:15] Rene
+[0:15] (ied
+[0:15] ail
+[0:16] AUNTS CAR
+[0:16] Searels elcmicenes
+[0:16] Bicicqcrconeontentcily
+[0:17] ANGMAR
+[0:17] 11309 0 टी नगर
+[0:17] 1८01 611
+[0:17] हैः
+[0:18] depois
+[0:18] Ea irlinelatabley
+[0:18] Icontent,
+[0:18] poe
+[0:20] qGininivmdtwdy
+[0:20 - 0:21] eae
+[0:20 - 0:22] Rretesthitcitwentyidealsy
+[0:21] quia eveRTEET
+[0:21] UReael
+[0:21] Seer
+[0:22] arial OTR
+[0:23] exiar दीछादीदा
+[0:23] शह्नोत्िष्वाई्ाउएजआादि7४उ्लीड
+[0:23] eRe
+[0:23] हैँ
+[0:24] quicienisnamartwen
+[0:24] eae
+[0:25] Reman
+[0:25 - 0:26] Seen at
+[0:25 - 0:27] RTS SRRIT
+[0:26] Remce
+[0:27] content cee
+[0:27] (ऐसी पोस्टकरो।
+[0:28] conteny oe.
+[0:28] जद ते हवा!
+[0:28] SU RMR
+[0:29] ren EST
+[0:29] wks
+[0:29] 'हि7णहहज्डणदाध्योदाहाला
+[0:30] ela SsicroRr sig
+[0:30 - 0:33] strategy
+[0:30 - 0:34] eiicldustbinegicy
+[0:31] RUG
+[0:32] seretegy
+[0:32 - 0:34] SRR CRVERE SEL
+[0:33] RVG
+[0:34] Punsech superstar’
+[0:34] Fctrategyy
+[0:35] Cupenstarsiicd
+[0:35] age
+[0:36] fellow’
+[0:36] Sa शाह ESS
+[0:36] iGrowpeutuAnvindhaci,
+[0:36] ect
+[0:36 - 0:37] superstar Gx
+[0:37] eae
+[0:38] tlowat ag ives
+[0:38] grow,
+[0:38] faisiijbuneesitsupenstarmcigy
+[0:39] Raiicneatonsie\sil tow
+[0:39] Sle cksarci
+[0:40] kuixcreatons)
+[0:40] Geckerrcinandom)
+[0:40 - 0:42] faualityg
+[0:41] सार 16300 3 हैं, गा tow
+[0:41] vane’
+[0:41 - 0:42] agutamrendam
+[0:42 - 0:43] Raicneatonsieisiispamllows
+[0:43] ecieuicll
+[0:44] ee tae
+[0:44 - 0:46] Tivideos)
+[0:44 - 0:46] keeles
+[0:45] a जैदी 08०७७ ली
+[0:45] ॥्रद्चाषआ्डीच्णाला
+[0:45] बाद््ग््ाएहिघदालाला
+[0:45] iy 3
+[0:46] fengagementicniccial
+[0:47] Wideosieaics
+[0:48] SORA
+[0:48] pike)
+[0:48] fais
+[0:49] ORGIES
+[0:50] SPRATT ATL
+[0:50] Ges Reese
+[0:50] ace ivideos)
+[0:51] CARERS ATL
+[0:51] Heng
+[0:51] GNAG
+[0:51] Sues
+[0:51] Siacciiuideos}
+[0:52] Sanieeet
+[0:52] 'हजहितालीलीकचाए दी
+[0:53] eee जिस का ॥ 61300
+[0:53] RUST WaT EAN
+[0:53] ‘eet
+[0:53 - 0:54] TST
+[0:54] aC जिस ॥ 13000 16 1
+[0:54] GRU Wea EAD
+[0:55 - 0:56] SiG जिस का ॥ 12001 6 |
+[0:57] The
+[0:59] ८2010 3॥ 2 नी भरकर ना हे,

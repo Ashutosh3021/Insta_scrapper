@@ -1,0 +1,48 @@
+# model: ggml-large-v3
+========================================================================
+[99] https://www.instagram.com/reel/Dfxb17ZNIew/
+STATUS: OK
+DURATION: 0:20   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Send this to someone who will go bald in 2027.
+[0:03 - 0:06] Be happy with your hairs because you're going to go bald
+[0:06 - 0:08] the next year in 2027.
+[0:08 - 0:11] There won't be a single hair on your head.
+[0:11 - 0:15] I guarantee that you will be bald in 2027.
+[0:15 - 0:17] See that bald person.
+[0:17 - 0:19] Everyone will laugh at your bald head.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Send this to Someone
+[0:00 - 0:20] » Send this to —_
+[0:00 - 0:20] someone who will .
+[0:00 - 0:20] go bald in 2027 ,
+[0:01 - 0:02] who will go bald in 027.
+[0:03] Be happy with your |
+[0:04] hairs because you
+[0:05] are going to go bald
+[0:06] aay |
+[0:06] 5 है
+[0:06 - 0:07] i the next year in 2027.
+[0:08] AVIRA
+[0:08] <q प्र
+[0:08] * हैं।
+[0:09 - 0:10] single hair on your head.
+[0:10] URAJANWAT
+[0:11] I guarantee that you
+[0:11] wZs'=
+[0:11] काका
+[0:11] मैं y
+[0:12] avi
+[0:14] INE
+[0:15] See that bald person.
+[0:15] ear yr
+[0:15] its
+[0:16] go bald in 2027 qy
+[0:16] 80000
+[0:17] WaT
+[0:17] Everyone sl
+[0:20] GAVIRAL,RAAWAT:
+[0:20] जब के 5

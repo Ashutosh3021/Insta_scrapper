@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[161] https://www.instagram.com/reel/DfxVc6EveuM/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] ♪ Never, never, never ♪
+[0:05 - 0:10] ♪ Never, never, never ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:04] ist
+[0:00 - 0:09] ‘Someone must have broken
+[0:00 - 0:09] there promise otherwise
+[0:00 - 0:09] signatures wouldn't exist | 7
+[0:01] क्र
+[0:01] जे यो
+[0:05 - 0:09] SAN

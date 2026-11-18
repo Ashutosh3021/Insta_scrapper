@@ -1,0 +1,255 @@
+# model: ggml-large-v3
+========================================================================
+[21] https://www.instagram.com/reel/Df1u0fkNR2O/
+STATUS: OK
+DURATION: 1:27   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] सबसे पहले नंबर पे आएगा height, height is the most important in looks, अगर height नहीं है तो कुछ नहीं है बाई, height is the most important, face भले ही तुम्हारा शारुक खान या फिर रितिक रोशन जैसा हो, अगर height नहीं है तो you are cooked, number 2 पे आएगा facial card, face कैसा है आपका, भले ही आप मुठल जैसी body है, आपकी body बिकार ह
+[0:30 - 0:32] फिर ट्रॉपेट नहीं निकला रहना चाहिए वही मेन रीजन है
+[0:32 - 0:34] चौथे नंबर पर आता है बाई पैसा
+[0:34 - 0:36] पैसा नहीं है आपके पास तो लड़कियों के back of the mind कुछ रहेगा
+[0:36 - 0:38] attraction कमजोर हो सकता है over the time
+[0:38 - 0:38] या फिर आपके अंदर value नहीं लगेगी उस लड़की को या लड�
+[0:38 - 0:44] या फिर आपके अंदर value नहीं लगेगी उस लड़की को या लड़के को तो पैसा भी कमाना बहुत ज़रूरी है
+[0:44 - 0:47] Fifth number पे आता है social status या फिर fame
+[0:47 - 0:51] अगर आपको लोग जानते हैं या फिर socially आप popular हो तो फिर वो बहुत बढ़िया चीज है
+[0:51 - 0:51] अगर लोग नहीं जानते है या फ
+[0:51 - 0:54] अगर लोग नहीं जानते या फिर आपके हर कोई बेज़दी करके चले जाता है
+[0:54 - 0:58] मूपे और आप डॉमिनेटिंग नहीं हो तो फिर भाई लड़की या लड़के के सामने आपकी इजद जीरो हो जाएगी
+[0:58 - 0:58] सिक्स नमबर पर आता है ड्रेसिंग सेंस अगर आपके खपड
+[0:58 - 1:03] सिक्स नंबर पर आता है dressing sense अगर आपके खपड़े पहनने की स्टाइल बढ़िया है तो फिर भाई बहुत जादा attractive देखोगे आप
+[1:03 - 1:03] सेविंट नंबर पर आता है आपके बाल अगर आपके बाल अच्छे नहीं है ना अगर आपके बाल चोटे है या फिर आपके बगंजे
+[1:03 - 1:13] 7. आपके बाल अच्छे नहीं है ना अगर आपके बाल चोटे हैं या फिर आपके बगंजे हो रहे हो या कहीं बॉल्ड स्पॉट है तो फिर भाई आपका गेम ओवर है
+[1:13 - 1:13] 8. आपकी बैडनेस अगर आप बहुत जादा स्वीट या बहुत जादा नाइस होना तो लड़के
+[1:13 - 1:27] 8. आपके बाल अच्छे नहीं है ना अगर आपके बाल अच्छे नहीं है तो फिर भाई आपका गेम ओवर है तो फिर भाई आपका गेम ओवर है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] छा घहुढ।दीचए जी थाएुकाछलड
+[0:00] fookstormneignt
+[0:00] ieisciisithe|mostimpontanty
+[0:00 - 1:27] Ranking looks in the
+[0:00 - 1:27] ) dating market
+[0:01] Rel
+[0:01] ee ecaadomuaniclsg
+[0:01] Int नहीं
+[0:01] hoe
+[0:01 - 0:04] [कुछ नहीं
+[0:02] छाददी eclctaatomuanials
+[0:02] ग्रह
+[0:02] 11100 2 भग॥2101 नहीं है
+[0:03] icis
+[0:03] छा घहुढदीचत बी थाएुजा छल
+[0:03] Teil
+[0:04] GER CGS ae थाएुजा छह
+[0:04] Beeb the most
+[0:04] 1018७९8 छह
+[0:04] height नहीं
+[0:05] otra ea a |याफिर ऋतिक रोशन
+[0:05] apes
+[0:05 - 0:08] BuMhaightis the mast
+[0:05 - 0:08] 'जैसा हो
+[0:06] 15 खान |यफिर ऋतिक रोशन
+[0:06] I hk
+[0:06] है! 2
+[0:06 - 0:07] ही तुम्हारा॥
+[0:07] जहर वा sie fUne ऋतिक रोशन
+[0:07] ier
+[0:08] RITE sca
+[0:08] ऋतिक रोशन'
+[0:09] Rrbeighecreliccyourane)
+[0:09] facial
+[0:09] acels
+[0:09 - 0:13] है।आपका भले |
+[0:10] Ruiheighteicleihyoulane)
+[0:10] (६४४०७ 0 छाछ्ल्त हि जी
+[0:11 - 0:13] Sindneightselieicihyourane)
+[0:11 - 0:13] (couldiicixe
+[0:11 - 0:13] face’
+[0:12] faci
+[0:12] Icouldigss
+[0:12] ~~arr
+[0:13] cela
+[0:14] ERIS.
+[0:14] मोटे हो लेकिन'
+[0:14] मगर 13८८ आपका एक नंबर है
+[0:14] meet
+[0:14 - 0:18] sexy,
+[0:15] TED
+[0:15] घुल््द्ाचीर्ी लॉ
+[0:15] ETRE
+[0:15] SSO aCe Much] एक Tax है
+[0:16] CRIA aA
+[0:16] कगार 1226 suet
+[0:17] STI
+[0:17] Sug]
+[0:17] RAR SUCH
+[0:17 - 0:18] SUechliUch नबर है
+[0:18] CIA aI
+[0:18] ARSC HET
+[0:20] wisi
+[0:22] See CIN CITA
+[0:22] 1: की
+[0:22] SSRIS CR aR
+[0:22 - 0:25] jeme'athletic
+[0:23] Tiree eae IAT
+[0:23] isis
+[0:23] cach
+[0:23] treme athletic
+[0:23 - 0:25] भाई? मतलब
+[0:25] Thies eae
+[0:25] मतलब आपकी
+[0:26] = नंबर पे आती है आपकी॥
+[0:26] ॥फिजिक, फिजिक मतलब आपकी'
+[0:26] बॉडी कैसी है भाई? मतलब
+[0:26] extreme athletic
+[0:28] SaeReRICL, extreme body
+[0:28] Bicicitsit लेवि
+[0:28] fer
+[0:28] eat चाहिए वही
+[0:28 - 0:33] main
+[0:29] eee, exreme
+[0:29] Jouildewersieicast
+[0:29] body
+[0:29] ता चाहिए वही
+[0:30] lor slciaaisigextiemelbodyy
+[0:30] frei
+[0:30] = oie वही
+[0:31] SaeRerIeL, extreme body
+[0:31] fired
+[0:31] Real चाहिए वही
+[0:32] एगपणिज? शी चाह्याह़ि कह शक,
+[0:32] esback
+[0:32 - 0:33] (ज्ावक् 9 धारण जरा त्यी हाइहिज्या
+[0:33] एप? है cary ase,
+[0:33 - 0:35] रहेगा.
+[0:34] Cio sioieicicrsteors
+[0:34] erent का शिखा
+[0:34] ‘eeoes
+[0:34 - 0:35] ming]
+[0:35] (ीज्ञावक्र 6 धावहए जरा त्यी हाइहिज्या
+[0:36] toregipansunalcrinnt
+[0:36] STEIGER,
+[0:36] mind कुछ रहेगा
+[0:37] 'कोया
+[0:37 - 0:38] over the tims ui
+[0:37 - 0:38] (लगेगी उस लड़की.
+[0:37 - 0:40] Bttractionansivensccme)
+[0:38] Bttractionarsiveicoie)
+[0:38] eves
+[0:38] cht aT
+[0:39] श्रम
+[0:39 - 0:41] over the tne wit enes
+[0:39 - 0:41] उस लड़की'
+[0:40] valu
+[0:41] Bttractionarsiveicsie)
+[0:43] Sis}
+[0:43] care eRn eRe
+[0:44] fie emiGunWiesy
+[0:44] uiixin धर सात ही
+[0:44] SURGE
+[0:44] igs
+[0:45] फिफ लत
+[0:45] SIRI
+[0:45] circle
+[0:46] fi बी चात्यात्रित्यीयल्ाएक्डा
+[0:46] unfit. can,
+[0:46] वाफिरसोशली आप
+[0:46] जा et at
+[0:47] iI eRIGUnWIeT
+[0:47] कि सोराली आप
+[0:47] हो तो
+[0:48] rat
+[0:48] whet
+[0:48 - 0:49] पापुलर हो तो
+[0:50] हातवह्नॉचादहीजा फिर धार छू
+[0:50] Rreiegreieraee can
+[0:50] Laeerd
+[0:50] 'जाता।है।
+[0:50 - 0:51] nae
+[0:51] फिर धाजक कुछ
+[0:51 - 0:52] लकी जेल लीक को चलाजाला है:
+[0:51 - 0:54] RReteqreiercing ear
+[0:52] Ragcumcied
+[0:52] nie
+[0:53] mew
+[0:53] eagegscnl
+[0:53] instr eo
+[0:53] ‘tebe
+[0:54] REI किए
+[0:54] उडी कर लय त।ज ला
+[0:54] pie!
+[0:54] "शहिक +
+[0:55] पर 10111 011 cle
+[0:55] (जीरी!हो।
+[0:57] Seinens
+[0:57] ele
+[0:57] हिला!
+[0:58] Seiten
+[0:58] soci
+[0:59] 84083 CFR GIRS
+[0:59] ‘elt फिर भाई
+[0:59 - 1:01] Renter’ erp chessing
+[0:59 - 1:01] [बहुत
+[1:00] RRO च्यह्माहि
+[1:00] Ing)
+[1:00] Saal
+[1:00] Siswyeas
+[1:00] fell fee Tg,
+[1:00 - 1:01] pense
+[1:01] custylerticatienci fthe भाई
+[1:04] SeyeathNumbemacucics
+[1:04] SIL CPR ASIST
+[1:04] SEDTGIST ORI IIGT
+[1:04] Steserani tthe
+[1:05] CAR
+[1:05] Sea फिर
+[1:05 - 1:06] STAG, CHRISTA
+[1:05 - 1:08] SeventhiNumbergueiciel
+[1:06] slate
+[1:06] SAR
+[1:07] SSA, HRSA
+[1:07] उडी है।या फिर,
+[1:07] 1 hy
+[1:07 - 1:08] Sl, CHR EMLS AGT
+[1:08] STAG, CARESS
+[1:08] अहैयाफिर'
+[1:09] Pree
+[1:09] spot बी फिए राह emer
+[1:09] Waren bold)
+[1:09] LOVE tg
+[1:10] Rio Scie!
+[1:10] wren
+[1:10] spocpuiragenarty
+[1:12] ‘ UREA
+[1:14] Sign ibadness sii
+[1:14 - 1:15] Rionedinumbergyy
+[1:15] CAR
+[1:15] CRT SUG
+[1:15] cic a
+[1:15] ongeee
+[1:16] bans
+[1:16] Sig
+[1:16] CITE GT SUG!
+[1:16] pay
+[1:18] wane
+[1:18] Romito aiecinice aa]
+[1:18 - 1:19] de ee
+[1:19] जिला
+[1:19] डी हिए'
+[1:19] शाह छीह्द्वदात133'
+[1:20] धाडद्वी हि यह रीहुदादा।एी33 aa]
+[1:21] Pe es
+[1:21] ाडद्वीहिए'
+[1:21] ‘tate?
+[1:22] SRRTSRRI ST
+[1:22 - 1:25] dinrereieen corde Git
+[1:23] SRSA
+[1:24] Cinrercieen Gordie Get
+[1:24] SRRTSRI कक!
+[1:24] cae
+[1:25] eal
+[1:25] ना दीप गा
+[1:26] Rea tific bunsonicnly
+[1:26] eet

@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[153] https://www.instagram.com/reel/DfxX41RNoqL/
+STATUS: OK
+DURATION: 0:05   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] The girl you like used to be a sperm.
+[0:02 - 0:05] You like sperm? That means you are gay.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] be a ape
+[0:00] ate
+[0:00 - 0:04] The girl you like used to
+[0:01] used to be a sperm.
+[0:01 - 0:04] be asperm
+[0:02] You like sperm?
+[0:02] Bet
+[0:03] bea spent
+[0:04] That means you are gay.
+[0:05] Everybody thought | was
+[0:05] playing video games

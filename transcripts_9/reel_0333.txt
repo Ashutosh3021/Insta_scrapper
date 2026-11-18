@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[333] https://www.instagram.com/reel/DfrfDsPMiIC/
+STATUS: OK
+DURATION: 1:12   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] अगर तुम्हें genuinely attractive दिखना है तो सिर्फ अपने face पर ध्यान देना बंद करो
+[0:03 - 0:07] क्योंकि कुछ ऐसी जीज़े हैं जो तुम्हारे पूरे appearance को upgrade कर सकती हैं
+[0:07 - 0:10] सबसे पहली जीज़ अपने face के साप से चश्मा चुनो
+[0:10 - 0:10] गलत frame तुम्हारे पूरे look को बिगार सकता है जबकी सही
+[0:10 - 0:16] गलत frame तुम्हारे पूरे look को बिगार सकता है जबकि सही frame तुम्हारे features को और enhance कर सकता है
+[0:16 - 0:22] दूसरी जीज़ अपने lips को कभी ignore मत करो dry और chapped lips की जगा उन्हें moisturized रखो
+[0:22 - 0:26] एक अच्छा lip balm तुम्हारे look में छोटा लेके noticeable difference ला सकता है
+[0:26 - 0:56] तीसी चीज अपने nails पर ध्यान दो, लड़का हो या लड़की गंदे और बड़े, नाखुन तुमारी personality को careless दिखा सकते हैं, उन्हें साफ और properly trimmed रखो, चौती चीज अपने कपलों के colors पर ध्यान दो, हर color हर किसी पर अच्छा नहीं लगता, ऐसे colors चुनो जो तुमारी skin क
+[0:56 - 0:58] अपने body language पर काम करो, eye contact
+[0:58 - 1:00] maintain करो, confidently बात करो
+[1:00 - 1:02] और चलते समय slouch मत करो
+[1:02 - 1:04] मतलब जुको मत आगे की तरफ
+[1:04 - 1:06] क्योंकि attractive दिखना सिर्फ
+[1:06 - 1:08] अच्छे चेहरे की बात नहीं है, तुमारी चोटी-चोटी
+[1:08 - 1:10] habits मिलकर तुमारी पूरी personality attractive बनाती है
+[1:10 - 1:12] सेफ कर लो और मुझे follow कर लेना
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] How to look =) i
+[0:00] fas J
+[0:01] bas wo
+[0:01 - 1:12] How to look attractive
+[0:09] us eo
+[0:30] रू os
+[0:36] aes
+[0:42] Ww \ i
+[0:44] ww ५
+[0:53] 3 बे
+[1:12] Ral
+[1:12] 4 छु

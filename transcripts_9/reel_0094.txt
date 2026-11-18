@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[94] https://www.instagram.com/reel/Dfxb6wjtEgS/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: ru
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] Субтитры сделал DimaTorzok
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:14] jodi Ji
+[0:00 - 0:15] Meditating to connect with
+[0:02] ‘GAVIRAL.RAJAWAR
+[0:02] 5 Can
+[0:12] जूही
+[0:15] रहे Ji
+[0:16] GAVIRAL.RAJAWAT

@@ -1,0 +1,43 @@
+# model: ggml-large-v3
+========================================================================
+[108] https://www.instagram.com/reel/DfxblpLNCQP/
+STATUS: OK
+DURATION: 0:29   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] If you wear baggy clothes and you think that you're aesthetic and Sigma you are not you are mistaken because
+[0:06 - 0:09] You're just a piece of shit
+[0:09 - 0:15] Nobody wants to see you in your baggy clothes. You're already short and you appear shorter in those baggy clothes
+[0:15 - 0:20] Matter of fact, you shouldn't even wear anything because the clothes
+[0:20 - 0:29] lessen their value when they are on you you are not supposed to be wearing baggy clothes baggy clothes does not suit on you and
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] If you wear baggy
+[0:00 - 0:03] v) Clothes
+[0:01] Baggy Clothes ७
+[0:01] “The
+[0:02] think that you are
+[0:03] aesthetic and Sigma,
+[0:04 - 0:17] | Baggy Clothes
+[0:06] है Clothes
+[0:06 - 0:07] because you're jus
+[0:09] tet
+[0:09 - 0:10] Nobody wants to see
+[0:11] you in your baggy clothes.
+[0:12] You're already short
+[0:14] shorter in those
+[0:18] you shouldn't even
+[0:18 - 0:21] हक Clothes
+[0:19] wear anything
+[0:20] because the clothe
+[0:21] lessen their value he
+[0:22] Baggy Clothes
+[0:22] when they are on you,
+[0:24] You are not supposed ँ
+[0:24 - 0:25] तक Clothes
+[0:25] to be wearing baggy clothes.
+[0:26 - 0:27] Baggy clothes does
+[0:27] इन रू
+[0:28] तक Clothes
+[0:28] not suit on you.

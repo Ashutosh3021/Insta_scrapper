@@ -1,0 +1,23 @@
+# model: ggml-large-v3
+========================================================================
+[104] https://www.instagram.com/reel/Dfxbu0ZtFB4/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] I'm through a lot, let me show you how to move
+[0:02 - 0:04] Let me show you how to get that bag
+[0:04 - 0:05] You ain't never comin' last
+[0:05 - 0:08] Fuck your man, you know this gon' make him mad
+[0:08 - 0:11] Break that bag, then we make a film on camera
+[0:11 - 0:12] Shake that ass
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:12] Hiding my insecurity of nose
+[0:01] FotPap
+[0:01] oii
+[0:01] “oF 8
+[0:06] ARN
+[0:08] GAVIRAL
+[0:08] Pal prods

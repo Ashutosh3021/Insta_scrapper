@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[552] https://www.instagram.com/reel/DdM43V-NUQ7/
+STATUS: OK
+DURATION: 0:07   SPOKEN LANGUAGE: ja
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] ご視聴ありがとうございました
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:07] That one fast guy
+[0:02] het
+[0:03] के कक
+[0:07] "यार

@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[252] https://www.instagram.com/reel/DfuHXsHNPOV/
+STATUS: OK
+DURATION: 0:54   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] जब आप एट्राक्टिव हो जाते हो ना विमेन आपको इग्नोर करने लगी मतलब लिटरली आप जाओगे और वो आपको देखेंगे इतक नहीं जो आपकी क्लास की विमेन होने पता है कि आप मतलब बढ़ियां दिखते हो आप इन सब चोमू से बढ़ियां दिखते हो �
+[0:30 - 0:38] और normal guys से ज्यादा attitude दिखाएंगी because इन्हे attitude दिखाना है ताकि आप उनके frame में आ जाओ और आप वो dominant बन जाए और वो आपके हुकम चला सकें
+[0:38 - 0:46] तो at the end वो just आपका attention चाह रही है लेकिन ignore करेंगे आपके साथ games खेलेंगे ताकि आप आखे पहले बात करो और आपकी value कम हो
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:46] _s Girls will ignore you when
+[0:00 - 0:46] ‘WH you are attractive
+[0:02] F Ah TIE
+[0:06] pom
+[0:19] B so
+[0:21] “अजब
+[0:22] A by जब
+[0:23] ५०४७8 attractive ¢
+[0:31] pom
+[0:32] fom
+[0:40] han
+[0:42] “ lia
+[0:43] bi iy
+[0:51] Kee

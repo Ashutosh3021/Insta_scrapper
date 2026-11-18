@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[538] https://www.instagram.com/reel/Der9aOLzdGl/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Indian aunties will ask your marks at every wedding then ask why you never
+[0:03 - 0:08] show up anymore I don't know auntie you asked my weight you asked my salary then you
+[0:08 - 0:12] asked when I'm getting married I'm still a school seems cool being an auntie I
+[0:12 - 0:16] wish I could be an auntie but I can't because I mind my own business
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:16] Indian Aunty |
+[0:01] aus
+[0:02] ays
+[0:03] ANY
+[0:03] als
+[0:06] - co पक
+[0:06] देह
+[0:08] in के
+[0:08] Sa Ny
+[0:09] ais
+[0:09] wae
+[0:10] १३४
+[0:11] wet
+[0:13] ऊँचे ॥
+[0:15] Wis |
+[0:16] श्र

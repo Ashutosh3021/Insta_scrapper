@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[421] https://www.instagram.com/reel/DfmXseaNB87/
+STATUS: OK
+DURATION: 0:30   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] मैं भले ही rich ना हूँ, मैं भले ही good looking ना हूँ, मैं भले ही loyal ना हूँ, मैं भले ही fit ना हूँ, मैं भले ही लंबा ना हूँ, मैं भले ही पढ़ाई में अच्छा ना हूँ, मैं भले ही hygienic ना हूँ, मैं भले ही funny ना हूँ, मैं भले ही intelligent ना हूँ, मैं भले ही एक अच्छा �
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] col .
+[0:04] a कक
+[0:21] 5 ee
+[0:23] ol oe
+[0:23] Tar
+[0:29] (aban

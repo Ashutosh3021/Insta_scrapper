@@ -1,0 +1,35 @@
+# model: ggml-large-v3
+========================================================================
+[112] https://www.instagram.com/reel/DfxbkCDNTI3/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] Life is like a day.
+[0:01 - 0:06] Sometime it's up, sometime it's down, sometime it's hard, and it is short.
+[0:06 - 0:12] But it won't always be hard, because no matter what, you'll always beat it.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ey ti
+[0:00 - 0:12] Life is like a dick i
+[0:01] जड़
+[0:02] iSometimesiit'supy
+[0:02] 265,
+[0:03] downy
+[0:04] Ihardland|
+[0:05] Life is sali
+[0:06] lis short:|
+[0:07] ibe}
+[0:07] केक
+[0:08] Butitwonit
+[0:08] wee) i
+[0:09] jhard3Because)no}
+[0:09] (० ही
+[0:09] 10 ॥ 00
+[0:09] cade
+[0:10] 1५191. |
+[0:10 - 0:12] GAVIRAL RAJAWAT,
+[0:11] ५ De
+[0:11] Val
+[0:11 - 0:12] bYourlllalways|beatiits

@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[150] https://www.instagram.com/reel/DfxYE3rt29W/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] I know you act straight in front of the public but you are a gay little boy from deep down.
+[0:06 - 0:09] You are my gay little son. I appreciate your gayness.
+[0:09 - 0:13] You are so gay that you make gay people turn straight.
+[0:13 - 0:18] Send this to that gay little boy to let them know you love and cherish them.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:07] little boy
+[0:00 - 0:17] Send this to your gay
+[0:04] v ms
+[0:05] Bittle boy gi little boy guy
+[0:05] little boy from deep do
+[0:07] GGAVIRAL.RAJAWAT
+[0:08] ५33 110०० gue little boy छा
+[0:08 - 0:09] lappreciate your gayness.
+[0:09] r little boy gai boy x
+[0:10] You are so gay that x
+[0:10] PhS
+[0:10] DP Given run
+[0:10 - 0:16] little boy
+[0:11] Z Giittle boy gi .
+[0:11] you make gay people कि
+[0:11] paren rasa
+[0:12] Pal -
+[0:12] J ‘BAVIRAL.RAJAWAT
+[0:14] BD छ00.०७॥
+[0:15] } GAVIRAL.RAJAWAT
+[0:16] Pir. sas
+[0:17] (0 110०० ga boy
+[0:17] love and cherish them. o

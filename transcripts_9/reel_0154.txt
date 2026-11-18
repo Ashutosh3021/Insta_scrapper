@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[154] https://www.instagram.com/reel/DfxX0bPt9gV/
+STATUS: OK
+DURATION: 0:27   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] Everybody thought I was drinking water, but I was just drinking two hydrogen atoms and one oxygen atom made to look like water.
+[0:07 - 0:15] What I did was take two hydrogen atoms and one oxygen atom, combine them together through a chemical reaction called synthesis,
+[0:15 - 0:20] where hydrogen gas reacts with oxygen gas to form H2O.
+[0:20 - 0:24] Milliseconds later, they were colorless and tasteless.
+[0:24 - 0:27] It looked just like water.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:26] { J was drinking water,
+[0:00 - 0:27] के {, Everybody thought I
+[0:01] was just |
+[0:02] drinking two |
+[0:02] 93 ५
+[0:03] ania water
+[0:03] 4 hy
+[0:03] jen atoms and
+[0:04] ie oxygen atom made
+[0:05] to oe like bela
+[0:05] ail
+[0:06] look like wat
+[0:07] 2.बन्‍न्‍न्‍_न्‍_न्‍-ममें...- 100७
+[0:07] रा] did was bch
+[0:08 - 0:09] “a two hydrogen atoms
+[0:09] RAHAT
+[0:09] 282:
+[0:10] rf Lansinsororln.. > Fist
+[0:10] "and one oxygen atom.
+[0:10 - 0:11] 6 AVRAL AAJAWAT
+[0:11] see combine sem q
+[0:11] ere
+[0:11] Sie
+[0:12] OA. Te
+[0:12] ogether through a)
+[0:12] ter
+[0:12] है cava asa
+[0:13] Fo cates i
+[0:13] ae chemical reaction
+[0:13] _ 600 RAJAWAT
+[0:14] Po cceueeen
+[0:14 - 0:15] | called synthesis
+[0:14 - 0:16] (GAVIRAL RAJANAT
+[0:15] hee
+[0:16] hh, came
+[0:16] 4 where hydrogen gas
+[0:17] LoL
+[0:17] 9 reacts with 950 |
+[0:17] idl
+[0:17] howe
+[0:17] 7222
+[0:17] ee ७
+[0:18] oS ie
+[0:18] 09 gas to form HzO
+[0:18] tive
+[0:19] Pe ceneenetas Ws)
+[0:19] * gas to form
+[0:20] 99 Milliseconds later,
+[0:21] hey were ty
+[0:22] hey were colorless
+[0:22] VS र
+[0:23] TT SE
+[0:23] ee" and tasteless. |
+[0:23] 0७५०६
+[0:25] water
+[0:25] || कुछ drinking
+[0:25] eee
+[0:25 - 0:26] ३ It looked just like water.
+[0:25 - 0:27] “GAVIRAL.RAJAWAT
+[0:26] Jono Bp
+[0:26] 4 pi
+[0:26] 4 gee
+[0:27] m breathing

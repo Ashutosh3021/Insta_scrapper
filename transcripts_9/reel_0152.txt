@@ -1,0 +1,53 @@
+# model: ggml-large-v3
+========================================================================
+[152] https://www.instagram.com/reel/DfxX3D-tquu/
+STATUS: OK
+DURATION: 0:26   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:25] Everybody thought I was playing video games when really all I was doing was engaging in a digitally mediated recreational activity that involves real-time cognitive processing, strategic decision making, visual motor coordination and interaction with algorithmically generated virtual environments for the purpose of psychological stimulation and entertainment.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Wet
+[0:00 - 0:24] playing video games
+[0:00 - 0:25] Everybody thought | was
+[0:01] was playing video
+[0:01] tor
+[0:01] may
+[0:02] games when really
+[0:03] alll was doing was
+[0:04] engaging be a
+[0:04] 222
+[0:05] aly
+[0:05 - 0:06] digitally mediated
+[0:06] Ie i
+[0:07] recreational activity
+[0:08] tis
+[0:08 - 0:09] that involves real
+[0:09] RAL RAJAN
+[0:10] time cognitive
+[0:10] ७0000
+[0:11] processing ntrategic
+[0:11] thy
+[0:11 - 0:16] (GAVIRAL RAJAWAT
+[0:12] processing baie +।
+[0:12] GAVIA RAHAT कहे
+[0:13] decision making
+[0:13] ive"
+[0:14] visual motor
+[0:14] wee |
+[0:15] coordination and
+[0:16] ineeraction Wik
+[0:17] algorithmically generated
+[0:18] algorithmically he
+[0:19 - 0:20] virtual environments
+[0:21] for the purpose of
+[0:21] 4 fi
+[0:22 - 0:23] psychological stimulation
+[0:24] and euvertainmen.
+[0:24 - 0:25] क्र
+[0:25] drinking water
+[0:25] । leverybody
+[0:25] thought 1
+[0:25] GAVIRAL RAJANAT

@@ -1,0 +1,38 @@
+# model: ggml-large-v3
+========================================================================
+[459] https://www.instagram.com/reel/DfjY3vztFSV/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] Being a 22 year old male, मुझे लगता है कि मेरे पास कुछ value नहीं है provide करने को, कुछ knowledge नहीं है provide करने को समाज में, society में, मैं just normal हूँ और मैं खुश हूँ जैसा भी हूँ, भाई मैं ना जाधा तेज़ पढ़ाई में हूँ, ना जाधा अच्छा दिखता हूँ, medium ही हूँ हर चीज में, �
+[0:30 - 0:32] मुझे extraordinary नहीं बनना और अगर आप मुझे follow करते हैं
+[0:32 - 0:34] तो अपनी risks पे करना क्योंकि मुझे लगता है
+[0:34 - 0:36] कि मैं कुछ provide नहीं कर सकता
+[0:36 - 0:37] आपको value
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:37] Ihave no value to provide to the है
+[0:00 - 0:37] society as a 22 year old male py
+[0:02] aa as a 22 year old male
+[0:02] A SS
+[0:04] so OO"
+[0:06] Pie
+[0:08] A S&S
+[0:09] Rie
+[0:10] pee 1
+[0:12] के ।ए
+[0:13] a Ss
+[0:13] San
+[0:14] é ke
+[0:16] AQ S&S
+[0:22] sae
+[0:23] रे ye
+[0:25] 7 ss
+[0:26] Be ee
+[0:31] society asa 22 yt
+[0:31] old male
+[0:32] 1149४
+[0:35] Kony
+[0:37] Boe!

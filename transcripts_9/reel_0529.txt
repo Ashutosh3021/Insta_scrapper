@@ -1,0 +1,89 @@
+# model: ggml-large-v3
+========================================================================
+[529] https://www.instagram.com/reel/Der9j6GTUmJ/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] Indian dads are actually the biggest scammers in the world when you are a kid
+[0:03 - 0:07] your dad tells you beta study hard I'll buy you anything you want so you study
+[0:07 - 0:12] hard get good marks and go to him asking for an iPhone and suddenly this man
+[0:12 - 0:16] forgets every promise he has ever made he looks at you and says when I was your
+[0:16 - 0:21] age I didn't even have a phone bro then why did you promise me one and the
+[0:21 - 0:26] funniest part is he spent 80,000 rupees on a phone for himself but when you ask
+[0:26 - 0:31] for 500 rupees he will start explaining the Indian economy and somehow after
+[0:31 - 0:34] giving your 40-minute lecture on saving money he'll end it with the most
+[0:34 - 0:38] dangerous sentence in Indian history just wait until you start earning and
+[0:38 - 0:43] then when you realize the childhood wasn't a childhood it was a free trial
+[0:43 - 0:46] of adulthood
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ५५2,
+[0:00] कै 3
+[0:00] oo. Y
+[0:00 - 0:43] Indian Dads are
+[0:00 - 0:43] scammers
+[0:01] actually the biggest
+[0:01] mT जज
+[0:01] ral
+[0:02] scammers in the world.
+[0:02] 3, (Wl
+[0:02] fe ay
+[0:03] hen you are a kid,
+[0:04] & Awe
+[0:05] aWA
+[0:05] SS. 3
+[0:05] 9 की के
+[0:06] Wi we 5
+[0:07] you study hard,
+[0:11] १ ६ # 4
+[0:12] man forgets every
+[0:12] 3 XN
+[0:13] promise he has ever made.
+[0:14] we a
+[0:15] He looks at you and says,
+[0:15] "ही Wa a ai
+[0:16] Whe
+[0:16] as your age,
+[0:16] के AT
+[0:17] bb» i
+[0:17 - 0:18] I didn't even have a phone.
+[0:18] Pah.
+[0:18] कक ७
+[0:19] then why did you
+[0:20] proi
+[0:20] e me on
+[0:21] And the funniest
+[0:21] Sw है
+[0:21] oe 3
+[0:22] he spent 80,000
+[0:23] ८८४
+[0:24] rupees on a phone
+[0:25] But when you ask for
+[0:25] > _ A 4 mt
+[0:26] 5 500 rupees,
+[0:28] explaining the
+[0:28] ॥ के 3
+[0:29] Indian economy.
+[0:29] er ee
+[0:30] And somehow,
+[0:32] aving money,
+[0:33] he'll end it with
+[0:34] the most dangerous
+[0:34] Wiis we
+[0:35] sentence in Indian history
+[0:35] &. ayes
+[0:36] 1३ “6
+[0:37] हैँ
+[0:37] all =
+[0:37] Pas.
+[0:37] 1 oe
+[0:37 - 0:38] you start earning and the when you
+[0:37 - 0:38] realize
+[0:38] S Ps
+[0:40] your childhood wasn'ta
+[0:41] childhood. It was a free
+[0:41] & uke
+[0:43] trial of adulthood
+[0:43] TT oy

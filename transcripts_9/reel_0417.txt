@@ -1,0 +1,57 @@
+# model: ggml-large-v3
+========================================================================
+[417] https://www.instagram.com/reel/DfmZVPGtnht/
+STATUS: OK
+DURATION: 0:50   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] अगर तुम्हें जिन्दगी में खुश रहना है ना, सामने वाले person से कोई expectation मत रखो, तुम्हारा best friend है, कोई expectation मत रखो, तुम्हारी girlfriend है, कोई expectation मत रखो, तुम्हारा बेटा है, कोई expectation मत रखो, तुम्हारा भाई है, तुम्हारा बाप है, तुम्हारी मा है, कोई expectation मत रख
+[0:30 - 0:34] इसे रखना ऐसे रखना है और जब तुम किसी को रखने की कोशिश करते हो तभी वो जाता है
+[0:34 - 0:40] जब किसी को जितना ही force या friction लगाते हो ना उतना ही वो तेज दूर चला जाता है
+[0:40 - 0:45] तो हमेशा zero expectation रखो और अपने आप पे काम करो रूटीन रखो बढ़िया
+[0:45 - 0:50] ताकि तुम कभी sad या फिर अकेला ना रहो और हमेशा busy रहो बाई सीधी बात है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Have no expectations a
+[0:00] 1807)
+[0:02] laveno cle
+[0:02] you'll be
+[0:03] happy
+[0:03] 7 oe
+[0:04] Haveno 535 and you'll be
+[0:06] (pectati
+[0:07] ou'llbe
+[0:07] ( अल ts,
+[0:07 - 0:12] Have no expectations and you'll be
+[0:07 - 0:25] happy
+[0:13] pectati
+[0:15] lave no expectations and you'll be
+[0:16 - 0:30] Have no expectations and you'll be
+[0:17 - 0:19] (pectati
+[0:19] स्व
+[0:26] Bhi
+[0:28] pectati
+[0:28 - 0:33] happy
+[0:33] pectati
+[0:34] 18900)
+[0:34 - 0:38] | Have no expectations and you'll be
+[0:35] Haveno aly a
+[0:35] 1 है
+[0:35] हैं.
+[0:36 - 0:42] happy
+[0:39] 1807)
+[0:39 - 0:40] ‘Have no expectations
+[0:41] Mii
+[0:41] oe i
+[0:42] हैः
+[0:42] wee फ
+[0:42 - 0:49] , Have no expectations and you'll be
+[0:43] 1907)
+[0:43] Lae
+[0:44] ea हे
+[0:45] छः तय |
+[0:45 - 0:49] happy
+[0:46] जब्हं / -ततातततततत्ततततततत ''
+[0:47] yer
+[0:49] हैः

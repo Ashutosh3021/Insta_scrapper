@@ -1,0 +1,61 @@
+# model: ggml-large-v3
+========================================================================
+[119] https://www.instagram.com/reel/DfxaKNrNZV2/
+STATUS: OK
+DURATION: 0:22   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] American girls make no sense, man. She's ignoring me because she's mad, but she won't tell me why.
+[0:05 - 0:09] Apparently, I'm the one supposed to figure out what is wrong.
+[0:09 - 0:13] How am I supposed to apologize for a crime I didn't even know what I committed?
+[0:13 - 0:18] Indian girls don't do this. They'll tell you exactly what you did wrong when you did it
+[0:18 - 0:22] and even bring up something you said in 2019 as supporting evidence.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ea el girls make
+[0:00] aS 1
+[0:00 - 0:22] American girls
+[0:01] no sense,
+[0:02] lla
+[0:02] She is ignoring me
+[0:03] because she is mad,
+[0:03] ० प्थ्ल:
+[0:04] but she won't tell
+[0:04] eae
+[0:06] oe Ua the one
+[0:06] atte
+[0:07] supposed to figure
+[0:08] out what is wrong a
+[0:08] ble
+[0:09] Aaa I supposed to
+[0:10] ee 2 44045 fora
+[0:10] ७७७४-५७ ७७9
+[0:10] a के
+[0:11] <3 crime | didn't even
+[0:11] bt. y
+[0:11] AURAL RAST
+[0:12] know what! committed?
+[0:12] che
+[0:13 - 0:14] Indian girls don't »
+[0:14] aan
+[0:14] Rae NN
+[0:14] ste
+[0:14] oat की A,
+[0:15] ar 81024:8 tell you
+[0:15] AVIRA AAMT”
+[0:15] vat
+[0:16] exactly what you did wrong,
+[0:16] tan
+[0:16] CGAVIRAL RAJAWAT,
+[0:17] when you did it,
+[0:17] fan
+[0:18] eee and even bring up a
+[0:18] Sad eh
+[0:19] = i ac you said
+[0:20] = cated as supporting A
+[0:21] evidence.
+[0:21] a ania
+[0:21] abe
+[0:22] बजा न
+[0:22] हु AN

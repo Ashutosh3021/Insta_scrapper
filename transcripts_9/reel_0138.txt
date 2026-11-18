@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[138] https://www.instagram.com/reel/DfxYjARtlw2/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: ur
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:07] جب میں کچھ بڑا ہوں تو میں دوستوں کو دیٹنگ دیکھتا ہوں۔ جب میں دوست ہوں تو میں دوستوں کو دیٹنگ دیکھتا ہوں۔
+[0:07 - 0:08] کیا یہ ہے؟
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] WES kid
+[0:01] TASALTH,
+[0:01] use
+[0:02] adults dating\when\Ij
+[0:02] GAVIRAL,
+[0:03] gator \Whenill
+[0:03] ewe
+[0:04] anadultilisee)kids)
+[0:04] Pal)
+[0:05] का ॥9॥ $५९९॥(105|
+[0:06] dating. Whatithe)
+[0:06] enw
+[0:06] करत
+[0:07] iwhatithe)
+[0:07] GAVIRAL!
+[0:08] far

@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[332] https://www.instagram.com/reel/DfrfPtTMyKe/
+STATUS: OK
+DURATION: 0:47   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] How to move on? पहली बात तो तो move on नहीं कर पाओगी, you just have to live with it. अगर तुम किसी person से genuinely attached हो और मेरे खास attachment के बार एक बार होता है एक बंदे से पूरी जिंदगी में, वो तुमारा girlfriend हो सकता है, boyfriend हो सकता है, और तुमारी पूरी spine निकल जाएगी, मतलब ऐसा लगेगा किसी नीड की
+[0:30 - 0:31] पड़ेगा और हर कोई
+[0:31 - 0:33] हर किसी से attached होता ही होता है
+[0:33 - 0:35] so it is unavoidable
+[0:35 - 0:37] तो तुम इसे avoid नहीं कर सकते हो
+[0:37 - 0:40] तो just अपना काम करो live your life
+[0:40 - 0:41] as you live and
+[0:41 - 0:43] कुछ नहीं होगा guys तुम्हें ऐसे ही जीना पड़ेगा
+[0:43 - 0:45] जब तुम 90 साल के होगे तब भी attached होगे
+[0:45 - 0:47] जब तुम सौ साल के होगे तब भी attached होगे
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:47] Move on kaise kare
+[0:01] ony
+[0:02] pons
+[0:03] Move on (3188 kare
+[0:03] y oe,
+[0:04] प्र |
+[0:04] 4४ met
+[0:07] mee?
+[0:09] met
+[0:11] A tJ
+[0:13] है है
+[0:14] ५ inet
+[0:18] mee
+[0:19] Tal
+[0:19] १47
+[0:21] 0४8 onkaise kare
+[0:23] Move anaes kare
+[0:24] करत
+[0:27] Van
+[0:27] 222
+[0:28] mee
+[0:29] Move on els kare
+[0:29] हु s\y
+[0:29] ima
+[0:30] Le N
+[0:32] yt onkaise kare
+[0:35] लुक,
+[0:36] q है
+[0:43] करें

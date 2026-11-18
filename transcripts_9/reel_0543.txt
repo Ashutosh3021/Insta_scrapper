@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[543] https://www.instagram.com/reel/DemwoRktLwj/
+STATUS: OK
+DURATION: 0:09   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] Thanks for watching!
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:09] Hiding my worst facial feature
+[0:04] bad
+[0:09] क्र

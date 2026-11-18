@@ -1,0 +1,27 @@
+# model: ggml-large-v3
+========================================================================
+[435] https://www.instagram.com/reel/Dfju0KNtFQC/
+STATUS: OK
+DURATION: 0:33   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] This is the reason why you should do looks maxing but you should not tell anyone.
+[0:04 - 0:08] Means you do looks maxing in private and no one should know that someone is asking you if you are doing looks maxing.
+[0:08 - 0:13] So you say no brother, I don't do it, I just drink coconut water, I just go to the gym, I don't know all this.
+[0:13 - 0:17] So always do looks maxing privately so that people don't hate you.
+[0:17 - 0:25] Because in India, you know, genetically good looking is far more valuable than aesthetically and by working hard, people are good looking.
+[0:25 - 0:29] That's why always don't tell anyone that you are doing looks maxing, you are doing this, you are doing that.
+[0:29 - 0:32] Always keep all these things to yourself and do it at home in four doors.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01 - 0:32] @ But doesnt the women in
+[0:01 - 0:32] india hate looksmaxxing?
+[0:02] आए 7"
+[0:03] “eee?
+[0:10] “thee?
+[0:10] Lad
+[0:11] Ti 4
+[0:21] ७६७ 2
+[0:27] eae
+[0:28] rar,

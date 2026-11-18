@@ -1,0 +1,80 @@
+# model: ggml-large-v3
+========================================================================
+[356] https://www.instagram.com/reel/DfptBAbMyM-/
+STATUS: OK
+DURATION: 0:45   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] अमेरिका, न्यू यॉर्क, अस्ट्रेलिया तो फालतूमी बंदा में असली जो प्लेयर वाला सिटी है वो है अपना बेंगलोर
+[0:04 - 0:08] बेंगलोर में जितने होकप्स और जितना डेटिंग हो रही है ना पूरे वर्ड में कहीं नहीं हो रही है बाई
+[0:08 - 0:08] क्योंकि बेंगलोर में �
+[0:08 - 0:10] क्योंकि Bangalore में लोग आते हैं काम करने
+[0:10 - 0:13] और काम करने में corporate में एक दूसरे में बात तो होती है
+[0:13 - 0:15] और बात होते होते है चीटिंग हो जाती है बाई
+[0:15 - 0:18] जितना manipulative, red flag, toxic city Bangalore है
+[0:18 - 0:20] मैंने कोई और नहीं देखा बाई
+[0:20 - 0:21] Delhi, Indore सब पीछे है
+[0:21 - 0:23] Bombay, Pune सब कुछ पीछे है बाई
+[0:23 - 0:27] Delhi, Bombay से बहुत साधा बढ़के है Bangalore
+[0:27 - 0:30] Bangalore underrated है किसी को पता नहीं है
+[0:30 - 0:32] और corporate में ही चल रहा है बाई सारा system
+[0:32 - 0:35] तुम्हें चाहिए ना तो जाओ corporate में
+[0:35 - 0:37] office में काम करने जाओ पैसा भी मिलेगा मज़ा भी मिलेगा
+[0:37 - 0:39] और तुम्हें pubs, clubs में नहीं जाना है बाई
+[0:39 - 0:41] वहाँ तुम पैसी वेश करके आओगे कोई नहीं मिलेगा
+[0:41 - 0:44] असली scene हो रहा है बाई Bangalore में
+[0:44 - 0:44] heads off है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:43] Bangalore is the most cheater, | ,
+[0:00 - 0:44] playboy and dating city in India | >”
+[0:01] hed
+[0:01] avi
+[0:01] she
+[0:03] CGAVIRALRALAWAT.A
+[0:03] ay, : की
+[0:04] मं बात
+[0:04] Wd af
+[0:05] क्र
+[0:06] sas
+[0:06] Tih
+[0:07] a 4 ५
+[0:07] ‘he most cheater,
+[0:07] Bangalore i:
+[0:07] GAVIA
+[0:10] 90% ee
+[0:11] 80010
+[0:12] nll
+[0:13] CGAVRALRA
+[0:14] playboy and dating
+[0:14] cityin India)
+[0:14] amass
+[0:15] tin
+[0:16] thé,
+[0:17] Pe ed
+[0:17] (GAVIRALRALAWATAA
+[0:18] ७0०,
+[0:18] fw, कै %
+[0:19] y} रे
+[0:19] क्र
+[0:20] Bangalore is the most 1724 / |
+[0:21] ahi
+[0:21] GAVIRALI
+[0:25 - 0:27] (GAVIRALRASAWATAL
+[0:27] Yeo
+[0:29] in ioe
+[0:29] yten
+[0:29] Grvrmrad
+[0:31] Lid
+[0:32] playboy and dating ci
+[0:32] ity in India
+[0:33] playb
+[0:37] AVAL
+[0:38] र््
+[0:41] 8/0॥010५४
+[0:42] playboy
+[0:43] playboy and dating ci
+[0:43] ity ia India
+[0:44] ‘he most cheater,
+[0:44] Bangalore i:

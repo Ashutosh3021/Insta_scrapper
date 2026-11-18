@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[201] https://www.instagram.com/reel/DfwzMixNsFt/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] जो ब्लड तुम्हारे पैड में है वही ब्लड तुम्हारे दिल में है तो कितनी सुन्दर बात है यार ये मतलब सब कुछ एक ही है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:08] Blood in your padis in your heart
+[0:07] कर आन
+[0:07] न्म्न

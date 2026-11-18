@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[567] https://www.instagram.com/reel/Dc5kGuJBitx/
+STATUS: OK
+DURATION: 0:44   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] तुम मुझसे आर्ग्यू नहीं कर सकते कि भोपास से ज़्यादा चिल सिटी कोई है। यहां के लोगों काम ही नहीं करना है भाई पड़े हुए हैं। सरकार भी पड़ी हुई है भाई। खेर सरकार तो कर रही है जो करना है। लेकिन लोगों को ज़्यादा स्ट्रेस ही �
+[0:30 - 0:44] अगर यहाँ पर मतलब काम वाम नहीं है ज़्यादा, जॉब्स नहीं है ठीक है ना, अगर आपके पैसे हैं, तो यहाँ पर आके आप अपनी मतलब लाइफ पीस कुली जी सकते हो, so that is why I am a big fan of Bhopal, I was born in Bhopal, और मेरी यही कोशिश रही की भाई, I die in Bhopal as well,
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] श्र |
+[0:01] wae
+[0:01] 5 ay
+[0:01] Wea
+[0:01 - 0:07] cs Bhopal is the best city
+[0:08] A: Ne
+[0:09 - 0:13] Bhopal is the best city
+[0:11] हि ० Bhopal isthe best city
+[0:12] exit
+[0:12] जरा
+[0:14] sige a
+[0:14 - 0:30] Bhopal is the best city
+[0:15] Nas
+[0:16] aN j
+[0:16] tee
+[0:16] vat
+[0:16] a wd f
+[0:20] Yj ८/॥
+[0:21] गर्व
+[0:25] 22525».
+[0:25] eS ets
+[0:25] one
+[0:28] hae
+[0:28] err
+[0:28] w VN
+[0:30] 2०2७
+[0:30] nae
+[0:30] wy be. &
+[0:30] & ४४४
+[0:30] ul ७ ७ ७
+[0:32] किन
+[0:32] Cai
+[0:34] Bhopal is the best city
+[0:39] क्र
+[0:39 - 0:43] D 4 Bhopaliéthe best cy he
+[0:40] a er
+[0:41] faa

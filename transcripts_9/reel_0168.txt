@@ -1,0 +1,169 @@
+# model: ggml-large-v3
+========================================================================
+[168] https://www.instagram.com/reel/DfxQCnvN7Rn/
+STATUS: OK
+DURATION: 0:43   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] If you live in Pakistan, you are more likely to marry your cousin than have a job.
+[0:05 - 0:09] The employment rate is 49% and the rate of marrying first cousins is 61%.
+[0:09 - 0:13] It is the same for Afghanistan, you are more likely to marry your cousin than actually
+[0:13 - 0:15] have a job.
+[0:15 - 0:20] These statistics date back to 2025, they are very recent and so you might ask yourself
+[0:20 - 0:22] what is the reason for it.
+[0:22 - 0:26] It is because of the religion of the region, Islam, which promotes marrying of cousins
+[0:26 - 0:30] at a very young age to other cousins, marrying your relatives, and the other part that's
+[0:30 - 0:37] really interesting, there is that 61%, that means it is a majority, you are more likely
+[0:37 - 0:42] to marry your cousin than not, which means if you don't marry your cousin, you are
+[0:42 - 0:43] the odd man out.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:01] ial employment rate
+[0:00 - 0:42] Pakistan has a higher
+[0:00 - 0:42] cousin marriage rate
+[0:01] ire more likely,
+[0:01] A is a
+[0:02] than ape rat
+[0:02] jure more TREY;
+[0:03] than eee rate @
+[0:03] thank 6४ jeb
+[0:03] ese
+[0:04] than al sl rate
+[0:04] mari
+[0:04] than havelaj
+[0:05] eer
+[0:05] *549% ahd the
+[0:05 - 0:42] than Smnployiient rate
+[0:06] than शा|0॥शां rate
+[0:06] i845% and the
+[0:06] mp) layne
+[0:06] A 1-2 a :
+[0:06 - 0:07] ate
+[0:07] ffiplo
+[0:07] i849% and ane
+[0:08] 31131 employment rate
+[0:08] marr ying est
+[0:08] 227 cou
+[0:09] friar
+[0:09] (74 cou
+[0:10] thane
+[0:10] mnployiiant rate
+[0:10] ‘or Ata!
+[0:10] cat
+[0:10] जन पक
+[0:11] lersal Godan
+[0:11] Sad
+[0:11] ba RAJAWAT
+[0:12] u're more
+[0:12] id marry your cousin
+[0:12] RAD aa
+[0:13] iiyrave
+[0:13] ajob.
+[0:14] Ctually haverajob.
+[0:14] 2a ०.
+[0:14] aaa
+[0:14] ees
+[0:15] jéses hid
+[0:15] sate backito 2025
+[0:15] बहन
+[0:15] CGAVIRAL.AAJAWAT
+[0:16] eet
+[0:16] ne 2025.
+[0:16] 42959
+[0:16] 8000
+[0:17] cas Statistic:
+[0:17] fate oe 820;
+[0:17] 222
+[0:18] are very récen:
+[0:18] रन कक
+[0:19] than लाए एगाशां rate ॥|
+[0:19] ७॥14#७३5॥७
+[0:19] reel
+[0:19] Ver you
+[0:20] than em
+[0:20] So you mighbask
+[0:20] 4 yourself,
+[0:21] hat is the redso
+[0:21] foi ६2 |)
+[0:22] ieis'because ofthe
+[0:22] ion of the. reg
+[0:23] 152८3
+[0:23] region,
+[0:23] 455६
+[0:23] ख्च्ब्य
+[0:24] co “a tslai
+[0:24] Which
+[0:24] ages
+[0:24] sane
+[0:25] Unrrying Of cous
+[0:25] vata very,
+[0:25] ige
+[0:25] ene sar
+[0:26] Bing Of cousinsy
+[0:26] avery,
+[0:26] ig ige
+[0:27] Tying of Bens
+[0:27] rae
+[0:27] Would age
+[0:27] aa asa
+[0:28] other cous:
+[0:28] ing Your
+[0:28] तट विद
+[0:28] आह cas
+[0:29] orher ८०४५
+[0:29] aerying yal
+[0:29] fel
+[0:29] CEN
+[0:30] the other par
+[0:30] १58 5
+[0:30] eresting,\
+[0:30 - 0:31] का reallyint
+[0:31] nt rate
+[0:31] than smpleyuie
+[0:31] he other
+[0:31] ore
+[0:31] ere:
+[0:31] com a
+[0:32 - 0:33] ere is that 6
+[0:33] an emp
+[0:33] loyment rat
+[0:34] reis that
+[0:35] ans 1th.
+[0:35] ig ama}
+[0:35] pest
+[0:35] ron
+[0:36] ies
+[0:36] ># ले ६1
+[0:37] than शा|0॥ाशां rate
+[0:37] arem
+[0:37] eras
+[0:37] youl
+[0:37] cousin \
+[0:37] passe
+[0:37] scent!
+[0:38] h mean:
+[0:38] suf
+[0:38] pee
+[0:38 - 0:40] thann
+[0:39] hot
+[0:39] himeat
+[0:39] Sit
+[0:40] 148
+[0:40] hich m
+[0:40] ava.
+[0:41] tha
+[0:41] (0८110!
+[0:41] ‘e the:
+[0:41] your ८०
+[0:41] Meth
+[0:41] man out.\
+[0:41] pera
+[0:41] am asa
+[0:42] marry yo
+[0:42] y gus
+[0:42] € the@dddiman out,
+[0:42] vg asa
+[0:43] don't marry your cousin,
+[0:43] you are the odd man out
+[0:43] GAVIRAL RAJAWAT

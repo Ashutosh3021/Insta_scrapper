@@ -1,0 +1,342 @@
+# model: ggml-large-v3
+========================================================================
+[608] https://www.instagram.com/reel/DaZ52ocvq5-/
+STATUS: OK
+DURATION: 0:37   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] my whatsapp ai agent handles my appointments and this is how first add the whatsapp trigger so the
+[0:04 - 0:09] agent knows when a message comes in then type in ai agent and select it since we need a brain i add
+[0:09 - 0:16] chat gpt finally i bring in whatsapp again so the agent can send the reply now i click tools type in
+[0:16 - 0:21] google calendar pick it and then select my calendar for the final step i let the model define all
+[0:21 - 0:27] three options and that's it now let's test it click test workflow and type what are my appointments
+[0:27 - 0:35] for tomorrow the agent grabs the info from your google calendar uses chat gpt to write a reply
+[0:35 - 0:37] and sends it back to you that's it
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] ote mace @
+[0:00] sake sre
+[0:00] Sey
+[0:00] OpelCutles 0००७०:
+[0:00] MY wnaTsape a
+[0:00 - 0:01] ate Tone
+[0:00 - 0:02] at Scion
+[0:00 - 0:17] ‘calendar Agent
+[0:01] aly
+[0:01] Ope ute
+[0:01] AGENT HANDLES
+[0:01 - 0:02] vo mene @
+[0:01 - 0:02] tg ares
+[0:02] cay)
+[0:02] tee ane
+[0:02] oie
+[0:02] 22:20: 0033
+[0:02] AND THIS IS HOW.
+[0:03] sit cine @
+[0:03] ०० | ns
+[0:03] stop
+[0:03] ADD THE WHATSAPP.
+[0:03] है 7 4
+[0:04] asain
+[0:04] rae के.
+[0:04] Sar
+[0:04] =) छात्र
+[0:04] [Auger ia atop ht starts your अत
+[0:04] watt
+[0:04] © vrasrop susnss cous
+[0:04] TRIGGER SO THE
+[0:04 - 0:05] ‘What triggers this workflow?
+[0:05] past
+[0:05] वा atop at start your अल
+[0:05] व. wratsapp
+[0:05] तरफ Bushes 0०७8
+[0:05] AMESSAGE COMES.
+[0:05] q पर
+[0:06] sxsoog mace @
+[0:06] att | Eco
+[0:06] Wnatsapp Trigger
+[0:06] eF. q
+[0:06] ® Elle)
+[0:07] as9
+[0:07] inant
+[0:07] Ai transto
+[0:07] 020 ania nencson tn pin
+[0:07] ‘attire cone enon
+[0:07] aioe
+[0:07] @ neon
+[0:07] tomas
+[0:07] 28 ntenck
+[0:07] THEN TYPE IN "Al
+[0:07 - 0:08] ‘What happens next?
+[0:08] व शव
+[0:08] by Wren
+[0:09] tit sce के
+[0:09] str | Bi
+[0:09] (01०८८ ०
+[0:09] ABRAIN,
+[0:09 - 0:10] WhatsApp Trigger
+[0:10] Aol Crt Most
+[0:10] 8०१७८
+[0:10] ‘ure Open Chat Mode
+[0:10] sons tan Alehin
+[0:10] ताक het Mode
+[0:10] ‘enone nye chon
+[0:10] 17:71
+[0:10] 1400 CHATGPT.
+[0:10] ७ Ell)
+[0:10 - 0:11] tit seine के.
+[0:10 - 0:11] 88 Language Models,
+[0:11] Opens
+[0:11] © crower
+[0:11] esos nein
+[0:11] ३ Ass ope om Moat
+[0:11] ‘essen une wih leh
+[0:11] 0७0७ Trigger
+[0:11] eo : i
+[0:12] ७० | Ecos
+[0:12] ron
+[0:12] WnatsApp 7199
+[0:12] 1 BRING IN WHATSAPP.
+[0:12 - 0:14] ‘pena cr
+[0:12 - 0:16] tit sce के.
+[0:13] wnat
+[0:13] rvs pocrocxcns net
+[0:13] AGAIN SO THE AGENT
+[0:13 - 0:14] ‘What happens next?
+[0:13 - 0:14] © viasAop ausines coud
+[0:13 - 0:17] Wnatsapp Trigger
+[0:14] CAN SEND THE REPLY.
+[0:14] हैः ह
+[0:15] ar | Bis
+[0:15] poun
+[0:15] के 00
+[0:15] tsp susie
+[0:15] nesses
+[0:15] 09०0१४0/
+[0:16] | secre
+[0:16] Meteo te itr
+[0:16] ‘che met ts et so
+[0:16] Ponti १०७७०७ Soke
+[0:16] के ७० anc reer
+[0:16] the Too
+[0:16] © aon
+[0:16] Bsn
+[0:16] Crone sar
+[0:16] Seeman
+[0:16] का 0 25
+[0:16] i IN "GOOGLE
+[0:16] (pend ch
+[0:16 - 0:17] 2% Toots
+[0:17] it mace के.
+[0:17] Googe caterer
+[0:17] Coe See
+[0:17] ‘opens ch
+[0:18] INPUT [ Me ferme Selo
+[0:18] Tet beeen
+[0:18] ‘se utonsesy
+[0:18] est
+[0:18] san
+[0:18] (oostine 208.8 ates)
+[0:18] foe pat m8)
+[0:18] Iowan 6 8 amr 9 40-0809)
+[0:18] AND THEN SELECT
+[0:18 - 0:19] ‘Onset comet
+[0:18 - 0:19] i Cate eet?
+[0:18 - 0:19] once ine
+[0:18 - 0:20] cont
+[0:18 - 0:21] ‘iow
+[0:18 - 0:23] Docs a
+[0:18 - 0:24] € Back to-canvas,
+[0:18 - 0:24] 1B Google Calendar
+[0:18 - 0:24] rome
+[0:18 - 0:24] Ning
+[0:19] 1४००1 | Mo कोड मत
+[0:19] Does a
+[0:19] vie
+[0:19] Teton
+[0:19] cee
+[0:19] Foran nomad
+[0:19] omnes
+[0:19] मनन 208 8 antes)
+[0:19] lower: 205-8 8 T 96440%0200)
+[0:19] onto
+[0:19] टला,
+[0:19 - 0:23] ‘se ora
+[0:20] 1 हन्‍णअन्‍न्‍ूू॑
+[0:20] once ७०
+[0:20] CoD
+[0:20] toons: 08 8 aaah)
+[0:20] ness
+[0:20] Bc tomoustcmee 9 के.
+[0:20] toes: 208-8 err 40-0800)
+[0:20] STEP,
+[0:20] romeo
+[0:20 - 0:21] Gone
+[0:20 - 0:21] क्र
+[0:20 - 0:22] एकल
+[0:20 - 0:23] ४००1 [so पल Stings
+[0:20 - 0:23] tee
+[0:20 - 0:24] ‘rte comet
+[0:20 - 0:24] seh Case weet?
+[0:20 - 0:24] rst
+[0:20 - 0:24] eo 4
+[0:20 - 0:24] ‘ioe
+[0:21] 1 stn aot ne mda
+[0:21] asa asncreion
+[0:21] tonto os-on antes 360220)
+[0:21] cro
+[0:21] ks व कक,
+[0:21] alll
+[0:21] DEFINE ALL THREE
+[0:21 - 0:22] cue
+[0:22] | stnstontcayby ne mea
+[0:22] + Goma
+[0:22] Bf coaster wees 9 है
+[0:22] fem? OPTIONS,
+[0:22 - 0:23] isa nsergion
+[0:22 - 0:24] once ne
+[0:22 - 0:24] Come ater
+[0:22 - 0:24] spoansocreion
+[0:23] | Detes anancty by ne model
+[0:23] coin
+[0:23] 1 end torte named
+[0:23] अकसर कल
+[0:23] v= AND THAT'S IT.
+[0:23 - 0:24] ‘eat besceton
+[0:24] INPUT | Me प्र —Setings
+[0:24] Does a
+[0:24] ‘se ortsy
+[0:24] ote
+[0:24] + tnd aot ne mode
+[0:24] isa asecreion
+[0:24] 1 end aot nema
+[0:24] ७ NOW LET'S TEST
+[0:25] sing mace के.
+[0:25] at ion
+[0:25] , (9१1
+[0:25] (०७० |
+[0:25] wane Tone
+[0:25] Ope tM
+[0:25] CLICK TEST WORKFLOW
+[0:25 - 0:28] 2S calendar agent
+[0:26] Opel ato
+[0:26] AND TYPE,
+[0:26] की q
+[0:26] uoS
+[0:26 - 0:27] aoe Tae
+[0:26 - 0:28] tig sce के.
+[0:26 - 0:28] at os
+[0:26 - 0:28] cay |
+[0:27] Open ute
+[0:27] 6 "0०७७०
+[0:27] “WHAT ARE MY APPOINTMENTS
+[0:27] Colo
+[0:27] GebnER
+[0:27] ‘DEE
+[0:27] er: कु
+[0:28] ste Woe
+[0:28] जगगकुदुनन
+[0:28] OpealcntMes conga Cana
+[0:29] ‘Caterer Agent
+[0:29] Aastig maces @
+[0:29] cau |B
+[0:29] + Ot a ते
+[0:29] nascent
+[0:29] THE AGENT GRABS.
+[0:30] Juni 2025 -
+[0:30] 208
+[0:30] pos
+[0:30 - 0:31] B Katender
+[0:30 - 0:31] cen ==
+[0:31] € > उजा2025 -
+[0:31] oer
+[0:31] was &3
+[0:32] Coton Age
+[0:32] co ee
+[0:32] masseter R= nang amas
+[0:32] Opel tne
+[0:32] coe Case
+[0:32] 9 Elle)
+[0:32 - 0:34] हे) wy
+[0:33] Calor Agent
+[0:33] + 9 oo ce Oy
+[0:33] 4 9 * ८
+[0:33] Opn
+[0:33] USES CHATGPT
+[0:33] ६ ही
+[0:34] postgame के
+[0:34] css
+[0:34] Cc) छान
+[0:34] nate oe
+[0:34] coma ON
+[0:34] TO WRITE A REPLY,
+[0:34] ote
+[0:34 - 0:37] ‘Calendar Agent
+[0:35] 222 eatandar Age
+[0:35] asst ane के
+[0:35] awe | ins
+[0:35] joc}
+[0:35] मनन]
+[0:35] coms it
+[0:35] ong tr
+[0:35] AND SENDS IT BACK
+[0:35] 9 ele)
+[0:36] tig ene के.
+[0:36] eee
+[0:36] Opel tN
+[0:36] pce
+[0:36] 108
+[0:36] ary
+[0:36] <1 @ | हक 2-280
+[0:36] temeron (he 2 थे
+[0:36] erate your anor for
+[0:36] “scing Wer
+[0:36] ‘ine
+[0:36] 00 (cen)
+[0:36] vemanoge contain?
+[0:36] into
+[0:36] 030०४ 200 पट /४९40:
+[0:36] wane
+[0:36] लि र
+[0:36] ‘te 10 - 13007)
+[0:36] 00003 sonia
+[0:36] 1040 &»00५४५
+[0:36] serum
+[0:36] Sonn)
+[0:36] 2 rasta
+[0:36] "ie 19-8
+[0:36] ana
+[0:36] ‘imbsdecaatnn
+[0:36] use ert pop
+[0:36 - 0:37] ६०० | Basie
+[0:36 - 0:37] pone
+[0:36 - 0:37] nasi ee
+[0:36 - 0:37] eee Cates
+[0:36 - 0:37] 2 “Pret Ut
+[0:36 - 0:37] tn vet
+[0:37] song mace @
+[0:37] ८24
+[0:37] Opel ct Me
+[0:37] 1800
+[0:37] <1 क “कहा 02-280
+[0:37] tamerow ne 2 a2
+[0:37] erate ou apart or
+[0:37] 1 Being Meeting
+[0:37] tne 018- 1000 CE
+[0:37] 00४४७ Eve
+[0:37] otuanoi comida
+[0:37] Peeters
+[0:37] fuze
+[0:37] 08:00
+[0:37] mie 130: 1300 (CE)
+[0:37] funk Bet
+[0:37] 10098 20040 ए॥ ०७४०
+[0:37] 22 0
+[0:37] 3 "काका
+[0:37] Te 18:48
+[0:37] 00009 contains
+[0:37] ८ toa
+[0:37] Hisense
+[0:37] ua srt propre
+[0:37] metas!

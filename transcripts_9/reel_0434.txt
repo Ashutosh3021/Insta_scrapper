@@ -1,0 +1,21 @@
+# model: ggml-large-v3
+========================================================================
+[434] https://www.instagram.com/reel/DfmHu8Atmee/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] तो मैडम उमीद है आप डाइपर बदलने के लिए तयार होंगी
+[0:04 - 0:07] डॉक्टर साहब बच्चा लड़का है और लड़की है
+[0:07 - 0:10] नहीं मैडम आपको स्टमक कैंसर है
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:01] Patient
+[0:02 - 0:04] Doctor
+[0:02 - 0:04] | “Well, |hope you're ready to change
+[0:02 - 0:04] diapers.”
+[0:05 - 0:07] Patient
+[0:06 - 0:07] is it a boy or a girl?
+[0:08 - 0:10] No, ma’am. You have stomach cancer. |
+[0:11 - 0:12] Patient

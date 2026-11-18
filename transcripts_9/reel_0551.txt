@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[551] https://www.instagram.com/reel/Dd30GSZHZQO/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: ja
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:06] ♪ BGM
+[0:06 - 0:13] ♪ BGM
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] jib
+[0:00] ail
+[0:01] oll
+[0:01] d xX
+[0:02] oye
+[0:04] “ill
+[0:05] aif

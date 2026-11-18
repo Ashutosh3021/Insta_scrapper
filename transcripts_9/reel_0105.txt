@@ -1,0 +1,33 @@
+# model: ggml-large-v3
+========================================================================
+[105] https://www.instagram.com/reel/DfxbtmWtQzY/
+STATUS: OK
+DURATION: 0:12   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:09] Vladimir Putin, the girl that I wrote a paragraph for last night and later she blocked me, is close to developing a nuclear weapon and attacking Russia.
+[0:09 - 0:12] Do what must be done. She is a major threat to Russia.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] bas
+[0:01] Vee था
+[0:01] 7 tng
+[0:01] 4 ०७
+[0:02] ९.५ 00
+[0:03] ANAT
+[0:03] है ०७
+[0:03] ty ०
+[0:04] 1 लग 1000
+[0:04] iY कु
+[0:05] Ax) ie
+[0:05] PRAT, «
+[0:05] 6१०७
+[0:06] Sx) TG
+[0:06] a2 7 Vem)
+[0:08] h ae on,
+[0:10] ‘GAVIRAL.RAJAWAT
+[0:10] Je) ie
+[0:10] 1५ rs
+[0:11] GAVIRAL
+[0:11] 45७

@@ -1,0 +1,32 @@
+# model: ggml-large-v3
+========================================================================
+[145] https://www.instagram.com/reel/DfxYVjxNj2k/
+STATUS: OK
+DURATION: 0:16   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] If you forget what time it is, just drive to the nearest petrol pump and see if they are open.
+[0:05 - 0:08] If they are closed, you know it is after midnight.
+[0:08 - 0:15] If they are open, you know it is before midnight because gas station or petrol pumps usually close at midnight.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] If you forget what
+[0:00] hal
+[0:00 - 0:15] Listen tillend ९३
+[0:01] time it
+[0:02] just drive to the
+[0:03] inearest petrol purip
+[0:03] Mel
+[0:04 - 0:05] and see if they are open.
+[0:06] If they are closed,
+[0:06] wea
+[0:07 - 0:08] you know it is after midnight,
+[0:09] you know it
+[0:10] _» before midnight
+[0:11] _ because gas station
+[0:12] _» or petrol pumps
+[0:12] ily
+[0:13 - 0:15] usually close at midnight.
+[0:14] \\a RAJAN
+[0:15] RAL RAJAAT:

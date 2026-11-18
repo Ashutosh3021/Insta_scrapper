@@ -1,0 +1,26 @@
+# model: ggml-large-v3
+========================================================================
+[164] https://www.instagram.com/reel/DfxVTj5vWfN/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:05] ♪ Never, never, never ♪
+[0:05 - 0:10] ♪ Never, never, never ♪
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] crime. Arich man’s crime is a
+[0:00] SAY
+[0:00 - 0:04] mistake.
+[0:00 - 0:09] A poor
+[0:00 - 0:09] in’s mistake is a
+[0:01 - 0:02] crime. A
+[0:01 - 0:02] h man’s crime is a
+[0:01 - 0:02] TAL
+[0:03 - 0:04] crime. Arich man’s crime is a
+[0:05 - 0:09] crime. A
+[0:05 - 0:09] h man’s crime is a
+[0:06] Y ON
+[0:07] stake.
+[0:08 - 0:09] anol

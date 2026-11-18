@@ -1,0 +1,37 @@
+# model: ggml-large-v3
+========================================================================
+[139] https://www.instagram.com/reel/DfxYgtcNhJB/
+STATUS: OK
+DURATION: 0:08   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:08] Sleep is such a strange thing. When it comes, it makes you forget everything. But when it doesn't, it reminds you of everything.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] jeep is such a a
+[0:00] “IXY
+[0:00] ig a
+[0:00 - 0:08] Listen tillend ९
+[0:01] strange thing. ता
+[0:01] _ ब 22२०
+[0:01] <a, ia
+[0:01] he a PA.
+[0:02] When it comes,
+[0:02] mr 1४
+[0:03] it makes you sa or
+[0:03] का Wei ली...
+[0:03 - 0:05] wisp tt ॥
+[0:04] everything,
+[0:04] ee a ng
+[0:05] but when it doesn't,
+[0:05] Lek
+[0:05] te fT
+[0:06] wll
+[0:06] LES.
+[0:06] Oo as
+[0:06] ea ig
+[0:06 - 0:07] it reminds youl of pate ie
+[0:07] श्र
+[0:07] y A ae
+[0:07] ry ia

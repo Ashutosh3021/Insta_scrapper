@@ -1,0 +1,63 @@
+# model: ggml-large-v3
+========================================================================
+[352] https://www.instagram.com/reel/DfrKIi-MJHp/
+STATUS: OK
+DURATION: 0:32   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] सुन्दर कैसे लगें, avoid sodium and fats, supplement लो, carbs कम करो, carotene बढ़ा दो, 100 gm protein लो, 30 minute daily sunlight लो, onion लगाओ अपने eyes के नीचे, और progressive overload करो gym में, 10,000 से ज़्यादा steps रखो, posture बढ़िया रखो, back पे सो, और ज़्यादा-ज़्यादा oxygen लो, chin tucks करो, mewing करो, body fat percentage कम कर दो, micronutrients बढ़ा दो, ब�
+[0:30 - 0:31] और अगर मोटी हो तो कैलोडी डेफिशिट में रहो
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:31] How to look better |
+[0:01] {6006.0
+[0:01] aes
+[0:02] ye कर #8,
+[0:03] ७१४१०
+[0:05] ३४९७०
+[0:05] Lis.
+[0:05] av हैं
+[0:06] 1000०. .ए:
+[0:07] 4(४०९००
+[0:08] 20000 eda
+[0:09] १७4
+[0:10] Jeunatoa
+[0:10] arf
+[0:10] RAIAWATA
+[0:11] 4(002९०० =
+[0:11] CGAVIRALRAJAWATAT
+[0:12] ict look better
+[0:12] ७१0४१००
+[0:12] iin
+[0:12] vue RASTA
+[0:13] CGAURALRALANTA
+[0:14] /000४९8०
+[0:14] २६०
+[0:14 - 0:16] (GAVIRALRASAWATA
+[0:15] A ९865
+[0:16] (10७९० ०७
+[0:17] ह(७॥०९०७० . . Xx
+[0:18] 4६६,
+[0:18] a AS °
+[0:19] wes
+[0:19] es Ae
+[0:20] १०4
+[0:21] (९१४९७ ०
+[0:23] (0180० . oe
+[0:24] 0010 look better |
+[0:24] 16008 iQ,
+[0:25] We है
+[0:25] न RAANATAT
+[0:26] 1005 ०५
+[0:26] owen,
+[0:27] 0९0०१७०
+[0:27] RAJAWATAL
+[0:28] Sonos 5
+[0:28] हा आओ
+[0:29] Kee
+[0:29] fenton. A AS :
+[0:29 - 0:31] CGAVIRALRASAWATAT
+[0:30] ASS
+[0:30] TRALRAJANATAT
+[0:31] (000४९७

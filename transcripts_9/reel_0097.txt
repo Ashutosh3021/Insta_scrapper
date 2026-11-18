@@ -1,0 +1,19 @@
+# model: ggml-large-v3
+========================================================================
+[97] https://www.instagram.com/reel/Dfxb4WpNAAR/
+STATUS: OK
+DURATION: 0:15   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:15] *Outro*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] wo ds
+[0:00 - 0:15] Connecting to my higher self
+[0:00 - 0:15] to end period cramps and
+[0:00 - 0:15] bring equal women pay @
+[0:02] AVIRA
+[0:02] "कक ५
+[0:02] कान
+[0:08] Nene” '

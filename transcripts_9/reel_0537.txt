@@ -1,0 +1,24 @@
+# model: ggml-large-v3
+========================================================================
+[537] https://www.instagram.com/reel/Der9bHdTZXw/
+STATUS: OK
+DURATION: 0:06   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] She says sorry even when she sneezes
+[0:03 - 0:05] while you fart and blame on others.
+[0:05 - 0:06] There is a difference.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] 74 ay
+[0:00 - 0:01] She says sorry even
+[0:00 - 0:01] हैः
+[0:01] fs धर
+[0:02] when she sneezes,
+[0:02] aut
+[0:03] while you fart and
+[0:04] blame on others,
+[0:05] there is a difference.
+[0:05 - 0:06] ans
+[0:06] Some girls have so

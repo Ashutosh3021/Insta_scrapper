@@ -1,0 +1,78 @@
+# model: ggml-large-v3
+========================================================================
+[586] https://www.instagram.com/reel/DcvG3JYNQAx/
+STATUS: OK
+DURATION: 0:39   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] अंड्यू पान सो करूरों पे जल्दी बिचवा दीजिए क्लाइन का ओडर आ रहा है। आप मुझे बिला रहे हैं। मैं आपका दोस्त हूँ। आप जैसे बिखारी का मेरे जैसे अमीर मिलेनियर दोस्त होगा। मजाक अच्छा कर लेते हैं आपको कॉमेडी ट्राइ करन
+[0:30 - 0:39] रोड 50 पैसे, 50 पैसे मैंने आप सुधार लिये हैं गुटका खाने के लिए, आप मज़ाग अच्छा कर लेते हैं, ये सब छोटी बाते आप मेरे आफिस से बाहर रखिये, वाचमैन इन्हें निकालिये
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:02] ignore
+[0:00 - 0:03] Me pract
+[0:00 - 0:03] ing how |
+[0:00 - 0:03] my fri
+[0:00 - 0:38] s | my friend after getting rich @
+[0:02] की कफ
+[0:03] jore
+[0:03] fter ge
+[0:04] mn tp
+[0:04 - 0:11] ‘Me practicing how I will ignore
+[0:05] awd,
+[0:07] Me prac
+[0:07] ing how | wil
+[0:07] nore
+[0:10] Me practi
+[0:10] ing how I will ignore
+[0:10] Ae Ff
+[0:11] ताज
+[0:12] Vas
+[0:12 - 0:14] Me pra
+[0:12 - 0:14] ing how |
+[0:12 - 0:14] jore
+[0:12 - 0:14] my fr
+[0:12 - 0:14] fter ge
+[0:13] Me practicing how | wi
+[0:13] nore
+[0:13] git
+[0:15 - 0:16] है Me practicing how | will ignore
+[0:17] my frien
+[0:17 - 0:19] Me prac
+[0:17 - 0:19] ing how |
+[0:17 - 0:19] jore
+[0:17 - 0:19] fter ge
+[0:18] nore
+[0:18] my fi
+[0:19] my fr
+[0:20] pee
+[0:20 - 0:21] | Me practicing how | will ignore
+[0:22] jore
+[0:22] my fr
+[0:22] fter ge
+[0:22 - 0:25] Me prac
+[0:22 - 0:25] ing how |
+[0:23] nore
+[0:23] my fi
+[0:24 - 0:28] ed) practicing how | will ignore
+[0:25] jore
+[0:25] my fr
+[0:25] fter ge
+[0:26] प्र
+[0:29] Me prac
+[0:29] 1g how | wi
+[0:29 - 0:33] nore
+[0:30] 2 practicing how | wi
+[0:31] ९ practicing how | will ignore
+[0:32 - 0:33] Me pract
+[0:32 - 0:33] g how | wi
+[0:33] awa
+[0:33] tte
+[0:34 - 0:36] Me practicing how I will ignore
+[0:35] “tut
+[0:37] g how |
+[0:37] nore
+[0:37] my fi
+[0:37 - 0:38] Me practi
+[0:38] ing how I will ignore

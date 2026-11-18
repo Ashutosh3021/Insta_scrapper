@@ -1,0 +1,14 @@
+# model: ggml-large-v3
+========================================================================
+[281] https://www.instagram.com/reel/Dfrn6RaPFpe/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] जो औरते कहती हैं कि मुझे बहुत साथ कुट्टे पसंद हैं, I love pet dogs, मुझे pet dogs बहुत पसंद हैं, तो मेरा उनसे यह सवाल है कि बाई आपने कुट्टों से सीखा क्या, आपने loyalty तो सीखी नहीं, आपने बस सीखा doggy position, so I mean कुट्टे पालो लेकिन कुट्टों से सीखोग
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ci 4
+[0:00 - 0:21] Women who love pet dogs “*
+[0:11] sie

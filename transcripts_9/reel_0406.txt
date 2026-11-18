@@ -1,0 +1,46 @@
+# model: ggml-large-v3
+========================================================================
+[406] https://www.instagram.com/reel/Dfm6Qf0vjpL/
+STATUS: OK
+DURATION: 0:59   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:01] गर्ल्स इस रिल को स्किप कर सकती है
+[0:01 - 0:05] अगली विमेन और अगली मैन आर दा वन्स दा चीट अलट
+[0:05 - 0:09] बिकॉस दा पर्सन दा टेक्स कियर अफ हिस और हर बॉडी
+[0:09 - 0:12] तो उसको इतनी सेंस रहती है कि बाई मैं डिसिप्लेंड हूँ
+[0:12 - 0:12] मैंको डाइट लेनी है, मैंको वाकाउ�
+[0:12 - 0:15] मैं को डाइट लेनी है, मैं को वाकाउट करना है, मैं को अपने आप पर काम करना है
+[0:15 - 0:20] तो जब किसी वन्दे के लिए डिसिप्लिन रहता है ना, तो वो डिसिप्लिन के चलते चीट नहीं करता है
+[0:20 - 0:23] because he has control over his or her emotions
+[0:23 - 0:23] तो जितने भी अगली आपको लोग मिलेंगे ना, ये ही होत
+[0:23 - 0:28] तो जितने भी अगली आपको लोग मिलेंगे ना, ये ही होते हैं जो आपके जिंदगी में ड्रामा लाते हैं
+[0:28 - 0:34] और जो pretty लोग होते हैं, या फिर जो लोग अपनी take care करते हैं, वो ऐसा बहुत कम करते हैं, very less
+[0:34 - 0:38] अगर आप numbers भी उठा के देखो, तो अगली husband और अगली wife cheat
+[0:38 - 0:43] handsome people, हमेशा loyal रहते हैं, आपने देखा होगा, वो कई मूँ मारते नहीं है दर उदर
+[0:43 - 0:48] बहुत कम होते होंगे, हाँ, there are exceptions, but this is the truth
+[0:48 - 0:51] so if you are dating someone, date with the standards, that is what I am saying
+[0:51 - 0:59] or it is very hard to get a loyal person, or if you get one, just don't cheat, that is my advice
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:19] । Ugly people cheat more
+[0:02] Re bik,
+[0:03] a fa
+[0:05] om 2
+[0:17] wea
+[0:20] gl 52106 cheat more
+[0:21] le cheat more
+[0:21] a Ugly peop
+[0:22 - 0:58] Nl Ugly people cheat more
+[0:25] es ue
+[0:25] \ wae
+[0:27] Bh cee
+[0:28] wk a
+[0:37] ra 4
+[0:38] yay
+[0:43] नकल
+[0:43] cheat more
+[0:43] हे (७
+[0:47] हू seek cheat more
+[0:51] | Ugly ane cheat more

@@ -1,0 +1,28 @@
+# model: ggml-large-v3
+========================================================================
+[127] https://www.instagram.com/reel/DfxZi7_Nr-c/
+STATUS: OK
+DURATION: 0:10   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:04] Who remembers back in physical education classes when we were small kids we used
+[0:04 - 0:10] to have races and the teacher would get naked and chase us
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:08] 4 Listen till the end rm
+[0:02] faF
+[0:03] on SB
+[0:03 - 0:04] ismall Kids?welusedito)
+[0:05] tcachar
+[0:05] J Listen till the oad हा
+[0:05] fat
+[0:06] raccsand
+[0:06] avd
+[0:07] would
+[0:07] tat '
+[0:07] 4 डक
+[0:09] Listen till the aiid) कप
+[0:09] 4, है!
+[0:09] cy “6
+[0:09] ह शी!

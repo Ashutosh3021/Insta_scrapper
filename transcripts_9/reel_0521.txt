@@ -1,0 +1,18 @@
+# model: ggml-large-v3
+========================================================================
+[521] https://www.instagram.com/reel/DewuseFt6iY/
+STATUS: OK
+DURATION: 0:13   SPOKEN LANGUAGE: nn
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:02] Læs merks på min kanal.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] aif
+[0:01] “a उन 7
+[0:05] att
+[0:06] nm 4
+[0:06] any,
+[0:10] Grom,
+[0:11] 4 iq

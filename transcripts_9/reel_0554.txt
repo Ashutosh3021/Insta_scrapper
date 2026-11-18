@@ -1,0 +1,17 @@
+# model: ggml-large-v3
+========================================================================
+[554] https://www.instagram.com/reel/DdMMdyaNh1q/
+STATUS: OK
+DURATION: 0:11   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:05 - 0:05] *Click*
+[0:05 - 0:09] *Click*
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] igs है
+[0:01] हरे 4
+[0:01 - 0:02] @indian_khaby55
+[0:02] sad
+[0:03] Khaby55

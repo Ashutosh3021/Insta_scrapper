@@ -1,0 +1,12 @@
+# model: ggml-large-v3
+========================================================================
+[463] https://www.instagram.com/reel/Dfhd0g5PMAs/
+STATUS: OK
+DURATION: 0:04   SPOKEN LANGUAGE: ur
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:03] اگر چار لوگ کچھ بول رہے ہیں تو پانچ بار بن کے تم بھی شروع ہو جاؤ
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[no on-screen text found]

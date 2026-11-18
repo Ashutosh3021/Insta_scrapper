@@ -1,0 +1,15 @@
+# model: ggml-large-v3
+========================================================================
+[190] https://www.instagram.com/reel/Dfw4il4tpCV/
+STATUS: OK
+DURATION: 0:18   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:18] Life हमेशा एक day की तरह होती है, sometimes ये up रहती है, sometimes ये down रहती है, sometimes ये hard रहती है, लेकिन हमेशा ये छोटी होती है, and no matter ये कितनी hard हो, आप इसको beat कर ही दोगे।
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:13] “4 Life is like a dick
+[0:04] Pet
+[0:14] Ts is like a dick
+[0:17] Life is like a dick

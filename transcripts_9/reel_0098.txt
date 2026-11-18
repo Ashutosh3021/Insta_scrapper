@@ -1,0 +1,49 @@
+# model: ggml-large-v3
+========================================================================
+[98] https://www.instagram.com/reel/Dfxb0SDtKz0/
+STATUS: OK
+DURATION: 0:21   SPOKEN LANGUAGE: en
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:20] Send this reel to your tall friend. You're so tall. You're so nonchalant. You're so cool. I'm blessed to have you in my life. When you roam around with me, all the girls look at us. I know you are the chick magnet. Love you bro. I love how tall are you. Thanks for being tall.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] [tosyour)
+[0:01] sYoulso\tall’y
+[0:01 - 0:20] end this to a tall friend ||
+[0:02] ष्छो्‌
+[0:02] कर 1
+[0:04] pyoulso naar yOu)
+[0:05] byoulsononchalantyyoul
+[0:05] , THae
+[0:06] cool)
+[0:07] SUF
+[0:08] Py a
+[0:08] lin\my lifes
+[0:09] Whenyou
+[0:09] pr around
+[0:10] wien}
+[0:10] ‘around\with\
+[0:10 - 0:16] (GAVIRAL RAJANAT:
+[0:11] allithe/girlslookiat,
+[0:11] है ऐप
+[0:12] ime;
+[0:12] faltthe
+[0:12] 5७७
+[0:13] nh \e
+[0:13] hie
+[0:14] usst/know;
+[0:14] Sar
+[0:15] ithe/chick magnet.
+[0:15] ५ बे
+[0:16] syou'D)
+[0:16] ॥01॥0५८|
+[0:16] pares
+[0:16] Zoe |
+[0:16 - 0:17] how
+[0:17] Love’ ‘you! ro. llove
+[0:17 - 0:20] ANAT
+[0:18] tall are you
+[0:19 - 0:20] hanks for being tall
+[0:20] Lia

@@ -1,0 +1,13 @@
+# model: ggml-large-v3
+========================================================================
+[513] https://www.instagram.com/reel/DeyvjcKNt36/
+STATUS: OK
+DURATION: 0:24   SPOKEN LANGUAGE: nn
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:12] Fertiliseringsprocedure
+[0:12 - 0:24] Thank you for watching. Please subscribe to my channel.
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[no on-screen text found]

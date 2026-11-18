@@ -1,0 +1,63 @@
+# model: ggml-large-v3
+========================================================================
+[458] https://www.instagram.com/reel/DfjZErvtV32/
+STATUS: OK
+DURATION: 0:40   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] तो गाइस मैं 22 साल एक महीने का हो चुका हूँ और अल्लेडी मुझे लगने लगा है कि मैं अंकल हूँ क्योंकि मैं केवल जिम में जाता हूँ तो वहाँ भी 17-18 साल की लोड़े मिलते हैं बाहर जाता हूँ वहाँ भी मेरे से छोटे लोगी मिलते हैं तो मैं को अंकल वा
+[0:30 - 0:36] आ रहा है 2026 में तो वह आउटडेटेड है तो उस टाइम की फीलिंग आती है मुझे जैसे पुराना टीवी होता है पता
+[0:36 - 0:40] नहीं भाई 20 साल में उनको बंधा लगने लगा तो 30 40 50 साल में क्या होगा मेरा
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00] Ge, a
+[0:00 - 0:08] I feel like an uncle being 22 years old
+[0:03] AEP
+[0:03] uncle being 22 years old
+[0:03] Ifeellikea
+[0:03] vis)
+[0:05] Ase
+[0:06] feel like a
+[0:06] incl
+[0:06] eing 22 years old
+[0:06] i. ५ है
+[0:07] years old
+[0:07] NS ३५
+[0:07] VAN
+[0:08] kis
+[0:08] Kany
+[0:08] awe”
+[0:09] Ifeel like an uncle
+[0:09] हू -s
+[0:09 - 0:10] 20018) 22 years old
+[0:10] ji like
+[0:10] an uncle bein
+[0:10] fof
+[0:10] Nes
+[0:11 - 0:17] | | feel like an uncle being 22 years old
+[0:12] a _ अं
+[0:13] ery
+[0:15] an uncle being 22 ye
+[0:15] feel like
+[0:15] rs old
+[0:18 - 0:21] » | feellike anuncle being 22 years old
+[0:20] ree. ५
+[0:20] y Qe
+[0:21] > rm ७
+[0:21] 7" हि
+[0:22 - 0:40] I feel like an uncle being 22 years old
+[0:24] feel like an uncle bein:
+[0:24] 9 22 years old
+[0:28] ३७७)
+[0:30] years old
+[0:30] feel bs
+[0:30] e an uncle being 22
+[0:30] | 2, धर
+[0:31] I feel like
+[0:33] ery
+[0:35] oot
+[0:36] Nase
+[0:37] GOLA
+[0:37] छ्छ
+[0:38] aay

@@ -1,0 +1,30 @@
+# model: ggml-large-v3
+========================================================================
+[373] https://www.instagram.com/reel/DfpAWOlvI7o/
+STATUS: OK
+DURATION: 0:35   SPOKEN LANGUAGE: hi
+========================================================================
+
+--- SPOKEN TRANSCRIPT ---
+[0:00 - 0:30] आपकी जिंदगी अम्बानी से बेटर बन जाएगी जब आप अपने पास्ट एक्स्पीरियंस के बेसिस पर डिसिज़न लोगे ना कि करेंट एमोशनल स्टेट के बेसिस पर तब आपको समझ आएगा कि आपका जो माइंड है इतना होशियार है कि आपको बार-बार सेम �
+[0:30 - 0:35] हो जाओगे समय रहना से ज्यादा और आप हैंसम हो जाओगे किसी भी बंद से ज्यादा ट्राय करना
+
+--- ON-SCREEN TEXT (OCR, approximate) ---
+[0:00 - 0:17] ‘Your life will change after this
+[0:03] My os
+[0:03] heed
+[0:05] छः न
+[0:06] Yourlife at after this
+[0:08] ww 4
+[0:14] Pos
+[0:19] Your life will chang
+[0:20] ge after this
+[0:21] 10220 will change after this
+[0:24] J ivr
+[0:24 - 0:35] हे Your life will change after this
+[0:26] het
+[0:27] | एकता change after this
+[0:28] tis
+[0:29] yal
+[0:29] ipa
+[0:31] फेक!
